@@ -1,0 +1,163 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1042",
+  "title": "Regulation and investment of cryptocurrency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Public Retirement System (INPRS)",
+    "COURTS; Generally",
+    "FINANCIAL SERVICES; Currency",
+    "LOCAL GOVERNMENT; Generally",
+    "PENSIONS AND RETIREMENT BENEFITS; Public Retirement System (INPRS)",
+    "TASK FORCES AND COMMITTEES; New"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that the administrator or manager of the following shall offer a cryptocurrency exchange traded fund as a regular investment program: (1) The legislators' defined contribution plan. (2) The Hoosier START plan. (3) The public employees' retirement fund hybrid plan. (4) The public employees' retirement fund My Choice plan. (5) The teachers' retirement fund hybrid plan (including the teachers' pre-1996 account). (6) The teachers' retirement fund My Choice plan. (7) The 529 education savings plan. Provides that the assets of the following may be invested in cryptocurrency exchange traded funds: (1) The legislators' defined benefit plan. (2) The state excise police, gaming agent, gaming control officer, and conservation enforcement officers' retirement plan. (3) The special death benefit fund. (4) The public employees' retirement fund hybrid plan. (5) The pension relief fund. (6) The teachers' retirement fund hybrid plan (including the teachers' pre-1996 account). (7) The judges' retirement system. (8) The prosecuting attorneys retirement fund. (9) The 1977 police officers' and firefighters' pension and disability fund. Provides that the treasurer of state may invest the assets of the following in stablecoin cryptocurrency exchange traded funds: (1) The trust Indiana investment pool. (2) The next generation trust fund. (3) The state police benefit system. Establishes the blockchain and digital assets task force and provides that the task force shall: (1) evaluate governmental use cases, consumer protection, tax administration, and investment governance for digital assets; and (2) develop, and submit to the governor and the legislative council, recommended legislation for introduction in the 2027 legislation session establishing not more than two state or local blockchain pilot projects for the purpose of testing blockchain implementation in Indiana. Prohibits a public agency, county, municipality, or township from adopting or enforcing a rule, ordinance, or other regulation that does any of the following: (1) Prohibits, restricts, or impairs an individual's ability to: (A) accept digital assets as a method of payment for legal goods and services; or (B) take custody of digital assets using specified technologies. (2) Prohibits, restricts, or impairs the ability of an individual or business to engage in specified activities pertaining to blockchains. (3) Imposes taxes or fees on: (A) use or acceptance of digital assets as a method of payment for legal goods and services; or (B) taking or maintaining custody of digital assets using a self-hosted wallet or hardware wallet; that are not applicable to comparable financial transactions that do not involve digital assets. (4) Prohibits a digital asset mining business from operating in an area zoned for industrial use, or subjects a digital asset mining business located in an area zoned for industrial use to noise restrictions that are not applicable to other businesses operating in an area zoned for industrial use. (5) Prohibits private digital asset mining in a private residence located in an area that is zoned for residential use, or subjects private digital asset mining in a residence located in an area zoned for residential use to noise restrictions that do not apply to other residences in an area zoned for residential use. Provides that development or use of software for noncustodial transfer of digital assets does not constitute money transmission for purposes of statutes regarding licensure of money transmitters. Provides that a court may compel a person to disclose a digital asset private key only if no other admissible information is sufficient to provide access to the digital asset."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1042"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Financial Institutions",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:52Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Teshka, Judy, VanNatter",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:52Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Pierce K",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyle Pierce",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kyle Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Teshka",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Teshka\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Judy",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Judy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heath VanNatter",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heath VanNatter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1042/HB1042.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1042.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1042.01.INTR/HB1042.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: HB1042.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1042.01.INTR/HB1042.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1042",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1042",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:52Z"
+  }
+}

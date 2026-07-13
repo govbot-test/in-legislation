@@ -1,0 +1,161 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1033",
+  "title": "Various judicial matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS, COMMISSIONS, AND COUNCILS; Generally",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Judicial Nominating Commission",
+    "COUNTIES; Marion",
+    "COURTS; Judges",
+    "COURTS; Magistrates",
+    "COURTS; Trial Courts",
+    "LOCAL GOVERNMENT; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires that, in a county having a consolidated city, the chief judge must: (1) be appointed to the community corrections advisory board; and (2) appoint the second judge and a mental health representative. Defines \"full court\" as the total of all Marion County superior court judges who are appointed and serving as judges. Specifies that if a newly appointed judge is filling a vacancy of a judge whose term ends the same year as the appointment, the newly appointed judge shall serve a term that expires on December 31 of the sixth full year following the appointment. Requires the Marion County judicial selection committee (judicial selection committee) to nominate a minimum of three candidates to the governor when a judicial vacancy exists and allows the governor to appoint any of the nominated candidates when filling more than one vacancy. Replaces the term \"presiding judge\" with \"chief judge\" within the Marion County superior court. Requires the judicial selection committee to determine that a judge is suitable to retain judicial office before a judge's request for retention may be placed on the ballot. Establishes a procedure with specific deadlines for a judge who wishes to stand for retention in 2026. Repeals and replaces a provision concerning the procedure to select the Marion County judicial executive committee (executive committee) and certain court provisions. Provides that, for an executive committee starting a term on January 1, 2027, and for the selection of each committee thereafter, the full court shall meet not later than November 15 in the final year of the executive committee's term to select the next executive committee. Requires a two-thirds vote of the sitting judges who will hold office on January 1 of the next year to select members of the executive committee. Requires the judicial selection committee to appoint the chief judge. Increases the term of an executive committee member of the Marion County judiciary from two years to three years. Specifies which duties are the responsibility of the full court and which are to be determined by a trial judge. Describes the duties and authority of the executive committee. Provides that any action taken by the executive committee may only be overruled by a majority vote of 85% of the full court sitting at the time the vote is taken. Provides that a majority vote of 85% of the full court, serving at the time the vote is taken, is required to remove a member of the executive committee. Removes a requirement that the executive committee requires the approval of two-thirds of the judges to determine the number of judicial officers and personnel required to serve the court. Provides that the judge of the circuit court has exclusive authority to appoint commissioners or magistrates allocated to the circuit court. Provides that the executive committee has exclusive authority to appoint commissioners or magistrates allocated to the superior court, and the commissioners and magistrates appointed serve at the pleasure of the executive committee. Specifies that the executive committee has final authority for all employment decisions regarding commissioners and magistrates. Repeals a provision that allows the presiding judge to appoint a magistrate and allows the executive committee to appoint 28 magistrates. Repeals a provision that allows a party to a superior court proceeding to request an elected judge to preside over the proceeding instead of the magistrate. Requires a voting member of the justice reinvestment advisory council to cast a vote in person. Requires that, in a county having a consolidated city, the chief judge or a judge appointed by the chief judge be the chair of the local justice reinvestment advisory council. Provides that a local or regional advisory council may only take action upon the affirmative vote of the members and a member must cast a vote in person. Makes conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1033"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Lopez",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Courts and Criminal Code",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Courts and Criminal Code",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Jeter, Steuerwald",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "Reassigned to Committee on Judiciary",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Danny Lopez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Danny Lopez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Jeter",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Jeter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Steuerwald",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory Steuerwald\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1033/HB1033.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1033.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1033.01.INTR/HB1033.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1033",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1033",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:51Z"
+  }
+}

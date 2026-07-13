@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representative Jeter",
+    "occurred_at": "2025-12-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/1",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0001",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 1"
+}

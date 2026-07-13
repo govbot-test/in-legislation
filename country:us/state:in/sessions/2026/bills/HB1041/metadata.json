@@ -1,0 +1,150 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1041",
+  "title": "Line maintenance in public rights-of-way.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "LOCAL GOVERNMENT; Contracts, Procurements, and Purchases",
+    "LOCAL GOVERNMENT; Generally",
+    "TRANSPORTATION; Infrastructure; Highways, Roads, and Streets",
+    "UTILITIES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Sets forth minimum standards and requirements for the installation and maintenance of communications service or utility service facilities (facilities) in a public right-of-way. Defines a \"permittee\" as: (1) a person to whom an initial permit or authorization for the installation of a facility in a public right-of-way is granted by a unit; or (2) a service provider responsible for maintaining a facility that has been installed in a public right-of-way. Defines a \"line pollution violation\" as a violation attributable to a permittee and involving: (1) noncompliance with any standard or requirement set forth in the bill; or (2) the presence of any damaged, abandoned, loose, or improperly secured facilities within a public right-of-way. Provides that a permittee responsible for a line pollution violation is liable to the unit owning the public right-of-way for a fine in an amount determined by the unit, but not to exceed: (1) $500 per violation for each day the violation remains uncured; or (2) a total fine of $2,500. Requires a permittee to ensure that any person responsible for installing, replacing, relocating, or repairing any underground facility that is owned or operated by the permittee and located within a public right-of-way complies with the requirements set forth in: (1) Indiana's statute concerning underground utility facilities; and (2) any applicable local ordinance or regulation; with respect to any work involving drilling, trenching, boring, hand digging, or plowing."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1041"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representatives Greene, Bartels, Shonkwiler",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Davis",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities, Energy and Telecommunications",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michelle Davis",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michelle Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robb Greene",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robb Greene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Bartels",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Bartels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alaina Shonkwiler",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alaina Shonkwiler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1041/HB1041.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1041.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1041.01.INTR/HB1041.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1041",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1041",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:51Z"
+  }
+}

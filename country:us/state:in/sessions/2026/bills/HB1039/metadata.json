@@ -1,0 +1,155 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1039",
+  "title": "Various immigration matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "COUNTY GOVERNMENT",
+    "COURTS; Judges",
+    "FEDERAL GOVERNMENT; Citizenship and Immigration",
+    "HIGHER EDUCATION; Colleges and Universities (Including Ivy Tech)",
+    "LAW ENFORCEMENT; Generally",
+    "LAW ENFORCEMENT; Municipal",
+    "STATE ELECTED OFFICIALS; Attorney General",
+    "STATE GOVERNMENT; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that if a law enforcement officer, governmental body, or postsecondary educational institution is made a party to a civil suit and the attorney general determines that the suit has arisen out of certain acts, the attorney general shall defend the law enforcement officer, governmental body, or postsecondary educational institution throughout the action. Clarifies that the enforcement of federal immigration laws may be carried out by federal, state, or local law enforcement. Removes the mens rea standard in the statute concerning governmental bodies or postsecondary institutions violating the citizenship and immigration status information and enforcement of federal laws chapter. Provides that a governmental body that has the custody of an individual who is the subject of an immigration detainer request shall: (1) provide the judge authorized to grant or deny the individual's release on bail notice that the individual is subject to an immigration detainer request; (2) record in the individual's case file that the individual is subject to an immigration detainer request; (3) comply with the immigration detainer request; and (4) inform the individual that the individual is being held pursuant to an immigration detainer request. Provides immunity to a governmental body or an employee of a governmental body for any action taken concerning an immigration detainer request. Prohibits a political subdivision from taking certain actions to aid, assist, incentivize, or facilitate the migration of any alien or class of aliens into Indiana. Provides that if the attorney general determines that probable cause exists that a governmental entity has not complied with an immigration detention request, the attorney general may bring a court action to: (1) enjoin an act or practice constituting a violation of an immigration detention request; and (2) impose a civil penalty for noncompliance with an immigration detention request. Requires a judge who receives notice that an individual is subject to an immigration detainer request to ensure that the notice of the immigration detainer request is recorded in the court's record. Prohibits an employer from knowingly or intentionally recruiting, hiring, or employing an unauthorized alien. Provides that if the attorney general determines that probable cause exists that an employer has recruited, hired, or employed an unauthorized alien, the attorney general may enjoin the action and seek the suspension of the employer's operating authorizations. Provides that a governmental entity that employs a prosecuting official is entitled to investigative costs and costs in an indecent nuisance action."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1039"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Prescott",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Bartels, Jeter, Davis",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J.D. Prescott",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J.D. Prescott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Bartels",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Bartels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Jeter",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Jeter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Davis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1039/HB1039.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1039.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1039.01.INTR/HB1039.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1039",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1039",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:51Z"
+  }
+}
