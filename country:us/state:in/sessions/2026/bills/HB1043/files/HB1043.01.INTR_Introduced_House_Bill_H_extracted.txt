@@ -1,0 +1,333 @@
+Title: HOUSE BILL No. 1043
+Official Title: HOUSE BILL No. 1043
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 14-8-2-64.5; IC 14-25-18.
+Synopsis: Data center water regulation. Defines "data center".
+Prohibits a person from operating a data center in Indiana without
+obtaining a consumption permit from the department of natural
+resources (department). Sets forth information that must be included in
+a consumption permit application. Establishes procedures for the
+department to approve or deny a consumption permit application.
+Provides that a consumption permit may be transferred under certain
+circumstances. Provides that a person may consult with the department
+to assess the viability of a proposed data center with respect to water
+consumption. Allows the natural resources commission to adopt rules
+to implement this bill.
+Effective: July 1, 2026.
+Burton
+December 2, 2025, read first time and referred to Committee on Natural Resources.
+2026 IN 1043—LS 6203/DI 153
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1043
+A BILL FOR AN ACT to amend the Indiana Code concerning
+natural and cultural resources.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 14-8-2-64.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 64.5. "Data center", for purposes of IC 14-25-18,
+4 means a facility:
+5 (1) the primary services of which are the storage,
+6 management, and processing of digital data;
+7 (2) that is used to house:
+8 (A) computer and network systems, including associated
+9 components, such as servers, network equipment and
+10 appliances, telecommunications, and data storage systems;
+11 (B) systems for monitoring and managing infrastructure
+12 performance;
+13 (C) Internet related equipment and services;
+14 (D) data communications connections;
+15 (E) environmental controls;
+16 (F) fire protection systems; and
+17 (G) security systems and services; and
+2026 IN 1043—LS 6203/DI 153
+2
+1 (3) that has the capability of consuming at least ten million
+2 (10,000,000) gallons of water in one (1) month.
+3 SECTION 2. IC 14-25-18 IS ADDED TO THE INDIANA CODE
+4 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]:
+6 Chapter 18. Data Center Water Regulation
+7 Sec. 1. A person may not operate a data center in Indiana
+8 without obtaining a consumption permit from the department. A
+9 person must obtain a new consumption permit for each data center
+10 operated by the person.
+11 Sec. 2. (a) A person may consult with the department to evaluate
+12 the viability of a proposed data center with respect to water
+13 consumption.
+14 (b) Upon request of a person described in subsection (a), the
+15 department shall provide a written evaluation of a proposed data
+16 center with respect to water consumption.
+17 (c) If a person requests a written evaluation under subsection
+18 (b), the department may request information and documents
+19 related to the proposed data center from the person, including:
+20 (1) a description of the project;
+21 (2) the project's estimated:
+22 (A) water use rates; and
+23 (B) volumes for the:
+24 (i) maximum day;
+25 (ii) maximum month; and
+26 (iii) average year; and
+27 (3) the anticipated source of water.
+28 (d) Information and documents exchanged under this section
+29 are confidential.
+30 Sec. 3. (a) A person may apply to the department for a
+31 consumption permit in a form and manner prescribed by the
+32 department.
+33 (b) An application under subsection (a) must include the
+34 following:
+35 (1) An application fee, as determined by the department.
+36 (2) The signature of the applicant.
+37 (3) A statement verifying that the information submitted is
+38 true, accurate, and complete to the best of the applicant's
+39 knowledge.
+40 (4) A description of the data center.
+41 (5) The data center's estimated:
+42 (A) water use rates; and
+2026 IN 1043—LS 6203/DI 153
+3
+1 (B) volumes for the:
+2 (i) maximum day;
+3 (ii) maximum month; and
+4 (iii) average year.
+5 (6) The data center's anticipated source of water.
+6 (7) Information demonstrating that the data center will
+7 protect the public health, safety, and welfare.
+8 (8) Information demonstrating that the data center will utilize
+9 technologies or measures to promote:
+10 (A) water conservation; and
+11 (B) watershed health.
+12 (c) An application fee paid under this section is not refundable
+13 by the department.
+14 (d) For purposes of subsection (b), technologies or measures that
+15 promote water conservation and watershed health include:
+16 (1) water efficient fixtures and practices;
+17 (2) recycling water before discharge;
+18 (3) partnering with local water utilities to use discharged
+19 water from the data center;
+20 (4) using reclaimed water;
+21 (5) installing closed loop systems; and
+22 (6) supporting water restoration and replenishment in local
+23 watersheds.
+24 Sec. 4. (a) The department shall review an application submitted
+25 under section 3 of this chapter. If the department determines that
+26 the application submitted under section 3 of this chapter is
+27 complete, the department shall notify the applicant.
+28 (b) The department shall return an application to the applicant
+29 if the department determines that the application is incomplete,
+30 inaccurate, or both.
+31 (c) If the department returns an application to an applicant
+32 under subsection (b), the department shall inform the applicant in
+33 writing that the applicant may file a corrected application not
+34 more than sixty (60) days after the receipt of the returned
+35 application.
+36 (d) Not later than ninety (90) days after notifying the applicant
+37 of a complete application as described in subsection (a), the
+38 department shall approve or deny the application.
+39 Sec. 5. The department may not approve an application if the
+40 data center that is the subject of the application will:
+41 (1) injure the public health, safety, and welfare; or
+42 (2) impair:
+2026 IN 1043—LS 6203/DI 153
+4
+1 (A) water conservation; or
+2 (B) watershed health.
+3 Sec. 6. If the department approves an application, the
+4 department shall issue to the applicant a consumption permit.
+5 Sec. 7. A consumption permit may be transferred or assigned
+6 from a person that operates a data center to another person that
+7 intends to operate the data center.
+8 Sec. 8. The commission may adopt rules under IC 4-22-2 to
+9 implement this chapter.
+2026 IN 1043—LS 6203/DI 153
+[DELETED:   D c w r D " c a c p f t d o n c p a E p f t6I]
+[DELETED:  t p s o w a t s s a s n e a6I]
+[DELETED:  v o a p d c w r t w t d m r i a d 3 ( A p m a t t d f  m A a u s ( m i t6I]
+[DELETED:  I d t t d c w a s u s 3 o t c i t s ( d a t r o t r a c a a d i s ( t6I]
+[DELETED:  6 I t d a a a t6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1043
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 14-8-2-64.5; IC 14-25-18.
+Synopsis: Data center water regulation. Defines "data center".
+Prohibits a person from operating a data center in Indiana without
+obtaining a consumption permit from the department of natural
+resources (department). Sets forth information that must be included in
+a consumption permit application. Establishes procedures for the
+department to approve or deny a consumption permit application.
+Provides that a consumption permit may be transferred under certain
+circumstances. Provides that a person may consult with the department
+to assess the viability of a proposed data center with respect to water
+consumption. Allows the natural resources commission to adopt rules
+to implement this bill.
+Effective: July 1, 2026.
+Burton
+December 2, 2025, read first time and referred to Committee on Natural Resources.
+2026 IN 1043—LS 6203/DI 153
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1043
+A BILL FOR AN ACT to amend the Indiana Code concerning
+natural and cultural resources.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 14-8-2-64.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 64.5. "Data center", for purposes of IC 14-25-18,
+4 means a facility:
+5 (1) the primary services of which are the storage,
+6 management, and processing of digital data;
+7 (2) that is used to house:
+8 (A) computer and network systems, including associated
+9 components, such as servers, network equipment and
+10 appliances, telecommunications, and data storage systems;
+11 (B) systems for monitoring and managing infrastructure
+12 performance;
+13 (C) Internet related equipment and services;
+14 (D) data communications connections;
+15 (E) environmental controls;
+16 (F) fire protection systems; and
+17 (G) security systems and services; and
+2026 IN 1043—LS 6203/DI 153
+
+2
+1 (3) that has the capability of consuming at least ten million
+2 (10,000,000) gallons of water in one (1) month.
+3 SECTION 2. IC 14-25-18 IS ADDED TO THE INDIANA CODE
+4 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]:
+6 Chapter 18. Data Center Water Regulation
+7 Sec. 1. A person may not operate a data center in Indiana
+8 without obtaining a consumption permit from the department. A
+9 person must obtain a new consumption permit for each data center
+10 operated by the person.
+11 Sec. 2. (a) A person may consult with the department to evaluate
+12 the viability of a proposed data center with respect to water
+13 consumption.
+14 (b) Upon request of a person described in subsection (a), the
+15 department shall provide a written evaluation of a proposed data
+16 center with respect to water consumption.
+17 (c) If a person requests a written evaluation under subsection
+18 (b), the department may request information and documents
+19 related to the proposed data center from the person, including:
+20 (1) a description of the project;
+21 (2) the project's estimated:
+22 (A) water use rates; and
+23 (B) volumes for the:
+24 (i) maximum day;
+25 (ii) maximum month; and
+26 (iii) average year; and
+27 (3) the anticipated source of water.
+28 (d) Information and documents exchanged under this section
+29 are confidential.
+30 Sec. 3. (a) A person may apply to the department for a
+31 consumption permit in a form and manner prescribed by the
+32 department.
+33 (b) An application under subsection (a) must include the
+34 following:
+35 (1) An application fee, as determined by the department.
+36 (2) The signature of the applicant.
+37 (3) A statement verifying that the information submitted is
+38 true, accurate, and complete to the best of the applicant's
+39 knowledge.
+40 (4) A description of the data center.
+41 (5) The data center's estimated:
+42 (A) water use rates; and
+2026 IN 1043—LS 6203/DI 153
+
+3
+1 (B) volumes for the:
+2 (i) maximum day;
+3 (ii) maximum month; and
+4 (iii) average year.
+5 (6) The data center's anticipated source of water.
+6 (7) Information demonstrating that the data center will
+7 protect the public health, safety, and welfare.
+8 (8) Information demonstrating that the data center will utilize
+9 technologies or measures to promote:
+10 (A) water conservation; and
+11 (B) watershed health.
+12 (c) An application fee paid under this section is not refundable
+13 by the department.
+14 (d) For purposes of subsection (b), technologies or measures that
+15 promote water conservation and watershed health include:
+16 (1) water efficient fixtures and practices;
+17 (2) recycling water before discharge;
+18 (3) partnering with local water utilities to use discharged
+19 water from the data center;
+20 (4) using reclaimed water;
+21 (5) installing closed loop systems; and
+22 (6) supporting water restoration and replenishment in local
+23 watersheds.
+24 Sec. 4. (a) The department shall review an application submitted
+25 under section 3 of this chapter. If the department determines that
+26 the application submitted under section 3 of this chapter is
+27 complete, the department shall notify the applicant.
+28 (b) The department shall return an application to the applicant
+29 if the department determines that the application is incomplete,
+30 inaccurate, or both.
+31 (c) If the department returns an application to an applicant
+32 under subsection (b), the department shall inform the applicant in
+33 writing that the applicant may file a corrected application not
+34 more than sixty (60) days after the receipt of the returned
+35 application.
+36 (d) Not later than ninety (90) days after notifying the applicant
+37 of a complete application as described in subsection (a), the
+38 department shall approve or deny the application.
+39 Sec. 5. The department may not approve an application if the
+40 data center that is the subject of the application will:
+41 (1) injure the public health, safety, and welfare; or
+42 (2) impair:
+2026 IN 1043—LS 6203/DI 153
+
+4
+1 (A) water conservation; or
+2 (B) watershed health.
+3 Sec. 6. If the department approves an application, the
+4 department shall issue to the applicant a consumption permit.
+5 Sec. 7. A consumption permit may be transferred or assigned
+6 from a person that operates a data center to another person that
+7 intends to operate the data center.
+8 Sec. 8. The commission may adopt rules under IC 4-22-2 to
+9 implement this chapter.
+2026 IN 1043—LS 6203/DI 153
+
+[DELETED:   D c w r D " c a c p f t d o n c p a E p f t6I]
+[DELETED:  t p s o w a t s s a s n e a6I]
+[DELETED:  v o a p d c w r t w t d m r i a d 3 ( A p m a t t d f  m A a u s ( m i t6I]
+[DELETED:  I d t t d c w a s u s 3 o t c i t s ( d a t r o t r a c a a d i s ( t6I]
+[DELETED:  6 I t d a a a t6I]

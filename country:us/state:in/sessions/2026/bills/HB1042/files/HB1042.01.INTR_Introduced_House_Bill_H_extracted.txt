@@ -1,0 +1,2822 @@
+Title: HOUSE BILL No. 1042
+Official Title: HOUSE BILL No. 1042
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 2-3.5; IC 2-5-56; IC 5-10; IC 5-10.3;
+IC 5-10.4; IC 5-13-9-11; IC 5-36; IC 8-14-15.2-9; IC 10-12-2;
+IC 21-9-5-10; IC 28-8-4.1-201; IC 33-38-6-23; IC 33-39-7-11;
+IC 34-46-7; IC 35-37-7; IC 36-1; IC 36-8-8-5.
+Synopsis: Regulation and investment of cryptocurrency. Provides that
+the administrator or manager of the following shall offer a
+cryptocurrency exchange traded fund as a regular investment program:
+(1) The legislators' defined contribution plan. (2) The Hoosier START
+plan. (3) The public employees' retirement fund hybrid plan. (4) The
+public employees' retirement fund My Choice plan. (5) The teachers'
+retirement fund hybrid plan (including the teachers' pre-1996 account).
+(6) The teachers' retirement fund My Choice plan. (7) The 529
+education savings plan. Provides that the assets of the following may
+be invested in cryptocurrency exchange traded funds: (1) The
+legislators' defined benefit plan. (2) The state excise police, gaming
+agent, gaming control officer, and conservation enforcement officers'
+retirement plan. (3) The special death benefit fund. (4) The public
+employees' retirement fund hybrid plan. (5) The pension relief fund. (6)
+The teachers' retirement fund hybrid plan (including the teachers'
+pre-1996 account). (7) The judges' retirement system. (8) The
+prosecuting attorneys retirement fund. (9) The 1977 police officers' and
+firefighters' pension and disability fund. Provides that the treasurer of
+state may invest the assets of the following in stablecoin
+cryptocurrency exchange traded funds: (1) The trust Indiana investment
+pool. (2) The next generation trust fund. (3) The state police benefit
+system. Establishes the blockchain and digital assets task force and
+(Continued next page)
+Effective: July 1, 2026.
+Pierce K, Teshka, Judy, VanNatter
+December 2, 2025, read first time and referred to Committee on Financial Institutions.
+2026 IN 1042—LS 6415/DI 119
+Digest Continued
+provides that the task force shall: (1) evaluate governmental use cases,
+consumer protection, tax administration, and investment governance
+for digital assets; and (2) develop, and submit to the governor and the
+legislative council, recommended legislation for introduction in the
+2027 legislation session establishing not more than two state or local
+blockchain pilot projects for the purpose of testing blockchain
+implementation in Indiana. Prohibits a public agency, county,
+municipality, or township from adopting or enforcing a rule, ordinance,
+or other regulation that does any of the following: (1) Prohibits,
+restricts, or impairs an individual's ability to: (A) accept digital assets
+as a method of payment for legal goods and services; or (B) take
+custody of digital assets using specified technologies. (2) Prohibits,
+restricts, or impairs the ability of an individual or business to engage
+in specified activities pertaining to blockchains. (3) Imposes taxes or
+fees on: (A) use or acceptance of digital assets as a method of payment
+for legal goods and services; or (B) taking or maintaining custody of
+digital assets using a self-hosted wallet or hardware wallet; that are not
+applicable to comparable financial transactions that do not involve
+digital assets. (4) Prohibits a digital asset mining business from
+operating in an area zoned for industrial use, or subjects a digital asset
+mining business located in an area zoned for industrial use to noise
+restrictions that are not applicable to other businesses operating in an
+area zoned for industrial use. (5) Prohibits private digital asset mining
+in a private residence located in an area that is zoned for residential
+use, or subjects private digital asset mining in a residence located in an
+area zoned for residential use to noise restrictions that do not apply to
+other residences in an area zoned for residential use. Provides that
+development or use of software for noncustodial transfer of digital
+assets does not constitute money transmission for purposes of statutes
+regarding licensure of money transmitters. Provides that a court may
+compel a person to disclose a digital asset private key only if no other
+admissible information is sufficient to provide access to the digital
+asset.
+22002266 IINN 11004422——LLSS 66441155//DDII 111199
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1042
+A BILL FOR AN ACT to amend the Indiana Code concerning state
+and local administration.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-3.5-3-4, AS AMENDED BY P.L.35-2012,
+2 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 4. (a) The board shall administer the system,
+4 which may be commingled for investment purposes with the other
+5 funds administered by the board.
+6 (b) The board shall:
+7 (1) determine eligibility for and make payments of benefits under
+8 this chapter, IC 2-3.5-4, and IC 2-3.5-5;
+9 (2) in accordance with the powers and duties granted in
+10 IC 5-10.3-3-7.1, IC 5-10.3-5-3 through IC 5-10.3-5-6,
+11 IC 5-10.5-4, and IC 5-10.5-6, administer the system;
+12 (3) provide by rule for the implementation of this chapter,
+13 IC 2-3.5-4, and IC 2-3.5-5; and
+14 (4) authorize deposits.
+15 (c) A determination by the board may be appealed under IC 4-21.5.
+2026 IN 1042—LS 6415/DI 119
+2
+1 (d) The powers and duties of:
+2 (1) the director and the actuary of the board; and
+3 (2) the attorney general;
+4 with respect to the fund are those specified in IC 5-10.3-3, IC 5-10.3-4,
+5 IC 5-10.5-4, and IC 5-10.5-6.
+6 (e) The board may hire additional personnel, including hearing
+7 officers, to assist in the implementation of this chapter.
+8 (f) Legislators' retirement system records of individual participants
+9 and participants' information are confidential, except for the name and
+10 years of service of a retirement system participant.
+11 (g) The board may invest the assets of the defined benefit fund
+12 in cryptocurrency exchange traded funds.
+13 SECTION 2. IC 2-3.5-5-3.3 IS ADDED TO THE INDIANA CODE
+14 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+15 1, 2026]: Sec. 3.3. (a) As used in this section, "cryptocurrency"
+16 means a virtual currency that:
+17 (1) is not issued by a central authority;
+18 (2) is designed to function as a medium of exchange; and
+19 (3) uses encryption technology to:
+20 (A) regulate the generation of units of currency;
+21 (B) verify fund transfers; and
+22 (C) prevent counterfeiting.
+23 The term does not include a stablecoin.
+24 (b) As used in this section, "stablecoin" means a virtual
+25 currency:
+26 (1) the value of which is tied to coin or paper legal tender
+27 issued by a central authority;
+28 (2) that is fully backed by assets held in reserve; and
+29 (3) that grants the holder the right to redeem the virtual
+30 currency for the legal tender described in subdivision (1) from
+31 the issuer of the virtual currency.
+32 (c) The board shall offer a cryptocurrency exchange traded fund
+33 that consists solely of one (1) or more cryptocurrencies as a regular
+34 investment program within the defined contribution fund.
+35 (d) The board may adopt requirements and rules that apply to
+36 the cryptocurrency exchange traded fund within the defined
+37 contribution fund, including the following:
+38 (1) The board's investment guidelines and limits for the
+39 cryptocurrency exchange traded fund.
+40 (2) A participant's selection of and changes to the
+41 participant's investment options.
+42 (3) The valuation of a participant's account.
+2026 IN 1042—LS 6415/DI 119
+3
+1 (4) The allocation and payment of administrative expenses for
+2 the cryptocurrency exchange traded fund.
+3 (e) The board shall determine the appropriate administrative
+4 fees to be charged to the participant's accounts.
+5 SECTION 3. IC 2-5-56 IS ADDED TO THE INDIANA CODE AS
+6 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2026]:
+8 Chapter 56. Blockchain and Digital Assets Task Force
+9 Sec. 1. As used in this chapter, "blockchain pilot project" refers
+10 to a pilot project described in section 6 of this chapter.
+11 Sec. 2. As used in this chapter, "controllable electronic record"
+12 has the meaning set forth in IC 26-1-12-102.
+13 Sec. 3. As used in this chapter, "digital asset" means:
+14 (1) virtual currency;
+15 (2) cryptocurrency, including stablecoins;
+16 (3) fungible tokens and nonfungible tokens; and
+17 (4) other assets that:
+18 (A) exist only in electronic form; and
+19 (B) confer economic, proprietary, or access rights or
+20 powers.
+21 Sec. 4. As used in this chapter, "task force" refers to the Indiana
+22 blockchain and digital assets task force established by section 5 of
+23 this chapter.
+24 Sec. 5. The Indiana blockchain and digital assets task force is
+25 established.
+26 Sec. 6. (a) During the 2026 legislative interim, the task force
+27 shall:
+28 (1) evaluate governmental use cases, consumer protection, tax
+29 administration, and investment governance for digital assets;
+30 and
+31 (2) not later than November 1, 2026:
+32 (A) develop; and
+33 (B) submit to:
+34 (i) the governor; and
+35 (ii) the legislative council in an electronic format under
+36 IC 5-14-6;
+37 recommended legislation for introduction in the 2027 legislative
+38 session establishing not more than two (2) state or local blockchain
+39 pilot projects for the purpose of testing blockchain implementation
+40 in Indiana.
+41 (b) The recommended legislation under subsection (a) must, at
+42 minimum, require the following with regard to a blockchain pilot
+2026 IN 1042—LS 6415/DI 119
+4
+1 project:
+2 (1) That the blockchain pilot project:
+3 (A) must comply with:
+4 (i) IC 26-1 with regard to controllable electronic records;
+5 and
+6 (ii) any statutory restrictions applicable to central bank
+7 digital currency; and
+8 (B) may not impose:
+9 (i) a mandate on private acceptance of digital assets; or
+10 (ii) state custody of private cryptographic keys.
+11 (2) That the department of financial institutions shall:
+12 (A) administer the blockchain pilot project; and
+13 (B) not later than July 1, 2028, submit to the task force a
+14 report regarding the results of the blockchain pilot project.
+15 (c) If one (1) or more blockchain pilot projects are established
+16 in accordance with legislation recommended by the task force
+17 under subsection (a), the task force shall, not later than November
+18 1, 2028:
+19 (1) evaluate the report submitted to the task force by the
+20 department of financial institutions under subsection
+21 (b)(2)(B); and
+22 (2) submit to:
+23 (A) the governor; and
+24 (B) the legislative council in an electronic format under
+25 IC 5-14-6;
+26 a report of the results of the pilot projects, the task force's
+27 findings regarding the pilot projects, and any recommended
+28 legislation with regard to wider blockchain implementation in
+29 Indiana.
+30 Sec. 7. This chapter expires December 31, 2028.
+31 SECTION 4. IC 5-10-1.1-4.3 IS ADDED TO THE INDIANA
+32 CODE AS A NEW SECTION TO READ AS FOLLOWS
+33 [EFFECTIVE JULY 1, 2026]: Sec. 4.3. (a) As used in this section,
+34 "cryptocurrency" means a virtual currency that:
+35 (1) is not issued by a central authority;
+36 (2) is designed to function as a medium of exchange; and
+37 (3) uses encryption technology to:
+38 (A) regulate the generation of units of currency;
+39 (B) verify fund transfers; and
+40 (C) prevent counterfeiting.
+41 The term does not include a stablecoin (as defined in
+42 IC 2-3.5-5-3.3).
+2026 IN 1042—LS 6415/DI 119
+5
+1 (b) The deferred compensation committee shall offer a
+2 cryptocurrency exchange traded fund that consists solely of one (1)
+3 or more cryptocurrencies as a regular investment program within
+4 the state employees' deferred compensation plan.
+5 (c) The deferred compensation committee may adopt
+6 requirements and rules that apply to the cryptocurrency exchange
+7 traded fund within the plan, including the following:
+8 (1) The deferred compensation committee's investment
+9 guidelines and limits for the cryptocurrency exchange traded
+10 fund.
+11 (2) A plan participant's selection of and changes to the plan
+12 participant's investment options.
+13 (3) The valuation of a plan participant's account.
+14 (4) The allocation and payment of administrative expenses for
+15 the cryptocurrency exchange traded fund.
+16 (d) The deferred compensation committee shall determine the
+17 appropriate administrative fees to be charged to the plan
+18 participant accounts.
+19 SECTION 5. IC 5-10-5.5-2, AS AMENDED BY P.L.193-2016,
+20 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2026]: Sec. 2. (a) There is hereby created a state excise police,
+22 gaming agent, gaming control officer, and conservation enforcement
+23 officers' retirement plan to establish a means of providing special
+24 retirement, disability and survivor benefits to employees of the
+25 department, the Indiana gaming commission, and the commission who
+26 are engaged exclusively in the performance of law enforcement duties.
+27 (b) The assets of the retirement plan created by this section may be
+28 commingled for investment purposes with the assets of other funds
+29 administered by the board.
+30 (c) The board may invest the assets of the retirement plan
+31 created by this section in cryptocurrency exchange traded funds.
+32 SECTION 6. IC 5-10-9.8-2, AS AMENDED BY P.L.99-2020,
+33 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2026]: Sec. 2. (a) The special death benefit fund is established
+35 for the purpose of paying lump sum death benefits under the following
+36 statutes:
+37 (1) IC 5-10-10.
+38 (2) IC 5-10-11.
+39 (3) IC 10-12-6.
+40 (4) IC 36-8-6-20.
+41 (5) IC 36-8-7-26.
+42 (6) IC 36-8-7.5-22.
+2026 IN 1042—LS 6415/DI 119
+6
+1 (7) IC 36-8-8-20.
+2 (b) The fund consists of:
+3 (1) appropriations by the general assembly;
+4 (2) fees remitted to the board under IC 35-33-8-3.2,
+5 IC 5-10-10-4.5, IC 5-10-10-4.8, and IC 5-10-10-4.9;
+6 (3) contributions from employers;
+7 (4) gifts; and
+8 (5) interest or other investment income earned on money in the
+9 fund.
+10 (c) The fund shall be administered by the board. The expenses of
+11 administering the fund shall be paid from money in the fund.
+12 (d) The board shall invest the money in the fund not currently
+13 needed to meet the obligations of the fund in the same manner as the
+14 board's other funds may be invested. Interest that accrues from these
+15 investments shall be deposited in the fund.
+16 (e) Money in the fund at the end of a state fiscal year does not revert
+17 to the state general fund.
+18 (f) The board may invest the assets of the fund in
+19 cryptocurrency exchange traded funds.
+20 SECTION 7. IC 5-10.3-5-3, AS AMENDED BY P.L.32-2021,
+21 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 3. (a) The board shall invest its assets with the
+23 care, skill, prudence, and diligence that a prudent person acting in a
+24 like capacity and familiar with such matters would use in the conduct
+25 of an enterprise of a like character with like aims. The board shall also
+26 diversify such investments in accordance with prudent investment
+27 standards.
+28 (b) The board may invest:
+29 (1) up to five percent (5%) of the excess of its cash working
+30 balance in debentures of the corporation for innovation
+31 development subject to IC 30-4-3-3; and
+32 (2) the assets of the retirement allowance account described
+33 in section 1 of this chapter in cryptocurrency exchange traded
+34 funds.
+35 This subsection does not authorize other funds or accounts to
+36 invest in cryptocurrency exchange traded funds.
+37 (c) The board is not subject to IC 4-13, IC 4-13.6, and IC 5-16 when
+38 managing real property as an investment. Any management agreements
+39 entered into by the board must ensure that the management agent acts
+40 in a prudent manner with regard to the purchase of goods and services.
+41 Contracts for the management of investment property shall be
+42 submitted to the governor, the attorney general, and the budget agency
+2026 IN 1042—LS 6415/DI 119
+7
+1 for approval. A contract for management of real property as an
+2 investment:
+3 (1) may not exceed a four (4) year term and must be based upon
+4 guidelines established by the board;
+5 (2) may provide that the property manager may collect rent and
+6 make disbursements for routine operating expenses such as
+7 utilities, cleaning, maintenance, and minor tenant finish needs;
+8 (3) must establish, consistent with the board's duty under
+9 IC 30-4-3-3(c), guidelines for the prudent management of
+10 expenditures related to routine operation and capital
+11 improvements; and
+12 (4) may provide specific guidelines for the board to purchase new
+13 properties, contract for the construction or repair of properties,
+14 and lease or sell properties without individual transactions
+15 requiring the approval of the governor, the attorney general, the
+16 Indiana department of administration, and the budget agency.
+17 However, each individual contract involving the purchase or sale
+18 of real property is subject to review and approval by the attorney
+19 general at the specific request of the attorney general.
+20 (d) Whenever the board takes bids in managing or selling real
+21 property, the board shall require a bid submitted by a trust (as defined
+22 in IC 30-4-1-1(a)) to identify all of the following:
+23 (1) Each beneficiary of the trust.
+24 (2) Each settlor empowered to revoke or modify the trust.
+25 SECTION 8. IC 5-10.3-5-3.5 IS ADDED TO THE INDIANA
+26 CODE AS A NEW SECTION TO READ AS FOLLOWS
+27 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. (a) As used in this section,
+28 "cryptocurrency" means a virtual currency that:
+29 (1) is not issued by a central authority;
+30 (2) is designed to function as a medium of exchange; and
+31 (3) uses encryption technology to:
+32 (A) regulate the generation of units of currency;
+33 (B) verify fund transfers; and
+34 (C) prevent counterfeiting.
+35 The term does not include a stablecoin (as defined in
+36 IC 2-3.5-5-3.3).
+37 (b) The board shall offer a cryptocurrency exchange traded
+38 fund that consists solely of one (1) or more cryptocurrencies as a
+39 regular investment program within the annuity savings account
+40 described in section 1 of this chapter.
+41 (c) The board may adopt requirements and rules that apply to
+42 the cryptocurrency exchange traded fund within the annuity
+2026 IN 1042—LS 6415/DI 119
+8
+1 savings account, including the following:
+2 (1) The board's investment guidelines and limits for the
+3 cryptocurrency exchange traded fund.
+4 (2) A member's selection of and changes to the member's
+5 investment options.
+6 (3) The valuation of a member's account.
+7 (4) The allocation and payment of administrative expenses for
+8 the cryptocurrency exchange traded fund.
+9 (d) The board shall determine the appropriate administrative
+10 fees to be charged to the member accounts.
+11 SECTION 9. IC 5-10.3-11-2, AS AMENDED BY P.L.35-2012,
+12 SECTION 83, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 2. (a) The state board shall:
+14 (1) make payments from the pension relief fund;
+15 (2) administer the pension relief fund in accordance with the
+16 powers and duties granted it in IC 5-10.3-5-3 through
+17 IC 5-10.3-5-6, IC 5-10.5-4, and IC 5-10.5-6; and
+18 (3) provide by rule and regulation for the implementation of this
+19 chapter.
+20 (b) The state board may invest the assets of the pension relief
+21 fund in cryptocurrency exchange traded funds.
+22 SECTION 10. IC 5-10.3-12-22.5 IS ADDED TO THE INDIANA
+23 CODE AS A NEW SECTION TO READ AS FOLLOWS
+24 [EFFECTIVE JULY 1, 2026]: Sec. 22.5. (a) As used in this section,
+25 "cryptocurrency" means a virtual currency that:
+26 (1) is not issued by a central authority;
+27 (2) is designed to function as a medium of exchange; and
+28 (3) uses encryption technology to:
+29 (A) regulate the generation of units of currency;
+30 (B) verify fund transfers; and
+31 (C) prevent counterfeiting.
+32 The term does not include a stablecoin (as defined in
+33 IC 2-3.5-5-3.3).
+34 (b) The board shall offer a cryptocurrency exchange traded
+35 fund that consists solely of one (1) or more cryptocurrencies as a
+36 regular investment program within the plan.
+37 (c) The board may adopt requirements and rules that apply to
+38 the cryptocurrency exchange traded fund within the plan,
+39 including the following:
+40 (1) The board's investment guidelines and limits for the
+41 cryptocurrency exchange traded fund.
+42 (2) A member's selection of and changes to the member's
+2026 IN 1042—LS 6415/DI 119
+9
+1 investment options.
+2 (3) The valuation of a member's account.
+3 (4) The allocation and payment of administrative expenses for
+4 the cryptocurrency exchange traded fund.
+5 (d) The board shall determine the appropriate administrative
+6 fees to be charged to the member accounts.
+7 SECTION 11. IC 5-10.4-3-10, AS ADDED BY P.L.2-2006,
+8 SECTION 28, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 10. (a) The board shall invest its assets with the
+10 care, skill, prudence, and diligence that a prudent person acting in a
+11 like capacity and familiar with such matters would use in the conduct
+12 of an enterprise of a like character with like aims. The board also shall
+13 diversify investments in accordance with prudent investment standards,
+14 subject to the limitations and restrictions set forth in IC 5-10.2-2-18.
+15 (b) The board may:
+16 (1) make or have investigations made concerning investments;
+17 and
+18 (2) contract for and employ investment counsel to advise and
+19 assist in the purchase and sale of securities; and
+20 (3) invest the assets of the retirement allowance accounts
+21 described in IC 5-10.4-2-2 in cryptocurrency exchange traded
+22 funds.
+23 This subsection does not authorize other funds or accounts to
+24 invest in cryptocurrency exchange traded funds.
+25 (c) The board is not subject to IC 4-13, IC 4-13.6, or IC 5-16 when
+26 managing real property as an investment. A management agreement
+27 entered into by the board shall ensure that the management agent acts
+28 in a prudent manner regarding the purchase of goods and services.
+29 Contracts for the management of investment property shall be
+30 submitted to the governor, the attorney general, and the budget agency
+31 for approval. A contract for the management of real property as an
+32 investment:
+33 (1) may not exceed a four (4) year term and must be based upon
+34 guidelines established by the board;
+35 (2) may provide that the property manager may collect rent and
+36 make disbursements for routine operating expenses such as
+37 utilities, cleaning, maintenance, and minor tenant finish needs;
+38 (3) shall establish, consistent with the board's duty under
+39 IC 30-4-3-3(c), guidelines for the prudent management of
+40 expenditures related to routine operation and capital
+41 improvements; and
+42 (4) may provide specific guidelines for the board to:
+2026 IN 1042—LS 6415/DI 119
+10
+1 (A) purchase new properties;
+2 (B) contract for the construction or repair of properties; and
+3 (C) lease or sell properties;
+4 without individual transactions requiring the approval of the
+5 governor, the attorney general, the Indiana department of
+6 administration, and the budget agency. However, each individual
+7 contract involving the purchase or sale of real property is subject
+8 to review and approval by the attorney general at the specific
+9 request of the attorney general.
+10 (d) Whenever the board takes bids in managing or selling real
+11 property, the board shall require a bid submitted by a trust (as defined
+12 in IC 30-4-1-1(a)) to identify all the following:
+13 (1) Each beneficiary of the trust.
+14 (2) Each settlor empowered to revoke or modify the trust.
+15 SECTION 12. IC 5-10.4-3-10.5 IS ADDED TO THE INDIANA
+16 CODE AS A NEW SECTION TO READ AS FOLLOWS
+17 [EFFECTIVE JULY 1, 2026]: Sec. 10.5. (a) As used in this section,
+18 "cryptocurrency" means a virtual currency that:
+19 (1) is not issued by a central authority;
+20 (2) is designed to function as a medium of exchange; and
+21 (3) uses encryption technology to:
+22 (A) regulate the generation of units of currency;
+23 (B) verify fund transfers; and
+24 (C) prevent counterfeiting.
+25 The term does not include a stablecoin (as defined in
+26 IC 2-3.5-5-3.3).
+27 (b) The board shall offer a cryptocurrency exchange traded
+28 fund that consists solely of one (1) or more cryptocurrencies as a
+29 regular investment program within the annuity savings accounts
+30 described in IC 5-10.4-2-2.
+31 (c) The board may adopt requirements and rules that apply to
+32 the cryptocurrency exchange traded fund within the annuity
+33 savings accounts, including the following:
+34 (1) The board's investment guidelines and limits for the
+35 cryptocurrency exchange traded fund.
+36 (2) A member's selection of and changes to the member's
+37 investment options.
+38 (3) The valuation of a member's account.
+39 (4) The allocation and payment of administrative expenses for
+40 the cryptocurrency exchange traded fund.
+41 (d) The board shall determine the appropriate administrative
+42 fees to be charged to the member accounts.
+2026 IN 1042—LS 6415/DI 119
+11
+1 SECTION 13. IC 5-10.4-8-8.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 8.5. (a) As used in this section,
+4 "cryptocurrency" means a virtual currency that:
+5 (1) is not issued by a central authority;
+6 (2) is designed to function as a medium of exchange; and
+7 (3) uses encryption technology to:
+8 (A) regulate the generation of units of currency;
+9 (B) verify fund transfers; and
+10 (C) prevent counterfeiting.
+11 The term does not include a stablecoin.
+12 (b) The board shall offer a cryptocurrency exchange traded
+13 fund that consists solely of one (1) or more cryptocurrencies as a
+14 regular investment program within the plan.
+15 (c) The board may adopt requirements and rules that apply to
+16 the cryptocurrency exchange traded fund within the plan,
+17 including the following:
+18 (1) The board's investment guidelines and limits for the
+19 cryptocurrency exchange traded fund.
+20 (2) A member's selection of and changes to the member's
+21 investment options.
+22 (3) The valuation of a member's account.
+23 (4) The allocation and payment of administrative expenses for
+24 the cryptocurrency exchange traded fund.
+25 (d) The board shall determine the appropriate administrative
+26 fees to be charged to the member accounts.
+27 SECTION 14. IC 5-13-9-11, AS AMENDED BY P.L.223-2025,
+28 SECTION 3, AND P.L.230-2025, SECTION 8, IS AMENDED TO
+29 READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 11. (a) The
+30 following definitions apply throughout this section:
+31 (1) "Clearinghouse" refers to the clearinghouse registered with the
+32 department of state revenue under IC 6-8.1-9.5-3.5.
+33 (2) "Investment pool" means the local government investment
+34 pool established by subsection (b).
+35 (3) "Board" refers to the Indiana local government investment
+36 pool board established by section 12 of this chapter.
+37 (b) The local government investment pool is established within the
+38 office and custody of the treasurer of state.
+39 (c) An officer designated in section 1 of this chapter may pay any
+40 funds held by the officer into the investment pool, for the purpose of
+41 deposit, investment, and reinvestment of the funds by the treasurer of
+42 state on behalf of the unit of government paying the funds into the
+2026 IN 1042—LS 6415/DI 119
+12
+1 investment pool.
+2 (d) The treasurer of state may pay state funds into the investment
+3 pool for the purpose of deposit, investment, and reinvestment of the
+4 state funds.
+5 (e) The treasurer of state shall establish an account in the investment
+6 pool for the operator of the clearinghouse. The treasurer shall hold
+7 amounts paid by the department of state revenue for deposit in the
+8 clearinghouse operator's account in the investment pool.
+9 (f) Upon signed written request of the operator of the clearinghouse,
+10 the treasurer of state shall distribute the money in the operator's
+11 account established under subsection (e):
+12 (1) to the operator of the clearinghouse; or
+13 (2) to specific investment pool accounts of political subdivisions
+14 represented by the clearinghouse, if the written request submitted
+15 under this subsection specifies:
+16 (A) the political subdivision to which the funds are to be
+17 disbursed;
+18 (B) the specific amount of the funds to be disbursed; and
+19 (C) the specific investment pool account to which the
+20 disbursement is owed.
+21 The clearinghouse shall assume liability for any legal or administrative
+22 claims filed against a disbursement made by the treasurer of state that
+23 complies with this section.
+24 (g) Any interest accrued by the investment pool on funds held in the
+25 operator's account shall be distributed to the political subdivisions at a
+26 rate equal to the percentage owed to that political subdivision based on
+27 the overall setoff paid by the department of state revenue. No interest
+28 shall accrue under this subsection on any fees owed to the
+29 clearinghouse under IC 6-8.1-9.5-10(b).
+30 (h) The treasurer of state shall invest the funds in the investment
+31 pool in the same manner, in the same type of instruments, and subject
+32 to the same limitations provided for the deposit and investment of state
+33 funds by the treasurer of state under IC 5-13-10.5. However, the
+34 treasurer of state may invest the funds in the investment pool in
+35 cryptocurrency exchange traded funds consisting of one (1) or
+36 more stablecoins (as defined in IC 2-3.5-5-3.3).
+37 (i) The treasurer of state:
+38 (1) shall administer the investment pool in accordance with the
+39 policies of the board; and
+40 (2) with the permission of the board, may contract with
+41 accountants, attorneys, regulated investment advisors, money
+42 managers, and other finance and investment professionals to
+2026 IN 1042—LS 6415/DI 119
+13
+1 make investments and provide for the public accounting and legal
+2 compliance necessary to ensure and maintain the safety, liquidity,
+3 and yield of the investment pool.
+4 (j) The treasurer of state shall follow the policies established by the
+5 board. The treasurer of state must ensure the following:
+6 (1) The administrative expenses of the investment pool shall be
+7 accounted for by the treasurer of state and shall be paid from the
+8 earnings of the investment pool.
+9 (2) The earnings of the investment pool in excess of the
+10 administrative expenses of the investment pool shall be credited
+11 to the state and each unit of government participating in the
+12 investment pool in a manner that equitably reflects the different
+13 amounts and terms of the state's investment and each unit's
+14 investment in the investment pool.
+15 (3) The state and each unit of government participating in the
+16 investment pool shall receive electronic or paper reports,
+17 including:
+18 (A) a daily transaction confirmation, reflecting any activity in
+19 the state's or unit's account; and
+20 (B) a monthly report showing:
+21 (i) the state's or unit's investment activity in the investment
+22 pool; and
+23 (ii) the performance and composition of the investment pool.
+24 (k) A unit of government participating in the investment pool may
+25 elect to have any funds due from the state wired directly to the
+26 custodian bank of the investment pool for credit to the unit's investment
+27 pool account by submitting in writing a request to the state comptroller
+28 to wire the funds as directed. An election made by a unit of government
+29 under this subsection may be revoked at any time by the unit by
+30 submitting in writing a request to the state comptroller to cease wiring
+31 the funds as previously directed by the unit.
+32 SECTION 15. IC 5-36 IS ADDED TO THE INDIANA CODE AS
+33 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+34 2026]:
+35 ARTICLE 36. AUTHORITY OF ADMINISTRATIVE
+36 AGENCIES TO REGULATE DIGITAL ASSETS
+37 Chapter 1. Definitions
+38 Sec. 1. The definitions in this chapter apply throughout this
+39 article.
+40 Sec. 2. "Blockchain" means data that is:
+41 (1) shared across a network to create a ledger of verified
+42 transactions or information among network participants; and
+2026 IN 1042—LS 6415/DI 119
+14
+1 (2) linked using cryptography to maintain the integrity of the
+2 ledger and to execute other functions;
+3 including data that is distributed among network participants in an
+4 automated manner to concurrently update network participants on
+5 the state of the ledger and any other functions.
+6 Sec. 3. "Blockchain protocol" means executable software that:
+7 (1) is governed by a set of predefined rules that:
+8 (A) execute autonomously without human intervention;
+9 and
+10 (B) can be altered by a predetermined process;
+11 including predefined rules that use a previously existing
+12 blockchain as a base;
+13 (2) facilitates transfer of data and electronic records and
+14 allows the data and electronic records to be broadcast to
+15 nodes; and
+16 (3) is deployed to a blockchain;
+17 including a smart contract or network of smart contracts.
+18 Sec. 4. "Digital asset" means:
+19 (1) virtual currency;
+20 (2) cryptocurrency, including stablecoins;
+21 (3) fungible tokens and nonfungible tokens; and
+22 (4) other assets that:
+23 (A) exist only in electronic form; and
+24 (B) confer economic, proprietary, or access rights or
+25 powers.
+26 Sec. 5. "Digital asset mining" means using computing devices to
+27 run software that is specifically designed or utilized for the purpose
+28 of validating data and securing a blockchain network.
+29 Sec. 6. "Digital asset mining business" means multiple
+30 computing devices at a single location that:
+31 (1) are used to perform digital asset mining; and
+32 (2) consume, in total, an annual average of more than one (1)
+33 megawatt of energy in performing digital asset mining.
+34 Sec. 7. "Hardware wallet" means:
+35 (1) a physical device that:
+36 (A) is not continuously connected to the Internet; and
+37 (B) allows an individual to secure and transfer digital
+38 assets; or
+39 (2) a physical device that enables the owner of digital assets to
+40 retain independent control over the digital assets.
+41 Sec. 8. "Node" means software:
+42 (1) that:
+2026 IN 1042—LS 6415/DI 119
+15
+1 (A) communicates with other devices or participants on a
+2 blockchain to maintain consensus and integrity of the
+3 blockchain;
+4 (B) creates and validates blocks of transactions;
+5 (C) contains and updates a copy of a blockchain; or
+6 (D) performs any combination of the functions described
+7 in clauses (A) through (D); and
+8 (2) that does not exercise discretion over transactions initiated
+9 by the end user of a blockchain protocol.
+10 Sec. 9. "Private digital asset mining" means digital asset
+11 mining:
+12 (1) that is conducted by an individual; and
+13 (2) the individual's conduct of which does not consume an
+14 annual average of more than one (1) megawatt of energy.
+15 Sec. 10. "Public agency" means a board, commission,
+16 department, division, bureau, committee, agency, office,
+17 instrumentality, authority, or other entity exercising any part of
+18 the executive, including the administrative, power of the state.
+19 Sec. 11. "Self-hosted wallet" means a digital interface used to:
+20 (1) secure and transfer digital assets; and
+21 (2) retain independent control over the digital assets by the
+22 owner of the digital assets.
+23 Sec. 12. "Smart contract" means a computer program that:
+24 (1) is hosted and executed on a blockchain network; and
+25 (2) consists of code specifying predetermined conditions that,
+26 when met, trigger predetermined outcomes.
+27 Sec. 13. "Stake" or "staking" means committing digital assets
+28 to a blockchain network to participate in the blockchain network's
+29 operations by validating transactions, proposing or attesting to
+30 blocks, and securing the blockchain network.
+31 Sec. 14. "Validate" means performance of a process by which
+32 a blockchain protocol, through its consensus mechanism, confirms
+33 the authenticity and accuracy of transactions or other data entries
+34 that are then recorded on a blockchain protocol.
+35 Chapter 2. Regulation of Digital Assets
+36 Sec. 1. (a) A public agency may not adopt or enforce a rule or
+37 other regulation that would have the effect of prohibiting,
+38 restricting, or impairing the ability of a person to:
+39 (1) use or accept digital assets as a method of payment for
+40 legal goods and services; or
+41 (2) take or maintain custody of digital assets using a
+42 self-hosted wallet or hardware wallet.
+2026 IN 1042—LS 6415/DI 119
+16
+1 (b) A public agency may not impose taxes or fees on:
+2 (1) use or acceptance of digital assets as a method of payment
+3 for legal goods and services; or
+4 (2) taking or maintaining custody of digital assets using a
+5 self-hosted wallet or hardware wallet;
+6 that are not applicable to comparable financial transactions that
+7 do not involve digital assets.
+8 Sec. 2. A public agency may not adopt or enforce a rule or other
+9 regulation that would have the effect of prohibiting, restricting, or
+10 impairing the ability of an individual or business to do any of the
+11 following:
+12 (1) Operate a node for the purpose of connecting to a
+13 blockchain protocol and participating in the operation of the
+14 blockchain protocol.
+15 (2) Develop software on a blockchain protocol.
+16 (3) Transfer digital assets to another individual or business
+17 using a blockchain protocol.
+18 (4) Participate in staking on a blockchain protocol.
+19 Sec. 3. A public agency may not adopt or enforce a rule or other
+20 regulation:
+21 (1) that prohibits a digital asset mining business that
+22 otherwise meets the requirements for operation in an area
+23 zoned for industrial use from operating in an area zoned for
+24 industrial use; or
+25 (2) that:
+26 (A) limits the level of noise generated by a digital asset
+27 mining business that is located in an area zoned for
+28 industrial use; and
+29 (B) is not applicable to other businesses operating in an
+30 area zoned for industrial use.
+31 Sec. 4. A public agency may not adopt or enforce a rule or other
+32 regulation:
+33 (1) that prohibits private digital asset mining in a residence
+34 located in an area that is zoned for residential use; or
+35 (2) that:
+36 (A) limits the level of noise generated by private digital
+37 asset mining in a residence located in an area that is zoned
+38 for residential use; and
+39 (B) is not applicable to other residences in an area zoned
+40 for residential use.
+41 SECTION 16. IC 8-14-15.2-9, AS ADDED BY P.L.189-2018,
+42 SECTION 79, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2026 IN 1042—LS 6415/DI 119
+17
+1 JULY 1, 2026]: Sec. 9. (a) The trustee shall:
+2 (1) administer and manage the trust;
+3 (2) invest the money in the trust; and
+4 (3) deposit in the trust any interest that accrues from the
+5 investment of these funds.
+6 (b) Notwithstanding IC 5-13, the trustee shall invest the money in
+7 the trust not currently needed to meet the obligations of the trust in the
+8 same manner as money is invested by the Indiana public retirement
+9 system under IC 5-10.3-5. However, the trustee may not invest the
+10 money in the trust in equity securities. The trustee shall also comply
+11 with the prudent investor rule set forth in IC 30-4-3.5. The trustee may
+12 contract with investment management professionals, investment
+13 advisors, and legal counsel to assist in the investment of the trust and
+14 may pay the state expenses incurred under those contracts from the
+15 trust.
+16 (c) IC 4-9.1-1-8 and IC 4-9.1-1-9 do not apply to a trust established
+17 under this chapter.
+18 (d) Money in the trust fund at the end of a state fiscal year does not
+19 revert to the state general fund.
+20 (e) The trustee may invest the assets of the trust in
+21 cryptocurrency exchange traded funds consisting of one (1) or
+22 more stablecoins (as defined in IC 2-3.5-5-3.3).
+23 SECTION 17. IC 10-12-2-2 IS AMENDED TO READ AS
+24 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2. (a) The department
+25 may:
+26 (1) establish and operate an actuarially sound pension plan
+27 governed by a pension trust; and
+28 (2) make the necessary annual contribution in order to prevent
+29 any deterioration in the actuarial status of the trust fund.
+30 (b) The department shall make contributions to the trust fund. An
+31 employee beneficiary shall make contributions to the trust fund through
+32 authorized monthly deductions from wages.
+33 (c) The trust fund:
+34 (1) may not be commingled with any other funds; and
+35 (2) shall be invested only in accordance with state laws for the
+36 investment of trust funds, together with other investments as are
+37 specifically designated in the pension trust.
+38 Subject to the terms of the pension trust, the trustee, with the approval
+39 of the department and the pension advisory board, may establish
+40 investment guidelines and limits on all types of investments, including
+41 stocks and bonds, and take other action necessary to fulfill its duty as
+42 a fiduciary for the trust fund.
+2026 IN 1042—LS 6415/DI 119
+18
+1 (d) The trustee shall invest the trust fund assets with the same care,
+2 skill, prudence, and diligence that a prudent person acting in a like
+3 capacity and familiar with these matters would use in the conduct of an
+4 enterprise of a similar character with similar aims.
+5 (e) The trustee shall diversify the trust fund's investments in
+6 accordance with prudent investment standards. The investment of the
+7 trust fund is subject to section 3 of this chapter.
+8 (f) The trustee shall receive and hold as trustee for the uses and
+9 purposes set forth in the pension trust the funds paid by the department,
+10 the employee beneficiaries, or any other person or persons.
+11 (g) The trustee shall engage pension consultants to supervise and
+12 assist in the technical operation of the pension plan so that there is no
+13 deterioration in the actuarial status of the plan.
+14 (h) Before October 1 of each year, the trustee, with the aid of the
+15 pension consultants, shall prepare and file a report with the department
+16 and the state board of accounts. The report must include the following
+17 with respect to the fiscal year ending on the preceding June 30:
+18 SCHEDULE I. Receipts and disbursements.
+19 SCHEDULE II. Assets of the pension trust, listing investments as
+20 to book value and current market value at the end of the fiscal
+21 year.
+22 SCHEDULE III. List of terminations, showing cause and amount
+23 of refund.
+24 SCHEDULE IV. The application of actuarially computed "reserve
+25 factors" to the payroll data, properly classified for the purpose of
+26 computing the reserve liability of the trust fund as of the end of
+27 the fiscal year.
+28 SCHEDULE V. The application of actuarially computed "current
+29 liability factors" to the payroll data, properly classified for the
+30 purpose of computing the liability of the trust fund for the end of
+31 the fiscal year.
+32 SCHEDULE VI. An actuarial computation of the pension liability
+33 for all employees retired before the close of the fiscal year.
+34 (i) The minimum annual contribution by the department must be of
+35 sufficient amount, as determined by the pension consultants, to prevent
+36 any deterioration in the actuarial status of the pension plan during that
+37 year. If the department fails to make the minimum contribution for five
+38 (5) successive years, the pension trust terminates and the trust fund
+39 shall be liquidated.
+40 (j) Except as provided by applicable federal law, in the event of
+41 liquidation, the department shall take the following actions:
+42 (1) All expenses of the pension trust must be paid.
+2026 IN 1042—LS 6415/DI 119
+19
+1 (2) Adequate provision must be made for continuing pension
+2 payments to retired persons.
+3 (3) Each employee beneficiary must receive the net amount paid
+4 into the trust fund from the employee beneficiary's wages.
+5 (4) Any amount remaining in the pension trust after the
+6 department makes the payments described in subdivisions (1)
+7 through (3) must be equitably divided among the employee
+8 beneficiaries in proportion to the net amount paid from each
+9 employee beneficiary's wages into the trust fund.
+10 (k) The trustee may invest the trust fund assets in
+11 cryptocurrency exchange traded funds consisting of one (1) or
+12 more stablecoins (as defined in IC 2-3.5-5-3.3).
+13 SECTION 18. IC 10-12-2-7 IS AMENDED TO READ AS
+14 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 7. (a) The:
+15 (1) mortality reserve account referred to in section 4 of this
+16 chapter;
+17 (2) disability reserve account referred to in section 5 of this
+18 chapter; and
+19 (3) dependent pension reserve account referred to in section 6 of
+20 this chapter;
+21 may be commingled and operated as one (1) fund, known as the police
+22 benefit fund, under the terms of a supplementary trust agreement
+23 between the department and the trustee for the exclusive benefit of
+24 employee beneficiaries and their dependents.
+25 (b) The trustee shall receive and hold as trustee for the uses and
+26 purposes set out in the supplementary trust agreement all funds paid to
+27 it as the trustee by the department or by any other person or persons.
+28 (c) The trustee shall hold, invest, and reinvest the police benefit
+29 fund in:
+30 (1) investments that trust funds are permitted to invest in under
+31 Indiana law; and
+32 (2) other investments as may be specifically designated in the
+33 supplementary trust agreement.
+34 (d) The trustee, with the assistance of the pension engineers, shall,
+35 not more than ninety (90) days after the close of the fiscal year, prepare
+36 and file with the department and the department of insurance a detailed
+37 annual report showing receipts, disbursements, case histories, and
+38 recommendations as to the contributions required to keep the program
+39 in operation.
+40 (e) Contributions by the department to the police benefit fund shall
+41 be provided in the general appropriations to the department.
+42 (f) The trustee may invest the police benefit fund assets in
+2026 IN 1042—LS 6415/DI 119
+20
+1 cryptocurrency exchange traded funds consisting of one (1) or
+2 more stablecoins (as defined in IC 2-3.5-5-3.3).
+3 SECTION 19. IC 21-9-5-10 IS ADDED TO THE INDIANA CODE
+4 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+5 1, 2026]: Sec. 10. (a) As used in this section, "cryptocurrency"
+6 means a virtual currency that:
+7 (1) is not issued by a central authority;
+8 (2) is designed to function as a medium of exchange; and
+9 (3) uses encryption technology to:
+10 (A) regulate the generation of units of currency;
+11 (B) verify fund transfers; and
+12 (C) prevent counterfeiting.
+13 The term does not include a stablecoin (as defined in
+14 IC 2-3.5-5-3.3).
+15 (b) The board shall offer a cryptocurrency exchange traded
+16 fund that consists solely of one (1) or more cryptocurrencies as a
+17 regular investment program within an education savings program
+18 established under this article.
+19 (c) The board may adopt requirements and rules that apply to
+20 the cryptocurrency exchange traded fund within the program,
+21 including the following:
+22 (1) The board's investment guidelines and limits for the
+23 cryptocurrency exchange traded fund.
+24 (2) An account owner's selection of and changes to the
+25 account owner's investment options.
+26 (3) The valuation of accounts.
+27 (4) The allocation and payment of administrative expenses for
+28 the cryptocurrency exchange traded fund.
+29 (d) The board shall determine the appropriate administrative
+30 fees to be charged to the accounts.
+31 SECTION 20. IC 28-8-4.1-201, AS ADDED BY P.L.198-2023,
+32 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2026]: Sec. 201. The following definitions apply throughout
+34 this chapter:
+35 (1) "Acting in concert" means persons knowingly acting together
+36 with a common goal of jointly acquiring control of a licensee
+37 whether or not pursuant to an express agreement.
+38 (2) "Authorized delegate" means a person a licensee designates to
+39 engage in money transmission on behalf of the licensee.
+40 (3) "Average daily money transmission liability", with respect to
+41 a calendar quarter, means:
+42 (A) the sum of the amounts of a licensee's outstanding money
+2026 IN 1042—LS 6415/DI 119
+21
+1 transmission obligations in Indiana at the end of each day in
+2 the calendar quarter; divided by
+3 (B) the total number of days in that calendar quarter.
+4 For purposes of this subdivision, a "calendar quarter" is a quarter
+5 ending on March 31, June 30, September 30, or December 31.
+6 (4) "Bank Secrecy Act" means:
+7 (A) the Bank Secrecy Act (31 U.S.C. 5311 et seq.); and
+8 (B) regulations adopted under the Bank Secrecy Act (31
+9 U.S.C. 5311 et seq.).
+10 (5) "Closed loop stored value" means stored value that is
+11 redeemable by the issuer only for goods or services provided by
+12 the issuer or the issuer's affiliate or by franchisees of the issuer or
+13 the issuer's affiliate, except to the extent required by applicable
+14 law to be redeemable in cash for its cash value.
+15 (6) "Control" means any of the following:
+16 (A) The power to vote, directly or indirectly, at least
+17 twenty-five percent (25%) of the outstanding voting shares or
+18 voting interests of a licensee or of a person in control of a
+19 licensee.
+20 (B) The power to elect or appoint a majority of key individuals
+21 or executive officers, managers, directors, trustees, or other
+22 persons exercising managerial authority of a person in control
+23 of a licensee.
+24 (C) The power to exercise, directly or indirectly, a controlling
+25 influence over the management or policies of a licensee or of
+26 a person in control of a licensee. For purposes of this clause,
+27 a person is presumed to exercise a controlling influence if the
+28 person holds the power to vote, directly or indirectly, at least
+29 ten percent (10%) of the outstanding voting shares or voting
+30 interests of a licensee or of a person in control of a licensee.
+31 However, a person presumed to exercise a controlling
+32 influence under this clause may rebut the presumption of
+33 control if the person is a passive investor.
+34 For purposes of this subdivision, the percentage of a person
+35 controlled by any other person is determined by aggregating the
+36 other person's interest with the interest of any other immediate
+37 family member of that person, including the person's spouse,
+38 parents, children, siblings, mothers-in-law and fathers-in-law,
+39 sons-in-law and daughters-in-law, and any other person who
+40 shares the person's home.
+41 (7) "Department" refers to the members of the department of
+42 financial institutions.
+2026 IN 1042—LS 6415/DI 119
+22
+1 (8) "Director" refers to the director of the department appointed
+2 under IC 28-11-2-1.
+3 (9) "Eligible rating" means a credit rating of any of the three (3)
+4 highest rating categories provided by an eligible rating service,
+5 including any rating category modifiers, such as "plus" or "minus"
+6 for S&P Global, or an equivalent modifier for any other eligible
+7 rating service. The term includes the following:
+8 (A) A long term credit rating equal to at least A- by S&P
+9 Global, or an equivalent long term credit rating for any other
+10 eligible rating service.
+11 (B) A short term credit rating equal to at least A-2 by S&P
+12 Global, or an equivalent short term credit rating for any other
+13 eligible rating service.
+14 In any case in which the credit ratings differ among eligible rating
+15 services, the highest rating applies in determining whether the
+16 credit rating is an "eligible rating" as defined in this subdivision.
+17 (10) "Eligible rating service" means:
+18 (A) a nationally recognized statistical rating organization, as
+19 defined by the United States Securities and Exchange
+20 Commission; or
+21 (B) any other organization designated as such by the director.
+22 (11) "Federally insured depository financial institution" means:
+23 (A) a bank;
+24 (B) a credit union;
+25 (C) a savings and loan association;
+26 (D) a trust company;
+27 (E) a corporate fiduciary;
+28 (F) a savings association;
+29 (G) a savings bank;
+30 (H) an industrial bank; or
+31 (I) an industrial loan company;
+32 that is organized under the law of the United States or any state of
+33 the United States and that has federally or privately insured
+34 deposits as permitted by state or federal law.
+35 (12) "In Indiana", with respect to the location of a transaction,
+36 means the following:
+37 (A) At a physical location in Indiana, for a transaction
+38 requested in person.
+39 (B) For a transaction requested electronically or by telephone,
+40 a determination made by the provider of money transmission,
+41 by relying on the following, that the person requesting the
+42 transaction is in Indiana:
+2026 IN 1042—LS 6415/DI 119
+23
+1 (i) Information, provided by the person, regarding the
+2 location of the individual's residential address or the
+3 business entity's principal place of business or other physical
+4 address location, as applicable.
+5 (ii) Any records associated with the person that the provider
+6 of money transmission may have that indicate the person's
+7 location, including an address associated with an account.
+8 (13) "Individual" means a natural person.
+9 (14) "Key individual" means an individual ultimately responsible
+10 for establishing or directing policies and procedures of a licensee,
+11 such as an executive officer, manager, director, or trustee.
+12 (15) "Licensee" means a person licensed under this chapter.
+13 (16) "Material litigation" means litigation that, according to
+14 United States generally accepted accounting principles, is
+15 significant to a person's financial health and would be required to
+16 be disclosed in the person's annual audited financial statements,
+17 report to shareholders, or similar records.
+18 (17) "Money" means a medium of exchange that is issued by the
+19 United States government or by a foreign government. The term
+20 includes a monetary unit of account established by an
+21 intergovernmental organization or by agreement between two (2)
+22 or more governments.
+23 (18) "Monetary value" means a medium of exchange, whether or
+24 not redeemable in money.
+25 (19) "Money transmission" means any of the following:
+26 (A) Selling or issuing payment instruments to a person located
+27 in Indiana.
+28 (B) Selling or issuing stored value to a person located in
+29 Indiana.
+30 (C) Receiving money for transmission from a person located
+31 in Indiana.
+32 The term does not include the provision of solely online or
+33 telecommunications services or network access. The term does
+34 not include development or use of software for noncustodial
+35 transfer of digital assets (as defined by IC 5-36-1-4).
+36 (20) "MSB accredited state" means a state agency that is
+37 accredited by the Conference of State Bank Supervisors and
+38 Money Transmitter Regulators Association for money
+39 transmission licensing and supervision.
+40 (21) "Multistate licensing process" means an agreement entered
+41 into by and among state regulators related to:
+42 (A) coordinated processing of applications for money
+2026 IN 1042—LS 6415/DI 119
+24
+1 transmission licenses;
+2 (B) applications for the acquisition and control of a licensee;
+3 (C) control determinations; or
+4 (D) notice and information requirements for a change of key
+5 individuals.
+6 (22) "NMLS" means the Nationwide Multistate Licensing System
+7 and Registry:
+8 (A) developed by the Conference of State Bank Supervisors
+9 and the American Association of Residential Mortgage
+10 Regulators; and
+11 (B) owned and operated by the State Regulatory Registry,
+12 LLC, or by any successor or affiliated entity;
+13 for the licensing and registry of persons in financial services
+14 industries.
+15 (23) "Outstanding money transmission obligation", as established
+16 and extinguished in accordance with applicable state law, means:
+17 (A) any payment instrument or stored value that:
+18 (i) is issued or sold by a licensee to a person located in the
+19 United States, or reported as sold by an authorized delegate
+20 of the licensee to a person located in the United States; and
+21 (ii) has not yet been paid or refunded by or for the licensee,
+22 or escheated in accordance with applicable abandoned
+23 property laws; or
+24 (B) any money that:
+25 (i) is received for transmission by a licensee, or by an
+26 authorized delegate of the licensee, from a person located in
+27 the United States; and
+28 (ii) has not been received by the payee or refunded to the
+29 seller, or escheated in accordance with applicable
+30 abandoned property laws.
+31 For purposes of this subdivision, a person is located "in the
+32 United States" if the person is located in any state, territory, or
+33 possession of the United States or in the District of Columbia, the
+34 Commonwealth of Puerto Rico, or a United States military
+35 installation located in a foreign country.
+36 (24) "Passive investor" means a person that:
+37 (A) does not have the power to elect a majority of key
+38 individuals or executive officers, managers, directors, trustees,
+39 or other persons exercising managerial authority over a person
+40 in control of a licensee;
+41 (B) is not employed by and does not have any managerial
+42 duties with respect to the licensee or a person in control of the
+2026 IN 1042—LS 6415/DI 119
+25
+1 licensee;
+2 (C) does not have the power to exercise, directly or indirectly,
+3 a controlling influence over the management or policies of the
+4 licensee or a person in control of the licensee; and
+5 (D) either:
+6 (i) attests to as facts the characteristics of passivity set forth
+7 in clauses (A) through (C), in a form and by a medium
+8 prescribed by the director; or
+9 (ii) commits to the characteristics of passivity set forth in
+10 clauses (A) through (C) in a written document.
+11 (25) "Payment instrument" means a written or electronic check,
+12 draft, money order, traveler's check, or other written or electronic
+13 instrument for the transmission or payment of money or monetary
+14 value, whether or not negotiable. The term does not include:
+15 (A) stored value; or
+16 (B) any instrument that:
+17 (i) is redeemable by the issuer only for goods or services
+18 provided by the issuer or its affiliate, or franchisees of the
+19 issuer or its affiliate, except to the extent required by
+20 applicable law to be redeemable in cash for its cash value;
+21 or
+22 (ii) is not sold to the public but is issued and distributed as
+23 part of a loyalty, rewards, or promotional program.
+24 (26) "Person" means any individual, general partnership, limited
+25 partnership, limited liability company, corporation, trust,
+26 association, joint stock corporation, or other corporate entity, as
+27 so identified by the director.
+28 (27) "Receiving money for transmission" means receiving money
+29 or monetary value in the United States for transmission within or
+30 outside the United States by electronic or other means. The term
+31 "money received for transmission" has a corresponding meaning.
+32 (28) "Stored value" means monetary value representing a claim,
+33 against the issuer, that is evidenced by an electronic or digital
+34 record and that is intended and accepted for use as a means of
+35 redemption for money or monetary value, or payment for goods
+36 or services. The term includes "prepaid access" as defined in 31
+37 CFR 1010.100. The term does not include:
+38 (A) a payment instrument;
+39 (B) closed loop stored value; or
+40 (C) stored value not sold to the public but issued and
+41 distributed as part of a loyalty, rewards, or promotional
+42 program.
+2026 IN 1042—LS 6415/DI 119
+26
+1 (29) "Tangible net worth" means the aggregate assets of a
+2 licensee, excluding all intangible assets, less liabilities, as
+3 determined in accordance with United States generally accepted
+4 accounting principles.
+5 SECTION 21. IC 33-38-6-23, AS AMENDED BY P.L.35-2012,
+6 SECTION 103, IS AMENDED TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2026]: Sec. 23. (a) The board of trustees of the
+8 Indiana public retirement system (referred to as "the system" in this
+9 section) shall administer the fund, which may be commingled for
+10 investment purposes with any public pension and retirement fund
+11 administered by the system.
+12 (b) The board shall do the following:
+13 (1) Determine eligibility for and make payments of benefits under
+14 IC 33-38-7 and IC 33-38-8.
+15 (2) In accordance with the powers and duties granted it in
+16 IC 5-10.3-3-7.1, IC 5-10.3-5-3 through IC 5-10.3-5-6,
+17 IC 5-10.5-4, and IC 5-10.5-6, administer the fund.
+18 (3) Provide by rule for the implementation of this chapter and
+19 IC 33-38-7 and IC 33-38-8.
+20 (4) Authorize deposits.
+21 (c) A determination by the board may be appealed under the
+22 procedures in IC 4-21.5.
+23 (d) The powers and duties of:
+24 (1) the director and the actuary of the board; and
+25 (2) the attorney general;
+26 with respect to the fund are those specified in IC 5-10.3-3, IC 5-10.3-4,
+27 IC 5-10.5-4, and IC 5-10.5-6.
+28 (e) The board may hire additional personnel, including hearing
+29 officers, to assist it in the implementation of this chapter.
+30 (f) Fund records of individual participants and participants'
+31 information are confidential, except for the name and years of service
+32 of a fund participant.
+33 (g) The board may invest the assets of the fund in
+34 cryptocurrency exchange traded funds.
+35 SECTION 22. IC 33-39-7-11, AS AMENDED BY P.L.35-2012,
+36 SECTION 105, IS AMENDED TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 11. (a) The board shall administer
+38 the fund, which may be commingled with any public pension and
+39 retirement fund administered by the Indiana public retirement system
+40 for investment purposes.
+41 (b) The board shall do the following:
+42 (1) Determine eligibility for and make payments of benefits under
+2026 IN 1042—LS 6415/DI 119
+27
+1 this chapter.
+2 (2) In accordance with the powers and duties granted the board in
+3 IC 5-10.3-3-7.1, IC 5-10.3-5-3 through IC 5-10.3-5-6,
+4 IC 5-10.5-4, and IC 5-10.5-6, administer the fund.
+5 (3) Provide by rule for the implementation of this chapter.
+6 (4) Authorize deposits.
+7 (c) A determination by the board may be appealed under IC 4-21.5.
+8 (d) The powers and duties of:
+9 (1) the director and the actuary of the board; and
+10 (2) the attorney general;
+11 with respect to the fund are those specified in IC 5-10.3-3, IC 5-10.3-4,
+12 IC 5-10.5-4, and IC 5-10.5-6.
+13 (e) The board may hire additional personnel, including hearing
+14 officers, to assist in the implementation of this chapter.
+15 (f) Fund records of individual participants and participants'
+16 information are confidential, except for the name and years of service
+17 of a fund participant.
+18 (g) The board may invest the assets of the fund in
+19 cryptocurrency exchange traded funds.
+20 SECTION 23. IC 34-46-7 IS ADDED TO THE INDIANA CODE
+21 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]:
+23 Chapter 7. Privileged Financial Information
+24 Sec. 1. As used in this chapter, "digital asset" means:
+25 (1) virtual currency;
+26 (2) cryptocurrency, including stablecoins;
+27 (3) fungible tokens and nonfungible tokens; and
+28 (4) other assets that:
+29 (A) exist only in electronic form; and
+30 (B) confer economic, proprietary, or access rights or
+31 powers.
+32 Sec. 2. As used in this chapter, "digital asset private key" means
+33 an alphanumeric code that is used to:
+34 (1) prove ownership of; and
+35 (2) access;
+36 digital assets.
+37 Sec. 3. A court may compel a person to disclose a digital asset
+38 private key only if no other admissible information is sufficient to
+39 provide access to the digital asset.
+40 SECTION 24. IC 35-37-7 IS ADDED TO THE INDIANA CODE
+41 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]:
+2026 IN 1042—LS 6415/DI 119
+28
+1 Chapter 7. Privileged Financial Information
+2 Sec. 1. As used in this chapter, "digital asset" means:
+3 (1) virtual currency;
+4 (2) cryptocurrency, including stablecoins;
+5 (3) fungible tokens and nonfungible tokens; and
+6 (4) other assets that:
+7 (A) exist only in electronic form; and
+8 (B) confer economic, proprietary, or access rights or
+9 powers.
+10 Sec. 2. As used in this chapter, "digital asset private key" means
+11 an alphanumeric code that is used to:
+12 (1) prove ownership of; and
+13 (2) access;
+14 a digital asset.
+15 Sec. 3. A court may compel a person to disclose a digital asset
+16 private key only if no other admissible information is sufficient to
+17 provide access to the digital asset.
+18 SECTION 25. IC 36-1-3-15 IS ADDED TO THE INDIANA CODE
+19 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+20 1, 2026]: Sec. 15. (a) The definitions in IC 5-36-1 apply throughout
+21 this section.
+22 (b) A unit may not adopt or enforce a rule or other regulation
+23 that would have the effect of prohibiting, restricting, or impairing
+24 the ability of a person to:
+25 (1) use or accept digital assets as a method of payment for
+26 legal goods and services; or
+27 (2) take custody of digital assets using a self-hosted wallet or
+28 hardware wallet.
+29 (c) A unit may not impose taxes or fees on:
+30 (1) use or acceptance of digital assets as a method of payment
+31 for legal goods and services; or
+32 (2) taking or maintaining custody of digital assets using a
+33 self-hosted wallet or hardware wallet;
+34 that are not applicable to comparable financial transactions that
+35 do not involve digital assets.
+36 SECTION 26. IC 36-1-30.5 IS ADDED TO THE INDIANA CODE
+37 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]:
+39 Chapter 30.5. Regulation of Digital Asset Mining
+40 Sec. 1. The definitions in IC 5-36-1 apply throughout this
+41 chapter.
+42 Sec. 2. A unit may not adopt or enforce an ordinance or other
+2026 IN 1042—LS 6415/DI 119
+29
+1 regulation that would have the effect of prohibiting, restricting, or
+2 impairing the ability of an individual or business to do any of the
+3 following:
+4 (1) Operate a node for the purpose of connecting to a
+5 blockchain protocol and participating in the operation of the
+6 blockchain protocol.
+7 (2) Develop software on a blockchain protocol.
+8 (3) Transfer digital assets to another individual or business
+9 using a blockchain protocol.
+10 (4) Participate in staking on a blockchain protocol.
+11 Sec. 3. A unit may not adopt or enforce an ordinance or other
+12 regulation:
+13 (1) that prohibits a digital asset mining business that
+14 otherwise meets the requirements for operation in an area
+15 zoned for industrial use from operating in an area zoned for
+16 industrial use; or
+17 (2) that:
+18 (A) limits the level of noise generated by a digital asset
+19 mining business that is located in an area zoned for
+20 industrial use; and
+21 (B) is not applicable to other businesses operating in an
+22 area zoned for industrial use.
+23 Sec. 4. A unit may not adopt or enforce an ordinance or other
+24 regulation:
+25 (1) that prohibits private digital asset mining in a residence
+26 located in an area that is zoned for residential use; or
+27 (2) that:
+28 (A) limits the level of noise generated by private digital
+29 asset mining in a residence located in an area that is zoned
+30 for residential use; and
+31 (B) is not applicable to other residences in an area zoned
+32 for residential use.
+33 SECTION 27. IC 36-8-8-5, AS AMENDED BY P.L.85-2022,
+34 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 5. (a) The system board shall:
+36 (1) determine eligibility for and make payments of benefits,
+37 except as provided in section 12 of this chapter;
+38 (2) in accordance with the powers and duties granted it in
+39 IC 5-10.3-5-3 through IC 5-10.3-5-6, IC 5-10.5-4, and
+40 IC 5-10.5-5, administer the 1977 fund;
+41 (3) provide by rule for the implementation of this chapter; and
+42 (4) authorize deposits.
+2026 IN 1042—LS 6415/DI 119
+30
+1 (b) A determination by the system board may be appealed under the
+2 procedures in IC 4-21.5.
+3 (c) The powers and duties of the director appointed by the system
+4 board, the actuary of the system board, and the attorney general, with
+5 respect to the 1977 fund, are those specified in IC 5-10.3-3,
+6 IC 5-10.3-4, and IC 5-10.5.
+7 (d) The system board may hire additional personnel, including
+8 hearing officers, to assist it in the implementation of this chapter.
+9 (e) The 1977 fund records of individual members and membership
+10 information are confidential, except for the name and years of service
+11 of a 1977 fund member.
+12 (f) After July 1, 2022, if the system board determines that a new
+13 police officer or firefighter in PERF should be a member of the 1977
+14 fund, the system board shall require the employer to:
+15 (1) transfer the member into the 1977 fund; and
+16 (2) contribute the amount that the system board determines is
+17 necessary to fund fully the member's service credit in the 1977
+18 fund for all service earned as a police officer or firefighter in
+19 PERF.
+20 (g) The system board may invest the assets of the 1977 fund in
+21 cryptocurrency exchange traded funds.
+2026 IN 1042—LS 6415/DI 119
+[DELETED:  A  I 2 I 2 I 5 I 5 5 I 5 I 5 I 8 I 1 2 I 2 I 3 I 3 a o m o t f s o  T t r f M C p ( T 5 i i c e t f ( T a ( T j r s ( T m i t a o t f i s6I]
+[DELETED:  p p f t p o t b i I P a p a c o r t d a o t f ( P a ( P a d a m b f6I]
+[DELETED:  1 I 2 A A B P i a w t p a d g i 5 I 5 t I 5 p b r f t i o t c6I]
+[DELETED:  A u i t s " m a v c e t f w t d T b i g a l f t A p s o a c t t6I]
+[DELETED:  c e p o a r o6I]
+[DELETED:  o f i u s 4 I 5 I A T T I A A N S T R A F t d n i a s ( d i6I]
+[DELETED:  T d c c s o  T d c c m a T d c c i a f t b c t t p d a s b t e o t 6 I 5 A A B P6I]
+[DELETED:  f r t t b u I 3 T b m i t a o t f i 7 I 5 A A B P i d o t c f i f t m o i p s b6I]
+[DELETED:  a A c f m o r p a a d f r o e s a m e c w t b d u 3 g f t p m o r t r o a c l o s p w i t 8 I 5 I A T T I A A N S T R A F t d n i a s ( d i c e t f w t a6I]
+[DELETED:  T b i g a l f t a d g i i I 5 t A A N S T R A F t d n i a s ( d i c e t f w t p T b i g a l f t6I]
+[DELETED:  1 I 5 A A B P f t m o i p s b d f r o e s a s e c w t b d u 3 g f t p m o r t r o a c6I]
+[DELETED:  i t r t a o t t a g t I d o A A N S T R A F t d n i a s ( d i c e t f w t a T b i g a l f t6I]
+[DELETED:  A A N S T R A F c e t f w t p T b i g a l f t6I]
+[DELETED:  t o s s d t m i t o t s i p a t w t a u t s o a f o t t w t p o t b m c w a r i a m6I]
+[DELETED:  T e o t i p i e o t a t o t s i a e u p s r e o p r t h a f d f t s w d t t 3 A O A6I]
+[DELETED:  p r t u a p e c e p o a r o 6 " a m b m m a a i t s a t d6I]
+[DELETED:  t m c a i o t 9 " d a m m d a 1 " a m a b c d b c a o r t w h t e o p t o m c o d a u 6I]
+[DELETED:  O a n f t p o c t  t p a d a m b t b t i l i a a z f 1 I 8 A A B P6I]
+[DELETED:  d i t t a i t a f t w i m p i T t m i t a o t t i 1 I 1 I A T R A e a o a a s p p t d a t p a b m e6I]
+[DELETED:  T t s d t t f i i6I]
+[DELETED:  A a r i t p t a t ( m b e d a t e T t m i t t f a i 1 I 1 I A T R A r i6I]
+[DELETED:  t d n i a s ( d i T b i g a l f t A a o s o a c t t6I]
+[DELETED:  r a u t B S A ( " l s v m s v t i T p t v d o i a l a p p t e a c d a a o p w6I]
+[DELETED:  b t U S S a E U S a t h o p i A a p l i I f a t6I]
+[DELETED:  I p b t p r t o t i r a o t " l m l t a t S g a a p i a m u o a e b a v t d n i t p o s o o " a s m a s a t i T R A f m c p o a f m6I]
+[DELETED:  t A A o R M e i a w a a i r f t a l o b a o e i a w a o P R o a U S m d n h t p t e a m o k6I]
+[DELETED:  o i a e t t e r b l l c c t s v n s t t p b i a a p o a l r o p6I]
+[DELETED:  " n w m t a a o  e a i a l l a 1 I A T R A F I a w t p a d g i i 5 I 5 t I 5 A d b t b m b a u t F r o i p a p T b m i t a o t f i 1 I A T R A F6I]
+[DELETED:  5 I 5 t I 5 F r o i p a p T b m i t a o t f i c e p o a r o6I]
+[DELETED:  c e p o a r o 1 T d i I 5 a t t6I]
+[DELETED:  O a n f t p o c t  t p a d a m b t b t i l i a a z f 2 I 3 A A B P d e f a m p o b i a w t p a d g i i 5 t I 5 I 5 a6I]
+[DELETED:  t t 1 f a t s i I 56I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1042
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 2-3.5; IC 2-5-56; IC 5-10; IC 5-10.3;
+IC 5-10.4; IC 5-13-9-11; IC 5-36; IC 8-14-15.2-9; IC 10-12-2;
+IC 21-9-5-10; IC 28-8-4.1-201; IC 33-38-6-23; IC 33-39-7-11;
+IC 34-46-7; IC 35-37-7; IC 36-1; IC 36-8-8-5.
+Synopsis: Regulation and investment of cryptocurrency. Provides that
+the administrator or manager of the following shall offer a
+cryptocurrency exchange traded fund as a regular investment program:
+(1) The legislators' defined contribution plan. (2) The Hoosier START
+plan. (3) The public employees' retirement fund hybrid plan. (4) The
+public employees' retirement fund My Choice plan. (5) The teachers'
+retirement fund hybrid plan (including the teachers' pre-1996 account).
+(6) The teachers' retirement fund My Choice plan. (7) The 529
+education savings plan. Provides that the assets of the following may
+be invested in cryptocurrency exchange traded funds: (1) The
+legislators' defined benefit plan. (2) The state excise police, gaming
+agent, gaming control officer, and conservation enforcement officers'
+retirement plan. (3) The special death benefit fund. (4) The public
+employees' retirement fund hybrid plan. (5) The pension relief fund. (6)
+The teachers' retirement fund hybrid plan (including the teachers'
+pre-1996 account). (7) The judges' retirement system. (8) The
+prosecuting attorneys retirement fund. (9) The 1977 police officers' and
+firefighters' pension and disability fund. Provides that the treasurer of
+state may invest the assets of the following in stablecoin
+cryptocurrency exchange traded funds: (1) The trust Indiana investment
+pool. (2) The next generation trust fund. (3) The state police benefit
+system. Establishes the blockchain and digital assets task force and
+(Continued next page)
+Effective: July 1, 2026.
+Pierce K, Teshka, Judy, VanNatter
+December 2, 2025, read first time and referred to Committee on Financial Institutions.
+2026 IN 1042—LS 6415/DI 119
+
+Digest Continued
+provides that the task force shall: (1) evaluate governmental use cases,
+consumer protection, tax administration, and investment governance
+for digital assets; and (2) develop, and submit to the governor and the
+legislative council, recommended legislation for introduction in the
+2027 legislation session establishing not more than two state or local
+blockchain pilot projects for the purpose of testing blockchain
+implementation in Indiana. Prohibits a public agency, county,
+municipality, or township from adopting or enforcing a rule, ordinance,
+or other regulation that does any of the following: (1) Prohibits,
+restricts, or impairs an individual's ability to: (A) accept digital assets
+as a method of payment for legal goods and services; or (B) take
+custody of digital assets using specified technologies. (2) Prohibits,
+restricts, or impairs the ability of an individual or business to engage
+in specified activities pertaining to blockchains. (3) Imposes taxes or
+fees on: (A) use or acceptance of digital assets as a method of payment
+for legal goods and services; or (B) taking or maintaining custody of
+digital assets using a self-hosted wallet or hardware wallet; that are not
+applicable to comparable financial transactions that do not involve
+digital assets. (4) Prohibits a digital asset mining business from
+operating in an area zoned for industrial use, or subjects a digital asset
+mining business located in an area zoned for industrial use to noise
+restrictions that are not applicable to other businesses operating in an
+area zoned for industrial use. (5) Prohibits private digital asset mining
+in a private residence located in an area that is zoned for residential
+use, or subjects private digital asset mining in a residence located in an
+area zoned for residential use to noise restrictions that do not apply to
+other residences in an area zoned for residential use. Provides that
+development or use of software for noncustodial transfer of digital
+assets does not constitute money transmission for purposes of statutes
+regarding licensure of money transmitters. Provides that a court may
+compel a person to disclose a digital asset private key only if no other
+admissible information is sufficient to provide access to the digital
+asset.
+22002266 IINN 11004422——LLSS 66441155//DDII 111199
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1042
+A BILL FOR AN ACT to amend the Indiana Code concerning state
+and local administration.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-3.5-3-4, AS AMENDED BY P.L.35-2012,
+2 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 4. (a) The board shall administer the system,
+4 which may be commingled for investment purposes with the other
+5 funds administered by the board.
+6 (b) The board shall:
+7 (1) determine eligibility for and make payments of benefits under
+8 this chapter, IC 2-3.5-4, and IC 2-3.5-5;
+9 (2) in accordance with the powers and duties granted in
+10 IC 5-10.3-3-7.1, IC 5-10.3-5-3 through IC 5-10.3-5-6,
+11 IC 5-10.5-4, and IC 5-10.5-6, administer the system;
+12 (3) provide by rule for the implementation of this chapter,
+13 IC 2-3.5-4, and IC 2-3.5-5; and
+14 (4) authorize deposits.
+15 (c) A determination by the board may be appealed under IC 4-21.5.
+2026 IN 1042—LS 6415/DI 119
+
+2
+1 (d) The powers and duties of:
+2 (1) the director and the actuary of the board; and
+3 (2) the attorney general;
+4 with respect to the fund are those specified in IC 5-10.3-3, IC 5-10.3-4,
+5 IC 5-10.5-4, and IC 5-10.5-6.
+6 (e) The board may hire additional personnel, including hearing
+7 officers, to assist in the implementation of this chapter.
+8 (f) Legislators' retirement system records of individual participants
+9 and participants' information are confidential, except for the name and
+10 years of service of a retirement system participant.
+11 (g) The board may invest the assets of the defined benefit fund
+12 in cryptocurrency exchange traded funds.
+13 SECTION 2. IC 2-3.5-5-3.3 IS ADDED TO THE INDIANA CODE
+14 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+15 1, 2026]: Sec. 3.3. (a) As used in this section, "cryptocurrency"
+16 means a virtual currency that:
+17 (1) is not issued by a central authority;
+18 (2) is designed to function as a medium of exchange; and
+19 (3) uses encryption technology to:
+20 (A) regulate the generation of units of currency;
+21 (B) verify fund transfers; and
+22 (C) prevent counterfeiting.
+23 The term does not include a stablecoin.
+24 (b) As used in this section, "stablecoin" means a virtual
+25 currency:
+26 (1) the value of which is tied to coin or paper legal tender
+27 issued by a central authority;
+28 (2) that is fully backed by assets held in reserve; and
+29 (3) that grants the holder the right to redeem the virtual
+30 currency for the legal tender described in subdivision (1) from
+31 the issuer of the virtual currency.
+32 (c) The board shall offer a cryptocurrency exchange traded fund
+33 that consists solely of one (1) or more cryptocurrencies as a regular
+34 investment program within the defined contribution fund.
+35 (d) The board may adopt requirements and rules that apply to
+36 the cryptocurrency exchange traded fund within the defined
+37 contribution fund, including the following:
+38 (1) The board's investment guidelines and limits for the
+39 cryptocurrency exchange traded fund.
+40 (2) A participant's selection of and changes to the
+41 participant's investment options.
+42 (3) The valuation of a participant's account.
+2026 IN 1042—LS 6415/DI 119
+
+3
+1 (4) The allocation and payment of administrative expenses for
+2 the cryptocurrency exchange traded fund.
+3 (e) The board shall determine the appropriate administrative
+4 fees to be charged to the participant's accounts.
+5 SECTION 3. IC 2-5-56 IS ADDED TO THE INDIANA CODE AS
+6 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2026]:
+8 Chapter 56. Blockchain and Digital Assets Task Force
+9 Sec. 1. As used in this chapter, "blockchain pilot project" refers
+10 to a pilot project described in section 6 of this chapter.
+11 Sec. 2. As used in this chapter, "controllable electronic record"
+12 has the meaning set forth in IC 26-1-12-102.
+13 Sec. 3. As used in this chapter, "digital asset" means:
+14 (1) virtual currency;
+15 (2) cryptocurrency, including stablecoins;
+16 (3) fungible tokens and nonfungible tokens; and
+17 (4) other assets that:
+18 (A) exist only in electronic form; and
+19 (B) confer economic, proprietary, or access rights or
+20 powers.
+21 Sec. 4. As used in this chapter, "task force" refers to the Indiana
+22 blockchain and digital assets task force established by section 5 of
+23 this chapter.
+24 Sec. 5. The Indiana blockchain and digital assets task force is
+25 established.
+26 Sec. 6. (a) During the 2026 legislative interim, the task force
+27 shall:
+28 (1) evaluate governmental use cases, consumer protection, tax
+29 administration, and investment governance for digital assets;
+30 and
+31 (2) not later than November 1, 2026:
+32 (A) develop; and
+33 (B) submit to:
+34 (i) the governor; and
+35 (ii) the legislative council in an electronic format under
+36 IC 5-14-6;
+37 recommended legislation for introduction in the 2027 legislative
+38 session establishing not more than two (2) state or local blockchain
+39 pilot projects for the purpose of testing blockchain implementation
+40 in Indiana.
+41 (b) The recommended legislation under subsection (a) must, at
+42 minimum, require the following with regard to a blockchain pilot
+2026 IN 1042—LS 6415/DI 119
+
+4
+1 project:
+2 (1) That the blockchain pilot project:
+3 (A) must comply with:
+4 (i) IC 26-1 with regard to controllable electronic records;
+5 and
+6 (ii) any statutory restrictions applicable to central bank
+7 digital currency; and
+8 (B) may not impose:
+9 (i) a mandate on private acceptance of digital assets; or
+10 (ii) state custody of private cryptographic keys.
+11 (2) That the department of financial institutions shall:
+12 (A) administer the blockchain pilot project; and
+13 (B) not later than July 1, 2028, submit to the task force a
+14 report regarding the results of the blockchain pilot project.
+15 (c) If one (1) or more blockchain pilot projects are established
+16 in accordance with legislation recommended by the task force
+17 under subsection (a), the task force shall, not later than November
+18 1, 2028:
+19 (1) evaluate the report submitted to the task force by the
+20 department of financial institutions under subsection
+21 (b)(2)(B); and
+22 (2) submit to:
+23 (A) the governor; and
+24 (B) the legislative council in an electronic format under
+25 IC 5-14-6;
+26 a report of the results of the pilot projects, the task force's
+27 findings regarding the pilot projects, and any recommended
+28 legislation with regard to wider blockchain implementation in
+29 Indiana.
+30 Sec. 7. This chapter expires December 31, 2028.
+31 SECTION 4. IC 5-10-1.1-4.3 IS ADDED TO THE INDIANA
+32 CODE AS A NEW SECTION TO READ AS FOLLOWS
+33 [EFFECTIVE JULY 1, 2026]: Sec. 4.3. (a) As used in this section,
+34 "cryptocurrency" means a virtual currency that:
+35 (1) is not issued by a central authority;
+36 (2) is designed to function as a medium of exchange; and
+37 (3) uses encryption technology to:
+38 (A) regulate the generation of units of currency;
+39 (B) verify fund transfers; and
+40 (C) prevent counterfeiting.
+41 The term does not include a stablecoin (as defined in
+42 IC 2-3.5-5-3.3).
+2026 IN 1042—LS 6415/DI 119
+
+5
+1 (b) The deferred compensation committee shall offer a
+2 cryptocurrency exchange traded fund that consists solely of one (1)
+3 or more cryptocurrencies as a regular investment program within
+4 the state employees' deferred compensation plan.
+5 (c) The deferred compensation committee may adopt
+6 requirements and rules that apply to the cryptocurrency exchange
+7 traded fund within the plan, including the following:
+8 (1) The deferred compensation committee's investment
+9 guidelines and limits for the cryptocurrency exchange traded
+10 fund.
+11 (2) A plan participant's selection of and changes to the plan
+12 participant's investment options.
+13 (3) The valuation of a plan participant's account.
+14 (4) The allocation and payment of administrative expenses for
+15 the cryptocurrency exchange traded fund.
+16 (d) The deferred compensation committee shall determine the
+17 appropriate administrative fees to be charged to the plan
+18 participant accounts.
+19 SECTION 5. IC 5-10-5.5-2, AS AMENDED BY P.L.193-2016,
+20 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2026]: Sec. 2. (a) There is hereby created a state excise police,
+22 gaming agent, gaming control officer, and conservation enforcement
+23 officers' retirement plan to establish a means of providing special
+24 retirement, disability and survivor benefits to employees of the
+25 department, the Indiana gaming commission, and the commission who
+26 are engaged exclusively in the performance of law enforcement duties.
+27 (b) The assets of the retirement plan created by this section may be
+28 commingled for investment purposes with the assets of other funds
+29 administered by the board.
+30 (c) The board may invest the assets of the retirement plan
+31 created by this section in cryptocurrency exchange traded funds.
+32 SECTION 6. IC 5-10-9.8-2, AS AMENDED BY P.L.99-2020,
+33 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2026]: Sec. 2. (a) The special death benefit fund is established
+35 for the purpose of paying lump sum death benefits under the following
+36 statutes:
+37 (1) IC 5-10-10.
+38 (2) IC 5-10-11.
+39 (3) IC 10-12-6.
+40 (4) IC 36-8-6-20.
+41 (5) IC 36-8-7-26.
+42 (6) IC 36-8-7.5-22.
+2026 IN 1042—LS 6415/DI 119
+
+6
+1 (7) IC 36-8-8-20.
+2 (b) The fund consists of:
+3 (1) appropriations by the general assembly;
+4 (2) fees remitted to the board under IC 35-33-8-3.2,
+5 IC 5-10-10-4.5, IC 5-10-10-4.8, and IC 5-10-10-4.9;
+6 (3) contributions from employers;
+7 (4) gifts; and
+8 (5) interest or other investment income earned on money in the
+9 fund.
+10 (c) The fund shall be administered by the board. The expenses of
+11 administering the fund shall be paid from money in the fund.
+12 (d) The board shall invest the money in the fund not currently
+13 needed to meet the obligations of the fund in the same manner as the
+14 board's other funds may be invested. Interest that accrues from these
+15 investments shall be deposited in the fund.
+16 (e) Money in the fund at the end of a state fiscal year does not revert
+17 to the state general fund.
+18 (f) The board may invest the assets of the fund in
+19 cryptocurrency exchange traded funds.
+20 SECTION 7. IC 5-10.3-5-3, AS AMENDED BY P.L.32-2021,
+21 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 3. (a) The board shall invest its assets with the
+23 care, skill, prudence, and diligence that a prudent person acting in a
+24 like capacity and familiar with such matters would use in the conduct
+25 of an enterprise of a like character with like aims. The board shall also
+26 diversify such investments in accordance with prudent investment
+27 standards.
+28 (b) The board may invest:
+29 (1) up to five percent (5%) of the excess of its cash working
+30 balance in debentures of the corporation for innovation
+31 development subject to IC 30-4-3-3; and
+32 (2) the assets of the retirement allowance account described
+33 in section 1 of this chapter in cryptocurrency exchange traded
+34 funds.
+35 This subsection does not authorize other funds or accounts to
+36 invest in cryptocurrency exchange traded funds.
+37 (c) The board is not subject to IC 4-13, IC 4-13.6, and IC 5-16 when
+38 managing real property as an investment. Any management agreements
+39 entered into by the board must ensure that the management agent acts
+40 in a prudent manner with regard to the purchase of goods and services.
+41 Contracts for the management of investment property shall be
+42 submitted to the governor, the attorney general, and the budget agency
+2026 IN 1042—LS 6415/DI 119
+
+7
+1 for approval. A contract for management of real property as an
+2 investment:
+3 (1) may not exceed a four (4) year term and must be based upon
+4 guidelines established by the board;
+5 (2) may provide that the property manager may collect rent and
+6 make disbursements for routine operating expenses such as
+7 utilities, cleaning, maintenance, and minor tenant finish needs;
+8 (3) must establish, consistent with the board's duty under
+9 IC 30-4-3-3(c), guidelines for the prudent management of
+10 expenditures related to routine operation and capital
+11 improvements; and
+12 (4) may provide specific guidelines for the board to purchase new
+13 properties, contract for the construction or repair of properties,
+14 and lease or sell properties without individual transactions
+15 requiring the approval of the governor, the attorney general, the
+16 Indiana department of administration, and the budget agency.
+17 However, each individual contract involving the purchase or sale
+18 of real property is subject to review and approval by the attorney
+19 general at the specific request of the attorney general.
+20 (d) Whenever the board takes bids in managing or selling real
+21 property, the board shall require a bid submitted by a trust (as defined
+22 in IC 30-4-1-1(a)) to identify all of the following:
+23 (1) Each beneficiary of the trust.
+24 (2) Each settlor empowered to revoke or modify the trust.
+25 SECTION 8. IC 5-10.3-5-3.5 IS ADDED TO THE INDIANA
+26 CODE AS A NEW SECTION TO READ AS FOLLOWS
+27 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. (a) As used in this section,
+28 "cryptocurrency" means a virtual currency that:
+29 (1) is not issued by a central authority;
+30 (2) is designed to function as a medium of exchange; and
+31 (3) uses encryption technology to:
+32 (A) regulate the generation of units of currency;
+33 (B) verify fund transfers; and
+34 (C) prevent counterfeiting.
+35 The term does not include a stablecoin (as defined in
+36 IC 2-3.5-5-3.3).
+37 (b) The board shall offer a cryptocurrency exchange traded
+38 fund that consists solely of one (1) or more cryptocurrencies as a
+39 regular investment program within the annuity savings account
+40 described in section 1 of this chapter.
+41 (c) The board may adopt requirements and rules that apply to
+42 the cryptocurrency exchange traded fund within the annuity
+2026 IN 1042—LS 6415/DI 119
+
+8
+1 savings account, including the following:
+2 (1) The board's investment guidelines and limits for the
+3 cryptocurrency exchange traded fund.
+4 (2) A member's selection of and changes to the member's
+5 investment options.
+6 (3) The valuation of a member's account.
+7 (4) The allocation and payment of administrative expenses for
+8 the cryptocurrency exchange traded fund.
+9 (d) The board shall determine the appropriate administrative
+10 fees to be charged to the member accounts.
+11 SECTION 9. IC 5-10.3-11-2, AS AMENDED BY P.L.35-2012,
+12 SECTION 83, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 2. (a) The state board shall:
+14 (1) make payments from the pension relief fund;
+15 (2) administer the pension relief fund in accordance with the
+16 powers and duties granted it in IC 5-10.3-5-3 through
+17 IC 5-10.3-5-6, IC 5-10.5-4, and IC 5-10.5-6; and
+18 (3) provide by rule and regulation for the implementation of this
+19 chapter.
+20 (b) The state board may invest the assets of the pension relief
+21 fund in cryptocurrency exchange traded funds.
+22 SECTION 10. IC 5-10.3-12-22.5 IS ADDED TO THE INDIANA
+23 CODE AS A NEW SECTION TO READ AS FOLLOWS
+24 [EFFECTIVE JULY 1, 2026]: Sec. 22.5. (a) As used in this section,
+25 "cryptocurrency" means a virtual currency that:
+26 (1) is not issued by a central authority;
+27 (2) is designed to function as a medium of exchange; and
+28 (3) uses encryption technology to:
+29 (A) regulate the generation of units of currency;
+30 (B) verify fund transfers; and
+31 (C) prevent counterfeiting.
+32 The term does not include a stablecoin (as defined in
+33 IC 2-3.5-5-3.3).
+34 (b) The board shall offer a cryptocurrency exchange traded
+35 fund that consists solely of one (1) or more cryptocurrencies as a
+36 regular investment program within the plan.
+37 (c) The board may adopt requirements and rules that apply to
+38 the cryptocurrency exchange traded fund within the plan,
+39 including the following:
+40 (1) The board's investment guidelines and limits for the
+41 cryptocurrency exchange traded fund.
+42 (2) A member's selection of and changes to the member's
+2026 IN 1042—LS 6415/DI 119
+
+9
+1 investment options.
+2 (3) The valuation of a member's account.
+3 (4) The allocation and payment of administrative expenses for
+4 the cryptocurrency exchange traded fund.
+5 (d) The board shall determine the appropriate administrative
+6 fees to be charged to the member accounts.
+7 SECTION 11. IC 5-10.4-3-10, AS ADDED BY P.L.2-2006,
+8 SECTION 28, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 10. (a) The board shall invest its assets with the
+10 care, skill, prudence, and diligence that a prudent person acting in a
+11 like capacity and familiar with such matters would use in the conduct
+12 of an enterprise of a like character with like aims. The board also shall
+13 diversify investments in accordance with prudent investment standards,
+14 subject to the limitations and restrictions set forth in IC 5-10.2-2-18.
+15 (b) The board may:
+16 (1) make or have investigations made concerning investments;
+17 and
+18 (2) contract for and employ investment counsel to advise and
+19 assist in the purchase and sale of securities; and
+20 (3) invest the assets of the retirement allowance accounts
+21 described in IC 5-10.4-2-2 in cryptocurrency exchange traded
+22 funds.
+23 This subsection does not authorize other funds or accounts to
+24 invest in cryptocurrency exchange traded funds.
+25 (c) The board is not subject to IC 4-13, IC 4-13.6, or IC 5-16 when
+26 managing real property as an investment. A management agreement
+27 entered into by the board shall ensure that the management agent acts
+28 in a prudent manner regarding the purchase of goods and services.
+29 Contracts for the management of investment property shall be
+30 submitted to the governor, the attorney general, and the budget agency
+31 for approval. A contract for the management of real property as an
+32 investment:
+33 (1) may not exceed a four (4) year term and must be based upon
+34 guidelines established by the board;
+35 (2) may provide that the property manager may collect rent and
+36 make disbursements for routine operating expenses such as
+37 utilities, cleaning, maintenance, and minor tenant finish needs;
+38 (3) shall establish, consistent with the board's duty under
+39 IC 30-4-3-3(c), guidelines for the prudent management of
+40 expenditures related to routine operation and capital
+41 improvements; and
+42 (4) may provide specific guidelines for the board to:
+2026 IN 1042—LS 6415/DI 119
+
+10
+1 (A) purchase new properties;
+2 (B) contract for the construction or repair of properties; and
+3 (C) lease or sell properties;
+4 without individual transactions requiring the approval of the
+5 governor, the attorney general, the Indiana department of
+6 administration, and the budget agency. However, each individual
+7 contract involving the purchase or sale of real property is subject
+8 to review and approval by the attorney general at the specific
+9 request of the attorney general.
+10 (d) Whenever the board takes bids in managing or selling real
+11 property, the board shall require a bid submitted by a trust (as defined
+12 in IC 30-4-1-1(a)) to identify all the following:
+13 (1) Each beneficiary of the trust.
+14 (2) Each settlor empowered to revoke or modify the trust.
+15 SECTION 12. IC 5-10.4-3-10.5 IS ADDED TO THE INDIANA
+16 CODE AS A NEW SECTION TO READ AS FOLLOWS
+17 [EFFECTIVE JULY 1, 2026]: Sec. 10.5. (a) As used in this section,
+18 "cryptocurrency" means a virtual currency that:
+19 (1) is not issued by a central authority;
+20 (2) is designed to function as a medium of exchange; and
+21 (3) uses encryption technology to:
+22 (A) regulate the generation of units of currency;
+23 (B) verify fund transfers; and
+24 (C) prevent counterfeiting.
+25 The term does not include a stablecoin (as defined in
+26 IC 2-3.5-5-3.3).
+27 (b) The board shall offer a cryptocurrency exchange traded
+28 fund that consists solely of one (1) or more cryptocurrencies as a
+29 regular investment program within the annuity savings accounts
+30 described in IC 5-10.4-2-2.
+31 (c) The board may adopt requirements and rules that apply to
+32 the cryptocurrency exchange traded fund within the annuity
+33 savings accounts, including the following:
+34 (1) The board's investment guidelines and limits for the
+35 cryptocurrency exchange traded fund.
+36 (2) A member's selection of and changes to the member's
+37 investment options.
+38 (3) The valuation of a member's account.
+39 (4) The allocation and payment of administrative expenses for
+40 the cryptocurrency exchange traded fund.
+41 (d) The board shall determine the appropriate administrative
+42 fees to be charged to the member accounts.
+2026 IN 1042—LS 6415/DI 119
+
+11
+1 SECTION 13. IC 5-10.4-8-8.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 8.5. (a) As used in this section,
+4 "cryptocurrency" means a virtual currency that:
+5 (1) is not issued by a central authority;
+6 (2) is designed to function as a medium of exchange; and
+7 (3) uses encryption technology to:
+8 (A) regulate the generation of units of currency;
+9 (B) verify fund transfers; and
+10 (C) prevent counterfeiting.
+11 The term does not include a stablecoin.
+12 (b) The board shall offer a cryptocurrency exchange traded
+13 fund that consists solely of one (1) or more cryptocurrencies as a
+14 regular investment program within the plan.
+15 (c) The board may adopt requirements and rules that apply to
+16 the cryptocurrency exchange traded fund within the plan,
+17 including the following:
+18 (1) The board's investment guidelines and limits for the
+19 cryptocurrency exchange traded fund.
+20 (2) A member's selection of and changes to the member's
+21 investment options.
+22 (3) The valuation of a member's account.
+23 (4) The allocation and payment of administrative expenses for
+24 the cryptocurrency exchange traded fund.
+25 (d) The board shall determine the appropriate administrative
+26 fees to be charged to the member accounts.
+27 SECTION 14. IC 5-13-9-11, AS AMENDED BY P.L.223-2025,
+28 SECTION 3, AND P.L.230-2025, SECTION 8, IS AMENDED TO
+29 READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 11. (a) The
+30 following definitions apply throughout this section:
+31 (1) "Clearinghouse" refers to the clearinghouse registered with the
+32 department of state revenue under IC 6-8.1-9.5-3.5.
+33 (2) "Investment pool" means the local government investment
+34 pool established by subsection (b).
+35 (3) "Board" refers to the Indiana local government investment
+36 pool board established by section 12 of this chapter.
+37 (b) The local government investment pool is established within the
+38 office and custody of the treasurer of state.
+39 (c) An officer designated in section 1 of this chapter may pay any
+40 funds held by the officer into the investment pool, for the purpose of
+41 deposit, investment, and reinvestment of the funds by the treasurer of
+42 state on behalf of the unit of government paying the funds into the
+2026 IN 1042—LS 6415/DI 119
+
+12
+1 investment pool.
+2 (d) The treasurer of state may pay state funds into the investment
+3 pool for the purpose of deposit, investment, and reinvestment of the
+4 state funds.
+5 (e) The treasurer of state shall establish an account in the investment
+6 pool for the operator of the clearinghouse. The treasurer shall hold
+7 amounts paid by the department of state revenue for deposit in the
+8 clearinghouse operator's account in the investment pool.
+9 (f) Upon signed written request of the operator of the clearinghouse,
+10 the treasurer of state shall distribute the money in the operator's
+11 account established under subsection (e):
+12 (1) to the operator of the clearinghouse; or
+13 (2) to specific investment pool accounts of political subdivisions
+14 represented by the clearinghouse, if the written request submitted
+15 under this subsection specifies:
+16 (A) the political subdivision to which the funds are to be
+17 disbursed;
+18 (B) the specific amount of the funds to be disbursed; and
+19 (C) the specific investment pool account to which the
+20 disbursement is owed.
+21 The clearinghouse shall assume liability for any legal or administrative
+22 claims filed against a disbursement made by the treasurer of state that
+23 complies with this section.
+24 (g) Any interest accrued by the investment pool on funds held in the
+25 operator's account shall be distributed to the political subdivisions at a
+26 rate equal to the percentage owed to that political subdivision based on
+27 the overall setoff paid by the department of state revenue. No interest
+28 shall accrue under this subsection on any fees owed to the
+29 clearinghouse under IC 6-8.1-9.5-10(b).
+30 (h) The treasurer of state shall invest the funds in the investment
+31 pool in the same manner, in the same type of instruments, and subject
+32 to the same limitations provided for the deposit and investment of state
+33 funds by the treasurer of state under IC 5-13-10.5. However, the
+34 treasurer of state may invest the funds in the investment pool in
+35 cryptocurrency exchange traded funds consisting of one (1) or
+36 more stablecoins (as defined in IC 2-3.5-5-3.3).
+37 (i) The treasurer of state:
+38 (1) shall administer the investment pool in accordance with the
+39 policies of the board; and
+40 (2) with the permission of the board, may contract with
+41 accountants, attorneys, regulated investment advisors, money
+42 managers, and other finance and investment professionals to
+2026 IN 1042—LS 6415/DI 119
+
+13
+1 make investments and provide for the public accounting and legal
+2 compliance necessary to ensure and maintain the safety, liquidity,
+3 and yield of the investment pool.
+4 (j) The treasurer of state shall follow the policies established by the
+5 board. The treasurer of state must ensure the following:
+6 (1) The administrative expenses of the investment pool shall be
+7 accounted for by the treasurer of state and shall be paid from the
+8 earnings of the investment pool.
+9 (2) The earnings of the investment pool in excess of the
+10 administrative expenses of the investment pool shall be credited
+11 to the state and each unit of government participating in the
+12 investment pool in a manner that equitably reflects the different
+13 amounts and terms of the state's investment and each unit's
+14 investment in the investment pool.
+15 (3) The state and each unit of government participating in the
+16 investment pool shall receive electronic or paper reports,
+17 including:
+18 (A) a daily transaction confirmation, reflecting any activity in
+19 the state's or unit's account; and
+20 (B) a monthly report showing:
+21 (i) the state's or unit's investment activity in the investment
+22 pool; and
+23 (ii) the performance and composition of the investment pool.
+24 (k) A unit of government participating in the investment pool may
+25 elect to have any funds due from the state wired directly to the
+26 custodian bank of the investment pool for credit to the unit's investment
+27 pool account by submitting in writing a request to the state comptroller
+28 to wire the funds as directed. An election made by a unit of government
+29 under this subsection may be revoked at any time by the unit by
+30 submitting in writing a request to the state comptroller to cease wiring
+31 the funds as previously directed by the unit.
+32 SECTION 15. IC 5-36 IS ADDED TO THE INDIANA CODE AS
+33 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+34 2026]:
+35 ARTICLE 36. AUTHORITY OF ADMINISTRATIVE
+36 AGENCIES TO REGULATE DIGITAL ASSETS
+37 Chapter 1. Definitions
+38 Sec. 1. The definitions in this chapter apply throughout this
+39 article.
+40 Sec. 2. "Blockchain" means data that is:
+41 (1) shared across a network to create a ledger of verified
+42 transactions or information among network participants; and
+2026 IN 1042—LS 6415/DI 119
+
+14
+1 (2) linked using cryptography to maintain the integrity of the
+2 ledger and to execute other functions;
+3 including data that is distributed among network participants in an
+4 automated manner to concurrently update network participants on
+5 the state of the ledger and any other functions.
+6 Sec. 3. "Blockchain protocol" means executable software that:
+7 (1) is governed by a set of predefined rules that:
+8 (A) execute autonomously without human intervention;
+9 and
+10 (B) can be altered by a predetermined process;
+11 including predefined rules that use a previously existing
+12 blockchain as a base;
+13 (2) facilitates transfer of data and electronic records and
+14 allows the data and electronic records to be broadcast to
+15 nodes; and
+16 (3) is deployed to a blockchain;
+17 including a smart contract or network of smart contracts.
+18 Sec. 4. "Digital asset" means:
+19 (1) virtual currency;
+20 (2) cryptocurrency, including stablecoins;
+21 (3) fungible tokens and nonfungible tokens; and
+22 (4) other assets that:
+23 (A) exist only in electronic form; and
+24 (B) confer economic, proprietary, or access rights or
+25 powers.
+26 Sec. 5. "Digital asset mining" means using computing devices to
+27 run software that is specifically designed or utilized for the purpose
+28 of validating data and securing a blockchain network.
+29 Sec. 6. "Digital asset mining business" means multiple
+30 computing devices at a single location that:
+31 (1) are used to perform digital asset mining; and
+32 (2) consume, in total, an annual average of more than one (1)
+33 megawatt of energy in performing digital asset mining.
+34 Sec. 7. "Hardware wallet" means:
+35 (1) a physical device that:
+36 (A) is not continuously connected to the Internet; and
+37 (B) allows an individual to secure and transfer digital
+38 assets; or
+39 (2) a physical device that enables the owner of digital assets to
+40 retain independent control over the digital assets.
+41 Sec. 8. "Node" means software:
+42 (1) that:
+2026 IN 1042—LS 6415/DI 119
+
+15
+1 (A) communicates with other devices or participants on a
+2 blockchain to maintain consensus and integrity of the
+3 blockchain;
+4 (B) creates and validates blocks of transactions;
+5 (C) contains and updates a copy of a blockchain; or
+6 (D) performs any combination of the functions described
+7 in clauses (A) through (D); and
+8 (2) that does not exercise discretion over transactions initiated
+9 by the end user of a blockchain protocol.
+10 Sec. 9. "Private digital asset mining" means digital asset
+11 mining:
+12 (1) that is conducted by an individual; and
+13 (2) the individual's conduct of which does not consume an
+14 annual average of more than one (1) megawatt of energy.
+15 Sec. 10. "Public agency" means a board, commission,
+16 department, division, bureau, committee, agency, office,
+17 instrumentality, authority, or other entity exercising any part of
+18 the executive, including the administrative, power of the state.
+19 Sec. 11. "Self-hosted wallet" means a digital interface used to:
+20 (1) secure and transfer digital assets; and
+21 (2) retain independent control over the digital assets by the
+22 owner of the digital assets.
+23 Sec. 12. "Smart contract" means a computer program that:
+24 (1) is hosted and executed on a blockchain network; and
+25 (2) consists of code specifying predetermined conditions that,
+26 when met, trigger predetermined outcomes.
+27 Sec. 13. "Stake" or "staking" means committing digital assets
+28 to a blockchain network to participate in the blockchain network's
+29 operations by validating transactions, proposing or attesting to
+30 blocks, and securing the blockchain network.
+31 Sec. 14. "Validate" means performance of a process by which
+32 a blockchain protocol, through its consensus mechanism, confirms
+33 the authenticity and accuracy of transactions or other data entries
+34 that are then recorded on a blockchain protocol.
+35 Chapter 2. Regulation of Digital Assets
+36 Sec. 1. (a) A public agency may not adopt or enforce a rule or
+37 other regulation that would have the effect of prohibiting,
+38 restricting, or impairing the ability of a person to:
+39 (1) use or accept digital assets as a method of payment for
+40 legal goods and services; or
+41 (2) take or maintain custody of digital assets using a
+42 self-hosted wallet or hardware wallet.
+2026 IN 1042—LS 6415/DI 119
+
+16
+1 (b) A public agency may not impose taxes or fees on:
+2 (1) use or acceptance of digital assets as a method of payment
+3 for legal goods and services; or
+4 (2) taking or maintaining custody of digital assets using a
+5 self-hosted wallet or hardware wallet;
+6 that are not applicable to comparable financial transactions that
+7 do not involve digital assets.
+8 Sec. 2. A public agency may not adopt or enforce a rule or other
+9 regulation that would have the effect of prohibiting, restricting, or
+10 impairing the ability of an individual or business to do any of the
+11 following:
+12 (1) Operate a node for the purpose of connecting to a
+13 blockchain protocol and participating in the operation of the
+14 blockchain protocol.
+15 (2) Develop software on a blockchain protocol.
+16 (3) Transfer digital assets to another individual or business
+17 using a blockchain protocol.
+18 (4) Participate in staking on a blockchain protocol.
+19 Sec. 3. A public agency may not adopt or enforce a rule or other
+20 regulation:
+21 (1) that prohibits a digital asset mining business that
+22 otherwise meets the requirements for operation in an area
+23 zoned for industrial use from operating in an area zoned for
+24 industrial use; or
+25 (2) that:
+26 (A) limits the level of noise generated by a digital asset
+27 mining business that is located in an area zoned for
+28 industrial use; and
+29 (B) is not applicable to other businesses operating in an
+30 area zoned for industrial use.
+31 Sec. 4. A public agency may not adopt or enforce a rule or other
+32 regulation:
+33 (1) that prohibits private digital asset mining in a residence
+34 located in an area that is zoned for residential use; or
+35 (2) that:
+36 (A) limits the level of noise generated by private digital
+37 asset mining in a residence located in an area that is zoned
+38 for residential use; and
+39 (B) is not applicable to other residences in an area zoned
+40 for residential use.
+41 SECTION 16. IC 8-14-15.2-9, AS ADDED BY P.L.189-2018,
+42 SECTION 79, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2026 IN 1042—LS 6415/DI 119
+
+17
+1 JULY 1, 2026]: Sec. 9. (a) The trustee shall:
+2 (1) administer and manage the trust;
+3 (2) invest the money in the trust; and
+4 (3) deposit in the trust any interest that accrues from the
+5 investment of these funds.
+6 (b) Notwithstanding IC 5-13, the trustee shall invest the money in
+7 the trust not currently needed to meet the obligations of the trust in the
+8 same manner as money is invested by the Indiana public retirement
+9 system under IC 5-10.3-5. However, the trustee may not invest the
+10 money in the trust in equity securities. The trustee shall also comply
+11 with the prudent investor rule set forth in IC 30-4-3.5. The trustee may
+12 contract with investment management professionals, investment
+13 advisors, and legal counsel to assist in the investment of the trust and
+14 may pay the state expenses incurred under those contracts from the
+15 trust.
+16 (c) IC 4-9.1-1-8 and IC 4-9.1-1-9 do not apply to a trust established
+17 under this chapter.
+18 (d) Money in the trust fund at the end of a state fiscal year does not
+19 revert to the state general fund.
+20 (e) The trustee may invest the assets of the trust in
+21 cryptocurrency exchange traded funds consisting of one (1) or
+22 more stablecoins (as defined in IC 2-3.5-5-3.3).
+23 SECTION 17. IC 10-12-2-2 IS AMENDED TO READ AS
+24 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2. (a) The department
+25 may:
+26 (1) establish and operate an actuarially sound pension plan
+27 governed by a pension trust; and
+28 (2) make the necessary annual contribution in order to prevent
+29 any deterioration in the actuarial status of the trust fund.
+30 (b) The department shall make contributions to the trust fund. An
+31 employee beneficiary shall make contributions to the trust fund through
+32 authorized monthly deductions from wages.
+33 (c) The trust fund:
+34 (1) may not be commingled with any other funds; and
+35 (2) shall be invested only in accordance with state laws for the
+36 investment of trust funds, together with other investments as are
+37 specifically designated in the pension trust.
+38 Subject to the terms of the pension trust, the trustee, with the approval
+39 of the department and the pension advisory board, may establish
+40 investment guidelines and limits on all types of investments, including
+41 stocks and bonds, and take other action necessary to fulfill its duty as
+42 a fiduciary for the trust fund.
+2026 IN 1042—LS 6415/DI 119
+
+18
+1 (d) The trustee shall invest the trust fund assets with the same care,
+2 skill, prudence, and diligence that a prudent person acting in a like
+3 capacity and familiar with these matters would use in the conduct of an
+4 enterprise of a similar character with similar aims.
+5 (e) The trustee shall diversify the trust fund's investments in
+6 accordance with prudent investment standards. The investment of the
+7 trust fund is subject to section 3 of this chapter.
+8 (f) The trustee shall receive and hold as trustee for the uses and
+9 purposes set forth in the pension trust the funds paid by the department,
+10 the employee beneficiaries, or any other person or persons.
+11 (g) The trustee shall engage pension consultants to supervise and
+12 assist in the technical operation of the pension plan so that there is no
+13 deterioration in the actuarial status of the plan.
+14 (h) Before October 1 of each year, the trustee, with the aid of the
+15 pension consultants, shall prepare and file a report with the department
+16 and the state board of accounts. The report must include the following
+17 with respect to the fiscal year ending on the preceding June 30:
+18 SCHEDULE I. Receipts and disbursements.
+19 SCHEDULE II. Assets of the pension trust, listing investments as
+20 to book value and current market value at the end of the fiscal
+21 year.
+22 SCHEDULE III. List of terminations, showing cause and amount
+23 of refund.
+24 SCHEDULE IV. The application of actuarially computed "reserve
+25 factors" to the payroll data, properly classified for the purpose of
+26 computing the reserve liability of the trust fund as of the end of
+27 the fiscal year.
+28 SCHEDULE V. The application of actuarially computed "current
+29 liability factors" to the payroll data, properly classified for the
+30 purpose of computing the liability of the trust fund for the end of
+31 the fiscal year.
+32 SCHEDULE VI. An actuarial computation of the pension liability
+33 for all employees retired before the close of the fiscal year.
+34 (i) The minimum annual contribution by the department must be of
+35 sufficient amount, as determined by the pension consultants, to prevent
+36 any deterioration in the actuarial status of the pension plan during that
+37 year. If the department fails to make the minimum contribution for five
+38 (5) successive years, the pension trust terminates and the trust fund
+39 shall be liquidated.
+40 (j) Except as provided by applicable federal law, in the event of
+41 liquidation, the department shall take the following actions:
+42 (1) All expenses of the pension trust must be paid.
+2026 IN 1042—LS 6415/DI 119
+
+19
+1 (2) Adequate provision must be made for continuing pension
+2 payments to retired persons.
+3 (3) Each employee beneficiary must receive the net amount paid
+4 into the trust fund from the employee beneficiary's wages.
+5 (4) Any amount remaining in the pension trust after the
+6 department makes the payments described in subdivisions (1)
+7 through (3) must be equitably divided among the employee
+8 beneficiaries in proportion to the net amount paid from each
+9 employee beneficiary's wages into the trust fund.
+10 (k) The trustee may invest the trust fund assets in
+11 cryptocurrency exchange traded funds consisting of one (1) or
+12 more stablecoins (as defined in IC 2-3.5-5-3.3).
+13 SECTION 18. IC 10-12-2-7 IS AMENDED TO READ AS
+14 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 7. (a) The:
+15 (1) mortality reserve account referred to in section 4 of this
+16 chapter;
+17 (2) disability reserve account referred to in section 5 of this
+18 chapter; and
+19 (3) dependent pension reserve account referred to in section 6 of
+20 this chapter;
+21 may be commingled and operated as one (1) fund, known as the police
+22 benefit fund, under the terms of a supplementary trust agreement
+23 between the department and the trustee for the exclusive benefit of
+24 employee beneficiaries and their dependents.
+25 (b) The trustee shall receive and hold as trustee for the uses and
+26 purposes set out in the supplementary trust agreement all funds paid to
+27 it as the trustee by the department or by any other person or persons.
+28 (c) The trustee shall hold, invest, and reinvest the police benefit
+29 fund in:
+30 (1) investments that trust funds are permitted to invest in under
+31 Indiana law; and
+32 (2) other investments as may be specifically designated in the
+33 supplementary trust agreement.
+34 (d) The trustee, with the assistance of the pension engineers, shall,
+35 not more than ninety (90) days after the close of the fiscal year, prepare
+36 and file with the department and the department of insurance a detailed
+37 annual report showing receipts, disbursements, case histories, and
+38 recommendations as to the contributions required to keep the program
+39 in operation.
+40 (e) Contributions by the department to the police benefit fund shall
+41 be provided in the general appropriations to the department.
+42 (f) The trustee may invest the police benefit fund assets in
+2026 IN 1042—LS 6415/DI 119
+
+20
+1 cryptocurrency exchange traded funds consisting of one (1) or
+2 more stablecoins (as defined in IC 2-3.5-5-3.3).
+3 SECTION 19. IC 21-9-5-10 IS ADDED TO THE INDIANA CODE
+4 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+5 1, 2026]: Sec. 10. (a) As used in this section, "cryptocurrency"
+6 means a virtual currency that:
+7 (1) is not issued by a central authority;
+8 (2) is designed to function as a medium of exchange; and
+9 (3) uses encryption technology to:
+10 (A) regulate the generation of units of currency;
+11 (B) verify fund transfers; and
+12 (C) prevent counterfeiting.
+13 The term does not include a stablecoin (as defined in
+14 IC 2-3.5-5-3.3).
+15 (b) The board shall offer a cryptocurrency exchange traded
+16 fund that consists solely of one (1) or more cryptocurrencies as a
+17 regular investment program within an education savings program
+18 established under this article.
+19 (c) The board may adopt requirements and rules that apply to
+20 the cryptocurrency exchange traded fund within the program,
+21 including the following:
+22 (1) The board's investment guidelines and limits for the
+23 cryptocurrency exchange traded fund.
+24 (2) An account owner's selection of and changes to the
+25 account owner's investment options.
+26 (3) The valuation of accounts.
+27 (4) The allocation and payment of administrative expenses for
+28 the cryptocurrency exchange traded fund.
+29 (d) The board shall determine the appropriate administrative
+30 fees to be charged to the accounts.
+31 SECTION 20. IC 28-8-4.1-201, AS ADDED BY P.L.198-2023,
+32 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2026]: Sec. 201. The following definitions apply throughout
+34 this chapter:
+35 (1) "Acting in concert" means persons knowingly acting together
+36 with a common goal of jointly acquiring control of a licensee
+37 whether or not pursuant to an express agreement.
+38 (2) "Authorized delegate" means a person a licensee designates to
+39 engage in money transmission on behalf of the licensee.
+40 (3) "Average daily money transmission liability", with respect to
+41 a calendar quarter, means:
+42 (A) the sum of the amounts of a licensee's outstanding money
+2026 IN 1042—LS 6415/DI 119
+
+21
+1 transmission obligations in Indiana at the end of each day in
+2 the calendar quarter; divided by
+3 (B) the total number of days in that calendar quarter.
+4 For purposes of this subdivision, a "calendar quarter" is a quarter
+5 ending on March 31, June 30, September 30, or December 31.
+6 (4) "Bank Secrecy Act" means:
+7 (A) the Bank Secrecy Act (31 U.S.C. 5311 et seq.); and
+8 (B) regulations adopted under the Bank Secrecy Act (31
+9 U.S.C. 5311 et seq.).
+10 (5) "Closed loop stored value" means stored value that is
+11 redeemable by the issuer only for goods or services provided by
+12 the issuer or the issuer's affiliate or by franchisees of the issuer or
+13 the issuer's affiliate, except to the extent required by applicable
+14 law to be redeemable in cash for its cash value.
+15 (6) "Control" means any of the following:
+16 (A) The power to vote, directly or indirectly, at least
+17 twenty-five percent (25%) of the outstanding voting shares or
+18 voting interests of a licensee or of a person in control of a
+19 licensee.
+20 (B) The power to elect or appoint a majority of key individuals
+21 or executive officers, managers, directors, trustees, or other
+22 persons exercising managerial authority of a person in control
+23 of a licensee.
+24 (C) The power to exercise, directly or indirectly, a controlling
+25 influence over the management or policies of a licensee or of
+26 a person in control of a licensee. For purposes of this clause,
+27 a person is presumed to exercise a controlling influence if the
+28 person holds the power to vote, directly or indirectly, at least
+29 ten percent (10%) of the outstanding voting shares or voting
+30 interests of a licensee or of a person in control of a licensee.
+31 However, a person presumed to exercise a controlling
+32 influence under this clause may rebut the presumption of
+33 control if the person is a passive investor.
+34 For purposes of this subdivision, the percentage of a person
+35 controlled by any other person is determined by aggregating the
+36 other person's interest with the interest of any other immediate
+37 family member of that person, including the person's spouse,
+38 parents, children, siblings, mothers-in-law and fathers-in-law,
+39 sons-in-law and daughters-in-law, and any other person who
+40 shares the person's home.
+41 (7) "Department" refers to the members of the department of
+42 financial institutions.
+2026 IN 1042—LS 6415/DI 119
+
+22
+1 (8) "Director" refers to the director of the department appointed
+2 under IC 28-11-2-1.
+3 (9) "Eligible rating" means a credit rating of any of the three (3)
+4 highest rating categories provided by an eligible rating service,
+5 including any rating category modifiers, such as "plus" or "minus"
+6 for S&P Global, or an equivalent modifier for any other eligible
+7 rating service. The term includes the following:
+8 (A) A long term credit rating equal to at least A- by S&P
+9 Global, or an equivalent long term credit rating for any other
+10 eligible rating service.
+11 (B) A short term credit rating equal to at least A-2 by S&P
+12 Global, or an equivalent short term credit rating for any other
+13 eligible rating service.
+14 In any case in which the credit ratings differ among eligible rating
+15 services, the highest rating applies in determining whether the
+16 credit rating is an "eligible rating" as defined in this subdivision.
+17 (10) "Eligible rating service" means:
+18 (A) a nationally recognized statistical rating organization, as
+19 defined by the United States Securities and Exchange
+20 Commission; or
+21 (B) any other organization designated as such by the director.
+22 (11) "Federally insured depository financial institution" means:
+23 (A) a bank;
+24 (B) a credit union;
+25 (C) a savings and loan association;
+26 (D) a trust company;
+27 (E) a corporate fiduciary;
+28 (F) a savings association;
+29 (G) a savings bank;
+30 (H) an industrial bank; or
+31 (I) an industrial loan company;
+32 that is organized under the law of the United States or any state of
+33 the United States and that has federally or privately insured
+34 deposits as permitted by state or federal law.
+35 (12) "In Indiana", with respect to the location of a transaction,
+36 means the following:
+37 (A) At a physical location in Indiana, for a transaction
+38 requested in person.
+39 (B) For a transaction requested electronically or by telephone,
+40 a determination made by the provider of money transmission,
+41 by relying on the following, that the person requesting the
+42 transaction is in Indiana:
+2026 IN 1042—LS 6415/DI 119
+
+23
+1 (i) Information, provided by the person, regarding the
+2 location of the individual's residential address or the
+3 business entity's principal place of business or other physical
+4 address location, as applicable.
+5 (ii) Any records associated with the person that the provider
+6 of money transmission may have that indicate the person's
+7 location, including an address associated with an account.
+8 (13) "Individual" means a natural person.
+9 (14) "Key individual" means an individual ultimately responsible
+10 for establishing or directing policies and procedures of a licensee,
+11 such as an executive officer, manager, director, or trustee.
+12 (15) "Licensee" means a person licensed under this chapter.
+13 (16) "Material litigation" means litigation that, according to
+14 United States generally accepted accounting principles, is
+15 significant to a person's financial health and would be required to
+16 be disclosed in the person's annual audited financial statements,
+17 report to shareholders, or similar records.
+18 (17) "Money" means a medium of exchange that is issued by the
+19 United States government or by a foreign government. The term
+20 includes a monetary unit of account established by an
+21 intergovernmental organization or by agreement between two (2)
+22 or more governments.
+23 (18) "Monetary value" means a medium of exchange, whether or
+24 not redeemable in money.
+25 (19) "Money transmission" means any of the following:
+26 (A) Selling or issuing payment instruments to a person located
+27 in Indiana.
+28 (B) Selling or issuing stored value to a person located in
+29 Indiana.
+30 (C) Receiving money for transmission from a person located
+31 in Indiana.
+32 The term does not include the provision of solely online or
+33 telecommunications services or network access. The term does
+34 not include development or use of software for noncustodial
+35 transfer of digital assets (as defined by IC 5-36-1-4).
+36 (20) "MSB accredited state" means a state agency that is
+37 accredited by the Conference of State Bank Supervisors and
+38 Money Transmitter Regulators Association for money
+39 transmission licensing and supervision.
+40 (21) "Multistate licensing process" means an agreement entered
+41 into by and among state regulators related to:
+42 (A) coordinated processing of applications for money
+2026 IN 1042—LS 6415/DI 119
+
+24
+1 transmission licenses;
+2 (B) applications for the acquisition and control of a licensee;
+3 (C) control determinations; or
+4 (D) notice and information requirements for a change of key
+5 individuals.
+6 (22) "NMLS" means the Nationwide Multistate Licensing System
+7 and Registry:
+8 (A) developed by the Conference of State Bank Supervisors
+9 and the American Association of Residential Mortgage
+10 Regulators; and
+11 (B) owned and operated by the State Regulatory Registry,
+12 LLC, or by any successor or affiliated entity;
+13 for the licensing and registry of persons in financial services
+14 industries.
+15 (23) "Outstanding money transmission obligation", as established
+16 and extinguished in accordance with applicable state law, means:
+17 (A) any payment instrument or stored value that:
+18 (i) is issued or sold by a licensee to a person located in the
+19 United States, or reported as sold by an authorized delegate
+20 of the licensee to a person located in the United States; and
+21 (ii) has not yet been paid or refunded by or for the licensee,
+22 or escheated in accordance with applicable abandoned
+23 property laws; or
+24 (B) any money that:
+25 (i) is received for transmission by a licensee, or by an
+26 authorized delegate of the licensee, from a person located in
+27 the United States; and
+28 (ii) has not been received by the payee or refunded to the
+29 seller, or escheated in accordance with applicable
+30 abandoned property laws.
+31 For purposes of this subdivision, a person is located "in the
+32 United States" if the person is located in any state, territory, or
+33 possession of the United States or in the District of Columbia, the
+34 Commonwealth of Puerto Rico, or a United States military
+35 installation located in a foreign country.
+36 (24) "Passive investor" means a person that:
+37 (A) does not have the power to elect a majority of key
+38 individuals or executive officers, managers, directors, trustees,
+39 or other persons exercising managerial authority over a person
+40 in control of a licensee;
+41 (B) is not employed by and does not have any managerial
+42 duties with respect to the licensee or a person in control of the
+2026 IN 1042—LS 6415/DI 119
+
+25
+1 licensee;
+2 (C) does not have the power to exercise, directly or indirectly,
+3 a controlling influence over the management or policies of the
+4 licensee or a person in control of the licensee; and
+5 (D) either:
+6 (i) attests to as facts the characteristics of passivity set forth
+7 in clauses (A) through (C), in a form and by a medium
+8 prescribed by the director; or
+9 (ii) commits to the characteristics of passivity set forth in
+10 clauses (A) through (C) in a written document.
+11 (25) "Payment instrument" means a written or electronic check,
+12 draft, money order, traveler's check, or other written or electronic
+13 instrument for the transmission or payment of money or monetary
+14 value, whether or not negotiable. The term does not include:
+15 (A) stored value; or
+16 (B) any instrument that:
+17 (i) is redeemable by the issuer only for goods or services
+18 provided by the issuer or its affiliate, or franchisees of the
+19 issuer or its affiliate, except to the extent required by
+20 applicable law to be redeemable in cash for its cash value;
+21 or
+22 (ii) is not sold to the public but is issued and distributed as
+23 part of a loyalty, rewards, or promotional program.
+24 (26) "Person" means any individual, general partnership, limited
+25 partnership, limited liability company, corporation, trust,
+26 association, joint stock corporation, or other corporate entity, as
+27 so identified by the director.
+28 (27) "Receiving money for transmission" means receiving money
+29 or monetary value in the United States for transmission within or
+30 outside the United States by electronic or other means. The term
+31 "money received for transmission" has a corresponding meaning.
+32 (28) "Stored value" means monetary value representing a claim,
+33 against the issuer, that is evidenced by an electronic or digital
+34 record and that is intended and accepted for use as a means of
+35 redemption for money or monetary value, or payment for goods
+36 or services. The term includes "prepaid access" as defined in 31
+37 CFR 1010.100. The term does not include:
+38 (A) a payment instrument;
+39 (B) closed loop stored value; or
+40 (C) stored value not sold to the public but issued and
+41 distributed as part of a loyalty, rewards, or promotional
+42 program.
+2026 IN 1042—LS 6415/DI 119
+
+26
+1 (29) "Tangible net worth" means the aggregate assets of a
+2 licensee, excluding all intangible assets, less liabilities, as
+3 determined in accordance with United States generally accepted
+4 accounting principles.
+5 SECTION 21. IC 33-38-6-23, AS AMENDED BY P.L.35-2012,
+6 SECTION 103, IS AMENDED TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2026]: Sec. 23. (a) The board of trustees of the
+8 Indiana public retirement system (referred to as "the system" in this
+9 section) shall administer the fund, which may be commingled for
+10 investment purposes with any public pension and retirement fund
+11 administered by the system.
+12 (b) The board shall do the following:
+13 (1) Determine eligibility for and make payments of benefits under
+14 IC 33-38-7 and IC 33-38-8.
+15 (2) In accordance with the powers and duties granted it in
+16 IC 5-10.3-3-7.1, IC 5-10.3-5-3 through IC 5-10.3-5-6,
+17 IC 5-10.5-4, and IC 5-10.5-6, administer the fund.
+18 (3) Provide by rule for the implementation of this chapter and
+19 IC 33-38-7 and IC 33-38-8.
+20 (4) Authorize deposits.
+21 (c) A determination by the board may be appealed under the
+22 procedures in IC 4-21.5.
+23 (d) The powers and duties of:
+24 (1) the director and the actuary of the board; and
+25 (2) the attorney general;
+26 with respect to the fund are those specified in IC 5-10.3-3, IC 5-10.3-4,
+27 IC 5-10.5-4, and IC 5-10.5-6.
+28 (e) The board may hire additional personnel, including hearing
+29 officers, to assist it in the implementation of this chapter.
+30 (f) Fund records of individual participants and participants'
+31 information are confidential, except for the name and years of service
+32 of a fund participant.
+33 (g) The board may invest the assets of the fund in
+34 cryptocurrency exchange traded funds.
+35 SECTION 22. IC 33-39-7-11, AS AMENDED BY P.L.35-2012,
+36 SECTION 105, IS AMENDED TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 11. (a) The board shall administer
+38 the fund, which may be commingled with any public pension and
+39 retirement fund administered by the Indiana public retirement system
+40 for investment purposes.
+41 (b) The board shall do the following:
+42 (1) Determine eligibility for and make payments of benefits under
+2026 IN 1042—LS 6415/DI 119
+
+27
+1 this chapter.
+2 (2) In accordance with the powers and duties granted the board in
+3 IC 5-10.3-3-7.1, IC 5-10.3-5-3 through IC 5-10.3-5-6,
+4 IC 5-10.5-4, and IC 5-10.5-6, administer the fund.
+5 (3) Provide by rule for the implementation of this chapter.
+6 (4) Authorize deposits.
+7 (c) A determination by the board may be appealed under IC 4-21.5.
+8 (d) The powers and duties of:
+9 (1) the director and the actuary of the board; and
+10 (2) the attorney general;
+11 with respect to the fund are those specified in IC 5-10.3-3, IC 5-10.3-4,
+12 IC 5-10.5-4, and IC 5-10.5-6.
+13 (e) The board may hire additional personnel, including hearing
+14 officers, to assist in the implementation of this chapter.
+15 (f) Fund records of individual participants and participants'
+16 information are confidential, except for the name and years of service
+17 of a fund participant.
+18 (g) The board may invest the assets of the fund in
+19 cryptocurrency exchange traded funds.
+20 SECTION 23. IC 34-46-7 IS ADDED TO THE INDIANA CODE
+21 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]:
+23 Chapter 7. Privileged Financial Information
+24 Sec. 1. As used in this chapter, "digital asset" means:
+25 (1) virtual currency;
+26 (2) cryptocurrency, including stablecoins;
+27 (3) fungible tokens and nonfungible tokens; and
+28 (4) other assets that:
+29 (A) exist only in electronic form; and
+30 (B) confer economic, proprietary, or access rights or
+31 powers.
+32 Sec. 2. As used in this chapter, "digital asset private key" means
+33 an alphanumeric code that is used to:
+34 (1) prove ownership of; and
+35 (2) access;
+36 digital assets.
+37 Sec. 3. A court may compel a person to disclose a digital asset
+38 private key only if no other admissible information is sufficient to
+39 provide access to the digital asset.
+40 SECTION 24. IC 35-37-7 IS ADDED TO THE INDIANA CODE
+41 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]:
+2026 IN 1042—LS 6415/DI 119
+
+28
+1 Chapter 7. Privileged Financial Information
+2 Sec. 1. As used in this chapter, "digital asset" means:
+3 (1) virtual currency;
+4 (2) cryptocurrency, including stablecoins;
+5 (3) fungible tokens and nonfungible tokens; and
+6 (4) other assets that:
+7 (A) exist only in electronic form; and
+8 (B) confer economic, proprietary, or access rights or
+9 powers.
+10 Sec. 2. As used in this chapter, "digital asset private key" means
+11 an alphanumeric code that is used to:
+12 (1) prove ownership of; and
+13 (2) access;
+14 a digital asset.
+15 Sec. 3. A court may compel a person to disclose a digital asset
+16 private key only if no other admissible information is sufficient to
+17 provide access to the digital asset.
+18 SECTION 25. IC 36-1-3-15 IS ADDED TO THE INDIANA CODE
+19 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+20 1, 2026]: Sec. 15. (a) The definitions in IC 5-36-1 apply throughout
+21 this section.
+22 (b) A unit may not adopt or enforce a rule or other regulation
+23 that would have the effect of prohibiting, restricting, or impairing
+24 the ability of a person to:
+25 (1) use or accept digital assets as a method of payment for
+26 legal goods and services; or
+27 (2) take custody of digital assets using a self-hosted wallet or
+28 hardware wallet.
+29 (c) A unit may not impose taxes or fees on:
+30 (1) use or acceptance of digital assets as a method of payment
+31 for legal goods and services; or
+32 (2) taking or maintaining custody of digital assets using a
+33 self-hosted wallet or hardware wallet;
+34 that are not applicable to comparable financial transactions that
+35 do not involve digital assets.
+36 SECTION 26. IC 36-1-30.5 IS ADDED TO THE INDIANA CODE
+37 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]:
+39 Chapter 30.5. Regulation of Digital Asset Mining
+40 Sec. 1. The definitions in IC 5-36-1 apply throughout this
+41 chapter.
+42 Sec. 2. A unit may not adopt or enforce an ordinance or other
+2026 IN 1042—LS 6415/DI 119
+
+29
+1 regulation that would have the effect of prohibiting, restricting, or
+2 impairing the ability of an individual or business to do any of the
+3 following:
+4 (1) Operate a node for the purpose of connecting to a
+5 blockchain protocol and participating in the operation of the
+6 blockchain protocol.
+7 (2) Develop software on a blockchain protocol.
+8 (3) Transfer digital assets to another individual or business
+9 using a blockchain protocol.
+10 (4) Participate in staking on a blockchain protocol.
+11 Sec. 3. A unit may not adopt or enforce an ordinance or other
+12 regulation:
+13 (1) that prohibits a digital asset mining business that
+14 otherwise meets the requirements for operation in an area
+15 zoned for industrial use from operating in an area zoned for
+16 industrial use; or
+17 (2) that:
+18 (A) limits the level of noise generated by a digital asset
+19 mining business that is located in an area zoned for
+20 industrial use; and
+21 (B) is not applicable to other businesses operating in an
+22 area zoned for industrial use.
+23 Sec. 4. A unit may not adopt or enforce an ordinance or other
+24 regulation:
+25 (1) that prohibits private digital asset mining in a residence
+26 located in an area that is zoned for residential use; or
+27 (2) that:
+28 (A) limits the level of noise generated by private digital
+29 asset mining in a residence located in an area that is zoned
+30 for residential use; and
+31 (B) is not applicable to other residences in an area zoned
+32 for residential use.
+33 SECTION 27. IC 36-8-8-5, AS AMENDED BY P.L.85-2022,
+34 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 5. (a) The system board shall:
+36 (1) determine eligibility for and make payments of benefits,
+37 except as provided in section 12 of this chapter;
+38 (2) in accordance with the powers and duties granted it in
+39 IC 5-10.3-5-3 through IC 5-10.3-5-6, IC 5-10.5-4, and
+40 IC 5-10.5-5, administer the 1977 fund;
+41 (3) provide by rule for the implementation of this chapter; and
+42 (4) authorize deposits.
+2026 IN 1042—LS 6415/DI 119
+
+30
+1 (b) A determination by the system board may be appealed under the
+2 procedures in IC 4-21.5.
+3 (c) The powers and duties of the director appointed by the system
+4 board, the actuary of the system board, and the attorney general, with
+5 respect to the 1977 fund, are those specified in IC 5-10.3-3,
+6 IC 5-10.3-4, and IC 5-10.5.
+7 (d) The system board may hire additional personnel, including
+8 hearing officers, to assist it in the implementation of this chapter.
+9 (e) The 1977 fund records of individual members and membership
+10 information are confidential, except for the name and years of service
+11 of a 1977 fund member.
+12 (f) After July 1, 2022, if the system board determines that a new
+13 police officer or firefighter in PERF should be a member of the 1977
+14 fund, the system board shall require the employer to:
+15 (1) transfer the member into the 1977 fund; and
+16 (2) contribute the amount that the system board determines is
+17 necessary to fund fully the member's service credit in the 1977
+18 fund for all service earned as a police officer or firefighter in
+19 PERF.
+20 (g) The system board may invest the assets of the 1977 fund in
+21 cryptocurrency exchange traded funds.
+2026 IN 1042—LS 6415/DI 119
+
+[DELETED:  A  I 2 I 2 I 5 I 5 5 I 5 I 5 I 8 I 1 2 I 2 I 3 I 3 a o m o t f s o  T t r f M C p ( T 5 i i c e t f ( T a ( T j r s ( T m i t a o t f i s6I]
+[DELETED:  p p f t p o t b i I P a p a c o r t d a o t f ( P a ( P a d a m b f6I]
+[DELETED:  1 I 2 A A B P i a w t p a d g i 5 I 5 t I 5 p b r f t i o t c6I]
+[DELETED:  A u i t s " m a v c e t f w t d T b i g a l f t A p s o a c t t6I]
+[DELETED:  c e p o a r o6I]
+[DELETED:  o f i u s 4 I 5 I A T T I A A N S T R A F t d n i a s ( d i6I]
+[DELETED:  T d c c s o  T d c c m a T d c c i a f t b c t t p d a s b t e o t 6 I 5 A A B P6I]
+[DELETED:  f r t t b u I 3 T b m i t a o t f i 7 I 5 A A B P i d o t c f i f t m o i p s b6I]
+[DELETED:  a A c f m o r p a a d f r o e s a m e c w t b d u 3 g f t p m o r t r o a c l o s p w i t 8 I 5 I A T T I A A N S T R A F t d n i a s ( d i c e t f w t a6I]
+[DELETED:  T b i g a l f t a d g i i I 5 t A A N S T R A F t d n i a s ( d i c e t f w t p T b i g a l f t6I]
+[DELETED:  1 I 5 A A B P f t m o i p s b d f r o e s a s e c w t b d u 3 g f t p m o r t r o a c6I]
+[DELETED:  i t r t a o t t a g t I d o A A N S T R A F t d n i a s ( d i c e t f w t a T b i g a l f t6I]
+[DELETED:  A A N S T R A F c e t f w t p T b i g a l f t6I]
+[DELETED:  t o s s d t m i t o t s i p a t w t a u t s o a f o t t w t p o t b m c w a r i a m6I]
+[DELETED:  T e o t i p i e o t a t o t s i a e u p s r e o p r t h a f d f t s w d t t 3 A O A6I]
+[DELETED:  p r t u a p e c e p o a r o 6 " a m b m m a a i t s a t d6I]
+[DELETED:  t m c a i o t 9 " d a m m d a 1 " a m a b c d b c a o r t w h t e o p t o m c o d a u 6I]
+[DELETED:  O a n f t p o c t  t p a d a m b t b t i l i a a z f 1 I 8 A A B P6I]
+[DELETED:  d i t t a i t a f t w i m p i T t m i t a o t t i 1 I 1 I A T R A e a o a a s p p t d a t p a b m e6I]
+[DELETED:  T t s d t t f i i6I]
+[DELETED:  A a r i t p t a t ( m b e d a t e T t m i t t f a i 1 I 1 I A T R A r i6I]
+[DELETED:  t d n i a s ( d i T b i g a l f t A a o s o a c t t6I]
+[DELETED:  r a u t B S A ( " l s v m s v t i T p t v d o i a l a p p t e a c d a a o p w6I]
+[DELETED:  b t U S S a E U S a t h o p i A a p l i I f a t6I]
+[DELETED:  I p b t p r t o t i r a o t " l m l t a t S g a a p i a m u o a e b a v t d n i t p o s o o " a s m a s a t i T R A f m c p o a f m6I]
+[DELETED:  t A A o R M e i a w a a i r f t a l o b a o e i a w a o P R o a U S m d n h t p t e a m o k6I]
+[DELETED:  o i a e t t e r b l l c c t s v n s t t p b i a a p o a l r o p6I]
+[DELETED:  " n w m t a a o  e a i a l l a 1 I A T R A F I a w t p a d g i i 5 I 5 t I 5 A d b t b m b a u t F r o i p a p T b m i t a o t f i 1 I A T R A F6I]
+[DELETED:  5 I 5 t I 5 F r o i p a p T b m i t a o t f i c e p o a r o6I]
+[DELETED:  c e p o a r o 1 T d i I 5 a t t6I]
+[DELETED:  O a n f t p o c t  t p a d a m b t b t i l i a a z f 2 I 3 A A B P d e f a m p o b i a w t p a d g i i 5 t I 5 I 5 a6I]
+[DELETED:  t t 1 f a t s i I 56I]
