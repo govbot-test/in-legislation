@@ -1,0 +1,158 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1206",
+  "title": "Local public work project bidding.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "LOCAL GOVERNMENT; Generally",
+    "STATE GOVERNMENT; Public Works and Improvements"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides additional considerations that a local public works board may consider in determining the lowest responsible and responsive bidder for a public work project costing at least $300,000."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1206"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representative Karickhoff",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Employment, Labor and Pensions",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Employment, Labor and Pensions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Olthoff",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representatives Burton,  Cash added as coauthors",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Julie Olthoff",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julie Olthoff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Karickhoff",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Karickhoff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Burton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Burton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Becky Cash",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Becky Cash\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1206/HB1206.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1206.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1206.01.INTR/HB1206.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1206",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1206",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

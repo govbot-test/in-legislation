@@ -1,0 +1,177 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR 69",
+  "title": "Honoring Roni Embry.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "RESOLUTIONS; Recognition; Individuals' Honors and Special Achievements Recognized"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "A SENATE RESOLUTION honoring Roni Embry on her retirement."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sr69"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Hunley, Pol",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: adopted voice vote",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Senators Ford J.D., Jackson L, Niezgodski, Qaddoura, Randolph, Taylor G, Yoder, Spencer added as coauthors",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Andrea Hunley",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrea Hunley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. Ford",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J.D. Ford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "La Keisha Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"La Keisha Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Niezgodski",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Niezgodski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fady Qaddoura",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fady Qaddoura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lonnie Randolph",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lonnie Randolph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Taylor",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelli Yoder",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelli Yoder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Spencer",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Spencer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Resolution (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/resolutions/SR0069/SR0069.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/resolutions/senate/simple/69",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sr0069",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SCR 2",
+  "title": "Urging INDOT to rename the rest area at Mile Marker 107 on Interstate 7 the \"Master Sergeant Joseph L. McNally Rest Area\".",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "RESOLUTIONS; Road Renaming"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "A CONCURRENT RESOLUTION urging the Indiana Department of Transportation to rename the rest area at Mile Marker 107 on Interstate 70 in Greenfield, Indiana, the \"Master Sergeant Joseph L. McNally Rest Area\"."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-scr2"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Homeland Security and Transportation",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Homeland Security and Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Crider",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: adopted voice vote",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "House sponsor: Representative Lawson",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Referred to the House",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to the Committee on Roads and Transportation",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Roads and Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: adopted Roll Call 201: yeas 75, nays 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Returned to the Senate",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael Crider",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Crider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ethan Lawson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Lawson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Resolution (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/resolutions/SC0002/SC0002.04.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Resolution (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/resolutions/SC0002/SC0002.03.COMS.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/resolutions/SC0002/SC0002.02.COMS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced Senate Resolution (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/resolutions/SC0002/SC0002.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/resolutions/senate/concurrent/2",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sc0002",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

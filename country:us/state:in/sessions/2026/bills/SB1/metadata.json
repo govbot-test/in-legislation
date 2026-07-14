@@ -1,0 +1,897 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1",
+  "title": "Human services matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Family and Social Services Administration (FSSA)",
+    "AGRICULTURE; Food and Food Processing",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Budget Committee",
+    "FEDERAL GOVERNMENT; Citizenship and Immigration",
+    "FEDERAL GOVERNMENT; Generally",
+    "HEALTH; Billing and Costs",
+    "HEALTH; Emergency Medical Services (EMS)",
+    "HEALTH; Medicaid",
+    "LABOR AND EMPLOYMENT; Generally",
+    "SOCIAL SERVICES; Food stamps and Supplemental Nutrition Assistance Program (SNAP)",
+    "STATE GOVERNMENT; Federal Funding"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes the Indiana rural health transformation fund and makes allotments and expenditures from the fund subject to budget committee review before the allotment and expenditure may occur. Requires the office of the secretary of family and social services to report biannually to the budget committee concerning the use of the money in the fund. Prohibits recipients of Supplemental Nutrition Assistance Program (SNAP) benefits from using SNAP benefits to purchase candy and soft drinks. Requires the office of the secretary of family and social services to apply for a waiver or authorization to implement the prohibition if a waiver or authorization from a federal agency is required. Terminates the state's participation in the use of expanded categorical eligibility within the federal SNAP. Specifies gross income standards and countable resources for SNAP eligibility. Establishes immigration eligibility requirements for SNAP and requires the division of family resources to verify compliance with the requirements and submit information to the federal government about individuals for whom the division could not verify the immigration status. Specifies the time frame for Medicaid eligibility redeterminations. Requires the office of the secretary of family and social services (office) to transmit certain information to the federal government to prevent multiple state Medicaid enrollment. Specifies the time frame concerning the initial date of Medicaid assistance based on the application date. Sets forth additional countable income requirements for Medicaid. Modifies immigration status requirements for Medicaid, including presumptive eligibility and the healthy Indiana plan (HIP), and requires the office to verify compliance of the requirements and report information to the federal government. Modifies work and exemption requirements for HIP and requires the conditions to be met in the three preceding months before an individual applies to HIP. Requires the office to verify compliance with the work requirements on an ongoing basis and at least quarterly. Prohibits the office from expanding the medically frail exemption beyond the federal definition of the term. Removes the 12 month eligibility period for HIP and requires semiannual renewal. Sets forth additional copayments for the use of an emergency room setting for nonemergency services and other services under HIP."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Garten, Mishler, Charbonneau",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Appropriations",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senators Holdman, Koch, Johnson T, Brown L, Busch, Freeman, Gaskill, Donato, Byrne, Carrasco, Alexander, Maxwell, Baldwin, Goode, Raatz, Clark, Schmitt, Crider, Buchanan, Rogers, Doriot, Young M",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senators Tomes,  Niemeyer added as coauthors",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: ordered engrossed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #3 (Yoder) failed; Roll Call 31: yeas 10, nays 38",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (Qaddoura) failed; Roll Call 29: yeas 10, nays 38",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #2 (Qaddoura) failed; Roll Call 30: yeas 12, nays 35",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Yoder) failed; voice vote",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #5 (Yoder) failed; voice vote",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #6 (Yoder) failed; Roll Call 32: yeas 13, nays 35",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 44: yeas 38, nays 8",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "House sponsor: Representative Barrett",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Cosponsors: Representatives Thompson, Snow",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Referred to the House",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #3 (Shackleford) failed; Roll Call 279: yeas 29, nays 61",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #15 (Clere) failed; Roll Call 278: yeas 31, nays 57",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #17 (Shackleford) failed; Roll Call 280: yeas 30, nays 59",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Porter) failed; Roll Call 281: yeas 28, nays 60",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #5 (Porter) failed; Roll Call 282: yeas 29, nays 60",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #6 (Porter) failed; Roll Call 283: yeas 28, nays 62",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #7 (Porter) failed; Roll Call 284: yeas 32, nays 60",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #10 (DeLaney) failed; voice vote",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #12 (DeLaney) failed; Roll Call 285: yeas 34, nays 55",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #11 (DeLaney) failed; Roll Call 286: yeas 30, nays 64",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: amended, ordered engrossed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #14 (Barrett) prevailed; voice vote",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #2 (Pack) failed; Roll Call 277: yeas 30, nays 56",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #16 (Clere) failed; Division of the House: yeas 32, nays 59",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative King added as cosponsor",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 302: yeas 64, nays 30",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Motion to concur filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Returned to the Senate with amendments",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senate concurred with House amendments; Roll Call 266: yeas 39, nays 9",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Public Law 63",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the President Pro Tempore",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chris Garten",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris Garten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Mishler",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ryan Mishler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Charbonneau",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Charbonneau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Travis Holdman",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Travis Holdman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Koch",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric Koch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tyler Johnson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tyler Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Brown",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Justin Busch",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Busch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aaron Freeman",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aaron Freeman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Gaskill",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Gaskill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Donato",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stacey Donato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Byrne",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Byrne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndi Carrasco",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cyndi Carrasco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Alexander",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy Maxwell",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy Maxwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Baldwin",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Baldwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Goode",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Goode\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Raatz",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Raatz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brett Clark",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brett Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daryl Schmitt",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daryl Schmitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Crider",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Crider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Buchanan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Buchanan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda Rogers",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake Doriot",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blake Doriot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Young",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Tomes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Tomes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Niemeyer",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Niemeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Barrett",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brad Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeffrey Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeffrey Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig Snow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Craig Snow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joanna King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joanna King\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0001/SB0001.05.ENRH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0001/SB0001.04.ENGH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0001/SB0001.03.COMH.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0001/SB0001.02.COMS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0001/SB0001.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0001.05.ENRH.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0001.05.ENRH/SB0001.05.ENRH.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/1",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0001",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

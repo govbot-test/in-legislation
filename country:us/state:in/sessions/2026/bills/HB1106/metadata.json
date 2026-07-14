@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1106",
+  "title": "Various family matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Family and Social Services Administration (FSSA)",
+    "CHILDREN AND MINORS; Child Care Programs",
+    "CHILDREN AND MINORS; Children in Need of Services (CHINS)",
+    "HEALTH CARE PROFESSIONALS; Licensing (Including Behavioral and Mental Health)",
+    "MARRIAGE AND FAMILY LAW; Child Support, Custody, and Visitation",
+    "MARRIAGE AND FAMILY LAW; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Allows a provider to remain eligible to receive a voucher payment until a final determination is made that the provider's license or eligibility is no longer in good standing. Provides that a child care center is exempt from licensure if the child care center complies with all of the requirements for child care ministries, including registration. Provides certain qualifications that a child care center's director must meet. Requires the department of child services to create and periodically update a medical history form and ensure that certain people receive the medical history form. Provides that the crime of false reporting is a Level 6 felony if the alleged conduct, if true, would constitute certain felonies. Requires that, if a child is alleged to be a child in need of services and has been removed from the child's home and placed in an out-of-home placement, a court must order each biological parent who retains visitation or parenting time rights to complete a medical history form and may, under certain circumstances, temporarily suspend a biological parent's visitation or parenting time. Allows a biological parent to amend or complete the medical history form. Requires the court to reconsider any previous order suspending visitation or parenting time if the court makes certain findings. Makes conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1106"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Manning",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Family, Children and Human Affairs",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Family, Children and Human Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ethan Manning",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Manning\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1106/HB1106.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1106.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1106.01.INTR/HB1106.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1106",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1106",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

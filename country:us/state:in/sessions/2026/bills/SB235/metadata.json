@@ -1,0 +1,139 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 235",
+  "title": "Intelligent speed assistance device.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Bureau of Motor Vehicles (BMV)",
+    "COURTS; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Motor Vehicle Offenses (Excluding Traffic Violations)",
+    "CRIMINAL LAW AND PROCEDURE; Sentencing",
+    "STATE GOVERNMENT; Administrative Code",
+    "TECHNOLOGY; Artificial Intelligence and Robotics",
+    "TECHNOLOGY; Communication (Including Internet, Phone Lines, Print Media, Radio, and Television)",
+    "TRANSPORTATION; Landcraft"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Defines an \"intelligent speed assistance device\" as an aftermarket device that uses technology to limit the speed of a motor vehicle to not more than the speed limit of the area being traveled. Allows a court to require a person who has been convicted of a crime for which the operation of a motor vehicle is an element of the offense to use an intelligent speed assistance device. Requires the court to notify the bureau of motor vehicles (bureau) if an order is issued requiring the use of an intelligent speed assistance device and for the bureau to send a notice to the individual subject to the court order. Makes it a Class B misdemeanor to tamper with, or solicit another person to tamper with, an intelligent speed assistance device. Permits the bureau to establish rules related to the use of intelligent speed assistance devices and to approve vendors of intelligent speed assistance devices."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb235"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Homeland Security and Transportation",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Homeland Security and Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Becker",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Crider added as second author",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vaneta Becker",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vaneta Becker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Crider",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Crider\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0235/SB0235.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0235.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0235.01.INTR/SB0235.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/235",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0235",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 276",
+  "title": "Farmers' market nutrition assistance programs.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Health (IDOH)",
+    "AGRICULTURE; Food and Food Processing",
+    "FEDERAL GOVERNMENT; Generally",
+    "SOCIAL SERVICES; Food stamps and Supplemental Nutrition Assistance Program (SNAP)",
+    "SOCIAL SERVICES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires, subject to federal approval of any necessary plan, amendment, or waiver, the Indiana department of health (state department) to provide for: (1) a recipient of benefits under the federal Supplemental Nutrition Assistance Program (SNAP) to receive triple value for the recipient's SNAP benefits; and (2) a recipient of benefits under the federal Special Supplemental Nutrition Program for Women, Infants, and Children Program (WIC) to receive triple value for the recipient's WIC benefits; when used to purchase produce at a farmers' market that participates in one or more specified federal programs administered by the state department."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb276"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Ford J.D., Pol",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Family and Children Services",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Family and Children Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J.D. Ford",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J.D. Ford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0276/SB0276.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0276.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0276.01.INTR/SB0276.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/276",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0276",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

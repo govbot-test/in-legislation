@@ -1,0 +1,169 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1073",
+  "title": "Rape kit processing.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Indiana State Police (ISP)",
+    "CRIMINAL LAW AND PROCEDURE; Sex Offenses",
+    "GENERAL ASSEMBLY; Budget and Appropriations"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the state police department (department) to use part of an appropriation from House Enrolled Act 1001 (2025) to process rape kits and to eliminate the backlog of untested rape kits. Permits the department to issue grants to law enforcement agencies and testing labs to eliminate the backlog of untested rape kits. Requires the department to make a report to the general assembly by October 1, 2027, concerning the status of untested rape kits."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1073"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representative Sweet",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Cash",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Courts and Criminal Code",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Courts and Criminal Code",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Reassigned to Committee on Veterans Affairs and Public Safety",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Pryor added as coauthor",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Becky Cash",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Becky Cash\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lorissa Sweet",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lorissa Sweet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cherrish Pryor",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cherrish Pryor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1073/HB1073.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1073.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1073.01.INTR/HB1073.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1073",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1073",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

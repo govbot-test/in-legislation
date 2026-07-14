@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1227",
+  "title": "Designation of gold and silver as legal tender.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AUDITS AND AUDITORS (Non-Elected)",
+    "CIVIL LAW AND PROCEDURE; Contracts and Legal Documents",
+    "FINANCIAL SERVICES; Currency",
+    "METALS AND METAL DEALERS",
+    "STATE ELECTED OFFICIALS; Treasurer",
+    "TAXES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the treasurer of state (treasurer) to designate one or more established bullion depositories to provide a secure location for the storage of bullion by Indiana consumers. Requires the treasurer to engage an electronic payment system to oversee transactional and administrative procedures on behalf of consumers holding bullion depository accounts in a designated bullion depository. Provides that a consumer may establish a bullion depository account with a designated bullion depository by entering into a depository agreement with the bullion depository. Provides that a designated bullion depository qualifies as a state depository and is eligible to receive public funds of: (1) the state; or (2) a political subdivision; on deposit. Provides that each designated bullion depository must be audited by an independent third party auditor on an annual basis. Requires the treasurer to provide to the members of the general assembly on an annual basis a report concerning the operations and financial status of each designated bullion depository. Provides that the treasurer shall: (1) adopt guidelines; (2) designate one or more bullion depositories; and (3) engage an electronic payment system; not later than December 31, 2027. Provides that bullion is not subject to assessment and taxation under Indiana's property tax statute. Provides that the exchange of one type or form of legal tender for another type or form of legal tender is exempt from the state gross retail tax. Provides that the purchase, sale, or exchange of any type of specie is exempt from the state gross retail tax. Provides that specie is recognized as legal tender in Indiana. Provides that except as otherwise specifically provided by law or contract, a person may not compel any other person to tender or accept specie as legal tender. Provides that a prevailing party in an action for breach of any contract provision that expressly designates a type or form of specie as legal tender is entitled to specific performance of the contract provision."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1227"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Financial Institutions",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Lindauer",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shane Lindauer",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shane Lindauer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1227/HB1227.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1227.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1227.01.INTR/HB1227.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1227",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1227",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

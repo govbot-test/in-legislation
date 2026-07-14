@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Representatives Garcia Wilburn, Hamilton, Burton, Teshka, Judy, Pfaff, Clere, Miller D, Olthoff, Slager, Pierce K, Aylesworth, Novak R, Jackson C, Harris, Snow added as coauthors",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/9",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0009",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 9"
+}

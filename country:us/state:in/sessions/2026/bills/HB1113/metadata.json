@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1113",
+  "title": "Repair of residential rental properties.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "COURTS; Generally",
+    "PROPERTY; Landlords and Tenants"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a landlord to repair or replace an essential item not later than 24 hours after being notified by a tenant that the tenant's rental unit is without certain essential services. Provides that a tenant may request an agency tasked with enforcing unsafe building provisions (enforcement authority) to conduct an inspection and replace or repair an essential item within 24 hours of the inspection. Authorizes the enforcement authority to replace or repair an essential item within 24 hours and to charge the landlord for certain costs and to order a $500 civil penalty to be paid. Requires any civil penalties to be placed in a repair fund to be used for costs incurred by the enforcement authority to replace or repair an essential item. Establishes appeal procedures. Requires a rental agreement entered into after June 30, 2026, to include a provision allowing a tenant to be reimbursed for any deposits paid by the tenant and to terminate the rental agreement if certain repairs are not made within seven days. Allows a court to order that a tenant's regular rental payments are paid into an attorney trust account or to the clerk of the court during the pendency of an enforcement action brought by the tenant."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1113"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Pryor",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cherrish Pryor",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cherrish Pryor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1113/HB1113.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1113.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1113.01.INTR/HB1113.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1113",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1113",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee report: do pass, adopted",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/112",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0112",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 112"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Third reading: passed; Roll Call 49: yeas 44, nays 0",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/113",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0113",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 113"
+}

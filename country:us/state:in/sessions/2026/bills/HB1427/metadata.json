@@ -1,0 +1,151 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1427",
+  "title": "Reporting on gender transition procedures.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Professional Licensing Agency (PLA)",
+    "HEALTH CARE PROFESSIONALS; Behavioral Health",
+    "HEALTH CARE PROFESSIONALS; Doctors and Physicians",
+    "HEALTH CARE PROFESSIONALS; Generally",
+    "HEALTH CARE PROFESSIONALS; Licensing (Including Behavioral and Mental Health)"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1427"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Smith H",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Public Health",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Barrett, McGuire, Carbaugh",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hunter Smith",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hunter Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Barrett",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie McGuire",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin Carbaugh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin Carbaugh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1427/HB1427.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1427.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1427.01.INTR/HB1427.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1427",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1427",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

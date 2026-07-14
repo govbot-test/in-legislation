@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 84",
+  "title": "Prekindergarten and child care.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Family and Social Services Administration (FSSA)",
+    "CHILDREN AND MINORS; Child Care Programs",
+    "GENERAL ASSEMBLY; Budget and Appropriations",
+    "SCHOOLS; Pre-Kindergarten and Kindergarten",
+    "STATE GOVERNMENT; Federal Funding"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the office of the secretary of family and social services (office) to apply to the United States Department of Health and Human Services to amend the state plan for the federal Child Care and Development Fund (CCDF) voucher program to increase the maximum initial eligibility limit for purposes of initial eligibility to 150% of the federal poverty level. Requires the office to fully fund: (1) each eligible applicant for a CCDF voucher payment; and (2) eligible CCDF provider reimbursement rates at a specified rate. Provides that the office may not place an eligible CCDF applicant on a waiting list. Provides that an eligible child for the prekindergarten program is an individual who, among other conditions, is a member of a household with an annual income that does not exceed 150% of the federal poverty level (instead of 135% for individuals enrolled on or after May 1, 2025, under current law). Removes the limitation on state money that may be used for a prekindergarten voucher during a state fiscal year. Requires the office of family and social services to establish reimbursement rates for prekindergarten providers that are equal to or greater than the rates established that were in effect on January 1, 2025. Makes an appropriation to the prekindergarten program fund."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb84"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Appropriations",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Qaddoura",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fady Qaddoura",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fady Qaddoura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0084/SB0084.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0084.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0084.01.INTR/SB0084.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0084.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0084.01.INTR/SB0084.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/84",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0084",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 175",
+  "title": "Dangerous excessive speeding.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Criminal History and Expungements",
+    "CRIMINAL LAW AND PROCEDURE; Motor Vehicle Offenses (Excluding Traffic Violations)",
+    "CRIMINAL LAW AND PROCEDURE; Offenses Against Public Health, Order, and Decency",
+    "CRIMINAL LAW AND PROCEDURE; Sentencing",
+    "TRANSPORTATION; Landcraft",
+    "TRANSPORTATION; Licenses, Plates, Registration, and Titles",
+    "TRANSPORTATION; Traffic Rules, Regulations, Penalties, and Violations"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Creates the crime of excessive speeding, a Class C misdemeanor. Provides that the offense is a Class B misdemeanor if the person has a prior unrelated conviction and provides that two convictions within five years shall result in the court's recommendation for immediate suspension of driving privileges. Provides that a sentencing court shall impose a fine of $5,000 and recommend the suspension of driving privileges for six months for a person convicted of resisting law enforcement using a vehicle. Provides that a sentencing court shall impose a fine of $10,000 and recommend the suspension of driving privileges for one year if a person uses a vehicle to commit the offense and the person has a prior unrelated conviction."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb175"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Buck, Crider",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Corrections and Criminal Law",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections and Criminal Law",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James Buck",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Buck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Crider",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Crider\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0175/SB0175.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0175.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0175.01.INTR/SB0175.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/175",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0175",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

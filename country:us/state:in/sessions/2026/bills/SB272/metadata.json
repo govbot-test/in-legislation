@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 272",
+  "title": "Competitive electric supply service.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "ENERGY; Generally",
+    "PROPERTY; Generally",
+    "UTILITIES; Electric"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that beginning July 1, 2027, an eligible customer of an incumbent electricity supplier may elect to receive: (1) electric supply service directly from a competitive electricity supplier; and (2) transmission and distribution service from the incumbent electricity supplier. Defines for these purposes an \"eligible customer\" as a new or existing nonresidential customer of the incumbent electricity supplier, or an aggregation of two or more such customers, whose aggregate electricity demand during the most recently concluded calendar year exceeded one megawatt. Defines for these purposes an \"incumbent electricity supplier\", with respect to an eligible customer, as an investor owned utility that is under the jurisdiction of the Indiana utility regulatory commission (IURC) and whose assigned service area includes the eligible customer. Requires the IURC to establish by rule the following: (1) A system for establishing and periodically adjusting a cap on an incumbent electricity supplier's eligible customers receiving electric supply service from a competitive electricity supplier. (2) A queue process by which eligible customers of an incumbent electricity supplier that elect to receive electric supply service from a competitive electricity supplier are authorized to begin receiving that service as the incumbent electricity supplier's cap allows. Specifies the methods by which the IURC must establish and adjust an incumbent electricity supplier's cap. Sets forth requirements for advance notice that an eligible customer must provide to an incumbent electricity supplier before: (1) receiving electric supply service from a competitive electricity supplier; or (2) resuming electric supply service under the incumbent electricity supplier's applicable tariff upon discontinuing electric supply service from a competitive electricity supplier. Provides that on any customer bill issued by an incumbent electricity supplier after June 30, 2027, the incumbent electricity supplier must include a breakdown of the charges and fees that make up the total amount owed, including a description of the service or cost associated with each charge or fee. Sets forth certain charges and fees that must be delineated as specific line items on each customer bill. Requires the IURC to establish by rule requirements for an incumbent electricity supplier to provide to a competitive electricity supplier historical usage data for an eligible customer that seeks to receive electric supply service from the competitive electricity supplier. Sets forth certain metrics that the customer usage data must include. Requires the IURC to establish by rule a licensing process for competitive electricity suppliers that seek to provide electric supply service to eligible customers of incumbent electricity suppliers in Indiana. Sets forth certain requirements that a competitive electricity supplier must meet as a condition of receiving and maintaining a license. Provides that an incumbent electricity supplier that seeks to provide electric supply service outside its assigned service area must do so through a functionally separate, nonutility affiliate that is subject to the bill's licensing requirements. Requires the IURC to establish by rule a procedure by which a: (1) municipally owned utility; or (2) rural electric corporation; may elect to become subject to the bill's provisions so as to enable its eligible customers to receive electric supply service from a competitive electricity supplier. Provides that in any base rate case for an incumbent electricity supplier, the IURC shall: (1) ensure that electric supply service received by eligible customers from a competitive electricity supplier will not result in unreasonable cost shifting to other nonparticipating eligible customers or to other customer classes; and (2) consider the avoided generation and purchased power costs inuring to the benefit of the incumbent electricity supplier's ratepayers as a result of eligible customers receiving electric supply service from competitive electricity suppliers. Beginning in 2028, requires the IURC to include each year in its annual report specified information concerning the provision of electric supply service by competitive electricity suppliers to eligible customers of incumbent electricity suppliers. Requires the IURC to adopt rules to implement the bill's provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb272"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Donato",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Doriot added as second author",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stacey Donato",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stacey Donato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake Doriot",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blake Doriot\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0272/SB0272.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0272.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0272.01.INTR/SB0272.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/272",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0272",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

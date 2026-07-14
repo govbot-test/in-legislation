@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 83",
+  "title": "Various utility matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "COURTS; Trial Courts",
+    "ENERGY; Generally",
+    "LOCAL GOVERNMENT; Generally",
+    "PROPERTY; Eminent Domain",
+    "UTILITIES; Electric",
+    "UTILITIES; Gas",
+    "UTILITIES; Generally",
+    "UTILITIES; Municipal Utilities",
+    "UTILITIES; Rural Electric Membership Cooperatives (REMCs)",
+    "UTILITIES; Water"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a transaction involving the sale of utility service, as reflected in the total amount billed by a utility in a customer bill that is issued after December 31, 2026, is exempt from the state gross retail tax. Provides that this exemption applies to: (1) the sale of electric, natural gas, water, or wastewater service; and (2) a customer bill issued by a utility after December 31, 2026, regardless of whether the bill includes any fees or charges for utility service provided to the customer before January 1, 2027. Repeals the sales and use tax exemption for certain data centers enacted in the 2025 session in HEA 1601. Provides that after March 14, 2026, the Indiana utility regulatory commission (IURC) may not issue a final order in a base rate case filed by an electricity supplier if the final order, once fully implemented, would result in an average increase of 3% or greater in the total monthly bill of a residential customer of the electricity supplier. Specifies that a municipality includes a consolidated city for purposes of the existing statute authorizing a municipality to purchase, condemn, and operate a utility in the municipality for the purpose of providing utility service to the municipality or the public: (1) without the consent of the IURC; and (2) even if a public utility is engaged in a similar service in the municipality. Provides that the existing statute prohibiting a municipality, public utility, or rural electric membership corporation from bringing an action against a public utility for the condemnation of the public utility's electric utility property does not apply to a municipality that seeks to purchase the electric utility property of a public utility for use of the property in providing electric utility service if: (1) the municipality and the public utility are unable to agree upon a price to be paid for the electric utility property; and (2) the municipality by ordinance declares that a public necessity exists for the condemnation of the electric utility property. Provides that a municipality that adopts such an ordinance may: (1) bring an action in the circuit or superior court of the county where the municipality is located against the public utility for the condemnation of the electric utility property; and (2) exercise the power of eminent domain in accordance with the existing eminent domain statute. Prohibits the IURC from issuing before July 1, 2028, a final order in a base rate case filed by an electricity supplier with the IURC, regardless of the date of filing of the electricity supplier's base rate case with the IURC. Provides that this provision expires July 1, 2028. Provides that existing law providing that the rates and charges of a municipally owned utility may include a reasonable return on the utility plant of the municipality if the legislative body of the municipality so elects does not apply to rates and charges established or amended by a municipal legislative body after March 14, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb83"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Qaddoura",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fady Qaddoura",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fady Qaddoura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0083/SB0083.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0083.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0083.01.INTR/SB0083.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/83",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0083",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

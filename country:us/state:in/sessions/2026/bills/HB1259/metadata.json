@@ -1,0 +1,144 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1259",
+  "title": "Local income tax.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Generally",
+    "ANNEXATION OF TERRITORY",
+    "CITIES AND TOWNS; Generally",
+    "COUNTY GOVERNMENT",
+    "LOCAL ELECTED OFFICIALS; Auditors",
+    "TAXES; Local Income Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires state agencies and political subdivisions to cooperate with the state GIS officer in preparing a statewide base map. Requires a county auditor to submit certain information to the state GIS officer concerning an annexation or disannexation. Specifies procedures for the imposition of local income taxes and distribution of local income tax revenue. Provides that, for counties or municipalities that fail to adopt an ordinance to renew an existing expenditure tax rate, the expenditure tax rate for the county or municipality shall be the minimum tax rate necessary for existing debt service. Allows an adopting body to adopt a tax rate to provide distributions to school corporations as a component of the tax rate for general purpose revenue. Provides that a county's total expenditure tax rate expires on December 31, 2029, and on December 31 of every fourth calendar year thereafter. Provides that the county may determine an allocation method for revenue raised from a tax rate for fire protection or emergency medical services. Provides that the county and certain township fire departments must receive an allocation of revenue raised from a tax rate for fire protection or emergency medical services. Authorizes cities and towns with a population of at least 3,500 that have adopted a 1.2% municipal local income tax rate to impose an additional local income tax rate that does not exceed the county's unused rate capacity for general purpose revenue, if any. Provides a formula for the distribution of revenue from the local income tax rate imposed by a county for certain small cities and towns. Specifies procedures for determining population for purposes of a municipal local income tax rate. Requires each county and municipality to report to the department of local government finance the total amount of the county's or municipality's debt service obligations payable from local income tax revenues that will be due in the ensuing year."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1259"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Thompson",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Clere, Snow",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeffrey Thompson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeffrey Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward Clere",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward Clere\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig Snow",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Craig Snow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1259/HB1259.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1259.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1259.01.INTR/HB1259.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1259",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1259",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

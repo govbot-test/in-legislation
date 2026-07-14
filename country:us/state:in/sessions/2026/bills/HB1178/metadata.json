@@ -1,0 +1,142 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1178",
+  "title": "Minor access to social media.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CHILDREN AND MINORS; Generally",
+    "STATE ELECTED OFFICIALS; Attorney General",
+    "TECHNOLOGY; Communication (Including Internet, Phone Lines, Print Media, Radio, and Television)",
+    "TRADE REGULATIONS; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a social media provider that meets specified conditions (provider) may not create an account for an individual who is less than 14 years of age (minor) unless the provider receives verifiable parental consent to creation of the account from a parent of the minor. Requires a provider that creates an account for a minor to: (1) provide the minor's parent with the option of receiving a separate password that allows the parent to set limits on the minor's use of the account; and (2) configure the account in a specified manner, including by disabling access by the account holder to specified features and functionality of the social media platform. Requires a provider to: (1) periodically verify the age of each Indiana account holder; and (2) terminate an account if: (A) the provider determines that the Indiana account holder is a minor; and (B) the provider did not receive verifiable parental consent for the creation of the account; subject to a specified process by which an account holder may dispute the provider's determination. Requires a provider to: (1) provide a minor account holder and the minor's parent with a clearly explained, simple to use, and easily accessible means of terminating the minor's account; and (2) terminate the minor's account within a specified time after receiving a request for the account's termination. Provides requirements for a provider's use and retention of information provided to the provider for purposes of verifiable parental consent. Provides that a provider that creates or maintains an account for a minor in violation of these requirements is subject to a civil action by the minor or a parent of the minor, and specifies remedies available to a prevailing plaintiff in such an action. Provides that the attorney general may independently enforce these requirements under the attorney general's authority to enforce Indiana law regarding unfair trade practices."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1178"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representatives Behning, Teshka",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative King",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joanna King",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanna King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Behning",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Behning\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Teshka",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Teshka\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1178/HB1178.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1178.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1178.01.INTR/HB1178.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1178",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1178",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

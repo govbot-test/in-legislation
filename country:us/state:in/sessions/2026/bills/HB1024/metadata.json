@@ -53,6 +53,44 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:52Z"
       }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Ways and Means pursuant to House Rule 126.3",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Bartlett added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,10 +101,29 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mike Aylesworth\"}",
       "organization_id": null
+    },
+    {
+      "name": "John Bartlett",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Bartlett\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1024/HB1024.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced House Bill (H)",
       "links": [
@@ -81,10 +138,10 @@
   ],
   "documents": [
     {
-      "note": "Fiscal Note: HB1024.01.INTR.FN001",
+      "note": "Fiscal Note: HB1024.02.COMH.FN001",
       "links": [
         {
-          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1024.01.INTR/HB1024.01.INTR.FN001?format=pdf",
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1024.02.COMH/HB1024.02.COMH.FN001?format=pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -111,7 +168,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:52Z",
+    "logs_latest_update": "2026-07-14T13:57:15Z",
     "text_extraction_latest_update": "2026-07-13T08:57:10.836982Z"
   }
 }

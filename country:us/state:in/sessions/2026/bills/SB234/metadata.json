@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 234",
+  "title": "Energy utility matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "ENERGY; Generally",
+    "NATURAL RESOURCES; Natural Gases and Carbon Dioxide",
+    "UTILITIES; Gas",
+    "UTILITIES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that any standard tariff offered by an energy utility after March 14, 2026, to a large load customer of the energy utility must include a provision that requires reimbursement by the large load customer of all project costs reasonably allocable to the large load customer, regardless of whether the large load customer ultimately takes service in any anticipated amount and within any anticipated time frame. Makes a conforming amendment to the existing statute that allows an energy utility to petition the Indiana utility regulatory commission (IURC) for approval of a project to serve a large load customer. Provides that in a proceeding that is filed with or pending before the IURC after December 31, 2025, for a change in an energy utility's basic rates and charges, the IURC may not issue an order in the proceeding that would result, upon full implementation, in an increase in the energy utility's basic rates and charges, for any customer class, that exceeds the average monthly percentage increase in seasonally adjusted electricity prices for the United States over the course of a specified period that ends with the last month of the energy utility's 12 month test period used in the proceeding. Provides that the IURC may not authorize a public utility that: (1) provides retail electric or natural gas service; and (2) is under the IURC's jurisdiction for the approval of rates and charges; (utility) to recover through the utility's retail rates and charges any direct or indirect costs associated with specified expenses and activities related to lobbying, legislative action, political activities, charitable giving, litigation, investor relations, and other specified activities and expenses. Beginning in 2026, requires a utility to file with the IURC an annual report that includes specified information concerning costs to: (1) the utility; or (2) an affiliate of the utility; that are related to these expenses or activities and that are directly billed or allocated to the utility. Requires the IURC to make available on the IURC's website a direct link to the annual reports provided by all utilities under these provisions. Urges the legislative council to assign to the interim study committee on energy, utilities, and telecommunications the task of studying, during the 2026 legislative interim, the use of trackers by public utilities providing electric or natural gas service."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb234"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Becker",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vaneta Becker",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vaneta Becker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0234/SB0234.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0234.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0234.01.INTR/SB0234.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/234",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0234",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

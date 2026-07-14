@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Recommitted to Committee on Veterans Affairs and Public Safety pursuant to House Rule 126.4; Failed, Roll Call 214: yeas 29, nays 67",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [
+      {
+        "name": "Veterans Affairs and Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/76",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0076",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 76"
+}

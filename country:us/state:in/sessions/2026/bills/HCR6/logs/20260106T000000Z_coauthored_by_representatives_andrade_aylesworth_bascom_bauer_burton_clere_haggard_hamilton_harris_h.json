@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Andrade, Aylesworth, Bascom, Bauer, Burton, Clere, Haggard, Hamilton, Harris, Hatcher, Heaton, Heine, Isa, Jackson C, Johnson B, Lauer, Lucas, Moseley, Olthoff, Pack, Pfaff, Pierce M, Porter, Pressel, Pryor, Shackleford, Smith V, Summers, Teshka, Zimmerman",
+    "occurred_at": "2026-01-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/6",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0006",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 6"
+}

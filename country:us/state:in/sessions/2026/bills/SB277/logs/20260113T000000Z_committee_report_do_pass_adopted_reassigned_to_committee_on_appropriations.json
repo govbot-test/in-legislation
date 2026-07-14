@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Committee report: do pass adopted; reassigned to Committee on Appropriations",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/277",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0277",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 277"
+}

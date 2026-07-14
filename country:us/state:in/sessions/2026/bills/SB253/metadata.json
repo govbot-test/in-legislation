@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 253",
+  "title": "Deed fraud.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Contracts and Legal Documents",
+    "COUNTY GOVERNMENT",
+    "INSURANCE; Generally",
+    "INSURANCE; Property (Excluding Motor Vehicles)",
+    "LOCAL ELECTED OFFICIALS; Recorders",
+    "STATE ELECTED OFFICIALS; Secretary of State",
+    "STATE GOVERNMENT; Notaries Public",
+    "TASK FORCES AND COMMITTEES; New"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes the deed fraud task force. Provides that a county recorder may: (1) refuse to record a suspicious instrument, unless a court of competent jurisdiction finds that the county recorder's finding that the instrument is a suspicious instrument is erroneous; (2) report a suspicious instrument to the appropriate law enforcement agency; or (3) notify a notarial officer or notary public who has purported to acknowledge or prove a suspicious instrument of the reason for the county recorder's finding that the instrument is a suspicious instrument. Requires each county recorder to establish a property alert notification system. Requires each county recorder to establish an instrument alert notification system. Provides that a notarial officer may refuse to perform a notarial act if the notarial officer is not satisfied that the individual executing the record has provided sufficient information to conduct identity proofing. Requires a notary public to present proof of the notary public's commission to a person that sells or otherwise provides a stamping device to the notary public. Requires an applicant seeking a commission as a notary public to complete a background check administered by the secretary of state. Requires the secretary of state to establish certain security procedures and access controls with respect to the electronic data base of active notaries public. Provides that a person that alleges damages arising from the recording of a forged deed or mortgage has a cause of action against certain persons."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb253"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Goode",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Local Government",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Greg Goode",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greg Goode\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0253/SB0253.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0253.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0253.01.INTR/SB0253.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/253",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0253",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

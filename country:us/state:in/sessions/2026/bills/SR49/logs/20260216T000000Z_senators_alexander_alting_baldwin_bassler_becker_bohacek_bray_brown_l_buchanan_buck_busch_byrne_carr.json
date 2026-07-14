@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senators Alexander, Alting, Baldwin, Bassler, Becker, Bohacek, Bray, Brown L, Buchanan, Buck, Busch, Byrne, Carrasco, Charbonneau, Clark, Crider, Deery, Dernulc, Donato, Doriot, Freeman, Garten, Gaskill, Glick, Goode, Holdman, Hunley, Johnson T, Koch, Leising, Maxwell, McKinley, Mishler, Niemeyer, Raatz, Rogers, Schmitt, Tomes, Walker G, Walker K, Young M added as coauthors",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/simple/49",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sr0049",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SR 49"
+}

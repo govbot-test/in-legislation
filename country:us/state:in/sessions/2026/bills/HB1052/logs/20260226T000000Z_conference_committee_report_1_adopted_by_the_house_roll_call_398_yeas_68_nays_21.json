@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Conference Committee Report 1: adopted by the House; Roll Call 398: yeas 68, nays 21",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1052",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1052",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1052"
+}

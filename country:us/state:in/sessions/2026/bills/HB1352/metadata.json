@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1352",
+  "title": "County fire protection.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "COUNTY GOVERNMENT",
+    "FIREFIGHTERS; Fire Departments and Districts",
+    "HOMELAND SECURITY; Fire Prevention and Building Safety Regulations",
+    "TOWNSHIPS AND TOWNSHIP OFFICERS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires each county, excluding a county containing a consolidated city or a county that is entirely within a fire protection district, to establish a county fire and emergency service board (board). Requires the board to develop a county fire and emergency service plan (county plan). Requires the board, on January 1, 2028, to establish a county fire and emergency service district (district) to provide fire protection to: (1) the unincorporated territory of each township located in the county in which the township provides fire protection; and (2) any other territory within the county that is transferred to the district in accordance with the county plan. Provides that a township, excluding a township in a county containing a consolidated city, may not impose a property tax levy for fire services for property taxes first due and payable after December 31, 2027. Provides that a fire protection district that includes all of the unincorporated area of the county may establish a nine member governing board."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1352"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative May",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chris May",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris May\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1352/HB1352.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1352.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1352.01.INTR/HB1352.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1352",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1352",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

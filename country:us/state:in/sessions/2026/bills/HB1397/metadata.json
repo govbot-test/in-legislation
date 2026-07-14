@@ -1,0 +1,153 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1397",
+  "title": "Redevelopment tax credits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Economic Development Corporation (IEDC)",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "CITIES AND TOWNS; Generally",
+    "STATE GOVERNMENT; History, Culture, and Preservation",
+    "TAXES; Credits"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that $50,000,000 of the $300,000,000 of the Indiana economic development corporation's annual certifiable tax credit amount must be allocated to the small town opportunity initiative (initiative). Establishes the initiative. Provides that the purpose of the initiative is to undertake qualified community projects within local government units that have a project budget of at least $15,000,000 per project to do the following: (1) Advance historic preservation. (2) Redevelop or rehabilitate distressed buildings or underutilized property. (3) Redevelop or rehabilitate sites where distressed buildings once stood. Allows a redevelopment tax credit for: (1) a for-profit taxpayer undertaking a qualified community project under the initiative equal to 20% of the taxpayer's cost of the project; and (2) a nonprofit taxpayer undertaking a qualified community project under the initiative equal to 30% of the taxpayer's cost of the project. Provides that initiative projects are not subject to any statutory or administrative repayment obligation. Provides for certain items that are included in a nonprofit taxpayer's qualified investment."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1397"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Lopez",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Snow added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Goss-Reaves added as coauthor",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Danny Lopez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Danny Lopez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig Snow",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Craig Snow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Goss-Reaves",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Goss-Reaves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1397/HB1397.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1397.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1397.01.INTR/HB1397.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1397",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1397",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

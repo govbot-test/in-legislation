@@ -1,0 +1,163 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1363",
+  "title": "Various public safety matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS, COMMISSIONS, AND COUNCILS; Generally",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "CHILDREN AND MINORS; Children in Need of Services (CHINS)",
+    "CORRECTIONS; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Firearms and Weapons Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Sex Offenses",
+    "HOMELAND SECURITY; Fire and Public Safety Training and Certification",
+    "LAW ENFORCEMENT; Academy and Training",
+    "SCHOOLS; Buses",
+    "SCHOOLS; Generally",
+    "STATE ELECTED OFFICIALS; Governor"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that the law enforcement training board (board) shall select an executive director to serve at the pleasure of the board. Provides that a person confined to a county jail may be required to make a copayment in an amount of not more than $30 (current law is $15). Provides that a person confined to a county jail is not required to make a certain copayment if, among other things, the person does not have funds in the person's commissary account or trust account within 180 days after the service is provided (current law is 60 days). Provides that a correctional professional is considered a public safety officer for purposes of determining eligibility for line of duty death benefits. (Current law provides that a correctional officer is considered a public safety officer for determining eligibility for line of duty death benefits.) Provides a process for certain sex and sex or violent offenders to submit certain information to the department of correction (department) regarding sex offender status in other states or jurisdictions. Provides that a person who is a: (1) sex offender; or (2) sex or violent offender; shall register for the period required by another jurisdiction or the period in Indiana, whichever is longer. Repeals the integrated public safety commission. Establishes the Indiana department of emergency communications. Changes the name of the \"integrated public safety communications fund\" to the \"emergency communications fund\". Provides that if: (1) the department releases a child who is a ward of the department; and (2) the child is less than 18 years of age; the department's wardship of the child ends. Provides that if a child who is a ward of the department is released and no parent or guardian allows the child to live with them, the department must immediately notify a certain court that the child needs to be a ward of the department of child services. Provides that the department is not required to send certain notices sent by offenders within the jurisdiction of the department by registered or certified mail. Makes it a Class B misdemeanor for a person to knowingly or intentionally possess an imitation firearm: (1) in or on school property; or (2) on a school bus. Provides that the department of emergency communications shall issue a request for proposals (RFP) for the purchase, or before issuing a change order, of any communications systems and equipment by the department that may be made available to public safety agencies. Provides that the communications equipment must be compatible with existing communications equipment used by public safety agencies. Provides that proposals shall be evaluated and awarded on a competitive basis using a scoring rubric established by the department. Makes conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1363"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Bartels",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Ways and Means pursuant to House Rule 126.3",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steve Bartels",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steve Bartels\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1363/HB1363.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1363/HB1363.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1363.02.COMH.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1363.02.COMH/HB1363.02.COMH.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1363",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1363",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR 8",
+  "title": "Recognizing February as American Heart Month.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "RESOLUTIONS; Recognition; Anniversaries, Birthdays, and Special Events Celebrated"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Recognizing February as American Heart Month."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hr8"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representatives Johnson B, Moseley, Harris, Bartlett, Novak, Pierce M, Hamilton, Pack, Prescott, Smith V, Porter, Summers, Pierce K, Olthoff, Abbott, Pryor, Jackson C, Pfaff, GiaQuinta, Dant Chesser, Campbell, Errington, Heaton, Clere, Heine, Bartels, Soliday, Criswell, Yocum, Lucas, DeLaney, Rowray, Shonkwiler, Shackleford, Burton, Garcia Wilburn, Haggard",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Andrade",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: adopted",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Andrade",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Andrade\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake Johnson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blake Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chuck Moseley",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chuck Moseley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Earl Harris",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Earl Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Bartlett",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Bartlett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy Novak",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy Novak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Pierce",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carey Hamilton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carey Hamilton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Renee Pack",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Renee Pack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. Prescott",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J.D. Prescott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vernon Smith",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vernon Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Porter",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory Porter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vanessa Summers",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vanessa Summers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Pierce",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Olthoff",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Olthoff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Abbott",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Abbott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cherrish Pryor",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cherrish Pryor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carolyn Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carolyn Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tonya Pfaff",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tonya Pfaff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip GiaQuinta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip GiaQuinta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wendy Dant Chesser",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wendy Dant Chesser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Campbell",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sue Errington",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sue Errington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Heaton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Heaton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward Clere",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward Clere\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Heine",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Heine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Bartels",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Bartels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edmond Soliday",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edmond Soliday\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Criswell",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Criswell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Yocum",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Yocum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Lucas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward DeLaney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward DeLaney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth Rowray",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth Rowray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alaina Shonkwiler",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alaina Shonkwiler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robin Shackleford",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robin Shackleford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Burton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Burton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Victoria Garcia Wilburn",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Victoria Garcia Wilburn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig Haggard",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Craig Haggard\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Resolution (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/resolutions/HR0008/HR0008.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/8",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hr0008",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

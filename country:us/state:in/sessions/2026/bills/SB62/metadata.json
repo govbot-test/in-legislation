@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 62",
+  "title": "Unlawful possession of a firearm by a child.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CHILDREN AND MINORS; Generally",
+    "COURTS; Juvenile Courts",
+    "CRIMINAL LAW AND PROCEDURE; Criminal History and Expungements",
+    "CRIMINAL LAW AND PROCEDURE; Firearms and Weapons Offenses",
+    "FIREARMS AND WEAPONS",
+    "SCHOOLS; Buildings and Grounds",
+    "SCHOOLS; Buses"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Adds felony unlawful possession of a firearm by a child to the list of crimes for which a juvenile court shall, upon motion of the prosecuting attorney, waive jurisdiction under certain circumstances. Removes certain crimes concerning children and firearms from the list of crimes in which a juvenile court does not have jurisdiction for an alleged violation. Removes language in the unlawful carrying of a handgun statute prohibiting a person less than 18 years of age from carrying a handgun. Provides that the unlawful carrying of a handgun statute applies to a person who has been adjudicated as a delinquent child under the statute, and is at least 18 years of age but less than 23 years of age. Renames the \"dangerous possession of a firearm\" crime to \"unlawful possession of a firearm by a child\" and provides that the enhanced penalty applies if the offense was committed: (1) on or in school property; (2) within 500 feet of school property; or (3) on a school bus. Removes the reckless mens rea for unlawful possession of a firearm by a child. Makes technical changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb62"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Taylor G",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Corrections and Criminal Law",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections and Criminal Law",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Greg Taylor",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greg Taylor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0062/SB0062.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0062.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0062.01.INTR/SB0062.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/62",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0062",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

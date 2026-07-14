@@ -1,0 +1,129 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 136",
+  "title": "Assistance in obtaining veteran benefits.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ARMED FORCES; Benefits",
+    "GENERAL ASSEMBLY; Withdrawn Bills",
+    "STATE ELECTED OFFICIALS; Attorney General",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))",
+    "VETERANS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a person may not receive compensation for services related to veterans' benefits matters except as permitted under federal law. Provides that a person may not receive compensation for referring an individual to another person to provide services related to veterans' benefits matters. Provides that a person seeking to receive compensation for services related to veterans' benefits matters must, before rendering any services, memorialize in a written agreement that is signed by both parties and that complies with federal regulations all terms regarding the payment of fees for services rendered. Provides that a person may not receive excessive or unreasonable fees for services related to veterans' benefits matters. Provides that a violation constitutes a deceptive act under the law concerning deceptive consumer sales."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb136"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Tomes",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Veterans Affairs and The Military",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and The Military",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Withdrawn",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James Tomes",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Tomes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0136/SB0136.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0136.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0136.01.INTR/SB0136.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/136",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0136",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

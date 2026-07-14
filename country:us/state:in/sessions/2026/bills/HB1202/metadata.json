@@ -1,0 +1,416 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1202",
+  "title": "Various public safety matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Bureau of Motor Vehicles (BMV)",
+    "AGENCIES; Department of Child Services (DCS)",
+    "AGENCIES; Department of Corrections (DOC)",
+    "AGENCIES; State Department of Toxicology (ISDT)",
+    "CHILDREN AND MINORS; Child Care Programs",
+    "CHILDREN AND MINORS; Children in Need of Services (CHINS)",
+    "CHILDREN AND MINORS; Foster Care",
+    "FIREFIGHTERS; Fire Marshals, Department of Fire and Building Services",
+    "HEALTH; Children and Minors",
+    "HOMELAND SECURITY; Fire and Public Safety Training and Certification",
+    "PROFESSIONAL AND OCCUPATIONAL LICENSING; Generally",
+    "TRANSPORTATION; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a vendor or provider of an ignition interlock device to register an ignition interlock device with the department of toxicology. Eliminates a requirement for the director of the state department of toxicology to provide periodic reports to the Indiana criminal justice institute (institute) regarding the number of ignition interlock devices used in Indiana. Provides that a registered ignition interlock device must be installed in a motor vehicle in accordance with the manufacturer's instructions for installing the registered ignition interlock device. Codifies administrative rules adopted by the state department of toxicology relating to ignition interlock devices. Provides that prior to being issued an initial license to operate a child care center, the child care center must be inspected and found to be in substantial compliance with applicable building and fire safety laws by the department of homeland security. (Current law provides that a license may be issued only if the child care center is in substantial compliance with the fire and life safety rules as determined by the state fire marshal under rules adopted by the division of family resources (division) or in accordance with a variance or waiver approved by the division.) Provides that prior to being issued an initial registration to operate a child care ministry, the unlicensed child care ministry must be inspected and found to be in substantial compliance with applicable building and fire safety laws by the department of homeland security. Provides that the department of homeland security shall perform inspections of: (1) child care ministries; (2) child care centers; (3) child caring institutions; and (4) group homes. Provides that a license or registration to operate a child care center or child care ministry may be revoked if the division determines that the operator has failed to comply with an order of the department of homeland security. Provides that the operator of an unlicensed child care ministry shall maintain a copy of the most recent department of homeland security inspection findings in a conspicuous place in the unlicensed child care ministry. Provides that the department of child services is not required to consult with the fire prevention and building safety commission when adopting administrative rules pertaining to the licensing and inspection of child care institutions, foster family homes, group homes, and child placing agencies. Provides that administrative rules of the fire prevention and building safety commission must include minimum building and safety requirements applicable for child caring institutions. Provides that prior to being issued an initial license to operate a child caring institution or group home, the child caring institution or group home must be inspected and found to be in substantial compliance with applicable building and fire safety laws by the department of homeland security. Provides that a license or registration to operate a child caring institution or group home may be revoked if the department of child services determines that the operator has failed to comply with an order of the department of homeland security. Provides that in order for an individual to receive a license from the emergency medical services commission, the individual must obtain a national criminal history background check and authorize release of the results of the check to the department of homeland security. Eliminates the requirement for the institute to adopt administrative rules relating to the child restraint system account. Provides that inspections conducted by the department of homeland security shall be conducted periodically in lieu of established periods. Changes a reference, from the department of education to the office of school safety, relating to the duties of a school safety specialist. Repeals: (1) provisions relating to public safety improvement areas; (2) a provision requiring the board of trustees of the institute to adopt rules relating to the law enforcement assistance fund; (3) a provision that authorizes the state fire marshal to charge a child care ministry a $50 fee for processing a registration; (4) a provision requiring the institute to review characteristics of offenders committed to the department of correction over such period of time it deems appropriate and of the offenses committed by those offenders in order to ascertain norms used by the trial courts in sentencing; (5) a provision requiring the bureau of motor vehicles and the institute to enter into a memorandum of understanding to administer the provisions relating to ignition interlock devices; and (6) a provision that requires the institute to adopt rules relating to ignition interlock devices."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1202"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Representative Bartels added as coauthor",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Lawson",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Judy added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: ordered engrossed",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Referred to the Senate",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 60: yeas 85, nays 5",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senate sponsors: Senators Crider, Clark",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Homeland Security and Transportation",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Homeland Security and Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: ordered engrossed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Ford J.D. added as cosponsor",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 182: yeas 45, nays 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Returned to the House without amendments",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the President Pro Tempore",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Public Law 28",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ethan Lawson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Bartels",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Bartels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Judy",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Judy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Crider",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Crider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brett Clark",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brett Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. Ford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J.D. Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1202/HB1202.04.ENRS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1202/HB1202.03.COMS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1202/HB1202.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1202/HB1202.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1202.04.ENRS.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1202.04.ENRS/HB1202.04.ENRS.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1202",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1202",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

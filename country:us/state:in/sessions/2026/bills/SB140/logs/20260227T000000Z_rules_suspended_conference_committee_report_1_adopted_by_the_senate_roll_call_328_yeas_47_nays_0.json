@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Rules Suspended. Conference Committee Report 1: adopted by the Senate; Roll Call 328: yeas 47, nays 0",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/140",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0140",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 140"
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1385",
+  "title": "Various hospital matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Family and Social Services Administration (FSSA)",
+    "HEALTH CARE FACILITIES; Hospitals",
+    "HEALTH; Medicaid",
+    "INSURANCE; Medicare"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires (rather than allows) the development of programs designed to increase Medicaid reimbursement. Specifies that the reimbursement rates for a state directed payment program must be at least the Medicare reimbursement rates. Requires the office of the secretary of family and social services to perform a reconciliation of the capitation attributable to the incremental hospital fee. Prohibits money in the incremental hospital fee fund from being used to fund Medicaid. Amends the permissible use of funds collected under the hospital assessment fee. Removes language that allowed the hospital assessment fee to be used to fund a state directed payment program that depended upon the collection of the managed care assessment fee. Changes the definition of \"prices\" concerning the hospital statewide average rate study and pricing (study). Amends the requirements to conduct the study and the date by which the study must be completed."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1385"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Barrett",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Public Health",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brad Barrett",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brad Barrett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1385/HB1385.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1385.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1385.01.INTR/HB1385.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1385",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1385",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

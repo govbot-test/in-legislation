@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1085",
+  "title": "Civil liability for child sexual abuse material.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Sex Offenses",
+    "STATE ELECTED OFFICIALS; Attorney General",
+    "TECHNOLOGY; Communication (Including Internet, Phone Lines, Print Media, Radio, and Television)"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Permits an individual depicted in child sexual abuse material or obscene material on the Internet, or exposed to obscene material on the Internet, to bring a civil action against a person who knowingly or intentionally: (1) allows or facilitates access to the material on the Internet; (2) disseminates the material on the Internet; or (3) is a content provider of prohibited material. Allows the attorney general to seek injunctive relief. Creates a safe harbor provision for certain persons under certain conditions. Provides that: (1) comparative fault; and (2) tort claims immunities; do not apply to a civil action based on prohibited material."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1085"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative King",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Goss-Reaves added as coauthor",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joanna King",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanna King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Goss-Reaves",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Goss-Reaves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1085/HB1085.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1085.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1085.01.INTR/HB1085.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1085",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1085",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

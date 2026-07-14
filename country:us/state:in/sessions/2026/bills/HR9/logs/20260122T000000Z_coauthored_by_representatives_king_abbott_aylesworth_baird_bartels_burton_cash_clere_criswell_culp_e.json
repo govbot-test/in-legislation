@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives King, Abbott, Aylesworth, Baird, Bartels, Burton, Cash, Clere, Criswell, Culp, Engleman, Haggard, Heaton, Ireland, Judy, Karickhoff, Lauer, Lawson, Ledbetter, Lindauer, Lucas, Manning, McGuire, Miller D, Morris, Olthoff, Patterson, Payne, Pierce K, Prescott, Rowray, Slager, Smaltz, Smith H, Soliday, Sweet, Teshka, VanNatter, Yocum, Zimmerman",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/9",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0009",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 9"
+}

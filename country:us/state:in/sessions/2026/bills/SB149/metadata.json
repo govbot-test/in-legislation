@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 149",
+  "title": "Tolling transponders.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "TECHNOLOGY; Generally",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))",
+    "TRANSPORTATION; Landcraft",
+    "TRANSPORTATION; Toll Roads and Bridges"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Allows a person who: (1) lives or works in a county where there is a toll road or tollway; and (2) pays for tolls assessed while driving on the toll road or tollway with a transponder; to apply for a credit to be added to the person's qualifying account for use towards future tolls. Provides that a person who pays for tolls using a transponder that is connected to a qualified account that is not registered to: (1) the person; (2) the person's employer; (3) a car rental company that owns the car being driven by the person; or (4) another person with the same permanent residence as the person; commits a Class B misdemeanor."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb149"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Pol",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Homeland Security and Transportation",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Homeland Security and Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0149/SB0149.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0149.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0149.01.INTR/SB0149.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0149.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0149.01.INTR/SB0149.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/149",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0149",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

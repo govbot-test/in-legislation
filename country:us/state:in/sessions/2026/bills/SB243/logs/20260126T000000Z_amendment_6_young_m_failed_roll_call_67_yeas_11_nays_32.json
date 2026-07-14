@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #6 (Young M) failed; Roll Call 67: yeas 11, nays 32",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/243",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0243",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 243"
+}

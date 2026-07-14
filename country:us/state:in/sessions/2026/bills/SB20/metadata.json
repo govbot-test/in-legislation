@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 20",
+  "title": "Voluntary family leave insurance program.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Insurance (IDOI)",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Budget Committee",
+    "GENERAL ASSEMBLY; Budget and Appropriations",
+    "GENERAL ASSEMBLY; Legislative Council",
+    "LABOR AND EMPLOYMENT; Collective Bargaining, Benefits, and Wages",
+    "STATE GOVERNMENT; Employees",
+    "TAXES; Deductions",
+    "TAXES; Gross Income Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the department of insurance (department) to establish, not later than January 1, 2027, a voluntary family leave insurance program (program) for the purpose of providing benefits to employees who elect to participate in the program. Sets forth requirements for the program. Allows the department to contract with an outside vendor to administer the program. Requires the department, not later than November 1, 2026, to submit a report to the legislative council and the budget committee concerning the proposed program. Establishes the voluntary family leave insurance program trust fund (trust fund) for the purpose of paying program benefits. Provides that the trust fund consists of employer or employee contributions, appropriations from the general assembly, and money received from any other source. Provides that certain employers are entitled to an adjusted gross income tax deduction equal to the total amount of contributions made by the employer to the trust fund during the taxable year multiplied by 200%."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb20"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Randolph Lonnie M",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Insurance and Financial Institutions",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Insurance and Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lonnie Randolph",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lonnie Randolph\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0020/SB0020.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0020.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0020.01.INTR/SB0020.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/20",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0020",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

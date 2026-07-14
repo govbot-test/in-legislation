@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 145",
+  "title": "Law enforcement services in Indianapolis downtown.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Indiana State Police (ISP)",
+    "CITIES AND TOWNS; Generally",
+    "CITIES; Indianapolis",
+    "COUNTIES; Marion",
+    "COURTS; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Prosecuting Attorneys (Non-Elected)",
+    "LAW ENFORCEMENT; Generally",
+    "LOCAL ELECTED OFFICIALS; Mayors",
+    "STATE ELECTED OFFICIALS; Governor",
+    "STATE ELECTED OFFICIALS; Treasurer",
+    "STATE GOVERNMENT; State and Local Funding"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes a downtown district (district) within the city of Indianapolis. Provides that after December 31, 2026, the governor has the duty and responsibility to provide adequate law enforcement services within the district. Requires the governor and executive of the consolidated city and county to take steps to negotiate and execute a mutual assistance agreement. Provides that if an agreement is not executed, the state police department shall provide all law enforcement services within the district after December 31, 2026, and unless or until a mutual assistance agreement is executed. Requires the governor to appoint a district special prosecutor that has concurrent jurisdiction with the prosecuting attorney of the judicial district. Provides after December 31, 2026, the district special prosecutor has primary jurisdiction and the prosecuting attorney of the judicial district has secondary jurisdiction to prosecute a crime committed in the district. Requires the treasurer of state to deduct the state's costs in providing law enforcement services and offices and staff for the special prosecutor from revenue held by the state that would otherwise be available for distribution to the consolidated city."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb145"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Young M",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Corrections and Criminal Law",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections and Criminal Law",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael Young",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Young\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0145/SB0145.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0145.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0145.01.INTR/SB0145.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/145",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0145",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

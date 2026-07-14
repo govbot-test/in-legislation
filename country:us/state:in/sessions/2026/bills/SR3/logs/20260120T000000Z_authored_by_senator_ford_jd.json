@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Authored by Senator Ford J.D.",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/simple/3",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sr0003",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SR 3"
+}

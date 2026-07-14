@@ -1,0 +1,160 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 198",
+  "title": "Pregnancy and childbirth matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "FEDERAL GOVERNMENT; Generally",
+    "HEALTH CARE PROFESSIONALS; Doctors and Physicians",
+    "HEALTH; Behavioral Health; Generally",
+    "HEALTH; Behavioral Health; Mental Illness and Treatment",
+    "HEALTH; Billing and Costs",
+    "HEALTH; Disease Control",
+    "HEALTH; Medicaid",
+    "HEALTH; Pregnancy",
+    "HEALTH; Prescription Drugs and Medications",
+    "INSURANCE; Health Insurance",
+    "INSURANCE; Health Maintenance Organizations (HMOs)",
+    "LABOR AND EMPLOYMENT; Collective Bargaining, Benefits, and Wages",
+    "PROTECTED CLASSES",
+    "STATE GOVERNMENT; Employees"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a state employee health plan, a policy of accident and sickness insurance, and a health maintenance organization contract to: (1) grant an exception to a step therapy protocol for a prescription drug prescribed for the treatment of postpartum depression that is not indicated by the federal Food and Drug Administration for postpartum depression on the prescription drug's approved labeling; (2) provide coverage for biomarker testing for preeclampsia, doula services, mental health screenings, and treatment for maternal mental health; and (3) develop a maternal mental health program. Requires Medicaid pregnancy services to include reimbursement for doula services and biomarker testing for preeclampsia. Requires the division of mental health and addiction to develop and implement a program for pregnant women and children with a substance use disorder. Requires the office of women's health to: (1) develop, maintain, and disseminate certain information concerning resources that are available to pregnant women and new mothers; and (2) provide continuing education courses concerning postpartum depression and other related mental health disorders. Requires a hospital or birthing center to, before a patient's discharge from the hospital or birthing center following birth, providethe patient with information concerning postpartum depression and other related mental health disorders. Sets forth requirements for screening for preeclampsia using biomarker testing. Establishes the Hoosier family leave insurance program and the Hoosier family leave insurance trust fund. Prohibits an employer from discriminating against an employee who has a condition related to pregnancy or childbirth. Repeals a chapter regarding pregnancy and childbirth accommodation. Requires certain health care practitioners to screen caregivers for signs and symptoms of postpartum depression or other related mental health disorders and provide a referral for the caregiver if the screening is positive for a mental health disorder."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb198"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Health and Provider Services",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Provider Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senators Jackson L, Ford J.D.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Senators Hunley, Yoder",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Andrea Hunley",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrea Hunley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelli Yoder",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shelli Yoder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "La Keisha Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"La Keisha Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. Ford",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J.D. Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0198/SB0198.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0198.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0198.01.INTR/SB0198.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/198",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0198",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1079",
+  "title": "Alcoholic beverages and THC hemp extract.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADDICTION SERVICES; Illicit Drugs, Prescription Drugs, Substances, and Alcohol",
+    "AGENCIES; Alcohol and Tobacco Commission (ATC)",
+    "ALCOHOL AND TOBACCO; Licenses and Permits"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes a direct beer seller's permit to allow a brewer to ship beer directly to a consumer. Allows liquor retailers and catering halls to purchase alcoholic beverages from a package liquor store. Allows a beer wholesaler to make credit sales. Allows a bar or restaurant (retailer) to deliver mixed drinks for carryout or delivery to a consumer's residence or office. Allows a wine wholesaler to offer a channel price to a retailer if certain conditions are met. Allows the alcohol and tobacco commission (commission) to deny an application for issuing, renewing, or transferring an alcoholic beverage permit (permit) for nonpayment of property taxes that the applicant is statutorily or contractually obligated to pay. Allows a retailer to operate a points based rewards program. Allows the commission to issue beer and wine dealer permits that are not subject to the quota. Allows a retailer, dealer, or craft manufacturer to deliver alcoholic beverages to a consumer's residence or office using a third party delivery service. Creates a third party delivery service permit and delivery driver permit. Imposes graduated civil penalties against a third party delivery service permittee for deliveries made by the permittee's delivery drivers that violate law. Prohibits the distribution or sale of low THC hemp extract to a person who is less than 21 years of age."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1079"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Manning",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Public Policy",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Policy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ethan Manning",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Manning\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1079/HB1079.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1079.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1079.01.INTR/HB1079.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1079",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1079",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

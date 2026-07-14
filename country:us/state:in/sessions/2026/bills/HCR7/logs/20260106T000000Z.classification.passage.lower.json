@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "First reading: adopted",
+    "occurred_at": "2026-01-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/7",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0007",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 7"
+}

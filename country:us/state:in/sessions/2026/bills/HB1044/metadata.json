@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "Digest",
-      "abstract": "Provides that a public safety employee who: (1) becomes disabled on or after January 1, 2020; (2) receives a Class 1 or a Class 2 impairment benefit; and (3) is eligible for group health insurance coverage for the public safety employee and the public safety employee's spouse or dependents; must pay the same amount that the public safety employee would have been required to pay if still serving as a current active public safety employee employed by the local unit public employer. Specifies that the public safety employee must file a written request for insurance coverage with the employer before June 1, 2026, or within 90 days after the public safety employee begins receiving disability benefits, whichever is later. Provides that a surviving spouse or dependent of a public safety employee who dies in the line of duty must pay the same amount that the public safety employee would have been required to pay if still serving as a current active public safety employee employed by the local unit public employer for coverage selected by the surviving spouse or dependent under the group health insurance program."
+      "abstract": "Provides that a public safety employee who: (1) becomes disabled on or after January 1, 2020; (2) receives a Class 1 or a Class 2 impairment benefit; and (3) is eligible for group health insurance coverage for the public safety employee and the public safety employee's spouse or dependents; must pay no more than the amount that the public safety employee would have been required to pay if still serving as a current active public safety employee employed by the local unit public employer. Specifies that the public safety employee must file a written request for insurance coverage with the employer before June 1, 2026, or within 90 days after the public safety employee begins receiving disability benefits, whichever is later. Specifies that if a public safety agency closes, merges, or otherwise ceases to exist, the local unit public employer that caused the public safety agency to cease to exist, shall continue to provide certain insurance coverage. Provides that a surviving spouse or dependent of a public safety employee who dies in the line of duty must pay the same amount that the public safety employee would have been required to pay if still serving as a current active public safety employee employed by the local unit public employer for coverage selected by the surviving spouse or dependent under the group health insurance program."
     }
   ],
   "other_titles": [],
@@ -23,6 +23,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Authored by Representative Pressel",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:52Z"
+      }
+    },
     {
       "description": "First reading: referred to Committee on Insurance",
       "date": "2025-12-02",
@@ -43,13 +53,286 @@
       }
     },
     {
-      "description": "Authored by Representative Pressel",
-      "date": "2025-12-02",
+      "description": "Representatives Lawson,  Goss-Reaves added as coauthors",
+      "date": "2026-01-05",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:05:52Z"
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Davis added as coauthor",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: ordered engrossed",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senate sponsors: Senators Walker K, Crider",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Referred to the Senate",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 54: yeas 92, nays 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Insurance and Financial Institutions",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Insurance and Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: do pass, adopted",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Qaddoura added as third sponsor",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Randolph added as cosponsor",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Second reading: amended, ordered engrossed",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Hunley added as cosponsor",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Yoder added as cosponsor",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (Walker K) prevailed; voice vote",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Returned to the House with amendments",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 176: yeas 45, nays 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Motion to concur filed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "House concurred with Senate amendments; Roll Call 295: yeas 93, nays 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the President Pro Tempore",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Public Law 38",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
       }
     }
   ],
@@ -61,10 +344,119 @@
       "primary": true,
       "person_id": "~{\"name\": \"Jim Pressel\"}",
       "organization_id": null
+    },
+    {
+      "name": "Ethan Lawson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ethan Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Goss-Reaves",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Goss-Reaves\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Davis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Walker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kyle Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Crider",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Crider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fady Qaddoura",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fady Qaddoura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lonnie Randolph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lonnie Randolph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrea Hunley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrea Hunley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelli Yoder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelli Yoder\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Enrolled House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1044/HB1044.05.ENRS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1044/HB1044.04.ENGS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1044/HB1044.03.COMS.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1044/HB1044.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced House Bill (H)",
       "links": [
@@ -79,10 +471,10 @@
   ],
   "documents": [
     {
-      "note": "Fiscal Note: HB1044.01.INTR.FN001",
+      "note": "Fiscal Note: HB1044.05.ENRS.FN001",
       "links": [
         {
-          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1044.01.INTR/HB1044.01.INTR.FN001?format=pdf",
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1044.05.ENRS/HB1044.05.ENRS.FN001?format=pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -109,7 +501,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:52Z",
+    "logs_latest_update": "2026-07-14T13:57:15Z",
     "text_extraction_latest_update": "2026-07-13T08:58:04.232413Z"
   }
 }

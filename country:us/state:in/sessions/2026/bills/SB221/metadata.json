@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 221",
+  "title": "Pharmacist treatment by standing order.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Health (IDOH)",
+    "AGENCIES; Professional Licensing Agency (PLA)",
+    "CIVIL LAW AND PROCEDURE; Immunity and Exemption from Liability",
+    "HEALTH CARE PROFESSIONALS; Pharmacists",
+    "HEALTH; Communicable Diseases, Infectious Diseases",
+    "HEALTH; Generally",
+    "HEALTH; Prescription Drugs and Medications"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the state health commissioner to issue a standing order, prescription, or protocol to allow a pharmacist to test, treat, or prescribe, if specified requirements are met. Provides a pharmacist with civil immunity in the testing, treating, or prescribing unless the pharmacist's actions constitute gross negligence, willful or wanton misconduct, or intentional wrongdoing. Requires the Indiana board of pharmacy to adopt rules concerning a pharmacist testing, treating, or prescribing for individuals."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb221"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Charbonneau",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Health and Provider Services",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Provider Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ed Charbonneau",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Charbonneau\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0221/SB0221.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Amendment: SB0221.01.INTR.AMS02",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/bills/sb0221/versions/sb0221.01.intr/amendments/SB0221.01.INTR.AMS02?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment: SB0221.01.INTR.AMS03",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/bills/sb0221/versions/sb0221.01.intr/amendments/SB0221.01.INTR.AMS03?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0221.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0221.01.INTR/SB0221.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/221",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0221",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

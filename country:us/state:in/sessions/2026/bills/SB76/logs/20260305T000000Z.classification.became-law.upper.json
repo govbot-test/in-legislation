@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Public Law 106",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/76",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0076",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 76"
+}

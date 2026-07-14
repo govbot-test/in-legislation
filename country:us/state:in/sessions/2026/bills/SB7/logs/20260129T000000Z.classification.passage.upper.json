@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Third reading: passed; Roll Call 133: yeas 36, nays 12",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/7",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0007",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 7"
+}

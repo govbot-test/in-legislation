@@ -1,0 +1,133 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1072",
+  "title": "Anatomical gifts.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "DEATH AND DECEASED; Anatomical Gifts and Organ Donation",
+    "DEATH AND DECEASED; Disposition of Remains"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a violation of certain provisions of the uniform anatomical gift act constitutes a deceptive consumer act. Bans a procurement organization from obtaining certain licenses or registrations. Provides that a procurement organization may not select or recommend a specific licensed funeral provider to a potential donor's family. Alters who may make an anatomical gift with respect to the body of a decedent. Provides that a person may, under certain circumstances, invalidate an anatomical gift. Requires a procurement organization to: (1) notify certain licensed funeral providers before removing human remains; (2) provide certain disclosures when seeking consent from a person to make an anatomical gift; and (3) publish an annual transparency report. Prohibits a procurement organization from transporting human remains outside Indiana unless the organization has notified certain people of the organization's intent."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1072"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Genda",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Representative Smaltz added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mark Genda",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Genda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Smaltz",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Smaltz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1072/HB1072.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1072.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1072.01.INTR/HB1072.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1072",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1072",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

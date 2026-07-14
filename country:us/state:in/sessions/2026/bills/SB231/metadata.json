@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 231",
+  "title": "Assistance in obtaining veterans' benefits.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ARMED FORCES; Benefits",
+    "CIVIL LAW AND PROCEDURE; Contracts and Legal Documents",
+    "COURTS; Attorneys",
+    "FEDERAL GOVERNMENT; Generally",
+    "FINANCIAL SERVICES; Generally",
+    "STATE ELECTED OFFICIALS; Attorney General",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))",
+    "VETERANS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a person may not receive compensation for: (1) the preparation, presentation, or prosecution of; or (2) advising, consulting, or assisting an individual regarding; a veterans' benefits matter, except as permitted under federal law. Provides that a person may not receive compensation for referring an individual to another person to provide services related to veterans' benefits matters. Provides that a person may not receive excessive or unreasonable fees for services related to veterans' benefits matters. Provides that a person may not condition the repayment of fees: (1) upon the opening of a joint account with the recipient of veterans' benefits from which the person may make withdrawals; (2) upon the use of electronic funds transfers; or (3) by requiring an individual to act, in any manner, in violation of federal requirements relating to preauthorized transactions. Provides that a person may not collect, or attempt to collect, any fee for services rendered after receipt of benefits by a veteran or any other individual eligible for the benefits, if the person participated in the veterans' benefits matter prior to the issuance of veterans' benefits, and if the transaction was structured with an intent to avoid prohibited acts. Provides that a person seeking to receive compensation for services related to veterans' benefits matters must, before rendering any services, enter into a written agreement that is signed by both parties and that complies with federal regulations, including all terms regarding the payment of fees for services rendered. Requires a person to provide certain disclosures when entering into a business relationship with an individual or advertising for compensation services. Provides that a violation constitutes a deceptive act under the law concerning deceptive consumer sales and senior consumer protection provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb231"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Tomes",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Veterans Affairs and The Military",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and The Military",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James Tomes",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Tomes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0231/SB0231.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0231.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0231.01.INTR/SB0231.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/231",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0231",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:14Z"
+  }
+}

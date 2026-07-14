@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Committee report: amend do pass adopted; reassigned to Committee on Local Government",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/104",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0104",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 104"
+}

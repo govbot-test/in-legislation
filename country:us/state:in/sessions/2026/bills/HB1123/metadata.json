@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1123",
+  "title": "Police investigations relating to prostitution.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Sex Offenses",
+    "LAW ENFORCEMENT; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that, after June 30, 2026, a law enforcement agency may not authorize the use of public funds by a law enforcement officer to pay for or engage in sexual intercourse, other sexual conduct, or the fondling of the law enforcement officer's or another individual's genitals as part of an investigation of: (1) prostitution; (2) making an unlawful proposition; or (3) promoting prostitution as a Level 5 felony. Provides that a law enforcement officer who knowingly or intentionally: (1) engages in sexual intercourse or other sexual conduct with an individual; (2) has an individual fondle or agree to fondle the genitals of the law enforcement officer; or (3) fondles the genitals of an individual under certain circumstances relating to the law enforcement officer's official duties; commits unlawful sexual conduct by a law enforcement officer, a Level 5 felony. Makes exceptions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1123"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Bartlett",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Courts and Criminal Code",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Courts and Criminal Code",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John Bartlett",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Bartlett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1123/HB1123.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1123.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1123.01.INTR/HB1123.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1123",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1123",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:14Z"
+  }
+}

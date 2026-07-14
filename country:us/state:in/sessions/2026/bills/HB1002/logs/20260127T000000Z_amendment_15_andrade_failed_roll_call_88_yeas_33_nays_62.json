@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #15 (Andrade) failed; Roll Call 88: yeas 33, nays 62",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1002",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1002",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1002"
+}

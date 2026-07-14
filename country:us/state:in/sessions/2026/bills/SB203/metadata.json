@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 203",
+  "title": "Indiana economic development corporation.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Economic Development Corporation (IEDC)",
+    "AGENCIES; State Board of Accounts (SBOA)",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Charitable Organizations and Nonprofits",
+    "ECONOMIC DEVELOPMENT",
+    "ENVIRONMENT; Solid Waste and Trash",
+    "GENERAL ASSEMBLY; Generally",
+    "LOCAL GOVERNMENT; Generally",
+    "NATURAL RESOURCES; Natural Gases and Carbon Dioxide",
+    "NATURAL RESOURCES; Rivers, Streams, and Waterways",
+    "UTILITIES; Electric",
+    "UTILITIES; Gas",
+    "UTILITIES; Generally",
+    "UTILITIES; Water"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the state board of accounts to act as the economic development ombudsman (ombudsman) for the Indiana economic development corporation (IEDC) and a nonprofit subsidiary of the IEDC (nonprofit subsidiary) and to designate an individual to serve as the ombudsman. Sets forth the ombudsman's duties, including the recommendation of policies to the general assembly concerning economic development and transparency matters. Allows the ombudsman (subject to the state examiner's approval) to employ or contract with assistants necessary to assist the ombudsman in carrying out the ombudsman's duties. Establishes circumstances under which the ombudsman is required to adopt a budget before the ombudsman's costs, including the costs of any assistants, in carrying out the ombudsman's duties are paid from appropriations made to the IEDC and when the ombudsman may bill the IEDC for those costs without using the budget procedure added by this bill. Provides for appointment to the board of the IEDC of two nonvoting, advisory members who are members of the general assembly. Requires the IEDC to establish a dashboard that includes longitudinal representations of certain economic development data derived from elements required to be included in the economic incentives and compliance report. Requires the IEDC to analyze the potential impact of a proposed economic development investment on the costs to provide the following utility services to ratepayers: (1) Water. (2) Wastewater. (3) Electricity. (4) Natural gas. Specifies that in performing the analysis, the IEDC must consider each of the following: (1) The existing utility infrastructure available to serve the project. (2) Any new utility infrastructure needed to serve the project. (3) Water resource availability for the project. Provides that if a proposed economic development investment is projected to negatively impact ratepayers, the IEDC is required to develop and implement a mitigation plan. Allows the IEDC to consult with certain state agencies, utilities providing utility services to the project area, local units of government, and consumer and ratepayer advocates in performing the analysis and mitigation requirements added by this bill."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb203"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Deery",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Commerce and Technology",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Commerce and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Spencer Deery",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Spencer Deery\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0203/SB0203.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0203.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0203.01.INTR/SB0203.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/203",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0203",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

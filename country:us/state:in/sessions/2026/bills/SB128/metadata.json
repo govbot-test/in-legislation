@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 128",
+  "title": "Improper supervision of a dangerous child.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CHILDREN AND MINORS; Children in Need of Services (CHINS)",
+    "CHILDREN AND MINORS; Crimes Against Children",
+    "CRIMINAL LAW AND PROCEDURE; Firearms and Weapons Offenses",
+    "FIREARMS AND WEAPONS",
+    "MARRIAGE AND FAMILY LAW; Child Support, Custody, and Visitation",
+    "SCHOOLS; Teachers"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Includes teachers in the definition of \"public safety official\" for purposes of certain battery offenses. Provides that, if a child commits an offense involving the use of a firearm or that results in bodily injury to another person on school property or a school bus, and the parent, guardian, or custodian of the child: (1) knew or reasonably should have known that the child intended to commit an unlawful act involving the use of a firearm or that might result in bodily injury to another person; and (2) failed to notify law enforcement; the parent, guardian, or custodian commits improper supervision of a dangerous child, a Class A misdemeanor. Increases the penalty to a Level 6 felony if the act results in serious bodily injury to another person."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb128"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Niezgodski",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Corrections and Criminal Law",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Corrections and Criminal Law",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Niezgodski",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Niezgodski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0128/SB0128.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0128.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0128.01.INTR/SB0128.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/128",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0128",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

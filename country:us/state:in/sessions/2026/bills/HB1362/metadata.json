@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1362",
+  "title": "Privacy protections in public institutions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL RIGHTS",
+    "CORRECTIONS; Adult Inmates and Facilities",
+    "CORRECTIONS; Juvenile Inmates and Facilities",
+    "EDUCATION; Generally",
+    "HIGHER EDUCATION; Colleges and Universities (Including Ivy Tech)"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires each public school, state educational institution, correctional facility, juvenile detention facility, and certain governmental entities to designate a multiple occupancy restroom or changing area as follows: (1) For the exclusive use of the male sex. (2) For the exclusive use of the female sex. Provides, with exceptions, that an individual may only use a multiple occupancy restroom or changing area that is designated for the sex that is the individual's sex, as determined at birth in accordance with the individual's genetics and reproductive biology. Establishes a civil action for a violation of these provisions. Prohibits each public school, correctional facility, state educational institution, juvenile detention facility, and certain governmental entities from requiring certain individuals to share sleeping quarters with a member of the opposite sex, as determined at birth in accordance with the individual's genetics and reproductive biology, unless the individual who is a member of the opposite sex is a family member. Establishes a civil action for a violation of these provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1362"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative King",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joanna King",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanna King\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1362/HB1362.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1362.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1362.01.INTR/HB1362.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1362",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1362",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

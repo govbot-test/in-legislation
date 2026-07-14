@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Heaton, Lehman, Abbott, Aylesworth, Baird, Bartels, Bascom, Clere, Commons, Criswell, Culp, Gore, Goss-Reaves, Haggard, Hall, Hamilton, Heine, Isa, Judy, Karickhoff, Lauer, Ledbetter, Lindauer, Lucas, Manning, May, Mayfield, McNamara, Miller D, Miller K, Morris, Novak, Olthoff, Pfaff, Pressel, Pryor, Rowray, Shonkwiler, Smaltz, Teshka, Thompson, VanNatter, Wesco, Yocum, Zimmerman",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/15",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0015",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 15"
+}

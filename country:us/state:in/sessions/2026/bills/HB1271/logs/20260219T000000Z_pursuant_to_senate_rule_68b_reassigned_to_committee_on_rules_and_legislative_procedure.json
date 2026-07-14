@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Pursuant to Senate Rule 68(b); reassigned to Committee on Rules and Legislative Procedure",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Rules and Legislative Procedure",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1271",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1271",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1271"
+}

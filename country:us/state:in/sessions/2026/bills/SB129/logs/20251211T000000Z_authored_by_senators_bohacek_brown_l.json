@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Authored by Senators Bohacek, Brown L",
+    "occurred_at": "2025-12-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/129",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0129",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 129"
+}

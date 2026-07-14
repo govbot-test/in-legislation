@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #1 (Porter) failed; Roll Call 322: yeas 31, nays 63",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/275",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0275",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 275"
+}

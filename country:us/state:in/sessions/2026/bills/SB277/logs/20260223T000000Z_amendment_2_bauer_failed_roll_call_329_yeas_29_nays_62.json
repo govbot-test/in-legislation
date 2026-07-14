@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #2 (Bauer) failed; Roll Call 329: yeas 29, nays 62",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/277",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0277",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 277"
+}

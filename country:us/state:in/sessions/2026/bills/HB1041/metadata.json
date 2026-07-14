@@ -63,6 +63,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:51Z"
       }
+    },
+    {
+      "description": "Representative Bartels removed as coauthor",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Pressel added as coauthor",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,19 +103,19 @@
       "organization_id": null
     },
     {
-      "name": "Steve Bartels",
-      "classification": "coauthor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Steve Bartels\"}",
-      "organization_id": null
-    },
-    {
       "name": "Alaina Shonkwiler",
       "classification": "coauthor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Alaina Shonkwiler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Pressel",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Pressel\"}",
       "organization_id": null
     }
   ],
@@ -145,7 +165,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:51Z",
+    "logs_latest_update": "2026-07-14T13:57:15Z",
     "text_extraction_latest_update": "2026-07-13T08:58:17.207863Z"
   }
 }

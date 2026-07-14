@@ -1,0 +1,256 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 122",
+  "title": "Various immigration matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Generally",
+    "COURTS; Judges",
+    "FEDERAL GOVERNMENT; Citizenship and Immigration",
+    "FEDERAL GOVERNMENT; Generally",
+    "LABOR AND EMPLOYMENT; Generally",
+    "STATE ELECTED OFFICIALS; Attorney General"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that if a law enforcement officer, governmental body, or postsecondary educational institution is made a party to a civil suit and the attorney general determines that the suit has arisen out of certain acts, the attorney general shall defend the law enforcement officer, governmental body, or postsecondary educational institution throughout the action. Clarifies that the enforcement of federal immigration laws may be carried out by federal, state, or local law enforcement. Removes the mens rea standard in the statute concerning governmental bodies or postsecondary institutions violating the citizenship and immigration status information and enforcement of federal laws chapter. Provides that a governmental body that has the custody of an individual who is the subject of an immigration detainer request shall: (1) provide the judge authorized to grant or deny the individual's release on bail notice that the individual is subject to an immigration detainer request; (2) record in the individual's case file that the individual is subject to an immigration detainer request; (3) comply with the immigration detainer request; and (4) inform the individual that the individual is being held pursuant to an immigration detainer request. Provides immunity to a governmental body or an employee of a governmental body for any action taken concerning an immigration detainer request. Prohibits a political subdivision from taking certain actions to aid, assist, incentivize, or facilitate the migration of any alien or class of aliens into Indiana. Provides that if the attorney general determines that probable cause exists that a governmental entity has not complied with an immigration detention request, the attorney general may bring a court action to: (1) enjoin an act or practice constituting a violation of an immigration detention request; and (2) impose a civil penalty for noncompliance with an immigration detention request. Requires a judge who receives notice that an individual is subject to an immigration detainer request to ensure that the notice of the immigration detainer request is recorded in the court's record. Prohibits an employer from knowingly or intentionally recruiting, hiring, or employing an unauthorized alien. Provides that if the attorney general determines that probable cause exists that an employer has recruited, hired, or employed an unauthorized alien, the attorney general may enjoin the action and seek the suspension of the employer's operating authorizations. Provides that a governmental entity that employs a prosecuting official is entitled to investigative costs and costs in an indecent nuisance action."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb122"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Koch, Garten, Mishler",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senators Baldwin, Donato, Zay, Byrne, Tomes",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Alexander added as coauthor",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senators Freeman, Johnson T added as coauthors",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Zay removed as coauthor",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senators Goode,  Buck added as coauthors",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Koch",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eric Koch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Garten",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris Garten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Mishler",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ryan Mishler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Baldwin",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Baldwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Donato",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stacey Donato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Byrne",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Byrne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Tomes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Tomes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Alexander",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aaron Freeman",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aaron Freeman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tyler Johnson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tyler Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Goode",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Goode\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Buck",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Buck\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0122/SB0122.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0122.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0122.01.INTR/SB0122.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/122",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0122",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

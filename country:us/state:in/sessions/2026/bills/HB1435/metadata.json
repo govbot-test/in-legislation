@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1435",
+  "title": "Landlord-tenant matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Generally",
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "COURTS; Small Claims Courts",
+    "LOCAL ELECTED OFFICIALS; County Clerk",
+    "PROPERTY; Housing",
+    "PROPERTY; Landlords and Tenants",
+    "PROPERTY; Leases"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a landlord to provide and maintain a rental premises that is free from the following: (1) Pests, including rodents and invasive insects. (2) Mold. (3) Rot. Sets forth a procedure for a tenant to use to initiate a request for repairs. Requires, under certain circumstances, a landlord to repair or replace an essential system not later than 72 hours after being notified by a tenant that the tenant's rental unit is without essential services. Defines \"essential services\" and \"essential system\". Allows for certain remedies to the tenant for the landlord's noncompliance, including a procedure for the deposit of rent that is due with the clerk of the court if the landlord fails or refuses to make repairs or take remedial action. Provides that, after June 30, 2026, a landlord may not manage a rental property in Indiana unless the landlord: (1) is authorized to do business in Indiana; (2) maintains an office at one or more physical locations in Indiana; or (3) appoints an Indiana licensed real estate broker or broker company to manage the rental property."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1435"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Moed",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Justin Moed",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Justin Moed\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1435/HB1435.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1435.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1435.01.INTR/HB1435.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1435",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1435",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

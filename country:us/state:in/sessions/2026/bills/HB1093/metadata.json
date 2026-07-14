@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1093",
+  "title": "Student bullying and abusive behavior.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Child Services (DCS)",
+    "CHILDREN AND MINORS; Generally",
+    "EDUCATION; Generally",
+    "EDUCATION; State Board of Education (SBOE)",
+    "SCHOOLS; Bullying"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Revises the definition of \"bullying\". Requires each public school, including a charter school, to track, monitor, and analyze specified aspects of bullying, and provides that a parent of a student or a student, if the student is an emancipated minor, may submit a grievance to the school for a violation of this requirement. Requires each school corporation and charter school to: (1) document and track all acts of bullying and abusive behaviors for analysis; (2) prepare and implement interventions to deter and prevent bullying and abusive behaviors; and (3) compile, prepare, and submit an annual report beginning July 1, 2027, to the department of education, the state board of education, and the legislative council summarizing the information collected. Requires the state board of education to review the report and provide recommendations to certain schools to reduce the frequency of acts of bullying or abusive behaviors. Allows the department of child services to release unredacted reports to a school's designated liaison under certain circumstances."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1093"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representative Goss-Reaves",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Education",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative DeVon",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dale DeVon",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dale DeVon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Goss-Reaves",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Goss-Reaves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1093/HB1093.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1093.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1093.01.INTR/HB1093.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1093",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1093",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

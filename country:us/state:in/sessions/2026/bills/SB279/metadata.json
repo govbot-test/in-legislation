@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 279",
+  "title": "Private credit funds.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Public Retirement System (INPRS)",
+    "FINANCIAL SERVICES; Fiduciaries",
+    "FINANCIAL SERVICES; Financial Accounts (Not Including State Pensions)",
+    "FINANCIAL SERVICES; Investments and Securities",
+    "GENERAL ASSEMBLY; Legislative Council",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that after June 30, 2026, the responsible party or fund manager for a private credit fund (fund) shall deliver to: (1) an Indiana investor that has invested capital in the fund; and (2) the securities commissioner (commissioner); an investor report on at least a quarterly basis. Sets forth certain disclosures that an investor report must include. Provides that any investment information that is delivered or communicated to an Indiana investor after June 30, 2026, may not include language that positively describes the fund's risk profile unless a disclaimer is provided or the fund's assets are rated by an outside credit rating agency. Provides that the responsible party or fund manager for a fund shall, upon the written request of an Indiana investor or the commissioner, make available in writing the fund manager's policies with respect to specified investment and management practices. Requires the commissioner to adopt rules to implement and administer these provisions. Authorizes the commissioner to use any lawful means within the commissioner's authority to enforce these provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb279"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Charbonneau, Bassler",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Insurance and Financial Institutions",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Insurance and Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ed Charbonneau",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Charbonneau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Bassler",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eric Bassler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0279/SB0279.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0279.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0279.01.INTR/SB0279.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/279",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0279",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

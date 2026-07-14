@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House concurred with Senate amendments; Roll Call 296: yeas 94, nays 1",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1116",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1116",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1116"
+}

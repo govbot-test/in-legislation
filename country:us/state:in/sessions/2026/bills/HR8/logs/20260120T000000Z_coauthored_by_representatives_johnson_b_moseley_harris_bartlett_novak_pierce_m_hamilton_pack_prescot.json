@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Johnson B, Moseley, Harris, Bartlett, Novak, Pierce M, Hamilton, Pack, Prescott, Smith V, Porter, Summers, Pierce K, Olthoff, Abbott, Pryor, Jackson C, Pfaff, GiaQuinta, Dant Chesser, Campbell, Errington, Heaton, Clere, Heine, Bartels, Soliday, Criswell, Yocum, Lucas, DeLaney, Rowray, Shonkwiler, Shackleford, Burton, Garcia Wilburn, Haggard",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/8",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0008",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 8"
+}

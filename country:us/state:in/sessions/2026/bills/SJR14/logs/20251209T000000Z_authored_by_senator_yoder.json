@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Authored by Senator Yoder",
+    "occurred_at": "2025-12-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/joint/14",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sj0014",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SJR 14"
+}

@@ -64,6 +64,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:51Z"
       }
+    },
+    {
+      "description": "Representatives Rowray, Olthoff added as coauthors",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +91,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Alex Zimmerman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth Rowray",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth Rowray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Olthoff",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Olthoff\"}",
       "organization_id": null
     }
   ],
@@ -130,7 +156,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:51Z",
+    "logs_latest_update": "2026-07-14T13:57:15Z",
     "text_extraction_latest_update": "2026-07-13T08:58:25.810122Z"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "First reading: referred to Committee on Utilities",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Utilities",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/260",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0260",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 260"
+}

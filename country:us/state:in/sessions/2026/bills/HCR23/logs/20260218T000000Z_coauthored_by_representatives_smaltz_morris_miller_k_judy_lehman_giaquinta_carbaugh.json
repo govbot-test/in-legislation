@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Smaltz, Morris, Miller K, Judy, Lehman, GiaQuinta, Carbaugh",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/23",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0023",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 23"
+}

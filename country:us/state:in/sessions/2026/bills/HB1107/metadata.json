@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1107",
+  "title": "Bullying oversight committees and ombudsman.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Education (DOE) and Secretary of Education",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "EDUCATION; Generally",
+    "SCHOOLS; Bullying"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes a state bullying ombudsman (ombudsman) position within the department of education (department). Establishes the duties of the ombudsman. Requires the department to: (1) provide staff and administrative support for the ombudsman; and (2) post the ombudsman's contact information on the department's website. Requires each school corporation to provide the ombudsman's contact information in certain rules, policies, and notices. Requires, with an exception, each school corporation to establish a bullying oversight committee (committee). Establishes the membership, authority, and duties of a committee. Provides that a parent of a targeted student may submit a complaint to the committee if the parent believes that: (1) the school administration failed to investigate a bullying or physical assault incident involving the targeted student; or (2) the resolution of an incident was insufficient or ineffective. Requires the department to adopt and post on the department's website guidelines and model training materials for committee members. Provides that a parent may, under certain circumstances, request a hearing before the governing body of the school corporation regarding a complaint. Establishes requirements for a governing body of a school corporation that receives a request for a hearing. Provides that a parent of a targeted student or parent of an alleged perpetrator may view any video evidence related to a bullying incident or physical assault involving the student for which a complaint or request for a hearing has been submitted."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1107"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Education",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Manning",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Representative Cash added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ethan Manning",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Manning\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Becky Cash",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Becky Cash\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1107/HB1107.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1107.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1107.01.INTR/HB1107.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1107",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1107",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

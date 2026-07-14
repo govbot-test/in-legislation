@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1205",
+  "title": "Annexation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ANNEXATION OF TERRITORY",
+    "PROPERTY; Generally",
+    "UTILITIES; Electric",
+    "UTILITIES; Gas",
+    "UTILITIES; Water"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a municipality that initiates an annexation to file an annexation petition (petition) with a court signed by: (1) at least 51% of the owners of non-tax exempt land in the annexation territory; or (2) the owners of at least 75% in assessed valuation of non-tax exempt land in the annexation territory. Eliminates: (1) remonstrances and waivers; (2) reimbursement of remonstrator's attorney's fees and costs; (3) settlement agreements in lieu of annexation; (4) contiguity of a public highway provisions; and (5) a required fiscal plan for certain super voluntary annexations. Reduces the number of outreach meetings from six to three. For super voluntary annexations, requires a municipality to: (1) hold a hearing on the petition within 90 (instead of 30) days; (2) adopt an annexation ordinance within 120 (instead of 60) days. Allows a super voluntary annexation of noncontiguous land for business, industrial, or residential development, if: (1) the landowner and municipal utility agree on the provision of gas, electric, water, or sewer service to the property; and (2) the county executive timely approves the petition. Allows noncontiguous land annexed in a super voluntary annexation to be used for additional voluntary or super voluntary annexations of contiguous land. After December 31, 2026, allows signatures on petitions to be gathered by mail. Provides that annexation territory that is divided by railroad tracks satisfies contiguity requirements, if the territory on at least one side of the railroad tracks is contiguous to the municipality. Grandfathers in annexations that adopt: (1) a fiscal plan before March 30, 2026; or (2) an annexation ordinance before March 30, 2026 (if a fiscal plan is not required by current law). Removes obsolete provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1205"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representative Meltzer",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Hall",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Local Government",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dave Hall",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dave Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Meltzer",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Meltzer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1205/HB1205.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1205.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1205.01.INTR/HB1205.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1205",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1205",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

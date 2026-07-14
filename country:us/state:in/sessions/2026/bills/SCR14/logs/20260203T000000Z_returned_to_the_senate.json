@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Returned to the Senate",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/concurrent/14",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sc0014",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SCR 14"
+}

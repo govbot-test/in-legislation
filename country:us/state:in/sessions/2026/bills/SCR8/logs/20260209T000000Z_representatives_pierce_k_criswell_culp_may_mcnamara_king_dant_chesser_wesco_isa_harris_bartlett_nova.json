@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Representatives Pierce K, Criswell, Culp, May, McNamara, King, Dant Chesser, Wesco, Isa, Harris, Bartlett, Novak R, Lucas, Lawson, Morris, VanNatter, Jackson C, Moed, Davis, Mayfield, Miller D, Pryor, Zimmerman, Judy, Bartels, Aylesworth, Genda, GiaQuinta, Carbaugh added as cosponsors",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/concurrent/8",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sc0008",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SCR 8"
+}

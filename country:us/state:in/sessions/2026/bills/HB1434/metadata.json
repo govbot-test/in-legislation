@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1434",
+  "title": "Utility votes at RTO meetings.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "ENERGY; Generally",
+    "TASK FORCES AND COMMITTEES; Generally",
+    "UTILITIES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Beginning in 2027, requires certain public utilities that provide electric utility service to file with the Indiana utility regulatory commission (IURC) an annual report that: (1) lists, or otherwise provides access to information on, each recorded vote cast by the public utility, and any affiliate of the public utility, at a meeting of the PJM Interconnection, LLC regional transmission organization (RTO), regardless of whether the vote is disclosed by the RTO; and (2) includes a brief description explaining how each vote identified supports the provision of electric utility service with the attributes set forth in Indiana's state energy policy. Provides that for purposes of this requirement, a meeting means a meeting of: (1) specified permanent standing committees of the RTO; or (2) any senior task force of the RTO that is active during the calendar year with respect to which a report is submitted by a public utility under the bill's provisions. Requires the IURC to post on the IURC's website the reports received under the bill's provisions. Requires the IURC to adopt rules to implement these provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1434"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Errington",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities, Energy and Telecommunications",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sue Errington",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sue Errington\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1434/HB1434.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1434.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1434.01.INTR/HB1434.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1434",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1434",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

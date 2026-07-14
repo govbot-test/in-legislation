@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1280",
+  "title": "Social Security number search requests.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "FEDERAL GOVERNMENT; Generally",
+    "SOCIAL SERVICES; Social Security Disability"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Defines \"Social Security number search request\" (search request) as a request made by a consumer to a consumer reporting agency to conduct a search of all files maintained by the consumer reporting agency to determine if the consumer's Social Security number is associated with one or more consumer credit files not associated with the consumer. Provides that after December 31, 2026, upon receiving a search request from a consumer, a consumer reporting agency shall fulfill the consumer's search request if: (1) the consumer reporting agency maintains a file on the consumer; and (2) the consumer provides proper identification and written consent for the consumer reporting agency to verify with the Social Security Administration that the consumer's Social Security number belongs to the consumer. Provides that in fulfilling a search request, a consumer reporting agency shall: (1) verify with the Social Security Administration that the Social Security number supplied by the consumer belongs to the consumer; and (2) conduct a search of all files maintained by the consumer reporting agency to determine if the consumer's Social Security number is associated with one or more files not associated with the consumer. Provides that if the search indicates that the consumer's Social Security number is associated with any files not associated with the consumer, the consumer reporting agency must provide information as to: (1) the number of such files; and (2) each person that procured a consumer report in connection with those files during the one year period immediately preceding the date of the consumer's search request. Prohibits a consumer reporting agency from charging or increasing certain fees in connection with a search request."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1280"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Lauer",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Financial Institutions",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ryan Lauer",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ryan Lauer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1280/HB1280.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1280.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1280.01.INTR/HB1280.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1280",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1280",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

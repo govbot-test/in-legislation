@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "Digest",
-      "abstract": "Amends the duties of the office of the secretary of family and social services (office) concerning home and community based services waivers (waiver). Requires a waiver recipient to review the recipient's monthly statement and report errors or inconsistencies. Requires a provider of waiver services to provide a recipient and the recipient's care coordinator with certain billing statements. Establishes the home and community based services waiver waiting list assistance fund (fund) to provide individuals on a waiver waiting list with access to certain supports. Provides that when the office determines an individual is ineligible for Medicaid, the office shall provide the specific reason for determining the individual is ineligible. Provides that appropriations in the budget bill for Medicaid assistance that are budgeted for a waiver that remain unexpended and unencumbered at the close of the state fiscal year and that would otherwise lapse and be returned to the state general fund do not revert to the state general fund, but instead shall be deposited in the fund."
+      "abstract": "Amends the duties of the office of the secretary of family and social services (office) concerning home and community based services waivers (waiver). Sets forth requirements for conducting an audit of a provider of waiver services. Requires: (1) a waiver recipient to review the recipient's monthly statement and report errors or inconsistencies; and (2) the recipient's case manager to provide assistance to the recipient in reviewing the statements and reporting any errors. Establishes the home and community based services waiver waiting list assistance fund (fund) to provide individuals on a waiver waiting list with access to certain supports. Provides that when the office determines an individual is ineligible for Medicaid, the office shall provide the specific reason for determining the individual is ineligible. Requires the office to review certain bank accounts in determining an individual's Medicaid eligibility. Requires a provider of waiver services to provide a recipient and the recipient's care coordinator with certain billing statements. Provides that appropriations in the budget bill for Medicaid assistance that are budgeted for a waiver that remain unexpended and unencumbered at the close of the state fiscal year and that would otherwise lapse and be returned to the state general fund do not revert to the state general fund, but instead shall be deposited in the fund. Provides that, for the state fiscal year beginning July 1, 2026, and ending June 30, 2027, appropriations in the budget bill for Medicaid assistance in an amount sufficient to cover costs incurred by the office in carrying out specified duties that remain unexpended and unencumbered at the close of the state fiscal year and that would otherwise lapse and be returned to the state general fund do not revert to the state general fund, but instead shall remain available to the office to cover these costs."
     }
   ],
   "other_titles": [],
@@ -63,6 +63,34 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:51Z"
       }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Ways and Means pursuant to House Rule 126.3",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,6 +130,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1012/HB1012.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced House Bill (H)",
       "links": [
         {
@@ -115,10 +154,21 @@
   ],
   "documents": [
     {
-      "note": "Fiscal Note: HB1012.01.INTR.FN001",
+      "note": "Fiscal Note: HB1012.02.COMH.FN001",
       "links": [
         {
-          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1012.01.INTR/HB1012.01.INTR.FN001?format=pdf",
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1012.02.COMH/HB1012.02.COMH.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: HB1012.02.COMH.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1012.02.COMH/HB1012.02.COMH.FN002?format=pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -145,7 +195,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:51Z",
+    "logs_latest_update": "2026-07-14T13:57:15Z",
     "text_extraction_latest_update": "2026-07-13T08:58:00.771394Z"
   }
 }

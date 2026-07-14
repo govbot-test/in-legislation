@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Public Law 14",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/230",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0230",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 230"
+}

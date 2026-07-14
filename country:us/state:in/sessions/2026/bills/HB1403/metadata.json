@@ -1,0 +1,142 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1403",
+  "title": "First time home buyer savings program.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Housing and Community Development Authority (IHCDA)",
+    "FINANCIAL SERVICES; Financial Institutions",
+    "PROPERTY; Housing",
+    "TAXES; Adjusted Gross Income Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes the first time home buyer savings program (program) for the purpose of assisting first time home buyers who seek to open a first time home buyer savings account (account) at a financial institution to save money for the purchase of a single family residence. Requires the Indiana housing and community development authority to administer the program, to prepare and supervise the issuance of public information concerning the program, and to prescribe various forms for use by financial institutions that choose to offer accounts. Specifies that: (1) money in an account (including all earnings or interest on an account) is exempt from taxation in Indiana; and (2) withdrawals from an account used for a down payment and allowable closing costs for the purchase of a single family residence; are exempt from state adjusted gross income taxation. Creates a state adjusted gross income tax credit for contributions to an account (credit) in an amount equal to the lesser of: (1) 20% multiplied by the amount of the total contributions made to the account during a taxable year; or (2) $5,000. Requires repayment of all or a part of the credit in a taxable year in which the taxpayer withdraws funds from an account for purposes other than payment of a down payment and allowable closing costs."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1403"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representatives Hamilton, Lawson",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Dant Chesser",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wendy Dant Chesser",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wendy Dant Chesser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carey Hamilton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carey Hamilton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ethan Lawson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ethan Lawson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1403/HB1403.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1403.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1403.01.INTR/HB1403.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1403",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1403",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

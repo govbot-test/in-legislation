@@ -24,6 +24,26 @@
   ],
   "actions": [
     {
+      "description": "Authored by Representative Porter",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Pressel",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:51Z"
+      }
+    },
+    {
       "description": "First reading: referred to Committee on Roads and Transportation",
       "date": "2025-12-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -43,23 +63,23 @@
       }
     },
     {
-      "description": "Coauthored by Representative Pressel",
-      "date": "2025-12-01",
+      "description": "Representative Harris added as coauthor",
+      "date": "2026-01-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:05:51Z"
+        "log_file_created": "2026-07-14T13:57:15Z"
       }
     },
     {
-      "description": "Authored by Representative Porter",
-      "date": "2025-12-01",
+      "description": "Representative Lauer added as coauthor",
+      "date": "2026-01-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:05:51Z"
+        "log_file_created": "2026-07-14T13:57:15Z"
       }
     }
   ],
@@ -78,6 +98,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jim Pressel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Earl Harris",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Earl Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Lauer",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan Lauer\"}",
       "organization_id": null
     }
   ],
@@ -127,7 +163,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:51Z",
+    "logs_latest_update": "2026-07-14T13:57:15Z",
     "text_extraction_latest_update": "2026-07-13T08:59:00.450747Z"
   }
 }

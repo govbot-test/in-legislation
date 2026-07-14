@@ -1,0 +1,124 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 278",
+  "title": "Tax increment financing.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATIVE LAW; Generally",
+    "AGENCIES; Department of Local Government Finance (DLGF)",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Generally",
+    "CIVIL LAW AND PROCEDURE; Generally",
+    "COUNTY GOVERNMENT",
+    "FINANCIAL SERVICES; Bonds (Non-Judicial)",
+    "PROPERTY; Generally",
+    "TAXES; Exemptions",
+    "TAXES; Generally",
+    "TAXES; Property Taxes",
+    "TAXES; Tax Increment Financing (TIF)",
+    "TOWNSHIPS AND TOWNSHIP OFFICERS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides for various tax increment financing neutralization procedures for certain tax increment financing areas. Specifically, provides that for certain tax increment financing districts, in an appeal of the assessed value of a property: (1) the county or township assessor in conjunction with the preliminary informal meeting; or (2) the county board in conjunction with an appeal hearing by the county board; may request a taxpayer to provide income data necessary to determine the assessed value under the income capitalization approach. If requested, a taxpayer shall provide income data within 60 days of the request. Provides that an adopting body must annually, on or before November 10, report to the department of local government finance (DLGF), in a manner determined by the DLGF: (1) the total amount of debt outstanding; (2) the annual amount of debt due for each remaining year the debt will be outstanding; and (3) the estimated payoff year for all debt backed by the local income tax. An adopting body shall provide an indication of all debt obligations outstanding that are not supported by any secondary backing source. Provides that the DLGF shall post the information required on the DLGF's computer gateway. Redefines \"residential property\" for certain tax increment financing districts. Provides that the DLGF may require a redevelopment commission (and other tax increment financing bodies) to submit required documentation to neutralize the base assessed value. Any supporting documentation the redevelopment commission is required to submit to support the base assessed value neutralization calculation must be completed and submitted to the DLGF by July 15 of each year. Provides that if the redevelopment commission does not submit the required documentation by the deadline in a given year, then 5% of the excess assessed value shall be allocated to the respective taxing units in the year the deadline is missed. Provides that the original owner of each nonowner-occupied residential property subject to the 2% tax cap, that is located in the tax increment financing area and is excluded from the base assessed value, shall upon completion of construction enter into a written agreement with the redevelopment commission indicating the owner shall be obligated to pay the property tax for the portion of outstanding bonds in the tax increment financing district attributable to the property until the term length of the original outstanding bond is retired. Provides that the written agreement with the redevelopment commission shall be considered a lien on the property and shall be included as part of the residential real estate sales disclosure. Provides that if the property is subsequently sold as a homestead property and becomes subject to the 1% tax cap, the new owner shall be responsible for the lien on the property attributable to the written agreement with the redevelopment commission, and the new homestead property owner shall be obligated to fulfill the terms of the written agreement including the payment of the property tax liability included in the agreement. Provides that, notwithstanding any other law, for taxing districts that include multiple tax increment financing districts, the original tax increment financing district does not expire and stays active only for the purpose of satisfying outstanding bonds issued by the subsequent tax increment financing district, only if the redevelopment commission completes the following requirements: (1) Provides written appeals to and receives the approval of the DLGF. (2) Provides written notice to the state board of accounts of the appeal."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb278"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Baldwin",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Tax and Fiscal Policy",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Tax and Fiscal Policy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott Baldwin",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott Baldwin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0278/SB0278.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0278.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0278.01.INTR/SB0278.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/278",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0278",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

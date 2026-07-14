@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Pursuant to Senate Rule 68(b); reassigned to Committee on Tax and Fiscal Policy",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Tax and Fiscal Policy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/233",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0233",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 233"
+}

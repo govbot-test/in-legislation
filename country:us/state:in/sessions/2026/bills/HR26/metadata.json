@@ -1,0 +1,269 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR 26",
+  "title": "Urging the Indiana General Assembly to prioritize legislation during the 2027 budget year establishing property tax credits for unemployable Hoosier veterans who are permanently and totally disabled.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Urging the Indiana General Assembly to prioritize legislation during the 2027 budget year establishing property tax credits for unemployable Hoosier veterans who are permanently and totally disabled."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hr26"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Smith H",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Goss-Reaves, Ireland, Teshka, Greene, Aylesworth, VanNatter, Miller D, Lopez, Lauer, Heaton, Soliday, King, Morris, Bascom, Isa, Olthoff, Pierce K, Yocum, Ledbetter, Baird",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to the Committee on Ways and Means",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hunter Smith",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hunter Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Goss-Reaves",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Goss-Reaves\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew Ireland",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew Ireland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Teshka",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Teshka\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robb Greene",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robb Greene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Aylesworth",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Aylesworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heath VanNatter",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heath VanNatter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doug Miller",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doug Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danny Lopez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny Lopez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Lauer",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan Lauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Heaton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Heaton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edmond Soliday",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edmond Soliday\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joanna King",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joanna King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Morris",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Morris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett Bascom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garrett Bascom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Isa",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Isa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Olthoff",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Olthoff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Pierce",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Yocum",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Yocum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Ledbetter",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Ledbetter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beau Baird",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beau Baird\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Resolution (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/resolutions/HR0026/HR0026.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/26",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hr0026",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

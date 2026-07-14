@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 86",
+  "title": "Charter schools.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS, COMMISSIONS, AND COUNCILS; Generally",
+    "ELECTIONS; Public Questions and Referendums",
+    "GENERAL ASSEMBLY; Budget and Appropriations",
+    "HIGHER EDUCATION; Colleges and Universities (Including Ivy Tech)",
+    "SCHOOLS; Buses",
+    "SCHOOLS; Charter Schools",
+    "SCHOOLS; Discipline",
+    "SCHOOLS; Funds and Budgets",
+    "SCHOOLS; Health and Safety Issues",
+    "TAXES; Property Taxes",
+    "TAXES; Tax Levies"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that provisions regarding the following apply to charter schools: (1) Child suicide awareness and prevention policy requirements. (2) Staff performance evaluation plan requirements. (3) Curriculum. (4) Student discipline. (5) Criminal organization activity. (6) Student safety reporting. (7) Government funds and accounts. (8) Certain notice requirements regarding convictions of licensed employees. Removes the charter board, state educational institutions, and nonprofit college or university governing boards from the definition of an authorizer. After June 30, 2026, provides that the charter board, state educational institutions, and governing boards may not issue new charters or renew existing charters. After June 30, 2026, establishes a five year moratorium that prohibits an authorizer from granting a charter to an organizer to establish and operate a charter school in Indiana. Requires charter schools to provide transportation services to all students who reside within the public school district within which the charter school is located. Exempts school corporations subject to certain property tax sharing requirements from the dollar law. Changes the maximum charter school contract term to five years. Provides that a charter must contain a provision to appoint certain persons to the governing board of the charter school. Requires any public meeting of a charter school governing board where the annual budget is adopted to be held in the county in which the charter school is located. Prohibits certain charter schools from receiving state funding, or from receiving funding from operation fund property tax levies, operating referendum tax levies, and school safety referendum tax levies. Removes, expires, and repeals provisions that require school corporations to share operation fund property tax levy, operating referendum tax levy, and school safety referendum tax levy funds with charter schools. Makes conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb86"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Education and Career Development",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education and Career Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Qaddoura",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fady Qaddoura",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fady Qaddoura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0086/SB0086.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0086.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0086.01.INTR/SB0086.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0086.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0086.01.INTR/SB0086.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/86",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0086",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:14Z"
+  }
+}

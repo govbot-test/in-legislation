@@ -1,0 +1,139 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1247",
+  "title": "Underground utility facilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "UTILITIES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Amends Indiana's 811 law, which requires the location and marking of underground utility facilities (facilities) before planned excavation or demolition projects, to provide that if the operator of a facility (operator) fails to: (1) provide to the person responsible for an excavation or demolition (excavator) required information as to the location of the operator's facilities; or (2) provide to the association known as the Indiana Underground Plant Protection Service (association) an electronic positive response indicating that the operator either has provided the required notice to the excavator or has no facilities in the location of the proposed project; within the time specified in the law, the excavator may engage the services of a third party utility locator (locator) to determine whether the operator has underground facilities in the location of the proposed project and, if applicable, provide the marking information for those facilities. Provides that an excavator that elects to engage the services of a locator must: (1) select a locator that is authorized by the operator to act on the operator's behalf; and (2) notify the association of the locator's completion of the services for which the locator was engaged, along with the amount paid by the excavator to the locator for those services. Requires the operator on whose behalf the services were performed to submit to the excavator payment in an amount equal to three times the amount paid by the excavator for the services. Provides that not later than June 1, 2026, each operator subject to the 811 law must provide to the association a notice that authorizes one or more locators to act on the operator's behalf for purposes of these provisions. Provides that upon receiving the required notices, the association shall compile a listing of the authorized locators for each operator. Provides that after June 30, 2026, upon receiving a notice of a planned project, the association shall immediately provide the listing to the person that submitted the notice. Requires the association to develop and adopt policies and procedures to implement these provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1247"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Pressel",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representatives Soliday, Culp",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities, Energy and Telecommunications",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jim Pressel",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jim Pressel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edmond Soliday",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edmond Soliday\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kendell Culp",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kendell Culp\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1247/HB1247.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1247.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1247.01.INTR/HB1247.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1247",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1247",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

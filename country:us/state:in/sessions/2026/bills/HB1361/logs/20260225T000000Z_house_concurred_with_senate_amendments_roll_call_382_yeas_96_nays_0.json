@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House concurred with Senate amendments; Roll Call 382: yeas 96, nays 0",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1361",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1361",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1361"
+}

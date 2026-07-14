@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to the House",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/concurrent/20",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sc0020",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SCR 20"
+}

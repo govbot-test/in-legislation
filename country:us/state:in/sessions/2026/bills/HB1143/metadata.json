@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1143",
+  "title": "Local option income taxes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Revenue (DOR)",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Generally",
+    "COUNTY GOVERNMENT",
+    "TAXES; Adjusted Gross Income Taxes",
+    "TAXES; Credits",
+    "TAXES; Gross Income Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that an individual who resides in a county with a local income tax and has a principal place of employment or business in a different county shall also pay a local income tax in the county where the individual maintains the principal place of employment. Provides that the local income tax rate in effect for a local taxpayer in the county where the local taxpayer maintains the local taxpayer's principal place of business or employment is one fourth of the sum of the local income tax rates imposed on the adjusted gross income of local taxpayers who reside in the county where the local taxpayer maintains the local taxpayer's principal place of business or employment. Provides that a local taxpayer is entitled to a credit against the tax imposed by a county in the county where the local taxpayer resides equal to the amount of the tax paid in the county where the local taxpayer has a principal place of business or employment."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1143"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Karickhoff",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael Karickhoff",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Karickhoff\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1143/HB1143.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1143.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1143.01.INTR/HB1143.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1143",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1143",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #1 (DeLaney) failed; Roll Call 239: yeas 33, nays 54",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/226",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0226",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 226"
+}

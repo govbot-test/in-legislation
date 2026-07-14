@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 255",
+  "title": "Property tax streamline.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Local Government Finance (DLGF)",
+    "AGRICULTURE; Generally",
+    "COUNTY GOVERNMENT",
+    "GENERAL ASSEMBLY; Budget and Appropriations",
+    "GENERAL ASSEMBLY; Generally",
+    "GENERAL ASSEMBLY; Legislative Services Agency",
+    "LOCAL ELECTED OFFICIALS; Township Trustees",
+    "PROPERTY; Generally",
+    "TASK FORCES AND COMMITTEES; Generally",
+    "TAXES; Property Taxes",
+    "TRANSPORTATION; Infrastructure; Bridges and Tunnels"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Abolishes the offices of county assessor and township assessor and transfers the duties of the assessor to the county auditor. Abolishes the office of township trustee and transfers the duties of the township trustee to the board of county commissioners. Requires the department of local government finance (DLGF) to develop an automated valuation model system (AVM system) to be used by the DLGF to conduct the assessment of all tangible property statewide, except for agricultural land. Requires the DLGF to conduct all assessments for tangible property, excluding agricultural land, using the AVM system beginning with the first assessment date that an AVM system is operational for use, but not later than 2037. Requires the DLGF to present a plan of implementation for an AVM system to the interim study committee on fiscal policy before November 1, 2026, and present an update on the AVM system before November 1 in subsequent years until the AVM system is operational for use. Except for agricultural land, provides that tangible property shall not be subject to assessment beginning with assessments in 2027 through the first assessment date for which the AVM system is applied. Freezes the assessed value of all taxable property, except agricultural land, during this time period at the assessed value determined for the property for the 2028 assessment date. Caps the property tax liability for all taxable property for taxes first due and payable in 2028 through the first date that taxes are first  due and payable based on assessments under the AVM system to not more than: (1) for taxes first due and payable in 2028, the property tax liability imposed on the taxpayer's property for taxes first due and payable in 2026; and (2) for taxes first due and payable in 2029 and thereafter, the property tax liability for the calendar year not to exceed a 3% increase from the taxpayer's property tax liability from the previous year. Requires the department of transportation (department) to develop and implement inspection criteria for local bridge inspections throughout the state with timelines, inspection standards, and milestones that ensure public safety, comply with state and federal inspection standards, and have the goal of reducing the cost of local bridge inspections within a county. Requires the department to exempt certain inspection regulations that the department determines will reduce costs while complying with state and federal inspection standard. Repeals a provision in current law requiring the department to ensure that Indiana's local bridge conditions are in the top quarter compared to other states (retains the requirement for state bridges). Requires the legislative services agency to prepare legislation for introduction in the 2027 regular session of the general assembly to make appropriate required changes in statutes. Makes corresponding changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb255"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Alexander, Johnson T",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Tax and Fiscal Policy",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Tax and Fiscal Policy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott Alexander",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tyler Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tyler Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0255/SB0255.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0255.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0255.01.INTR/SB0255.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/255",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0255",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

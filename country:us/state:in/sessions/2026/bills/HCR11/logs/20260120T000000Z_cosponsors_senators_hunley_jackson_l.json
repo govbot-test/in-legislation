@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Cosponsors: Senators Hunley, Jackson L",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/11",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0011",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 11"
+}

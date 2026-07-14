@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House sponsor: Representative Teshka",
+    "occurred_at": "2026-01-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/14",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0014",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 14"
+}

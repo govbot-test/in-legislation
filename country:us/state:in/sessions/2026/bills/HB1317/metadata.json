@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1317",
+  "title": "IURC and utility audits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; State Board of Accounts (SBOA)",
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "AUDITS AND AUDITORS (Non-Elected)",
+    "CRIMINAL LAW AND PROCEDURE; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Prosecuting Attorneys (Non-Elected)",
+    "LAW ENFORCEMENT; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that every three years, beginning in 2026, the state board of accounts shall conduct an audit of the funds, accounts, financial affairs, and all compliance related matters of the Indiana utility regulatory commission (IURC) for the state fiscal year ending in the year in which the audit is conducted. Provides that a report of an audit conducted under these provisions must be submitted to the executive director of the legislative services agency for distribution to members of the general assembly. Provides that the IURC: (1) may, with good cause, as part of an examination, inquiry, or investigation authorized by specified statutes conduct a forensic audit of a public utility; and (2) shall as part of a base rate case that is filed with or pending before the IURC after December 31, 2025, for a change in a public utility's basic rates and charges, conduct a forensic audit of the public utility. Authorizes the IURC to appoint: (1) an independent accounting firm; or (2) another qualified agent; with experience or expertise in conducting forensic audits to conduct a forensic audit under these provisions. Specifies the scope of a forensic audit under these provisions. Provides that upon the completion of a forensic audit, the IURC may do the following: (1) Issue an order directing the public utility to take actions to correct or cure certain acts or practices examined as part of the audit. (2) Refer any suspected criminal activities uncovered during the audit to an appropriate law enforcement agency or prosecutorial agency or official. Specifies how expenses incurred by the IURC or the IURC's agent in conducting a forensic audit under this section shall be charged and paid."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1317"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities, Energy and Telecommunications",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Bartlett",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Burton added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John Bartlett",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Bartlett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Burton",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Burton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1317/HB1317.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1317.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1317.01.INTR/HB1317.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1317",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1317",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

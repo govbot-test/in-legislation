@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Second reading: adopted voice vote",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/concurrent/5",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sc0005",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SCR 5"
+}

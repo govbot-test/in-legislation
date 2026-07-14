@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Greene, Goss-Reaves, Cash, Huston, Abbott, Andrade, Aylesworth, Bartels, Bartlett, Bauer, Novak, Clere, Criswell, Dant Chesser, Davis, Engleman, GiaQuinta, Haggard, Harris, Heaton, Isa, Jackson C, Judy, Lawson, Ledbetter, Lindauer, Miller D, Miller K, Morris, Pack, Pfaff, Prescott, Pressel, Pryor, Rowray, Shackleford, Soliday, Teshka, VanNatter, Zimmerman",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/36",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0036",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 36"
+}

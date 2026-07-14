@@ -1,0 +1,132 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1301",
+  "title": "Sentence modification.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Corrections (DOC)",
+    "AGENCIES; State Public Defender",
+    "COURTS; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Evidence",
+    "CRIMINAL LAW AND PROCEDURE; Prosecuting Attorneys (Non-Elected)",
+    "CRIMINAL LAW AND PROCEDURE; Sentencing",
+    "EDUCATION; Adult Education",
+    "PUBLIC DEFENDER; Generally",
+    "SOCIAL SERVICES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the department of correction to issue a certificate of eligibility for rehabilitative release (certificate) to certain convicted persons. Provides that a certificate must be issued to the following: (1) A person sentenced for a crime other than murder who is at least 60 years of age, and has served at least 20 years in the department of correction. (2) A person serving a sentence for murder who is at least 62 years of age, and has served at least 30 years in the department of correction. Allows a convicted person who has received a certificate to file a petition for sentence modification without the consent of the prosecuting attorney. Provides certain criteria that the court must consider when ruling on a petition for sentence modification. Allows a court to grant a petition for sentence modification if the court finds, by clear and convincing evidence, that: (1) the convicted person is no longer a danger to public safety; (2) the convicted person has demonstrated significant rehabilitative efforts, including participation in educational, vocational, and therapeutic programs; and (3) the interest of justice supports sentence modification. Allows the state public defender to represent a convicted person on a petition for sentence modification that is based upon a certificate. Allows certain convicted persons to file a petition for sentence reduction. Requires a petition for sentence reduction to identify information related the convicted person, sentence sought to be reduced, and evidence in support of the request. Allows a court to dismiss an incomplete petition or set a hearing on a properly filed petition. Requires that notice of a hearing be served on the petitioner, convicted person, counsel, department of correction, prosecuting attorney, and the victim or witness. Requires a court to appoint a public defender to represent the convicted person. Provides that the court is to take certain factors into consideration when deciding a petition for sentence reduction. Specifies that if the evidence supports that the convicted person does not present a significant safety risk to the community, there is a rebuttable presumption that the convicted person's sentence should be reduced by at least 20%. Requires the court to issue a final appealable order with findings of fact."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1301"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Smith V",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Courts and Criminal Code",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Courts and Criminal Code",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vernon Smith",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vernon Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1301/HB1301.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1301.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1301.01.INTR/HB1301.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: HB1301.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1301.01.INTR/HB1301.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1301",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1301",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

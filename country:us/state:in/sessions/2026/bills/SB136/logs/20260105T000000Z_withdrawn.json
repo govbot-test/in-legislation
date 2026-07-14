@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Withdrawn",
+    "occurred_at": "2026-01-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/136",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0136",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 136"
+}

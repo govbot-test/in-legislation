@@ -1,0 +1,129 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1347",
+  "title": "Lake County Convention Center.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BUILDINGS AND BUILDING REGULATIONS",
+    "COUNTY GOVERNMENT",
+    "GAMBLING, GAMING, AND WAGERING; Generally",
+    "LOCAL GOVERNMENT; Generally",
+    "STATE ELECTED OFFICIALS; Treasurer",
+    "TAXES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Makes changes to the amount of supplemental wagering tax that the treasurer of state is required to pay to each riverboat operating in Gary. Makes changes to the distribution of wagering tax revenue to the city of Gary. Legalizes and validates bonds, notes, evidences of indebtedness, leases, or other written obligations issued or executed by or in the name of the: (1) Indiana finance authority; (2) development authority; and (3) Lake County Convention Center Authority (authority); as authorized or approved by resolution or ordinance adopted before February 28, 2026. Provides that the authority is established when the construction of the convention and event center is substantially completed so that the convention and event center can be used for its intended purpose. (Current law provides for the establishment of the authority upon the adoption of the proposal for the development, operation, and ownership of the Lake County convention and event center.) Requires a member appointed to the authority to be an Indiana resident. Provides that an attorney in active standing may not be appointed to the authority. Provides that the Lake County convention and event center reserve fund shall be administered by the Lake County commissioners until the authority is established. Repeals a provision that allocates deposits of Gary riverboat graduated wagering tax revenue."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1347"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Slager",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harold Slager",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harold Slager\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1347/HB1347.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1347.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1347.01.INTR/HB1347.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: HB1347.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1347.01.INTR/HB1347.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1347",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1347",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

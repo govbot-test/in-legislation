@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #12 (DeLaney) failed; Roll Call 285: yeas 34, nays 55",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/1",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0001",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

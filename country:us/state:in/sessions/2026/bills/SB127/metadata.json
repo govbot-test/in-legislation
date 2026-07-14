@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 127",
+  "title": "Landlord-tenant matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "COURTS; Attorneys",
+    "COURTS; Generally",
+    "COURTS; Small Claims Courts",
+    "PROPERTY; Landlords and Tenants",
+    "PROPERTY; Leases",
+    "UTILITIES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a landlord may not sell a residential rental property that is subject to an unexpired written lease unless the landlord gives written notice to the tenant not less than 60 days before the landlord lists the property for sale, unless certain exceptions apply. Requires a buyer of a residential rental property to honor an unexpired written lease between the previous owner and a tenant unless the buyer of the residential rental property: (1) gives to the tenant, not less than 30 days before the lease is terminated, written notice that the buyer intends to terminate the lease; and (2) pays the tenant an amount equal to one monthly rental payment plus the full security deposit. For purposes of a residential rental unit, defines: (1) \"essential services\" as certain utility services needed for the safe and habitable occupation by a tenant of the tenant's rental unit; and (2) \"essential systems\" as certain systems used to deliver essential services to a rental unit. Requires a landlord to repair or replace an essential system not later than 48 hours after being notified by a tenant that the tenant's rental unit is without essential services as a result of: (1) a malfunction in the essential system; or (2) the landlord's failure to maintain the system in good and safe working condition. Provides that, during the pendency of a court action brought by a tenant to enforce a statutory obligation of a landlord, the court may order the tenant to make the regular rental payments otherwise due to the landlord under the rental agreement to: (1) the clerk of the court; or (2) an attorney trust account; to be held in trust for disbursal to the prevailing party, as ordered by the court. For purposes of the rights of tenants who are victims of certain crimes, provides that evidence showing a tenant engaged in a protected activity not more than six months before the landlord's alleged retaliatory conduct creates a rebuttable presumption that the purpose of the landlord's conduct was retaliation. Specifies the evidence a landlord may show to rebut the presumption. Requires a landlord to pay all penalties or fines imposed by a political subdivision for violation of the landlord's obligations with regard to a rental premises. Requires a landlord to pay all penalties or fines and make all repairs required by a political subdivision before the landlord may deliver the rental premises to a tenant."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb127"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senators Niezgodski, Hunley, Pol",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Judiciary",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Niezgodski",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Niezgodski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrea Hunley",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrea Hunley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0127/SB0127.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0127.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0127.01.INTR/SB0127.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/127",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0127",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

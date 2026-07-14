@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1370",
+  "title": "Payment of claims for emergency services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "HEALTH; Emergency Medical Services (EMS)"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Prohibits a utilization review entity from requiring prior authorization for ambulance services provided: (1) to a covered individual; (2) by a nonparticipating ambulance service provider; and (3) within 12 hours after the ambulance services are requested. Prohibits a utilization review entity from requiring prior authorization for emergent response services or urgent response services that are provided: (1) to a covered individual; (2) in good faith; and (3) within 24 hours after the emergent response services or urgent response services are requested. Provides that a policy of accident and sickness insurance that provides coverage for emergency medical services must provide reimbursement for emergency medical services that are, among other things, performed or provided during a response initiated through the 911 system or an equivalent telephone number, a texting system, or any other method of summoning emergency medical services. Provides that a policy of accident and sickness insurance that provides coverage for emergency medical services must provide reimbursement for emergency medical services that are, among other things, performed or provided when an individual is determined to require emergency medical services by a physician. Provides that an individual contract and a group contract that provide coverage for emergency medical services must provide reimbursement for emergency medical services that are, among other things, performed or provided during a response initiated through the 911 system or an equivalent telephone number, a texting system, or any other method of summoning emergency medical services. Provides that an individual contract and a group contract that provide coverage for emergency medical services must provide reimbursement for emergency medical services that are, among other things, performed or provided when an individual is determined to require emergency medical services by a physician. Repeals certain code provisions addressing advanced life support services."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1370"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representative Barrett",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Insurance",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Insurance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Isa",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tony Isa",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tony Isa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Barrett",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Barrett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1370/HB1370.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1370.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1370.01.INTR/HB1370.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1370",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1370",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

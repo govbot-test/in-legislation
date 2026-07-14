@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senator Randolph added as coauthor",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/148",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0148",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 148"
+}

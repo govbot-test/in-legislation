@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Cosponsor: Representative GiaQuinta",
+    "occurred_at": "2026-01-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/concurrent/6",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sc0006",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SCR 6"
+}

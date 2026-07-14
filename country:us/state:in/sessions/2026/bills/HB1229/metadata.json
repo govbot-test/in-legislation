@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1229",
+  "title": "International money wiring fee.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "FEDERAL GOVERNMENT; Generally",
+    "FINANCIAL SERVICES; Currency",
+    "HEALTH CARE PROFESSIONALS; Behavioral Health",
+    "HEALTH; Medicaid",
+    "TASK FORCES AND COMMITTEES; Generally",
+    "TAXES; Credits"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a money transmitter (entities licensed under the Money Transmission Modernization Act) to collect and remit an international money wiring fee from senders of a money transmission to a location outside of the United States. Allows a money transmitter to retain a collection allowance from the fee amounts remitted. Provides an income tax credit to individuals who are a citizen or national of the United States, or an alien who has lawful permanent resident status or conditional permanent resident status, and paid an international money wiring fee during the taxable year. Renames the community services quality assurance fund the community based services fund (fund). Requires 20% of the revenue from the international money wiring fee to be deposited in the state general fund and 80% of the revenue to be deposited in the fund to be used to fund the family supports Medicaid waiver and community integration habilitation Medicaid waiver programs, including applied behavior analysis, in order to reduce the wait list and make additional waiver slots available under these two programs. Provides that, of the money in the fund for that purpose, 50% is subject to review by the budget committee before being expended and the remaining 50% may be used any time following the deposit of the money in the fund."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1229"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Greene",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Financial Institutions",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Robb Greene",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robb Greene\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1229/HB1229.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1229.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1229.01.INTR/HB1229.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1229",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1229",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

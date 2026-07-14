@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Third reading: passed; Roll Call 187: yeas 45, nays 0",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1278",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1278",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1278"
+}

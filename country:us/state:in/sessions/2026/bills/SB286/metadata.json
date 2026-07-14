@@ -1,0 +1,146 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 286",
+  "title": "Cannabis regulation.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "CRIMINAL LAW AND PROCEDURE; Generally",
+    "GENERAL ASSEMBLY; Budget and Appropriations",
+    "HEALTH; Generally",
+    "MARIJUANA"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Permits the use of cannabis by: (1) a person at least 21 years of age; and (2) a person with a serious medical condition as determined by the person's physician. Establishes the adult use cannabis excise tax, and requires a retailer to transfer the tax to the department of state revenue for deposit in the state general fund. Exempts veterans from payment of the sales tax on medical or adult use cannabis. Establishes a cannabis program (program) to permit the cultivation, processing, testing, transportation, and sale of cannabis by holders of a valid permit. Establishes the Indiana cannabis commission (ICC) as a state agency to oversee, implement, and enforce the program, and establishes the ICC advisory committee to review the effectiveness of the program. Requires that permit holders take steps to prevent diversion of cannabis to unauthorized persons. Requires that cannabis and cannabis products be properly labeled, placed in child resistant packaging, and tested by an independent testing laboratory before being made available for purchase. Prohibits packaging cannabis in a manner that is appealing to children. Authorizes research on cannabis in accordance with rules set forth by the ICC. Establishes a procedure for the expungement of a cannabis related conviction if the act constituting the conviction becomes legal. Makes conforming amendments."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb286"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Pol",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Commerce and Technology",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Commerce and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Senator Walker K added as second author",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Walker",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kyle Walker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0286/SB0286.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0286.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0286.01.INTR/SB0286.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0286.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0286.01.INTR/SB0286.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/286",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0286",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

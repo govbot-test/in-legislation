@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 265",
+  "title": "Various employment matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "LABOR AND EMPLOYMENT; Collective Bargaining, Benefits, and Wages",
+    "LABOR AND EMPLOYMENT; Unemployment",
+    "LABOR AND EMPLOYMENT; Worker's Compensation"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that, under certain circumstances, an employer who takes an adverse action against an employee commits an infraction. Specifies that, under certain circumstances, an adverse employment action is prima facie evidence of an unlawful retaliation. Provides that, under certain circumstances, an employer who knowingly or intentionally fails to pay an employee or former employee commits an infraction. Increases the amount of worker's compensation and worker's occupational diseases compensation benefits available for injuries and disablements: (1) in fiscal year 2027; (2) in fiscal year 2028; (3) in fiscal year 2029; (4) in fiscal year 2030; (5) in fiscal year 2031; and (6) in fiscal year 2032 and thereafter. Amends the definition of \"wage credits\". Specifies the rate for unemployment insurance benefits for initial claims filed by an individual who is totally unemployed for any week beginning after June 30, 2026. Specifies, for initial claims filed for any week beginning after June 30, 2026: (1) the maximum weekly benefit amount; and (2) an additional weekly benefit for eligible and qualified individuals with dependents."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb265"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Pol",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Pensions and Labor",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Pensions and Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0265/SB0265.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0265.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0265.01.INTR/SB0265.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/265",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0265",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

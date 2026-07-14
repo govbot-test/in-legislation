@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate sponsor: Senator Buchanan",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1145",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1145",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1145"
+}

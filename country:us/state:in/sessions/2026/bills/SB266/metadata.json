@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 266",
+  "title": "Base rate cases for electricity suppliers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "ENERGY; Generally",
+    "PROPERTY; Housing",
+    "UTILITIES; Electric"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that in a base rate proceeding that is filed with or pending before the Indiana utility regulatory commission (IURC) after December 31, 2025, for an increase in an electricity supplier's basic rates and charges, the IURC shall do the following: (1) Consider whether the requested increase would result, upon full implementation, in an average monthly residential bill that would represent more than 6% of a representative low income customer's monthly income. (2) Consider and compare the following: (A) The total amount of the electricity supplier's actual return that was distributed to shareholders in the form of dividends, or reinvested by the electricity supplier in its own stock, during the period extending back to the IURC's last order approving the electricity supplier's basic rates and charges (relevant period). (B) The sum of the total amount of the electricity supplier's actual return for the relevant period that was invested in infrastructure or improvements to the electricity supplier's system, plus the amount of capital investments that are associated with a set of discrete and identifiable capital spending projects that will be placed in service within a reasonable time after the end of the electricity supplier's 12 month test period in the proceeding. (3) Hold at least two public hearings in the electricity supplier's service area. Provides that in the IURC's final order in the proceeding, the IURC shall include: (1) the IURC's findings with respect to the considerations required under the bill; and (2) a discussion of how the IURC took those findings into account in reaching the decisions set forth in the order."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb266"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Pol",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rodney Pol",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Pol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0266/SB0266.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0266.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0266.01.INTR/SB0266.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/266",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0266",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

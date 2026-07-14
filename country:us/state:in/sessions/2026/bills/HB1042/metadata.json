@@ -17,7 +17,7 @@
   "abstracts": [
     {
       "note": "Digest",
-      "abstract": "Provides that the administrator or manager of the following shall offer a cryptocurrency exchange traded fund as a regular investment program: (1) The legislators' defined contribution plan. (2) The Hoosier START plan. (3) The public employees' retirement fund hybrid plan. (4) The public employees' retirement fund My Choice plan. (5) The teachers' retirement fund hybrid plan (including the teachers' pre-1996 account). (6) The teachers' retirement fund My Choice plan. (7) The 529 education savings plan. Provides that the assets of the following may be invested in cryptocurrency exchange traded funds: (1) The legislators' defined benefit plan. (2) The state excise police, gaming agent, gaming control officer, and conservation enforcement officers' retirement plan. (3) The special death benefit fund. (4) The public employees' retirement fund hybrid plan. (5) The pension relief fund. (6) The teachers' retirement fund hybrid plan (including the teachers' pre-1996 account). (7) The judges' retirement system. (8) The prosecuting attorneys retirement fund. (9) The 1977 police officers' and firefighters' pension and disability fund. Provides that the treasurer of state may invest the assets of the following in stablecoin cryptocurrency exchange traded funds: (1) The trust Indiana investment pool. (2) The next generation trust fund. (3) The state police benefit system. Establishes the blockchain and digital assets task force and provides that the task force shall: (1) evaluate governmental use cases, consumer protection, tax administration, and investment governance for digital assets; and (2) develop, and submit to the governor and the legislative council, recommended legislation for introduction in the 2027 legislation session establishing not more than two state or local blockchain pilot projects for the purpose of testing blockchain implementation in Indiana. Prohibits a public agency, county, municipality, or township from adopting or enforcing a rule, ordinance, or other regulation that does any of the following: (1) Prohibits, restricts, or impairs an individual's ability to: (A) accept digital assets as a method of payment for legal goods and services; or (B) take custody of digital assets using specified technologies. (2) Prohibits, restricts, or impairs the ability of an individual or business to engage in specified activities pertaining to blockchains. (3) Imposes taxes or fees on: (A) use or acceptance of digital assets as a method of payment for legal goods and services; or (B) taking or maintaining custody of digital assets using a self-hosted wallet or hardware wallet; that are not applicable to comparable financial transactions that do not involve digital assets. (4) Prohibits a digital asset mining business from operating in an area zoned for industrial use, or subjects a digital asset mining business located in an area zoned for industrial use to noise restrictions that are not applicable to other businesses operating in an area zoned for industrial use. (5) Prohibits private digital asset mining in a private residence located in an area that is zoned for residential use, or subjects private digital asset mining in a residence located in an area zoned for residential use to noise restrictions that do not apply to other residences in an area zoned for residential use. Provides that development or use of software for noncustodial transfer of digital assets does not constitute money transmission for purposes of statutes regarding licensure of money transmitters. Provides that a court may compel a person to disclose a digital asset private key only if no other admissible information is sufficient to provide access to the digital asset."
+      "abstract": "Provides that the following shall offer, as a regular investment program, a self directed brokerage account that offers at least one cryptocurrency investment option: (1) The legislators' defined contribution plan. (2) The Hoosier START plan. (3) Specified public employees' retirement fund plans and accounts. (4) Specified teachers' retirement fund plans and accounts (including the teachers' pre-1996 account). Prohibits a public agency, other than the department of financial institutions, or a county, municipality, or township from adopting or enforcing a rule, ordinance, or other regulation that does any of the following: (1) Prohibits, restricts, or impairs an individual's ability to: (A) accept digital assets as a method of payment for legal goods and services; or (B) take custody of digital assets using specified technologies. (2) Imposes taxes or fees on: (A) use or acceptance of digital assets as a method of payment for legal goods and services; or (B) taking or maintaining custody of digital assets using a self-hosted wallet or hardware wallet; that are not applicable to comparable financial transactions that do not involve digital assets. (3) Prohibits, restricts, or impairs the ability of an individual or business to engage in specified activities pertaining to blockchains. Prohibits a public agency, other than the department of financial institutions, from adopting or enforcing a rule, ordinance, or other regulation that prohibits operation of a digital mining business. Prohibits a county, municipality, or township from adopting or enforcing a rule, ordinance, or other regulation that does any of the following: (1) Prohibits a digital asset mining business from operating in an area zoned for industrial use, or subjects a digital asset mining business located in an area zoned for industrial use to noise restrictions that are not applicable to other businesses operating in an area zoned for industrial use. (2) Prohibits private digital asset mining in a private residence located in an area that is zoned for residential use, or subjects private digital asset mining in a residence located in an area zoned for residential use to noise restrictions that do not apply to other residences in an area zoned for residential use.  Provides that development or use of software for noncustodial transfer of digital assets does not constitute money transmission for purposes of statutes regarding licensure of money transmitters. Provides that a court may compel a person to disclose a digital asset private key only if no other admissible information is sufficient to provide access to the digital asset."
     }
   ],
   "other_titles": [],
@@ -65,6 +65,255 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:52Z"
       }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (DeLaney) failed; voice vote",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Amendment #2 (DeLaney) failed; voice vote",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Pierce K) prevailed; voice vote",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Second reading: amended, ordered engrossed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 66: yeas 53, nays 42",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Referred to the Senate",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Senate sponsors: Senators Walker K, Baldwin",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Insurance and Financial Institutions",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Insurance and Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Second reading: ordered engrossed",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Third reading: passed; Roll Call 198: yeas 35, nays 10",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Returned to the House with amendments",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Motion to concur filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "House concurred with Senate amendments; Roll Call 370: yeas 59, nays 33",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Signed by the President Pro Tempore",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Public Law 49",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,10 +348,63 @@
       "primary": false,
       "person_id": "~{\"name\": \"Heath VanNatter\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kyle Walker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kyle Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Baldwin",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott Baldwin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Enrolled House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1042/HB1042.05.ENRS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1042/HB1042.04.COMS.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1042/HB1042.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed House Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1042/HB1042.03.ENGH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced House Bill (H)",
       "links": [
@@ -117,21 +419,10 @@
   ],
   "documents": [
     {
-      "note": "Fiscal Note: HB1042.01.INTR.FN001",
+      "note": "Fiscal Note: HB1042.05.ENRS.FN001",
       "links": [
         {
-          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1042.01.INTR/HB1042.01.INTR.FN001?format=pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Fiscal Note: HB1042.01.INTR.FN002",
-      "links": [
-        {
-          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1042.01.INTR/HB1042.01.INTR.FN002?format=pdf",
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1042.05.ENRS/HB1042.05.ENRS.FN001?format=pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -158,7 +449,7 @@
     "division_id": "ocd-division/country:us/state:in"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:52Z",
+    "logs_latest_update": "2026-07-14T13:57:16Z",
     "text_extraction_latest_update": "2026-07-13T08:57:21.552562Z"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #3 (Hunley) failed; voice vote",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1377",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1377",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1377"
+}

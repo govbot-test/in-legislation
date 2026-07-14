@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Rules Suspended. Conference Committee Report 1: adopted by the House; Roll Call 411: yeas 93, nays 2",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/71",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0071",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 71"
+}

@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1430",
+  "title": "Referenda on preschool funding levies.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CHILDREN AND MINORS; Child Care Programs",
+    "CITIES AND TOWNS; Generally",
+    "COUNTY GOVERNMENT",
+    "EDUCATION; Generally",
+    "ELECTIONS; Local Election Boards",
+    "ELECTIONS; Public Questions and Referendums",
+    "LOCAL ELECTED OFFICIALS; Auditors",
+    "SCHOOLS; Pre-Kindergarten and Kindergarten",
+    "TAXES; Tax Levies"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Allows the legislative body of a county and certain cities to adopt a resolution to place a referendum on the ballot to impose a local preschool referendum tax levy (levy) to fund administration of a preschool program and provide tuition and other assistance. Allows a unit to impose a levy if approved by a majority of the voters. Provides that voters may not approve a levy that is imposed for more than eight years. Specifies procedures for the referendum. Provides that a unit that imposes a levy must establish a preschool education program and a local preschool education referendum tax levy fund."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1430"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Johnson B",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Elections and Apportionment",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections and Apportionment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blake Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blake Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1430/HB1430.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1430.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1430.01.INTR/HB1430.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1430",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1430",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

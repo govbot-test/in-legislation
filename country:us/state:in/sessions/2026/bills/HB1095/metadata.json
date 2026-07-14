@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1095",
+  "title": "School police pension matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "CIVIL LAW AND PROCEDURE; Contracts and Legal Documents",
+    "EDUCATION; Generally",
+    "PENSIONS AND RETIREMENT BENEFITS; Public Retirement System (INPRS)",
+    "SCHOOLS; Charter Schools",
+    "SCHOOLS; Officers and Employees (Other than Teachers)",
+    "VETERANS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Makes changes to the definition of a \"school resource officer\" for provisions relating to the 1977 police officers' and firefighters' pension and disability fund (1977 fund). Provides that a school police department may participate in the 1977 fund. Establishes requirements for establishing a local board for school police departments. Provides that an appointing authority shall waive the age restriction for a school resource officer for purposes of the 1977 fund if: (1) on the date the individual applies to be appointed and hired, the individual is a veteran who has completed at least 20 years of military service; (2) the individual received or is eligible to receive a discharge from the armed forces of the United States under conditions other than certain specified conditions; and (3) the individual meets all other requirements for appointment and hiring. Provides that a school corporation or charter school that employs a school resource officer must enter into a contract or memorandum of understanding with a local law enforcement agency for the purpose of complying with the reporting and payment requirements for purposes of the 1977 fund. Makes conforming amendments."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1095"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Davis",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Employment, Labor and Pensions",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Employment, Labor and Pensions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Representative Commons added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michelle Davis",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michelle Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Commons",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Commons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1095/HB1095.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1095.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1095.01.INTR/HB1095.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1095",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1095",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

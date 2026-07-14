@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 153",
+  "title": "Utility disconnections and customer data reports.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATIVE LAW; Generally",
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))",
+    "UTILITIES; Electric",
+    "UTILITIES; Gas",
+    "UTILITIES; Generally",
+    "UTILITIES; Water"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that beginning January 1, 2027, an electric or gas utility may not, from June 21 through September 23 (in addition to the period from December 1 through March 15, under current law), terminate residential electric or gas service for an individual who is eligible for and has applied for assistance from a home energy assistance program administered by the lieutenant governor. Prohibits an electric, gas, or water utility from terminating service for any residential customer on any of the following days: (1) A Friday, Saturday, or Sunday. (2) A legal holiday. (3) Any day, or after noon on the day preceding any day, during which customer service representatives of the utility are not available to respond to customer inquiries during regular business hours. Repeals a provision that authorizes the Indiana utility regulatory commission (IURC) to establish a reasonable rate of interest that a utility may charge on the unpaid balance of a delinquent customer bill. Prohibits an electric, gas, or water utility from charging or collecting a deposit or reconnection fee as a condition of, or in connection with, restoring service to a residential customer after a termination of service for nonpayment. Requires the IURC to amend, not later than December 31, 2026, its administrative rules as necessary to conform the rules to these provisions. Requires a utility to: (1) amend its residential tariffs as necessary to bring the tariffs into conformance with these provisions; and (2) file with the IURC a petition for approval of each amended tariff; not later than June 15, 2026. Requires a utility that: (1) is under the jurisdiction of the IURC for the approval of rates and charges; and (2) provides residential electric, natural gas, water, or wastewater utility service at retail to customers and low income customers in Indiana; to report to the IURC on a quarterly basis certain data concerning customer accounts and low income customer accounts. Provides that the first reports submitted to the IURC must include the required information with respect to the third calendar quarter of 2026. Provides that: (1) a utility shall report all required information in the aggregate and in a manner that does not identify individual customers and low income customers; and (2) the IURC may not require utilities to disclose confidential and proprietary business information without adequate protection of the information. Requires the IURC to adopt rules to implement these provisions. Provides that, beginning in 2027, the IURC shall annually compile and summarize the information received from utilities for the previous calendar year and include the summary in the IURC's annual report."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb153"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Jackson L",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "La Keisha Jackson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"La Keisha Jackson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0153/SB0153.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0153.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0153.01.INTR/SB0153.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/153",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0153",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senators Raatz,  Becker added as coauthors",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/180",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0180",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 180"
+}

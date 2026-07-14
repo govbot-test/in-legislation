@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Authored by Senators Rogers, Raatz, Mishler",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/248",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0248",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 248"
+}

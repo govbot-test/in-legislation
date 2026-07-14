@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Cosponsor: Representative Bauer",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/228",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0228",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 228"
+}

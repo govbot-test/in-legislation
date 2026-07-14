@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate conferees appointed: Glick, Spencer",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/224",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0224",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 224"
+}

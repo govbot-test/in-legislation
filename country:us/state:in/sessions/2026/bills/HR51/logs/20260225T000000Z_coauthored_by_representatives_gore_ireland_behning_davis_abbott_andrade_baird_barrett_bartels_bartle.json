@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Gore, Ireland, Behning, Davis, Abbott, Andrade, Baird, Barrett, Bartels, Bartlett, Bascom, Bauer, Borders, Novak, Carbaugh, Cash, Clere, Commons, Criswell, Culp, Dant Chesser, DeVon, Engleman, Genda, GiaQuinta, Haggard, Hall, Hamilton, Harris, Hatcher, Heaton, Huston, Isa, Jackson C, Johnson B, Jordan, Karickhoff, King, Klinker, Lauer, Lawson, Ledbetter, Lehman, Lindauer, Lopez, Lucas, Mayfield, Meltzer, Miller D, Miller K, Morris, Moseley, O'Brien, Olthoff, Pack, Patterson, Payne, Pfaff, Pierce K, Pierce M, Prescott, Pryor, Shackleford, Shonkwiler, Slager, Smaltz, Snow, Steuerwald, Teshka, Thompson, Wesco, Yocum, Zimmerman",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/51",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0051",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 51"
+}

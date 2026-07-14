@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 238",
+  "title": "Property and local income taxes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Local Government Finance (DLGF)",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Generally",
+    "CITIES AND TOWNS; Generally",
+    "TAXES; Local Income Taxes",
+    "TAXES; Property Taxes",
+    "TAXES; Tax Levies"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Amends provisions added in SEA 1 in the 2025 session that require the department of local government finance to neutralize the effect of certain property tax provisions enacted in that bill. Amends the threshold for the business personal property tax exemption enacted in SEA 1 in the 2025 session. Reinstates excess tax levy appeal provisions that were repealed in SEA 1 in the 2025 session. Amends the various local income tax (LIT) rates that may be adopted under provisions added in SEA 1 in the 2025 session. Amends the population thresholds used to determine if a city or town is eligible to adopt a municipal LIT. Repeals provisions that require counties and municipalities to readopt their LIT rate each year. Moves the effective date for the local income tax changes enacted in SEA 1 in the 2025 session from 2028 to 2029. Makes corresponding changes to move the expiration date regarding a county with a single voting bloc enacted in HEA 1142 in the 2025 session."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb238"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Rogers",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Tax and Fiscal Policy",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Tax and Fiscal Policy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Doriot added as second author",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Linda Rogers",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Linda Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake Doriot",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blake Doriot\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0238/SB0238.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0238.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0238.01.INTR/SB0238.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/238",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0238",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

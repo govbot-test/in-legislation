@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Representatives Jordan, Abbott, Andrade, Aylesworth, Baird, Barrett, Bartlett, Behning, Borders, Burton, Campbell, Carbaugh, Commons, Criswell, Culp, Davis, DeVon, Engleman, Errington, Genda, Goss-Reaves, Haggard, Hamilton, Heaton, Heine, Hostettler, Isa, Jackson C, Johnson B, Karickhoff, King, Lauer, Ledbetter, Lehman, Lopez, Manning, McGuire, McNamara, Miller D, Miller K, Moseley, Morris, Novak R, O'Brien, Olthoff, Pack R, Pfaff, Pierce K, Porter, Pressel, Pryor, Rowray, Shackleford, Slager, Smaltz, Smith H, Smith V, Soliday, Steuerwald, Teshka, VanNatter, Yocum, Zimmerman, Summers added as cosponsors",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/27",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0027",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 27"
+}

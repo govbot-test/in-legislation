@@ -1,0 +1,133 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1295",
+  "title": "Hospital disclosures and requirements.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CRIMINAL LAW AND PROCEDURE; Prosecuting Attorneys (Non-Elected)",
+    "HEALTH CARE FACILITIES; Hospitals",
+    "HEALTH; Pregnancy"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires a hospital to: (1) inform a woman in premature labor of the hospital's capabilities of treating the born alive infant and managing a high risk pregnancy; and (2) if the hospital's capabilities interfere with the woman's care, provide this information before the woman is admitted to the hospital. Provides that if a born alive infant is transported to a hospital with an appropriate perinatal level of care, the woman must be offered an opportunity to be transported to the same hospital. Requires a local prosecuting attorney to investigate and seek criminal prosecution if the prosecuting attorney has probable cause to believe that a health care provider may have knowingly or intentionally: (1) violated the requirements concerning the treatment and care of a born alive infant or mother or the professional standards of practice through the health care provider's actions or inactions; and (2) caused harm or death to the born alive infant or mother."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1295"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Coauthored by Representative Patterson",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Sweet",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Public Health",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lorissa Sweet",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lorissa Sweet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsay Patterson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsay Patterson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1295/HB1295.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1295.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1295.01.INTR/HB1295.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1295",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1295",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

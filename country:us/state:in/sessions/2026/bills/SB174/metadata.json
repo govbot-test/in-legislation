@@ -1,0 +1,217 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 174",
+  "title": "Various health matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Education (DOE) and Secretary of Education",
+    "AGENCIES; Department of Health (IDOH)",
+    "AGRICULTURE; Food and Food Processing",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Charitable Organizations and Nonprofits",
+    "CHILDREN AND MINORS; Child Care Programs",
+    "CHILDREN AND MINORS; Crimes Against Children",
+    "CHILDREN AND MINORS; Generally",
+    "CHURCHES AND RELIGIONS",
+    "CIVIL LAW AND PROCEDURE; Generally",
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "CRIMINAL LAW AND PROCEDURE; Offenses Against Persons",
+    "HEALTH CARE FACILITIES; Generally",
+    "HEALTH CARE PROFESSIONALS; Advanced Practice Registered Nurses",
+    "HEALTH CARE PROFESSIONALS; Doctors and Physicians",
+    "HEALTH CARE PROFESSIONALS; Nurses (Excluding Advanced Practice Registered Nurses)",
+    "HEALTH; Communicable Diseases, Infectious Diseases",
+    "HEALTH; Disease Control",
+    "HEALTH; Drinking Water",
+    "HEALTH; Generally",
+    "HEALTH; Vaccines and Vaccinations",
+    "HIGHER EDUCATION; Generally",
+    "PROPERTY; Generally",
+    "PROTECTED CLASSES",
+    "SCHOOLS; Health and Safety Issues"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Prohibits a person from adding a chemical to a public water supply in certain circumstances. Defines \"medical intervention\" and provides that a person may not require an individual to accept, undergo, or engage in a medical intervention in or on the individual's body as a condition of employment, entrance, admission, compensation, benefits, or participation. Provides that a person may not take a punitive measure against an individual because the individual refused to accept, undergo, or engage in a medical intervention in or on the individual's body. Allows an individual who suffers bodily injury as a result of a violation of these provisions to file an action. Provides that a person who knowingly or intentionally causes bodily injury to another person by violating these provisions commits battery, a class B misdemeanor, enhanced to a level 5 felony if the offense constitutes a violation of the right to bodily integrity. Allows an individual to sell certain meat products from the individual's primary residence. Establishes various requirements for an individual to sell certain meat products from the individual's primary residence. Exempts a stand or another retail building used only for the sale of certain food products or meat products from the definition of a Class 1 structure. Provides that a student enrolled in a health profession education program may not be required to receive an immunization as a condition of: (1) participating in; or (2) obtaining; clinical training or clinical experience required by the program if receiving the immunization is against the student's conscience. Amends the information that the statewide child fatality review committee and statewide maternal mortality review committee must include in each committee's annual report. Provides that a physician may not be required to receive an immunization if receiving the immunization is against the physician's conscience. Provides that a health care provider, health care entity, and a health carrier may not be required to provide or refer an individual for a health care service that violates the conscience of the health care provider, health care entity, or health carrier. Establishes an exception for a health carrier. Specifies that a health care provider, health care entity, or a health carrier may not be subject to discrimination and certain other acts and liability for declining to provide the health care service. Establishes a civil action for a violation of these provisions. Provides that a person who prevails in a civil action is entitled to certain relief. Requires a licensed child care center, school, and person that operates a before or after school program to report the ingredients of each food product provided to a child or student. Requires the division of family resources and the department of education to publish the information on each agency's website. Allows a school corporation to contract with a health care provider, health system, or community partner to establish a school based health center (center). Sets forth requirements to establish a center. Provides that, notwithstanding state or federal law, a school may not conduct a physical or mental assessment or treatment of a student unless the physical or mental assessment or treatment is related to an illness or accident that occurred during school hours or on or near school property. Repeals certain superseded laws, including provisions concerning immunizations, communicable diseases, potentially disease transmitting offenses, quarantine, medical testing, disqualification for unemployment benefits, and COVID-19 immunization requirements. Makes conforming amendments."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb174"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Johnson T",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Health and Provider Services",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Provider Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Rogers added as second author",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senators Byrne,  Doriot added as coauthors",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Tomes added as coauthor",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Raatz added as coauthor",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tyler Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tyler Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda Rogers",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Linda Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Byrne",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Byrne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake Doriot",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blake Doriot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Tomes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Tomes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Raatz",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Raatz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0174/SB0174.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0174.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0174.01.INTR/SB0174.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/174",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0174",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

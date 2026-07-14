@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Representatives Klinker, Behning, Moseley, Heaton, Hamilton, Novak R, Greene, Ledbetter, Lucas, Lauer, Pierce M, Pfaff, Judy, Rowray, Errington, Campbell, Pressel, DeLaney, Johnson B, Aylesworth, Heine, Miller D, Mayfield, GiaQuinta, Dant Chesser, Commons, Olthoff, Pryor, Pierce K, Andrade, Zimmerman, Haggard, Harris, Bartlett added as coauthors",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/24",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0024",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 24"
+}

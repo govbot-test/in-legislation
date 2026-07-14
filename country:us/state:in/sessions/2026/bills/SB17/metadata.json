@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 17",
+  "title": "Air quality.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Environmental Management (IDEM)",
+    "CITIES AND TOWNS; Generally",
+    "COUNTY GOVERNMENT",
+    "ENVIRONMENT; Air Pollution",
+    "LOCAL GOVERNMENT; Contracts, Procurements, and Purchases",
+    "LOCAL GOVERNMENT; Generally",
+    "STATE GOVERNMENT; Contracts, Procurements, and Purchases"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Authorizes a town, city, or county to establish or designate an agency to act for the town, city, or county as a local air pollution control agency (agency). Requires the commissioner of the department of environmental management (department) to enter into a contract with the agency of a town, city, or county if the agency is willing to enter into the contract. Provides that a contract between the department and the agency of a town, city, or county must: (1) require the department to advise, consult, cooperate with, and provide technical assistance to the agency; (2) authorize the agency to undertake air pollution control activities on behalf of the department or initiate enforcement of ordinances of the town, city, or county; and (3) provide for the payment of fair monetary compensation for the air pollution control activities performed by the agency. Provides that: (1) the compensation paid to an agency under a contract must be at least sufficient to cover the agency's staffing and operating costs; and (2) the rate of compensation must be adjusted each year according to changes in the Consumer Price Index."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb17"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Randolph Lonnie M",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Environmental Affairs",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lonnie Randolph",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lonnie Randolph\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0017/SB0017.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0017.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0017.01.INTR/SB0017.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/17",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0017",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

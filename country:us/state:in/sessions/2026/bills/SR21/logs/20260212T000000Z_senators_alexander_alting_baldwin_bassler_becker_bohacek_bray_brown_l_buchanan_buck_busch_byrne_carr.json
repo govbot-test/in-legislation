@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senators Alexander, Alting, Baldwin, Bassler, Becker, Bohacek, Bray, Brown L, Buchanan, Buck, Busch, Byrne, Carrasco, Charbonneau, Clark, Crider, Deery, Dernulc, Donato, Doriot, Ford J.D., Freeman, Garten, Gaskill, Glick, Goode, Holdman, Hunley, Jackson L, Johnson T, Leising, Maxwell, McKinley, Mishler, Niemeyer, Niezgodski, Pol, Qaddoura, Raatz, Randolph, Rogers, Schmitt, Spencer, Taylor G, Tomes, Walker G, Walker K, Yoder, Young M added as coauthors",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/simple/21",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sr0021",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SR 21"
+}

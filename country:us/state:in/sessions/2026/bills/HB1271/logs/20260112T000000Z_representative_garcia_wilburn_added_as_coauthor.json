@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Representative Garcia Wilburn added as coauthor",
+    "occurred_at": "2026-01-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1271",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1271",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1271"
+}

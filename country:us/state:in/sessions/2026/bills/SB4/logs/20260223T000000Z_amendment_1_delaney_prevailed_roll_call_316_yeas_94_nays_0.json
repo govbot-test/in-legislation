@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Amendment #1 (DeLaney) prevailed; Roll Call 316: yeas 94, nays 0",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/4",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0004",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 4"
+}

@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 218",
+  "title": "Circuit breaker credits for homesteads.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CITIES AND TOWNS; Generally",
+    "COUNTY GOVERNMENT",
+    "TAXES; Food and Beverage Taxes",
+    "TAXES; Innkeeper's Taxes",
+    "TAXES; Local Income Taxes",
+    "TAXES; Property Taxes",
+    "UTILITIES; Electric"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Authorizes the fiscal body of a county, city, or town (municipality) to reduce its homestead property tax cap. Requires the reduced property tax cap to apply only in determining the net property tax revenue of the municipality that adopted it and not to any other taxing unit within the taxing district. Authorizes a municipality that has adopted a reduced homestead property tax cap to adopt any of the following local option taxes, either singly or in combination, the revenue from which must be used as property tax replacement revenue due to the reduced homestead property tax cap: (1) Local option sales tax. (2) Supplemental local income tax. (3) Supplemental innkeeper's tax. (4) Supplemental food and beverage tax. Makes conforming changes and removes obsolete provisions. Makes an appropriation."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb218"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Tax and Fiscal Policy",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Tax and Fiscal Policy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Senators Buck, Niemeyer",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James Buck",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Buck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Niemeyer",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick Niemeyer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0218/SB0218.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0218.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0218.01.INTR/SB0218.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/218",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0218",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

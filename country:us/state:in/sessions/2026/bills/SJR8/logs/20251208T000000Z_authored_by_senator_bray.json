@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Authored by Senator Bray",
+    "occurred_at": "2025-12-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/senate/joint/8",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sj0008",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SJR 8"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Andrade, Abbott, Aylesworth, Baird, Bascom, Novak, Campbell, Carbaugh, Clere, Commons, Dant Chesser, GiaQuinta, Gore, Haggard, Hamilton, Heaton, Heine, Ireland, Isa, Jackson C, Johnson B, Lopez, Lucas, Mayfield, Miller D, Moseley, Olthoff, Patterson, Pierce K, Slager, Smaltz, Steuerwald, Teshka, VanNatter, Wesco, Zimmerman",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/50",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0050",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 50"
+}

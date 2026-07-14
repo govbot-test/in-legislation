@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Authored by Representative Clere",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/55",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0055",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 55"
+}

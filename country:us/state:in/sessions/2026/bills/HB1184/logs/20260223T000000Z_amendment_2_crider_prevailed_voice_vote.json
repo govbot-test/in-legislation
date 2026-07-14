@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Amendment #2 (Crider) prevailed; voice vote",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1184",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1184",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1184"
+}

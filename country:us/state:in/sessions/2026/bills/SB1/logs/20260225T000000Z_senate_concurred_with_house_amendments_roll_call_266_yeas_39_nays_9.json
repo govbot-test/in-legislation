@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate concurred with House amendments; Roll Call 266: yeas 39, nays 9",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/1",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0001",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

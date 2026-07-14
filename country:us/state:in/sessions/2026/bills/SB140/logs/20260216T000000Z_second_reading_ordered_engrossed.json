@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Second reading: ordered engrossed",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/140",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0140",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 140"
+}

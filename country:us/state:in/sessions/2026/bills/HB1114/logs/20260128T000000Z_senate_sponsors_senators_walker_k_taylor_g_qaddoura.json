@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate sponsors: Senators Walker K, Taylor G, Qaddoura",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1114",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1114",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1114"
+}

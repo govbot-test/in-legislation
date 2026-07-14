@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "House sponsor: Representative Pierce K",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/233",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0233",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 233"
+}

@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1109",
+  "title": "Homeless veterans initiative shelter program.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Veteran's Affairs (DVA)",
+    "BOARDS, COMMISSIONS, AND COUNCILS; Newly Created",
+    "PROPERTY; Homelessness",
+    "SOCIAL SERVICES; Housing",
+    "VETERANS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Establishes the Hoosier homeless veteran initiative for the purpose of providing a means for homeless veterans to have access to temporary shelter during the veteran's rehabilitation. Provides that the initiative shall be coordinated and administered by the Indiana department of veterans' affairs (department) in consultation with the Indiana department of health. Requires each homeless shelter with at least 25 beds to reserve at least one bed out of every 25 beds for a homeless veteran. Provides that a homeless shelter or other entity may apply to the department to become a participating shelter. Provides that a participating shelter shall receive grants from the department. Provides that a participating shelter shall provide food and housing and other services prescribed by the department for a participating veteran for a period consisting of the lesser of: (1) two years; or (2) the period necessary for the veteran to complete the requirements necessary for the participating veteran to receive a housing voucher in accordance with the United States Department of Housing and Urban Development's (HUD) HUD-VASH program. Provides that a homeless veteran who is not married may request to become a participating veteran in a manner prescribed by the department. Provides that the homeless veteran shall not be required to test negative on a drug or alcohol test to obtain initial placement in a participating shelter. Requires that a participating veteran receive services and meet certain requirements to remain eligible for placement in a participating facility."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1109"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans Affairs and Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Haggard",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representatives Judy,  Garcia Wilburn added as coauthors",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Craig Haggard",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Craig Haggard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Judy",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Judy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Victoria Garcia Wilburn",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Victoria Garcia Wilburn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1109/HB1109.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1109.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1109.01.INTR/HB1109.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1109",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1109",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

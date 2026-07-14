@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1051",
+  "title": "Exclusion of medical debt from credit scoring.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Contracts and Legal Documents",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "HEALTH; Billing and Costs",
+    "HEALTH; Medical Records",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Prohibits a health care provider from reporting or furnishing to a consumer reporting agency any information related to health care debt owed or alleged to be owed by a consumer who resides in Indiana. Requires a health care provider to include in any contract entered into with a third party furnisher a provision that prohibits the reporting or furnishing to a consumer reporting agency any information related to health care debt owed or alleged to be owed by a consumer, including information concerning any delinquent account action taken with respect to health care debt. Prohibits a consumer reporting agency from recording or retaining in the file of a consumer any information that is: (1) related to health care debt incurred or alleged to be incurred by the consumer; and (2) reported to the consumer reporting agency after June 30, 2026. Provides that if a consumer reporting agency receives a request from a consumer to delete any record of health care debt maintained in the file of the consumer, the consumer reporting agency shall, not later than five business days after receiving the request, take all lawful and reasonable actions to delete from the consumer's file the record of the health care debt, regardless of when the health care debt was reported to the consumer reporting agency. Provides that a person who violates the provisions of this act commits a deceptive act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1051"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Financial Institutions",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Financial Institutions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Summers",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vanessa Summers",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vanessa Summers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1051/HB1051.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1051.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1051.01.INTR/HB1051.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1051",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1051",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

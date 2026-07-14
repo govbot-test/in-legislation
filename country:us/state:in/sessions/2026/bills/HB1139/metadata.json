@@ -1,0 +1,155 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1139",
+  "title": "Assessment of property.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Local Government Finance (DLGF)",
+    "LOCAL ELECTED OFFICIALS; Assessors",
+    "PROPERTY; Assessors (Non-Elected)",
+    "TAXES; Agriculture Taxes",
+    "TAXES; Assessments, Notices, and Penalties",
+    "TAXES; Property Taxes",
+    "TAXES; Tax Assessment Boards"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that all tangible property that is subject to assessment shall be assessed on a just valuation basis and in a uniform and equal manner regardless of: (1) who owns the tangible property; or (2) who the person or entity is that is liable for property taxes due on the tangible property. Requires a county assessor to, as soon as possible, post an approved reassessment plan on the department of local government finance's (DLGF) website and any transparency portal developed by the state regarding public information. Provides that if an assessor changes the underlying parcel characteristics, including property classification or agricultural land type, of a property, based on verifiable evidence of a change in use, the assessor shall provide notice to the property owner that includes all verifiable evidence used to change assessment methods from agricultural land and document each change and the reason that each change was made for any class of property. Provides that land shall be assessed or reassessed as agricultural land only when it is devoted to agricultural use regardless of: (1) who owns the land; or (2) who the person or entity is that is liable for property taxes due on the land. Requires the DLGF to inform assessors and the presidents of county councils in writing if it finds that: (1) the reassessment of a group of parcels under a county's reassessment plan or other property assessment activities are not being properly conducted; (2) work required to be performed by local officials is not being properly conducted; or (3) property assessments are not being properly made. Provides that the failure of the DLGF to inform local officials shall be construed as an indication by the DLGF that assessment activities are being conducted properly. Requires the DLGF, if it determines that assessment activities are not being conducted properly, to order a state conducted assessment or reassessment."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1139"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Ledbetter",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative O'Brien",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Representative Culp added as coauthor",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cindy Ledbetter",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cindy Ledbetter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy O'Brien",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy O'Brien\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kendell Culp",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kendell Culp\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1139/HB1139.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1139.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1139.01.INTR/HB1139.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1139",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1139",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate sponsor: Senator Garten",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/20",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0020",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 20"
+}

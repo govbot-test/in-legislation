@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Jackson C, Harris, Bartlett, Burton, Pack, Porter, Pryor, Shackleford, Smith V, Summers",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/49",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0049",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 49"
+}

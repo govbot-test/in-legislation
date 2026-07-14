@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "First reading: referred to Committee on Corrections and Criminal Law",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Corrections and Criminal Law",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/207",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0207",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 207"
+}

@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1421",
+  "title": "Ban on employer use of automated decision systems.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Labor (DOL)",
+    "AGENCIES; Generally",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Generally",
+    "CITIES AND TOWNS; Generally",
+    "CIVIL LAW AND PROCEDURE; Generally",
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "CIVIL RIGHTS",
+    "COUNTY GOVERNMENT",
+    "LABOR AND EMPLOYMENT; Generally",
+    "STATE GOVERNMENT; Generally",
+    "TECHNOLOGY; Artificial Intelligence and Robotics"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Prohibits an employer from: (1) relying exclusively on an automated decision system in making an employment related decision with respect to a covered individual; (2) using an automated decision system output in making an employment related decision with respect to a covered individual unless certain conditions are met; and (3) discriminating or retaliating against a covered individual for exercising rights under these provisions. Sets forth disclosure requirements for an employer that uses or intends to use an automated decision system output in making an employment related decision. Allows the department of labor to take certain enforcement actions. Allows a covered individual or labor organization to bring a civil action for a violation."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1421"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Employment, Labor and Pensions",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Employment, Labor and Pensions",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Harris",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Earl Harris",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Earl Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1421/HB1421.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1421.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1421.01.INTR/HB1421.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1421",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1421",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

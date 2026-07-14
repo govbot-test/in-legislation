@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1276",
+  "title": "Competitive electric generation service.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "GENERAL ASSEMBLY; Indiana Code",
+    "GENERAL ASSEMBLY; Legislative Services Agency",
+    "PROFESSIONAL AND OCCUPATIONAL LICENSING; Generally",
+    "UTILITIES; Electric"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that beginning: (1) July 1, 2028, for industrial customers; (2) January 1, 2029, for commercial customers; and (3) July 1, 2029, for residential customers; a customer of an electricity supplier may elect to receive competitive electric generation service directly from a retail electric provider. Requires an electricity supplier to do the following not later than June 30, 2028: (1) Unbundle the cost components of: (A) electric generation services; and (B) electric transmission and distribution services; in the electricity supplier's tariffs for all customer classes. (2) Functionally separate all: (A) electric generation and supply services; and (B) transmission and distribution services; within the electricity supplier's operations. (3) Divest the electricity supplier's generation assets not otherwise needed to provide default electric generation service to customers within the electricity supplier's service area after the implementation of competitive electric generation service. Provides that, except for the licensing requirements for retail electric providers set forth in the bill, competitive electric generation service is not subject to regulation by the Indiana utility regulatory commission (IURC). Provides that the IURC shall continue to regulate: (1) default electric generation service; and (2) transmission and distribution service; provided by an electricity supplier to customers within the electricity supplier's service area. Provides that rates charged by electricity suppliers for default electric generation service must be: (1) based on market prices; and (2) subject to annual comparisons to regional averages for comparable service. Provides that not later than January 1, 2027, the IURC shall initiate a stakeholder proceeding to develop a customer education program to ensure that all retail electric customers have access to accurate information about the availability of, and options for, competitive electric generation service in advance of the applicable dates set forth in the bill by which competitive electric generation service must be available to specified customer classes. Requires the IURC to establish, not later than March 1, 2028, an online portal that enables customers to compare competitive electric generation service offered by retail electric providers. Requires the IURC to establish by rule requirements for an electricity supplier to provide to a retail electric provider historical usage data for a customer that seeks to receive competitive electric generation service from the retail electric provider. Sets forth: (1) specified billing arrangements that must be offered to customers receiving competitive electric generation service; and (2) the dates by which each arrangement must be made available. Requires the IURC to issue a general administrative order to ensure that the following are available to customers not later than December 31, 2029: (1) An expedited process for residential customers to change retail electric providers. (2) A process that allows: (A) residential customers; or (B) small commercial or industrial customers; that move from one service location to another within their electricity supplier's service area to have their competitive electric generation service transferred directly to the new location. Requires the IURC to establish by rule a licensing process for retail electric providers that seek to provide competitive electric generation service to customers in Indiana. Sets forth certain requirements that a retail electric provider must meet as a condition of receiving and maintaining a license. Authorizes the IURC to initiate an investigation to consider, and establish guidelines for, the offering by retail electric providers of additional services or programs in conjunction with the provision of competitive electric generation service. Beginning in 2029, requires the IURC to include each year in its annual report specified information concerning the provision of competitive electric generation service by retail electric providers. Requires the legislative services agency to prepare legislation for introduction in the 2028 regular session of the general assembly to make conforming amendments to: (1) Title 8 of the Indiana Code; and (2) other provisions outside of Title 8 of the Indiana Code; as necessary to implement the bill's provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1276"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Ledbetter",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities, Energy and Telecommunications",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "Representative Sweet added as coauthor",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cindy Ledbetter",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cindy Ledbetter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lorissa Sweet",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lorissa Sweet\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1276/HB1276.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1276.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1276.01.INTR/HB1276.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1276",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1276",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

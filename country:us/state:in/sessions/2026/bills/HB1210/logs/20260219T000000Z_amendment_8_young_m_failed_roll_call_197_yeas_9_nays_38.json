@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #8 (Young M) failed; Roll Call 197: yeas 9, nays 38",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1210",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1210",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1210"
+}

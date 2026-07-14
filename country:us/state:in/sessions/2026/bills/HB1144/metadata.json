@@ -1,0 +1,203 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1144",
+  "title": "Tourism improvement districts.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CITIES AND TOWNS; Generally",
+    "COUNTY GOVERNMENT",
+    "ECONOMIC DEVELOPMENT",
+    "FINANCIAL SERVICES; Bonds (Non-Judicial)",
+    "LOCAL ELECTED OFFICIALS; County Clerk",
+    "LOCAL ELECTED OFFICIALS; Treasurers",
+    "LOCAL GOVERNMENT; Generally",
+    "RECREATION AND ENTERTAINMENT"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that a person may circulate a petition to create a tourism improvement district (district) within the territory of a county, city, or town (local unit). Specifies the contents of the tourism improvement district plan that must be filed with a petition to establish a district. Provides that the legislative body of the local unit may require in the district plan that the boundaries of the district be drawn to: (1) exclude businesses; or (2) prevent overlap of the district with another area or district in which a special assessment is imposed. Provides that owners of businesses located within a district may be charged a special assessment to fund improvements and other district activities. Provides that, after a hearing on a petition to establish a district, a local unit's legislative body may adopt the ordinance establishing the district only if it determines that the petition has been signed by: (1) at least 50% of the owners of businesses within the proposed district; and (2) the owners of businesses within the proposed district that constitute more than 50% of the revenue to be collected from the special assessments. Requires the county, city, or town legislative body, at the public hearing on the establishment of a district, to hear from each individual business owner that wishes to make a request for exclusion from the district. Specifies the contents of the ordinance establishing a district and the length of time for which a district may exist. Allows a district to issue bonds and specifies the term of any bonds issued. Provides that a district may be renewed. Sets forth an annual 30 day period in which the owners of the businesses in the district may request disestablishment of the district under specified conditions. Requires the local unit to contract with a private nonprofit district management association to administer and implement the district's activities and improvements. Excludes from inclusion within a district: (1) property that receives a homestead standard deduction; (2) property used for single family residential housing; and (3) property used for multi-unit residential housing."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1144"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Karickhoff",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Local Government",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: amend do pass, adopted",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Ways and Means pursuant to House Rule 126.3",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representative Harris added as coauthor",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Representatives Moed,  Baird added as coauthors",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael Karickhoff",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Karickhoff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Earl Harris",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Earl Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Justin Moed",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Moed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beau Baird",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beau Baird\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1144/HB1144.02.COMH.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1144/HB1144.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1144.02.COMH.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1144.02.COMH/HB1144.02.COMH.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1144",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1144",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

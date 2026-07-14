@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1411",
+  "title": "Tax sale procedures.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CIVIL LAW AND PROCEDURE; Liens and Encumbrances",
+    "LOCAL ELECTED OFFICIALS; Auditors",
+    "PROPERTY; Real Estate",
+    "TAXES; Tax Sales"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Reduces the period to redeem tax sale property as follows: (1) For real property sold to a land bank, the redemption period is six months (rather than one year). (2) For real property on which the county executive acquires a lien (including an assignment of the lien to a political subdivision or to a land bank) and the certificate of sale is not sold, the redemption period is 90 days (rather than 120 days). (3) For real property on which the county executive acquires a lien and the certificate of sale is sold or assigned to a land bank, the redemption period is 90 days (rather than 120 days). (4) For real property that a court determines is not suitable for tax sale, the redemption period is 90 days (rather than 120 days). Modifies the length of time in which notice must be provided to: (1) the owner of record; and (2) any person with a substantial interest of public record in the real property; for purposes of seeking a tax deed to account for the reductions to the redemption periods. For property that a court determines is not suitable for tax sale, provides that if the property is disposed within one year (rather than three years) after the conclusion of the tax sale at which the property would have been offered for sale, any amount received in excess of the amount of the minimum bid will be disbursed in the same manner as if the property had been sold in the tax sale. Makes a related change to the period to make a claim for any surplus in the tax sale surplus fund for properties certified as not suitable for sale. Specifies that a county auditor shall not issue or record a tax deed unless certain requirements are met not later than 90 days (rather than 150 days) after the date of the hearing at which a court grants the tax sale buyer's petition for the tax deed."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1411"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Engleman",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Zimmerman",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Ways and Means",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karen Engleman",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen Engleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Zimmerman",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Zimmerman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1411/HB1411.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1411.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1411.01.INTR/HB1411.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1411",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1411",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:14Z"
+  }
+}

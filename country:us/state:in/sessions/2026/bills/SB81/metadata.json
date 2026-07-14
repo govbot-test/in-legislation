@@ -1,0 +1,148 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 81",
+  "title": "Various tax matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Revenue (DOR)",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Generally",
+    "CITIES; Indianapolis",
+    "COUNTIES; Marion",
+    "ELECTIONS; Public Questions and Referendums",
+    "FEDERAL GOVERNMENT; Census",
+    "LOCAL GOVERNMENT; Generally",
+    "TAXES; Credits",
+    "TAXES; Deductions",
+    "TAXES; Gross Income Taxes",
+    "TAXES; Property Taxes",
+    "TAXES; Tax Levies",
+    "TRANSPORTATION; Public Transportation",
+    "VETERANS"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Provides that the overall local income tax (LIT) rate cap (excluding certain special purpose LIT rates) is 3.75% beginning in 2028.~ (Under current law, the overall rate cap is 3.75% in every county other than Marion County and 4.0% in Marion County and is scheduled to be reduced to 2.9% in all counties in 2028.) Repeals provisions that require counties and municipalities to readopt their LIT rate each year beginning in 2031. Requires LIT revenue from a fire protection and emergency medical services rate adopted by a consolidated county to be distributed to the fire special service district established under the UNIGOV statute. Specifies that an included town that is part of the consolidated city under the UNIGOV statute is not a separate municipality for purposes of the LIT provisions enacted in SEA 1 in the 2025 session. Decouples the special purpose LIT rate for central Indiana public transportation projects from the LIT expenditure rate. (Under current law, the special rate for transportation projects is included in a county's total expenditure rate.) Repeals a provision regarding Marion County's allocation of LIT revenue. Expands the population threshold parameters under which a municipality may elect to be treated as if it were not eligible to adopt a municipal LIT (and instead potentially receive a LIT distribution under a county adopted LIT rate). Requires the population count for purposes of the LIT to include any federal special census count\nrequested by a city or town. Makes changes to LIT distribution provisions. Restores the standard deduction for homestead property in the case of a homestead with an assessed value of $125,000 or less, and retains the supplemental homestead deduction as enacted in SEA 1 in the 2025 session. Amends the calculation of the maximum levy growth quotient (MLGQ) to provide an increased MLGQ for those taxing units with assessed value growth over a three year average that exceeds 20%. Caps the total operating referendum tax that may be levied by a school corporation for referendums approved by the voters after December 31, 2025, to not more than the school corporation's maximum operating referendum tax levy in the immediately preceding year, multiplied by the maximum levy growth quotient. Removes project costs as a determination threshold under the controlled projects statute. Provides for an increase in the tax rate thresholds under the controlled projects statute based on any increase in a political subdivision's tax rate that results solely from the statutory changes to property tax deductions and exemptions enacted in SEA 1 in the 2025 session. Provides a property tax liability credit to freeze the homestead property tax liability for low income seniors. Repeals provisions enacted in SEA 1 in the 2025 session that require a political subdivision to hold a separate public hearing before increasing its tax levy from the preceding year. Reinstates provisions regarding excess tax levies that were repealed in SEA 1 in the 2025 session. Repeals the debt limitation for political subdivisions. Amends revenue distribution provisions for certain debt service levies to include the supplemental homestead credit and the local property tax credits for disabled individuals and seniors added in SEA 1 in the 2025 session for purposes of the distribution determination. Amends provisions added in SEA 1 in the 2025 session that require the department of local government finance to neutralize the effect of certain property tax provisions enacted in that bill. Clarifies provisions added in SEA 1 in the 2025 session that place restrictions on the issuance of certain general obligation bonds. Provides a property tax deduction for permanently disabled veterans based on the percentage of the permanently disabled veteran's service connected disability. Increases the maximum renter's deduction for income tax purposes from $3,000 to $6,000 per taxable year. Provides an income tax credit for first time home buyers with a mortgage applicable for the first taxable year in which the home buyer first takes ownership of a homestead with respect to which a first time home buyer mortgage is granted. Provides that the tax credit is equal to $3,000 for that taxable year and may not be carried forward to a succeeding taxable year, carried back to a preceding taxable year, or refunded. Provides an income tax credit for households whose income is at or below 200% of the federal poverty guidelines for a household of its size. Provides that the tax credit is equal to $3,000 for the taxable year and may not be carried forward to a succeeding taxable year, carried back to a preceding taxable year, or refunded. Provides an income tax credit for small businesses that make contributions to a qualified employee for use toward a qualified employee's cost for child care. Provides that the tax credit may not be carried forward to a succeeding taxable year, carried back to a preceding taxable year, or refunded. Provides an income tax deduction for theft losses that result from certain financial transactions induced by third parties and that cause the individual to incur federal gross income as a result of the theft. Requires the department of state revenue to first certify the theft loss deduction before a taxpayer may claim the deduction in a taxable year."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb81"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Qaddoura",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Tax and Fiscal Policy",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Tax and Fiscal Policy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fady Qaddoura",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fady Qaddoura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0081/SB0081.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0081.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0081.01.INTR/SB0081.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0081.01.INTR.FN002",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0081.01.INTR/SB0081.01.INTR.FN002?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: SB0081.01.INTR.FN003",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0081.01.INTR/SB0081.01.INTR.FN003?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/81",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0081",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

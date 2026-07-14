@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 152",
+  "title": "Utilities matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Utility Regulatory Commission (IURC)",
+    "GENERAL ASSEMBLY; Lobbying and Lobbyists",
+    "TECHNOLOGY; Communication (Including Internet, Phone Lines, Print Media, Radio, and Television)",
+    "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))",
+    "UTILITIES; Electric",
+    "UTILITIES; Gas",
+    "UTILITIES; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Allows an electric or gas utility to establish a customer assistance program for qualified residential customers. Requires the approval of the Indiana utility regulatory commission (IURC) before a public utility may sell stock, enter into certain contracts, effect a reorganization, or acquire control of another public utility. Provides that if a public utility requests IURC approval of the sale, assignment, or transfer of the public utility's franchise, works, or system, the IURC shall grant a right of first refusal to: (1) a municipality in which the public utility's works or system is located; or (2) a public charitable trust; for the purchase or acquisition of the public utility's franchise, works, or system. Provides that the IURC may not authorize a public utility that: (1) provides retail electric or natural gas service; and (2) is under the IURC's jurisdiction for the approval of rates and charges (energy utility); to recover through the energy utility's retail rates and charges any direct or indirect costs associated with specified expenses and activities related to lobbying, legislative action, political activities, charitable giving, litigation, investor relations, and other specified activities and expenses. Requires an energy utility, beginning in 2026, to file with the IURC an annual report that includes specified information concerning costs to: (1) the energy utility; or (2) an affiliate of the energy utility; that are related to these expenses or activities and that are directly billed or allocated to the energy utility. Requires the IURC to make available on the IURC's website a direct link to the annual reports provided by all energy utilities under these provisions. Provides that on any customer bill issued by an energy utility after December 31, 2026, the energy utility must include a break down of the charges and fees that make up the total amount owed, including a description of the service or cost associated with each charge or fee. Sets forth certain charges and fees that must be delineated as specific line items on each customer bill."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb152"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Utilities",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Authored by Senators Hunley, Ford J.D., Spencer",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Andrea Hunley",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrea Hunley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. Ford",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"J.D. Ford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Spencer",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Spencer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0152/SB0152.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0152.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0152.01.INTR/SB0152.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/152",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0152",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

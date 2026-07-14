@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1180",
+  "title": "Health facility matters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Health (IDOH)",
+    "DEATH AND DECEASED; Generally",
+    "GENERAL ASSEMBLY; Generally",
+    "GENERAL ASSEMBLY; Legislative Council",
+    "MARRIAGE AND FAMILY LAW; Child Support, Custody, and Visitation"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Requires the state health commissioner to establish a work group to study methods of reducing and preventing health facility resident neglect and submit a report to the general assembly. Requires a health facility to do the following: (1) Designate at least one employee to act as a family advocacy liaison. (2) Establish an independent third party review process for written resident or other individual complaints alleging neglect of a resident. (3) Offer grief support to the family of a deceased resident. Prohibits a health facility from taking retaliatory action against an employee because the employee: (1) discloses actions or practices by the health facility that the employee reasonably believes violate state or federal law; (2) provides information or testifies in investigations or hearings; or (3) assists or participates in proceedings to enforce state law. Urges the legislative council to assign to an appropriate interim committee during the 2026 interim the study of requiring health facilities to meet certain staff-to-patient ratios."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1180"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Shackleford",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Public Health",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Robin Shackleford",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robin Shackleford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1180/HB1180.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1180.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1180.01.INTR/HB1180.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1180",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1180",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:16Z"
+  }
+}

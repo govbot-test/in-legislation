@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Andrade, Aylesworth, Bartlett, Bascom, Bauer, Novak, Cash, Criswell, Dant Chesser, Garcia Wilburn, GiaQuinta, Gore, Goss-Reaves, Haggard, Harris, Heaton, Isa, Jackson C, Johnson B, Klinker, Moseley, Olthoff, Pack, Pfaff, Pierce M, Porter, Pryor, Rowray, Shackleford, Smith V, Summers, Wesco, Yocum",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/33",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0033",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 33"
+}

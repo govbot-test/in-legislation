@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #10 (Hunley) failed; Roll Call 220: yeas 9, nays 39",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1423",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1423",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1423"
+}

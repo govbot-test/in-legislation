@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Amendment #1 (Porter) failed; Roll Call 156: yeas 28, nays 63",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/house/1177",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hb1177",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HB 1177"
+}

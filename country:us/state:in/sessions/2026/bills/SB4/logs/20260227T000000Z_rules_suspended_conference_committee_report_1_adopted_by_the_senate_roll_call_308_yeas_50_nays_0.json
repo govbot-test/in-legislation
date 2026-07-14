@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Rules Suspended. Conference Committee Report 1: adopted by the Senate; Roll Call 308: yeas 50, nays 0",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/4",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0004",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 4"
+}

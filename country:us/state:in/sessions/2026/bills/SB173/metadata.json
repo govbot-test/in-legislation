@@ -1,0 +1,194 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 173",
+  "title": "Health care matters.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Department of Health (IDOH)",
+    "AGENCIES; Department of Insurance (IDOI)",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Charitable Organizations and Nonprofits",
+    "BUSINESS ORGANIZATIONS AND ASSOCIATIONS; Generally",
+    "CIVIL LAW AND PROCEDURE; Liabilities, Damages, and Penalties",
+    "HEALTH CARE FACILITIES; Hospitals",
+    "HEALTH CARE FACILITIES; Pharmacies",
+    "HEALTH CARE PROFESSIONALS; Doctors and Physicians",
+    "HEALTH CARE PROFESSIONALS; Pharmacists",
+    "HEALTH CARE PROFESSIONALS; Physical and Occupational Therapists",
+    "HEALTH; Billing and Costs",
+    "HEALTH; Medicaid",
+    "HEALTH; Prescription Drugs and Medications",
+    "INSURANCE; Health Insurance",
+    "STATE GOVERNMENT; Employees",
+    "TECHNOLOGY; Artificial Intelligence and Robotics"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Prohibits: (1) the state employee health plan; (2) the Medicaid program; (3) an accident and sickness insurance policy; and (4) a health maintenance organization individual or group contract; from imposing a time limit on the amount of anesthesia time for a medical procedure or otherwise restricting or excluding coverage or payment of anesthesia time. Modifies the definitions of \"charity care\" and \"community benefits\" for purposes of certain hospital reporting requirements. Requires additional reporting of information by nonprofit hospitals to the Indiana department of health (state department). Requires the report to be posted on the nonprofit hospital's website and the state department's website. Increases the penalty for failure to file the report and changes the time frame in which the penalty may be assessed. Specifies that any penalty be deposited in the local public health fund. Allows for certain practitioners to provide neuroplastogen treatment concerning qualified patients with life threatening conditions if certain requirements are met. Allows for research to be conducted on neuroplastogen access. Requires reporting of adverse events and annual reporting of patient statistical information concerning the neuroplastogen treatment. Provides for immunity when treating using neuroplastogens. Requires a clinical peer to disclose certain information for a peer to peer review of an adverse determination. Prohibits a utilization review entity from using artificial intelligence as the primary means for making adverse determinations. Prohibits a health insurer from engaging in certain downcoding practices and sets forth conditions for downcoding a claim. Authorizes the department of insurance to enforce the downcoding requirements and impose certain penalties for a violation. Prohibits an insurer, pharmacy benefit manager, or other administrator of pharmacy benefits from designating a prescription drug as a specialty drug unless certain conditions are met."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-sb173"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Senator Johnson T",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Health and Provider Services",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Provider Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Charbonneau added as second author",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Senator Brown L added as third author",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "Committee report: amend do pass adopted; reassigned to Committee on Appropriations",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tyler Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tyler Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Charbonneau",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Charbonneau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Brown",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Liz Brown\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0173/SB0173.02.COMS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced Senate Bill (S)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0173/SB0173.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: SB0173.02.COMS.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/SB0173.02.COMS/SB0173.02.COMS.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/senate/173",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/sb0173",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

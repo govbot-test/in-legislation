@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1292",
+  "title": "Automated traffic enforcement safety devices.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGENCIES; Bureau of Motor Vehicles (BMV)",
+    "COUNTY GOVERNMENT",
+    "CRIMINAL LAW AND PROCEDURE; Creation of New Offenses",
+    "INSURANCE; Motor Vehicles",
+    "LOCAL GOVERNMENT; Generally",
+    "TECHNOLOGY; Cyber Security, Data Privacy, and Identity Theft",
+    "TECHNOLOGY; Generally",
+    "TRANSPORTATION; Licenses, Plates, Registration, and Titles"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Authorizes a county or municipality to adopt and enforce an ordinance that regulates the use of an automated traffic enforcement safety device (device) to detect certain violations. Provides a civil penalty for a violation. Specifies that a civil penalty must first be applied to defray the cost of the installation, operation, and maintenance of the device. Specifies the manner in which the remaining money from the civil penalty must be distributed. Prohibits: (1) reporting a violation on a driving record; (2) using a violation to determine rates for motor vehicle insurance; (3) assessing points under the point system by the bureau of motor vehicles (bureau) for a violation; and (4) reselling data collected by an agent operating a device. Requires notification to the bureau, and the suspension of the registration of a motor vehicle if a violation is not paid. Makes conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1292"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Authored by Representative Johnson B",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    },
+    {
+      "description": "First reading: referred to Committee on Roads and Transportation",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Roads and Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blake Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blake Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1292/HB1292.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1292.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1292.01.INTR/HB1292.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1292",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1292",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:15Z"
+  }
+}

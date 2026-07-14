@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Motion to dissent filed",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/80",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0080",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 80"
+}

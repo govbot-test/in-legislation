@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Pursuant to Senate Rule 68(b); reassigned to Committee on Environmental Affairs",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Environmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/7",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0007",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 7"
+}

@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "First reading: referred to Committee on Homeland Security and Transportation",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Homeland Security and Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/concurrent/5",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hc0005",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HCR 5"
+}

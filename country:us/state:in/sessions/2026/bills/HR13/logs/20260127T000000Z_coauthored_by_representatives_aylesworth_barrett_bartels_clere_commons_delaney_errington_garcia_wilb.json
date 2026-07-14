@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Coauthored by Representatives Aylesworth, Barrett, Bartels, Clere, Commons, DeLaney, Errington, Garcia Wilburn, Gore, Haggard, Hamilton, Heaton, Heine, Ireland, Jackson C, Lauer, Lawson, Ledbetter, Lehman, Lindauer, Mayfield, McGuire, McNamara, Miller D, Miller K, Moed, Morris, Novak, Olthoff, Pfaff, Pryor, Shonkwiler, Soliday, Teshka, Yocum, Zimmerman",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/resolutions/house/simple/13",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/hr0013",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "HR 13"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee report: amend do pass, adopted",
+    "occurred_at": "2026-01-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://iga.in.gov/legislative/2026/bills/senate/241",
+        "note": ""
+      },
+      {
+        "url": "https://api.iga.in.gov/2026/bills/sb0241",
+        "note": "API details"
+      }
+    ]
+  },
+  "bill_id": "SB 241"
+}

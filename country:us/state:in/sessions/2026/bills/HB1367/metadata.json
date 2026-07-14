@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1367",
+  "title": "Involuntary treatment of substance use disorder.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADDICTION SERVICES; Illicit Drugs, Prescription Drugs, Substances, and Alcohol",
+    "COURTS; Generally",
+    "CRIMINAL LAW AND PROCEDURE; Evidence",
+    "HEALTH; Medical Records",
+    "LAW ENFORCEMENT; Generally"
+  ],
+  "abstracts": [
+    {
+      "note": "Digest",
+      "abstract": "Allows an individual's spouse, legal guardian, friend, relative, or medical service provider to petition a court for involuntary substance use disorder treatment. Requires a petition to include certain information and allows a court to dismiss a petition, without prejudice, if it does not contain the required information. Requires the court to appoint a public defender if the individual subject to a petition seeking involuntary substance use disorder treatment is not represented by an attorney. Requires a court to order the individual to be evaluated by a medical provider if the court finds that: (1) the individual has a substance use disorder; (2) because of the individual's substance use disorder, the individual is experiencing impaired judgment and is unable to independently maintain the individual's activities of daily living or is a danger to self or others; and (3) the individual refuses to voluntarily participate in substance use disorder treatment. Allows a court to order a local law enforcement agency to consider whether an individual meets the criteria for emergency detention under certain circumstances. Requires a medical provider who completes an evaluation concerning an individual's need for substance use disorder treatment to submit the evaluation to the court. Specifies that after receiving an evaluation from a medical provider, the court may dismiss the petition or set a hearing for further evidence to be presented about the individual's need for substance use disorder treatment. Requires a court to order involuntary outpatient substance use disorder treatment for a period, not to exceed 90 days, if medical evidence supports that the individual requires immediate treatment for a substance use disorder and the individual has refused treatment."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-in-2026-hb1367"
+    }
+  ],
+  "actions": [
+    {
+      "description": "First reading: referred to Committee on Courts and Criminal Code",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Courts and Criminal Code",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    },
+    {
+      "description": "Authored by Representative Soliday",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Edmond Soliday",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Edmond Soliday\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced House Bill (H)",
+      "links": [
+        {
+          "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1367/HB1367.01.INTR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB1367.01.INTR.FN001",
+      "links": [
+        {
+          "url": "https://api.iga.in.gov/2026/fiscal-notes/HB1367.01.INTR/HB1367.01.INTR.FN001?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://iga.in.gov/legislative/2026/bills/house/1367",
+      "note": ""
+    },
+    {
+      "url": "https://api.iga.in.gov/2026/bills/hb1367",
+      "note": "API details"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:in/government",
+    "name": "Indiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:in"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:14Z"
+  }
+}
