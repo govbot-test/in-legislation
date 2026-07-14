@@ -1,0 +1,936 @@
+Title: HOUSE BILL No. 1417
+Official Title: HOUSE BILL No. 1417
+Number of Sections: 4
+Source: versions - House Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+*EH1417.1*
+February 20, 2026
+ENGROSSED
+_____
+DIGEST OF HB 1417 (Updated February 18, 2026 6:59 pm - DI 149)
+Citations Affected: IC 4-3; IC 34-6; IC 34-11.
+Synopsis: Causes of action and damages. Establishes a tort reform
+commission. Limits a civil cause of action concerning a public
+nuisance.
+Effective: Upon passage; July 1, 2026.
+Lehman, Snow, Pressel,
+Zimmerman
+(SENATE SPONSORS — BALDWIN, GARTEN)
+January 8, 2026, read first time and referred to Committee on Judiciary.
+January 27, 2026, amended, reported — Do Pass.
+January 29, 2026, read second time, ordered engrossed.
+January 30, 2026, engrossed.
+February 2, 2026, read third time, passed. Yeas 61, nays 34.
+SENATE ACTION
+February 5, 2026, read first time and referred to Committee on Judiciary.
+February 19, 2026, amended, reported favorably — Do Pass.
+EH 1417—LS 7115/DI 149
+February 20, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1417
+A BILL FOR AN ACT to amend the Indiana Code concerning civil
+procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-3-29 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+3 PASSAGE]:
+4 Chapter 29. Tort Reform Commission
+5 Sec. 1. As used in this chapter, "commission" means the tort
+6 reform commission established by section 2 of this chapter.
+7 Sec. 2. The tort reform commission is established as a
+8 temporary executive branch commission to do the following:
+9 (1) Review civil causes of action in the Indiana Code, civil
+10 cases filed in Indiana, and tort reform generally, including a
+11 review of the following:
+12 (A) The constitutionality and the automatic adjustment of
+13 damages in adult wrongful death cases and other tort
+14 causes of action, medical malpractice claims, and punitive
+15 damages.
+16 (B) A comprehensive review of civil immunities in the
+17 Indiana Code, including constitutionality of the immunities
+EH 1417—LS 7115/DI 149
+2
+1 and the effects of shifting liability.
+2 (C) Indiana court statistics concerning civil torts.
+3 (D) How the nonparty system affects litigation expenses.
+4 (E) Data concerning the effectiveness of the current
+5 Indiana Code and the trial rules to address the matters
+6 described in clauses (A) through (D).
+7 (2) Review data concerning the effect of tort reform measures
+8 on public safety.
+9 (3) Study the correlation between increases in medical costs
+10 and cost of living and any increase in judgments awarded in
+11 civil cases.
+12 (4) Before November 1, 2026, issue a report containing its
+13 findings and recommendations to:
+14 (A) the governor; and
+15 (B) the legislative council.
+16 The report to the legislative council must be in an electronic
+17 format under IC 5-14-6.
+18 Sec. 3. The commission consists of the following fifteen (15)
+19 members:
+20 (1) The president pro tempore of the senate, or a designee of
+21 the president pro tempore who is a member of the senate. The
+22 president pro tempore or designee shall serve as a
+23 co-chairperson of the commission.
+24 (2) The speaker of the house of representatives or the
+25 speaker's designee who is a member of the house of
+26 representatives. The speaker or designee shall serve as a
+27 co-chairperson of the commission.
+28 (3) The chair of the senate judiciary committee.
+29 (4) The chair of the house judiciary committee.
+30 (5) The governor or the governor's designee.
+31 (6) The chief justice of Indiana or the chief justice's designee.
+32 (7) The minority leader of the senate or a designee of the
+33 minority leader who is a member of the senate.
+34 (8) The minority leader of the house of representatives or a
+35 designee of the minority leader who is a member of the house
+36 of representatives.
+37 (9) Two (2) representatives of the Defense Trial Counsel of
+38 Indiana, appointed by the governor.
+39 (10) Two (2) representatives of the Indiana Trial Lawyers
+40 Association, appointed by the governor.
+41 (11) A representative of the Indiana Chamber of Commerce,
+42 appointed by the governor.
+EH 1417—LS 7115/DI 149
+3
+1 (12) A member of the Indiana Hospital Association, appointed
+2 by the governor.
+3 (13) The commissioner of the Indiana department of
+4 insurance or the commissioner's designee.
+5 Sec. 4. A member serves for a term that ends on June 30 of the
+6 next odd-numbered year following the member's appointment.
+7 However, the member may be reappointed to subsequent terms.
+8 Sec. 5. A member who is not an ex officio member serves at the
+9 pleasure of the appointing authority.
+10 Sec. 6. An appointment to fill a vacancy shall be made in the
+11 same manner that an original appointment is made. An individual
+12 appointed to fill a vacancy serves for the remainder of the term of
+13 the former member.
+14 Sec. 7. Each member of the commission who is a state employee
+15 is entitled to reimbursement for traveling expenses as provided
+16 under IC 4-13-1-4 and other expenses actually incurred in
+17 connection with the member's duties as provided in the state
+18 policies and procedures established by the Indiana department of
+19 administration and approved by the budget agency.
+20 Sec. 8. Each member of the commission who is not a state
+21 employee is entitled to receive the same per diem, mileage, and
+22 travel allowances paid to individuals who serve as legislative and
+23 lay members, respectively, of interim study committees established
+24 by the legislative council.
+25 Sec. 9. Each member of the commission who is a member of the
+26 general assembly is entitled to receive the same per diem, mileage,
+27 and travel allowances paid to legislative members of interim study
+28 committees established by the legislative council. Per diem,
+29 mileage, and travel allowances paid under this section shall be paid
+30 from appropriations made to the legislative council or the
+31 legislative services agency.
+32 Sec. 10. Except for expenses described in section 9 of this
+33 chapter, expenses of the commission shall be paid from funds
+34 appropriated to the governor.
+35 Sec. 11. The commission shall hold meetings at the call of the
+36 co-chairpersons.
+37 Sec. 12. Nine (9) members constitute a quorum for the
+38 transaction of business.
+39 Sec. 13. Each member has one (1) vote.
+40 Sec. 14. Action of the commission may be taken only upon the
+41 affirmative votes of at least nine (9) members.
+42 Sec. 15. The office of the governor shall staff the commission.
+EH 1417—LS 7115/DI 149
+4
+1 Sec. 16. This chapter expires June 30, 2028.
+2 SECTION 2. IC 34-6-2.1-59.5 IS ADDED TO THE INDIANA
+3 CODE AS A NEW SECTION TO READ AS FOLLOWS
+4 [EFFECTIVE JULY 1, 2026]: Sec. 59.5. "Established public right",
+5 for purposes of IC 34-11-10, has the meaning set forth in
+6 IC 34-11-10-1.
+7 SECTION 3. IC 34-6-2.1-132, AS ADDED BY P.L.186-2025,
+8 SECTION 176, IS AMENDED TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2026]: Sec. 132. "Noneconomic damages", for
+10 purposes of IC 34-30-29.2 and IC 34-51-1-4, has the meaning set forth
+11 in IC 34-30-29.2-2.
+12 SECTION 4. IC 34-6-2.1-174.5 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 174.5. "Public nuisance", for
+15 purposes of IC 34-11-10, has the meaning set forth in
+16 IC 34-11-10-1.
+17 SECTION 5. IC 34-6-2.1-207.5 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2026]: Sec. 207.5. "Unlawful condition", for
+20 purposes of IC 34-11-10, has the meaning set forth in
+21 IC 34-11-10-1.
+22 SECTION 6. IC 34-11-10 IS ADDED TO THE INDIANA CODE
+23 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2026]:
+25 Chapter 10. Limitations on a Public Nuisance Action
+26 Sec. 1. The following definitions apply throughout this chapter:
+27 (1) "Established public right" means a right, commonly held
+28 by all members of the public, to the use of public land, air, or
+29 water.
+30 (2) "Governmental entity" means the state of Indiana or a
+31 state agency and does not mean a political subdivision,
+32 municipality, or unit.
+33 (3) "Public nuisance" means an ongoing and unlawful
+34 condition that proximately causes an interference with an
+35 established public right.
+36 (4) "Unlawful condition" means a circumstance that is
+37 expressly prohibited by state or federal law.
+38 Sec. 2. For purposes of this chapter, an action or condition that
+39 is otherwise permitted by:
+40 (1) a local ordinance;
+41 (2) state or federal law; or
+42 (3) a court order;
+EH 1417—LS 7115/DI 149
+5
+1 is not a public nuisance.
+2 Sec. 3. (a) A public nuisance cause of action is available to a
+3 governmental entity if the public nuisance is located within the
+4 jurisdiction of the governmental entity.
+5 (b) Unless otherwise set forth in statute, a governmental entity
+6 may only bring a civil action concerning a public nuisance to seek
+7 prospective injunctive relief for abatement of the public nuisance.
+8 (c) A governmental entity may only recover damages that are
+9 reasonably necessary to abate the public nuisance.
+10 (d) A governmental entity may not recover money damages
+11 associated with a potential future harm.
+12 Sec. 4. (a) Only one (1) public nuisance action may be brought
+13 against a defendant based on the same or substantially similar set
+14 of facts.
+15 (b) A defendant may move to dismiss a second or subsequent
+16 public nuisance under subsection (a) if it is based on the same or
+17 substantially similar set of facts.
+18 Sec. 5. Unless otherwise set forth in statute, it is an affirmative
+19 defense to a cause of action brought under this chapter that the
+20 defendant does not have actual control over the source of the
+21 alleged public nuisance.
+22 Sec. 6. (a) Except as provided in subsection (b), this chapter
+23 shall not affect a local administrative code or ordinance, unless the
+24 local administrative code or ordinance:
+25 (1) provides for a civil cause of action; and
+26 (2) is in conflict with the provisions of this chapter.
+27 (b) Nothing in this chapter supersedes applicable building codes,
+28 fire codes, or public health and safety laws.
+29 Sec. 7. (a) This chapter applies to a cause of action filed on or
+30 after July 1, 2026.
+31 (b) Nothing in this chapter applies to a cause of action filed by
+32 a private person, individual, or entity.
+33 SECTION 7. An emergency is declared for this act.
+EH 1417—LS 7115/DI 149
+6
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Judiciary, to which was referred
+House Bill 1417, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Page 1, delete lines 1 through 7.
+Page 2, delete lines 24 through 32, begin a new paragraph and
+insert:
+"Sec. 2. For purposes of this chapter, an action or condition that
+is otherwise permitted by:
+(1) a local ordinance;
+(2) state or federal law; or
+(3) a court order;
+is not a public nuisance.".
+Page 2, line 34, delete "unlawful condition is occurring" and insert
+"public nuisance is located".
+Page 2, between lines 38 and 39, begin a new paragraph and insert:
+"(c) A governmental entity may only recover damages that are
+reasonably necessary to abate the public nuisance.".
+Page 2, line 39, delete "(c)" and insert "(d)".
+Page 2, line 39, delete "economic," and insert "money damages".
+Page 2, line 40, delete "noneconomic, or exemplary damages or
+costs".
+Page 2, delete line 42.
+Page 3, delete lines 1 through 11, begin a new paragraph and insert:
+"Sec. 4. (a) Only one (1) public nuisance action may be brought
+against a defendant based on the same or substantially similar set
+of facts.
+(b) A defendant may move to dismiss a second or subsequent
+public nuisance under subsection (a) if it is based on the same or
+substantially similar set of facts.".
+Page 3, line 12, delete "(b)" and insert "(c)".
+Page 3, line 12, after "may" insert "only".
+Page 3, line 12, after "following" insert "damages".
+Page 3, delete lines 17 through 29.
+Page 3, between lines 33 and 34, begin a new paragraph and insert:
+"Sec. 6. (a) Except as provided in subsection (b), this chapter
+shall not affect a local administrative code or ordinance, unless the
+local administrative code or ordinance:
+(1) provides for a civil cause of action; and
+(2) is in conflict with the provisions of this chapter.
+EH 1417—LS 7115/DI 149
+7
+(b) Nothing in this chapter supersedes applicable building codes,
+fire codes, or public health and safety laws.".
+Page 3, line 34, delete "Sec. 6." and insert "Sec. 7.".
+Page 3, delete lines 36 through 42, begin a new paragraph and
+insert:
+"SECTION 7. IC 34-50-1-6, AS AMENDED BY P.L.117-2024,
+
+Section 2:
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 6. (a) If:
+(1) a recipient does not accept a qualified settlement offer; and
+(2) the final judgment is less favorable to the recipient than the
+terms of the qualified settlement offer;
+the court shall award attorney's fees, costs, and expenses to the offeror
+upon the offeror's motion.
+(b) An award of attorney's fees, costs, and expenses under this
+
+Section 3:
+section must consist of attorney's fees at a rate of not more than two
+hundred fifty dollars ($250) per hour and other costs and expenses
+incurred by the offeror after the date of the qualified settlement offer.
+However, the award of attorney's fees, costs, and expenses may not
+total more than five thousand dollars ($5,000). one hundred thousand
+dollars ($100,000).
+(c) A motion for an award of attorney's fees, costs, and expenses
+under this section must be filed not more than thirty (30) days after
+entry of judgment. The motion must be accompanied by an affidavit of
+the offeror or the offeror's attorney establishing the amount of the
+attorney's fees and other costs and expenses incurred by the offeror
+after the date of the qualified settlement offer. The affidavit constitutes
+prima facie proof of the reasonableness of the amount.
+(d) Where appropriate, the court may order a judgment entered
+against the offeror and in favor of the recipient reduced by the amount
+of attorney's fees, costs, and expenses awarded to the offeror under this
+
+Section 4:
+section (or IC 34-4-44.6-8 before its repeal).".
+Delete page 4.
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1417 as introduced.)
+JETER
+Committee Vote: yeas 9, nays 4.
+EH 1417—LS 7115/DI 149
+8
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Judiciary, to which was
+referred House Bill No. 1417, has had the same under consideration
+and begs leave to report the same back to the Senate with the
+recommendation that said bill be AMENDED as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 4-3-29 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+PASSAGE]:
+Chapter 29. Tort Reform Commission
+Sec. 1. As used in this chapter, "commission" means the tort
+reform commission established by section 2 of this chapter.
+Sec. 2. The tort reform commission is established as a
+temporary executive branch commission to do the following:
+(1) Review civil causes of action in the Indiana Code, civil
+cases filed in Indiana, and tort reform generally, including a
+review of the following:
+(A) The constitutionality and the automatic adjustment of
+damages in adult wrongful death cases and other tort
+causes of action, medical malpractice claims, and punitive
+damages.
+(B) A comprehensive review of civil immunities in the
+Indiana Code, including constitutionality of the immunities
+and the effects of shifting liability.
+(C) Indiana court statistics concerning civil torts.
+(D) How the nonparty system affects litigation expenses.
+(E) Data concerning the effectiveness of the current
+Indiana Code and the trial rules to address the matters
+described in clauses (A) through (D).
+(2) Review data concerning the effect of tort reform measures
+on public safety.
+(3) Study the correlation between increases in medical costs
+and cost of living and any increase in judgments awarded in
+civil cases.
+(4) Before November 1, 2026, issue a report containing its
+findings and recommendations to:
+(A) the governor; and
+(B) the legislative council.
+The report to the legislative council must be in an electronic
+format under IC 5-14-6.
+Sec. 3. The commission consists of the following fifteen (15)
+EH 1417—LS 7115/DI 149
+9
+members:
+(1) The president pro tempore of the senate, or a designee of
+the president pro tempore who is a member of the senate. The
+president pro tempore or designee shall serve as a
+co-chairperson of the commission.
+(2) The speaker of the house of representatives or the
+speaker's designee who is a member of the house of
+representatives. The speaker or designee shall serve as a
+co-chairperson of the commission.
+(3) The chair of the senate judiciary committee.
+(4) The chair of the house judiciary committee.
+(5) The governor or the governor's designee.
+(6) The chief justice of Indiana or the chief justice's designee.
+(7) The minority leader of the senate or a designee of the
+minority leader who is a member of the senate.
+(8) The minority leader of the house of representatives or a
+designee of the minority leader who is a member of the house
+of representatives.
+(9) Two (2) representatives of the Defense Trial Counsel of
+Indiana, appointed by the governor.
+(10) Two (2) representatives of the Indiana Trial Lawyers
+Association, appointed by the governor.
+(11) A representative of the Indiana Chamber of Commerce,
+appointed by the governor.
+(12) A member of the Indiana Hospital Association, appointed
+by the governor.
+(13) The commissioner of the Indiana department of
+insurance or the commissioner's designee.
+Sec. 4. A member serves for a term that ends on June 30 of the
+next odd-numbered year following the member's appointment.
+However, the member may be reappointed to subsequent terms.
+Sec. 5. A member who is not an ex officio member serves at the
+pleasure of the appointing authority.
+Sec. 6. An appointment to fill a vacancy shall be made in the
+same manner that an original appointment is made. An individual
+appointed to fill a vacancy serves for the remainder of the term of
+the former member.
+Sec. 7. Each member of the commission who is a state employee
+is entitled to reimbursement for traveling expenses as provided
+under IC 4-13-1-4 and other expenses actually incurred in
+connection with the member's duties as provided in the state
+policies and procedures established by the Indiana department of
+EH 1417—LS 7115/DI 149
+10
+administration and approved by the budget agency.
+Sec. 8. Each member of the commission who is not a state
+employee is entitled to receive the same per diem, mileage, and
+travel allowances paid to individuals who serve as legislative and
+lay members, respectively, of interim study committees established
+by the legislative council.
+Sec. 9. Each member of the commission who is a member of the
+general assembly is entitled to receive the same per diem, mileage,
+and travel allowances paid to legislative members of interim study
+committees established by the legislative council. Per diem,
+mileage, and travel allowances paid under this section shall be paid
+from appropriations made to the legislative council or the
+legislative services agency.
+Sec. 10. Except for expenses described in section 9 of this
+chapter, expenses of the commission shall be paid from funds
+appropriated to the governor.
+Sec. 11. The commission shall hold meetings at the call of the
+co-chairpersons.
+Sec. 12. Nine (9) members constitute a quorum for the
+transaction of business.
+Sec. 13. Each member has one (1) vote.
+Sec. 14. Action of the commission may be taken only upon the
+affirmative votes of at least nine (9) members.
+Sec. 15. The office of the governor shall staff the commission.
+Sec. 16. This chapter expires June 30, 2028.".
+Page 2, between lines 11 and 12, begin a new line block indented
+and insert:
+"(2) "Governmental entity" means the state of Indiana or a
+state agency and does not mean a political subdivision,
+municipality, or unit.".
+Page 2, line 12, delete "(2)" and insert "(3)".
+Page 2, line 15, delete "(3)" and insert "(4)".
+Page 2, delete lines 39 through 42.
+Page 3, delete line 1.
+Page 3, line 13, after "Sec. 7." insert "(a)".
+Page 3, between lines 14 and 15, begin a new paragraph and insert:
+"(b) Nothing in this chapter applies to a cause of action filed by
+a private person, individual, or entity.".
+Page 3, delete lines 15 through 40, begin a new paragraph and
+insert:
+"SECTION 8. An emergency is declared for this act.".
+Renumber all SECTIONS consecutively.
+EH 1417—LS 7115/DI 149
+11
+and when so amended that said bill do pass.
+(Reference is to HB 1417 as printed January 27, 2026.)
+CARRASCO, Chairperson
+Committee Vote: Yeas 7, Nays 4.
+EH 1417—LS 7115/DI 149
+[DELETED:  L a c c o a c a p]
+[DELETED:  2 T t r c i e a  i a w d c a o t i]
+[DELETED:  D c t e o t c p t o d s s a  T s o t h o r o t d w i a m o t h o T s o d s s a ]
+[DELETED:  T c o t I d o I 4 a o e a i i w t m d a p i t s e b t l c P d a m t t l c o t 1 E f e d i s 9 o t 1 N ( m c a q f t]
+[DELETED:  A A N S T R A F p o I 3 h t m s f i 3 I 3 A A B P 1 I A T R A F A A N S T R A F o I 3 h t m s f i A A N S T R A F o I 3 h t m s f i a a d n m a p s " n m a o a u " c m a c t i]
+[DELETED:  b l t r t s b t t S w t 1 b t e c a l 1 b a n 2 T t r c i e a  i a w d c a o t D c t e o t c]
+[DELETED:  p t o d s s a  T s o t h o r o t d w i a m o t h o T s o d s s a  T c o t I d o I 4 a o e a i i w t m d a p i t s]
+[DELETED:  e b t l c P d a m t t l c o t 1 E f e d i s 9 o t 1 N ( m c a q f t a a d n m a p s]
+
+
+================================================================================
+
+Raw Text:
+*EH1417.1*
+February 20, 2026
+ENGROSSED
+HOUSE BILL No. 1417
+_____
+DIGEST OF HB 1417 (Updated February 18, 2026 6:59 pm - DI 149)
+Citations Affected: IC 4-3; IC 34-6; IC 34-11.
+Synopsis: Causes of action and damages. Establishes a tort reform
+commission. Limits a civil cause of action concerning a public
+nuisance.
+Effective: Upon passage; July 1, 2026.
+Lehman, Snow, Pressel,
+Zimmerman
+(SENATE SPONSORS — BALDWIN, GARTEN)
+January 8, 2026, read first time and referred to Committee on Judiciary.
+January 27, 2026, amended, reported — Do Pass.
+January 29, 2026, read second time, ordered engrossed.
+January 30, 2026, engrossed.
+February 2, 2026, read third time, passed. Yeas 61, nays 34.
+SENATE ACTION
+February 5, 2026, read first time and referred to Committee on Judiciary.
+February 19, 2026, amended, reported favorably — Do Pass.
+EH 1417—LS 7115/DI 149
+
+February 20, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1417
+A BILL FOR AN ACT to amend the Indiana Code concerning civil
+procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-3-29 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+3 PASSAGE]:
+4 Chapter 29. Tort Reform Commission
+5 Sec. 1. As used in this chapter, "commission" means the tort
+6 reform commission established by section 2 of this chapter.
+7 Sec. 2. The tort reform commission is established as a
+8 temporary executive branch commission to do the following:
+9 (1) Review civil causes of action in the Indiana Code, civil
+10 cases filed in Indiana, and tort reform generally, including a
+11 review of the following:
+12 (A) The constitutionality and the automatic adjustment of
+13 damages in adult wrongful death cases and other tort
+14 causes of action, medical malpractice claims, and punitive
+15 damages.
+16 (B) A comprehensive review of civil immunities in the
+17 Indiana Code, including constitutionality of the immunities
+EH 1417—LS 7115/DI 149
+
+2
+1 and the effects of shifting liability.
+2 (C) Indiana court statistics concerning civil torts.
+3 (D) How the nonparty system affects litigation expenses.
+4 (E) Data concerning the effectiveness of the current
+5 Indiana Code and the trial rules to address the matters
+6 described in clauses (A) through (D).
+7 (2) Review data concerning the effect of tort reform measures
+8 on public safety.
+9 (3) Study the correlation between increases in medical costs
+10 and cost of living and any increase in judgments awarded in
+11 civil cases.
+12 (4) Before November 1, 2026, issue a report containing its
+13 findings and recommendations to:
+14 (A) the governor; and
+15 (B) the legislative council.
+16 The report to the legislative council must be in an electronic
+17 format under IC 5-14-6.
+18 Sec. 3. The commission consists of the following fifteen (15)
+19 members:
+20 (1) The president pro tempore of the senate, or a designee of
+21 the president pro tempore who is a member of the senate. The
+22 president pro tempore or designee shall serve as a
+23 co-chairperson of the commission.
+24 (2) The speaker of the house of representatives or the
+25 speaker's designee who is a member of the house of
+26 representatives. The speaker or designee shall serve as a
+27 co-chairperson of the commission.
+28 (3) The chair of the senate judiciary committee.
+29 (4) The chair of the house judiciary committee.
+30 (5) The governor or the governor's designee.
+31 (6) The chief justice of Indiana or the chief justice's designee.
+32 (7) The minority leader of the senate or a designee of the
+33 minority leader who is a member of the senate.
+34 (8) The minority leader of the house of representatives or a
+35 designee of the minority leader who is a member of the house
+36 of representatives.
+37 (9) Two (2) representatives of the Defense Trial Counsel of
+38 Indiana, appointed by the governor.
+39 (10) Two (2) representatives of the Indiana Trial Lawyers
+40 Association, appointed by the governor.
+41 (11) A representative of the Indiana Chamber of Commerce,
+42 appointed by the governor.
+EH 1417—LS 7115/DI 149
+
+3
+1 (12) A member of the Indiana Hospital Association, appointed
+2 by the governor.
+3 (13) The commissioner of the Indiana department of
+4 insurance or the commissioner's designee.
+5 Sec. 4. A member serves for a term that ends on June 30 of the
+6 next odd-numbered year following the member's appointment.
+7 However, the member may be reappointed to subsequent terms.
+8 Sec. 5. A member who is not an ex officio member serves at the
+9 pleasure of the appointing authority.
+10 Sec. 6. An appointment to fill a vacancy shall be made in the
+11 same manner that an original appointment is made. An individual
+12 appointed to fill a vacancy serves for the remainder of the term of
+13 the former member.
+14 Sec. 7. Each member of the commission who is a state employee
+15 is entitled to reimbursement for traveling expenses as provided
+16 under IC 4-13-1-4 and other expenses actually incurred in
+17 connection with the member's duties as provided in the state
+18 policies and procedures established by the Indiana department of
+19 administration and approved by the budget agency.
+20 Sec. 8. Each member of the commission who is not a state
+21 employee is entitled to receive the same per diem, mileage, and
+22 travel allowances paid to individuals who serve as legislative and
+23 lay members, respectively, of interim study committees established
+24 by the legislative council.
+25 Sec. 9. Each member of the commission who is a member of the
+26 general assembly is entitled to receive the same per diem, mileage,
+27 and travel allowances paid to legislative members of interim study
+28 committees established by the legislative council. Per diem,
+29 mileage, and travel allowances paid under this section shall be paid
+30 from appropriations made to the legislative council or the
+31 legislative services agency.
+32 Sec. 10. Except for expenses described in section 9 of this
+33 chapter, expenses of the commission shall be paid from funds
+34 appropriated to the governor.
+35 Sec. 11. The commission shall hold meetings at the call of the
+36 co-chairpersons.
+37 Sec. 12. Nine (9) members constitute a quorum for the
+38 transaction of business.
+39 Sec. 13. Each member has one (1) vote.
+40 Sec. 14. Action of the commission may be taken only upon the
+41 affirmative votes of at least nine (9) members.
+42 Sec. 15. The office of the governor shall staff the commission.
+EH 1417—LS 7115/DI 149
+
+4
+1 Sec. 16. This chapter expires June 30, 2028.
+2 SECTION 2. IC 34-6-2.1-59.5 IS ADDED TO THE INDIANA
+3 CODE AS A NEW SECTION TO READ AS FOLLOWS
+4 [EFFECTIVE JULY 1, 2026]: Sec. 59.5. "Established public right",
+5 for purposes of IC 34-11-10, has the meaning set forth in
+6 IC 34-11-10-1.
+7 SECTION 3. IC 34-6-2.1-132, AS ADDED BY P.L.186-2025,
+8 SECTION 176, IS AMENDED TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2026]: Sec. 132. "Noneconomic damages", for
+10 purposes of IC 34-30-29.2 and IC 34-51-1-4, has the meaning set forth
+11 in IC 34-30-29.2-2.
+12 SECTION 4. IC 34-6-2.1-174.5 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 174.5. "Public nuisance", for
+15 purposes of IC 34-11-10, has the meaning set forth in
+16 IC 34-11-10-1.
+17 SECTION 5. IC 34-6-2.1-207.5 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2026]: Sec. 207.5. "Unlawful condition", for
+20 purposes of IC 34-11-10, has the meaning set forth in
+21 IC 34-11-10-1.
+22 SECTION 6. IC 34-11-10 IS ADDED TO THE INDIANA CODE
+23 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2026]:
+25 Chapter 10. Limitations on a Public Nuisance Action
+26 Sec. 1. The following definitions apply throughout this chapter:
+27 (1) "Established public right" means a right, commonly held
+28 by all members of the public, to the use of public land, air, or
+29 water.
+30 (2) "Governmental entity" means the state of Indiana or a
+31 state agency and does not mean a political subdivision,
+32 municipality, or unit.
+33 (3) "Public nuisance" means an ongoing and unlawful
+34 condition that proximately causes an interference with an
+35 established public right.
+36 (4) "Unlawful condition" means a circumstance that is
+37 expressly prohibited by state or federal law.
+38 Sec. 2. For purposes of this chapter, an action or condition that
+39 is otherwise permitted by:
+40 (1) a local ordinance;
+41 (2) state or federal law; or
+42 (3) a court order;
+EH 1417—LS 7115/DI 149
+
+5
+1 is not a public nuisance.
+2 Sec. 3. (a) A public nuisance cause of action is available to a
+3 governmental entity if the public nuisance is located within the
+4 jurisdiction of the governmental entity.
+5 (b) Unless otherwise set forth in statute, a governmental entity
+6 may only bring a civil action concerning a public nuisance to seek
+7 prospective injunctive relief for abatement of the public nuisance.
+8 (c) A governmental entity may only recover damages that are
+9 reasonably necessary to abate the public nuisance.
+10 (d) A governmental entity may not recover money damages
+11 associated with a potential future harm.
+12 Sec. 4. (a) Only one (1) public nuisance action may be brought
+13 against a defendant based on the same or substantially similar set
+14 of facts.
+15 (b) A defendant may move to dismiss a second or subsequent
+16 public nuisance under subsection (a) if it is based on the same or
+17 substantially similar set of facts.
+18 Sec. 5. Unless otherwise set forth in statute, it is an affirmative
+19 defense to a cause of action brought under this chapter that the
+20 defendant does not have actual control over the source of the
+21 alleged public nuisance.
+22 Sec. 6. (a) Except as provided in subsection (b), this chapter
+23 shall not affect a local administrative code or ordinance, unless the
+24 local administrative code or ordinance:
+25 (1) provides for a civil cause of action; and
+26 (2) is in conflict with the provisions of this chapter.
+27 (b) Nothing in this chapter supersedes applicable building codes,
+28 fire codes, or public health and safety laws.
+29 Sec. 7. (a) This chapter applies to a cause of action filed on or
+30 after July 1, 2026.
+31 (b) Nothing in this chapter applies to a cause of action filed by
+32 a private person, individual, or entity.
+33 SECTION 7. An emergency is declared for this act.
+EH 1417—LS 7115/DI 149
+
+6
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Judiciary, to which was referred
+House Bill 1417, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Page 1, delete lines 1 through 7.
+Page 2, delete lines 24 through 32, begin a new paragraph and
+insert:
+"Sec. 2. For purposes of this chapter, an action or condition that
+is otherwise permitted by:
+(1) a local ordinance;
+(2) state or federal law; or
+(3) a court order;
+is not a public nuisance.".
+Page 2, line 34, delete "unlawful condition is occurring" and insert
+"public nuisance is located".
+Page 2, between lines 38 and 39, begin a new paragraph and insert:
+"(c) A governmental entity may only recover damages that are
+reasonably necessary to abate the public nuisance.".
+Page 2, line 39, delete "(c)" and insert "(d)".
+Page 2, line 39, delete "economic," and insert "money damages".
+Page 2, line 40, delete "noneconomic, or exemplary damages or
+costs".
+Page 2, delete line 42.
+Page 3, delete lines 1 through 11, begin a new paragraph and insert:
+"Sec. 4. (a) Only one (1) public nuisance action may be brought
+against a defendant based on the same or substantially similar set
+of facts.
+(b) A defendant may move to dismiss a second or subsequent
+public nuisance under subsection (a) if it is based on the same or
+substantially similar set of facts.".
+Page 3, line 12, delete "(b)" and insert "(c)".
+Page 3, line 12, after "may" insert "only".
+Page 3, line 12, after "following" insert "damages".
+Page 3, delete lines 17 through 29.
+Page 3, between lines 33 and 34, begin a new paragraph and insert:
+"Sec. 6. (a) Except as provided in subsection (b), this chapter
+shall not affect a local administrative code or ordinance, unless the
+local administrative code or ordinance:
+(1) provides for a civil cause of action; and
+(2) is in conflict with the provisions of this chapter.
+EH 1417—LS 7115/DI 149
+
+7
+(b) Nothing in this chapter supersedes applicable building codes,
+fire codes, or public health and safety laws.".
+Page 3, line 34, delete "Sec. 6." and insert "Sec. 7.".
+Page 3, delete lines 36 through 42, begin a new paragraph and
+insert:
+"SECTION 7. IC 34-50-1-6, AS AMENDED BY P.L.117-2024,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 6. (a) If:
+(1) a recipient does not accept a qualified settlement offer; and
+(2) the final judgment is less favorable to the recipient than the
+terms of the qualified settlement offer;
+the court shall award attorney's fees, costs, and expenses to the offeror
+upon the offeror's motion.
+(b) An award of attorney's fees, costs, and expenses under this
+section must consist of attorney's fees at a rate of not more than two
+hundred fifty dollars ($250) per hour and other costs and expenses
+incurred by the offeror after the date of the qualified settlement offer.
+However, the award of attorney's fees, costs, and expenses may not
+total more than five thousand dollars ($5,000). one hundred thousand
+dollars ($100,000).
+(c) A motion for an award of attorney's fees, costs, and expenses
+under this section must be filed not more than thirty (30) days after
+entry of judgment. The motion must be accompanied by an affidavit of
+the offeror or the offeror's attorney establishing the amount of the
+attorney's fees and other costs and expenses incurred by the offeror
+after the date of the qualified settlement offer. The affidavit constitutes
+prima facie proof of the reasonableness of the amount.
+(d) Where appropriate, the court may order a judgment entered
+against the offeror and in favor of the recipient reduced by the amount
+of attorney's fees, costs, and expenses awarded to the offeror under this
+section (or IC 34-4-44.6-8 before its repeal).".
+Delete page 4.
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1417 as introduced.)
+JETER
+Committee Vote: yeas 9, nays 4.
+EH 1417—LS 7115/DI 149
+
+8
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Judiciary, to which was
+referred House Bill No. 1417, has had the same under consideration
+and begs leave to report the same back to the Senate with the
+recommendation that said bill be AMENDED as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 4-3-29 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+PASSAGE]:
+Chapter 29. Tort Reform Commission
+Sec. 1. As used in this chapter, "commission" means the tort
+reform commission established by section 2 of this chapter.
+Sec. 2. The tort reform commission is established as a
+temporary executive branch commission to do the following:
+(1) Review civil causes of action in the Indiana Code, civil
+cases filed in Indiana, and tort reform generally, including a
+review of the following:
+(A) The constitutionality and the automatic adjustment of
+damages in adult wrongful death cases and other tort
+causes of action, medical malpractice claims, and punitive
+damages.
+(B) A comprehensive review of civil immunities in the
+Indiana Code, including constitutionality of the immunities
+and the effects of shifting liability.
+(C) Indiana court statistics concerning civil torts.
+(D) How the nonparty system affects litigation expenses.
+(E) Data concerning the effectiveness of the current
+Indiana Code and the trial rules to address the matters
+described in clauses (A) through (D).
+(2) Review data concerning the effect of tort reform measures
+on public safety.
+(3) Study the correlation between increases in medical costs
+and cost of living and any increase in judgments awarded in
+civil cases.
+(4) Before November 1, 2026, issue a report containing its
+findings and recommendations to:
+(A) the governor; and
+(B) the legislative council.
+The report to the legislative council must be in an electronic
+format under IC 5-14-6.
+Sec. 3. The commission consists of the following fifteen (15)
+EH 1417—LS 7115/DI 149
+
+9
+members:
+(1) The president pro tempore of the senate, or a designee of
+the president pro tempore who is a member of the senate. The
+president pro tempore or designee shall serve as a
+co-chairperson of the commission.
+(2) The speaker of the house of representatives or the
+speaker's designee who is a member of the house of
+representatives. The speaker or designee shall serve as a
+co-chairperson of the commission.
+(3) The chair of the senate judiciary committee.
+(4) The chair of the house judiciary committee.
+(5) The governor or the governor's designee.
+(6) The chief justice of Indiana or the chief justice's designee.
+(7) The minority leader of the senate or a designee of the
+minority leader who is a member of the senate.
+(8) The minority leader of the house of representatives or a
+designee of the minority leader who is a member of the house
+of representatives.
+(9) Two (2) representatives of the Defense Trial Counsel of
+Indiana, appointed by the governor.
+(10) Two (2) representatives of the Indiana Trial Lawyers
+Association, appointed by the governor.
+(11) A representative of the Indiana Chamber of Commerce,
+appointed by the governor.
+(12) A member of the Indiana Hospital Association, appointed
+by the governor.
+(13) The commissioner of the Indiana department of
+insurance or the commissioner's designee.
+Sec. 4. A member serves for a term that ends on June 30 of the
+next odd-numbered year following the member's appointment.
+However, the member may be reappointed to subsequent terms.
+Sec. 5. A member who is not an ex officio member serves at the
+pleasure of the appointing authority.
+Sec. 6. An appointment to fill a vacancy shall be made in the
+same manner that an original appointment is made. An individual
+appointed to fill a vacancy serves for the remainder of the term of
+the former member.
+Sec. 7. Each member of the commission who is a state employee
+is entitled to reimbursement for traveling expenses as provided
+under IC 4-13-1-4 and other expenses actually incurred in
+connection with the member's duties as provided in the state
+policies and procedures established by the Indiana department of
+EH 1417—LS 7115/DI 149
+
+10
+administration and approved by the budget agency.
+Sec. 8. Each member of the commission who is not a state
+employee is entitled to receive the same per diem, mileage, and
+travel allowances paid to individuals who serve as legislative and
+lay members, respectively, of interim study committees established
+by the legislative council.
+Sec. 9. Each member of the commission who is a member of the
+general assembly is entitled to receive the same per diem, mileage,
+and travel allowances paid to legislative members of interim study
+committees established by the legislative council. Per diem,
+mileage, and travel allowances paid under this section shall be paid
+from appropriations made to the legislative council or the
+legislative services agency.
+Sec. 10. Except for expenses described in section 9 of this
+chapter, expenses of the commission shall be paid from funds
+appropriated to the governor.
+Sec. 11. The commission shall hold meetings at the call of the
+co-chairpersons.
+Sec. 12. Nine (9) members constitute a quorum for the
+transaction of business.
+Sec. 13. Each member has one (1) vote.
+Sec. 14. Action of the commission may be taken only upon the
+affirmative votes of at least nine (9) members.
+Sec. 15. The office of the governor shall staff the commission.
+Sec. 16. This chapter expires June 30, 2028.".
+Page 2, between lines 11 and 12, begin a new line block indented
+and insert:
+"(2) "Governmental entity" means the state of Indiana or a
+state agency and does not mean a political subdivision,
+municipality, or unit.".
+Page 2, line 12, delete "(2)" and insert "(3)".
+Page 2, line 15, delete "(3)" and insert "(4)".
+Page 2, delete lines 39 through 42.
+Page 3, delete line 1.
+Page 3, line 13, after "Sec. 7." insert "(a)".
+Page 3, between lines 14 and 15, begin a new paragraph and insert:
+"(b) Nothing in this chapter applies to a cause of action filed by
+a private person, individual, or entity.".
+Page 3, delete lines 15 through 40, begin a new paragraph and
+insert:
+"SECTION 8. An emergency is declared for this act.".
+Renumber all SECTIONS consecutively.
+EH 1417—LS 7115/DI 149
+
+11
+and when so amended that said bill do pass.
+(Reference is to HB 1417 as printed January 27, 2026.)
+CARRASCO, Chairperson
+Committee Vote: Yeas 7, Nays 4.
+EH 1417—LS 7115/DI 149
+
+[DELETED:  L a c c o a c a p]
+[DELETED:  2 T t r c i e a  i a w d c a o t i]
+[DELETED:  D c t e o t c p t o d s s a  T s o t h o r o t d w i a m o t h o T s o d s s a ]
+[DELETED:  T c o t I d o I 4 a o e a i i w t m d a p i t s e b t l c P d a m t t l c o t 1 E f e d i s 9 o t 1 N ( m c a q f t]
+[DELETED:  A A N S T R A F p o I 3 h t m s f i 3 I 3 A A B P 1 I A T R A F A A N S T R A F o I 3 h t m s f i A A N S T R A F o I 3 h t m s f i a a d n m a p s " n m a o a u " c m a c t i]
+[DELETED:  b l t r t s b t t S w t 1 b t e c a l 1 b a n 2 T t r c i e a  i a w d c a o t D c t e o t c]
+[DELETED:  p t o d s s a  T s o t h o r o t d w i a m o t h o T s o d s s a  T c o t I d o I 4 a o e a i i w t m d a p i t s]
+[DELETED:  e b t l c P d a m t t l c o t 1 E f e d i s 9 o t 1 N ( m c a q f t a a d n m a p s]

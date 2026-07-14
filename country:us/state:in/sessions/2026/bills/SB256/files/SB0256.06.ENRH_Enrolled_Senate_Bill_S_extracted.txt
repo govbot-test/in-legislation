@@ -1,0 +1,1467 @@
+Title: Second Regular Session of the 124th General Assembly (2026)
+Official Title: Second Regular Session of the 124th General Assembly (2026)
+Number of Sections: 14
+Source: versions - Enrolled Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 256
+AN ACT to amend the Indiana Code concerning state offices and
+administration.
+Be it enacted by the General Assembly of the State of Indiana:
+
+Section 2:
+SECTION 1. IC 1-1-15.3 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]:
+Chapter 15.3. Prohibition on Technology Contracts with
+Certain Foreign Owned Companies
+Sec. 1. As used in this chapter, "business entity" means:
+(1) a corporation, professional corporation, nonprofit
+corporation, limited liability company, partnership, or limited
+partnership; or
+(2) the equivalent of any entity described in subdivision (1).
+Sec. 2. As used in this chapter, "controlling person" means:
+(1) a beneficial owner (as defined in IC 23-1-20-3.5) of at least
+fifty-one percent (51%) of the shares of a business entity;
+(2) an officer, a director, or another individual who possesses
+inside information about a business entity because of the
+officer, director, or other individual's relationship with the
+business entity; or
+(3) a person, individually or as a member of a group, who has
+the ability to directly or indirectly affect a business entity's
+management or policies.
+Sec. 3. As used in this chapter, "foreign adversary" includes the
+SEA 256 — CC 1
+2
+following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign government listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 4. (a) As used in this chapter, "prohibited person" includes
+the following:
+(1) A business entity organized under the laws of a foreign
+adversary.
+(2) A business entity headquartered in a foreign adversary.
+(3) A business entity with a controlling person that is one (1)
+of the following:
+(A) An individual who is a citizen of a foreign adversary.
+(B) An individual who is domiciled in a foreign adversary.
+(C) A business entity or other entity, including a
+governmental entity, that is owned or controlled by an
+individual who is a citizen of or domiciled in a foreign
+adversary, or is directly controlled by the government of
+a foreign adversary.
+The term, as used in subdivision (3)(A) and (3)(B), does not include
+an individual who holds dual citizenship with a foreign adversary
+(as defined in 15 CFR 791.4) and the United States, an individual
+who is a citizen or lawful permanent resident of the United States,
+or an individual who has been granted asylum in the United States.
+(b) The term includes an agent, a trustee, or a fiduciary acting
+on behalf of a prohibited person.
+Sec. 5. As used in this chapter, "qualified entity" means any of
+the following:
+(1) The state.
+(2) A state agency (as defined in IC 1-1-15-3).
+(3) A political subdivision (as defined in IC 36-1-2-13).
+Sec. 6. (a) As used in this chapter, "technological product or
+service" means a product or service used for information systems,
+surveillance, light detection and ranging, or artificial intelligence.
+(b) The term does not include an unmanned aerial system.
+Sec. 7. (a) After:
+(1) June 30, 2026, a new contract entered into; and
+(2) June 30, 2027, an existing contract amended or renewed;
+by a qualified entity for the provision of a technological product or
+SEA 256 — CC 1
+3
+service must contain a provision requiring the contractor to
+confirm that the contractor and any subcontractors working under
+the contract for the contractor are not prohibited persons.
+(b) A breach of the provisions under this section may be
+regarded as a material breach of the contract.
+
+Section 3:
+SECTION 2. IC 4-6-17 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]:
+Chapter 17. Foreign Agent Registration and Foreign Terrorist
+Organizations
+Sec. 1. As used in this chapter, "affiliate of a foreign terrorist
+organization" means a person who:
+(1) is or was an agent, representative, employee, or servant of
+a foreign terrorist organization;
+(2) acts or acted in any capacity at the order or request or
+under the direction or control of a foreign terrorist
+organization; or
+(3) provides, or at any point in the preceding five (5) years
+provided, material support or resources to aid a foreign
+terrorist organization.
+Sec. 2. As used in this chapter, "agent" means an agent of a
+covered foreign principal.
+Sec. 3. As used in this chapter, "agent of a covered foreign
+principal" means a person who meets all of the following:
+(1) A person who either:
+(A) is an agent, a representative, an employee, or a
+servant; or
+(B) acts in any capacity at the order, request, or under the
+direction or control;
+of a covered foreign principal.
+(2) A person whose activities are directly or indirectly
+financed in whole or in part by a covered foreign principal.
+(3) A person who engages in political activity on behalf of a
+covered foreign principal in Indiana.
+Sec. 4. As used in this chapter, "covered foreign principal"
+means one (1) or more of the following:
+(1) The government of a hostile foreign country, a political
+party of a hostile foreign country, or any member of a
+political party of a hostile foreign country.
+(2) A nonresident alien of a hostile foreign country.
+(3) A partnership, an association, a corporation, an
+organization, or any other combination of persons organized
+SEA 256 — CC 1
+4
+under the laws of, or having its principal place of business in,
+a hostile foreign country.
+(4) A partnership, an association, a corporation, an
+organization, or any other combination of persons that is at
+least fifty-one percent (51%) beneficially owned by a hostile
+foreign country, the government of a hostile foreign country,
+a nonresident alien of a hostile foreign country, or an entity
+organized under the laws of, or having its principal place of
+business in, a hostile foreign country.
+Sec. 5. As used in this chapter, "foreign supported political
+organization" means a political party, or a domestic partnership,
+an association, a corporation, an organization, or any other
+combination of persons:
+(1) that has, within the previous three (3) calendar years,
+received money or anything of value from a covered foreign
+principal or an agent, unless the money or thing of value:
+(A) was obtained through bona fide commercial activity
+engaged in connection with an arm's length transaction; or
+(B) is less than ten percent (10%) of the annual revenue of
+the:
+(i) political party;
+(ii) domestic partnership;
+(iii) association;
+(iv) corporation;
+(v) organization; or
+(vi) other combination of persons; and
+(2) that engages in political activity.
+Sec. 6. As used in this chapter, "foreign terrorist organization"
+means any organization designated by the United States
+government as a Foreign Terrorist Organization under Section 219
+of the Immigration and Nationality Act (8 U.S.C. 1189).
+Sec. 7. As used in this chapter, "hostile foreign country" means
+one (1) or more of the following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign country listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 8. As used in this chapter, "political activity" means an
+activity that is performed with the intent to influence:
+SEA 256 — CC 1
+5
+(1) a state or local governmental entity, agency, or public
+official in Indiana; or
+(2) the general public in Indiana;
+concerning the formulation, adoption, or modification of the laws
+or policies of the state, or the election or opposition to the election
+of a candidate for state or local office.
+Sec. 9. (a) This section applies to a person who acts as an agent
+of a covered foreign principal after December 31, 2026.
+(b) Before or not later than thirty (30) calendar days after
+beginning to act as an agent of a covered foreign principal, a
+person who acts as an agent shall file with the attorney general a
+true and complete registration statement in addition to
+supplements as required.
+(c) The registration statement must include the following:
+(1) The registrant's name.
+(2) The registrant's principal business address.
+(3) If the registrant is a partnership, the names of each
+partner and the locations of their domiciles.
+(4) If the registrant is an association, a corporation, an
+organization, or any other combination of individuals, the
+names and the locations of the domiciles of each director,
+officer, and person performing the functions of a director or
+officer.
+(5) A description of the circumstances requiring the filing of
+the registration statement, including the following:
+(A) The name and primary foreign address of the covered
+foreign principal for whom the registrant is acting or will
+act as an agent.
+(B) Each category described in section 4(1) through 4(4) of
+this chapter that applies to the covered foreign principal.
+(C) The nature of the relationship between the registrant
+and the covered foreign principal that qualifies the
+registrant as an agent of a covered foreign principal under
+
+Section 4:
+section 3 of this chapter.
+(6) A comprehensive statement of the nature of the
+registrant's business.
+(7) Other statements, information, or documents pertinent to
+the purposes of this chapter as the attorney general may
+require by regulation.
+(d) A registrant must update the information required to reflect
+any material change in the information not later than ninety (90)
+calendar days after the material change occurred.
+SEA 256 — CC 1
+6
+(e) An agent shall pay a fee of five hundred dollars ($500) at the
+time the agent files an initial registration statement under this
+chapter.
+(f) An agent shall pay a fee of one hundred dollars ($100) each
+time the agent files a supplemental registration statement under
+this section.
+(g) A fee established by the attorney general in accordance with
+this section must accompany an application for registration or
+renewal of registration.
+(h) Failure to comply with subsections (b) through (d) is a
+violation of this chapter.
+Sec. 10. (a) This section applies to the political activity of a
+foreign supported political organization occurring after December
+31, 2026.
+(b) Before February 1 of each year, a foreign supported political
+organization must file with the attorney general a registration
+statement in addition to supplements as required by the attorney
+general.
+(c) The registration statement must include the following:
+(1) The name of the foreign supported political organization,
+its business address, and the names and addresses of all
+officers and directors of the foreign supported political
+organization.
+(2) If the foreign supported political organization is affiliated
+with or is a chapter of a national organization, the name of the
+national organization, its address, and the names and titles of
+its officers and directors.
+(3) A statement that describes any:
+(A) expenditures made by the organization; and
+(B) money or thing of value received by the organization
+from a covered foreign principal or an agent;
+for the purpose of political activity during the preceding
+calendar year.
+(d) A registrant must update the information required to reflect
+any material change in the information not later than ninety (90)
+calendar days after the material change occurred.
+(e) A foreign supported political organization shall pay a fee of
+five hundred dollars ($500) at the time the organization files an
+initial registration statement under this section.
+(f) A fee established by the attorney general in accordance with
+this chapter must accompany an application for registration or
+renewal of registration.
+SEA 256 — CC 1
+7
+(g) Failure to comply with subsections (b) through (d) is a
+violation of this chapter.
+Sec. 11. (a) This section applies after December 31, 2026.
+(b) It is a violation of this chapter if a person:
+(1) without exercising reasonable care, submits a registration
+statement required to be filed under this chapter that is
+materially incorrect;
+(2) fails to file a corrected registration statement or report
+after being requested to do so by the attorney general; or
+(3) fails to make a filing required by section 9 or 10 of this
+chapter.
+Sec. 12. (a) Whenever the attorney general has reasonable cause
+to believe a person or entity may be an affiliate of a foreign
+terrorist organization, the attorney general may exercise all
+existing civil investigative powers, including the issuance of civil
+investigative demands, to determine whether the entity is an
+affiliate of a foreign terrorist organization.
+(b) If the attorney general determines, based on the attorney
+general's investigation, that a person or entity is an affiliate of a
+foreign terrorist organization, the attorney general shall notify the
+person or entity of the attorney general's determination and
+provide the entity with thirty (30) days in which to submit a formal
+response to the attorney general's determination.
+(c) The attorney general shall provide the attorney general's
+determination, the evidence on which it is based, and the person's
+or entity's response to the governor.
+Sec. 13. The governor shall designate a person or entity as an
+affiliate of a foreign terrorist organization if the governor
+concludes, based on a review of the results of the investigation
+conducted by the attorney general under section 12 of this chapter
+and the person's or entity's formal response, that the evidence
+amassed by the attorney general demonstrates that it is more likely
+than not that the person or entity is an affiliate of a foreign
+terrorist organization.
+Sec. 14. (a) As used in this section the term, "recipient of state
+funds" does not include a public depository designated under
+IC 5-13-9.5-3.
+(b) Any person or entity that is designated an affiliate of a
+foreign terrorist organization shall:
+(1) be denied all state funds provided by any state agency,
+including:
+(A) funding;
+SEA 256 — CC 1
+8
+(B) benefits; or
+(C) other forms of support;
+received or provided, directly or indirectly, from the state;
+(2) be prohibited from entering into any contract with the
+state; and
+(3) be denied any:
+(A) employment;
+(B) tax benefit;
+(C) privilege; or
+(D) other form of a state benefit or privilege, whether
+provided or received directly or indirectly.
+(c) No public university, community college, school district, or
+other recipient of state funds may, after the date the governor
+designates that a person or entity is an affiliate of a foreign
+terrorist organization under section 13 of this chapter, knowingly
+provide a grant, contract, loan, tax credit, tax exemption, or other
+financial benefit to an affiliate of a foreign terrorist organization.
+Sec. 15. (a) A designation under section 13 of this chapter
+remains in effect until rescinded by the governor.
+(b) The governor shall rescind a designation under section 13 of
+this chapter only if:
+(1) the governor determines that the designation was
+erroneous; or
+(2) the governor determines that the actions of the person or
+entity that support the designation occurred more than five
+(5) years ago.
+Sec. 16. (a) If the attorney general has probable cause to believe
+a violation of this chapter has occurred, the attorney general may
+bring an action in the name of the state in connection with a
+violation of this chapter to seek:
+(1) appropriate injunctive or other equitable relief;
+(2) the costs and expenses of the suit, including reasonable
+attorney's fees and expert fees; and
+(3) a civil penalty of not more than five hundred dollars
+($500).
+(b) If a violation of this chapter is committed intentionally, or
+constitutes a second or subsequent violation, the attorney general
+may bring a civil action to recover a civil penalty of not more than
+ten thousand dollars ($10,000) per violation, in addition to the
+relief provided in subsection (a)(1) and (a)(2).
+(c) A civil penalty collected under this chapter shall be deposited
+in the state general fund.
+SEA 256 — CC 1
+9
+Sec. 17. The attorney general may adopt rules under IC 4-22-2
+to carry out this chapter.
+
+Section 5:
+SECTION 3. IC 21-49-7 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+PASSAGE]:
+Chapter 7. Admission and Enrollment of Certain Foreign
+Students in Qualifying Programs
+Sec. 1. This chapter does not apply to a foreign student who is
+admitted to or enrolled in a qualifying program at a state
+educational institution as of August 14, 2026.
+Sec. 2. As used in this chapter, "agent of a foreign adversary"
+means a person:
+(1) who either:
+(A) is an agent, a representative, an employee, or a
+servant; or
+(B) acts in any capacity at the order, request, or under the
+direction or control;
+of the government of a foreign adversary; and
+(2) whose activities are directly or indirectly financed in whole
+or in part by the government of a foreign adversary.
+Sec. 3. As used in this chapter, "approved postsecondary
+educational institution" has the meaning set forth in IC 21-7-13-6.
+Sec. 4. As used in this chapter, "foreign adversary" includes the
+following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign government listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 5. As used in this chapter, "foreign student" means an
+individual who is:
+(1) a citizen of a foreign adversary; and
+(2) not a United States citizen or an alien who is admitted into
+the United States for lawful, permanent residence or has been
+granted asylum in the United States.
+Sec. 6. As used in this chapter, "qualifying program" refers to
+one (1) of the following fields of study at the undergraduate,
+graduate, doctoral, or postdoctoral level:
+(1) Chemical engineering.
+(2) Electrical engineering.
+SEA 256 — CC 1
+10
+(3) Industrial engineering.
+(4) Mechanical engineering.
+(5) Artificial intelligence.
+(6) Computer science.
+(7) Microbiology.
+(8) Virology.
+(9) A field of study designated by the commissioner for higher
+education under section 11 of this chapter.
+Sec. 7. As used in this chapter, "state educational institution"
+has the definition set forth in IC 21-7-13-32.
+Sec. 8. (a) Beginning August 15, 2026, a state educational
+institution may not admit a foreign student into a qualifying
+program until the state educational institution has completed a
+foreign influence and research security review for the foreign
+student.
+(b) A foreign influence and research security review required
+under subsection (a) must include, at a minimum, a review of the
+following information concerning the foreign student:
+(1) All current and past affiliations, paid or unpaid, including
+academic, research, government, and commercial affiliations.
+(2) All outside support related to the foreign student's
+education, training, or research activities, including foreign
+funding sources such as tuition aid, travel aid, complimentary
+travel, scholarships, or stipends.
+(3) Any agreements, including intellectual property
+agreements, employment agreements, consulting agreements,
+or other obligations that relate to the foreign student's
+research, education, or training.
+(4) Any planned external collaboration, supervision, or
+research reporting relationship or requirement with a person
+outside of the state educational institution.
+(5) Whether the foreign student or the foreign student's
+parent, sibling, or spouse, including those related by blood or
+marriage, are any of the following:
+(A) An employee of the government of a foreign adversary.
+(B) A member of a political party of a foreign adversary.
+(C) A member of a united front organization or a similar
+association or organization that is sponsored or supported
+by the government of a foreign adversary and exists to
+encourage support of the government of the foreign
+adversary.
+(6) Whether the foreign student was previously employed by
+SEA 256 — CC 1
+11
+the government of a foreign adversary or served in the
+military or security services for the government of a foreign
+adversary.
+(c) If a state educational institution obtains information while
+conducting a foreign influence and research security review on a
+foreign student that indicates the foreign student is an agent of a
+foreign adversary, the state educational institution may not enroll
+the foreign student.
+(d) A state educational institution may not admit a foreign
+student who refuses or fails to provide the state educational
+institution with any information necessary to complete a foreign
+influence and research security review under this section.
+Sec. 9. (a) A foreign student who is admitted into a state
+educational institution after a foreign influence and research
+security review is completed under section 8 of this chapter must
+sign an attestation stating that the foreign student has not accepted
+and will not accept any direct or indirect financial support or
+funding from a foreign adversary before the state educational
+institution may enroll the foreign student in the qualifying
+program.
+(b) If a state educational institution obtains information that a
+foreign student has accepted direct or indirect financial support or
+funding from a foreign adversary, the state educational institution
+must immediately unenroll the foreign student.
+Sec. 10. A foreign student who is enrolled in a qualifying
+program at a state educational institution must immediately
+disclose the following to the state educational institution:
+(1) Any changes to the information regarding the foreign
+student provided in section 8(b)(5) or 8(b)(6) of this chapter.
+(2) Any contact with an agent of a foreign adversary.
+Sec. 11. (a) Subject to subsection (b), the commissioner for
+higher education may designate a field of study as a qualifying
+program.
+(b) The commissioner for higher education must provide the
+board of trustees of each state educational institution and approved
+postsecondary educational institution with notice of the designation
+of a field of study as a qualifying program under subsection (a) not
+later than six (6) months prior to the start of the next academic
+term.
+Sec. 12. (a) Not later than November 1, 2026, an approved
+postsecondary educational institution shall provide to the
+commission for higher education the following information:
+SEA 256 — CC 1
+12
+(1) The number of foreign students enrolled in a qualifying
+program at the approved postsecondary educational
+institution as of August 15, 2026.
+(2) The number of foreign students enrolled in a qualifying
+program at the approved postsecondary educational
+institution for each academic year for the preceding ten (10)
+years.
+(b) This section expires July 1, 2027.
+
+Section 6:
+SECTION 4. IC 32-22-3 IS REPEALED [EFFECTIVE JULY 1,
+2026]. (Rights of a Foreign Business Entity to Hold and Convey
+Agricultural Land).
+
+Section 7:
+SECTION 5. IC 32-22-3.5 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]:
+Chapter 3.5. Prohibition on Ownership of Land by Certain
+Foreign Owned Companies and Foreign Individuals
+Sec. 1. (a) As used in this chapter, "acting as an agent of a
+foreign adversary" means to knowingly engage in conduct at the
+direction of or under the control of a foreign adversary that
+materially advances the foreign adversary's strategic, intelligence,
+or military objectives.
+(b) The term does not include the ownership or operation of a
+business entity that engages solely in ordinary commercial
+activities for profit and that is not subject to the direction, control,
+or material influence of the foreign adversary with respect to the
+conduct at issue.
+Sec. 2. As used in this chapter, "agent of a foreign adversary"
+means a person:
+(1) who either:
+(A) is an agent, a representative, an employee, or a
+servant; or
+(B) acts in any capacity at the order, request, or under the
+direction or control;
+of the government of a foreign adversary; and
+(2) whose activities are directly or indirectly financed in whole
+or in part by the government of a foreign adversary.
+Sec. 3. As used in this chapter, "business entity" means:
+(1) a corporation, professional corporation, nonprofit
+corporation, limited liability company, partnership, or limited
+partnership; or
+(2) the equivalent of any entity described in subdivision (1).
+Sec. 4. As used in this chapter, "controlling person" means:
+SEA 256 — CC 1
+13
+(1) a beneficial owner (as defined in IC 23-1-20-3.5) of at least
+fifty-one percent (51%) of the shares of a business entity;
+(2) an officer, a director, or any other individual who
+possesses inside information about a business entity because
+of the officer, director, or other individual's relationship with
+the business entity; or
+(3) a person, individually or as a member of a group, who has
+the ability to directly or indirectly affect a business entity's
+management or policies.
+Sec. 5. As used in this chapter, "foreign adversary" includes the
+following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign government listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 6. (a) As used in this chapter, "prohibited person" includes
+the following:
+(1) An individual who is a citizen of a foreign adversary.
+(2) An individual who is domiciled in a foreign adversary.
+(3) A business entity organized under the laws of a foreign
+adversary.
+(4) A business entity headquartered in a foreign adversary.
+(5) A business entity with a controlling person that is one (1)
+of the following:
+(A) An individual who is a citizen of a foreign adversary.
+(B) An individual who is domiciled in a foreign adversary.
+(C) A business entity or other entity, including a
+governmental entity, that is owned or controlled by an
+individual described in subdivision (1) or (2), or is directly
+controlled by the government of a foreign adversary.
+The term, as used in subdivisions (1), (2), (5)(A), and (5)(B), does
+not include an individual who holds dual citizenship with a foreign
+adversary and the United States, an individual who is a citizen or
+lawful permanent resident of the United States, or an individual
+who has been granted asylum in the United States.
+(b) The term includes an agent, a trustee, or a fiduciary acting
+on behalf of a prohibited person.
+Sec. 7. Except as provided in section 7.5 of this chapter, after
+June 30, 2026, a prohibited person may not do any of the following:
+SEA 256 — CC 1
+14
+(1) Acquire by grant, purchase, devise, descent, or otherwise
+any real property located in Indiana.
+(2) Acquire by grant, purchase, devise, descent, or otherwise
+any mineral right or water or riparian right on any real
+property located in Indiana.
+(3) Enter into a new lease agreement as a lessee for any real
+property located in Indiana. This subdivision does not apply
+to a lease agreement to which the following apply:
+(A) The real property that is the subject of the lease
+agreement will be used only for residential purposes.
+(B) The lease agreement is for a term of not more than
+twenty-four (24) months.
+(4) Enter into a new lease agreement for any mineral right or
+riparian right on any real property located in Indiana.
+Sec. 7.5. An individual who has a valid, unexpired
+nonimmigrant visa may purchase real property located in Indiana
+if:
+(1) the individual's visa is valid for more than twelve (12)
+months after the acquisition of the real property;
+(2) the real property is zoned for single family residential use;
+(3) the real property is not more than one-half (1/2) acre; and
+(4) the individual has been determined not to be an agent of a
+foreign adversary.
+Sec. 8. (a) This section applies to a prohibited person that owns
+an interest in real property located in Indiana on July 1, 2026.
+(b) A prohibited person that owns an interest in real property
+located in Indiana on July 1, 2026, shall not act as an agent of a
+foreign adversary.
+(c) The attorney general may bring an action under section 9 of
+this chapter to require divestiture of a prohibited person's real
+property interest only if the attorney general establishes, by clear
+and convincing evidence, that the prohibited person is acting as an
+agent of a foreign adversary.
+(d) If the attorney general makes a prima facie showing under
+subsection (c), the burden of proof shifts to the prohibited person
+to demonstrate, by a preponderance of the evidence, that the
+ownership or control of the real property does not present a risk of
+the prohibited person acting as an agent of a foreign adversary.
+(e) A court may not order divestiture under section 9 of this
+chapter unless the court enters written findings of fact and
+conclusions of law establishing that the attorney general has
+satisfied the burden required under subsection (c) and that
+SEA 256 — CC 1
+15
+divestiture is permitted under this section.
+Sec. 9. (a) Upon receipt of information that leads the attorney
+general to believe a prohibited person has violated section 7, 7.5, or
+8 of this chapter, the attorney general shall investigate the alleged
+violation and may issue subpoenas requiring the:
+(1) appearance of witnesses;
+(2) production of relevant records; and
+(3) giving of relevant testimony.
+(b) The attorney general shall enforce a violation of section 7,
+
+Section 8:
+7.5, or 8 of this chapter by commencing a receivership proceeding
+under IC 32-30-5-1 and selling the real property or the interest in
+real property through the receivership. The following apply to a
+receivership proceeding under this section:
+(1) Proceeds of the sale shall be paid as follows:
+(A) To lienholders, in their order of priority, except for
+liens that under the terms of the sale are to remain on the
+property.
+(B) The costs of the receivership and sale, including
+reasonable attorney's fees and expert fees.
+(C) No proceeds shall be distributed from the receivership
+sale to the prohibited person. Any excess proceeds are
+forfeited and shall be transferred to the state general fund
+by the receiver.
+(2) If a receivership proceeding is initiated under this section,
+the prohibited person is personally liable for a civil penalty in
+the amount of ten percent (10%) of the market value of the
+real property, payable to the state general fund.
+(3) At the receivership sale, lienholders shall be able to have
+a credit bid in an amount that is not more than the amount
+owed to the lienholder on the date of the sale, as established in
+the court order for the sale of the property.
+(4) Upon commencement of an action under this section, the
+attorney general shall promptly file a notice of lis pendens
+with the clerk of court. Upon the entry of an order for the sale
+of the real property under this section, the attorney general
+shall promptly record a copy of the order in the office of the
+recorder of the county where the property is located.
+(c) The responsibility for determining whether an individual or
+other entity is subject to section 7, 7.5, or 8 of this chapter rests
+solely with the prohibited person and the attorney general and no
+other individual or entity. An individual or other entity who is not
+a prohibited person shall bear no civil or criminal liability for
+SEA 256 — CC 1
+16
+failing to determine or make inquiry of whether an individual or
+other entity is a prohibited person.
+(d) Except for an interest created after the effective date of the
+lis pendens notice filed under subsection (b)(4), divestiture of a
+prohibited person's title under this section shall not be a basis to
+void, invalidate, or otherwise extinguish any bona fide mortgage,
+lien, or other interest granted by, through, or under the prohibited
+person. An interest created after the effective date of the lis
+pendens notice filed under subsection (b)(4) is void upon entry of
+an order for the sale of the real property under this section.
+
+Section 9:
+SECTION 6. IC 34-30-2.1-525.4 IS REPEALED [EFFECTIVE
+JULY 1, 2026]. Sec. 525.4. IC 32-22-3-4.5(c) (Concerning agricultural
+land purchased or leased by a prohibited person).
+
+Section 10:
+SECTION 7. IC 34-30-2.1-525.5 IS REPEALED [EFFECTIVE
+JULY 1, 2026]. Sec. 525.5. IC 32-22-3-6.5(c) (Concerning agricultural
+land held by a prohibited person).
+
+Section 11:
+SECTION 8. IC 34-30-2.1-525.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 525.6. IC 32-22-3.5-9 (Concerning
+land held by a prohibited person).
+
+Section 12:
+SECTION 9. IC 36-1-32-3, AS ADDED BY P.L.136-2024,
+
+Section 13:
+SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 3. (a) A unit may not enter into a sister city
+agreement or any cooperative agreement with a prohibited person.
+(b) Any agreement or cooperative agreement between a unit and
+a prohibited person is contrary to public policy and is void and
+unenforceable.
+
+Section 14:
+SECTION 10. An emergency is declared for this act.
+SEA 256 — CC 1
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date: Time:
+SEA 256 — CC 1
+[DELETED:  1 P o T C w a c p c n t]
+[DELETED:  A b e o o e i ]
+[DELETED:  m c a p r t c t A b o t p u t s m b t d o c o a f t m s o r t a a f i a a a r a e o  A p w a a d o i o a h f c o a m o ( A p a a a c]
+[DELETED:  A p a a a c a a a c a o o a o a o d b t U S]
+[DELETED:  a c r s i a t I t r i a p t n o e I t r i a a a c a t c f p t q t A c s o t n o t]
+[DELETED:  b a a t n a a o a a d o t f s p p o p a d t p]
+[DELETED:  t r t b f u t c t i b a p o e m b a a o a f o t a g m e a d t d w t e i a o e o t a g d a o a f t o i t g n t t p o e i a a o a f d i a p d u]
+[DELETED:  t a p o e i a a o a f A d u s 1 t c t g d t t d w]
+[DELETED:  7 A a E o C F t o e i a q p a a s i a a a r a e o  3 A u i t c " p ( o t f f o s a t u]
+[DELETED:  8 ( B A 1 2 a s e m n a a f s i a q A o s r t t f s A a i i p o o t r t t f s A p e c s o W t f s o t f s s o t g o t f]
+[DELETED:  g o a f a o s i t w r o f t p t s e 9 ( A f s w i a i a s i a a f i a r m e t f s i t q 1 A f s w i e i a q a a s e i m i e i s p t t]
+[DELETED:  a t a p e a t a p e ( o a F B E t H C o o u t c o a f a t e t e s i o c i a a a r a e o  a c p c n]
+[DELETED:  a o a d o a o i w A b e o o e i ]
+[DELETED:  T r p t i t s o t l 7 A i w h a v u d b a p o t e t t u t c e w f o f a o l e t t a g h t b r u s ( a t]
+[DELETED:  T c o t r a s i]
+[DELETED:  A i c a t e d o t l A A N S T R A F 9 I 3 A A B P]
+[DELETED:  T]
+
+
+================================================================================
+
+Raw Text:
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 256
+AN ACT to amend the Indiana Code concerning state offices and
+administration.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 1-1-15.3 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]:
+Chapter 15.3. Prohibition on Technology Contracts with
+Certain Foreign Owned Companies
+Sec. 1. As used in this chapter, "business entity" means:
+(1) a corporation, professional corporation, nonprofit
+corporation, limited liability company, partnership, or limited
+partnership; or
+(2) the equivalent of any entity described in subdivision (1).
+Sec. 2. As used in this chapter, "controlling person" means:
+(1) a beneficial owner (as defined in IC 23-1-20-3.5) of at least
+fifty-one percent (51%) of the shares of a business entity;
+(2) an officer, a director, or another individual who possesses
+inside information about a business entity because of the
+officer, director, or other individual's relationship with the
+business entity; or
+(3) a person, individually or as a member of a group, who has
+the ability to directly or indirectly affect a business entity's
+management or policies.
+Sec. 3. As used in this chapter, "foreign adversary" includes the
+SEA 256 — CC 1
+
+2
+following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign government listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 4. (a) As used in this chapter, "prohibited person" includes
+the following:
+(1) A business entity organized under the laws of a foreign
+adversary.
+(2) A business entity headquartered in a foreign adversary.
+(3) A business entity with a controlling person that is one (1)
+of the following:
+(A) An individual who is a citizen of a foreign adversary.
+(B) An individual who is domiciled in a foreign adversary.
+(C) A business entity or other entity, including a
+governmental entity, that is owned or controlled by an
+individual who is a citizen of or domiciled in a foreign
+adversary, or is directly controlled by the government of
+a foreign adversary.
+The term, as used in subdivision (3)(A) and (3)(B), does not include
+an individual who holds dual citizenship with a foreign adversary
+(as defined in 15 CFR 791.4) and the United States, an individual
+who is a citizen or lawful permanent resident of the United States,
+or an individual who has been granted asylum in the United States.
+(b) The term includes an agent, a trustee, or a fiduciary acting
+on behalf of a prohibited person.
+Sec. 5. As used in this chapter, "qualified entity" means any of
+the following:
+(1) The state.
+(2) A state agency (as defined in IC 1-1-15-3).
+(3) A political subdivision (as defined in IC 36-1-2-13).
+Sec. 6. (a) As used in this chapter, "technological product or
+service" means a product or service used for information systems,
+surveillance, light detection and ranging, or artificial intelligence.
+(b) The term does not include an unmanned aerial system.
+Sec. 7. (a) After:
+(1) June 30, 2026, a new contract entered into; and
+(2) June 30, 2027, an existing contract amended or renewed;
+by a qualified entity for the provision of a technological product or
+SEA 256 — CC 1
+
+3
+service must contain a provision requiring the contractor to
+confirm that the contractor and any subcontractors working under
+the contract for the contractor are not prohibited persons.
+(b) A breach of the provisions under this section may be
+regarded as a material breach of the contract.
+SECTION 2. IC 4-6-17 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]:
+Chapter 17. Foreign Agent Registration and Foreign Terrorist
+Organizations
+Sec. 1. As used in this chapter, "affiliate of a foreign terrorist
+organization" means a person who:
+(1) is or was an agent, representative, employee, or servant of
+a foreign terrorist organization;
+(2) acts or acted in any capacity at the order or request or
+under the direction or control of a foreign terrorist
+organization; or
+(3) provides, or at any point in the preceding five (5) years
+provided, material support or resources to aid a foreign
+terrorist organization.
+Sec. 2. As used in this chapter, "agent" means an agent of a
+covered foreign principal.
+Sec. 3. As used in this chapter, "agent of a covered foreign
+principal" means a person who meets all of the following:
+(1) A person who either:
+(A) is an agent, a representative, an employee, or a
+servant; or
+(B) acts in any capacity at the order, request, or under the
+direction or control;
+of a covered foreign principal.
+(2) A person whose activities are directly or indirectly
+financed in whole or in part by a covered foreign principal.
+(3) A person who engages in political activity on behalf of a
+covered foreign principal in Indiana.
+Sec. 4. As used in this chapter, "covered foreign principal"
+means one (1) or more of the following:
+(1) The government of a hostile foreign country, a political
+party of a hostile foreign country, or any member of a
+political party of a hostile foreign country.
+(2) A nonresident alien of a hostile foreign country.
+(3) A partnership, an association, a corporation, an
+organization, or any other combination of persons organized
+SEA 256 — CC 1
+
+4
+under the laws of, or having its principal place of business in,
+a hostile foreign country.
+(4) A partnership, an association, a corporation, an
+organization, or any other combination of persons that is at
+least fifty-one percent (51%) beneficially owned by a hostile
+foreign country, the government of a hostile foreign country,
+a nonresident alien of a hostile foreign country, or an entity
+organized under the laws of, or having its principal place of
+business in, a hostile foreign country.
+Sec. 5. As used in this chapter, "foreign supported political
+organization" means a political party, or a domestic partnership,
+an association, a corporation, an organization, or any other
+combination of persons:
+(1) that has, within the previous three (3) calendar years,
+received money or anything of value from a covered foreign
+principal or an agent, unless the money or thing of value:
+(A) was obtained through bona fide commercial activity
+engaged in connection with an arm's length transaction; or
+(B) is less than ten percent (10%) of the annual revenue of
+the:
+(i) political party;
+(ii) domestic partnership;
+(iii) association;
+(iv) corporation;
+(v) organization; or
+(vi) other combination of persons; and
+(2) that engages in political activity.
+Sec. 6. As used in this chapter, "foreign terrorist organization"
+means any organization designated by the United States
+government as a Foreign Terrorist Organization under Section 219
+of the Immigration and Nationality Act (8 U.S.C. 1189).
+Sec. 7. As used in this chapter, "hostile foreign country" means
+one (1) or more of the following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign country listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 8. As used in this chapter, "political activity" means an
+activity that is performed with the intent to influence:
+SEA 256 — CC 1
+
+5
+(1) a state or local governmental entity, agency, or public
+official in Indiana; or
+(2) the general public in Indiana;
+concerning the formulation, adoption, or modification of the laws
+or policies of the state, or the election or opposition to the election
+of a candidate for state or local office.
+Sec. 9. (a) This section applies to a person who acts as an agent
+of a covered foreign principal after December 31, 2026.
+(b) Before or not later than thirty (30) calendar days after
+beginning to act as an agent of a covered foreign principal, a
+person who acts as an agent shall file with the attorney general a
+true and complete registration statement in addition to
+supplements as required.
+(c) The registration statement must include the following:
+(1) The registrant's name.
+(2) The registrant's principal business address.
+(3) If the registrant is a partnership, the names of each
+partner and the locations of their domiciles.
+(4) If the registrant is an association, a corporation, an
+organization, or any other combination of individuals, the
+names and the locations of the domiciles of each director,
+officer, and person performing the functions of a director or
+officer.
+(5) A description of the circumstances requiring the filing of
+the registration statement, including the following:
+(A) The name and primary foreign address of the covered
+foreign principal for whom the registrant is acting or will
+act as an agent.
+(B) Each category described in section 4(1) through 4(4) of
+this chapter that applies to the covered foreign principal.
+(C) The nature of the relationship between the registrant
+and the covered foreign principal that qualifies the
+registrant as an agent of a covered foreign principal under
+section 3 of this chapter.
+(6) A comprehensive statement of the nature of the
+registrant's business.
+(7) Other statements, information, or documents pertinent to
+the purposes of this chapter as the attorney general may
+require by regulation.
+(d) A registrant must update the information required to reflect
+any material change in the information not later than ninety (90)
+calendar days after the material change occurred.
+SEA 256 — CC 1
+
+6
+(e) An agent shall pay a fee of five hundred dollars ($500) at the
+time the agent files an initial registration statement under this
+chapter.
+(f) An agent shall pay a fee of one hundred dollars ($100) each
+time the agent files a supplemental registration statement under
+this section.
+(g) A fee established by the attorney general in accordance with
+this section must accompany an application for registration or
+renewal of registration.
+(h) Failure to comply with subsections (b) through (d) is a
+violation of this chapter.
+Sec. 10. (a) This section applies to the political activity of a
+foreign supported political organization occurring after December
+31, 2026.
+(b) Before February 1 of each year, a foreign supported political
+organization must file with the attorney general a registration
+statement in addition to supplements as required by the attorney
+general.
+(c) The registration statement must include the following:
+(1) The name of the foreign supported political organization,
+its business address, and the names and addresses of all
+officers and directors of the foreign supported political
+organization.
+(2) If the foreign supported political organization is affiliated
+with or is a chapter of a national organization, the name of the
+national organization, its address, and the names and titles of
+its officers and directors.
+(3) A statement that describes any:
+(A) expenditures made by the organization; and
+(B) money or thing of value received by the organization
+from a covered foreign principal or an agent;
+for the purpose of political activity during the preceding
+calendar year.
+(d) A registrant must update the information required to reflect
+any material change in the information not later than ninety (90)
+calendar days after the material change occurred.
+(e) A foreign supported political organization shall pay a fee of
+five hundred dollars ($500) at the time the organization files an
+initial registration statement under this section.
+(f) A fee established by the attorney general in accordance with
+this chapter must accompany an application for registration or
+renewal of registration.
+SEA 256 — CC 1
+
+7
+(g) Failure to comply with subsections (b) through (d) is a
+violation of this chapter.
+Sec. 11. (a) This section applies after December 31, 2026.
+(b) It is a violation of this chapter if a person:
+(1) without exercising reasonable care, submits a registration
+statement required to be filed under this chapter that is
+materially incorrect;
+(2) fails to file a corrected registration statement or report
+after being requested to do so by the attorney general; or
+(3) fails to make a filing required by section 9 or 10 of this
+chapter.
+Sec. 12. (a) Whenever the attorney general has reasonable cause
+to believe a person or entity may be an affiliate of a foreign
+terrorist organization, the attorney general may exercise all
+existing civil investigative powers, including the issuance of civil
+investigative demands, to determine whether the entity is an
+affiliate of a foreign terrorist organization.
+(b) If the attorney general determines, based on the attorney
+general's investigation, that a person or entity is an affiliate of a
+foreign terrorist organization, the attorney general shall notify the
+person or entity of the attorney general's determination and
+provide the entity with thirty (30) days in which to submit a formal
+response to the attorney general's determination.
+(c) The attorney general shall provide the attorney general's
+determination, the evidence on which it is based, and the person's
+or entity's response to the governor.
+Sec. 13. The governor shall designate a person or entity as an
+affiliate of a foreign terrorist organization if the governor
+concludes, based on a review of the results of the investigation
+conducted by the attorney general under section 12 of this chapter
+and the person's or entity's formal response, that the evidence
+amassed by the attorney general demonstrates that it is more likely
+than not that the person or entity is an affiliate of a foreign
+terrorist organization.
+Sec. 14. (a) As used in this section the term, "recipient of state
+funds" does not include a public depository designated under
+IC 5-13-9.5-3.
+(b) Any person or entity that is designated an affiliate of a
+foreign terrorist organization shall:
+(1) be denied all state funds provided by any state agency,
+including:
+(A) funding;
+SEA 256 — CC 1
+
+8
+(B) benefits; or
+(C) other forms of support;
+received or provided, directly or indirectly, from the state;
+(2) be prohibited from entering into any contract with the
+state; and
+(3) be denied any:
+(A) employment;
+(B) tax benefit;
+(C) privilege; or
+(D) other form of a state benefit or privilege, whether
+provided or received directly or indirectly.
+(c) No public university, community college, school district, or
+other recipient of state funds may, after the date the governor
+designates that a person or entity is an affiliate of a foreign
+terrorist organization under section 13 of this chapter, knowingly
+provide a grant, contract, loan, tax credit, tax exemption, or other
+financial benefit to an affiliate of a foreign terrorist organization.
+Sec. 15. (a) A designation under section 13 of this chapter
+remains in effect until rescinded by the governor.
+(b) The governor shall rescind a designation under section 13 of
+this chapter only if:
+(1) the governor determines that the designation was
+erroneous; or
+(2) the governor determines that the actions of the person or
+entity that support the designation occurred more than five
+(5) years ago.
+Sec. 16. (a) If the attorney general has probable cause to believe
+a violation of this chapter has occurred, the attorney general may
+bring an action in the name of the state in connection with a
+violation of this chapter to seek:
+(1) appropriate injunctive or other equitable relief;
+(2) the costs and expenses of the suit, including reasonable
+attorney's fees and expert fees; and
+(3) a civil penalty of not more than five hundred dollars
+($500).
+(b) If a violation of this chapter is committed intentionally, or
+constitutes a second or subsequent violation, the attorney general
+may bring a civil action to recover a civil penalty of not more than
+ten thousand dollars ($10,000) per violation, in addition to the
+relief provided in subsection (a)(1) and (a)(2).
+(c) A civil penalty collected under this chapter shall be deposited
+in the state general fund.
+SEA 256 — CC 1
+
+9
+Sec. 17. The attorney general may adopt rules under IC 4-22-2
+to carry out this chapter.
+SECTION 3. IC 21-49-7 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+PASSAGE]:
+Chapter 7. Admission and Enrollment of Certain Foreign
+Students in Qualifying Programs
+Sec. 1. This chapter does not apply to a foreign student who is
+admitted to or enrolled in a qualifying program at a state
+educational institution as of August 14, 2026.
+Sec. 2. As used in this chapter, "agent of a foreign adversary"
+means a person:
+(1) who either:
+(A) is an agent, a representative, an employee, or a
+servant; or
+(B) acts in any capacity at the order, request, or under the
+direction or control;
+of the government of a foreign adversary; and
+(2) whose activities are directly or indirectly financed in whole
+or in part by the government of a foreign adversary.
+Sec. 3. As used in this chapter, "approved postsecondary
+educational institution" has the meaning set forth in IC 21-7-13-6.
+Sec. 4. As used in this chapter, "foreign adversary" includes the
+following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign government listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 5. As used in this chapter, "foreign student" means an
+individual who is:
+(1) a citizen of a foreign adversary; and
+(2) not a United States citizen or an alien who is admitted into
+the United States for lawful, permanent residence or has been
+granted asylum in the United States.
+Sec. 6. As used in this chapter, "qualifying program" refers to
+one (1) of the following fields of study at the undergraduate,
+graduate, doctoral, or postdoctoral level:
+(1) Chemical engineering.
+(2) Electrical engineering.
+SEA 256 — CC 1
+
+10
+(3) Industrial engineering.
+(4) Mechanical engineering.
+(5) Artificial intelligence.
+(6) Computer science.
+(7) Microbiology.
+(8) Virology.
+(9) A field of study designated by the commissioner for higher
+education under section 11 of this chapter.
+Sec. 7. As used in this chapter, "state educational institution"
+has the definition set forth in IC 21-7-13-32.
+Sec. 8. (a) Beginning August 15, 2026, a state educational
+institution may not admit a foreign student into a qualifying
+program until the state educational institution has completed a
+foreign influence and research security review for the foreign
+student.
+(b) A foreign influence and research security review required
+under subsection (a) must include, at a minimum, a review of the
+following information concerning the foreign student:
+(1) All current and past affiliations, paid or unpaid, including
+academic, research, government, and commercial affiliations.
+(2) All outside support related to the foreign student's
+education, training, or research activities, including foreign
+funding sources such as tuition aid, travel aid, complimentary
+travel, scholarships, or stipends.
+(3) Any agreements, including intellectual property
+agreements, employment agreements, consulting agreements,
+or other obligations that relate to the foreign student's
+research, education, or training.
+(4) Any planned external collaboration, supervision, or
+research reporting relationship or requirement with a person
+outside of the state educational institution.
+(5) Whether the foreign student or the foreign student's
+parent, sibling, or spouse, including those related by blood or
+marriage, are any of the following:
+(A) An employee of the government of a foreign adversary.
+(B) A member of a political party of a foreign adversary.
+(C) A member of a united front organization or a similar
+association or organization that is sponsored or supported
+by the government of a foreign adversary and exists to
+encourage support of the government of the foreign
+adversary.
+(6) Whether the foreign student was previously employed by
+SEA 256 — CC 1
+
+11
+the government of a foreign adversary or served in the
+military or security services for the government of a foreign
+adversary.
+(c) If a state educational institution obtains information while
+conducting a foreign influence and research security review on a
+foreign student that indicates the foreign student is an agent of a
+foreign adversary, the state educational institution may not enroll
+the foreign student.
+(d) A state educational institution may not admit a foreign
+student who refuses or fails to provide the state educational
+institution with any information necessary to complete a foreign
+influence and research security review under this section.
+Sec. 9. (a) A foreign student who is admitted into a state
+educational institution after a foreign influence and research
+security review is completed under section 8 of this chapter must
+sign an attestation stating that the foreign student has not accepted
+and will not accept any direct or indirect financial support or
+funding from a foreign adversary before the state educational
+institution may enroll the foreign student in the qualifying
+program.
+(b) If a state educational institution obtains information that a
+foreign student has accepted direct or indirect financial support or
+funding from a foreign adversary, the state educational institution
+must immediately unenroll the foreign student.
+Sec. 10. A foreign student who is enrolled in a qualifying
+program at a state educational institution must immediately
+disclose the following to the state educational institution:
+(1) Any changes to the information regarding the foreign
+student provided in section 8(b)(5) or 8(b)(6) of this chapter.
+(2) Any contact with an agent of a foreign adversary.
+Sec. 11. (a) Subject to subsection (b), the commissioner for
+higher education may designate a field of study as a qualifying
+program.
+(b) The commissioner for higher education must provide the
+board of trustees of each state educational institution and approved
+postsecondary educational institution with notice of the designation
+of a field of study as a qualifying program under subsection (a) not
+later than six (6) months prior to the start of the next academic
+term.
+Sec. 12. (a) Not later than November 1, 2026, an approved
+postsecondary educational institution shall provide to the
+commission for higher education the following information:
+SEA 256 — CC 1
+
+12
+(1) The number of foreign students enrolled in a qualifying
+program at the approved postsecondary educational
+institution as of August 15, 2026.
+(2) The number of foreign students enrolled in a qualifying
+program at the approved postsecondary educational
+institution for each academic year for the preceding ten (10)
+years.
+(b) This section expires July 1, 2027.
+SECTION 4. IC 32-22-3 IS REPEALED [EFFECTIVE JULY 1,
+2026]. (Rights of a Foreign Business Entity to Hold and Convey
+Agricultural Land).
+SECTION 5. IC 32-22-3.5 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]:
+Chapter 3.5. Prohibition on Ownership of Land by Certain
+Foreign Owned Companies and Foreign Individuals
+Sec. 1. (a) As used in this chapter, "acting as an agent of a
+foreign adversary" means to knowingly engage in conduct at the
+direction of or under the control of a foreign adversary that
+materially advances the foreign adversary's strategic, intelligence,
+or military objectives.
+(b) The term does not include the ownership or operation of a
+business entity that engages solely in ordinary commercial
+activities for profit and that is not subject to the direction, control,
+or material influence of the foreign adversary with respect to the
+conduct at issue.
+Sec. 2. As used in this chapter, "agent of a foreign adversary"
+means a person:
+(1) who either:
+(A) is an agent, a representative, an employee, or a
+servant; or
+(B) acts in any capacity at the order, request, or under the
+direction or control;
+of the government of a foreign adversary; and
+(2) whose activities are directly or indirectly financed in whole
+or in part by the government of a foreign adversary.
+Sec. 3. As used in this chapter, "business entity" means:
+(1) a corporation, professional corporation, nonprofit
+corporation, limited liability company, partnership, or limited
+partnership; or
+(2) the equivalent of any entity described in subdivision (1).
+Sec. 4. As used in this chapter, "controlling person" means:
+SEA 256 — CC 1
+
+13
+(1) a beneficial owner (as defined in IC 23-1-20-3.5) of at least
+fifty-one percent (51%) of the shares of a business entity;
+(2) an officer, a director, or any other individual who
+possesses inside information about a business entity because
+of the officer, director, or other individual's relationship with
+the business entity; or
+(3) a person, individually or as a member of a group, who has
+the ability to directly or indirectly affect a business entity's
+management or policies.
+Sec. 5. As used in this chapter, "foreign adversary" includes the
+following:
+(1) The People's Republic of China.
+(2) The Russian Federation.
+(3) The People's Republic of North Korea.
+(4) The Islamic Republic of Iran.
+(5) A foreign government listed in 15 CFR 791.4.
+(6) A country designated as a threat to critical infrastructure
+by the governor under IC 1-1-16-8.
+Sec. 6. (a) As used in this chapter, "prohibited person" includes
+the following:
+(1) An individual who is a citizen of a foreign adversary.
+(2) An individual who is domiciled in a foreign adversary.
+(3) A business entity organized under the laws of a foreign
+adversary.
+(4) A business entity headquartered in a foreign adversary.
+(5) A business entity with a controlling person that is one (1)
+of the following:
+(A) An individual who is a citizen of a foreign adversary.
+(B) An individual who is domiciled in a foreign adversary.
+(C) A business entity or other entity, including a
+governmental entity, that is owned or controlled by an
+individual described in subdivision (1) or (2), or is directly
+controlled by the government of a foreign adversary.
+The term, as used in subdivisions (1), (2), (5)(A), and (5)(B), does
+not include an individual who holds dual citizenship with a foreign
+adversary and the United States, an individual who is a citizen or
+lawful permanent resident of the United States, or an individual
+who has been granted asylum in the United States.
+(b) The term includes an agent, a trustee, or a fiduciary acting
+on behalf of a prohibited person.
+Sec. 7. Except as provided in section 7.5 of this chapter, after
+June 30, 2026, a prohibited person may not do any of the following:
+SEA 256 — CC 1
+
+14
+(1) Acquire by grant, purchase, devise, descent, or otherwise
+any real property located in Indiana.
+(2) Acquire by grant, purchase, devise, descent, or otherwise
+any mineral right or water or riparian right on any real
+property located in Indiana.
+(3) Enter into a new lease agreement as a lessee for any real
+property located in Indiana. This subdivision does not apply
+to a lease agreement to which the following apply:
+(A) The real property that is the subject of the lease
+agreement will be used only for residential purposes.
+(B) The lease agreement is for a term of not more than
+twenty-four (24) months.
+(4) Enter into a new lease agreement for any mineral right or
+riparian right on any real property located in Indiana.
+Sec. 7.5. An individual who has a valid, unexpired
+nonimmigrant visa may purchase real property located in Indiana
+if:
+(1) the individual's visa is valid for more than twelve (12)
+months after the acquisition of the real property;
+(2) the real property is zoned for single family residential use;
+(3) the real property is not more than one-half (1/2) acre; and
+(4) the individual has been determined not to be an agent of a
+foreign adversary.
+Sec. 8. (a) This section applies to a prohibited person that owns
+an interest in real property located in Indiana on July 1, 2026.
+(b) A prohibited person that owns an interest in real property
+located in Indiana on July 1, 2026, shall not act as an agent of a
+foreign adversary.
+(c) The attorney general may bring an action under section 9 of
+this chapter to require divestiture of a prohibited person's real
+property interest only if the attorney general establishes, by clear
+and convincing evidence, that the prohibited person is acting as an
+agent of a foreign adversary.
+(d) If the attorney general makes a prima facie showing under
+subsection (c), the burden of proof shifts to the prohibited person
+to demonstrate, by a preponderance of the evidence, that the
+ownership or control of the real property does not present a risk of
+the prohibited person acting as an agent of a foreign adversary.
+(e) A court may not order divestiture under section 9 of this
+chapter unless the court enters written findings of fact and
+conclusions of law establishing that the attorney general has
+satisfied the burden required under subsection (c) and that
+SEA 256 — CC 1
+
+15
+divestiture is permitted under this section.
+Sec. 9. (a) Upon receipt of information that leads the attorney
+general to believe a prohibited person has violated section 7, 7.5, or
+8 of this chapter, the attorney general shall investigate the alleged
+violation and may issue subpoenas requiring the:
+(1) appearance of witnesses;
+(2) production of relevant records; and
+(3) giving of relevant testimony.
+(b) The attorney general shall enforce a violation of section 7,
+7.5, or 8 of this chapter by commencing a receivership proceeding
+under IC 32-30-5-1 and selling the real property or the interest in
+real property through the receivership. The following apply to a
+receivership proceeding under this section:
+(1) Proceeds of the sale shall be paid as follows:
+(A) To lienholders, in their order of priority, except for
+liens that under the terms of the sale are to remain on the
+property.
+(B) The costs of the receivership and sale, including
+reasonable attorney's fees and expert fees.
+(C) No proceeds shall be distributed from the receivership
+sale to the prohibited person. Any excess proceeds are
+forfeited and shall be transferred to the state general fund
+by the receiver.
+(2) If a receivership proceeding is initiated under this section,
+the prohibited person is personally liable for a civil penalty in
+the amount of ten percent (10%) of the market value of the
+real property, payable to the state general fund.
+(3) At the receivership sale, lienholders shall be able to have
+a credit bid in an amount that is not more than the amount
+owed to the lienholder on the date of the sale, as established in
+the court order for the sale of the property.
+(4) Upon commencement of an action under this section, the
+attorney general shall promptly file a notice of lis pendens
+with the clerk of court. Upon the entry of an order for the sale
+of the real property under this section, the attorney general
+shall promptly record a copy of the order in the office of the
+recorder of the county where the property is located.
+(c) The responsibility for determining whether an individual or
+other entity is subject to section 7, 7.5, or 8 of this chapter rests
+solely with the prohibited person and the attorney general and no
+other individual or entity. An individual or other entity who is not
+a prohibited person shall bear no civil or criminal liability for
+SEA 256 — CC 1
+
+16
+failing to determine or make inquiry of whether an individual or
+other entity is a prohibited person.
+(d) Except for an interest created after the effective date of the
+lis pendens notice filed under subsection (b)(4), divestiture of a
+prohibited person's title under this section shall not be a basis to
+void, invalidate, or otherwise extinguish any bona fide mortgage,
+lien, or other interest granted by, through, or under the prohibited
+person. An interest created after the effective date of the lis
+pendens notice filed under subsection (b)(4) is void upon entry of
+an order for the sale of the real property under this section.
+SECTION 6. IC 34-30-2.1-525.4 IS REPEALED [EFFECTIVE
+JULY 1, 2026]. Sec. 525.4. IC 32-22-3-4.5(c) (Concerning agricultural
+land purchased or leased by a prohibited person).
+SECTION 7. IC 34-30-2.1-525.5 IS REPEALED [EFFECTIVE
+JULY 1, 2026]. Sec. 525.5. IC 32-22-3-6.5(c) (Concerning agricultural
+land held by a prohibited person).
+SECTION 8. IC 34-30-2.1-525.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 525.6. IC 32-22-3.5-9 (Concerning
+land held by a prohibited person).
+SECTION 9. IC 36-1-32-3, AS ADDED BY P.L.136-2024,
+SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 3. (a) A unit may not enter into a sister city
+agreement or any cooperative agreement with a prohibited person.
+(b) Any agreement or cooperative agreement between a unit and
+a prohibited person is contrary to public policy and is void and
+unenforceable.
+SECTION 10. An emergency is declared for this act.
+SEA 256 — CC 1
+
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date: Time:
+SEA 256 — CC 1
+
+[DELETED:  1 P o T C w a c p c n t]
+[DELETED:  A b e o o e i ]
+[DELETED:  m c a p r t c t A b o t p u t s m b t d o c o a f t m s o r t a a f i a a a r a e o  A p w a a d o i o a h f c o a m o ( A p a a a c]
+[DELETED:  A p a a a c a a a c a o o a o a o d b t U S]
+[DELETED:  a c r s i a t I t r i a p t n o e I t r i a a a c a t c f p t q t A c s o t n o t]
+[DELETED:  b a a t n a a o a a d o t f s p p o p a d t p]
+[DELETED:  t r t b f u t c t i b a p o e m b a a o a f o t a g m e a d t d w t e i a o e o t a g d a o a f t o i t g n t t p o e i a a o a f d i a p d u]
+[DELETED:  t a p o e i a a o a f A d u s 1 t c t g d t t d w]
+[DELETED:  7 A a E o C F t o e i a q p a a s i a a a r a e o  3 A u i t c " p ( o t f f o s a t u]
+[DELETED:  8 ( B A 1 2 a s e m n a a f s i a q A o s r t t f s A a i i p o o t r t t f s A p e c s o W t f s o t f s s o t g o t f]
+[DELETED:  g o a f a o s i t w r o f t p t s e 9 ( A f s w i a i a s i a a f i a r m e t f s i t q 1 A f s w i e i a q a a s e i m i e i s p t t]
+[DELETED:  a t a p e a t a p e ( o a F B E t H C o o u t c o a f a t e t e s i o c i a a a r a e o  a c p c n]
+[DELETED:  a o a d o a o i w A b e o o e i ]
+[DELETED:  T r p t i t s o t l 7 A i w h a v u d b a p o t e t t u t c e w f o f a o l e t t a g h t b r u s ( a t]
+[DELETED:  T c o t r a s i]
+[DELETED:  A i c a t e d o t l A A N S T R A F 9 I 3 A A B P]
+[DELETED:  T]

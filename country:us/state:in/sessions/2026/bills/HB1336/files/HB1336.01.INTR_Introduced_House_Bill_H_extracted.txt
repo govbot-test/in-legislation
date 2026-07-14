@@ -1,0 +1,1837 @@
+Title: HOUSE BILL No. 1336
+Official Title: HOUSE BILL No. 1336
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 23-19-4; IC 23-19-4.3.
+Synopsis: Securities and investment adviser representatives. Exempts
+a merger and acquisition broker from registering as a broker-dealer
+under certain circumstances. Requires an applicant seeking to register
+as an agent of a broker-dealer in Indiana to pass financial industry
+regulatory authority (FINRA) examinations unless certain exceptions
+apply. Requires an applicant seeking to register as an investment
+adviser representative in Indiana to pass FINRA examinations unless
+certain exceptions apply. Provides that under certain circumstances an
+agent of a broker-dealer or an investment adviser representative may
+have the validity of the individual's FINRA qualifying examinations
+extended. Requires an investment adviser representative to participate
+in a continuing education program.
+Effective: July 1, 2026.
+Carbaugh
+January 6, 2026, read first time and referred to Committee on Financial Institutions.
+2026 IN 1336—LS 7079/DI 154
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1336
+A BILL FOR AN ACT to amend the Indiana Code concerning
+business and other associations.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 23-19-4-1, AS ADDED BY P.L.27-2007,
+2 SECTION 23, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. (a) It is unlawful for a person to transact
+4 business in this state as a broker-dealer unless the person is registered
+5 under this article as a broker-dealer or is exempt from registration as
+6 a broker-dealer under section 1.5 of this chapter or subsection (b) or
+7 (d).
+8 (b) The following persons are exempt from the registration
+9 requirement of subsection (a):
+10 (1) A broker-dealer without a place of business in this state if its
+11 only transactions effected in this state are with:
+12 (A) the issuer of the securities involved in the transactions;
+13 (B) a broker-dealer registered as a broker-dealer under this
+14 article or not required to be registered as a broker-dealer under
+15 this article;
+16 (C) an institutional investor;
+17 (D) a nonaffiliated federal covered investment adviser with
+2026 IN 1336—LS 7079/DI 154
+2
+1 investments under management in excess of one hundred
+2 million dollars ($100,000,000) acting for the account of others
+3 under discretionary authority in a signed record;
+4 (E) a bona fide preexisting customer whose principal place of
+5 residence is not in this state, and the person is registered as a
+6 broker-dealer under the Securities Exchange Act of 1934 or
+7 not required to be registered under the Securities Exchange
+8 Act of 1934 and is registered under the securities act of the
+9 state in which the customer maintains a principal place of
+10 residence;
+11 (F) a bona fide preexisting customer whose principal place of
+12 residence is in this state but who was not present in this state
+13 when the customer relationship was established, if:
+14 (i) the broker-dealer is registered under the Securities
+15 Exchange Act of 1934 or not required to be registered under
+16 the Securities Exchange Act of 1934 and is registered under
+17 the securities laws of the state in which the customer
+18 relationship was established and where the customer had
+19 maintained a principal place of residence; and
+20 (ii) within forty-five (45) days after the customer's first
+21 transaction in this state, the person files an application for
+22 registration as a broker-dealer in this state and a further
+23 transaction is not effected more than seventy-five (75) days
+24 after the date on which the application is filed, or, if earlier,
+25 the date on which the commissioner notifies the person that
+26 the commissioner has denied the application for registration
+27 or has stayed the pendency of the application for good cause;
+28 (G) not more than three (3) customers in this state during the
+29 previous twelve (12) months, in addition to those customers
+30 specified in clauses (A) through (F) and under clause (H), if
+31 the broker-dealer is registered under the Securities Exchange
+32 Act of 1934 or not required to be registered under the
+33 Securities Exchange Act of 1934 and is registered under the
+34 securities act of the state in which the broker-dealer has its
+35 principal place of business; and
+36 (H) any other person exempted by rule adopted or order issued
+37 under this article.
+38 (2) A person that deals solely in United States government
+39 securities and is supervised as a dealer in government securities
+40 by the Board of Governors of the Federal Reserve System, the
+41 Comptroller of the Currency, the Federal Deposit Insurance
+42 Corporation, or the Office of Thrift Supervision.
+2026 IN 1336—LS 7079/DI 154
+3
+1 (c) It is unlawful for a broker-dealer, or for an issuer engaged in
+2 offering, offering to purchase, purchasing, or selling securities in this
+3 state, directly or indirectly, to employ or associate with an individual
+4 to engage in an activity related to securities transactions in this state if
+5 the registration of the individual is suspended or revoked or the
+6 individual is barred from employment or association with a
+7 broker-dealer, an issuer, an investment adviser, or a federal covered
+8 investment adviser by an order of the commissioner under this article,
+9 the Securities and Exchange Commission, or a self-regulatory
+10 organization. A broker-dealer or issuer does not violate this subsection
+11 if the broker-dealer or issuer did not know and in the exercise of
+12 reasonable care could not have known, of the suspension, revocation,
+13 or bar. Upon request from a broker-dealer or issuer and for good cause,
+14 an order under this article may modify or waive, in whole or in part, the
+15 application of the prohibitions of this subsection to the broker-dealer.
+16 (d) A rule adopted or order issued under this article may permit:
+17 (1) a broker-dealer that is registered in Canada or another foreign
+18 jurisdiction and that does not have a place of business in this state
+19 to effect transactions in securities with or for, or attempt to effect
+20 the purchase or sale of any securities by:
+21 (A) an individual from Canada or another foreign jurisdiction
+22 who is temporarily present in this state and with whom the
+23 broker-dealer had a bona fide customer relationship before the
+24 individual entered the United States;
+25 (B) an individual from Canada or another foreign jurisdiction
+26 who is present in this state and whose transactions are in a
+27 self-directed tax advantaged retirement plan of which the
+28 individual is the holder or contributor in that foreign
+29 jurisdiction; or
+30 (C) an individual who is present in this state, with whom the
+31 broker-dealer customer relationship arose while the individual
+32 was temporarily or permanently resident in Canada or the
+33 other foreign jurisdiction; and
+34 (2) an agent who represents a broker-dealer that is exempt under
+35 this subsection to effect transactions in securities or attempt to
+36 effect the purchase or sale of securities in this state as permitted
+37 for a broker-dealer described in subdivision (1).
+38 SECTION 2. IC 23-19-4-1.5 IS ADDED TO THE INDIANA CODE
+39 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+40 1, 2026]: Sec. 1.5. (a) As used in this section, "business combination
+41 related shell company" has the meaning set forth in 15 U.S.C.
+42 78o(b)(13)(E)(i), as in effect on July 1, 2026.
+2026 IN 1336—LS 7079/DI 154
+4
+1 (b) As used in this section, "eligible privately held company" has
+2 the meaning set forth in 15 U.S.C. 78o(b)(13)(E)(iii), as in effect on
+3 July 1, 2026.
+4 (c) As used in this section, "merger and acquisition broker" has
+5 the meaning set forth in 15 U.S.C. 78o(b)(13)(E)(iv), as in effect on
+6 July 1, 2026.
+7 (d) As used in this section, "passive buyer" means a person or
+8 a group of people that acquire ownership of an eligible privately
+9 held company, but does not direct the management or policies of
+10 the eligible privately held company after the transaction.
+11 (e) As used in this section, "shell company" has the meaning set
+12 forth in 15 U.S.C. 78o(b)(13)(E)(v), as in effect on July 1, 2026.
+13 (f) Except as provided in subsections (g) and (h), a merger and
+14 acquisition broker shall be exempt from registration as a
+15 broker-dealer under this article.
+16 (g) A merger and acquisition broker is not exempt from
+17 registration under subsection (f) if the merger and acquisition
+18 broker does any of the following:
+19 (1) Directly or indirectly, in connection with the transfer of
+20 ownership of an eligible privately held company, receives,
+21 holds, transmits, or has custody of the funds or securities to be
+22 exchanged by the parties to the transaction.
+23 (2) Engages on behalf of an issuer in a public offering of any
+24 class of securities that is registered, or is required to be
+25 registered, with the Securities and Exchange Commission
+26 under 15 U.S.C. 78l.
+27 (3) Engages on behalf of an issuer in a public offering of any
+28 class of securities that the issuer files, or is required to file,
+29 periodic information, documents, and reports under 15 U.S.C.
+30 78o(d).
+31 (4) Engages on behalf of any party in a transaction involving
+32 a shell company other than a business combination related
+33 shell company.
+34 (5) Directly or indirectly, through any of its affiliates,
+35 provides financing related to the transfer of ownership of an
+36 eligible privately held company.
+37 (6) Assists any party in obtaining financing from an
+38 unaffiliated third party without:
+39 (A) complying with all applicable laws in connection with
+40 providing the assistance described in this subdivision,
+41 including, if applicable, Regulation T (12 CFR 220 et seq.);
+42 and
+2026 IN 1336—LS 7079/DI 154
+5
+1 (B) disclosing any compensation received by the merger
+2 and acquisition broker in writing to the party.
+3 (7) Represents both the buyer and the seller in the same
+4 transaction without providing a clear written disclosure
+5 describing who the merger and acquisition broker represents
+6 and obtaining written consent from the buyer and the seller
+7 to the joint representation.
+8 (8) Facilitates a transaction with a group of buyers formed
+9 with the assistance of the merger and acquisition broker to
+10 acquire an eligible privately held company.
+11 (9) Engages in a transaction involving the transfer of
+12 ownership of an eligible privately held company to a passive
+13 buyer or a group of passive buyers.
+14 (10) Binds a party to a transfer of ownership of an eligible
+15 privately held company.
+16 (h) A merger and acquisition broker or an officer, director,
+17 member, manager, partner, or employee of the merger and
+18 acquisition broker is not exempt from registration under
+19 subsection (f) if the merger and acquisition broker or an officer,
+20 director, member, manager, partner, or employee of the merger
+21 and acquisition broker:
+22 (1) has been barred from association with a broker-dealer by
+23 the Securities and Exchange Commission, any state, or any
+24 self-regulatory organization; or
+25 (2) is suspended from association with a broker-dealer.
+26 SECTION 3. IC 23-19-4-6, AS AMENDED BY P.L.114-2010,
+27 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 6. (a) A person shall register as a broker-dealer,
+29 agent, investment adviser, or investment adviser representative by
+30 filing an application and a consent to service of process complying with
+31 IC 23-19-6-11, satisfying the examination requirements of
+32 IC 23-19-4.3, and paying the fee specified in section 10 of this chapter
+33 and any reasonable fees charged by the designee of the commissioner
+34 for processing the filing. The application must contain:
+35 (1) the information or record required for the filing of a uniform
+36 application; and
+37 (2) upon request by the commissioner, any other financial or other
+38 information or record that the commissioner determines is
+39 appropriate.
+40 (b) If the information or record contained in an application filed
+41 under subsection (a) is or becomes inaccurate or incomplete in a
+42 material respect, the registrant shall promptly file a correcting
+2026 IN 1336—LS 7079/DI 154
+6
+1 amendment.
+2 (c) At the time of application for an initial registration as an
+3 investment adviser representative under this article, the commissioner
+4 shall require each applicant to submit fingerprints for a national
+5 criminal history background check (as defined in IC 10-13-3-12) by the
+6 Federal Bureau of Investigation, for use by the commissioner in
+7 determining whether the applicant should be denied registration under
+8 this chapter for any reason set forth in section 12(d) of this chapter. The
+9 applicant shall pay any fees or costs associated with the fingerprints
+10 and background check required under this subsection.
+11 (d) If an order is not in effect and a proceeding is not pending under
+12 section 12 of this chapter, registration becomes effective at noon on the
+13 forty-fifth day after a completed application is filed, unless the
+14 registration is denied. A rule adopted or order issued under this article
+15 may set an earlier effective date or may defer the effective date until
+16 noon on the forty-fifth day after the filing of any amendment
+17 completing the application.
+18 (e) A registration is effective until midnight on December 31 of the
+19 year for which the application for registration is filed. Unless an order
+20 is in effect under section 12 of this chapter, a registration may be
+21 automatically renewed each year by filing such records as are required
+22 by rule adopted or order issued under this article, by paying the fee
+23 specified in section 10 of this chapter, and by paying costs charged by
+24 the designee of the commissioner for processing the filings.
+25 (f) A rule adopted or order issued under this article may impose
+26 other conditions, not inconsistent with the National Securities Markets
+27 Improvement Act of 1996. An order issued under this article may
+28 waive, in whole or in part, specific requirements in connection with
+29 registration as are in the public interest and for the protection of
+30 investors.
+31 SECTION 4. IC 23-19-4-11, AS AMENDED BY P.L.1-2010,
+32 SECTION 94, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2026]: Sec. 11. (a) Subject to Section 15(h) of the Securities
+34 Exchange Act of 1934 (15 U.S.C. 78o(h)) or Section 222 of the
+35 Investment Advisers Act of 1940 (15 U.S.C. 80b-18a), a rule adopted
+36 or order issued under this article may establish minimum financial
+37 requirements for broker-dealers registered or required to be registered
+38 under this article and investment advisers registered or required to be
+39 registered under this article.
+40 (b) Subject to Section 15(h) of the Securities Exchange Act of 1934
+41 (15 U.S.C. 78o(h)) or Section 222(b) of the Investment Advisers Act
+42 of 1940 (15 U.S.C. 80b-18a(b)), a broker-dealer registered or required
+2026 IN 1336—LS 7079/DI 154
+7
+1 to be registered under this article and an investment adviser registered
+2 or required to be registered under this article shall file such financial
+3 reports as are required by a rule adopted or order issued under this
+4 article. If the information contained in a record filed under this
+5 subsection is or becomes inaccurate or incomplete in a material
+6 respect, the registrant shall promptly file a correcting amendment.
+7 (c) Subject to Section 15(h) of the Securities Exchange Act of 1934
+8 (15 U.S.C. 78o(h)) or Section 222 of the Investment Advisers Act of
+9 1940 (15 U.S.C. 80b-18a):
+10 (1) a broker-dealer registered or required to be registered under
+11 this article and an investment adviser registered or required to be
+12 registered under this article shall make and maintain the accounts,
+13 correspondence, memoranda, papers, books, and other records
+14 required by rule adopted or order issued under this article;
+15 (2) broker-dealer records required to be maintained under
+16 subdivision (1) may be maintained in any form of data storage
+17 acceptable under Section 17(a) of the Securities Exchange Act of
+18 1934 (15 U.S.C. 78q(a)) if they are readily accessible to the
+19 commissioner; and
+20 (3) investment adviser records required to be maintained under
+21 subdivision (1) may be maintained in any form of data storage
+22 required by rule adopted or order issued under this article.
+23 (d) The records of a broker-dealer registered or required to be
+24 registered under this article and of an investment adviser registered or
+25 required to be registered under this article are subject to such
+26 reasonable periodic, special, or other audits or inspections by a
+27 representative of the commissioner, within or outside this state, as the
+28 commissioner considers necessary or appropriate in the public interest
+29 and for the protection of investors. An audit or inspection may be made
+30 at any time and without prior notice. The commissioner may copy, and
+31 remove for audit or inspection copies of, all records the commissioner
+32 reasonably considers necessary or appropriate to conduct the audit or
+33 inspection. The commissioner may assess a reasonable charge for
+34 conducting an audit or inspection under this subsection.
+35 (e) Subject to Section 15(h) of the Securities Exchange Act of 1934
+36 (15 U.S.C. 78o(h)) or Section 222 of the Investment Advisers Act of
+37 1940 (15 U.S.C. 80b-18a), a rule adopted or order issued under this
+38 article may require a broker-dealer or investment adviser that has
+39 custody of or discretionary authority over funds or securities of a
+40 customer or client to obtain insurance or post a bond or other
+41 satisfactory form of security in an amount not to exceed fifty thousand
+42 dollars ($50,000). The commissioner may determine the requirements
+2026 IN 1336—LS 7079/DI 154
+8
+1 of the insurance, bond, or other satisfactory form of security. Insurance
+2 or a bond or other satisfactory form of security may not be required of
+3 a broker-dealer registered under this article whose net capital exceeds,
+4 or of an investment adviser registered under this article whose
+5 minimum financial requirements exceed, the amounts required by rule
+6 or order under this article. The insurance, bond, or other satisfactory
+7 form of security must permit an action by a person to enforce any
+8 liability on the insurance, bond, or other satisfactory form of security
+9 if instituted within the time limitations in IC 23-19-5-9(g).
+10 (f) Subject to Section 15(h) of the Securities Exchange Act of 1934
+11 (15 U.S.C. 78o(h)) or Section 222 of the Investment Advisers Act of
+12 1940 (15 U.S.C. 80b-18a), an agent may not have custody of funds or
+13 securities of a customer except under the supervision of a broker-dealer
+14 and an investment adviser representative may not have custody of
+15 funds or securities of a client except under the supervision of an
+16 investment adviser or a federal covered investment adviser. A rule
+17 adopted or order issued under this article may prohibit, limit, or impose
+18 conditions on a broker-dealer regarding custody of funds or securities
+19 of a customer and on an investment adviser regarding custody of
+20 securities or funds of a client.
+21 (g) With respect to an investment adviser registered or required to
+22 be registered under this article, a rule adopted or order issued under
+23 this article may require that information or other records be furnished
+24 or disseminated to clients or prospective clients in this state as
+25 necessary or appropriate in the public interest and for the protection of
+26 investors and advisory clients.
+27 (h) A rule adopted or order issued under this article may require an
+28 individual registered under section 2 or 4 of this chapter to participate
+29 in a continuing education program approved by the Securities and
+30 Exchange Commission and administered by a self-regulatory
+31 organization or, in the absence of such a program, a rule adopted or
+32 order issued under this article may require continuing education for an
+33 individual registered under section 4 of this chapter.
+34 (i) (h) Subject to section 11.5 of this chapter, the commissioner may
+35 annually select as many as twenty-five percent (25%) of all Indiana
+36 home and branch offices of registered broker-dealers for completion of
+37 compliance reports. Subject to section 11.5 of this chapter, each
+38 broker-dealer office that is selected shall file its compliance report
+39 according to rules adopted by the commissioner under this article not
+40 later than forty-five (45) days after being notified of selection under
+41 this subsection. No charges or other examination fees may be assessed
+42 against a registered broker-dealer as a result of the examination of a
+2026 IN 1336—LS 7079/DI 154
+9
+1 compliance report filed under this subsection unless the examination
+2 results in an investigation or examination made under IC 23-19-6-2(a).
+3 SECTION 5. IC 23-19-4-11.5, AS ADDED BY P.L.149-2009,
+4 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]: Sec. 11.5. (a) As used in this section, "office of
+6 supervisory jurisdiction" has the meaning set forth in the National
+7 Association of Securities Dealers Conduct Rule 3010(g) (as in effect
+8 on January 1, 2009).
+9 (b) A broker-dealer registered or required to be registered under this
+10 article may not be selected for completion of a compliance report under
+11 section 11(i) 11(h) of this chapter in consecutive years unless the
+12 commissioner has reason to believe that the broker-dealer has
+13 committed a violation of this article.
+14 (c) The commissioner may not select for completion of a
+15 compliance report under section 11(i) 11(h) of this chapter any office
+16 that:
+17 (1) reports to an office of supervisory jurisdiction located within
+18 Indiana;
+19 (2) reflects the address of the office of supervisory jurisdiction
+20 described in subdivision (1) on all of the office's business cards,
+21 stationery, advertisements, and other communications to the
+22 public; and
+23 (3) is included in the definition of branch office under the
+24 National Association of Securities Dealers Conduct Rule 3010(g)
+25 because the office:
+26 (A) handles funds or securities as described under the National
+27 Association of Securities Dealers Conduct Rule
+28 3010(g)(2)(A)(ii)(c); or
+29 (B) uses the residential address on all business cards,
+30 stationery, advertisements, or other communications to the
+31 public under the National Association of Securities Dealers
+32 Conduct Rule 3010(g)(2)(A)(ii)(d).
+33 SECTION 6. IC 23-19-4-12, AS AMENDED BY P.L.205-2021,
+34 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 12. (a) If the commissioner finds that the order is
+36 in the public interest and subsection (d) authorizes the action, an order
+37 issued under this article may deny an application, or may condition or
+38 limit registration, of an applicant to be a broker-dealer, agent,
+39 investment adviser, or investment adviser representative and, if the
+40 applicant is a broker-dealer or investment adviser, of a partner, officer,
+41 director, or person having a similar status or performing similar
+42 functions, or a person directly or indirectly in control of the
+2026 IN 1336—LS 7079/DI 154
+10
+1 broker-dealer or investment adviser.
+2 (b) If the commissioner finds that the order is in the public interest
+3 and subsection (d) authorizes the action, an order issued under this
+4 article may revoke, suspend, condition, or limit the registration of a
+5 registrant and, if the registrant is a broker-dealer or investment adviser,
+6 of a partner, officer, director, or person having a similar status or
+7 performing similar functions, or a person directly or indirectly in
+8 control of the broker-dealer or investment adviser. However, the
+9 commissioner may not:
+10 (1) institute a revocation or suspension proceeding under this
+11 subsection based on an order issued under a law of another state
+12 that is reported to the commissioner or a designee of the
+13 commissioner more than one (1) year after the date of the order on
+14 which it is based; or
+15 (2) under subsection (d)(5)(A) and (d)(5)(B), issue an order on
+16 the basis of an order issued under the securities act of another
+17 state unless the other order was based on conduct for which
+18 subsection (d) would authorize the action had the conduct
+19 occurred in this state.
+20 (c) If the commissioner finds that the order is in the public interest
+21 and subsection (d)(1), (d)(2), (d)(3), (d)(4), (d)(5), (d)(6), (d)(8), (d)(9),
+22 (d)(11), (d)(12), or (d)(13) authorizes the action, an order under this
+23 article may censure, impose a bar, or impose a civil penalty in an
+24 amount not to exceed a maximum of ten thousand dollars ($10,000) per
+25 violation on a registrant, and, if the registrant is a broker-dealer or
+26 investment adviser, a partner, officer, director, or person having a
+27 similar status or performing similar functions, or a person directly or
+28 indirectly in control of the broker-dealer or investment adviser.
+29 (d) A person may be disciplined under subsections (a) through (c)
+30 if the person:
+31 (1) has filed an application for registration in this state under this
+32 article or the predecessor act within the previous ten (10) years,
+33 which, as of the effective date of registration or as of any date
+34 after filing in the case of an order denying effectiveness, was
+35 incomplete in any material respect or contained a statement that,
+36 in light of the circumstances under which it was made, was false
+37 or misleading with respect to a material fact;
+38 (2) knowingly violated or knowingly failed to comply with this
+39 article or the predecessor act or a rule adopted or order issued
+40 under this article or the predecessor act within the previous ten
+41 (10) years;
+42 (3) has been convicted of a felony or within the previous ten (10)
+2026 IN 1336—LS 7079/DI 154
+11
+1 years has been convicted of a misdemeanor involving a security,
+2 a commodity future or option contract, or an aspect of a business
+3 involving securities, commodities, investments, franchises,
+4 insurance, banking, or finance;
+5 (4) is enjoined or restrained by a court with jurisdiction in an
+6 action instituted by the commissioner under this article or the
+7 predecessor act, a state, the Securities and Exchange Commission,
+8 or the United States from engaging in or continuing an act,
+9 practice, or course of business involving an aspect of a business
+10 involving securities, commodities, investments, franchises,
+11 insurance, banking, or finance;
+12 (5) is the subject of an order, issued after notice and opportunity
+13 for hearing, by:
+14 (A) the securities, depository institution, insurance, or other
+15 financial services regulator of a state or by the Securities and
+16 Exchange Commission or other federal agency denying,
+17 revoking, barring, or suspending registration as a
+18 broker-dealer, agent, investment adviser, federal covered
+19 investment adviser, or investment adviser representative;
+20 (B) the securities regulator of a state or the Securities and
+21 Exchange Commission against a broker-dealer, agent,
+22 investment adviser, investment adviser representative, or
+23 federal covered investment adviser;
+24 (C) the Securities and Exchange Commission or a
+25 self-regulatory organization suspending or expelling the
+26 registrant from membership in the self-regulatory
+27 organization;
+28 (D) a court adjudicating a United States Postal Service fraud
+29 order;
+30 (E) the insurance regulator of a state denying, suspending, or
+31 revoking registration as an insurance agent;
+32 (F) a depository institution regulator suspending or barring the
+33 person from the depository institution business; or
+34 (G) any state regulatory body or organization governing real
+35 estate brokers or sales persons denying, suspending, or
+36 revoking a person's registration or license in the real estate
+37 industry;
+38 (6) is the subject of an adjudication or determination, after notice
+39 and opportunity for hearing, by the Securities and Exchange
+40 Commission, the Commodity Futures Trading Commission, the
+41 Federal Trade Commission, a federal depository institution
+42 regulator, or a depository institution, insurance, or other financial
+2026 IN 1336—LS 7079/DI 154
+12
+1 services regulator of a state that the person willfully violated the
+2 Securities Act of 1933, the Securities Exchange Act of 1934, the
+3 Investment Advisers Act of 1940, the Investment Company Act
+4 of 1940, or the Commodity Exchange Act, the securities or
+5 commodities law of a state, or a federal or state law under which
+6 a business involving investments, franchises, insurance, banking,
+7 or finance is regulated;
+8 (7) is insolvent, either because the person's liabilities exceed the
+9 person's assets or because the person cannot meet the person's
+10 obligations as they mature, but the commissioner may not enter an
+11 order against an applicant or registrant under this subdivision
+12 without a finding of insolvency as to the applicant or registrant;
+13 (8) refuses to allow or otherwise impedes the commissioner from
+14 conducting an audit or inspection under section 11(d) of this
+15 chapter or refuses access to a registrant's office to conduct an
+16 audit or inspection under section 11(d) of this chapter;
+17 (9) has failed to reasonably supervise an agent, investment adviser
+18 representative, or other individual, if the agent, investment
+19 adviser representative, or other individual was subject to the
+20 person's supervision and committed a violation of this article or
+21 the predecessor act or a rule adopted or order issued under this
+22 article or the predecessor act within the previous ten (10) years;
+23 (10) has not paid the proper filing fee within thirty (30) days after
+24 having been notified by the commissioner of a deficiency, but the
+25 commissioner shall vacate an order under this subdivision when
+26 the deficiency is corrected;
+27 (11) after notice and opportunity for a hearing, has been found
+28 within the previous ten (10) years:
+29 (A) by a court with jurisdiction to have willfully violated the
+30 laws of a foreign jurisdiction under which the business of
+31 securities, commodities, investment, franchises, insurance,
+32 banking, or finance is regulated;
+33 (B) to have been the subject of an order of a securities
+34 regulator of a foreign jurisdiction denying, revoking, or
+35 suspending the right to engage in the business of securities as
+36 a broker-dealer, agent, investment adviser, investment adviser
+37 representative, or similar person; or
+38 (C) to have been suspended or expelled from membership by
+39 or participation in a securities exchange or securities
+40 association operating under the securities laws of a foreign
+41 jurisdiction;
+42 (12) is the subject of a cease and desist order issued by the
+2026 IN 1336—LS 7079/DI 154
+13
+1 Securities and Exchange Commission or issued under the
+2 securities, commodities, investment, franchise, banking, finance,
+3 or insurance laws of a state;
+4 (13) has engaged in dishonest or unethical practices in the
+5 securities, commodities, investment, franchise, banking, finance,
+6 or insurance business within the previous ten (10) years;
+7 (14) is not qualified on the basis of factors such as training,
+8 experience, and knowledge of the securities business. However,
+9 in the case of an application by an agent for a broker-dealer that
+10 is a member of a self-regulatory organization or by an individual
+11 for registration as an investment adviser representative, a denial
+12 order may not be based on this subdivision if the individual has
+13 successfully completed all examinations required by subsection
+14 (e). The commissioner may require an applicant for registration
+15 under section 2 or 4 of this chapter who has not been registered
+16 in a state within the two (2) years preceding the filing of an
+17 application in this state to successfully complete an examination;
+18 (15) is on the most recent tax warrant list supplied to the
+19 commissioner by the department of state revenue;
+20 (16) is an individual who is:
+21 (A) an applicant for registration as an agent for a broker-dealer
+22 or as an investment adviser representative; or
+23 (B) registered as an agent for a broker-dealer or as an
+24 investment adviser representative;
+25 and has failed to comply with a court order imposing a child
+26 support obligation; or
+27 (17) fails to comply with the disclosure requirements set forth
+28 under IC 24-4.9-3.
+29 (e) Subject to IC 23-19-4.3, a rule adopted or order issued under
+30 this article may require that an examination, including an examination
+31 developed or approved by an organization of securities regulators, be
+32 successfully completed by a class of individuals or all individuals. An
+33 order issued under this article may waive, in whole or in part, an
+34 examination as to an individual and a rule adopted under this article
+35 may waive, in whole or in part, an examination as to a class of
+36 individuals if the commissioner determines that the examination is not
+37 necessary or appropriate in the public interest and for the protection of
+38 investors.
+39 (f) The commissioner may suspend or deny an application
+40 summarily; restrict, condition, limit, or suspend a registration; or
+41 censure, bar, or impose a civil penalty on a registrant before final
+42 determination of an administrative proceeding. Upon the issuance of
+2026 IN 1336—LS 7079/DI 154
+14
+1 an order, the commissioner shall promptly notify each person subject
+2 to the order that the order has been issued, the reasons for the action,
+3 and that within fifteen (15) days after the receipt of a request in a
+4 record from the person the matter will be scheduled for a hearing. If a
+5 hearing is not requested and none is ordered by the commissioner
+6 within thirty (30) days after the date of service of the order, the order
+7 becomes final by operation of law. If a hearing is requested or ordered,
+8 the commissioner, after notice of and opportunity for hearing to each
+9 person subject to the order, may modify or vacate the order or extend
+10 the order until final determination.
+11 (g) An order may not be issued under this section, except under
+12 subsection (f), without:
+13 (1) appropriate notice to the applicant or registrant;
+14 (2) opportunity for hearing; and
+15 (3) findings of fact and conclusions of law in a record.
+16 (h) A person that controls, directly or indirectly, a person not in
+17 compliance with this section may be disciplined by order of the
+18 commissioner under subsections (a) through (c) to the same extent as
+19 the noncomplying person, unless the controlling person did not know,
+20 and in the exercise of reasonable care could not have known, of the
+21 existence of conduct that is a ground for discipline under this section.
+22 (i) The commissioner may not institute a proceeding under
+23 subsection (a), (b), or (c) based solely on material facts actually known
+24 by the commissioner unless an investigation or the proceeding is
+25 instituted within one (1) year after the commissioner actually acquires
+26 knowledge of the material facts.
+27 (j) All fines and penalties collected under this section shall be
+28 deposited into the securities division enforcement account as
+29 established by IC 23-19-6-1(f).
+30 SECTION 7. IC 23-19-4.3 IS ADDED TO THE INDIANA CODE
+31 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]:
+33 Chapter 4.3. Examination Requirements and Continuing
+34 Education
+35 Sec. 1. The following definitions apply throughout this chapter:
+36 (1) "Authorized provider" means a person that NASAA or its
+37 designee has authorized to provide continuing education
+38 content.
+39 (2) "Credit" means a unit that has been designated by
+40 NASAA as at least fifty (50) minutes of educational
+41 instruction.
+42 (3) "Ethics and professional responsibility continuing
+2026 IN 1336—LS 7079/DI 154
+15
+1 education content" means NASAA approved investment
+2 adviser representative continuing education content that
+3 addresses an investment adviser representative's ethical and
+4 regulatory obligations.
+5 (4) "FINRA" refers to the Financial Industry Regulatory
+6 Authority.
+7 (5) "Home state" means the state where the principal office
+8 and place of business of an investment adviser representative
+9 is located.
+10 (6) "NASAA" refers to the North American Securities
+11 Administrators Association or a committee designated by its
+12 board of directors.
+13 (7) "Products and practice continuing education content"
+14 means NASAA approved investment adviser continuing
+15 education content that addresses an investment adviser
+16 representative's continuing skills and knowledge regarding:
+17 (A) financial products;
+18 (B) investment features; and
+19 (C) practices;
+20 in the investment advisory industry.
+21 (8) "Reporting period" means one (1) twelve (12) month
+22 period as determined by NASAA.
+23 (9) "Series 7 examination" means the general securities
+24 representative examination administered by FINRA.
+25 (10) "Series 63 examination" means the uniform securities
+26 agent state law examination administered by FINRA.
+27 (11) "Series 65 examination" means the uniform investment
+28 adviser law examination administered by FINRA.
+29 (12) "Series 66 examination" means the uniform combined
+30 state law examination administered by FINRA.
+31 Sec. 2. (a) This section applies to an applicant seeking to register
+32 as an agent of a broker-dealer under IC 23-19-4.
+33 (b) Except as provided in subsections (c) through (e), an
+34 applicant must pass:
+35 (1) the Series 63 or Series 66 examination; and
+36 (2) any other examination required by the commissioner;
+37 within the two (2) years preceding the date of application.
+38 (c) An applicant is in compliance with the examination
+39 requirement under subsection (b) if the:
+40 (1) applicant has not been registered as an agent in any state
+41 for more than two (2) years but less than five (5) years;
+42 (2) applicant is a participant in the Maintaining Qualifications
+2026 IN 1336—LS 7079/DI 154
+16
+1 Program administered by FINRA;
+2 (3) applicant's FINRA qualifying examinations are valid
+3 through the applicant's participation in the Maintaining
+4 Qualifications Program administered by FINRA; and
+5 (4) applicant is a participant in the Examination Validity
+6 Extension Program for agents of broker-dealers administered
+7 by NASAA within two (2) years of agent registration
+8 termination.
+9 (d) An applicant is in compliance with the examination
+10 requirement in subsection (b)(2) if the:
+11 (1) applicant has not been registered as an agent in any state
+12 for more than two (2) years but less than five (5) years;
+13 (2) applicant is a participant in the Maintaining Qualifications
+14 Program administered by FINRA; and
+15 (3) applicant's FINRA qualifying examinations are valid
+16 through the individual's participation in the Maintaining
+17 Qualifications Program administered by FINRA.
+18 (e) The commissioner may waive any of the examination
+19 requirements under subsection (b).
+20 (f) For purposes of investment adviser representative
+21 registration, the validity of an applicant's investment adviser
+22 representative portion of the Series 66 examination may not be
+23 extended through participation in the Maintaining Qualifications
+24 Program administered by FINRA.
+25 Sec. 3. (a) This section applies to an applicant seeking to register
+26 as an investment adviser representative.
+27 (b) Except as provided in subsections (c) through (e), an
+28 applicant under this section must pass the:
+29 (1) Series 65 examination within the two (2) years preceding
+30 the date of application or the Series 7 and Series 66
+31 examination within the two (2) years preceding the date of
+32 application; and
+33 (2) Securities Industry Essentials Examination within the four
+34 (4) years preceding the date of application, if the applicant did
+35 not take the Series 65 examination within the two (2) years
+36 preceding the date of application.
+37 (c) If:
+38 (1) an applicant under this section has been designated as:
+39 (A) a Certified Financial Planner;
+40 (B) a Chartered Financial Consultant;
+41 (C) a Masters of Science and Financial Services;
+42 (D) a Chartered Financial Analyst;
+2026 IN 1336—LS 7079/DI 154
+17
+1 (E) a Personal Financial Specialist;
+2 (F) a Chartered Investment Counselor; or
+3 (G) any other designation that the commissioner considers
+4 to be equivalent to the Series 65 examination; and
+5 (2) the applicant's designation in subdivision (1) is current
+6 and in good standing with the organization that awarded the
+7 designation;
+8 the examination requirement in subsection (b) does not apply.
+9 (d) An applicant is in compliance with the examination
+10 requirement in subsection (b)(1) if the:
+11 (1) applicant has not been registered as an investment adviser
+12 representative in any state for more than two (2) years but
+13 less than five (5) years;
+14 (2) applicant is a participant in the Maintaining Qualifications
+15 Program administered by FINRA;
+16 (3) applicant's FINRA qualifying examinations are valid
+17 through the individual's participation in the Maintaining
+18 Qualifications Program administered by FINRA; and
+19 (4) applicant is a participant in the Examination Validity
+20 Extension Program for investment adviser representatives
+21 administered by NASAA within two (2) years of agent
+22 registration termination.
+23 (e) An applicant is in compliance with the examination
+24 requirement in subsection (b)(2) if the:
+25 (1) applicant has not been registered as an investment adviser
+26 representative in any state for more than two (2) years but
+27 less than five (5) years;
+28 (2) applicant is a participant in the Maintaining Qualifications
+29 Program administered by FINRA; and
+30 (3) applicant's FINRA qualifying examinations are valid
+31 through the individual's participation in the Maintaining
+32 Qualifications Program administered by FINRA.
+33 (f) The commissioner may waive any of the examination
+34 requirements under subsection (b).
+35 Sec. 4. (a) An individual who terminates the individual's
+36 registration as an investment adviser representative may have the
+37 validity of the individual's Series 65 examination and the
+38 investment adviser representative portion of the Series 66
+39 examination extended for a period of five (5) years, if the
+40 individual meets all of the following requirements:
+41 (1) The individual previously passed the examination for
+42 which the individual seeks to maintain validity under this
+2026 IN 1336—LS 7079/DI 154
+18
+1 subsection.
+2 (2) The individual was registered as an investment adviser
+3 representative for at least one (1) year immediately preceding
+4 the termination of the investment adviser representative
+5 registration.
+6 (3) The individual was not subject to a statutory
+7 disqualification as defined in Section 3(a)(39) of the Securities
+8 Exchange Act of 1934.
+9 (4) The individual does not have a deficiency under the
+10 investment adviser representative continuing education
+11 program described in section 6 of this chapter at the time the
+12 individual terminates the individual's investment adviser
+13 representative registration.
+14 (5) The individual completes annually on or before December
+15 31 of each calendar year that elapses after the individual's
+16 investment adviser representative registration is terminated:
+17 (A) six (6) credits of ethics and professional responsibility
+18 continuing education content offered by an authorized
+19 provider, including at least three (3) hours covering the
+20 topic of ethics; and
+21 (B) six (6) credits of products and practice continuing
+22 education content offered by an authorized provider.
+23 (b) An individual who complies with the Maintaining
+24 Qualification Program administered by FINRA is in compliance
+25 with subsection (a)(5)(B).
+26 Sec. 5. (a) Except as provided in subsections (b) and (c), an
+27 investment adviser representative registered under IC 23-19-4
+28 shall complete the following investment adviser representative
+29 continuing education requirements each reporting period:
+30 (1) Six (6) credits of investment adviser representative ethics
+31 and professional responsibility continuing education content
+32 offered by an authorized provider, with at least three (3)
+33 hours covering the topic of ethics.
+34 (2) Six (6) credits of investment adviser representative
+35 products and practice continuing education content offered by
+36 an authorized provider.
+37 (b) An investment adviser representative who is registered as an
+38 agent of a FINRA member broker-dealer and complies with
+39 FINRA's continuing education requirements is in compliance with
+40 subsection (a)(2) for each applicable reporting period if the FINRA
+41 continuing education content meets all of the following criteria as
+42 determined by NASAA:
+2026 IN 1336—LS 7079/DI 154
+19
+1 (1) The content of the program focuses on:
+2 (A) compliance;
+3 (B) regulatory;
+4 (C) ethical; and
+5 (D) sales practice;
+6 standards.
+7 (2) The content of the program is derived from:
+8 (A) state and federal investment advisory statutes;
+9 (B) rules and regulations;
+10 (C) securities industry rules and regulations; and
+11 (D) accepted standards and practices in the financial
+12 services industry.
+13 (3) The program requires that its participants demonstrate
+14 proficiency in the subject matter of the educational materials.
+15 (c) If an investment adviser representative who holds a
+16 designation that qualifies the individual for an examination waiver
+17 under section 3(c) of this chapter completes continuing education
+18 content as a condition of maintaining the individual's designation,
+19 the individual complies with subsection (a) if the continuing
+20 education content:
+21 (1) completed during the relevant reporting period by the
+22 investment adviser representative is mandatory to maintain
+23 the designation; and
+24 (2) provided by the designating organization during the
+25 relevant reporting period is NASAA approved investment
+26 adviser representative continuing education content.
+27 (d) An investment adviser representative who fails to comply
+28 with this section by the end of a reporting period will renew as "CE
+29 Inactive" at the close of the calendar year until the investment
+30 adviser representative completes and reports all required
+31 investment adviser representative continuing education credits. An
+32 investment adviser representative who is "CE Inactive" at the
+33 close of the next calendar year is not eligible for investment adviser
+34 representative registration or renewal of an investment adviser
+35 representative registration under IC 23-19-4.
+36 Sec. 6. If an investment adviser representative's registration is
+37 terminated, the individual shall complete the investment adviser
+38 representative continuing education requirements for all reporting
+39 periods that occurred between the time that the investment adviser
+40 representative's registration is terminated and when the individual
+41 became registered again under IC 23-19-4 unless the investment
+42 adviser representative:
+2026 IN 1336—LS 7079/DI 154
+20
+1 (1) passes the applicable examination described in section 3(b)
+2 of this chapter; or
+3 (2) receives an examination waiver under section 3(c) through
+4 3(e) of this chapter.
+5 Sec. 7. An authorized provider shall report the completion of an
+6 investment adviser representative's applicable investment adviser
+7 representative continuing education requirements to FINRA not
+8 more than thirty (30) days after the investment adviser
+9 representative completes the applicable investment adviser
+10 representative continuing education requirements.
+11 Sec. 8. An investment adviser representative registered or
+12 required to be registered in Indiana who is registered as an
+13 investment adviser representative in the individual's home state
+14 satisfies the requirements of section 5(a) of this chapter if:
+15 (1) the investment adviser representative's home state has
+16 continuing education requirements that are at least as
+17 stringent as the continuing education requirements of this
+18 chapter; and
+19 (2) the investment adviser representative is in compliance
+20 with the home state's investment adviser representative
+21 continuing education requirements.
+22 Sec. 9. An investment adviser representative who completes
+23 more than twelve (12) credits of continuing education for the
+24 reporting period may not carry forward the excess credits of
+25 continuing education.
+26 Sec. 10. The commissioner may waive any of the requirements
+27 in sections 5 through 9 of this chapter.
+28 SECTION 8. [EFFECTIVE JULY 1, 2026] (a) The securities
+29 division of the office of the secretary of state shall amend its
+30 administrative rules to conform with IC 23-19-4.3, as added by this
+31 act.
+32 (b) This SECTION expires July 1, 2029.
+2026 IN 1336—LS 7079/DI 154
+[DELETED:  t r6I]
+[DELETED:  1 I 2 A A B P T f p a e f t r6I]
+[DELETED:  m i e o o h t b i r u t S s l o t s i w t c f o 1 o n r t b r u t A p t d s i U S g o t C t F D I6I]
+[DELETED:  r o t i i s o r o t i b f e o a w  S a E C o a s t a r p o w t i t h o c i t f6I]
+[DELETED:  b s b e f r a  A m a a b i n e f o s t i r o i r t b D o i t a o i a A a p i o f f a t a d i t s6I]
+[DELETED:  w p a c w d E i a t i t t o m p o e o t m a b i n e f r u 2 s t e r o o r t t c d i r t r s p f a c6I]
+[DELETED:  A t t o a f a i r a a r e a t s f f a n B o I f u b t c i d a a c a i f u t o t f d a t f o a a i 4 I 2 A A B P A o 1 ( U 7 o S 2 o t6I]
+[DELETED:  I t i c i a r f u t i o b i o i i a m b r r t b m u t b r u t a a s t s p s o o a o i b  o c t o i o p a b o o6I]
+[DELETED:  o a i a r u t a w d t c o p c i t s a C a a b a s r S t s 1 o t c e6I]
+[DELETED:  5 I 2 A A B P S h r t b t t b h T c m n s f c o  a a o c t t i i i t d o b o u t o S D C R u t r a o a b c r o a a t b a b a o p h a s s o p s o a p d o i i c o t6I]
+[DELETED:  f o t b o i a H t i r t t c o a d o t ( w a t a h t c6I]
+[DELETED:  s c i f t U S f e i o c a a s c i f C o o f a d b o s r a  a i a f c C a a b a a i a r o t S a E C o  o s o e t f m i t s b o s p d s o T C a f d i6I]
+[DELETED:  1 o t C E A t s o o o i i t a i c i f i t h b t s o a o o a s o a f j d r o p i a s e o s6I]
+[DELETED:  a E C o i u t h e i d o u p i t i o t m r t w l s t t r a a a f a b o a a w i w o i p a e a t a c o T c m s o d a a r c l o s a r o6I]
+[DELETED:  w t s m b d b o o t T c m n i a p u t c u a i o t p i i t s d e a a 4 E R a C h a t p c e " m a u t h b d b a a l f ( m o e " a p r c6I]
+[DELETED:  c m N a i r c e c t " r t t N A S N a i a c c t a a i a " p m o ( t ( m " 7 e m t g s E a p i s ( t ( a A a i i c w t e6I]
+[DELETED:  a F q e a v t a p i t M N w t ( y o a r A a i i c w t e a F q e a v t i p i t M( T c m w a o t F p o i a r t v o a a i a E a p i s ( t ( a d o a o t S 7 a S 66I]
+[DELETED:  A a i i c w t e a F q e a v t i p i t M b N w t ( y o a A a i i c w t e a F q e a v t i p i t M T c m w a o t e 4 ( A i w t t i o t i S 6 e a t a r p o t S 6 e f a p o f ( y i t T i p p t e f6I]
+[DELETED:  t o t i a r T i w n s t a s T i d n h a d u t a r c e t t i i a e a a s A i w c w t M S ( c o i a r o a F m b a c w6I]
+[DELETED:  a s a p i t f I a i a r w h  i c w s ( i t c p b t d o d t r c a r a r6I]
+[DELETED:  t t ( d a t i a c t a i a 8 A i a r r o t b r i I w i r a a e r t a a l a t h s i a r o c p n c f t e c o 8 [ 1 2 ( T s o t o o t s s s a i6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1336
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 23-19-4; IC 23-19-4.3.
+Synopsis: Securities and investment adviser representatives. Exempts
+a merger and acquisition broker from registering as a broker-dealer
+under certain circumstances. Requires an applicant seeking to register
+as an agent of a broker-dealer in Indiana to pass financial industry
+regulatory authority (FINRA) examinations unless certain exceptions
+apply. Requires an applicant seeking to register as an investment
+adviser representative in Indiana to pass FINRA examinations unless
+certain exceptions apply. Provides that under certain circumstances an
+agent of a broker-dealer or an investment adviser representative may
+have the validity of the individual's FINRA qualifying examinations
+extended. Requires an investment adviser representative to participate
+in a continuing education program.
+Effective: July 1, 2026.
+Carbaugh
+January 6, 2026, read first time and referred to Committee on Financial Institutions.
+2026 IN 1336—LS 7079/DI 154
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1336
+A BILL FOR AN ACT to amend the Indiana Code concerning
+business and other associations.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 23-19-4-1, AS ADDED BY P.L.27-2007,
+2 SECTION 23, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. (a) It is unlawful for a person to transact
+4 business in this state as a broker-dealer unless the person is registered
+5 under this article as a broker-dealer or is exempt from registration as
+6 a broker-dealer under section 1.5 of this chapter or subsection (b) or
+7 (d).
+8 (b) The following persons are exempt from the registration
+9 requirement of subsection (a):
+10 (1) A broker-dealer without a place of business in this state if its
+11 only transactions effected in this state are with:
+12 (A) the issuer of the securities involved in the transactions;
+13 (B) a broker-dealer registered as a broker-dealer under this
+14 article or not required to be registered as a broker-dealer under
+15 this article;
+16 (C) an institutional investor;
+17 (D) a nonaffiliated federal covered investment adviser with
+2026 IN 1336—LS 7079/DI 154
+
+2
+1 investments under management in excess of one hundred
+2 million dollars ($100,000,000) acting for the account of others
+3 under discretionary authority in a signed record;
+4 (E) a bona fide preexisting customer whose principal place of
+5 residence is not in this state, and the person is registered as a
+6 broker-dealer under the Securities Exchange Act of 1934 or
+7 not required to be registered under the Securities Exchange
+8 Act of 1934 and is registered under the securities act of the
+9 state in which the customer maintains a principal place of
+10 residence;
+11 (F) a bona fide preexisting customer whose principal place of
+12 residence is in this state but who was not present in this state
+13 when the customer relationship was established, if:
+14 (i) the broker-dealer is registered under the Securities
+15 Exchange Act of 1934 or not required to be registered under
+16 the Securities Exchange Act of 1934 and is registered under
+17 the securities laws of the state in which the customer
+18 relationship was established and where the customer had
+19 maintained a principal place of residence; and
+20 (ii) within forty-five (45) days after the customer's first
+21 transaction in this state, the person files an application for
+22 registration as a broker-dealer in this state and a further
+23 transaction is not effected more than seventy-five (75) days
+24 after the date on which the application is filed, or, if earlier,
+25 the date on which the commissioner notifies the person that
+26 the commissioner has denied the application for registration
+27 or has stayed the pendency of the application for good cause;
+28 (G) not more than three (3) customers in this state during the
+29 previous twelve (12) months, in addition to those customers
+30 specified in clauses (A) through (F) and under clause (H), if
+31 the broker-dealer is registered under the Securities Exchange
+32 Act of 1934 or not required to be registered under the
+33 Securities Exchange Act of 1934 and is registered under the
+34 securities act of the state in which the broker-dealer has its
+35 principal place of business; and
+36 (H) any other person exempted by rule adopted or order issued
+37 under this article.
+38 (2) A person that deals solely in United States government
+39 securities and is supervised as a dealer in government securities
+40 by the Board of Governors of the Federal Reserve System, the
+41 Comptroller of the Currency, the Federal Deposit Insurance
+42 Corporation, or the Office of Thrift Supervision.
+2026 IN 1336—LS 7079/DI 154
+
+3
+1 (c) It is unlawful for a broker-dealer, or for an issuer engaged in
+2 offering, offering to purchase, purchasing, or selling securities in this
+3 state, directly or indirectly, to employ or associate with an individual
+4 to engage in an activity related to securities transactions in this state if
+5 the registration of the individual is suspended or revoked or the
+6 individual is barred from employment or association with a
+7 broker-dealer, an issuer, an investment adviser, or a federal covered
+8 investment adviser by an order of the commissioner under this article,
+9 the Securities and Exchange Commission, or a self-regulatory
+10 organization. A broker-dealer or issuer does not violate this subsection
+11 if the broker-dealer or issuer did not know and in the exercise of
+12 reasonable care could not have known, of the suspension, revocation,
+13 or bar. Upon request from a broker-dealer or issuer and for good cause,
+14 an order under this article may modify or waive, in whole or in part, the
+15 application of the prohibitions of this subsection to the broker-dealer.
+16 (d) A rule adopted or order issued under this article may permit:
+17 (1) a broker-dealer that is registered in Canada or another foreign
+18 jurisdiction and that does not have a place of business in this state
+19 to effect transactions in securities with or for, or attempt to effect
+20 the purchase or sale of any securities by:
+21 (A) an individual from Canada or another foreign jurisdiction
+22 who is temporarily present in this state and with whom the
+23 broker-dealer had a bona fide customer relationship before the
+24 individual entered the United States;
+25 (B) an individual from Canada or another foreign jurisdiction
+26 who is present in this state and whose transactions are in a
+27 self-directed tax advantaged retirement plan of which the
+28 individual is the holder or contributor in that foreign
+29 jurisdiction; or
+30 (C) an individual who is present in this state, with whom the
+31 broker-dealer customer relationship arose while the individual
+32 was temporarily or permanently resident in Canada or the
+33 other foreign jurisdiction; and
+34 (2) an agent who represents a broker-dealer that is exempt under
+35 this subsection to effect transactions in securities or attempt to
+36 effect the purchase or sale of securities in this state as permitted
+37 for a broker-dealer described in subdivision (1).
+38 SECTION 2. IC 23-19-4-1.5 IS ADDED TO THE INDIANA CODE
+39 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+40 1, 2026]: Sec. 1.5. (a) As used in this section, "business combination
+41 related shell company" has the meaning set forth in 15 U.S.C.
+42 78o(b)(13)(E)(i), as in effect on July 1, 2026.
+2026 IN 1336—LS 7079/DI 154
+
+4
+1 (b) As used in this section, "eligible privately held company" has
+2 the meaning set forth in 15 U.S.C. 78o(b)(13)(E)(iii), as in effect on
+3 July 1, 2026.
+4 (c) As used in this section, "merger and acquisition broker" has
+5 the meaning set forth in 15 U.S.C. 78o(b)(13)(E)(iv), as in effect on
+6 July 1, 2026.
+7 (d) As used in this section, "passive buyer" means a person or
+8 a group of people that acquire ownership of an eligible privately
+9 held company, but does not direct the management or policies of
+10 the eligible privately held company after the transaction.
+11 (e) As used in this section, "shell company" has the meaning set
+12 forth in 15 U.S.C. 78o(b)(13)(E)(v), as in effect on July 1, 2026.
+13 (f) Except as provided in subsections (g) and (h), a merger and
+14 acquisition broker shall be exempt from registration as a
+15 broker-dealer under this article.
+16 (g) A merger and acquisition broker is not exempt from
+17 registration under subsection (f) if the merger and acquisition
+18 broker does any of the following:
+19 (1) Directly or indirectly, in connection with the transfer of
+20 ownership of an eligible privately held company, receives,
+21 holds, transmits, or has custody of the funds or securities to be
+22 exchanged by the parties to the transaction.
+23 (2) Engages on behalf of an issuer in a public offering of any
+24 class of securities that is registered, or is required to be
+25 registered, with the Securities and Exchange Commission
+26 under 15 U.S.C. 78l.
+27 (3) Engages on behalf of an issuer in a public offering of any
+28 class of securities that the issuer files, or is required to file,
+29 periodic information, documents, and reports under 15 U.S.C.
+30 78o(d).
+31 (4) Engages on behalf of any party in a transaction involving
+32 a shell company other than a business combination related
+33 shell company.
+34 (5) Directly or indirectly, through any of its affiliates,
+35 provides financing related to the transfer of ownership of an
+36 eligible privately held company.
+37 (6) Assists any party in obtaining financing from an
+38 unaffiliated third party without:
+39 (A) complying with all applicable laws in connection with
+40 providing the assistance described in this subdivision,
+41 including, if applicable, Regulation T (12 CFR 220 et seq.);
+42 and
+2026 IN 1336—LS 7079/DI 154
+
+5
+1 (B) disclosing any compensation received by the merger
+2 and acquisition broker in writing to the party.
+3 (7) Represents both the buyer and the seller in the same
+4 transaction without providing a clear written disclosure
+5 describing who the merger and acquisition broker represents
+6 and obtaining written consent from the buyer and the seller
+7 to the joint representation.
+8 (8) Facilitates a transaction with a group of buyers formed
+9 with the assistance of the merger and acquisition broker to
+10 acquire an eligible privately held company.
+11 (9) Engages in a transaction involving the transfer of
+12 ownership of an eligible privately held company to a passive
+13 buyer or a group of passive buyers.
+14 (10) Binds a party to a transfer of ownership of an eligible
+15 privately held company.
+16 (h) A merger and acquisition broker or an officer, director,
+17 member, manager, partner, or employee of the merger and
+18 acquisition broker is not exempt from registration under
+19 subsection (f) if the merger and acquisition broker or an officer,
+20 director, member, manager, partner, or employee of the merger
+21 and acquisition broker:
+22 (1) has been barred from association with a broker-dealer by
+23 the Securities and Exchange Commission, any state, or any
+24 self-regulatory organization; or
+25 (2) is suspended from association with a broker-dealer.
+26 SECTION 3. IC 23-19-4-6, AS AMENDED BY P.L.114-2010,
+27 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 6. (a) A person shall register as a broker-dealer,
+29 agent, investment adviser, or investment adviser representative by
+30 filing an application and a consent to service of process complying with
+31 IC 23-19-6-11, satisfying the examination requirements of
+32 IC 23-19-4.3, and paying the fee specified in section 10 of this chapter
+33 and any reasonable fees charged by the designee of the commissioner
+34 for processing the filing. The application must contain:
+35 (1) the information or record required for the filing of a uniform
+36 application; and
+37 (2) upon request by the commissioner, any other financial or other
+38 information or record that the commissioner determines is
+39 appropriate.
+40 (b) If the information or record contained in an application filed
+41 under subsection (a) is or becomes inaccurate or incomplete in a
+42 material respect, the registrant shall promptly file a correcting
+2026 IN 1336—LS 7079/DI 154
+
+6
+1 amendment.
+2 (c) At the time of application for an initial registration as an
+3 investment adviser representative under this article, the commissioner
+4 shall require each applicant to submit fingerprints for a national
+5 criminal history background check (as defined in IC 10-13-3-12) by the
+6 Federal Bureau of Investigation, for use by the commissioner in
+7 determining whether the applicant should be denied registration under
+8 this chapter for any reason set forth in section 12(d) of this chapter. The
+9 applicant shall pay any fees or costs associated with the fingerprints
+10 and background check required under this subsection.
+11 (d) If an order is not in effect and a proceeding is not pending under
+12 section 12 of this chapter, registration becomes effective at noon on the
+13 forty-fifth day after a completed application is filed, unless the
+14 registration is denied. A rule adopted or order issued under this article
+15 may set an earlier effective date or may defer the effective date until
+16 noon on the forty-fifth day after the filing of any amendment
+17 completing the application.
+18 (e) A registration is effective until midnight on December 31 of the
+19 year for which the application for registration is filed. Unless an order
+20 is in effect under section 12 of this chapter, a registration may be
+21 automatically renewed each year by filing such records as are required
+22 by rule adopted or order issued under this article, by paying the fee
+23 specified in section 10 of this chapter, and by paying costs charged by
+24 the designee of the commissioner for processing the filings.
+25 (f) A rule adopted or order issued under this article may impose
+26 other conditions, not inconsistent with the National Securities Markets
+27 Improvement Act of 1996. An order issued under this article may
+28 waive, in whole or in part, specific requirements in connection with
+29 registration as are in the public interest and for the protection of
+30 investors.
+31 SECTION 4. IC 23-19-4-11, AS AMENDED BY P.L.1-2010,
+32 SECTION 94, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2026]: Sec. 11. (a) Subject to Section 15(h) of the Securities
+34 Exchange Act of 1934 (15 U.S.C. 78o(h)) or Section 222 of the
+35 Investment Advisers Act of 1940 (15 U.S.C. 80b-18a), a rule adopted
+36 or order issued under this article may establish minimum financial
+37 requirements for broker-dealers registered or required to be registered
+38 under this article and investment advisers registered or required to be
+39 registered under this article.
+40 (b) Subject to Section 15(h) of the Securities Exchange Act of 1934
+41 (15 U.S.C. 78o(h)) or Section 222(b) of the Investment Advisers Act
+42 of 1940 (15 U.S.C. 80b-18a(b)), a broker-dealer registered or required
+2026 IN 1336—LS 7079/DI 154
+
+7
+1 to be registered under this article and an investment adviser registered
+2 or required to be registered under this article shall file such financial
+3 reports as are required by a rule adopted or order issued under this
+4 article. If the information contained in a record filed under this
+5 subsection is or becomes inaccurate or incomplete in a material
+6 respect, the registrant shall promptly file a correcting amendment.
+7 (c) Subject to Section 15(h) of the Securities Exchange Act of 1934
+8 (15 U.S.C. 78o(h)) or Section 222 of the Investment Advisers Act of
+9 1940 (15 U.S.C. 80b-18a):
+10 (1) a broker-dealer registered or required to be registered under
+11 this article and an investment adviser registered or required to be
+12 registered under this article shall make and maintain the accounts,
+13 correspondence, memoranda, papers, books, and other records
+14 required by rule adopted or order issued under this article;
+15 (2) broker-dealer records required to be maintained under
+16 subdivision (1) may be maintained in any form of data storage
+17 acceptable under Section 17(a) of the Securities Exchange Act of
+18 1934 (15 U.S.C. 78q(a)) if they are readily accessible to the
+19 commissioner; and
+20 (3) investment adviser records required to be maintained under
+21 subdivision (1) may be maintained in any form of data storage
+22 required by rule adopted or order issued under this article.
+23 (d) The records of a broker-dealer registered or required to be
+24 registered under this article and of an investment adviser registered or
+25 required to be registered under this article are subject to such
+26 reasonable periodic, special, or other audits or inspections by a
+27 representative of the commissioner, within or outside this state, as the
+28 commissioner considers necessary or appropriate in the public interest
+29 and for the protection of investors. An audit or inspection may be made
+30 at any time and without prior notice. The commissioner may copy, and
+31 remove for audit or inspection copies of, all records the commissioner
+32 reasonably considers necessary or appropriate to conduct the audit or
+33 inspection. The commissioner may assess a reasonable charge for
+34 conducting an audit or inspection under this subsection.
+35 (e) Subject to Section 15(h) of the Securities Exchange Act of 1934
+36 (15 U.S.C. 78o(h)) or Section 222 of the Investment Advisers Act of
+37 1940 (15 U.S.C. 80b-18a), a rule adopted or order issued under this
+38 article may require a broker-dealer or investment adviser that has
+39 custody of or discretionary authority over funds or securities of a
+40 customer or client to obtain insurance or post a bond or other
+41 satisfactory form of security in an amount not to exceed fifty thousand
+42 dollars ($50,000). The commissioner may determine the requirements
+2026 IN 1336—LS 7079/DI 154
+
+8
+1 of the insurance, bond, or other satisfactory form of security. Insurance
+2 or a bond or other satisfactory form of security may not be required of
+3 a broker-dealer registered under this article whose net capital exceeds,
+4 or of an investment adviser registered under this article whose
+5 minimum financial requirements exceed, the amounts required by rule
+6 or order under this article. The insurance, bond, or other satisfactory
+7 form of security must permit an action by a person to enforce any
+8 liability on the insurance, bond, or other satisfactory form of security
+9 if instituted within the time limitations in IC 23-19-5-9(g).
+10 (f) Subject to Section 15(h) of the Securities Exchange Act of 1934
+11 (15 U.S.C. 78o(h)) or Section 222 of the Investment Advisers Act of
+12 1940 (15 U.S.C. 80b-18a), an agent may not have custody of funds or
+13 securities of a customer except under the supervision of a broker-dealer
+14 and an investment adviser representative may not have custody of
+15 funds or securities of a client except under the supervision of an
+16 investment adviser or a federal covered investment adviser. A rule
+17 adopted or order issued under this article may prohibit, limit, or impose
+18 conditions on a broker-dealer regarding custody of funds or securities
+19 of a customer and on an investment adviser regarding custody of
+20 securities or funds of a client.
+21 (g) With respect to an investment adviser registered or required to
+22 be registered under this article, a rule adopted or order issued under
+23 this article may require that information or other records be furnished
+24 or disseminated to clients or prospective clients in this state as
+25 necessary or appropriate in the public interest and for the protection of
+26 investors and advisory clients.
+27 (h) A rule adopted or order issued under this article may require an
+28 individual registered under section 2 or 4 of this chapter to participate
+29 in a continuing education program approved by the Securities and
+30 Exchange Commission and administered by a self-regulatory
+31 organization or, in the absence of such a program, a rule adopted or
+32 order issued under this article may require continuing education for an
+33 individual registered under section 4 of this chapter.
+34 (i) (h) Subject to section 11.5 of this chapter, the commissioner may
+35 annually select as many as twenty-five percent (25%) of all Indiana
+36 home and branch offices of registered broker-dealers for completion of
+37 compliance reports. Subject to section 11.5 of this chapter, each
+38 broker-dealer office that is selected shall file its compliance report
+39 according to rules adopted by the commissioner under this article not
+40 later than forty-five (45) days after being notified of selection under
+41 this subsection. No charges or other examination fees may be assessed
+42 against a registered broker-dealer as a result of the examination of a
+2026 IN 1336—LS 7079/DI 154
+
+9
+1 compliance report filed under this subsection unless the examination
+2 results in an investigation or examination made under IC 23-19-6-2(a).
+3 SECTION 5. IC 23-19-4-11.5, AS ADDED BY P.L.149-2009,
+4 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]: Sec. 11.5. (a) As used in this section, "office of
+6 supervisory jurisdiction" has the meaning set forth in the National
+7 Association of Securities Dealers Conduct Rule 3010(g) (as in effect
+8 on January 1, 2009).
+9 (b) A broker-dealer registered or required to be registered under this
+10 article may not be selected for completion of a compliance report under
+11 section 11(i) 11(h) of this chapter in consecutive years unless the
+12 commissioner has reason to believe that the broker-dealer has
+13 committed a violation of this article.
+14 (c) The commissioner may not select for completion of a
+15 compliance report under section 11(i) 11(h) of this chapter any office
+16 that:
+17 (1) reports to an office of supervisory jurisdiction located within
+18 Indiana;
+19 (2) reflects the address of the office of supervisory jurisdiction
+20 described in subdivision (1) on all of the office's business cards,
+21 stationery, advertisements, and other communications to the
+22 public; and
+23 (3) is included in the definition of branch office under the
+24 National Association of Securities Dealers Conduct Rule 3010(g)
+25 because the office:
+26 (A) handles funds or securities as described under the National
+27 Association of Securities Dealers Conduct Rule
+28 3010(g)(2)(A)(ii)(c); or
+29 (B) uses the residential address on all business cards,
+30 stationery, advertisements, or other communications to the
+31 public under the National Association of Securities Dealers
+32 Conduct Rule 3010(g)(2)(A)(ii)(d).
+33 SECTION 6. IC 23-19-4-12, AS AMENDED BY P.L.205-2021,
+34 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 12. (a) If the commissioner finds that the order is
+36 in the public interest and subsection (d) authorizes the action, an order
+37 issued under this article may deny an application, or may condition or
+38 limit registration, of an applicant to be a broker-dealer, agent,
+39 investment adviser, or investment adviser representative and, if the
+40 applicant is a broker-dealer or investment adviser, of a partner, officer,
+41 director, or person having a similar status or performing similar
+42 functions, or a person directly or indirectly in control of the
+2026 IN 1336—LS 7079/DI 154
+
+10
+1 broker-dealer or investment adviser.
+2 (b) If the commissioner finds that the order is in the public interest
+3 and subsection (d) authorizes the action, an order issued under this
+4 article may revoke, suspend, condition, or limit the registration of a
+5 registrant and, if the registrant is a broker-dealer or investment adviser,
+6 of a partner, officer, director, or person having a similar status or
+7 performing similar functions, or a person directly or indirectly in
+8 control of the broker-dealer or investment adviser. However, the
+9 commissioner may not:
+10 (1) institute a revocation or suspension proceeding under this
+11 subsection based on an order issued under a law of another state
+12 that is reported to the commissioner or a designee of the
+13 commissioner more than one (1) year after the date of the order on
+14 which it is based; or
+15 (2) under subsection (d)(5)(A) and (d)(5)(B), issue an order on
+16 the basis of an order issued under the securities act of another
+17 state unless the other order was based on conduct for which
+18 subsection (d) would authorize the action had the conduct
+19 occurred in this state.
+20 (c) If the commissioner finds that the order is in the public interest
+21 and subsection (d)(1), (d)(2), (d)(3), (d)(4), (d)(5), (d)(6), (d)(8), (d)(9),
+22 (d)(11), (d)(12), or (d)(13) authorizes the action, an order under this
+23 article may censure, impose a bar, or impose a civil penalty in an
+24 amount not to exceed a maximum of ten thousand dollars ($10,000) per
+25 violation on a registrant, and, if the registrant is a broker-dealer or
+26 investment adviser, a partner, officer, director, or person having a
+27 similar status or performing similar functions, or a person directly or
+28 indirectly in control of the broker-dealer or investment adviser.
+29 (d) A person may be disciplined under subsections (a) through (c)
+30 if the person:
+31 (1) has filed an application for registration in this state under this
+32 article or the predecessor act within the previous ten (10) years,
+33 which, as of the effective date of registration or as of any date
+34 after filing in the case of an order denying effectiveness, was
+35 incomplete in any material respect or contained a statement that,
+36 in light of the circumstances under which it was made, was false
+37 or misleading with respect to a material fact;
+38 (2) knowingly violated or knowingly failed to comply with this
+39 article or the predecessor act or a rule adopted or order issued
+40 under this article or the predecessor act within the previous ten
+41 (10) years;
+42 (3) has been convicted of a felony or within the previous ten (10)
+2026 IN 1336—LS 7079/DI 154
+
+11
+1 years has been convicted of a misdemeanor involving a security,
+2 a commodity future or option contract, or an aspect of a business
+3 involving securities, commodities, investments, franchises,
+4 insurance, banking, or finance;
+5 (4) is enjoined or restrained by a court with jurisdiction in an
+6 action instituted by the commissioner under this article or the
+7 predecessor act, a state, the Securities and Exchange Commission,
+8 or the United States from engaging in or continuing an act,
+9 practice, or course of business involving an aspect of a business
+10 involving securities, commodities, investments, franchises,
+11 insurance, banking, or finance;
+12 (5) is the subject of an order, issued after notice and opportunity
+13 for hearing, by:
+14 (A) the securities, depository institution, insurance, or other
+15 financial services regulator of a state or by the Securities and
+16 Exchange Commission or other federal agency denying,
+17 revoking, barring, or suspending registration as a
+18 broker-dealer, agent, investment adviser, federal covered
+19 investment adviser, or investment adviser representative;
+20 (B) the securities regulator of a state or the Securities and
+21 Exchange Commission against a broker-dealer, agent,
+22 investment adviser, investment adviser representative, or
+23 federal covered investment adviser;
+24 (C) the Securities and Exchange Commission or a
+25 self-regulatory organization suspending or expelling the
+26 registrant from membership in the self-regulatory
+27 organization;
+28 (D) a court adjudicating a United States Postal Service fraud
+29 order;
+30 (E) the insurance regulator of a state denying, suspending, or
+31 revoking registration as an insurance agent;
+32 (F) a depository institution regulator suspending or barring the
+33 person from the depository institution business; or
+34 (G) any state regulatory body or organization governing real
+35 estate brokers or sales persons denying, suspending, or
+36 revoking a person's registration or license in the real estate
+37 industry;
+38 (6) is the subject of an adjudication or determination, after notice
+39 and opportunity for hearing, by the Securities and Exchange
+40 Commission, the Commodity Futures Trading Commission, the
+41 Federal Trade Commission, a federal depository institution
+42 regulator, or a depository institution, insurance, or other financial
+2026 IN 1336—LS 7079/DI 154
+
+12
+1 services regulator of a state that the person willfully violated the
+2 Securities Act of 1933, the Securities Exchange Act of 1934, the
+3 Investment Advisers Act of 1940, the Investment Company Act
+4 of 1940, or the Commodity Exchange Act, the securities or
+5 commodities law of a state, or a federal or state law under which
+6 a business involving investments, franchises, insurance, banking,
+7 or finance is regulated;
+8 (7) is insolvent, either because the person's liabilities exceed the
+9 person's assets or because the person cannot meet the person's
+10 obligations as they mature, but the commissioner may not enter an
+11 order against an applicant or registrant under this subdivision
+12 without a finding of insolvency as to the applicant or registrant;
+13 (8) refuses to allow or otherwise impedes the commissioner from
+14 conducting an audit or inspection under section 11(d) of this
+15 chapter or refuses access to a registrant's office to conduct an
+16 audit or inspection under section 11(d) of this chapter;
+17 (9) has failed to reasonably supervise an agent, investment adviser
+18 representative, or other individual, if the agent, investment
+19 adviser representative, or other individual was subject to the
+20 person's supervision and committed a violation of this article or
+21 the predecessor act or a rule adopted or order issued under this
+22 article or the predecessor act within the previous ten (10) years;
+23 (10) has not paid the proper filing fee within thirty (30) days after
+24 having been notified by the commissioner of a deficiency, but the
+25 commissioner shall vacate an order under this subdivision when
+26 the deficiency is corrected;
+27 (11) after notice and opportunity for a hearing, has been found
+28 within the previous ten (10) years:
+29 (A) by a court with jurisdiction to have willfully violated the
+30 laws of a foreign jurisdiction under which the business of
+31 securities, commodities, investment, franchises, insurance,
+32 banking, or finance is regulated;
+33 (B) to have been the subject of an order of a securities
+34 regulator of a foreign jurisdiction denying, revoking, or
+35 suspending the right to engage in the business of securities as
+36 a broker-dealer, agent, investment adviser, investment adviser
+37 representative, or similar person; or
+38 (C) to have been suspended or expelled from membership by
+39 or participation in a securities exchange or securities
+40 association operating under the securities laws of a foreign
+41 jurisdiction;
+42 (12) is the subject of a cease and desist order issued by the
+2026 IN 1336—LS 7079/DI 154
+
+13
+1 Securities and Exchange Commission or issued under the
+2 securities, commodities, investment, franchise, banking, finance,
+3 or insurance laws of a state;
+4 (13) has engaged in dishonest or unethical practices in the
+5 securities, commodities, investment, franchise, banking, finance,
+6 or insurance business within the previous ten (10) years;
+7 (14) is not qualified on the basis of factors such as training,
+8 experience, and knowledge of the securities business. However,
+9 in the case of an application by an agent for a broker-dealer that
+10 is a member of a self-regulatory organization or by an individual
+11 for registration as an investment adviser representative, a denial
+12 order may not be based on this subdivision if the individual has
+13 successfully completed all examinations required by subsection
+14 (e). The commissioner may require an applicant for registration
+15 under section 2 or 4 of this chapter who has not been registered
+16 in a state within the two (2) years preceding the filing of an
+17 application in this state to successfully complete an examination;
+18 (15) is on the most recent tax warrant list supplied to the
+19 commissioner by the department of state revenue;
+20 (16) is an individual who is:
+21 (A) an applicant for registration as an agent for a broker-dealer
+22 or as an investment adviser representative; or
+23 (B) registered as an agent for a broker-dealer or as an
+24 investment adviser representative;
+25 and has failed to comply with a court order imposing a child
+26 support obligation; or
+27 (17) fails to comply with the disclosure requirements set forth
+28 under IC 24-4.9-3.
+29 (e) Subject to IC 23-19-4.3, a rule adopted or order issued under
+30 this article may require that an examination, including an examination
+31 developed or approved by an organization of securities regulators, be
+32 successfully completed by a class of individuals or all individuals. An
+33 order issued under this article may waive, in whole or in part, an
+34 examination as to an individual and a rule adopted under this article
+35 may waive, in whole or in part, an examination as to a class of
+36 individuals if the commissioner determines that the examination is not
+37 necessary or appropriate in the public interest and for the protection of
+38 investors.
+39 (f) The commissioner may suspend or deny an application
+40 summarily; restrict, condition, limit, or suspend a registration; or
+41 censure, bar, or impose a civil penalty on a registrant before final
+42 determination of an administrative proceeding. Upon the issuance of
+2026 IN 1336—LS 7079/DI 154
+
+14
+1 an order, the commissioner shall promptly notify each person subject
+2 to the order that the order has been issued, the reasons for the action,
+3 and that within fifteen (15) days after the receipt of a request in a
+4 record from the person the matter will be scheduled for a hearing. If a
+5 hearing is not requested and none is ordered by the commissioner
+6 within thirty (30) days after the date of service of the order, the order
+7 becomes final by operation of law. If a hearing is requested or ordered,
+8 the commissioner, after notice of and opportunity for hearing to each
+9 person subject to the order, may modify or vacate the order or extend
+10 the order until final determination.
+11 (g) An order may not be issued under this section, except under
+12 subsection (f), without:
+13 (1) appropriate notice to the applicant or registrant;
+14 (2) opportunity for hearing; and
+15 (3) findings of fact and conclusions of law in a record.
+16 (h) A person that controls, directly or indirectly, a person not in
+17 compliance with this section may be disciplined by order of the
+18 commissioner under subsections (a) through (c) to the same extent as
+19 the noncomplying person, unless the controlling person did not know,
+20 and in the exercise of reasonable care could not have known, of the
+21 existence of conduct that is a ground for discipline under this section.
+22 (i) The commissioner may not institute a proceeding under
+23 subsection (a), (b), or (c) based solely on material facts actually known
+24 by the commissioner unless an investigation or the proceeding is
+25 instituted within one (1) year after the commissioner actually acquires
+26 knowledge of the material facts.
+27 (j) All fines and penalties collected under this section shall be
+28 deposited into the securities division enforcement account as
+29 established by IC 23-19-6-1(f).
+30 SECTION 7. IC 23-19-4.3 IS ADDED TO THE INDIANA CODE
+31 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]:
+33 Chapter 4.3. Examination Requirements and Continuing
+34 Education
+35 Sec. 1. The following definitions apply throughout this chapter:
+36 (1) "Authorized provider" means a person that NASAA or its
+37 designee has authorized to provide continuing education
+38 content.
+39 (2) "Credit" means a unit that has been designated by
+40 NASAA as at least fifty (50) minutes of educational
+41 instruction.
+42 (3) "Ethics and professional responsibility continuing
+2026 IN 1336—LS 7079/DI 154
+
+15
+1 education content" means NASAA approved investment
+2 adviser representative continuing education content that
+3 addresses an investment adviser representative's ethical and
+4 regulatory obligations.
+5 (4) "FINRA" refers to the Financial Industry Regulatory
+6 Authority.
+7 (5) "Home state" means the state where the principal office
+8 and place of business of an investment adviser representative
+9 is located.
+10 (6) "NASAA" refers to the North American Securities
+11 Administrators Association or a committee designated by its
+12 board of directors.
+13 (7) "Products and practice continuing education content"
+14 means NASAA approved investment adviser continuing
+15 education content that addresses an investment adviser
+16 representative's continuing skills and knowledge regarding:
+17 (A) financial products;
+18 (B) investment features; and
+19 (C) practices;
+20 in the investment advisory industry.
+21 (8) "Reporting period" means one (1) twelve (12) month
+22 period as determined by NASAA.
+23 (9) "Series 7 examination" means the general securities
+24 representative examination administered by FINRA.
+25 (10) "Series 63 examination" means the uniform securities
+26 agent state law examination administered by FINRA.
+27 (11) "Series 65 examination" means the uniform investment
+28 adviser law examination administered by FINRA.
+29 (12) "Series 66 examination" means the uniform combined
+30 state law examination administered by FINRA.
+31 Sec. 2. (a) This section applies to an applicant seeking to register
+32 as an agent of a broker-dealer under IC 23-19-4.
+33 (b) Except as provided in subsections (c) through (e), an
+34 applicant must pass:
+35 (1) the Series 63 or Series 66 examination; and
+36 (2) any other examination required by the commissioner;
+37 within the two (2) years preceding the date of application.
+38 (c) An applicant is in compliance with the examination
+39 requirement under subsection (b) if the:
+40 (1) applicant has not been registered as an agent in any state
+41 for more than two (2) years but less than five (5) years;
+42 (2) applicant is a participant in the Maintaining Qualifications
+2026 IN 1336—LS 7079/DI 154
+
+16
+1 Program administered by FINRA;
+2 (3) applicant's FINRA qualifying examinations are valid
+3 through the applicant's participation in the Maintaining
+4 Qualifications Program administered by FINRA; and
+5 (4) applicant is a participant in the Examination Validity
+6 Extension Program for agents of broker-dealers administered
+7 by NASAA within two (2) years of agent registration
+8 termination.
+9 (d) An applicant is in compliance with the examination
+10 requirement in subsection (b)(2) if the:
+11 (1) applicant has not been registered as an agent in any state
+12 for more than two (2) years but less than five (5) years;
+13 (2) applicant is a participant in the Maintaining Qualifications
+14 Program administered by FINRA; and
+15 (3) applicant's FINRA qualifying examinations are valid
+16 through the individual's participation in the Maintaining
+17 Qualifications Program administered by FINRA.
+18 (e) The commissioner may waive any of the examination
+19 requirements under subsection (b).
+20 (f) For purposes of investment adviser representative
+21 registration, the validity of an applicant's investment adviser
+22 representative portion of the Series 66 examination may not be
+23 extended through participation in the Maintaining Qualifications
+24 Program administered by FINRA.
+25 Sec. 3. (a) This section applies to an applicant seeking to register
+26 as an investment adviser representative.
+27 (b) Except as provided in subsections (c) through (e), an
+28 applicant under this section must pass the:
+29 (1) Series 65 examination within the two (2) years preceding
+30 the date of application or the Series 7 and Series 66
+31 examination within the two (2) years preceding the date of
+32 application; and
+33 (2) Securities Industry Essentials Examination within the four
+34 (4) years preceding the date of application, if the applicant did
+35 not take the Series 65 examination within the two (2) years
+36 preceding the date of application.
+37 (c) If:
+38 (1) an applicant under this section has been designated as:
+39 (A) a Certified Financial Planner;
+40 (B) a Chartered Financial Consultant;
+41 (C) a Masters of Science and Financial Services;
+42 (D) a Chartered Financial Analyst;
+2026 IN 1336—LS 7079/DI 154
+
+17
+1 (E) a Personal Financial Specialist;
+2 (F) a Chartered Investment Counselor; or
+3 (G) any other designation that the commissioner considers
+4 to be equivalent to the Series 65 examination; and
+5 (2) the applicant's designation in subdivision (1) is current
+6 and in good standing with the organization that awarded the
+7 designation;
+8 the examination requirement in subsection (b) does not apply.
+9 (d) An applicant is in compliance with the examination
+10 requirement in subsection (b)(1) if the:
+11 (1) applicant has not been registered as an investment adviser
+12 representative in any state for more than two (2) years but
+13 less than five (5) years;
+14 (2) applicant is a participant in the Maintaining Qualifications
+15 Program administered by FINRA;
+16 (3) applicant's FINRA qualifying examinations are valid
+17 through the individual's participation in the Maintaining
+18 Qualifications Program administered by FINRA; and
+19 (4) applicant is a participant in the Examination Validity
+20 Extension Program for investment adviser representatives
+21 administered by NASAA within two (2) years of agent
+22 registration termination.
+23 (e) An applicant is in compliance with the examination
+24 requirement in subsection (b)(2) if the:
+25 (1) applicant has not been registered as an investment adviser
+26 representative in any state for more than two (2) years but
+27 less than five (5) years;
+28 (2) applicant is a participant in the Maintaining Qualifications
+29 Program administered by FINRA; and
+30 (3) applicant's FINRA qualifying examinations are valid
+31 through the individual's participation in the Maintaining
+32 Qualifications Program administered by FINRA.
+33 (f) The commissioner may waive any of the examination
+34 requirements under subsection (b).
+35 Sec. 4. (a) An individual who terminates the individual's
+36 registration as an investment adviser representative may have the
+37 validity of the individual's Series 65 examination and the
+38 investment adviser representative portion of the Series 66
+39 examination extended for a period of five (5) years, if the
+40 individual meets all of the following requirements:
+41 (1) The individual previously passed the examination for
+42 which the individual seeks to maintain validity under this
+2026 IN 1336—LS 7079/DI 154
+
+18
+1 subsection.
+2 (2) The individual was registered as an investment adviser
+3 representative for at least one (1) year immediately preceding
+4 the termination of the investment adviser representative
+5 registration.
+6 (3) The individual was not subject to a statutory
+7 disqualification as defined in Section 3(a)(39) of the Securities
+8 Exchange Act of 1934.
+9 (4) The individual does not have a deficiency under the
+10 investment adviser representative continuing education
+11 program described in section 6 of this chapter at the time the
+12 individual terminates the individual's investment adviser
+13 representative registration.
+14 (5) The individual completes annually on or before December
+15 31 of each calendar year that elapses after the individual's
+16 investment adviser representative registration is terminated:
+17 (A) six (6) credits of ethics and professional responsibility
+18 continuing education content offered by an authorized
+19 provider, including at least three (3) hours covering the
+20 topic of ethics; and
+21 (B) six (6) credits of products and practice continuing
+22 education content offered by an authorized provider.
+23 (b) An individual who complies with the Maintaining
+24 Qualification Program administered by FINRA is in compliance
+25 with subsection (a)(5)(B).
+26 Sec. 5. (a) Except as provided in subsections (b) and (c), an
+27 investment adviser representative registered under IC 23-19-4
+28 shall complete the following investment adviser representative
+29 continuing education requirements each reporting period:
+30 (1) Six (6) credits of investment adviser representative ethics
+31 and professional responsibility continuing education content
+32 offered by an authorized provider, with at least three (3)
+33 hours covering the topic of ethics.
+34 (2) Six (6) credits of investment adviser representative
+35 products and practice continuing education content offered by
+36 an authorized provider.
+37 (b) An investment adviser representative who is registered as an
+38 agent of a FINRA member broker-dealer and complies with
+39 FINRA's continuing education requirements is in compliance with
+40 subsection (a)(2) for each applicable reporting period if the FINRA
+41 continuing education content meets all of the following criteria as
+42 determined by NASAA:
+2026 IN 1336—LS 7079/DI 154
+
+19
+1 (1) The content of the program focuses on:
+2 (A) compliance;
+3 (B) regulatory;
+4 (C) ethical; and
+5 (D) sales practice;
+6 standards.
+7 (2) The content of the program is derived from:
+8 (A) state and federal investment advisory statutes;
+9 (B) rules and regulations;
+10 (C) securities industry rules and regulations; and
+11 (D) accepted standards and practices in the financial
+12 services industry.
+13 (3) The program requires that its participants demonstrate
+14 proficiency in the subject matter of the educational materials.
+15 (c) If an investment adviser representative who holds a
+16 designation that qualifies the individual for an examination waiver
+17 under section 3(c) of this chapter completes continuing education
+18 content as a condition of maintaining the individual's designation,
+19 the individual complies with subsection (a) if the continuing
+20 education content:
+21 (1) completed during the relevant reporting period by the
+22 investment adviser representative is mandatory to maintain
+23 the designation; and
+24 (2) provided by the designating organization during the
+25 relevant reporting period is NASAA approved investment
+26 adviser representative continuing education content.
+27 (d) An investment adviser representative who fails to comply
+28 with this section by the end of a reporting period will renew as "CE
+29 Inactive" at the close of the calendar year until the investment
+30 adviser representative completes and reports all required
+31 investment adviser representative continuing education credits. An
+32 investment adviser representative who is "CE Inactive" at the
+33 close of the next calendar year is not eligible for investment adviser
+34 representative registration or renewal of an investment adviser
+35 representative registration under IC 23-19-4.
+36 Sec. 6. If an investment adviser representative's registration is
+37 terminated, the individual shall complete the investment adviser
+38 representative continuing education requirements for all reporting
+39 periods that occurred between the time that the investment adviser
+40 representative's registration is terminated and when the individual
+41 became registered again under IC 23-19-4 unless the investment
+42 adviser representative:
+2026 IN 1336—LS 7079/DI 154
+
+20
+1 (1) passes the applicable examination described in section 3(b)
+2 of this chapter; or
+3 (2) receives an examination waiver under section 3(c) through
+4 3(e) of this chapter.
+5 Sec. 7. An authorized provider shall report the completion of an
+6 investment adviser representative's applicable investment adviser
+7 representative continuing education requirements to FINRA not
+8 more than thirty (30) days after the investment adviser
+9 representative completes the applicable investment adviser
+10 representative continuing education requirements.
+11 Sec. 8. An investment adviser representative registered or
+12 required to be registered in Indiana who is registered as an
+13 investment adviser representative in the individual's home state
+14 satisfies the requirements of section 5(a) of this chapter if:
+15 (1) the investment adviser representative's home state has
+16 continuing education requirements that are at least as
+17 stringent as the continuing education requirements of this
+18 chapter; and
+19 (2) the investment adviser representative is in compliance
+20 with the home state's investment adviser representative
+21 continuing education requirements.
+22 Sec. 9. An investment adviser representative who completes
+23 more than twelve (12) credits of continuing education for the
+24 reporting period may not carry forward the excess credits of
+25 continuing education.
+26 Sec. 10. The commissioner may waive any of the requirements
+27 in sections 5 through 9 of this chapter.
+28 SECTION 8. [EFFECTIVE JULY 1, 2026] (a) The securities
+29 division of the office of the secretary of state shall amend its
+30 administrative rules to conform with IC 23-19-4.3, as added by this
+31 act.
+32 (b) This SECTION expires July 1, 2029.
+2026 IN 1336—LS 7079/DI 154
+
+[DELETED:  t r6I]
+[DELETED:  1 I 2 A A B P T f p a e f t r6I]
+[DELETED:  m i e o o h t b i r u t S s l o t s i w t c f o 1 o n r t b r u t A p t d s i U S g o t C t F D I6I]
+[DELETED:  r o t i i s o r o t i b f e o a w  S a E C o a s t a r p o w t i t h o c i t f6I]
+[DELETED:  b s b e f r a  A m a a b i n e f o s t i r o i r t b D o i t a o i a A a p i o f f a t a d i t s6I]
+[DELETED:  w p a c w d E i a t i t t o m p o e o t m a b i n e f r u 2 s t e r o o r t t c d i r t r s p f a c6I]
+[DELETED:  A t t o a f a i r a a r e a t s f f a n B o I f u b t c i d a a c a i f u t o t f d a t f o a a i 4 I 2 A A B P A o 1 ( U 7 o S 2 o t6I]
+[DELETED:  I t i c i a r f u t i o b i o i i a m b r r t b m u t b r u t a a s t s p s o o a o i b  o c t o i o p a b o o6I]
+[DELETED:  o a i a r u t a w d t c o p c i t s a C a a b a s r S t s 1 o t c e6I]
+[DELETED:  5 I 2 A A B P S h r t b t t b h T c m n s f c o  a a o c t t i i i t d o b o u t o S D C R u t r a o a b c r o a a t b a b a o p h a s s o p s o a p d o i i c o t6I]
+[DELETED:  f o t b o i a H t i r t t c o a d o t ( w a t a h t c6I]
+[DELETED:  s c i f t U S f e i o c a a s c i f C o o f a d b o s r a  a i a f c C a a b a a i a r o t S a E C o  o s o e t f m i t s b o s p d s o T C a f d i6I]
+[DELETED:  1 o t C E A t s o o o i i t a i c i f i t h b t s o a o o a s o a f j d r o p i a s e o s6I]
+[DELETED:  a E C o i u t h e i d o u p i t i o t m r t w l s t t r a a a f a b o a a w i w o i p a e a t a c o T c m s o d a a r c l o s a r o6I]
+[DELETED:  w t s m b d b o o t T c m n i a p u t c u a i o t p i i t s d e a a 4 E R a C h a t p c e " m a u t h b d b a a l f ( m o e " a p r c6I]
+[DELETED:  c m N a i r c e c t " r t t N A S N a i a c c t a a i a " p m o ( t ( m " 7 e m t g s E a p i s ( t ( a A a i i c w t e6I]
+[DELETED:  a F q e a v t a p i t M N w t ( y o a r A a i i c w t e a F q e a v t i p i t M( T c m w a o t F p o i a r t v o a a i a E a p i s ( t ( a d o a o t S 7 a S 66I]
+[DELETED:  A a i i c w t e a F q e a v t i p i t M b N w t ( y o a A a i i c w t e a F q e a v t i p i t M T c m w a o t e 4 ( A i w t t i o t i S 6 e a t a r p o t S 6 e f a p o f ( y i t T i p p t e f6I]
+[DELETED:  t o t i a r T i w n s t a s T i d n h a d u t a r c e t t i i a e a a s A i w c w t M S ( c o i a r o a F m b a c w6I]
+[DELETED:  a s a p i t f I a i a r w h  i c w s ( i t c p b t d o d t r c a r a r6I]
+[DELETED:  t t ( d a t i a c t a i a 8 A i a r r o t b r i I w i r a a e r t a a l a t h s i a r o c p n c f t e c o 8 [ 1 2 ( T s o t o o t s s s a i6I]

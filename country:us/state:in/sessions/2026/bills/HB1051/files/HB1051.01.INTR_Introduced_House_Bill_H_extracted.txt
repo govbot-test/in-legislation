@@ -1,0 +1,377 @@
+Title: HOUSE BILL No. 1051
+Official Title: HOUSE BILL No. 1051
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 24-5-23.8.
+Synopsis: Exclusion of medical debt from credit scoring. Prohibits a
+health care provider from reporting or furnishing to a consumer
+reporting agency any information related to health care debt owed or
+alleged to be owed by a consumer who resides in Indiana. Requires a
+health care provider to include in any contract entered into with a third
+party furnisher a provision that prohibits the reporting or furnishing to
+a consumer reporting agency any information related to health care
+debt owed or alleged to be owed by a consumer, including information
+concerning any delinquent account action taken with respect to health
+care debt. Prohibits a consumer reporting agency from recording or
+retaining in the file of a consumer any information that is: (1) related
+to health care debt incurred or alleged to be incurred by the consumer;
+and (2) reported to the consumer reporting agency after June 30, 2026.
+Provides that if a consumer reporting agency receives a request from
+a consumer to delete any record of health care debt maintained in the
+file of the consumer, the consumer reporting agency shall, not later
+than five business days after receiving the request, take all lawful and
+reasonable actions to delete from the consumer's file the record of the
+health care debt, regardless of when the health care debt was reported
+to the consumer reporting agency. Provides that a person who violates
+the provisions of this act commits a deceptive act.
+Effective: July 1, 2026.
+Summers
+December 5, 2025, read first time and referred to Committee on Financial Institutions.
+2026 IN 1051—LS 6073/DI 154
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1051
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-5-23.8 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 23.8. Health Care Debt Reporting
+5 Sec. 1. As used in this chapter, "affiliate" means any person who
+6 directly or indirectly:
+7 (1) controls;
+8 (2) is controlled by; or
+9 (3) is under the common control of;
+10 another person.
+11 Sec. 2. (a) As used in this chapter, "consumer" means an
+12 individual whose principal residence is in Indiana.
+13 (b) The term includes the following:
+14 (1) A protected consumer (as defined in IC 24-5-24.5-4).
+15 (2) A representative acting on behalf of a protected consumer
+16 (as defined in IC 24-5-24.5-4).
+17 Sec. 3. As used in this chapter, "consumer report" means any
+2026 IN 1051—LS 6073/DI 154
+2
+1 written, oral, or other communication of any information that:
+2 (1) is made by a consumer reporting agency;
+3 (2) bears on a consumer's creditworthiness, credit standing,
+4 credit capacity, character, general reputation, personal
+5 characteristics, or mode of living; and
+6 (3) is used or expected to be used or collected in whole or in
+7 part for the purpose of serving as a factor in establishing a
+8 consumer's eligibility for:
+9 (A) credit or insurance to be used primarily for personal,
+10 family, or household purposes;
+11 (B) employment purposes; or
+12 (C) any other purpose authorized under Section 604 of the
+13 federal Fair Credit Reporting Act (15 U.S.C. 1681b).
+14 Sec. 4. (a) As used in this chapter, "consumer reporting agency"
+15 means any person that, for monetary fees or dues, or on a
+16 cooperative nonprofit basis, regularly engages in whole or in part
+17 in the practice of assembling or evaluating consumer credit
+18 information or other information on consumers for the purpose of
+19 furnishing a consumer report to third parties.
+20 (b) The term does not include an entity designated as a
+21 commercially reasonable private consumer credit reporting entity
+22 under IC 24-4.5-7-404(5).
+23 Sec. 5. As used in this chapter, "delinquent account action",
+24 with respect to a consumer's delinquent account with a health care
+25 provider, means any action taken to initiate, or in furtherance of:
+26 (1) placing the customer's account for collection;
+27 (2) charging the customer's account to profit or loss; or
+28 (3) subjecting the customer's account to any similar action;
+29 whether taken through the health care provider's own actions or
+30 those of a third party furnisher.
+31 Sec. 6. As used in this chapter, "file", when used in connection
+32 with information on a consumer, means all the information on that
+33 consumer that is recorded and retained by a consumer reporting
+34 agency, regardless of how the information is stored.
+35 Sec. 7. (a) As used in this chapter, "health care debt" means an
+36 obligation or an alleged obligation of a consumer to pay an amount
+37 related to the receipt of health care services, products, or devices
+38 provided to a person by a health care provider.
+39 (b) The term does not include debt charged to a credit card
+40 unless the credit card is issued under:
+41 (1) an open-end plan; or
+42 (2) a closed-end plan;
+2026 IN 1051—LS 6073/DI 154
+3
+1 offered specifically for the payment of health care services,
+2 products, or devices provided to a person.
+3 Sec. 8. As used in this chapter, "health care provider" means:
+4 (1) a hospital or facility listed in IC 16-39-7-1(a)(13); or
+5 (2) a provider of ambulance services (as defined in
+6 IC 16-18-2-13.4).
+7 The term includes an affiliate, officer, agent, or employee of a
+8 person described in subdivision (1) or (2).
+9 Sec. 9. (a) As used in this chapter, "third party furnisher"
+10 means a person that regularly and in the ordinary course of
+11 business furnishes to one (1) or more consumer reporting agencies
+12 information about the transactions and experiences of one (1) or
+13 more health care providers with one (1) or more consumers,
+14 including information regarding delinquent account actions,
+15 regardless of whether the delinquent account actions were taken
+16 by:
+17 (1) the person;
+18 (2) the health care provider on whose behalf the person
+19 furnishes the information; or
+20 (3) any other person.
+21 (b) The term includes a collection agency (as defined in
+22 IC 25-11-1-1) that regularly and in the ordinary course of business
+23 engages in the activities described in subsection (a).
+24 (c) The term includes an affiliate, officer, agent, or employee of
+25 a person described in subsection (a) or (b).
+26 Sec. 10. After June 30, 2026, a health care provider:
+27 (1) shall not report or furnish to a consumer reporting agency
+28 any information related to health care debt owed or alleged to
+29 be owed by a consumer; and
+30 (2) shall include in any contract or agreement entered into
+31 with a third party furnisher a provision that prohibits the
+32 reporting or furnishing to a consumer reporting agency any
+33 information related to health care debt owed or alleged to be
+34 owed by a consumer, including information concerning any
+35 delinquent account action taken with respect to health care
+36 debt owed or alleged to be owed by a consumer.
+37 Sec. 11. (a) Subject to subsection (b), a consumer reporting
+38 agency shall not record or retain in the file of a consumer any
+39 information that is:
+40 (1) related to health care debt incurred or alleged to be
+41 incurred by the consumer; and
+42 (2) reported or furnished to the consumer reporting agency
+2026 IN 1051—LS 6073/DI 154
+4
+1 after June 30, 2026.
+2 (b) If a consumer reporting agency receives a request from a
+3 consumer to delete any record of health care debt maintained in
+4 the file of the consumer, the consumer reporting agency shall, not
+5 later than five (5) business days after receiving the request, take all
+6 lawful and reasonable actions to delete, or cause to be deleted,
+7 from the consumer's file the record of the health care debt,
+8 regardless of when the health care debt was reported or furnished
+9 to the consumer reporting agency. A consumer reporting agency
+10 may:
+11 (1) prescribe the form and manner in which a consumer must
+12 submit to the consumer reporting agency a request under this
+13 subsection; and
+14 (2) require the consumer to furnish proper identification in
+15 connection with submitting the request.
+16 A consumer reporting agency may not impose any fee or other
+17 charge on any consumer in connection with fulfilling a request
+18 submitted under this subsection.
+19 Sec. 12. A person who violates section 10 or 11 of this chapter
+20 commits a deceptive act that is actionable under IC 24-5-0.5 only
+21 by the attorney general under IC 24-5-0.5-4(c).
+2026 IN 1051—LS 6073/DI 154
+[DELETED:  c p f r o f t a c6I]
+[DELETED:  2 ( A u i t c " m a6I]
+[DELETED:  c c g r p a p t f m f o d o o  t p o a o e c c T t d n i a e d a 6I]
+[DELETED:  s f t p o h c s a p o a s ( d i a p t r a i t o c o h c p w o ( o m c i r d a a t h c p o w b t p T t i a c a ( d i r t h c d i o a t b6I]
+[DELETED:  t c f t r o t h c d6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1051
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 24-5-23.8.
+Synopsis: Exclusion of medical debt from credit scoring. Prohibits a
+health care provider from reporting or furnishing to a consumer
+reporting agency any information related to health care debt owed or
+alleged to be owed by a consumer who resides in Indiana. Requires a
+health care provider to include in any contract entered into with a third
+party furnisher a provision that prohibits the reporting or furnishing to
+a consumer reporting agency any information related to health care
+debt owed or alleged to be owed by a consumer, including information
+concerning any delinquent account action taken with respect to health
+care debt. Prohibits a consumer reporting agency from recording or
+retaining in the file of a consumer any information that is: (1) related
+to health care debt incurred or alleged to be incurred by the consumer;
+and (2) reported to the consumer reporting agency after June 30, 2026.
+Provides that if a consumer reporting agency receives a request from
+a consumer to delete any record of health care debt maintained in the
+file of the consumer, the consumer reporting agency shall, not later
+than five business days after receiving the request, take all lawful and
+reasonable actions to delete from the consumer's file the record of the
+health care debt, regardless of when the health care debt was reported
+to the consumer reporting agency. Provides that a person who violates
+the provisions of this act commits a deceptive act.
+Effective: July 1, 2026.
+Summers
+December 5, 2025, read first time and referred to Committee on Financial Institutions.
+2026 IN 1051—LS 6073/DI 154
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1051
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-5-23.8 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 23.8. Health Care Debt Reporting
+5 Sec. 1. As used in this chapter, "affiliate" means any person who
+6 directly or indirectly:
+7 (1) controls;
+8 (2) is controlled by; or
+9 (3) is under the common control of;
+10 another person.
+11 Sec. 2. (a) As used in this chapter, "consumer" means an
+12 individual whose principal residence is in Indiana.
+13 (b) The term includes the following:
+14 (1) A protected consumer (as defined in IC 24-5-24.5-4).
+15 (2) A representative acting on behalf of a protected consumer
+16 (as defined in IC 24-5-24.5-4).
+17 Sec. 3. As used in this chapter, "consumer report" means any
+2026 IN 1051—LS 6073/DI 154
+
+2
+1 written, oral, or other communication of any information that:
+2 (1) is made by a consumer reporting agency;
+3 (2) bears on a consumer's creditworthiness, credit standing,
+4 credit capacity, character, general reputation, personal
+5 characteristics, or mode of living; and
+6 (3) is used or expected to be used or collected in whole or in
+7 part for the purpose of serving as a factor in establishing a
+8 consumer's eligibility for:
+9 (A) credit or insurance to be used primarily for personal,
+10 family, or household purposes;
+11 (B) employment purposes; or
+12 (C) any other purpose authorized under Section 604 of the
+13 federal Fair Credit Reporting Act (15 U.S.C. 1681b).
+14 Sec. 4. (a) As used in this chapter, "consumer reporting agency"
+15 means any person that, for monetary fees or dues, or on a
+16 cooperative nonprofit basis, regularly engages in whole or in part
+17 in the practice of assembling or evaluating consumer credit
+18 information or other information on consumers for the purpose of
+19 furnishing a consumer report to third parties.
+20 (b) The term does not include an entity designated as a
+21 commercially reasonable private consumer credit reporting entity
+22 under IC 24-4.5-7-404(5).
+23 Sec. 5. As used in this chapter, "delinquent account action",
+24 with respect to a consumer's delinquent account with a health care
+25 provider, means any action taken to initiate, or in furtherance of:
+26 (1) placing the customer's account for collection;
+27 (2) charging the customer's account to profit or loss; or
+28 (3) subjecting the customer's account to any similar action;
+29 whether taken through the health care provider's own actions or
+30 those of a third party furnisher.
+31 Sec. 6. As used in this chapter, "file", when used in connection
+32 with information on a consumer, means all the information on that
+33 consumer that is recorded and retained by a consumer reporting
+34 agency, regardless of how the information is stored.
+35 Sec. 7. (a) As used in this chapter, "health care debt" means an
+36 obligation or an alleged obligation of a consumer to pay an amount
+37 related to the receipt of health care services, products, or devices
+38 provided to a person by a health care provider.
+39 (b) The term does not include debt charged to a credit card
+40 unless the credit card is issued under:
+41 (1) an open-end plan; or
+42 (2) a closed-end plan;
+2026 IN 1051—LS 6073/DI 154
+
+3
+1 offered specifically for the payment of health care services,
+2 products, or devices provided to a person.
+3 Sec. 8. As used in this chapter, "health care provider" means:
+4 (1) a hospital or facility listed in IC 16-39-7-1(a)(13); or
+5 (2) a provider of ambulance services (as defined in
+6 IC 16-18-2-13.4).
+7 The term includes an affiliate, officer, agent, or employee of a
+8 person described in subdivision (1) or (2).
+9 Sec. 9. (a) As used in this chapter, "third party furnisher"
+10 means a person that regularly and in the ordinary course of
+11 business furnishes to one (1) or more consumer reporting agencies
+12 information about the transactions and experiences of one (1) or
+13 more health care providers with one (1) or more consumers,
+14 including information regarding delinquent account actions,
+15 regardless of whether the delinquent account actions were taken
+16 by:
+17 (1) the person;
+18 (2) the health care provider on whose behalf the person
+19 furnishes the information; or
+20 (3) any other person.
+21 (b) The term includes a collection agency (as defined in
+22 IC 25-11-1-1) that regularly and in the ordinary course of business
+23 engages in the activities described in subsection (a).
+24 (c) The term includes an affiliate, officer, agent, or employee of
+25 a person described in subsection (a) or (b).
+26 Sec. 10. After June 30, 2026, a health care provider:
+27 (1) shall not report or furnish to a consumer reporting agency
+28 any information related to health care debt owed or alleged to
+29 be owed by a consumer; and
+30 (2) shall include in any contract or agreement entered into
+31 with a third party furnisher a provision that prohibits the
+32 reporting or furnishing to a consumer reporting agency any
+33 information related to health care debt owed or alleged to be
+34 owed by a consumer, including information concerning any
+35 delinquent account action taken with respect to health care
+36 debt owed or alleged to be owed by a consumer.
+37 Sec. 11. (a) Subject to subsection (b), a consumer reporting
+38 agency shall not record or retain in the file of a consumer any
+39 information that is:
+40 (1) related to health care debt incurred or alleged to be
+41 incurred by the consumer; and
+42 (2) reported or furnished to the consumer reporting agency
+2026 IN 1051—LS 6073/DI 154
+
+4
+1 after June 30, 2026.
+2 (b) If a consumer reporting agency receives a request from a
+3 consumer to delete any record of health care debt maintained in
+4 the file of the consumer, the consumer reporting agency shall, not
+5 later than five (5) business days after receiving the request, take all
+6 lawful and reasonable actions to delete, or cause to be deleted,
+7 from the consumer's file the record of the health care debt,
+8 regardless of when the health care debt was reported or furnished
+9 to the consumer reporting agency. A consumer reporting agency
+10 may:
+11 (1) prescribe the form and manner in which a consumer must
+12 submit to the consumer reporting agency a request under this
+13 subsection; and
+14 (2) require the consumer to furnish proper identification in
+15 connection with submitting the request.
+16 A consumer reporting agency may not impose any fee or other
+17 charge on any consumer in connection with fulfilling a request
+18 submitted under this subsection.
+19 Sec. 12. A person who violates section 10 or 11 of this chapter
+20 commits a deceptive act that is actionable under IC 24-5-0.5 only
+21 by the attorney general under IC 24-5-0.5-4(c).
+2026 IN 1051—LS 6073/DI 154
+
+[DELETED:  c p f r o f t a c6I]
+[DELETED:  2 ( A u i t c " m a6I]
+[DELETED:  c c g r p a p t f m f o d o o  t p o a o e c c T t d n i a e d a 6I]
+[DELETED:  s f t p o h c s a p o a s ( d i a p t r a i t o c o h c p w o ( o m c i r d a a t h c p o w b t p T t i a c a ( d i r t h c d i o a t b6I]
+[DELETED:  t c f t r o t h c d6I]

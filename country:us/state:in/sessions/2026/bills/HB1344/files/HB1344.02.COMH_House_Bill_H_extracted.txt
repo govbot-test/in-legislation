@@ -1,0 +1,1652 @@
+Title: HOUSE BILL No. 1344
+Official Title: HOUSE BILL No. 1344
+Number of Sections: 1
+Source: versions - House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+*HB1344.1*
+January 22, 2026
+_____
+DIGEST OF HB 1344 (Updated January 22, 2026 10:03 am - DI 151)
+Citations Affected: IC 33-34; IC 33-37; IC 33-39.
+Synopsis: Funding of prosecuting attorney operations. Establishes the
+public prosecution fund and a prosecuting attorney compensation fee
+(a court fee) of $10 for certain actions and $50 for certain actions
+which will be deposited in the state general fund. Provides that a
+county may be reimbursed for certain prosecutorial expenses from the
+fund, unless the prosecuting attorney in the county is a noncompliant
+prosecuting attorney. Requires the Indiana prosecuting attorney's
+council to set standards for reimbursement.
+Effective: July 1, 2026.
+Steuerwald, Jeter, Zimmerman,
+Bascom
+January 6, 2026, read first time and referred to Committee on Judiciary.
+January 22, 2026, amended, reported — Do Pass. Referred to Committee on Ways and
+Means pursuant to Rule 126.3.
+HB 1344—LS 6815/DI 151
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1344
+A BILL FOR AN ACT to amend the Indiana Code concerning
+courts and court officers.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 33-34-8-1, AS AMENDED BY P.L.213-2025,
+2 SECTION 301, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) The following fees and costs
+4 apply to cases in the small claims court:
+5 (1) A township docket fee of five dollars ($5) plus forty-five
+6 percent (45%) of the infraction or ordinance violation costs fee
+7 under IC 33-37-4-2.
+8 (2) The bailiff's service of process by registered or certified mail
+9 fee of fifteen dollars ($15) for each service.
+10 (3) The cost for the personal service of process by the bailiff or
+11 other process server of fifteen dollars ($15) for each service.
+12 (4) Witness fees, if any, in the amount provided by IC 33-37-10-3
+13 to be taxed and charged in the circuit court.
+14 (5) A redocketing fee, if any, of five dollars ($5).
+15 (6) A document storage fee under IC 33-37-5-20.
+16 (7) An automated record keeping fee under IC 33-37-5-21.
+17 (8) A late fee, if any, under IC 33-37-5-22.
+HB 1344—LS 6815/DI 151
+2
+1 (9) A public defense administration fee under IC 33-37-5-21.2.
+2 (10) A judicial insurance adjustment fee under IC 33-37-5-25.
+3 (11) A judicial salaries fee under IC 33-37-5-26.
+4 (12) A court administration fee under IC 33-37-5-27.
+5 (13) A pro bono legal services fee under IC 33-37-5-31.
+6 (14) A sheriff's service of process fee under IC 33-37-5-15 for
+7 each service of process performed outside Marion County.
+8 (15) A small claims service fee of twenty-six dollars ($26) under
+9 IC 33-37-5-35.
+10 (16) A prosecuting attorney compensation fee under
+11 IC 33-37-5-37.
+12 The township docket fee and the cost for the initial service of process
+13 shall be paid at the institution of a case. The cost of service after the
+14 initial service shall be assessed and paid after service has been made.
+15 The cost of witness fees shall be paid before the witnesses are called.
+16 (b) If the amount of the township docket fee computed under
+17 subsection (a)(1) is not equal to a whole number, the amount shall be
+18 rounded to the next highest whole number.
+19 SECTION 2. IC 33-34-8-3, AS AMENDED BY P.L.213-2025,
+20 SECTION 302, IS AMENDED TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) Payment for all costs made as
+22 a result of proceedings in a small claims court shall be to the _______
+23 Township of Marion County Small Claims Court (with the name of the
+24 township inserted). The court shall issue a receipt for all money
+25 received on a form numbered serially in duplicate.
+26 (b) The court shall distribute collected fees according the following:
+27 (1) Distribute semiannually to the state comptroller:
+28 (A) all automated record keeping fees (IC 33-37-5-21)
+29 received by the court for deposit in the homeowner protection
+30 unit account established by IC 4-6-12-9 and the state user fee
+31 fund established under IC 33-37-9;
+32 (B) all public defense administration fees collected by the
+33 court under IC 33-37-5-21.2 for deposit in the state general
+34 fund;
+35 (C) sixty percent (60%) of all court administration fees
+36 collected by the court under IC 33-37-5-27 for deposit in the
+37 state general fund;
+38 (D) all judicial insurance adjustment fees collected by the
+39 court under IC 33-37-5-25 for deposit in the state general fund;
+40 (E) seventy-five percent (75%) of all judicial salaries fees
+41 collected by the court under IC 33-37-5-26 for deposit in the
+42 state general fund; and
+HB 1344—LS 6815/DI 151
+3
+1 (F) one hundred percent (100%) of the pro bono legal services
+2 fees collected by the court under IC 33-37-5-31 for deposit in
+3 the pro bono legal services fund established by IC 33-37-5-34;
+4 and
+5 (G) all prosecuting attorney compensation fees collected by
+6 the court under IC 33-37-5-37 for deposit in the state
+7 general fund.
+8 (2) Distribute monthly to the county auditor all document storage
+9 fees received by the court. The county auditor shall deposit the
+10 document storage fees received under this subdivision into the
+11 clerk's record perpetuation fund under IC 33-37-5-2.
+12 (3) Distribute the following fees monthly to the county auditor for
+13 deposit in the small claims fund established under IC 33-37-5-36:
+14 (A) The remaining twenty-five percent (25%) of the judicial
+15 salaries fees described in subdivision (1)(E).
+16 (B) Township docket fees and late fees.
+17 (C) Small claims service fee received under IC 33-37-5-35.
+18 (D) The remaining forty percent (40%) of the court
+19 administration fees described under subdivision (1)(C).
+20 SECTION 3. IC 33-37-4-1, AS AMENDED BY P.L.120-2023,
+21 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 1. (a) For each action that results in a felony
+23 conviction under IC 35-50-2 or a misdemeanor conviction under
+24 IC 35-50-3, the clerk shall collect from the defendant a criminal costs
+25 fee of one hundred twenty dollars ($120).
+26 (b) In addition to the criminal costs fee collected under this section,
+27 the clerk shall collect from the defendant the following fees if they are
+28 required under IC 33-37-5:
+29 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+30 IC 33-37-5-4).
+31 (2) A marijuana eradication program fee (IC 33-37-5-7).
+32 (3) An alcohol and drug services program fee (IC 33-37-5-8(b)).
+33 (4) A law enforcement continuing education program fee
+34 (IC 33-37-5-8(c)).
+35 (5) A drug abuse, prosecution, interdiction, and correction fee
+36 (IC 33-37-5-9).
+37 (6) An alcohol and drug countermeasures fee (IC 33-37-5-10).
+38 (7) A child abuse prevention fee (IC 33-37-5-12).
+39 (8) A domestic violence prevention and treatment fee
+40 (IC 33-37-5-13).
+41 (9) A highway worksite fee (IC 33-37-5-14).
+42 (10) A deferred prosecution fee (IC 33-37-5-17).
+HB 1344—LS 6815/DI 151
+4
+1 (11) A document storage fee (IC 33-37-5-20).
+2 (12) An automated record keeping fee (IC 33-37-5-21).
+3 (13) A late payment fee (IC 33-37-5-22).
+4 (14) A sexual assault victims assistance fee (IC 33-37-5-23).
+5 (15) A public defense administration fee (IC 33-37-5-21.2).
+6 (16) A judicial insurance adjustment fee (IC 33-37-5-25).
+7 (17) A judicial salaries fee (IC 33-37-5-26).
+8 (18) A court administration fee (IC 33-37-5-27).
+9 (19) A DNA sample processing fee (IC 33-37-5-26.2).
+10 (20) A prosecuting attorney compensation fee (IC 33-37-5-37).
+11 (c) Instead of the criminal costs fee prescribed by this section,
+12 except for the automated record keeping fee (IC 33-37-5-21), the clerk
+13 shall collect a pretrial diversion program fee if an agreement between
+14 the prosecuting attorney and the accused person entered into under
+15 IC 33-39-1-8 requires payment of those fees by the accused person.
+16 The pretrial diversion program fee is:
+17 (1) an initial user's fee of fifty dollars ($50) for a misdemeanor
+18 offense;
+19 (2) an initial user's fee of seventy-five dollars ($75) for a felony
+20 offense;
+21 (3) a monthly user's fee of twenty dollars ($20) for each month
+22 that the person remains in the pretrial diversion program; and
+23 (4) any additional program fee or cost that is:
+24 (A) reasonably related to the person's rehabilitation; and
+25 (B) approved by the court.
+26 A monthly user fee may not be collected beyond the maximum length
+27 of the possible sentence.
+28 (d) The clerk shall transfer to the county auditor or city or town
+29 fiscal officer the following fees, not later than thirty (30) days after the
+30 fees are collected:
+31 (1) The pretrial diversion fee.
+32 (2) The marijuana eradication program fee.
+33 (3) The alcohol and drug services program fee.
+34 (4) The law enforcement continuing education program fee.
+35 The auditor or fiscal officer shall deposit fees transferred under this
+36 subsection in the appropriate user fee fund established under
+37 IC 33-37-8.
+38 (e) Unless otherwise directed by a court, if a clerk collects only part
+39 of a criminal costs fee from a defendant under this section, the clerk
+40 shall distribute the partial payment of the criminal costs fee as follows:
+41 (1) The clerk shall apply the partial payment to general court
+42 costs.
+HB 1344—LS 6815/DI 151
+5
+1 (2) If there is money remaining after the partial payment is
+2 applied to general court costs under subdivision (1), the clerk
+3 shall distribute the remainder of the partial payment for deposit in
+4 the appropriate county user fee fund.
+5 (3) If there is money remaining after distribution under
+6 subdivision (2), the clerk shall distribute the remainder of the
+7 partial payment for deposit in the state user fee fund.
+8 (4) If there is money remaining after distribution under
+9 subdivision (3), the clerk shall distribute the remainder of the
+10 partial payment to any other applicable user fee fund.
+11 (5) If there is money remaining after distribution under
+12 subdivision (4), the clerk shall apply the remainder of the partial
+13 payment to any outstanding fines owed by the defendant.
+14 SECTION 4. IC 33-37-4-2, AS AMENDED BY P.L.120-2023,
+15 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 2. (a) Except as provided in subsections (d) and
+17 (e), for each action that results in a judgment:
+18 (1) for a violation constituting an infraction; or
+19 (2) for a violation of an ordinance of a municipal corporation (as
+20 defined in IC 36-1-2-10);
+21 the clerk shall collect from the defendant an infraction or ordinance
+22 violation costs fee of seventy dollars ($70).
+23 (b) In addition to the infraction or ordinance violation costs fee
+24 collected under this section, the clerk shall collect from the defendant
+25 the following fees, if they are required under IC 33-37-5:
+26 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+27 IC 33-37-5-4).
+28 (2) An alcohol and drug services program fee (IC 33-37-5-8(b)).
+29 (3) A law enforcement continuing education program fee
+30 (IC 33-37-5-8(c)).
+31 (4) An alcohol and drug countermeasures fee (IC 33-37-5-10).
+32 (5) A highway worksite fee (IC 33-37-5-14).
+33 (6) A deferred prosecution fee (IC 33-37-5-17).
+34 (7) A jury fee (IC 33-37-5-19).
+35 (8) A document storage fee (IC 33-37-5-20).
+36 (9) An automated record keeping fee (IC 33-37-5-21).
+37 (10) A late payment fee (IC 33-37-5-22).
+38 (11) A public defense administration fee (IC 33-37-5-21.2).
+39 (12) A judicial insurance adjustment fee (IC 33-37-5-25).
+40 (13) A judicial salaries fee (IC 33-37-5-26).
+41 (14) A court administration fee (IC 33-37-5-27).
+42 (15) A DNA sample processing fee (IC 33-37-5-26.2).
+HB 1344—LS 6815/DI 151
+6
+1 (16) A prosecuting attorney compensation fee (IC 33-37-5-37).
+2 (c) The clerk shall transfer to the county auditor or fiscal officer of
+3 the municipal corporation the following fees, not later than thirty (30)
+4 days after the fees are collected:
+5 (1) The alcohol and drug services program fee (IC 33-37-5-8(b)).
+6 (2) The law enforcement continuing education program fee
+7 (IC 33-37-5-8(c)).
+8 (3) The deferral program fee (subsection (e)).
+9 The auditor or fiscal officer shall deposit the fees in the user fee fund
+10 established under IC 33-37-8.
+11 (d) The defendant is not liable for any ordinance violation costs fee
+12 in an action if all the following apply:
+13 (1) The defendant was charged with an ordinance violation
+14 subject to IC 33-36.
+15 (2) The defendant denied the violation under IC 33-36-3.
+16 (3) Proceedings in court against the defendant were initiated
+17 under IC 34-28-5 (or IC 34-4-32 before its repeal).
+18 (4) The defendant was tried and the court entered judgment for
+19 the defendant for the violation.
+20 (e) Instead of the infraction or ordinance violation costs fee
+21 prescribed by subsection (a), except for the automated record keeping
+22 fee (IC 33-37-5-21), the clerk shall collect a deferral program fee if an
+23 agreement between a prosecuting attorney or an attorney for a
+24 municipal corporation and the person charged with a violation entered
+25 into under IC 34-28-5-1 (or IC 34-4-32-1 before its repeal) requires
+26 payment of those fees by the person charged with the violation. The
+27 deferral program fee is:
+28 (1) an initial user's fee not to exceed fifty-two dollars ($52); and
+29 (2) a monthly user's fee not to exceed ten dollars ($10) for each
+30 month the person remains in the deferral program.
+31 (f) The fees prescribed by this section are costs for purposes of
+32 IC 34-28-5-5 and may be collected from a defendant against whom
+33 judgment is entered. Any penalty assessed is in addition to costs.
+34 SECTION 5. IC 33-37-4-3, AS AMENDED BY P.L.85-2017,
+35 SECTION 110, IS AMENDED TO READ AS FOLLOWS
+36 [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) The clerk shall collect a
+37 juvenile costs fee of one hundred twenty dollars ($120) for each action
+38 filed under any of the following:
+39 (1) IC 31-34 (children in need of services).
+40 (2) IC 31-37 (delinquent children).
+41 (3) IC 31-14 (paternity).
+42 (b) In addition to the juvenile costs fee collected under this section,
+HB 1344—LS 6815/DI 151
+7
+1 the clerk shall collect the following fees, if they are required under
+2 IC 33-37-5:
+3 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+4 IC 33-37-5-4).
+5 (2) A marijuana eradication program fee (IC 33-37-5-7).
+6 (3) An alcohol and drug services program fee (IC 33-37-5-8(b)).
+7 (4) A law enforcement continuing education program fee
+8 (IC 33-37-5-8(c)).
+9 (5) An alcohol and drug countermeasures fee (IC 33-37-5-10).
+10 (6) A document storage fee (IC 33-37-5-20).
+11 (7) An automated record keeping fee (IC 33-37-5-21).
+12 (8) A late payment fee (IC 33-37-5-22).
+13 (9) A public defense administration fee (IC 33-37-5-21.2).
+14 (10) A judicial insurance adjustment fee (IC 33-37-5-25).
+15 (11) A judicial salaries fee (IC 33-37-5-26).
+16 (12) A court administration fee (IC 33-37-5-27).
+17 (13) A DNA sample processing fee (IC 33-37-5-26.2).
+18 (14) A prosecuting attorney compensation fee (IC 33-37-5-37).
+19 (c) The clerk shall transfer to the county auditor or city or town
+20 fiscal officer the following fees not later than thirty (30) days after they
+21 are collected:
+22 (1) The marijuana eradication program fee (IC 33-37-5-7).
+23 (2) The alcohol and drug services program fee (IC 33-37-5-8(b)).
+24 (3) The law enforcement continuing education program fee
+25 (IC 33-37-5-8(c)).
+26 The auditor or fiscal officer shall deposit the fees in the appropriate
+27 user fee fund established under IC 33-37-8.
+28 SECTION 6. IC 33-37-4-4, AS AMENDED BY P.L.106-2025,
+29 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 4. (a) The clerk shall collect a civil costs fee of
+31 one hundred dollars ($100) from a party filing a civil action. This
+32 subsection does not apply to the following civil actions:
+33 (1) Proceedings to enforce a statute defining an infraction under
+34 IC 34-28-5 (or IC 34-4-32 before its repeal).
+35 (2) Proceedings to enforce an ordinance under IC 34-28-5 (or
+36 IC 34-4-32 before its repeal).
+37 (3) Proceedings in juvenile court under IC 31-34 or IC 31-37.
+38 (4) Proceedings in paternity under IC 31-14.
+39 (5) Proceedings in small claims court under IC 33-34.
+40 (6) Proceedings in actions described in section 7 of this chapter.
+41 (b) In addition to the civil costs fee collected under this section, the
+42 clerk shall collect the following fees, if they are required under
+HB 1344—LS 6815/DI 151
+8
+1 IC 33-37-5:
+2 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+3 IC 33-37-5-4).
+4 (2) A support and maintenance fee (IC 33-37-5-6).
+5 (3) A document storage fee (IC 33-37-5-20).
+6 (4) An automated record keeping fee (IC 33-37-5-21).
+7 (5) A public defense administration fee (IC 33-37-5-21.2).
+8 (6) A judicial insurance adjustment fee (IC 33-37-5-25).
+9 (7) A judicial salaries fee (IC 33-37-5-26).
+10 (8) A court administration fee (IC 33-37-5-27).
+11 (9) A service fee (IC 33-37-5-28(b)(1) or IC 33-37-5-28(b)(2)).
+12 (10) A garnishee service fee (IC 33-37-5-28(b)(3) or
+13 IC 33-37-5-28(b)(4)).
+14 (11) For a mortgage foreclosure action, a mortgage foreclosure
+15 counseling and education fee (IC 33-37-5-33) (before its
+16 expiration on July 1, 2017).
+17 (12) A pro bono legal services fee (IC 33-37-5-31).
+18 (13) A jury fee (IC 33-37-5-19.5).
+19 (14) A prosecuting attorney compensation fee (IC 33-37-5-37).
+20 SECTION 7. IC 33-37-4-6, AS AMENDED BY P.L.106-2025,
+21 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 6. (a) For each small claims action, the clerk shall
+23 collect the following fees:
+24 (1) From the party filing the action:
+25 (A) a small claims costs fee of thirty-five dollars ($35);
+26 (B) a small claims service fee of ten dollars ($10) for each
+27 named defendant that is not a garnishee defendant; and
+28 (C) if the party has named more than three (3) garnishees or
+29 garnishee defendants, a small claims garnishee service fee of
+30 ten dollars ($10) for each garnishee or garnishee defendant in
+31 excess of three (3).
+32 (2) From any party adding a defendant that is not a garnishee
+33 defendant, a small claims service fee of ten dollars ($10) for each
+34 defendant that is not a garnishee defendant added in the action.
+35 (3) From any party adding a garnishee or garnishee defendant, a
+36 small claims garnishee service fee of ten dollars ($10) for each
+37 garnishee or garnishee defendant added to the action. However,
+38 a clerk may not collect a small claims garnishee service fee for the
+39 first three (3) garnishees named in the action.
+40 However, a clerk may not collect a small claims costs fee, small claims
+41 service fee, or small claims garnishee service fee for a small claims
+42 action filed by or on behalf of the attorney general.
+HB 1344—LS 6815/DI 151
+9
+1 (b) A clerk may not collect a fee under subsection (a)(1)(B),
+2 (a)(1)(C), (a)(2), or (a)(3) for a small claims action filed through the
+3 Indiana electronic filing system adopted by the Indiana supreme court.
+4 (c) In addition to a small claims costs fee, small claims service fee,
+5 and small claims garnishee service fee collected under this section, the
+6 clerk shall collect the following fees, if they are required under
+7 IC 33-37-5:
+8 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+9 IC 33-37-5-4).
+10 (2) A document storage fee (IC 33-37-5-20).
+11 (3) An automated record keeping fee (IC 33-37-5-21).
+12 (4) A public defense administration fee (IC 33-37-5-21.2).
+13 (5) A judicial insurance adjustment fee (IC 33-37-5-25).
+14 (6) A judicial salaries fee (IC 33-37-5-26).
+15 (7) A court administration fee (IC 33-37-5-27).
+16 (8) A pro bono legal services fee (IC 33-37-5-31).
+17 (9) A prosecuting attorney compensation fee (IC 33-37-5-37).
+18 SECTION 8. IC 33-37-4-7, AS AMENDED BY P.L.106-2025,
+19 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 7. (a) Except as provided under subsection (c), the
+21 clerk shall collect from the party filing the action a probate costs fee of
+22 one hundred twenty dollars ($120) for each action filed under any of
+23 the following:
+24 (1) IC 29 (probate).
+25 (2) IC 30 (trusts and fiduciaries).
+26 (b) In addition to the probate costs fee collected under subsection
+27 (a), the clerk shall collect from the party filing the action the following
+28 fees, if they are required under IC 33-37-5:
+29 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+30 IC 33-37-5-4).
+31 (2) A document storage fee (IC 33-37-5-20).
+32 (3) An automated record keeping fee (IC 33-37-5-21).
+33 (4) A public defense administration fee (IC 33-37-5-21.2).
+34 (5) A judicial insurance adjustment fee (IC 33-37-5-25).
+35 (6) A judicial salaries fee (IC 33-37-5-26).
+36 (7) A court administration fee (IC 33-37-5-27).
+37 (8) A pro bono legal services fee (IC 33-37-5-31).
+38 (9) A prosecuting attorney compensation fee (IC 33-37-5-37).
+39 (c) A clerk may not collect a court costs fee for the filing of the
+40 following exempted actions:
+41 (1) Petition to open a safety deposit box.
+42 (2) Filing an inheritance tax return, unless proceedings other than
+HB 1344—LS 6815/DI 151
+10
+1 the court's approval of the return become necessary.
+2 (3) Offering a will for probate under IC 29-1-7, unless
+3 proceedings other than admitting the will to probate become
+4 necessary.
+5 (4) Filing a closing statement for an estate described in
+6 IC 29-1-8-4.
+7 SECTION 9. IC 33-37-5-37 IS ADDED TO THE INDIANA CODE
+8 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+9 1, 2026]: Sec. 37. (a) This section does not apply to a proceeding
+10 involving a child alleged to be a delinquent child.
+11 (b) This subsection does not apply to the following:
+12 (1) A criminal proceeding.
+13 (2) A proceeding to enforce a statute defining an infraction.
+14 (3) A proceeding for an ordinance violation.
+15 In each action filed in a court described in IC 33-37-1-1 and in each
+16 small claims action in a court described in IC 33-34, the clerk shall
+17 collect a prosecuting attorney compensation fee of ten dollars
+18 ($10).
+19 (c) In each action in which a person is:
+20 (1) convicted of an offense;
+21 (2) required to pay a pretrial diversion fee; or
+22 (3) required to pay a deferral fee;
+23 the clerk shall collect a prosecuting attorney compensation fee of
+24 fifty dollars ($50).
+25 SECTION 10. IC 33-37-7-2, AS AMENDED BY P.L.106-2025,
+26 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2026]: Sec. 2. (a) The clerk of a circuit court shall distribute
+28 semiannually to the state comptroller as the state share for deposit in
+29 the homeowner protection unit account established by IC 4-6-12-9 one
+30 hundred percent (100%) of the automated record keeping fees collected
+31 under IC 33-37-5-21 with respect to actions resulting in the accused
+32 person entering into a pretrial diversion program agreement under
+33 IC 33-39-1-8 or a deferral program agreement under IC 34-28-5-1 and
+34 for deposit in the state general fund seventy percent (70%) of the
+35 amount of fees collected under the following:
+36 (1) IC 33-37-4-1(a) (criminal costs fees).
+37 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+38 (3) IC 33-37-4-3(a) (juvenile costs fees).
+39 (4) IC 33-37-4-4(a) (civil costs fees).
+40 (5) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+41 (6) IC 33-37-4-7(a) (probate costs fees).
+42 (7) IC 33-37-5-17 (deferred prosecution fees).
+HB 1344—LS 6815/DI 151
+11
+1 (b) The clerk of a circuit court shall distribute semiannually to the
+2 state comptroller for deposit in the state user fee fund established in
+3 IC 33-37-9-2 the following:
+4 (1) Twenty-five percent (25%) of the drug abuse, prosecution,
+5 interdiction, and correction fees collected under
+6 IC 33-37-4-1(b)(5).
+7 (2) Twenty-five percent (25%) of the alcohol and drug
+8 countermeasures fees collected under IC 33-37-4-1(b)(6),
+9 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+10 (3) One hundred percent (100%) of the child abuse prevention
+11 fees collected under IC 33-37-4-1(b)(7).
+12 (4) One hundred percent (100%) of the domestic violence
+13 prevention and treatment fees collected under IC 33-37-4-1(b)(8).
+14 (5) One hundred percent (100%) of the highway worksite fees
+15 collected under IC 33-37-4-1(b)(9) and IC 33-37-4-2(b)(5).
+16 (6) Seventy-five percent (75%) of the safe schools fee collected
+17 under IC 33-37-5-18.
+18 (7) One hundred percent (100%) of the automated record keeping
+19 fee collected under IC 33-37-5-21 not distributed under
+20 subsection (a).
+21 (c) The clerk of a circuit court shall distribute monthly to the county
+22 auditor the following:
+23 (1) Seventy-five percent (75%) of the drug abuse, prosecution,
+24 interdiction, and correction fees collected under
+25 IC 33-37-4-1(b)(5).
+26 (2) Seventy-five percent (75%) of the alcohol and drug
+27 countermeasures fees collected under IC 33-37-4-1(b)(6),
+28 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+29 The county auditor shall deposit fees distributed by a clerk under this
+30 subsection into the county drug free community fund established under
+31 IC 5-2-11.
+32 (d) The clerk of a circuit court shall distribute monthly to the county
+33 auditor one hundred percent (100%) of the late payment fees collected
+34 under IC 33-37-5-22. The county auditor shall deposit fees distributed
+35 by a clerk under this subsection as follows:
+36 (1) If directed to do so by an ordinance adopted by the county
+37 fiscal body, the county auditor shall deposit forty percent (40%)
+38 of the fees in the clerk's record perpetuation fund established
+39 under IC 33-37-5-2 and sixty percent (60%) of the fees in the
+40 county general fund.
+41 (2) If the county fiscal body has not adopted an ordinance
+42 described in subdivision (1), the county auditor shall deposit all
+HB 1344—LS 6815/DI 151
+12
+1 the fees in the county general fund.
+2 (e) The clerk of the circuit court shall distribute semiannually to the
+3 state comptroller for deposit in the sexual assault victims assistance
+4 fund established by IC 5-2-6-23(d) one hundred percent (100%) of the
+5 sexual assault victims assistance fees collected under IC 33-37-5-23.
+6 (f) The clerk of a circuit court shall distribute monthly to the county
+7 auditor the following:
+8 (1) One hundred percent (100%) of the support and maintenance
+9 fees for cases designated as non-Title IV-D child support cases in
+10 the Indiana support enforcement tracking system (ISETS) or the
+11 successor statewide automated support enforcement system
+12 collected under IC 33-37-5-6.
+13 (2) The percentage share of the support and maintenance fees for
+14 cases designated as Title IV-D child support cases in ISETS or the
+15 successor statewide automated support enforcement system
+16 collected under IC 33-37-5-6 that is reimbursable to the county at
+17 the federal financial participation rate.
+18 The county clerk shall distribute monthly to the department of child
+19 services the percentage share of the support and maintenance fees for
+20 cases designated as Title IV-D child support cases in ISETS, or the
+21 successor statewide automated support enforcement system, collected
+22 under IC 33-37-5-6 that is not reimbursable to the county at the
+23 applicable federal financial participation rate.
+24 (g) The clerk of a circuit court shall distribute monthly to the county
+25 auditor the following:
+26 (1) One hundred percent (100%) of the small claims service fee
+27 under IC 33-37-4-6(a)(1)(B) or IC 33-37-4-6(a)(2) for deposit in
+28 the county general fund.
+29 (2) One hundred percent (100%) of the small claims garnishee
+30 service fee under IC 33-37-4-6(a)(1)(C) or IC 33-37-4-6(a)(3) for
+31 deposit in the county general fund.
+32 (3) Twenty-five percent (25%) of the safe schools fee collected
+33 under IC 33-37-5-18 for deposit in the county general fund.
+34 (h) This subsection does not apply to court administration fees
+35 collected in small claims actions filed in a court described in IC 33-34.
+36 The clerk of a circuit court shall semiannually distribute to the state
+37 comptroller for deposit in the state general fund one hundred percent
+38 (100%) of the following:
+39 (1) The public defense administration fee collected under
+40 IC 33-37-5-21.2.
+41 (2) The judicial salaries fees collected under IC 33-37-5-26.
+42 (3) The DNA sample processing fees collected under
+HB 1344—LS 6815/DI 151
+13
+1 IC 33-37-5-26.2.
+2 (4) The court administration fees collected under IC 33-37-5-27.
+3 (5) The judicial insurance adjustment fee collected under
+4 IC 33-37-5-25.
+5 (6) The prosecuting attorney compensation fee collected under
+6 IC 33-37-5-37.
+7 (i) The proceeds of the service fee collected under
+8 IC 33-37-5-28(b)(1) or IC 33-37-5-28(b)(2) shall be distributed as
+9 follows:
+10 (1) The clerk shall distribute one hundred percent (100%) of the
+11 service fees collected in a circuit, superior, county, or probate
+12 court to the county auditor for deposit in the county general fund.
+13 (2) The clerk shall distribute one hundred percent (100%) of the
+14 service fees collected in a city or town court to the city or town
+15 fiscal officer for deposit in the city or town general fund.
+16 (j) The proceeds of the garnishee service fee collected under
+17 IC 33-37-5-28(b)(3) or IC 33-37-5-28(b)(4) shall be distributed as
+18 follows:
+19 (1) The clerk shall distribute one hundred percent (100%) of the
+20 garnishee service fees collected in a circuit, superior, county, or
+21 probate court to the county auditor for deposit in the county
+22 general fund.
+23 (2) The clerk shall distribute one hundred percent (100%) of the
+24 garnishee service fees collected in a city or town court to the city
+25 or town fiscal officer for deposit in the city or town general fund.
+26 (k) The clerk of the circuit court shall distribute semiannually to the
+27 state comptroller for deposit in the home ownership education account
+28 established by IC 5-20-1-27 one hundred percent (100%) of the
+29 following:
+30 (1) The mortgage foreclosure counseling and education fees
+31 collected under IC 33-37-5-33 (before its expiration on July 1,
+32 2017).
+33 (2) Any civil penalties imposed and collected by a court for a
+34 violation of a court order in a foreclosure action under
+35 IC 32-30-10.5.
+36 (l) The clerk of a circuit court shall distribute semiannually to the
+37 state comptroller for deposit in the pro bono legal services fund
+38 established by IC 33-37-5-34 one hundred percent (100%) of the pro
+39 bono legal services fees collected under IC 33-37-5-31.
+40 SECTION 11. IC 33-37-7-8, AS AMENDED BY P.L.106-2025,
+41 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]: Sec. 8. (a) The clerk of a city or town court shall
+HB 1344—LS 6815/DI 151
+14
+1 distribute semiannually to the state comptroller as the state share for
+2 deposit in the homeowner protection unit account established by
+3 IC 4-6-12-9 one hundred percent (100%) of the automated record
+4 keeping fees collected under IC 33-37-5-21 with respect to actions
+5 resulting in the accused person entering into a pretrial diversion
+6 program agreement under IC 33-39-1-8 or a deferral program
+7 agreement under IC 34-28-5-1 and for deposit in the state general fund
+8 fifty-five percent (55%) of the amount of fees collected under the
+9 following:
+10 (1) IC 33-37-4-1(a) (criminal costs fees).
+11 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+12 (3) IC 33-37-4-4(a) (civil costs fees).
+13 (4) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+14 (5) IC 33-37-5-17 (deferred prosecution fees).
+15 (b) The city or town fiscal officer shall distribute monthly to the
+16 county auditor as the county share twenty percent (20%) of the amount
+17 of fees collected under the following:
+18 (1) IC 33-37-4-1(a) (criminal costs fees).
+19 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+20 (3) IC 33-37-4-4(a) (civil costs fees).
+21 (4) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+22 (5) IC 33-37-5-17 (deferred prosecution fees).
+23 (c) The city or town fiscal officer shall retain twenty-five percent
+24 (25%) as the city or town share of the fees collected under the
+25 following:
+26 (1) IC 33-37-4-1(a) (criminal costs fees).
+27 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+28 (3) IC 33-37-4-4(a) (civil costs fees).
+29 (4) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+30 (5) IC 33-37-5-17 (deferred prosecution fees).
+31 (d) The clerk of a city or town court shall distribute semiannually to
+32 the state comptroller for deposit in the state user fee fund established
+33 in IC 33-37-9 the following:
+34 (1) Twenty-five percent (25%) of the drug abuse, prosecution,
+35 interdiction, and correction fees collected under
+36 IC 33-37-4-1(b)(5).
+37 (2) Twenty-five percent (25%) of the alcohol and drug
+38 countermeasures fees collected under IC 33-37-4-1(b)(6),
+39 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+40 (3) One hundred percent (100%) of the highway worksite fees
+41 collected under IC 33-37-4-1(b)(9) and IC 33-37-4-2(b)(5).
+42 (4) Seventy-five percent (75%) of the safe schools fee collected
+HB 1344—LS 6815/DI 151
+15
+1 under IC 33-37-5-18.
+2 (5) One hundred percent (100%) of the automated record keeping
+3 fee collected under IC 33-37-5-21 not distributed under
+4 subsection (a).
+5 (e) The clerk of a city or town court shall distribute monthly to the
+6 county auditor the following:
+7 (1) Seventy-five percent (75%) of the drug abuse, prosecution,
+8 interdiction, and correction fees collected under
+9 IC 33-37-4-1(b)(5).
+10 (2) Seventy-five percent (75%) of the alcohol and drug
+11 countermeasures fees collected under IC 33-37-4-1(b)(6),
+12 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+13 The county auditor shall deposit fees distributed by a clerk under this
+14 subsection into the county drug free community fund established under
+15 IC 5-2-11.
+16 (f) The clerk of a city or town court shall distribute monthly to the
+17 city or town fiscal officer (as defined in IC 36-1-2-7) one hundred
+18 percent (100%) of the following:
+19 (1) The late payment fees collected under IC 33-37-5-22.
+20 (2) The small claims service fee collected under
+21 IC 33-37-4-6(a)(1)(B) or IC 33-37-4-6(a)(2).
+22 (3) The small claims garnishee service fee collected under
+23 IC 33-37-4-6(a)(1)(C) or IC 33-37-4-6(a)(3).
+24 (4) Twenty-five percent (25%) of the safe schools fee collected
+25 under IC 33-37-5-18.
+26 The city or town fiscal officer (as defined in IC 36-1-2-7) shall deposit
+27 fees distributed by a clerk under this subsection in the city or town
+28 general fund.
+29 (g) The clerk of a city or town court shall semiannually distribute to
+30 the state comptroller for deposit in the state general fund one hundred
+31 percent (100%) of the following:
+32 (1) The public defense administration fee collected under
+33 IC 33-37-5-21.2.
+34 (2) The DNA sample processing fees collected under
+35 IC 33-37-5-26.2.
+36 (3) The court administration fees collected under IC 33-37-5-27.
+37 (4) The judicial insurance adjustment fee collected under
+38 IC 33-37-5-25.
+39 (5) The prosecuting attorney compensation fee collected under
+40 IC 33-37-5-37.
+41 (h) The clerk of a city or town court shall semiannually distribute to
+42 the state comptroller for deposit in the state general fund seventy-five
+HB 1344—LS 6815/DI 151
+16
+1 percent (75%) of the judicial salaries fee collected under
+2 IC 33-37-5-26. The city or town fiscal officer shall retain twenty-five
+3 percent (25%) of the judicial salaries fee collected under
+4 IC 33-37-5-26. The funds retained by the city or town shall be
+5 prioritized to fund city or town court operations.
+6 (i) The clerk of a city or town court shall distribute semiannually to
+7 the state comptroller for deposit in the pro bono legal services fund
+8 established by IC 33-37-5-34 one hundred percent (100%) of the pro
+9 bono legal services fees collected under IC 33-37-5-31.
+10 SECTION 12. IC 33-39-8-5, AS AMENDED BY P.L.55-2022,
+11 SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 5. The council shall do the following:
+13 (1) Assist in the coordination of the duties of the prosecuting
+14 attorneys of the state and their staffs.
+15 (2) Prepare manuals of procedure.
+16 (3) Give assistance in preparation of the trial briefs, forms, and
+17 instructions.
+18 (4) Conduct training for prosecuting attorneys and the staff of
+19 prosecuting attorneys.
+20 (5) Conduct research and studies that would be of interest and
+21 value to all prosecuting attorneys and their staffs.
+22 (6) Maintain liaison contact with study commissions and agencies
+23 of all branches of local, state, and federal government that will be
+24 of benefit to law enforcement and the fair administration of
+25 justice in Indiana.
+26 (7) Adopt guidelines and standards for services under which
+27 the counties will be eligible for reimbursement under
+28 IC 33-39-11.
+29 (7) (8) Adopt guidelines for the expenditure of funds derived from
+30 a deferral program or a pretrial diversion program.
+31 (8) (9) The council shall:
+32 (A) compile forfeiture data received under IC 34-24-1-4.5; and
+33 (B) annually submit a report to the legislative council
+34 containing the compiled data.
+35 The council shall submit the report to the legislative council before
+36 July 15 of every year. The report must be in an electronic format under
+37 IC 5-14-6. The council may adopt rules under IC 4-22-2 to implement
+38 this subdivision.
+39 SECTION 13. IC 33-39-8.1-9, AS ADDED BY P.L.147-2025,
+40 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2026]: Sec. 9. (a) If the board determines that a prosecuting
+42 attorney is a noncompliant prosecuting attorney, the board shall issue
+HB 1344—LS 6815/DI 151
+17
+1 a report to:
+2 (1) the prosecuting attorneys council of Indiana; and
+3 (2) the alleged noncompliant prosecuting attorney.
+4 (b) Upon receipt of a report that a prosecuting attorney is a
+5 noncompliant prosecuting attorney, the board may notify the state
+6 comptroller.
+7 SECTION 14. IC 33-39-11 IS ADDED TO THE INDIANA CODE
+8 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]:
+10 Chapter 11. Public Prosecution Fund
+11 Sec. 1. As used in this chapter, "council" means the prosecuting
+12 attorneys council of Indiana established by IC 33-39-8-2.
+13 Sec. 2. The public prosecution fund is established to provide
+14 county reimbursement of compensation paid to deputy prosecuting
+15 attorneys and administrative expenses. The fund shall be
+16 administered by the council.
+17 Sec. 3. The fund consists of money appropriated to the fund by
+18 the general assembly.
+19 Sec. 4. The treasurer of state shall invest the money in the fund
+20 not currently needed to meet the obligations of the fund in the same
+21 manner as other public funds may be invested.
+22 Sec. 5. Money in the fund at the end of a state fiscal year does
+23 not revert to the state general fund.
+24 Sec. 6. (a) A county auditor may submit on a quarterly basis a
+25 certified request to the state comptroller for reimbursement from
+26 the public prosecution fund for salary paid to a deputy prosecuting
+27 attorney, other than a chief deputy prosecuting attorney or an
+28 elected prosecuting attorney, if the annual salary of the deputy
+29 prosecuting attorney is equal to at least fifty-five percent (55%) of
+30 the salary paid to the elected full-time prosecuting attorney. The
+31 county auditor may request reimbursement under this subsection
+32 in an amount that does not exceed twenty-seven and one-half
+33 percent (27.5%) of the salary paid to the elected full-time
+34 prosecuting attorney.
+35 (b) A county auditor may submit on a quarterly basis a certified
+36 request to the state comptroller for reimbursement from the public
+37 prosecution fund for the county's expenditures for fringe benefits
+38 provided to a deputy prosecuting attorney, other than a chief
+39 deputy prosecuting attorney or an elected prosecuting attorney, if
+40 the annual salary of the deputy prosecuting attorney is equal to at
+41 least fifty-five percent (55%) of the salary paid to the elected
+42 full-time prosecuting attorney. However, a request for
+HB 1344—LS 6815/DI 151
+18
+1 reimbursement for fringe benefits under this subsection may not
+2 exceed fifteen thousand one hundred forty dollars ($15,140).
+3 Sec. 7. (a) Except as provided in subsection (b), upon receiving
+4 certification from a county auditor, the state comptroller shall
+5 issue a warrant to the treasurer of state for disbursement to the
+6 county of the amount certified.
+7 (b) If the state comptroller has received instruction from the
+8 council under IC 33-39-8.1-9 to withhold payment from the county
+9 because the prosecuting attorney is a noncompliant prosecuting
+10 attorney, the state comptroller shall not issue a warrant under
+11 subsection (a).
+HB 1344—LS 6815/DI 151
+19
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Judiciary, to which was referred
+House Bill 1344, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Page 10, line 17, delete "forty" and insert "ten".
+Page 10, line 18, delete "($40)." and insert "($10).".
+Page 10, line 21, after "fee;" insert "or".
+Page 10, line 22, delete "found to have committed an infraction; or"
+and insert "required to pay a deferral fee;".
+Page 10, delete line 23.
+Page 10, line 24, after "of" insert "fifty dollars ($50).".
+Page 10, delete line 25.
+and when so amended that said bill do pass.
+(Reference is to HB 1344 as introduced.)
+JETER
+Committee Vote: yeas 11, nays 0.
+HB 1344—LS 6815/DI 151
+[DELETED:  a R t I p a]
+[DELETED:  3 I A T R A F]
+[DELETED:  A p a c f u I o t d f c 3 I A T R A F i T c s i a r f a m a a r k f ( 3 s p ( o a c a f]
+[DELETED:  d T r f p ( o t c u I 3 o a m c u A d f ( 3 I 3 o A l e c e p f A d v p a t f]
+[DELETED:  i t a u f f e u]
+[DELETED:  I t i m r a t p p i I t i m r a d u I t i m r a d u I t i m r a d u A d f ( 3 I 3 o A l e c e p f]
+[DELETED:  T l e c e p f T d w c w a o v I o t i o o v c f b a p a o a a f  5 I 3 A A B P 1 I A T R A F]
+[DELETED:  A d f ( 3 I 3 o A l e c e p f T l e c e p f s c t f f i t a r u]
+[DELETED:  A d f ( 3 I 3 o A g s f ( 3 o a e f ( 3 ( i]
+[DELETED:  A c m n c a f u s ( s c t f f i t a r u A d f ( 3 I 3 o A d f ( 3 I 3 o]
+[DELETED:  O a w f p u I 2 u F a c s f a e d i o]
+[DELETED:  a c f c u T p ( o t a a d f c u I 3 O h p ( o t d v c u I 3 n d u a c f c u S p ( o t a a d f c u I 3 I t c f b h n a a o]
+[DELETED:  s a s e s s a s e s I t n r t t c t T p d a f c u T D s p f c u]
+[DELETED:  T j i a f c u T p o t s f c u T p o t g s f c u b I 5 o h p ( o t T m f c a e f o a c o i a f a u c f d i t p b l s f]
+[DELETED:  i t h p u a e b i t a p e i a p d a u I 3 o a d p a t c o t s o t f c u t a c f c u T p ( o t a a d f c u I 3]
+[DELETED:  c u I 3 n d u a c f c u S p ( o t a a d f c u I 3 T s c s f c u T s c g s f c u T p d a f c u T D s p f c u T j i a f c u]
+[DELETED:  ( o t j s f c u ( o t j s f c u 3 T f r b t c o t s b b t l e t f a o c w b e f r u a s a r t t l c 1 I 3 A A B P]
+[DELETED:  a a e T f s bS a ( o t s p t t e f p a H a r f]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+*HB1344.1*
+January 22, 2026
+HOUSE BILL No. 1344
+_____
+DIGEST OF HB 1344 (Updated January 22, 2026 10:03 am - DI 151)
+Citations Affected: IC 33-34; IC 33-37; IC 33-39.
+Synopsis: Funding of prosecuting attorney operations. Establishes the
+public prosecution fund and a prosecuting attorney compensation fee
+(a court fee) of $10 for certain actions and $50 for certain actions
+which will be deposited in the state general fund. Provides that a
+county may be reimbursed for certain prosecutorial expenses from the
+fund, unless the prosecuting attorney in the county is a noncompliant
+prosecuting attorney. Requires the Indiana prosecuting attorney's
+council to set standards for reimbursement.
+Effective: July 1, 2026.
+Steuerwald, Jeter, Zimmerman,
+Bascom
+January 6, 2026, read first time and referred to Committee on Judiciary.
+January 22, 2026, amended, reported — Do Pass. Referred to Committee on Ways and
+Means pursuant to Rule 126.3.
+HB 1344—LS 6815/DI 151
+
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1344
+A BILL FOR AN ACT to amend the Indiana Code concerning
+courts and court officers.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 33-34-8-1, AS AMENDED BY P.L.213-2025,
+2 SECTION 301, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) The following fees and costs
+4 apply to cases in the small claims court:
+5 (1) A township docket fee of five dollars ($5) plus forty-five
+6 percent (45%) of the infraction or ordinance violation costs fee
+7 under IC 33-37-4-2.
+8 (2) The bailiff's service of process by registered or certified mail
+9 fee of fifteen dollars ($15) for each service.
+10 (3) The cost for the personal service of process by the bailiff or
+11 other process server of fifteen dollars ($15) for each service.
+12 (4) Witness fees, if any, in the amount provided by IC 33-37-10-3
+13 to be taxed and charged in the circuit court.
+14 (5) A redocketing fee, if any, of five dollars ($5).
+15 (6) A document storage fee under IC 33-37-5-20.
+16 (7) An automated record keeping fee under IC 33-37-5-21.
+17 (8) A late fee, if any, under IC 33-37-5-22.
+HB 1344—LS 6815/DI 151
+
+2
+1 (9) A public defense administration fee under IC 33-37-5-21.2.
+2 (10) A judicial insurance adjustment fee under IC 33-37-5-25.
+3 (11) A judicial salaries fee under IC 33-37-5-26.
+4 (12) A court administration fee under IC 33-37-5-27.
+5 (13) A pro bono legal services fee under IC 33-37-5-31.
+6 (14) A sheriff's service of process fee under IC 33-37-5-15 for
+7 each service of process performed outside Marion County.
+8 (15) A small claims service fee of twenty-six dollars ($26) under
+9 IC 33-37-5-35.
+10 (16) A prosecuting attorney compensation fee under
+11 IC 33-37-5-37.
+12 The township docket fee and the cost for the initial service of process
+13 shall be paid at the institution of a case. The cost of service after the
+14 initial service shall be assessed and paid after service has been made.
+15 The cost of witness fees shall be paid before the witnesses are called.
+16 (b) If the amount of the township docket fee computed under
+17 subsection (a)(1) is not equal to a whole number, the amount shall be
+18 rounded to the next highest whole number.
+19 SECTION 2. IC 33-34-8-3, AS AMENDED BY P.L.213-2025,
+20 SECTION 302, IS AMENDED TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) Payment for all costs made as
+22 a result of proceedings in a small claims court shall be to the _______
+23 Township of Marion County Small Claims Court (with the name of the
+24 township inserted). The court shall issue a receipt for all money
+25 received on a form numbered serially in duplicate.
+26 (b) The court shall distribute collected fees according the following:
+27 (1) Distribute semiannually to the state comptroller:
+28 (A) all automated record keeping fees (IC 33-37-5-21)
+29 received by the court for deposit in the homeowner protection
+30 unit account established by IC 4-6-12-9 and the state user fee
+31 fund established under IC 33-37-9;
+32 (B) all public defense administration fees collected by the
+33 court under IC 33-37-5-21.2 for deposit in the state general
+34 fund;
+35 (C) sixty percent (60%) of all court administration fees
+36 collected by the court under IC 33-37-5-27 for deposit in the
+37 state general fund;
+38 (D) all judicial insurance adjustment fees collected by the
+39 court under IC 33-37-5-25 for deposit in the state general fund;
+40 (E) seventy-five percent (75%) of all judicial salaries fees
+41 collected by the court under IC 33-37-5-26 for deposit in the
+42 state general fund; and
+HB 1344—LS 6815/DI 151
+
+3
+1 (F) one hundred percent (100%) of the pro bono legal services
+2 fees collected by the court under IC 33-37-5-31 for deposit in
+3 the pro bono legal services fund established by IC 33-37-5-34;
+4 and
+5 (G) all prosecuting attorney compensation fees collected by
+6 the court under IC 33-37-5-37 for deposit in the state
+7 general fund.
+8 (2) Distribute monthly to the county auditor all document storage
+9 fees received by the court. The county auditor shall deposit the
+10 document storage fees received under this subdivision into the
+11 clerk's record perpetuation fund under IC 33-37-5-2.
+12 (3) Distribute the following fees monthly to the county auditor for
+13 deposit in the small claims fund established under IC 33-37-5-36:
+14 (A) The remaining twenty-five percent (25%) of the judicial
+15 salaries fees described in subdivision (1)(E).
+16 (B) Township docket fees and late fees.
+17 (C) Small claims service fee received under IC 33-37-5-35.
+18 (D) The remaining forty percent (40%) of the court
+19 administration fees described under subdivision (1)(C).
+20 SECTION 3. IC 33-37-4-1, AS AMENDED BY P.L.120-2023,
+21 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 1. (a) For each action that results in a felony
+23 conviction under IC 35-50-2 or a misdemeanor conviction under
+24 IC 35-50-3, the clerk shall collect from the defendant a criminal costs
+25 fee of one hundred twenty dollars ($120).
+26 (b) In addition to the criminal costs fee collected under this section,
+27 the clerk shall collect from the defendant the following fees if they are
+28 required under IC 33-37-5:
+29 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+30 IC 33-37-5-4).
+31 (2) A marijuana eradication program fee (IC 33-37-5-7).
+32 (3) An alcohol and drug services program fee (IC 33-37-5-8(b)).
+33 (4) A law enforcement continuing education program fee
+34 (IC 33-37-5-8(c)).
+35 (5) A drug abuse, prosecution, interdiction, and correction fee
+36 (IC 33-37-5-9).
+37 (6) An alcohol and drug countermeasures fee (IC 33-37-5-10).
+38 (7) A child abuse prevention fee (IC 33-37-5-12).
+39 (8) A domestic violence prevention and treatment fee
+40 (IC 33-37-5-13).
+41 (9) A highway worksite fee (IC 33-37-5-14).
+42 (10) A deferred prosecution fee (IC 33-37-5-17).
+HB 1344—LS 6815/DI 151
+
+4
+1 (11) A document storage fee (IC 33-37-5-20).
+2 (12) An automated record keeping fee (IC 33-37-5-21).
+3 (13) A late payment fee (IC 33-37-5-22).
+4 (14) A sexual assault victims assistance fee (IC 33-37-5-23).
+5 (15) A public defense administration fee (IC 33-37-5-21.2).
+6 (16) A judicial insurance adjustment fee (IC 33-37-5-25).
+7 (17) A judicial salaries fee (IC 33-37-5-26).
+8 (18) A court administration fee (IC 33-37-5-27).
+9 (19) A DNA sample processing fee (IC 33-37-5-26.2).
+10 (20) A prosecuting attorney compensation fee (IC 33-37-5-37).
+11 (c) Instead of the criminal costs fee prescribed by this section,
+12 except for the automated record keeping fee (IC 33-37-5-21), the clerk
+13 shall collect a pretrial diversion program fee if an agreement between
+14 the prosecuting attorney and the accused person entered into under
+15 IC 33-39-1-8 requires payment of those fees by the accused person.
+16 The pretrial diversion program fee is:
+17 (1) an initial user's fee of fifty dollars ($50) for a misdemeanor
+18 offense;
+19 (2) an initial user's fee of seventy-five dollars ($75) for a felony
+20 offense;
+21 (3) a monthly user's fee of twenty dollars ($20) for each month
+22 that the person remains in the pretrial diversion program; and
+23 (4) any additional program fee or cost that is:
+24 (A) reasonably related to the person's rehabilitation; and
+25 (B) approved by the court.
+26 A monthly user fee may not be collected beyond the maximum length
+27 of the possible sentence.
+28 (d) The clerk shall transfer to the county auditor or city or town
+29 fiscal officer the following fees, not later than thirty (30) days after the
+30 fees are collected:
+31 (1) The pretrial diversion fee.
+32 (2) The marijuana eradication program fee.
+33 (3) The alcohol and drug services program fee.
+34 (4) The law enforcement continuing education program fee.
+35 The auditor or fiscal officer shall deposit fees transferred under this
+36 subsection in the appropriate user fee fund established under
+37 IC 33-37-8.
+38 (e) Unless otherwise directed by a court, if a clerk collects only part
+39 of a criminal costs fee from a defendant under this section, the clerk
+40 shall distribute the partial payment of the criminal costs fee as follows:
+41 (1) The clerk shall apply the partial payment to general court
+42 costs.
+HB 1344—LS 6815/DI 151
+
+5
+1 (2) If there is money remaining after the partial payment is
+2 applied to general court costs under subdivision (1), the clerk
+3 shall distribute the remainder of the partial payment for deposit in
+4 the appropriate county user fee fund.
+5 (3) If there is money remaining after distribution under
+6 subdivision (2), the clerk shall distribute the remainder of the
+7 partial payment for deposit in the state user fee fund.
+8 (4) If there is money remaining after distribution under
+9 subdivision (3), the clerk shall distribute the remainder of the
+10 partial payment to any other applicable user fee fund.
+11 (5) If there is money remaining after distribution under
+12 subdivision (4), the clerk shall apply the remainder of the partial
+13 payment to any outstanding fines owed by the defendant.
+14 SECTION 4. IC 33-37-4-2, AS AMENDED BY P.L.120-2023,
+15 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 2. (a) Except as provided in subsections (d) and
+17 (e), for each action that results in a judgment:
+18 (1) for a violation constituting an infraction; or
+19 (2) for a violation of an ordinance of a municipal corporation (as
+20 defined in IC 36-1-2-10);
+21 the clerk shall collect from the defendant an infraction or ordinance
+22 violation costs fee of seventy dollars ($70).
+23 (b) In addition to the infraction or ordinance violation costs fee
+24 collected under this section, the clerk shall collect from the defendant
+25 the following fees, if they are required under IC 33-37-5:
+26 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+27 IC 33-37-5-4).
+28 (2) An alcohol and drug services program fee (IC 33-37-5-8(b)).
+29 (3) A law enforcement continuing education program fee
+30 (IC 33-37-5-8(c)).
+31 (4) An alcohol and drug countermeasures fee (IC 33-37-5-10).
+32 (5) A highway worksite fee (IC 33-37-5-14).
+33 (6) A deferred prosecution fee (IC 33-37-5-17).
+34 (7) A jury fee (IC 33-37-5-19).
+35 (8) A document storage fee (IC 33-37-5-20).
+36 (9) An automated record keeping fee (IC 33-37-5-21).
+37 (10) A late payment fee (IC 33-37-5-22).
+38 (11) A public defense administration fee (IC 33-37-5-21.2).
+39 (12) A judicial insurance adjustment fee (IC 33-37-5-25).
+40 (13) A judicial salaries fee (IC 33-37-5-26).
+41 (14) A court administration fee (IC 33-37-5-27).
+42 (15) A DNA sample processing fee (IC 33-37-5-26.2).
+HB 1344—LS 6815/DI 151
+
+6
+1 (16) A prosecuting attorney compensation fee (IC 33-37-5-37).
+2 (c) The clerk shall transfer to the county auditor or fiscal officer of
+3 the municipal corporation the following fees, not later than thirty (30)
+4 days after the fees are collected:
+5 (1) The alcohol and drug services program fee (IC 33-37-5-8(b)).
+6 (2) The law enforcement continuing education program fee
+7 (IC 33-37-5-8(c)).
+8 (3) The deferral program fee (subsection (e)).
+9 The auditor or fiscal officer shall deposit the fees in the user fee fund
+10 established under IC 33-37-8.
+11 (d) The defendant is not liable for any ordinance violation costs fee
+12 in an action if all the following apply:
+13 (1) The defendant was charged with an ordinance violation
+14 subject to IC 33-36.
+15 (2) The defendant denied the violation under IC 33-36-3.
+16 (3) Proceedings in court against the defendant were initiated
+17 under IC 34-28-5 (or IC 34-4-32 before its repeal).
+18 (4) The defendant was tried and the court entered judgment for
+19 the defendant for the violation.
+20 (e) Instead of the infraction or ordinance violation costs fee
+21 prescribed by subsection (a), except for the automated record keeping
+22 fee (IC 33-37-5-21), the clerk shall collect a deferral program fee if an
+23 agreement between a prosecuting attorney or an attorney for a
+24 municipal corporation and the person charged with a violation entered
+25 into under IC 34-28-5-1 (or IC 34-4-32-1 before its repeal) requires
+26 payment of those fees by the person charged with the violation. The
+27 deferral program fee is:
+28 (1) an initial user's fee not to exceed fifty-two dollars ($52); and
+29 (2) a monthly user's fee not to exceed ten dollars ($10) for each
+30 month the person remains in the deferral program.
+31 (f) The fees prescribed by this section are costs for purposes of
+32 IC 34-28-5-5 and may be collected from a defendant against whom
+33 judgment is entered. Any penalty assessed is in addition to costs.
+34 SECTION 5. IC 33-37-4-3, AS AMENDED BY P.L.85-2017,
+35 SECTION 110, IS AMENDED TO READ AS FOLLOWS
+36 [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) The clerk shall collect a
+37 juvenile costs fee of one hundred twenty dollars ($120) for each action
+38 filed under any of the following:
+39 (1) IC 31-34 (children in need of services).
+40 (2) IC 31-37 (delinquent children).
+41 (3) IC 31-14 (paternity).
+42 (b) In addition to the juvenile costs fee collected under this section,
+HB 1344—LS 6815/DI 151
+
+7
+1 the clerk shall collect the following fees, if they are required under
+2 IC 33-37-5:
+3 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+4 IC 33-37-5-4).
+5 (2) A marijuana eradication program fee (IC 33-37-5-7).
+6 (3) An alcohol and drug services program fee (IC 33-37-5-8(b)).
+7 (4) A law enforcement continuing education program fee
+8 (IC 33-37-5-8(c)).
+9 (5) An alcohol and drug countermeasures fee (IC 33-37-5-10).
+10 (6) A document storage fee (IC 33-37-5-20).
+11 (7) An automated record keeping fee (IC 33-37-5-21).
+12 (8) A late payment fee (IC 33-37-5-22).
+13 (9) A public defense administration fee (IC 33-37-5-21.2).
+14 (10) A judicial insurance adjustment fee (IC 33-37-5-25).
+15 (11) A judicial salaries fee (IC 33-37-5-26).
+16 (12) A court administration fee (IC 33-37-5-27).
+17 (13) A DNA sample processing fee (IC 33-37-5-26.2).
+18 (14) A prosecuting attorney compensation fee (IC 33-37-5-37).
+19 (c) The clerk shall transfer to the county auditor or city or town
+20 fiscal officer the following fees not later than thirty (30) days after they
+21 are collected:
+22 (1) The marijuana eradication program fee (IC 33-37-5-7).
+23 (2) The alcohol and drug services program fee (IC 33-37-5-8(b)).
+24 (3) The law enforcement continuing education program fee
+25 (IC 33-37-5-8(c)).
+26 The auditor or fiscal officer shall deposit the fees in the appropriate
+27 user fee fund established under IC 33-37-8.
+28 SECTION 6. IC 33-37-4-4, AS AMENDED BY P.L.106-2025,
+29 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 4. (a) The clerk shall collect a civil costs fee of
+31 one hundred dollars ($100) from a party filing a civil action. This
+32 subsection does not apply to the following civil actions:
+33 (1) Proceedings to enforce a statute defining an infraction under
+34 IC 34-28-5 (or IC 34-4-32 before its repeal).
+35 (2) Proceedings to enforce an ordinance under IC 34-28-5 (or
+36 IC 34-4-32 before its repeal).
+37 (3) Proceedings in juvenile court under IC 31-34 or IC 31-37.
+38 (4) Proceedings in paternity under IC 31-14.
+39 (5) Proceedings in small claims court under IC 33-34.
+40 (6) Proceedings in actions described in section 7 of this chapter.
+41 (b) In addition to the civil costs fee collected under this section, the
+42 clerk shall collect the following fees, if they are required under
+HB 1344—LS 6815/DI 151
+
+8
+1 IC 33-37-5:
+2 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+3 IC 33-37-5-4).
+4 (2) A support and maintenance fee (IC 33-37-5-6).
+5 (3) A document storage fee (IC 33-37-5-20).
+6 (4) An automated record keeping fee (IC 33-37-5-21).
+7 (5) A public defense administration fee (IC 33-37-5-21.2).
+8 (6) A judicial insurance adjustment fee (IC 33-37-5-25).
+9 (7) A judicial salaries fee (IC 33-37-5-26).
+10 (8) A court administration fee (IC 33-37-5-27).
+11 (9) A service fee (IC 33-37-5-28(b)(1) or IC 33-37-5-28(b)(2)).
+12 (10) A garnishee service fee (IC 33-37-5-28(b)(3) or
+13 IC 33-37-5-28(b)(4)).
+14 (11) For a mortgage foreclosure action, a mortgage foreclosure
+15 counseling and education fee (IC 33-37-5-33) (before its
+16 expiration on July 1, 2017).
+17 (12) A pro bono legal services fee (IC 33-37-5-31).
+18 (13) A jury fee (IC 33-37-5-19.5).
+19 (14) A prosecuting attorney compensation fee (IC 33-37-5-37).
+20 SECTION 7. IC 33-37-4-6, AS AMENDED BY P.L.106-2025,
+21 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 6. (a) For each small claims action, the clerk shall
+23 collect the following fees:
+24 (1) From the party filing the action:
+25 (A) a small claims costs fee of thirty-five dollars ($35);
+26 (B) a small claims service fee of ten dollars ($10) for each
+27 named defendant that is not a garnishee defendant; and
+28 (C) if the party has named more than three (3) garnishees or
+29 garnishee defendants, a small claims garnishee service fee of
+30 ten dollars ($10) for each garnishee or garnishee defendant in
+31 excess of three (3).
+32 (2) From any party adding a defendant that is not a garnishee
+33 defendant, a small claims service fee of ten dollars ($10) for each
+34 defendant that is not a garnishee defendant added in the action.
+35 (3) From any party adding a garnishee or garnishee defendant, a
+36 small claims garnishee service fee of ten dollars ($10) for each
+37 garnishee or garnishee defendant added to the action. However,
+38 a clerk may not collect a small claims garnishee service fee for the
+39 first three (3) garnishees named in the action.
+40 However, a clerk may not collect a small claims costs fee, small claims
+41 service fee, or small claims garnishee service fee for a small claims
+42 action filed by or on behalf of the attorney general.
+HB 1344—LS 6815/DI 151
+
+9
+1 (b) A clerk may not collect a fee under subsection (a)(1)(B),
+2 (a)(1)(C), (a)(2), or (a)(3) for a small claims action filed through the
+3 Indiana electronic filing system adopted by the Indiana supreme court.
+4 (c) In addition to a small claims costs fee, small claims service fee,
+5 and small claims garnishee service fee collected under this section, the
+6 clerk shall collect the following fees, if they are required under
+7 IC 33-37-5:
+8 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+9 IC 33-37-5-4).
+10 (2) A document storage fee (IC 33-37-5-20).
+11 (3) An automated record keeping fee (IC 33-37-5-21).
+12 (4) A public defense administration fee (IC 33-37-5-21.2).
+13 (5) A judicial insurance adjustment fee (IC 33-37-5-25).
+14 (6) A judicial salaries fee (IC 33-37-5-26).
+15 (7) A court administration fee (IC 33-37-5-27).
+16 (8) A pro bono legal services fee (IC 33-37-5-31).
+17 (9) A prosecuting attorney compensation fee (IC 33-37-5-37).
+18 SECTION 8. IC 33-37-4-7, AS AMENDED BY P.L.106-2025,
+19 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 7. (a) Except as provided under subsection (c), the
+21 clerk shall collect from the party filing the action a probate costs fee of
+22 one hundred twenty dollars ($120) for each action filed under any of
+23 the following:
+24 (1) IC 29 (probate).
+25 (2) IC 30 (trusts and fiduciaries).
+26 (b) In addition to the probate costs fee collected under subsection
+27 (a), the clerk shall collect from the party filing the action the following
+28 fees, if they are required under IC 33-37-5:
+29 (1) A document fee (IC 33-37-5-1, IC 33-37-5-3, or
+30 IC 33-37-5-4).
+31 (2) A document storage fee (IC 33-37-5-20).
+32 (3) An automated record keeping fee (IC 33-37-5-21).
+33 (4) A public defense administration fee (IC 33-37-5-21.2).
+34 (5) A judicial insurance adjustment fee (IC 33-37-5-25).
+35 (6) A judicial salaries fee (IC 33-37-5-26).
+36 (7) A court administration fee (IC 33-37-5-27).
+37 (8) A pro bono legal services fee (IC 33-37-5-31).
+38 (9) A prosecuting attorney compensation fee (IC 33-37-5-37).
+39 (c) A clerk may not collect a court costs fee for the filing of the
+40 following exempted actions:
+41 (1) Petition to open a safety deposit box.
+42 (2) Filing an inheritance tax return, unless proceedings other than
+HB 1344—LS 6815/DI 151
+
+10
+1 the court's approval of the return become necessary.
+2 (3) Offering a will for probate under IC 29-1-7, unless
+3 proceedings other than admitting the will to probate become
+4 necessary.
+5 (4) Filing a closing statement for an estate described in
+6 IC 29-1-8-4.
+7 SECTION 9. IC 33-37-5-37 IS ADDED TO THE INDIANA CODE
+8 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+9 1, 2026]: Sec. 37. (a) This section does not apply to a proceeding
+10 involving a child alleged to be a delinquent child.
+11 (b) This subsection does not apply to the following:
+12 (1) A criminal proceeding.
+13 (2) A proceeding to enforce a statute defining an infraction.
+14 (3) A proceeding for an ordinance violation.
+15 In each action filed in a court described in IC 33-37-1-1 and in each
+16 small claims action in a court described in IC 33-34, the clerk shall
+17 collect a prosecuting attorney compensation fee of ten dollars
+18 ($10).
+19 (c) In each action in which a person is:
+20 (1) convicted of an offense;
+21 (2) required to pay a pretrial diversion fee; or
+22 (3) required to pay a deferral fee;
+23 the clerk shall collect a prosecuting attorney compensation fee of
+24 fifty dollars ($50).
+25 SECTION 10. IC 33-37-7-2, AS AMENDED BY P.L.106-2025,
+26 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2026]: Sec. 2. (a) The clerk of a circuit court shall distribute
+28 semiannually to the state comptroller as the state share for deposit in
+29 the homeowner protection unit account established by IC 4-6-12-9 one
+30 hundred percent (100%) of the automated record keeping fees collected
+31 under IC 33-37-5-21 with respect to actions resulting in the accused
+32 person entering into a pretrial diversion program agreement under
+33 IC 33-39-1-8 or a deferral program agreement under IC 34-28-5-1 and
+34 for deposit in the state general fund seventy percent (70%) of the
+35 amount of fees collected under the following:
+36 (1) IC 33-37-4-1(a) (criminal costs fees).
+37 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+38 (3) IC 33-37-4-3(a) (juvenile costs fees).
+39 (4) IC 33-37-4-4(a) (civil costs fees).
+40 (5) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+41 (6) IC 33-37-4-7(a) (probate costs fees).
+42 (7) IC 33-37-5-17 (deferred prosecution fees).
+HB 1344—LS 6815/DI 151
+
+11
+1 (b) The clerk of a circuit court shall distribute semiannually to the
+2 state comptroller for deposit in the state user fee fund established in
+3 IC 33-37-9-2 the following:
+4 (1) Twenty-five percent (25%) of the drug abuse, prosecution,
+5 interdiction, and correction fees collected under
+6 IC 33-37-4-1(b)(5).
+7 (2) Twenty-five percent (25%) of the alcohol and drug
+8 countermeasures fees collected under IC 33-37-4-1(b)(6),
+9 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+10 (3) One hundred percent (100%) of the child abuse prevention
+11 fees collected under IC 33-37-4-1(b)(7).
+12 (4) One hundred percent (100%) of the domestic violence
+13 prevention and treatment fees collected under IC 33-37-4-1(b)(8).
+14 (5) One hundred percent (100%) of the highway worksite fees
+15 collected under IC 33-37-4-1(b)(9) and IC 33-37-4-2(b)(5).
+16 (6) Seventy-five percent (75%) of the safe schools fee collected
+17 under IC 33-37-5-18.
+18 (7) One hundred percent (100%) of the automated record keeping
+19 fee collected under IC 33-37-5-21 not distributed under
+20 subsection (a).
+21 (c) The clerk of a circuit court shall distribute monthly to the county
+22 auditor the following:
+23 (1) Seventy-five percent (75%) of the drug abuse, prosecution,
+24 interdiction, and correction fees collected under
+25 IC 33-37-4-1(b)(5).
+26 (2) Seventy-five percent (75%) of the alcohol and drug
+27 countermeasures fees collected under IC 33-37-4-1(b)(6),
+28 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+29 The county auditor shall deposit fees distributed by a clerk under this
+30 subsection into the county drug free community fund established under
+31 IC 5-2-11.
+32 (d) The clerk of a circuit court shall distribute monthly to the county
+33 auditor one hundred percent (100%) of the late payment fees collected
+34 under IC 33-37-5-22. The county auditor shall deposit fees distributed
+35 by a clerk under this subsection as follows:
+36 (1) If directed to do so by an ordinance adopted by the county
+37 fiscal body, the county auditor shall deposit forty percent (40%)
+38 of the fees in the clerk's record perpetuation fund established
+39 under IC 33-37-5-2 and sixty percent (60%) of the fees in the
+40 county general fund.
+41 (2) If the county fiscal body has not adopted an ordinance
+42 described in subdivision (1), the county auditor shall deposit all
+HB 1344—LS 6815/DI 151
+
+12
+1 the fees in the county general fund.
+2 (e) The clerk of the circuit court shall distribute semiannually to the
+3 state comptroller for deposit in the sexual assault victims assistance
+4 fund established by IC 5-2-6-23(d) one hundred percent (100%) of the
+5 sexual assault victims assistance fees collected under IC 33-37-5-23.
+6 (f) The clerk of a circuit court shall distribute monthly to the county
+7 auditor the following:
+8 (1) One hundred percent (100%) of the support and maintenance
+9 fees for cases designated as non-Title IV-D child support cases in
+10 the Indiana support enforcement tracking system (ISETS) or the
+11 successor statewide automated support enforcement system
+12 collected under IC 33-37-5-6.
+13 (2) The percentage share of the support and maintenance fees for
+14 cases designated as Title IV-D child support cases in ISETS or the
+15 successor statewide automated support enforcement system
+16 collected under IC 33-37-5-6 that is reimbursable to the county at
+17 the federal financial participation rate.
+18 The county clerk shall distribute monthly to the department of child
+19 services the percentage share of the support and maintenance fees for
+20 cases designated as Title IV-D child support cases in ISETS, or the
+21 successor statewide automated support enforcement system, collected
+22 under IC 33-37-5-6 that is not reimbursable to the county at the
+23 applicable federal financial participation rate.
+24 (g) The clerk of a circuit court shall distribute monthly to the county
+25 auditor the following:
+26 (1) One hundred percent (100%) of the small claims service fee
+27 under IC 33-37-4-6(a)(1)(B) or IC 33-37-4-6(a)(2) for deposit in
+28 the county general fund.
+29 (2) One hundred percent (100%) of the small claims garnishee
+30 service fee under IC 33-37-4-6(a)(1)(C) or IC 33-37-4-6(a)(3) for
+31 deposit in the county general fund.
+32 (3) Twenty-five percent (25%) of the safe schools fee collected
+33 under IC 33-37-5-18 for deposit in the county general fund.
+34 (h) This subsection does not apply to court administration fees
+35 collected in small claims actions filed in a court described in IC 33-34.
+36 The clerk of a circuit court shall semiannually distribute to the state
+37 comptroller for deposit in the state general fund one hundred percent
+38 (100%) of the following:
+39 (1) The public defense administration fee collected under
+40 IC 33-37-5-21.2.
+41 (2) The judicial salaries fees collected under IC 33-37-5-26.
+42 (3) The DNA sample processing fees collected under
+HB 1344—LS 6815/DI 151
+
+13
+1 IC 33-37-5-26.2.
+2 (4) The court administration fees collected under IC 33-37-5-27.
+3 (5) The judicial insurance adjustment fee collected under
+4 IC 33-37-5-25.
+5 (6) The prosecuting attorney compensation fee collected under
+6 IC 33-37-5-37.
+7 (i) The proceeds of the service fee collected under
+8 IC 33-37-5-28(b)(1) or IC 33-37-5-28(b)(2) shall be distributed as
+9 follows:
+10 (1) The clerk shall distribute one hundred percent (100%) of the
+11 service fees collected in a circuit, superior, county, or probate
+12 court to the county auditor for deposit in the county general fund.
+13 (2) The clerk shall distribute one hundred percent (100%) of the
+14 service fees collected in a city or town court to the city or town
+15 fiscal officer for deposit in the city or town general fund.
+16 (j) The proceeds of the garnishee service fee collected under
+17 IC 33-37-5-28(b)(3) or IC 33-37-5-28(b)(4) shall be distributed as
+18 follows:
+19 (1) The clerk shall distribute one hundred percent (100%) of the
+20 garnishee service fees collected in a circuit, superior, county, or
+21 probate court to the county auditor for deposit in the county
+22 general fund.
+23 (2) The clerk shall distribute one hundred percent (100%) of the
+24 garnishee service fees collected in a city or town court to the city
+25 or town fiscal officer for deposit in the city or town general fund.
+26 (k) The clerk of the circuit court shall distribute semiannually to the
+27 state comptroller for deposit in the home ownership education account
+28 established by IC 5-20-1-27 one hundred percent (100%) of the
+29 following:
+30 (1) The mortgage foreclosure counseling and education fees
+31 collected under IC 33-37-5-33 (before its expiration on July 1,
+32 2017).
+33 (2) Any civil penalties imposed and collected by a court for a
+34 violation of a court order in a foreclosure action under
+35 IC 32-30-10.5.
+36 (l) The clerk of a circuit court shall distribute semiannually to the
+37 state comptroller for deposit in the pro bono legal services fund
+38 established by IC 33-37-5-34 one hundred percent (100%) of the pro
+39 bono legal services fees collected under IC 33-37-5-31.
+40 SECTION 11. IC 33-37-7-8, AS AMENDED BY P.L.106-2025,
+41 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]: Sec. 8. (a) The clerk of a city or town court shall
+HB 1344—LS 6815/DI 151
+
+14
+1 distribute semiannually to the state comptroller as the state share for
+2 deposit in the homeowner protection unit account established by
+3 IC 4-6-12-9 one hundred percent (100%) of the automated record
+4 keeping fees collected under IC 33-37-5-21 with respect to actions
+5 resulting in the accused person entering into a pretrial diversion
+6 program agreement under IC 33-39-1-8 or a deferral program
+7 agreement under IC 34-28-5-1 and for deposit in the state general fund
+8 fifty-five percent (55%) of the amount of fees collected under the
+9 following:
+10 (1) IC 33-37-4-1(a) (criminal costs fees).
+11 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+12 (3) IC 33-37-4-4(a) (civil costs fees).
+13 (4) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+14 (5) IC 33-37-5-17 (deferred prosecution fees).
+15 (b) The city or town fiscal officer shall distribute monthly to the
+16 county auditor as the county share twenty percent (20%) of the amount
+17 of fees collected under the following:
+18 (1) IC 33-37-4-1(a) (criminal costs fees).
+19 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+20 (3) IC 33-37-4-4(a) (civil costs fees).
+21 (4) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+22 (5) IC 33-37-5-17 (deferred prosecution fees).
+23 (c) The city or town fiscal officer shall retain twenty-five percent
+24 (25%) as the city or town share of the fees collected under the
+25 following:
+26 (1) IC 33-37-4-1(a) (criminal costs fees).
+27 (2) IC 33-37-4-2(a) (infraction or ordinance violation costs fees).
+28 (3) IC 33-37-4-4(a) (civil costs fees).
+29 (4) IC 33-37-4-6(a)(1)(A) (small claims costs fees).
+30 (5) IC 33-37-5-17 (deferred prosecution fees).
+31 (d) The clerk of a city or town court shall distribute semiannually to
+32 the state comptroller for deposit in the state user fee fund established
+33 in IC 33-37-9 the following:
+34 (1) Twenty-five percent (25%) of the drug abuse, prosecution,
+35 interdiction, and correction fees collected under
+36 IC 33-37-4-1(b)(5).
+37 (2) Twenty-five percent (25%) of the alcohol and drug
+38 countermeasures fees collected under IC 33-37-4-1(b)(6),
+39 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+40 (3) One hundred percent (100%) of the highway worksite fees
+41 collected under IC 33-37-4-1(b)(9) and IC 33-37-4-2(b)(5).
+42 (4) Seventy-five percent (75%) of the safe schools fee collected
+HB 1344—LS 6815/DI 151
+
+15
+1 under IC 33-37-5-18.
+2 (5) One hundred percent (100%) of the automated record keeping
+3 fee collected under IC 33-37-5-21 not distributed under
+4 subsection (a).
+5 (e) The clerk of a city or town court shall distribute monthly to the
+6 county auditor the following:
+7 (1) Seventy-five percent (75%) of the drug abuse, prosecution,
+8 interdiction, and correction fees collected under
+9 IC 33-37-4-1(b)(5).
+10 (2) Seventy-five percent (75%) of the alcohol and drug
+11 countermeasures fees collected under IC 33-37-4-1(b)(6),
+12 IC 33-37-4-2(b)(4), and IC 33-37-4-3(b)(5).
+13 The county auditor shall deposit fees distributed by a clerk under this
+14 subsection into the county drug free community fund established under
+15 IC 5-2-11.
+16 (f) The clerk of a city or town court shall distribute monthly to the
+17 city or town fiscal officer (as defined in IC 36-1-2-7) one hundred
+18 percent (100%) of the following:
+19 (1) The late payment fees collected under IC 33-37-5-22.
+20 (2) The small claims service fee collected under
+21 IC 33-37-4-6(a)(1)(B) or IC 33-37-4-6(a)(2).
+22 (3) The small claims garnishee service fee collected under
+23 IC 33-37-4-6(a)(1)(C) or IC 33-37-4-6(a)(3).
+24 (4) Twenty-five percent (25%) of the safe schools fee collected
+25 under IC 33-37-5-18.
+26 The city or town fiscal officer (as defined in IC 36-1-2-7) shall deposit
+27 fees distributed by a clerk under this subsection in the city or town
+28 general fund.
+29 (g) The clerk of a city or town court shall semiannually distribute to
+30 the state comptroller for deposit in the state general fund one hundred
+31 percent (100%) of the following:
+32 (1) The public defense administration fee collected under
+33 IC 33-37-5-21.2.
+34 (2) The DNA sample processing fees collected under
+35 IC 33-37-5-26.2.
+36 (3) The court administration fees collected under IC 33-37-5-27.
+37 (4) The judicial insurance adjustment fee collected under
+38 IC 33-37-5-25.
+39 (5) The prosecuting attorney compensation fee collected under
+40 IC 33-37-5-37.
+41 (h) The clerk of a city or town court shall semiannually distribute to
+42 the state comptroller for deposit in the state general fund seventy-five
+HB 1344—LS 6815/DI 151
+
+16
+1 percent (75%) of the judicial salaries fee collected under
+2 IC 33-37-5-26. The city or town fiscal officer shall retain twenty-five
+3 percent (25%) of the judicial salaries fee collected under
+4 IC 33-37-5-26. The funds retained by the city or town shall be
+5 prioritized to fund city or town court operations.
+6 (i) The clerk of a city or town court shall distribute semiannually to
+7 the state comptroller for deposit in the pro bono legal services fund
+8 established by IC 33-37-5-34 one hundred percent (100%) of the pro
+9 bono legal services fees collected under IC 33-37-5-31.
+10 SECTION 12. IC 33-39-8-5, AS AMENDED BY P.L.55-2022,
+11 SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 5. The council shall do the following:
+13 (1) Assist in the coordination of the duties of the prosecuting
+14 attorneys of the state and their staffs.
+15 (2) Prepare manuals of procedure.
+16 (3) Give assistance in preparation of the trial briefs, forms, and
+17 instructions.
+18 (4) Conduct training for prosecuting attorneys and the staff of
+19 prosecuting attorneys.
+20 (5) Conduct research and studies that would be of interest and
+21 value to all prosecuting attorneys and their staffs.
+22 (6) Maintain liaison contact with study commissions and agencies
+23 of all branches of local, state, and federal government that will be
+24 of benefit to law enforcement and the fair administration of
+25 justice in Indiana.
+26 (7) Adopt guidelines and standards for services under which
+27 the counties will be eligible for reimbursement under
+28 IC 33-39-11.
+29 (7) (8) Adopt guidelines for the expenditure of funds derived from
+30 a deferral program or a pretrial diversion program.
+31 (8) (9) The council shall:
+32 (A) compile forfeiture data received under IC 34-24-1-4.5; and
+33 (B) annually submit a report to the legislative council
+34 containing the compiled data.
+35 The council shall submit the report to the legislative council before
+36 July 15 of every year. The report must be in an electronic format under
+37 IC 5-14-6. The council may adopt rules under IC 4-22-2 to implement
+38 this subdivision.
+39 SECTION 13. IC 33-39-8.1-9, AS ADDED BY P.L.147-2025,
+40 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2026]: Sec. 9. (a) If the board determines that a prosecuting
+42 attorney is a noncompliant prosecuting attorney, the board shall issue
+HB 1344—LS 6815/DI 151
+
+17
+1 a report to:
+2 (1) the prosecuting attorneys council of Indiana; and
+3 (2) the alleged noncompliant prosecuting attorney.
+4 (b) Upon receipt of a report that a prosecuting attorney is a
+5 noncompliant prosecuting attorney, the board may notify the state
+6 comptroller.
+7 SECTION 14. IC 33-39-11 IS ADDED TO THE INDIANA CODE
+8 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]:
+10 Chapter 11. Public Prosecution Fund
+11 Sec. 1. As used in this chapter, "council" means the prosecuting
+12 attorneys council of Indiana established by IC 33-39-8-2.
+13 Sec. 2. The public prosecution fund is established to provide
+14 county reimbursement of compensation paid to deputy prosecuting
+15 attorneys and administrative expenses. The fund shall be
+16 administered by the council.
+17 Sec. 3. The fund consists of money appropriated to the fund by
+18 the general assembly.
+19 Sec. 4. The treasurer of state shall invest the money in the fund
+20 not currently needed to meet the obligations of the fund in the same
+21 manner as other public funds may be invested.
+22 Sec. 5. Money in the fund at the end of a state fiscal year does
+23 not revert to the state general fund.
+24 Sec. 6. (a) A county auditor may submit on a quarterly basis a
+25 certified request to the state comptroller for reimbursement from
+26 the public prosecution fund for salary paid to a deputy prosecuting
+27 attorney, other than a chief deputy prosecuting attorney or an
+28 elected prosecuting attorney, if the annual salary of the deputy
+29 prosecuting attorney is equal to at least fifty-five percent (55%) of
+30 the salary paid to the elected full-time prosecuting attorney. The
+31 county auditor may request reimbursement under this subsection
+32 in an amount that does not exceed twenty-seven and one-half
+33 percent (27.5%) of the salary paid to the elected full-time
+34 prosecuting attorney.
+35 (b) A county auditor may submit on a quarterly basis a certified
+36 request to the state comptroller for reimbursement from the public
+37 prosecution fund for the county's expenditures for fringe benefits
+38 provided to a deputy prosecuting attorney, other than a chief
+39 deputy prosecuting attorney or an elected prosecuting attorney, if
+40 the annual salary of the deputy prosecuting attorney is equal to at
+41 least fifty-five percent (55%) of the salary paid to the elected
+42 full-time prosecuting attorney. However, a request for
+HB 1344—LS 6815/DI 151
+
+18
+1 reimbursement for fringe benefits under this subsection may not
+2 exceed fifteen thousand one hundred forty dollars ($15,140).
+3 Sec. 7. (a) Except as provided in subsection (b), upon receiving
+4 certification from a county auditor, the state comptroller shall
+5 issue a warrant to the treasurer of state for disbursement to the
+6 county of the amount certified.
+7 (b) If the state comptroller has received instruction from the
+8 council under IC 33-39-8.1-9 to withhold payment from the county
+9 because the prosecuting attorney is a noncompliant prosecuting
+10 attorney, the state comptroller shall not issue a warrant under
+11 subsection (a).
+HB 1344—LS 6815/DI 151
+
+19
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Judiciary, to which was referred
+House Bill 1344, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Page 10, line 17, delete "forty" and insert "ten".
+Page 10, line 18, delete "($40)." and insert "($10).".
+Page 10, line 21, after "fee;" insert "or".
+Page 10, line 22, delete "found to have committed an infraction; or"
+and insert "required to pay a deferral fee;".
+Page 10, delete line 23.
+Page 10, line 24, after "of" insert "fifty dollars ($50).".
+Page 10, delete line 25.
+and when so amended that said bill do pass.
+(Reference is to HB 1344 as introduced.)
+JETER
+Committee Vote: yeas 11, nays 0.
+HB 1344—LS 6815/DI 151
+
+[DELETED:  a R t I p a]
+[DELETED:  3 I A T R A F]
+[DELETED:  A p a c f u I o t d f c 3 I A T R A F i T c s i a r f a m a a r k f ( 3 s p ( o a c a f]
+[DELETED:  d T r f p ( o t c u I 3 o a m c u A d f ( 3 I 3 o A l e c e p f A d v p a t f]
+[DELETED:  i t a u f f e u]
+[DELETED:  I t i m r a t p p i I t i m r a d u I t i m r a d u I t i m r a d u A d f ( 3 I 3 o A l e c e p f]
+[DELETED:  T l e c e p f T d w c w a o v I o t i o o v c f b a p a o a a f  5 I 3 A A B P 1 I A T R A F]
+[DELETED:  A d f ( 3 I 3 o A l e c e p f T l e c e p f s c t f f i t a r u]
+[DELETED:  A d f ( 3 I 3 o A g s f ( 3 o a e f ( 3 ( i]
+[DELETED:  A c m n c a f u s ( s c t f f i t a r u A d f ( 3 I 3 o A d f ( 3 I 3 o]
+[DELETED:  O a w f p u I 2 u F a c s f a e d i o]
+[DELETED:  a c f c u T p ( o t a a d f c u I 3 O h p ( o t d v c u I 3 n d u a c f c u S p ( o t a a d f c u I 3 I t c f b h n a a o]
+[DELETED:  s a s e s s a s e s I t n r t t c t T p d a f c u T D s p f c u]
+[DELETED:  T j i a f c u T p o t s f c u T p o t g s f c u b I 5 o h p ( o t T m f c a e f o a c o i a f a u c f d i t p b l s f]
+[DELETED:  i t h p u a e b i t a p e i a p d a u I 3 o a d p a t c o t s o t f c u t a c f c u T p ( o t a a d f c u I 3]
+[DELETED:  c u I 3 n d u a c f c u S p ( o t a a d f c u I 3 T s c s f c u T s c g s f c u T p d a f c u T D s p f c u T j i a f c u]
+[DELETED:  ( o t j s f c u ( o t j s f c u 3 T f r b t c o t s b b t l e t f a o c w b e f r u a s a r t t l c 1 I 3 A A B P]
+[DELETED:  a a e T f s bS a ( o t s p t t e f p a H a r f]
+[DELETED: P]

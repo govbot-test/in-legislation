@@ -1,0 +1,1771 @@
+Title: HOUSE BILL No. 1092
+Official Title: HOUSE BILL No. 1092
+Number of Sections: 3
+Source: versions - House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+*HB1092.1*
+January 22, 2026
+_____
+DIGEST OF HB 1092 (Updated January 21, 2026 1:00 pm - DI 119)
+Citations Affected: IC 4-38; IC 31-14; IC 31-16; IC 31-19; IC 31-27;
+IC 31-30; IC 31-33.
+Synopsis: Child services matters. Requires a sports wagering operator
+to withhold winnings from a person who requests a withdrawal from
+the person's mobile sports wagering account if the person is delinquent
+in the person's child support payments. Requires an order establishing
+paternity to be obtained without further proceedings if certain
+conditions are met. Allows the state to approve additional payment
+facilities for purposes of accepting child support payments. Makes
+changes to the adoption code to facilitate communication between a
+probate court and a juvenile court when the subject of an adoption
+petition is also the subject of a pending child in need of services
+(CHINS) petition. Provides that if a child who is the subject of an
+adoption petition is also the subject of a CHINS petition: (1) the clerk
+of the court in the adoption proceeding shall forward a copy of the
+adoption petition to the department of child services (department) if the
+child is in the care and custody of the department; and (2) the
+department shall provide notice of the adoption proceeding to the court
+in the CHINS proceeding. Provides that the department has the right to
+intervene as a party to an adoption proceeding under certain
+(Continued next page)
+Effective: July 1, 2026.
+DeVon, Olthoff
+January 5, 2026, read first time and referred to Committee on Family, Children and Human
+Affairs.
+January 22, 2026, amended, reported — Do Pass.
+HB 1092—LS 6542/DI 148
+Digest Continued
+circumstances. Requires a volunteer of an applicant for licensure as a
+child caring institution to undergo a criminal background check if the
+volunteer is likely to have unsupervised contact with children in the
+child caring institution or will have access to a child's information.
+Provides that the department may deny an application for licensure as
+a child caring institution, group home, or child placing agency if the
+applicant was previously licensed as a residential child care provider
+and the license was revoked within one year of the application.
+Requires a probate court in an adoption proceeding to take certain
+actions if allegations in the petition for adoption or evidence produced
+at the adoption proceeding indicates that the child for whom the
+adoption decree is requested meets the definition of a child adjudicated
+or alleged to be a CHINS. Provides that a department caseworker who
+wishes to interview a child at the child's school must provide the
+caseworker's department issued credential in order to interview the
+child alone.
+HHBB 11009922——LLSS 66554422//DDII 114488
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1092
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-38-11-1, AS ADDED BY P.L.293-2019,
+2 SECTION 43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. (a) The bureau shall provide information to a
+4 certificate holder concerning persons who are delinquent in child
+5 support.
+6 (b) Prior to a certificate holder disbursing a payout of six hundred
+7 dollars ($600) or more, in winnings, from sports wagering to a person
+8 who is delinquent in child support and who is claiming the winning
+9 sports wager in person at the certificate holder's facility, or is
+10 requesting a withdrawal from the person's mobile sports wagering
+11 account, the certificate holder:
+12 (1) may deduct and retain an administrative fee in the amount of
+13 the lesser of:
+14 (A) three percent (3%) of the amount of delinquent child
+15 support withheld under subdivision (2)(A); or
+16 (B) one hundred dollars ($100); and
+17 (2) shall:
+HB 1092—LS 6542/DI 148
+2
+1 (A) withhold the amount of delinquent child support owed
+2 from winnings;
+3 (B) transmit to the bureau:
+4 (i) the amount withheld for delinquent child support; and
+5 (ii) identifying information, including the full name, address,
+6 and Social Security number of the obligor and the child
+7 support case identifier, the date and amount of the payment,
+8 and the name and location of the licensed owner, operating
+9 agent, or trustee; and
+10 (C) issue the obligor a receipt in a form prescribed by the
+11 bureau with the total amount withheld for delinquent child
+12 support and the administrative fee.
+13 (c) The bureau shall notify the obligor at the address provided by the
+14 certificate holder that the bureau intends to offset the obligor's
+15 delinquent child support with the winnings.
+16 (d) The bureau shall hold the amount withheld from the winnings of
+17 an obligor for ten (10) business days before applying the amount as
+18 payment to the obligor's delinquent child support.
+19 (e) The delinquent child support required to be withheld under this
+20 section and an administrative fee described under subsection (b)(1)
+21 have priority over any secured or unsecured claim on winnings except
+22 claims for federal or state taxes that are required to be withheld under
+23 federal or state law.
+24 SECTION 2. IC 31-14-11-1 IS AMENDED TO READ AS
+25 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. If:
+26 (1) a paternity affidavit is executed under IC 16-37-2-2.1; and
+27 (2) the man who executed the paternity affidavit fails to set forth
+28 evidence at a child support hearing that rebuts the man's paternity;
+29 the paternity affidavit has not been set aside under
+30 IC 16-37-2-2.1(k) or IC 16-37-2-2.1(l);
+31 an order establishing paternity and child support for the child named
+32 in the paternity affidavit may must be obtained at a child support
+33 hearing without any further proceedings to establish the child's
+34 paternity.
+35 SECTION 3. IC 31-16-9-1, AS AMENDED BY P.L.150-2018,
+36 SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 1. (a) This subsection applies before January 1,
+38 2007. Upon entering an order for support in:
+39 (1) a dissolution of marriage decree under IC 31-15-2;
+40 (2) a legal separation decree under IC 31-15-3; or
+41 (3) a child support decree under IC 31-16-2;
+42 the court shall require that support payments be made through the clerk
+HB 1092—LS 6542/DI 148
+3
+1 of the circuit court as trustee for remittance to the person entitled to
+2 receive payments, unless the court has reasonable grounds for
+3 providing or approving another method of payment.
+4 (b) Beginning January 1, 2007, except as provided in subsection (c),
+5 upon entering an order for support in:
+6 (1) a dissolution of marriage decree under IC 31-15-2;
+7 (2) a legal separation decree under IC 31-15-3; or
+8 (3) a child support decree under IC 31-14-11 or IC 31-16-2;
+9 the court shall require that support payments be made through the clerk
+10 of the a circuit court, or the state central collection unit established by
+11 IC 31-25-3-1, or a payment facility approved by the state, as trustee
+12 for remittance to the person entitled to receive payments, unless the
+13 court has reasonable grounds for providing or approving another
+14 method of payment.
+15 (c) The clerk of the a circuit court may only accept child support
+16 payments that are paid in cash, and all noncash child support payments
+17 must be paid to the state central collection unit established within the
+18 child support bureau by IC 31-25-3-1 or a payment facility approved
+19 by the state.
+20 SECTION 4. IC 31-19-1.5 IS ADDED TO THE INDIANA CODE
+21 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]:
+23 Chapter 1.5. Communication Between Courts
+24 Sec. 1. (a) If a probate court has before it an adoption petition
+25 that alleges the child is subject to a child in need of services
+26 proceeding under IC 31-34, the probate court shall communicate
+27 with the juvenile court concerning the proceeding arising under
+28 this article, including:
+29 (1) dates of scheduled hearings and the purpose of each
+30 hearing;
+31 (2) any placement order regarding the child; and
+32 (3) any permanency plan for the child.
+33 (b) Any communication between the courts under this section is
+34 for the purpose of ensuring the best interest of the child.
+35 Sec. 2. A record must be made of communication under section
+36 1 of this chapter. The parties must be:
+37 (1) promptly informed of the communication; and
+38 (2) granted access to the record.
+39 SECTION 5. IC 31-19-2-6, AS AMENDED BY P.L.206-2015,
+40 SECTION 54, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2026]: Sec. 6. (a) A petition for adoption must specify the
+42 following:
+HB 1092—LS 6542/DI 148
+4
+1 (1) The:
+2 (A) name if known;
+3 (B) sex, race, and age if known, or if unknown, the
+4 approximate age; and
+5 (C) place of birth;
+6 of the child sought to be adopted.
+7 (2) The new name to be given the child if a change of name is
+8 desired.
+9 (3) Whether or not the child possesses real or personal property
+10 and, if so, the value and full description of the property.
+11 (4) The:
+12 (A) name, age, and place of residence of a petitioner for
+13 adoption; and
+14 (B) if married, place and date of their marriage.
+15 (5) The name and place of residence, if known to the petitioner
+16 for adoption, of:
+17 (A) the parent or parents of the child;
+18 (B) if the child is an orphan:
+19 (i) the guardian; or
+20 (ii) the nearest kin of the child if the child does not have a
+21 guardian;
+22 (C) the court or agency of which the child is a ward if the child
+23 is a ward; or
+24 (D) the agency sponsoring the adoption if there is a sponsor.
+25 (6) The time, if any, during which the child lived in the home of
+26 the petitioner for adoption.
+27 (7) Whether the petitioner for adoption has been convicted of:
+28 (A) a felony; or
+29 (B) a misdemeanor relating to the health and safety of
+30 children;
+31 and, if so, the date and description of the conviction.
+32 (8) Whether or not a current, ongoing child support order or
+33 medical support order is in effect for the child sought to be
+34 adopted.
+35 (9) If a child sought to be adopted is the subject of an open or
+36 pending:
+37 (A) child in need of services proceeding under IC 31-34; or
+38 (B) delinquency proceeding under IC 31-37;
+39 except an informal adjustment, the court in which the
+40 proceeding is open or pending and the case number, if known.
+41 (9) (10) Additional information consistent with the purpose and
+42 provisions of this article that is considered relevant to the
+HB 1092—LS 6542/DI 148
+5
+1 proceedings.
+2 (b) If a current, ongoing child support order or medical support
+3 order is in effect for the child as described in subsection (a)(8), all of
+4 the following must be filed with the petition described under subsection
+5 (a):
+6 (1) A copy of the child support order or medical support order.
+7 (2) A statement as to whether the child support order or medical
+8 support order is enforced by the prosecuting attorney through the
+9 Title IV-D child support program under IC 31-25-4.
+10 SECTION 6. IC 31-19-2-12, AS AMENDED BY P.L.128-2012,
+11 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 12. As soon as a petition for adoption is found to
+13 be in proper form, the clerk of the court shall:
+14 (1) forward one (1) copy of the petition for adoption to a licensed
+15 child placing agency as described in IC 31-9-2-17.5, with
+16 preference to be given to the agency, if any, sponsoring the
+17 adoption, as shown by the petition for adoption; and
+18 (2) if the child is in the care and custody of the department,
+19 forward an additional copy of the petition to the department.
+20 SECTION 7. IC 31-19-2-17 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2026]: Sec. 17. The department has a right to intervene as a
+23 party in a proceeding under this article if the child who is the
+24 subject of a petition for adoption is:
+25 (1) alleged to be or has been adjudicated a child in need of
+26 services; and
+27 (2) the subject of a pending child in need of services
+28 proceeding under IC 31-34.
+29 SECTION 8. IC 31-19-2.5-7 IS ADDED TO THE INDIANA CODE
+30 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+31 1, 2026]: Sec. 7. (a) Not more than fifteen (15) days after the date
+32 that the department receives:
+33 (1) notice under section 3 of this chapter; or
+34 (2) information from a probate court under IC 31-30-1-6.5;
+35 whichever occurs earlier, regarding a child who is the subject of an
+36 open or pending child in need of services proceeding under
+37 IC 31-34, the department shall file a notice with the juvenile court
+38 in which the child in need of services proceeding is pending. An
+39 open or pending proceeding under this subsection does not include
+40 an informal adjustment.
+41 (b) The notice described in subsection (a) must contain the
+42 following information:
+HB 1092—LS 6542/DI 148
+6
+1 (1) The date on which the adoption was filed.
+2 (2) The court in which the adoption was filed and the case
+3 number.
+4 (c) Notice filed under this section does not violate IC 31-19-19-2.
+5 SECTION 9. IC 31-19-19-2, AS AMENDED BY P.L.128-2012,
+6 SECTION 63, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]: Sec. 2. (a) All files and records pertaining to the
+8 adoption proceedings in:
+9 (1) the local office;
+10 (2) the department; or
+11 (3) any of the licensed child placing agencies;
+12 are confidential and open to inspection only as provided in
+13 IC 31-19-13-2(2), IC 31-19-17, this chapter, or IC 31-19-20 through
+14 IC 31-19-25.5.
+15 (b) The files and records described in subsection (a), including
+16 investigation records under IC 31-19-8-5 (or IC 31-3-1-4 before its
+17 repeal):
+18 (1) are open to the inspection of the court hearing the petition for
+19 adoption; and
+20 (2) on order of the court, may be:
+21 (A) introduced into evidence; and
+22 (B) made a part of the record;
+23 in the adoption proceeding; and
+24 (3) are open to inspection of the juvenile court in which notice
+25 has been filed under IC 31-19-2.5-7.
+26 SECTION 10. IC 31-27-3-3, AS AMENDED BY P.L.81-2025,
+27 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 3. (a) An applicant must apply for a child caring
+29 institution license on forms provided by the department.
+30 (b) An applicant must submit the required information as part of the
+31 application.
+32 (c) The applicant must submit with the application a statement
+33 attesting the following:
+34 (1) Whether the applicant has been convicted of:
+35 (A) a felony; or
+36 (B) a misdemeanor relating to the health and safety of
+37 children.
+38 (2) Whether the applicant has been charged with:
+39 (A) a felony; or
+40 (B) a misdemeanor relating to the health and safety of
+41 children;
+42 during the pendency of the application.
+HB 1092—LS 6542/DI 148
+7
+1 (d) The department, on behalf of an applicant, or, at the discretion
+2 of the department, an applicant, shall conduct a criminal history check
+3 of the following:
+4 (1) Each individual who is an applicant.
+5 (2) The director or manager of a facility where children will be
+6 placed.
+7 (3) Each employee or volunteer of the applicant.
+8 (4) Each volunteer, contractor, or individual working in the child
+9 caring institution who is likely to have unsupervised contact with
+10 children in the child caring institution or will have access to the
+11 child's information.
+12 (e) If the applicant conducts a criminal history check under
+13 subsection (d), the applicant shall:
+14 (1) maintain records of the information it receives concerning
+15 each individual who is the subject of a criminal history check; and
+16 (2) submit to the department a copy of the information it receives
+17 concerning each person described in subsection (d)(1) through
+18 (d)(4).
+19 (f) If the department conducts a criminal history check on behalf of
+20 an applicant under subsection (d), the department shall:
+21 (1) determine whether the subject of a national fingerprint based
+22 criminal history check has a record of:
+23 (A) a conviction for a felony;
+24 (B) a conviction for a misdemeanor relating to the health and
+25 safety of a child; or
+26 (C) a juvenile adjudication for a nonwaivable offense, as
+27 defined in IC 31-9-2-84.8 that, if committed by an adult,
+28 would be a felony;
+29 (2) notify the applicant of the determination under subdivision (1)
+30 without identifying a specific offense or other identifying
+31 information concerning a conviction or juvenile adjudication
+32 contained in the national criminal history record information;
+33 (3) submit to the applicant a copy of any state limited criminal
+34 history report that the department receives on behalf of any person
+35 described in subsection (d); and
+36 (4) maintain a record of every report and all information the
+37 department receives concerning a person described in subsection
+38 (d).
+39 (g) Except as provided in subsection (h), a criminal history check
+40 described in subsection (d) is required only at the time an application
+41 for a new license or the renewal of an existing license is submitted.
+42 (h) Except as provided in subsection (i), a criminal history check of
+HB 1092—LS 6542/DI 148
+8
+1 each person described in subsection (d)(2), (d)(3), or (d)(4) must be
+2 completed on or before the date the person:
+3 (1) is employed;
+4 (2) is assigned as a volunteer; or
+5 (3) enters into, or the person's employing entity enters into, a
+6 contract with the applicant.
+7 (i) An individual may be employed by a child caring institution as
+8 an employee, volunteer, or contractor before a criminal history check
+9 of the individual is completed as required under subsection (h) if all of
+10 the following conditions are satisfied:
+11 (1) The following checks have been completed regarding the
+12 individual:
+13 (A) A fingerprint based check of national crime information
+14 data bases under IC 31-9-2-22.5(1).
+15 (B) A national sex offender registry check under
+16 IC 31-9-2-22.5(3).
+17 (C) An in-state local criminal records check under
+18 IC 31-9-2-22.5(4).
+19 (D) An in-state child protection index check under
+20 IC 31-33-26.
+21 (2) If the individual has resided outside Indiana at any time during
+22 the five (5) years preceding the individual's date of hiring by the
+23 child caring institution, the following checks have been requested
+24 regarding the individual:
+25 (A) An out-of-state child abuse registry check under
+26 IC 31-9-2-22.5(2).
+27 (B) An out-of-state local criminal records check under
+28 IC 31-9-2-22.5(4).
+29 (3) The individual's employment before the completion of the
+30 criminal history check required under subsection (h) is limited to
+31 training during which the individual:
+32 (A) does not have contact with children who are under the care
+33 and control of the child caring institution; and
+34 (B) does not have access to records containing information
+35 regarding children who are under the care and control of the
+36 child caring institution.
+37 (4) The individual completes an attestation, under penalty of
+38 perjury, disclosing:
+39 (A) any abuse or neglect complaints made against the
+40 individual with the child welfare agency of a state other than
+41 Indiana in which the individual resided within the five (5)
+42 years preceding the date of the attestation; and
+HB 1092—LS 6542/DI 148
+9
+1 (B) any contact the individual had with a law enforcement
+2 agency in connection with the individual's suspected or alleged
+3 commission of a crime in a state other than Indiana in which
+4 the individual resided within the five (5) years preceding the
+5 date of the attestation.
+6 (j) The applicant or facility is responsible for any fees associated
+7 with a criminal history check.
+8 (k) The department shall, at the applicant's request, inform the
+9 applicant whether the department has or does not have a record of the
+10 person who is the subject of a criminal history check and if the
+11 department has identified the person as an alleged perpetrator of abuse
+12 or neglect. The department may not provide to the applicant any details
+13 or personally identifying information contained in any child protective
+14 services investigation report.
+15 (l) A person who is the subject of a criminal history check
+16 conducted in accordance with this section may request the state police
+17 department to provide the person with a copy of any state or national
+18 criminal history report concerning the person.
+19 SECTION 11. IC 31-27-3-5, AS AMENDED BY P.L.243-2019,
+20 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2026]: Sec. 5. (a) The following constitute sufficient grounds
+22 for a denial of a license application:
+23 (1) A determination by the department of child abuse or neglect
+24 by:
+25 (A) the applicant; or
+26 (B) an employee, volunteer, or contractor of the applicant.
+27 (2) A criminal conviction of the applicant, or the director or
+28 manager of a facility where children will be placed by the
+29 applicant, of:
+30 (A) a felony;
+31 (B) a misdemeanor related to the health and safety of a child;
+32 (C) a misdemeanor for operating a child caring institution,
+33 foster family home, group home, or child placing agency
+34 without a license under this article (or IC 12-17.4 before its
+35 repeal); or
+36 (D) a misdemeanor for operating a child care center or child
+37 care home without a license under IC 12-17.2.
+38 (3) A determination by the department that the applicant made
+39 false statements in the applicant's application for licensure.
+40 (4) A determination by the department that the applicant made
+41 false statements in the records required by the department.
+42 (5) A determination by the department that:
+HB 1092—LS 6542/DI 148
+10
+1 (A) the applicant; or
+2 (B) an employee, volunteer, or contractor of the applicant;
+3 previously operated a home or facility without a license required
+4 under any applicable provision of this article (or IC 12-17.4
+5 before its repeal) or IC 12-17.2.
+6 (6) A juvenile adjudication of the applicant for a nonwaivable
+7 offense, as defined in IC 31-9-2-84.8 that, if committed by an
+8 adult, would be a felony.
+9 (7) A determination by the department that the applicant was
+10 previously licensed under this article and the license was
+11 revoked within one (1) year of the current application.
+12 (b) An application for a license may also be denied if an employee,
+13 volunteer, or contractor of the applicant has had any of the following:
+14 (1) A conviction of a nonwaivable offense, as defined in
+15 IC 31-9-2-84.8.
+16 (2) A conviction of any other felony or a misdemeanor relating to
+17 the health and safety of a child, unless the applicant is granted a
+18 waiver by the department with regard to the employee, volunteer,
+19 or contractor.
+20 (3) A juvenile adjudication for a nonwaivable offense, as defined
+21 in IC 31-9-2-84.8 that, if committed by an adult, would be a
+22 felony, unless the applicant is granted a waiver by the department
+23 with regard to the employee, volunteer, or contractor.
+24 (c) In determining whether to grant a waiver under subsection (b),
+25 the department shall consider the following factors:
+26 (1) The length of time that has passed since the disqualifying
+27 conviction.
+28 (2) The severity, nature, and circumstances of the offense.
+29 (3) Evidence of rehabilitation.
+30 (4) The duties and qualifications required for the proposed
+31 employment positions, volunteer assignment, or contract.
+32 (d) Notwithstanding subsection (a) or (b), if:
+33 (1) a license application could be denied due to a criminal
+34 conviction of, or a determination of child abuse or neglect by, an
+35 employee, volunteer, or contractor of the applicant; and
+36 (2) the department determines that the employee, volunteer, or
+37 contractor has been dismissed by the applicant within a
+38 reasonable time after the applicant became aware of the
+39 conviction or determination;
+40 the criminal conviction of, or determination of child abuse or neglect
+41 by, the former employee, former volunteer, or former contractor does
+42 not constitute a sufficient basis for the denial of a license application.
+HB 1092—LS 6542/DI 148
+11
+1 (e) The department may adopt rules to implement this section.
+2 SECTION 12. IC 31-27-5-6, AS AMENDED BY P.L.243-2019,
+3 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+4 JULY 1, 2026]: Sec. 6. (a) The following constitute sufficient grounds
+5 for a denial of a license application:
+6 (1) A determination by the department of child abuse or neglect
+7 by:
+8 (A) the applicant; or
+9 (B) an employee, volunteer, or contractor of the applicant.
+10 (2) A criminal conviction of the applicant, or the director or
+11 manager of a facility where children will be placed by the
+12 applicant, for any of the following:
+13 (A) A felony.
+14 (B) A misdemeanor related to the health and safety of a child.
+15 (C) A misdemeanor for operating a child caring institution,
+16 foster family home, group home, or child placing agency
+17 without a license under this article (or IC 12-17.4 before its
+18 repeal).
+19 (D) A misdemeanor for operating a child care center or child
+20 care home without a license under IC 12-17.2.
+21 (3) A determination by the department that the applicant made
+22 false statements in the applicant's application for licensure.
+23 (4) A determination by the department that the applicant made
+24 false statements in the records required by the department.
+25 (5) A determination by the department that:
+26 (A) the applicant; or
+27 (B) an employee, volunteer, or contractor of the applicant;
+28 previously operated a home or facility without a license required
+29 under any applicable provision of this article (or IC 12-17.4
+30 before its repeal) or IC 12-17.2.
+31 (6) A juvenile adjudication of the applicant for a nonwaivable
+32 offense, as defined in IC 31-9-2-84.8 that, if committed by an
+33 adult, would be a felony.
+34 (7) A determination by the department that the applicant was
+35 previously licensed under this article and the license was
+36 revoked within one (1) year of the current application.
+37 (b) An application for a license may also be denied if an employee,
+38 volunteer, or contractor of the applicant has had any of the following:
+39 (1) A conviction of a nonwaivable offense, as defined in
+40 IC 31-9-2-84.8.
+41 (2) A conviction of any other felony or a misdemeanor relating to
+42 the health and safety of a child, unless the applicant is granted a
+HB 1092—LS 6542/DI 148
+12
+1 waiver by the department to employ or assign the person as a
+2 volunteer in a position described in this subsection.
+3 (3) A juvenile adjudication for a nonwaivable offense, as defined
+4 in IC 31-9-2-84.8 that, if committed by an adult, would be a
+5 felony, unless the applicant is granted a waiver by the department
+6 to employ or assign the person as a volunteer in a position
+7 described in this subsection.
+8 (c) In determining whether to grant a waiver under subsection (b),
+9 the department shall consider the following factors:
+10 (1) The length of time that has passed since the disqualifying
+11 conviction.
+12 (2) The severity, nature, and circumstances of the offense.
+13 (3) Evidence of rehabilitation.
+14 (4) The duties and qualifications required for the proposed
+15 employment positions, volunteer assignment, or contract.
+16 (d) Notwithstanding subsection (a) or (b), if:
+17 (1) a license application could be denied due to a criminal
+18 conviction of, or a determination of child abuse or neglect by, an
+19 employee, volunteer, or contractor of the applicant; and
+20 (2) the department determines that the employee, volunteer, or
+21 contractor has been dismissed by the applicant within a
+22 reasonable time after the applicant became aware of the
+23 conviction or determination;
+24 the criminal conviction of, or determination of child abuse or neglect
+25 by, the former employee, former volunteer, or former contractor does
+26 not constitute a sufficient basis for the denial of a license application.
+27 (e) The department may adopt rules to implement this section.
+28 SECTION 13. IC 31-27-6-3, AS AMENDED BY P.L.243-2019,
+29 SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 3. (a) The following constitute sufficient grounds
+31 for denial of a license application:
+32 (1) A determination by the department of child abuse or neglect
+33 by:
+34 (A) the applicant; or
+35 (B) an employee, volunteer, or contractor of the applicant.
+36 (2) A criminal conviction of the applicant, or the director or
+37 manager of a facility where children will be placed by the
+38 licensee, for any of the following:
+39 (A) A felony.
+40 (B) A misdemeanor related to the health and safety of a child.
+41 (C) A misdemeanor for operating a child caring institution,
+42 foster family home, group home, or child placing agency
+HB 1092—LS 6542/DI 148
+13
+1 without a license under this article (or IC 12-17.4 before its
+2 repeal).
+3 (D) A misdemeanor for operating a child care center or child
+4 care home without a license under IC 12-17.2.
+5 (3) A determination by the department that the applicant made
+6 false statements in the applicant's application for licensure.
+7 (4) A determination by the department that the applicant made
+8 false statements in the records required by the department.
+9 (5) A determination by the department that:
+10 (A) the applicant; or
+11 (B) an employee, volunteer, or contractor of the applicant;
+12 previously operated a home or facility without a license required
+13 under any applicable provision of this article (or IC 12-17.4
+14 before its repeal) or IC 12-17.2.
+15 (6) A juvenile adjudication of the applicant for a nonwaivable
+16 offense, as defined in IC 31-9-2-84.8 that, if committed by an
+17 adult, would be a felony.
+18 (7) A determination by the department that the applicant was
+19 previously licensed under this article and the license was
+20 revoked within one (1) year of the current application.
+21 (b) An application for a license may also be denied if an employee,
+22 volunteer, or contractor of the applicant has had any of the following:
+23 (1) A conviction of a nonwaivable offense, as defined in
+24 IC 31-9-2-84.8.
+25 (2) A conviction of any other felony or a misdemeanor relating to
+26 the health and safety of a child, unless the applicant is granted a
+27 waiver by the department with regard to the employee, volunteer,
+28 or contractor.
+29 (3) A juvenile adjudication for a nonwaivable offense, as defined
+30 in IC 31-9-2-84.8 that, if committed by an adult, would be a
+31 felony, unless the applicant is granted a waiver by the department
+32 with regard to the employee, volunteer, or contractor.
+33 (c) In determining whether to grant a waiver under subsection (b),
+34 the department shall consider the following factors:
+35 (1) The length of time that has passed since the disqualifying
+36 conviction.
+37 (2) The severity, nature, and circumstances of the offense.
+38 (3) Evidence of rehabilitation.
+39 (4) The duties and qualifications required for the proposed
+40 employment positions, volunteer assignment, or contract.
+41 (d) Notwithstanding subsection (a) or (b), if:
+42 (1) a license application could be denied due to a criminal
+HB 1092—LS 6542/DI 148
+14
+1 conviction of, or a determination of child abuse or neglect by, an
+2 employee, volunteer, or contractor of the applicant; and
+3 (2) the department determines that the employee, volunteer, or
+4 contractor has been dismissed by the applicant within a
+5 reasonable time after the applicant became aware of the
+6 conviction or determination;
+7 the criminal conviction of, or determination of child abuse or neglect
+8 by, the former employee, former volunteer, or former contractor does
+9 not constitute a sufficient basis for the denial of a license application.
+10 (e) The department may adopt rules to implement this section.
+11 SECTION 14. IC 31-30-1-6.5 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JULY 1, 2026]: Sec. 6.5. If allegations in the petition
+14 for adoption or evidence produced at an adoption proceeding
+15 indicates that the child for whom the adoption decree is requested
+16 meets the definition of a child adjudicated or alleged to be a child
+17 in need of services under IC 31-34-1, the probate court shall do the
+18 following on its own motion or at the request of a party to the
+19 adoption matter:
+20 (1) Send the petition for adoption and current chronological
+21 case summary to the department in the county where the child
+22 in need of services matter is pending.
+23 (2) Direct the department to determine whether the child for
+24 whom the adoption is requested is the subject of a pending
+25 child in need of services matter.
+26 (3) If the child is the subject of a pending a child in need of
+27 services matter communicate with the juvenile court as
+28 required under IC 31-19-1.5-1.
+29 SECTION 15. IC 31-33-8-7, AS AMENDED BY P.L.213-2021,
+30 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 7. (a) The department's assessment, to the extent
+32 that is reasonably possible, must include the following:
+33 (1) The nature, extent, and cause of the known or suspected child
+34 abuse or neglect.
+35 (2) The identity of the person allegedly responsible for the child
+36 abuse or neglect.
+37 (3) The names and conditions of other children in the home.
+38 (4) An evaluation of the parent, guardian, custodian, or person
+39 responsible for the care of the child.
+40 (5) The home environment and the relationship of the child to the
+41 parent, guardian, or custodian or other persons responsible for the
+42 child's care.
+HB 1092—LS 6542/DI 148
+15
+1 (6) All other data considered pertinent.
+2 (b) The assessment may include the following:
+3 (1) A visit to the child's home.
+4 (2) An interview with the subject child:
+5 (A) upon receiving parental consent;
+6 (B) upon receiving a court order; or
+7 (C) if there are exigent circumstances as defined by
+8 IC 31-9-2-44.1.
+9 (3) A physical, psychological, or psychiatric examination of any
+10 child in the home.
+11 (c) If:
+12 (1) admission to the home, the school, or any other place that the
+13 child may be; or
+14 (2) permission of the parent, guardian, custodian, or other persons
+15 responsible for the child for the physical, psychological, or
+16 psychiatric examination;
+17 under subsection (b) cannot be obtained, the juvenile court, upon good
+18 cause shown, shall follow the procedures under IC 31-32-12.
+19 (d) If a custodial parent, a guardian, or a custodian of a child refuses
+20 to allow the department to interview the child after the caseworker has
+21 attempted to obtain the consent of the custodial parent, guardian, or
+22 custodian to interview the child, the department may petition a court to
+23 order the custodial parent, guardian, or custodian to make the child
+24 available to be interviewed by the caseworker.
+25 (e) If the court finds that:
+26 (1) a custodial parent, a guardian, or a custodian has been
+27 informed of the hearing on a petition described under subsection
+28 (d); and
+29 (2) the department has made reasonable and unsuccessful efforts
+30 to obtain the consent of the custodial parent, guardian, or
+31 custodian to interview the child;
+32 the court shall specify in the order the efforts the department made to
+33 obtain the consent of the custodial parent, guardian, or custodian and
+34 may grant the motion to interview the child, either with or without the
+35 custodial parent, guardian, or custodian being present.
+36 (f) If the department requests to interview a child at the child's
+37 school, the school, except a nonaccredited nonpublic school that has
+38 less than one (1) employee, shall grant access to the department to
+39 interview the child alone, if the department employee presents:
+40 (1) their credentials as a department case worker, department
+41 issued credential, or other proof of employment with the
+42 department, for inspection upon arrival at the school; and
+HB 1092—LS 6542/DI 148
+16
+1 (2) a written statement that the department "has parental consent
+2 or a court order, or exigent circumstances exist as defined by
+3 IC 31-9-2-44.1 to interview [insert child's name]". The written
+4 statement under this subdivision shall not disclose any of the facts
+5 of the allegations or evidence and may be transmitted to the
+6 school electronically.
+7 (g) If the department provides a written statement under subsection
+8 (f)(2), the school shall:
+9 (1) not maintain the written statement in the child's file; and
+10 (2) protect the child and the child's family's confidentiality
+11 regarding the written statement and the interview.
+12 (h) If a parent, guardian, or custodian of a child who is the subject
+13 of a substantiated investigation of abuse or neglect is an active duty
+14 member of the military, the department shall notify the United States
+15 Department of Defense Family Advocacy Program of the assessment
+16 concerning the child of the active duty member of the military upon
+17 request.
+HB 1092—LS 6542/DI 148
+17
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Family, Children and Human
+Affairs, to which was referred House Bill 1092, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 3, delete lines 20 through 30.
+Page 3, line 35, after "Sec. 1." insert "(a)".
+Page 3, line 38, delete "article." and insert "article, including:
+(1) dates of scheduled hearings and the purpose of each
+hearing;
+(2) any placement order regarding the child; and
+(3) any permanency plan for the child.
+(b) Any communication between the courts under this section is
+for the purpose of ensuring the best interest of the child.".
+Page 3, delete lines 39 through 42.
+Page 4, delete lines 1 through 2.
+Page 4, line 3, delete "Sec. 3." and insert "Sec. 2.".
+Page 4, line 3, delete "sections" and insert "section".
+Page 4, line 4, delete "and 2".
+Page 5, line 8, delete "number." and insert "number, if known.".
+Page 5, between lines 19 and 20, begin a new paragraph and insert:
+"SECTION 7. IC 31-19-2-12, AS AMENDED BY P.L.128-2012,
+
+Section 2:
+SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 12. As soon as a petition for adoption is found to
+be in proper form, the clerk of the court shall:
+(1) forward one (1) copy of the petition for adoption to a licensed
+child placing agency as described in IC 31-9-2-17.5, with
+preference to be given to the agency, if any, sponsoring the
+adoption, as shown by the petition for adoption; and
+(2) if the child is in the care and custody of the department,
+forward an additional copy of the petition to the
+department.".
+Page 6, delete lines 5 through 7.
+Page 14, line 16, delete "(a) Subject to subsections (b)".
+Page 14, delete lines 17 through 19.
+Page 14, line 20, delete "(b)".
+Page 14, run in lines 16 through 20.
+Page 14, line 33, delete ":".
+Page 14, delete lines 34 through 35.
+Page 14, line 36, delete "(B)".
+Page 14, run in lines 33 through 36.
+HB 1092—LS 6542/DI 148
+18
+Page 14, delete lines 38 through 41, begin a new paragraph and
+insert:
+"SECTION 15. IC 31-33-8-7, AS AMENDED BY P.L.213-2021,
+
+Section 3:
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 7. (a) The department's assessment, to the extent
+that is reasonably possible, must include the following:
+(1) The nature, extent, and cause of the known or suspected child
+abuse or neglect.
+(2) The identity of the person allegedly responsible for the child
+abuse or neglect.
+(3) The names and conditions of other children in the home.
+(4) An evaluation of the parent, guardian, custodian, or person
+responsible for the care of the child.
+(5) The home environment and the relationship of the child to the
+parent, guardian, or custodian or other persons responsible for the
+child's care.
+(6) All other data considered pertinent.
+(b) The assessment may include the following:
+(1) A visit to the child's home.
+(2) An interview with the subject child:
+(A) upon receiving parental consent;
+(B) upon receiving a court order; or
+(C) if there are exigent circumstances as defined by
+IC 31-9-2-44.1.
+(3) A physical, psychological, or psychiatric examination of any
+child in the home.
+(c) If:
+(1) admission to the home, the school, or any other place that the
+child may be; or
+(2) permission of the parent, guardian, custodian, or other persons
+responsible for the child for the physical, psychological, or
+psychiatric examination;
+under subsection (b) cannot be obtained, the juvenile court, upon good
+cause shown, shall follow the procedures under IC 31-32-12.
+(d) If a custodial parent, a guardian, or a custodian of a child refuses
+to allow the department to interview the child after the caseworker has
+attempted to obtain the consent of the custodial parent, guardian, or
+custodian to interview the child, the department may petition a court to
+order the custodial parent, guardian, or custodian to make the child
+available to be interviewed by the caseworker.
+(e) If the court finds that:
+(1) a custodial parent, a guardian, or a custodian has been
+HB 1092—LS 6542/DI 148
+19
+informed of the hearing on a petition described under subsection
+(d); and
+(2) the department has made reasonable and unsuccessful efforts
+to obtain the consent of the custodial parent, guardian, or
+custodian to interview the child;
+the court shall specify in the order the efforts the department made to
+obtain the consent of the custodial parent, guardian, or custodian and
+may grant the motion to interview the child, either with or without the
+custodial parent, guardian, or custodian being present.
+(f) If the department requests to interview a child at the child's
+school, the school, except a nonaccredited nonpublic school that has
+less than one (1) employee, shall grant access to the department to
+interview the child alone, if the department employee presents:
+(1) their credentials as a department case worker, department
+issued credential, or other proof of employment with the
+department, for inspection upon arrival at the school; and
+(2) a written statement that the department "has parental consent
+or a court order, or exigent circumstances exist as defined by
+IC 31-9-2-44.1 to interview [insert child's name]". The written
+statement under this subdivision shall not disclose any of the facts
+of the allegations or evidence and may be transmitted to the
+school electronically.
+(g) If the department provides a written statement under subsection
+(f)(2), the school shall:
+(1) not maintain the written statement in the child's file; and
+(2) protect the child and the child's family's confidentiality
+regarding the written statement and the interview.
+(h) If a parent, guardian, or custodian of a child who is the subject
+of a substantiated investigation of abuse or neglect is an active duty
+member of the military, the department shall notify the United States
+Department of Defense Family Advocacy Program of the assessment
+concerning the child of the active duty member of the military upon
+request.".
+Renumber SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1092 as introduced.)
+DEVON
+Committee Vote: yeas 11, nays 0.
+HB 1092—LS 6542/DI 148
+[DELETED:  t b o w f p i c i i t c a c o t d a ( t a a p t a a p u c]
+[DELETED:  t l w r w o y o t a t a p i t t c f w t]
+[DELETED:  1 I 4 A A B P h c p w a d c w i p a t c h f o i]
+[DELETED:  h t t b i t o t o 2 I 3 I A T R A p a h n b s a u w a f p t e t c]
+[DELETED:  p u t c h r g f h r g f p o a a a t c i s t i n o s d o s h a t p o e]
+[DELETED:  s r a a i k o i u t f a m r t t h a s o a i a t c i w t o t a t i c r t t]
+[DELETED:  p a a d i I 3 w t t s o a p c i n o s o p c i n o s p u]
+[DELETED:  c a o t i o a p i a m r t t h a s o a m r t t h a s o]
+[DELETED:  I t a c a c h c u a j a f a n o a t i a s o o o i c a c o j]
+[DELETED:  A n s o r c u A i l c r c u A i c p i c u A o c a r c u A o l c r c u a a o n c m a t]
+[DELETED:  w i t s o a c h c a i t A p w i t s o a c h c o a f w c w b p b t f h g h o c p a]
+[DELETED:  A c o a n o a d i T d a q r f t p a l a c b d d t a c h b d b t a w  t a t a b a o t]
+[DELETED:  o a f w c w b p b t h g o c p a A c o a n o a d i]
+[DELETED:  e o a t p a a v i a p T d a q r f t p a l a c b d d t a c h b d b t a w  t a t a b a o t o a f w c w b p b t h g h o c p a]
+[DELETED:  t A c o a n o a d i T d a q r f t p a l a c b d d t a c]
+[DELETED:  h b d b t a w  t a t a b a o t A A N S T R A F a a m c w t j c a]
+[DELETED:  i t a e c a d b f t c f t p p o a c p a g o a c h b o t c o t c p g o c o o p o e w t]
+[DELETED:  p t c a t c f c]
+[DELETED:  d o s h a t p o e p a a d i I 3 w t t a a c o t p t t]
+[DELETED:  i t a e c a d b f t c f t p p o a c p a g o a c h b]
+[DELETED:  o t c o t c p g o c o o p o e w t p t c a t c f c]
+
+
+================================================================================
+
+Raw Text:
+*HB1092.1*
+January 22, 2026
+HOUSE BILL No. 1092
+_____
+DIGEST OF HB 1092 (Updated January 21, 2026 1:00 pm - DI 119)
+Citations Affected: IC 4-38; IC 31-14; IC 31-16; IC 31-19; IC 31-27;
+IC 31-30; IC 31-33.
+Synopsis: Child services matters. Requires a sports wagering operator
+to withhold winnings from a person who requests a withdrawal from
+the person's mobile sports wagering account if the person is delinquent
+in the person's child support payments. Requires an order establishing
+paternity to be obtained without further proceedings if certain
+conditions are met. Allows the state to approve additional payment
+facilities for purposes of accepting child support payments. Makes
+changes to the adoption code to facilitate communication between a
+probate court and a juvenile court when the subject of an adoption
+petition is also the subject of a pending child in need of services
+(CHINS) petition. Provides that if a child who is the subject of an
+adoption petition is also the subject of a CHINS petition: (1) the clerk
+of the court in the adoption proceeding shall forward a copy of the
+adoption petition to the department of child services (department) if the
+child is in the care and custody of the department; and (2) the
+department shall provide notice of the adoption proceeding to the court
+in the CHINS proceeding. Provides that the department has the right to
+intervene as a party to an adoption proceeding under certain
+(Continued next page)
+Effective: July 1, 2026.
+DeVon, Olthoff
+January 5, 2026, read first time and referred to Committee on Family, Children and Human
+Affairs.
+January 22, 2026, amended, reported — Do Pass.
+HB 1092—LS 6542/DI 148
+
+Digest Continued
+circumstances. Requires a volunteer of an applicant for licensure as a
+child caring institution to undergo a criminal background check if the
+volunteer is likely to have unsupervised contact with children in the
+child caring institution or will have access to a child's information.
+Provides that the department may deny an application for licensure as
+a child caring institution, group home, or child placing agency if the
+applicant was previously licensed as a residential child care provider
+and the license was revoked within one year of the application.
+Requires a probate court in an adoption proceeding to take certain
+actions if allegations in the petition for adoption or evidence produced
+at the adoption proceeding indicates that the child for whom the
+adoption decree is requested meets the definition of a child adjudicated
+or alleged to be a CHINS. Provides that a department caseworker who
+wishes to interview a child at the child's school must provide the
+caseworker's department issued credential in order to interview the
+child alone.
+HHBB 11009922——LLSS 66554422//DDII 114488
+
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1092
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-38-11-1, AS ADDED BY P.L.293-2019,
+2 SECTION 43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. (a) The bureau shall provide information to a
+4 certificate holder concerning persons who are delinquent in child
+5 support.
+6 (b) Prior to a certificate holder disbursing a payout of six hundred
+7 dollars ($600) or more, in winnings, from sports wagering to a person
+8 who is delinquent in child support and who is claiming the winning
+9 sports wager in person at the certificate holder's facility, or is
+10 requesting a withdrawal from the person's mobile sports wagering
+11 account, the certificate holder:
+12 (1) may deduct and retain an administrative fee in the amount of
+13 the lesser of:
+14 (A) three percent (3%) of the amount of delinquent child
+15 support withheld under subdivision (2)(A); or
+16 (B) one hundred dollars ($100); and
+17 (2) shall:
+HB 1092—LS 6542/DI 148
+
+2
+1 (A) withhold the amount of delinquent child support owed
+2 from winnings;
+3 (B) transmit to the bureau:
+4 (i) the amount withheld for delinquent child support; and
+5 (ii) identifying information, including the full name, address,
+6 and Social Security number of the obligor and the child
+7 support case identifier, the date and amount of the payment,
+8 and the name and location of the licensed owner, operating
+9 agent, or trustee; and
+10 (C) issue the obligor a receipt in a form prescribed by the
+11 bureau with the total amount withheld for delinquent child
+12 support and the administrative fee.
+13 (c) The bureau shall notify the obligor at the address provided by the
+14 certificate holder that the bureau intends to offset the obligor's
+15 delinquent child support with the winnings.
+16 (d) The bureau shall hold the amount withheld from the winnings of
+17 an obligor for ten (10) business days before applying the amount as
+18 payment to the obligor's delinquent child support.
+19 (e) The delinquent child support required to be withheld under this
+20 section and an administrative fee described under subsection (b)(1)
+21 have priority over any secured or unsecured claim on winnings except
+22 claims for federal or state taxes that are required to be withheld under
+23 federal or state law.
+24 SECTION 2. IC 31-14-11-1 IS AMENDED TO READ AS
+25 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. If:
+26 (1) a paternity affidavit is executed under IC 16-37-2-2.1; and
+27 (2) the man who executed the paternity affidavit fails to set forth
+28 evidence at a child support hearing that rebuts the man's paternity;
+29 the paternity affidavit has not been set aside under
+30 IC 16-37-2-2.1(k) or IC 16-37-2-2.1(l);
+31 an order establishing paternity and child support for the child named
+32 in the paternity affidavit may must be obtained at a child support
+33 hearing without any further proceedings to establish the child's
+34 paternity.
+35 SECTION 3. IC 31-16-9-1, AS AMENDED BY P.L.150-2018,
+36 SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 1. (a) This subsection applies before January 1,
+38 2007. Upon entering an order for support in:
+39 (1) a dissolution of marriage decree under IC 31-15-2;
+40 (2) a legal separation decree under IC 31-15-3; or
+41 (3) a child support decree under IC 31-16-2;
+42 the court shall require that support payments be made through the clerk
+HB 1092—LS 6542/DI 148
+
+3
+1 of the circuit court as trustee for remittance to the person entitled to
+2 receive payments, unless the court has reasonable grounds for
+3 providing or approving another method of payment.
+4 (b) Beginning January 1, 2007, except as provided in subsection (c),
+5 upon entering an order for support in:
+6 (1) a dissolution of marriage decree under IC 31-15-2;
+7 (2) a legal separation decree under IC 31-15-3; or
+8 (3) a child support decree under IC 31-14-11 or IC 31-16-2;
+9 the court shall require that support payments be made through the clerk
+10 of the a circuit court, or the state central collection unit established by
+11 IC 31-25-3-1, or a payment facility approved by the state, as trustee
+12 for remittance to the person entitled to receive payments, unless the
+13 court has reasonable grounds for providing or approving another
+14 method of payment.
+15 (c) The clerk of the a circuit court may only accept child support
+16 payments that are paid in cash, and all noncash child support payments
+17 must be paid to the state central collection unit established within the
+18 child support bureau by IC 31-25-3-1 or a payment facility approved
+19 by the state.
+20 SECTION 4. IC 31-19-1.5 IS ADDED TO THE INDIANA CODE
+21 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]:
+23 Chapter 1.5. Communication Between Courts
+24 Sec. 1. (a) If a probate court has before it an adoption petition
+25 that alleges the child is subject to a child in need of services
+26 proceeding under IC 31-34, the probate court shall communicate
+27 with the juvenile court concerning the proceeding arising under
+28 this article, including:
+29 (1) dates of scheduled hearings and the purpose of each
+30 hearing;
+31 (2) any placement order regarding the child; and
+32 (3) any permanency plan for the child.
+33 (b) Any communication between the courts under this section is
+34 for the purpose of ensuring the best interest of the child.
+35 Sec. 2. A record must be made of communication under section
+36 1 of this chapter. The parties must be:
+37 (1) promptly informed of the communication; and
+38 (2) granted access to the record.
+39 SECTION 5. IC 31-19-2-6, AS AMENDED BY P.L.206-2015,
+40 SECTION 54, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2026]: Sec. 6. (a) A petition for adoption must specify the
+42 following:
+HB 1092—LS 6542/DI 148
+
+4
+1 (1) The:
+2 (A) name if known;
+3 (B) sex, race, and age if known, or if unknown, the
+4 approximate age; and
+5 (C) place of birth;
+6 of the child sought to be adopted.
+7 (2) The new name to be given the child if a change of name is
+8 desired.
+9 (3) Whether or not the child possesses real or personal property
+10 and, if so, the value and full description of the property.
+11 (4) The:
+12 (A) name, age, and place of residence of a petitioner for
+13 adoption; and
+14 (B) if married, place and date of their marriage.
+15 (5) The name and place of residence, if known to the petitioner
+16 for adoption, of:
+17 (A) the parent or parents of the child;
+18 (B) if the child is an orphan:
+19 (i) the guardian; or
+20 (ii) the nearest kin of the child if the child does not have a
+21 guardian;
+22 (C) the court or agency of which the child is a ward if the child
+23 is a ward; or
+24 (D) the agency sponsoring the adoption if there is a sponsor.
+25 (6) The time, if any, during which the child lived in the home of
+26 the petitioner for adoption.
+27 (7) Whether the petitioner for adoption has been convicted of:
+28 (A) a felony; or
+29 (B) a misdemeanor relating to the health and safety of
+30 children;
+31 and, if so, the date and description of the conviction.
+32 (8) Whether or not a current, ongoing child support order or
+33 medical support order is in effect for the child sought to be
+34 adopted.
+35 (9) If a child sought to be adopted is the subject of an open or
+36 pending:
+37 (A) child in need of services proceeding under IC 31-34; or
+38 (B) delinquency proceeding under IC 31-37;
+39 except an informal adjustment, the court in which the
+40 proceeding is open or pending and the case number, if known.
+41 (9) (10) Additional information consistent with the purpose and
+42 provisions of this article that is considered relevant to the
+HB 1092—LS 6542/DI 148
+
+5
+1 proceedings.
+2 (b) If a current, ongoing child support order or medical support
+3 order is in effect for the child as described in subsection (a)(8), all of
+4 the following must be filed with the petition described under subsection
+5 (a):
+6 (1) A copy of the child support order or medical support order.
+7 (2) A statement as to whether the child support order or medical
+8 support order is enforced by the prosecuting attorney through the
+9 Title IV-D child support program under IC 31-25-4.
+10 SECTION 6. IC 31-19-2-12, AS AMENDED BY P.L.128-2012,
+11 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 12. As soon as a petition for adoption is found to
+13 be in proper form, the clerk of the court shall:
+14 (1) forward one (1) copy of the petition for adoption to a licensed
+15 child placing agency as described in IC 31-9-2-17.5, with
+16 preference to be given to the agency, if any, sponsoring the
+17 adoption, as shown by the petition for adoption; and
+18 (2) if the child is in the care and custody of the department,
+19 forward an additional copy of the petition to the department.
+20 SECTION 7. IC 31-19-2-17 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2026]: Sec. 17. The department has a right to intervene as a
+23 party in a proceeding under this article if the child who is the
+24 subject of a petition for adoption is:
+25 (1) alleged to be or has been adjudicated a child in need of
+26 services; and
+27 (2) the subject of a pending child in need of services
+28 proceeding under IC 31-34.
+29 SECTION 8. IC 31-19-2.5-7 IS ADDED TO THE INDIANA CODE
+30 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+31 1, 2026]: Sec. 7. (a) Not more than fifteen (15) days after the date
+32 that the department receives:
+33 (1) notice under section 3 of this chapter; or
+34 (2) information from a probate court under IC 31-30-1-6.5;
+35 whichever occurs earlier, regarding a child who is the subject of an
+36 open or pending child in need of services proceeding under
+37 IC 31-34, the department shall file a notice with the juvenile court
+38 in which the child in need of services proceeding is pending. An
+39 open or pending proceeding under this subsection does not include
+40 an informal adjustment.
+41 (b) The notice described in subsection (a) must contain the
+42 following information:
+HB 1092—LS 6542/DI 148
+
+6
+1 (1) The date on which the adoption was filed.
+2 (2) The court in which the adoption was filed and the case
+3 number.
+4 (c) Notice filed under this section does not violate IC 31-19-19-2.
+5 SECTION 9. IC 31-19-19-2, AS AMENDED BY P.L.128-2012,
+6 SECTION 63, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]: Sec. 2. (a) All files and records pertaining to the
+8 adoption proceedings in:
+9 (1) the local office;
+10 (2) the department; or
+11 (3) any of the licensed child placing agencies;
+12 are confidential and open to inspection only as provided in
+13 IC 31-19-13-2(2), IC 31-19-17, this chapter, or IC 31-19-20 through
+14 IC 31-19-25.5.
+15 (b) The files and records described in subsection (a), including
+16 investigation records under IC 31-19-8-5 (or IC 31-3-1-4 before its
+17 repeal):
+18 (1) are open to the inspection of the court hearing the petition for
+19 adoption; and
+20 (2) on order of the court, may be:
+21 (A) introduced into evidence; and
+22 (B) made a part of the record;
+23 in the adoption proceeding; and
+24 (3) are open to inspection of the juvenile court in which notice
+25 has been filed under IC 31-19-2.5-7.
+26 SECTION 10. IC 31-27-3-3, AS AMENDED BY P.L.81-2025,
+27 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 3. (a) An applicant must apply for a child caring
+29 institution license on forms provided by the department.
+30 (b) An applicant must submit the required information as part of the
+31 application.
+32 (c) The applicant must submit with the application a statement
+33 attesting the following:
+34 (1) Whether the applicant has been convicted of:
+35 (A) a felony; or
+36 (B) a misdemeanor relating to the health and safety of
+37 children.
+38 (2) Whether the applicant has been charged with:
+39 (A) a felony; or
+40 (B) a misdemeanor relating to the health and safety of
+41 children;
+42 during the pendency of the application.
+HB 1092—LS 6542/DI 148
+
+7
+1 (d) The department, on behalf of an applicant, or, at the discretion
+2 of the department, an applicant, shall conduct a criminal history check
+3 of the following:
+4 (1) Each individual who is an applicant.
+5 (2) The director or manager of a facility where children will be
+6 placed.
+7 (3) Each employee or volunteer of the applicant.
+8 (4) Each volunteer, contractor, or individual working in the child
+9 caring institution who is likely to have unsupervised contact with
+10 children in the child caring institution or will have access to the
+11 child's information.
+12 (e) If the applicant conducts a criminal history check under
+13 subsection (d), the applicant shall:
+14 (1) maintain records of the information it receives concerning
+15 each individual who is the subject of a criminal history check; and
+16 (2) submit to the department a copy of the information it receives
+17 concerning each person described in subsection (d)(1) through
+18 (d)(4).
+19 (f) If the department conducts a criminal history check on behalf of
+20 an applicant under subsection (d), the department shall:
+21 (1) determine whether the subject of a national fingerprint based
+22 criminal history check has a record of:
+23 (A) a conviction for a felony;
+24 (B) a conviction for a misdemeanor relating to the health and
+25 safety of a child; or
+26 (C) a juvenile adjudication for a nonwaivable offense, as
+27 defined in IC 31-9-2-84.8 that, if committed by an adult,
+28 would be a felony;
+29 (2) notify the applicant of the determination under subdivision (1)
+30 without identifying a specific offense or other identifying
+31 information concerning a conviction or juvenile adjudication
+32 contained in the national criminal history record information;
+33 (3) submit to the applicant a copy of any state limited criminal
+34 history report that the department receives on behalf of any person
+35 described in subsection (d); and
+36 (4) maintain a record of every report and all information the
+37 department receives concerning a person described in subsection
+38 (d).
+39 (g) Except as provided in subsection (h), a criminal history check
+40 described in subsection (d) is required only at the time an application
+41 for a new license or the renewal of an existing license is submitted.
+42 (h) Except as provided in subsection (i), a criminal history check of
+HB 1092—LS 6542/DI 148
+
+8
+1 each person described in subsection (d)(2), (d)(3), or (d)(4) must be
+2 completed on or before the date the person:
+3 (1) is employed;
+4 (2) is assigned as a volunteer; or
+5 (3) enters into, or the person's employing entity enters into, a
+6 contract with the applicant.
+7 (i) An individual may be employed by a child caring institution as
+8 an employee, volunteer, or contractor before a criminal history check
+9 of the individual is completed as required under subsection (h) if all of
+10 the following conditions are satisfied:
+11 (1) The following checks have been completed regarding the
+12 individual:
+13 (A) A fingerprint based check of national crime information
+14 data bases under IC 31-9-2-22.5(1).
+15 (B) A national sex offender registry check under
+16 IC 31-9-2-22.5(3).
+17 (C) An in-state local criminal records check under
+18 IC 31-9-2-22.5(4).
+19 (D) An in-state child protection index check under
+20 IC 31-33-26.
+21 (2) If the individual has resided outside Indiana at any time during
+22 the five (5) years preceding the individual's date of hiring by the
+23 child caring institution, the following checks have been requested
+24 regarding the individual:
+25 (A) An out-of-state child abuse registry check under
+26 IC 31-9-2-22.5(2).
+27 (B) An out-of-state local criminal records check under
+28 IC 31-9-2-22.5(4).
+29 (3) The individual's employment before the completion of the
+30 criminal history check required under subsection (h) is limited to
+31 training during which the individual:
+32 (A) does not have contact with children who are under the care
+33 and control of the child caring institution; and
+34 (B) does not have access to records containing information
+35 regarding children who are under the care and control of the
+36 child caring institution.
+37 (4) The individual completes an attestation, under penalty of
+38 perjury, disclosing:
+39 (A) any abuse or neglect complaints made against the
+40 individual with the child welfare agency of a state other than
+41 Indiana in which the individual resided within the five (5)
+42 years preceding the date of the attestation; and
+HB 1092—LS 6542/DI 148
+
+9
+1 (B) any contact the individual had with a law enforcement
+2 agency in connection with the individual's suspected or alleged
+3 commission of a crime in a state other than Indiana in which
+4 the individual resided within the five (5) years preceding the
+5 date of the attestation.
+6 (j) The applicant or facility is responsible for any fees associated
+7 with a criminal history check.
+8 (k) The department shall, at the applicant's request, inform the
+9 applicant whether the department has or does not have a record of the
+10 person who is the subject of a criminal history check and if the
+11 department has identified the person as an alleged perpetrator of abuse
+12 or neglect. The department may not provide to the applicant any details
+13 or personally identifying information contained in any child protective
+14 services investigation report.
+15 (l) A person who is the subject of a criminal history check
+16 conducted in accordance with this section may request the state police
+17 department to provide the person with a copy of any state or national
+18 criminal history report concerning the person.
+19 SECTION 11. IC 31-27-3-5, AS AMENDED BY P.L.243-2019,
+20 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2026]: Sec. 5. (a) The following constitute sufficient grounds
+22 for a denial of a license application:
+23 (1) A determination by the department of child abuse or neglect
+24 by:
+25 (A) the applicant; or
+26 (B) an employee, volunteer, or contractor of the applicant.
+27 (2) A criminal conviction of the applicant, or the director or
+28 manager of a facility where children will be placed by the
+29 applicant, of:
+30 (A) a felony;
+31 (B) a misdemeanor related to the health and safety of a child;
+32 (C) a misdemeanor for operating a child caring institution,
+33 foster family home, group home, or child placing agency
+34 without a license under this article (or IC 12-17.4 before its
+35 repeal); or
+36 (D) a misdemeanor for operating a child care center or child
+37 care home without a license under IC 12-17.2.
+38 (3) A determination by the department that the applicant made
+39 false statements in the applicant's application for licensure.
+40 (4) A determination by the department that the applicant made
+41 false statements in the records required by the department.
+42 (5) A determination by the department that:
+HB 1092—LS 6542/DI 148
+
+10
+1 (A) the applicant; or
+2 (B) an employee, volunteer, or contractor of the applicant;
+3 previously operated a home or facility without a license required
+4 under any applicable provision of this article (or IC 12-17.4
+5 before its repeal) or IC 12-17.2.
+6 (6) A juvenile adjudication of the applicant for a nonwaivable
+7 offense, as defined in IC 31-9-2-84.8 that, if committed by an
+8 adult, would be a felony.
+9 (7) A determination by the department that the applicant was
+10 previously licensed under this article and the license was
+11 revoked within one (1) year of the current application.
+12 (b) An application for a license may also be denied if an employee,
+13 volunteer, or contractor of the applicant has had any of the following:
+14 (1) A conviction of a nonwaivable offense, as defined in
+15 IC 31-9-2-84.8.
+16 (2) A conviction of any other felony or a misdemeanor relating to
+17 the health and safety of a child, unless the applicant is granted a
+18 waiver by the department with regard to the employee, volunteer,
+19 or contractor.
+20 (3) A juvenile adjudication for a nonwaivable offense, as defined
+21 in IC 31-9-2-84.8 that, if committed by an adult, would be a
+22 felony, unless the applicant is granted a waiver by the department
+23 with regard to the employee, volunteer, or contractor.
+24 (c) In determining whether to grant a waiver under subsection (b),
+25 the department shall consider the following factors:
+26 (1) The length of time that has passed since the disqualifying
+27 conviction.
+28 (2) The severity, nature, and circumstances of the offense.
+29 (3) Evidence of rehabilitation.
+30 (4) The duties and qualifications required for the proposed
+31 employment positions, volunteer assignment, or contract.
+32 (d) Notwithstanding subsection (a) or (b), if:
+33 (1) a license application could be denied due to a criminal
+34 conviction of, or a determination of child abuse or neglect by, an
+35 employee, volunteer, or contractor of the applicant; and
+36 (2) the department determines that the employee, volunteer, or
+37 contractor has been dismissed by the applicant within a
+38 reasonable time after the applicant became aware of the
+39 conviction or determination;
+40 the criminal conviction of, or determination of child abuse or neglect
+41 by, the former employee, former volunteer, or former contractor does
+42 not constitute a sufficient basis for the denial of a license application.
+HB 1092—LS 6542/DI 148
+
+11
+1 (e) The department may adopt rules to implement this section.
+2 SECTION 12. IC 31-27-5-6, AS AMENDED BY P.L.243-2019,
+3 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+4 JULY 1, 2026]: Sec. 6. (a) The following constitute sufficient grounds
+5 for a denial of a license application:
+6 (1) A determination by the department of child abuse or neglect
+7 by:
+8 (A) the applicant; or
+9 (B) an employee, volunteer, or contractor of the applicant.
+10 (2) A criminal conviction of the applicant, or the director or
+11 manager of a facility where children will be placed by the
+12 applicant, for any of the following:
+13 (A) A felony.
+14 (B) A misdemeanor related to the health and safety of a child.
+15 (C) A misdemeanor for operating a child caring institution,
+16 foster family home, group home, or child placing agency
+17 without a license under this article (or IC 12-17.4 before its
+18 repeal).
+19 (D) A misdemeanor for operating a child care center or child
+20 care home without a license under IC 12-17.2.
+21 (3) A determination by the department that the applicant made
+22 false statements in the applicant's application for licensure.
+23 (4) A determination by the department that the applicant made
+24 false statements in the records required by the department.
+25 (5) A determination by the department that:
+26 (A) the applicant; or
+27 (B) an employee, volunteer, or contractor of the applicant;
+28 previously operated a home or facility without a license required
+29 under any applicable provision of this article (or IC 12-17.4
+30 before its repeal) or IC 12-17.2.
+31 (6) A juvenile adjudication of the applicant for a nonwaivable
+32 offense, as defined in IC 31-9-2-84.8 that, if committed by an
+33 adult, would be a felony.
+34 (7) A determination by the department that the applicant was
+35 previously licensed under this article and the license was
+36 revoked within one (1) year of the current application.
+37 (b) An application for a license may also be denied if an employee,
+38 volunteer, or contractor of the applicant has had any of the following:
+39 (1) A conviction of a nonwaivable offense, as defined in
+40 IC 31-9-2-84.8.
+41 (2) A conviction of any other felony or a misdemeanor relating to
+42 the health and safety of a child, unless the applicant is granted a
+HB 1092—LS 6542/DI 148
+
+12
+1 waiver by the department to employ or assign the person as a
+2 volunteer in a position described in this subsection.
+3 (3) A juvenile adjudication for a nonwaivable offense, as defined
+4 in IC 31-9-2-84.8 that, if committed by an adult, would be a
+5 felony, unless the applicant is granted a waiver by the department
+6 to employ or assign the person as a volunteer in a position
+7 described in this subsection.
+8 (c) In determining whether to grant a waiver under subsection (b),
+9 the department shall consider the following factors:
+10 (1) The length of time that has passed since the disqualifying
+11 conviction.
+12 (2) The severity, nature, and circumstances of the offense.
+13 (3) Evidence of rehabilitation.
+14 (4) The duties and qualifications required for the proposed
+15 employment positions, volunteer assignment, or contract.
+16 (d) Notwithstanding subsection (a) or (b), if:
+17 (1) a license application could be denied due to a criminal
+18 conviction of, or a determination of child abuse or neglect by, an
+19 employee, volunteer, or contractor of the applicant; and
+20 (2) the department determines that the employee, volunteer, or
+21 contractor has been dismissed by the applicant within a
+22 reasonable time after the applicant became aware of the
+23 conviction or determination;
+24 the criminal conviction of, or determination of child abuse or neglect
+25 by, the former employee, former volunteer, or former contractor does
+26 not constitute a sufficient basis for the denial of a license application.
+27 (e) The department may adopt rules to implement this section.
+28 SECTION 13. IC 31-27-6-3, AS AMENDED BY P.L.243-2019,
+29 SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 3. (a) The following constitute sufficient grounds
+31 for denial of a license application:
+32 (1) A determination by the department of child abuse or neglect
+33 by:
+34 (A) the applicant; or
+35 (B) an employee, volunteer, or contractor of the applicant.
+36 (2) A criminal conviction of the applicant, or the director or
+37 manager of a facility where children will be placed by the
+38 licensee, for any of the following:
+39 (A) A felony.
+40 (B) A misdemeanor related to the health and safety of a child.
+41 (C) A misdemeanor for operating a child caring institution,
+42 foster family home, group home, or child placing agency
+HB 1092—LS 6542/DI 148
+
+13
+1 without a license under this article (or IC 12-17.4 before its
+2 repeal).
+3 (D) A misdemeanor for operating a child care center or child
+4 care home without a license under IC 12-17.2.
+5 (3) A determination by the department that the applicant made
+6 false statements in the applicant's application for licensure.
+7 (4) A determination by the department that the applicant made
+8 false statements in the records required by the department.
+9 (5) A determination by the department that:
+10 (A) the applicant; or
+11 (B) an employee, volunteer, or contractor of the applicant;
+12 previously operated a home or facility without a license required
+13 under any applicable provision of this article (or IC 12-17.4
+14 before its repeal) or IC 12-17.2.
+15 (6) A juvenile adjudication of the applicant for a nonwaivable
+16 offense, as defined in IC 31-9-2-84.8 that, if committed by an
+17 adult, would be a felony.
+18 (7) A determination by the department that the applicant was
+19 previously licensed under this article and the license was
+20 revoked within one (1) year of the current application.
+21 (b) An application for a license may also be denied if an employee,
+22 volunteer, or contractor of the applicant has had any of the following:
+23 (1) A conviction of a nonwaivable offense, as defined in
+24 IC 31-9-2-84.8.
+25 (2) A conviction of any other felony or a misdemeanor relating to
+26 the health and safety of a child, unless the applicant is granted a
+27 waiver by the department with regard to the employee, volunteer,
+28 or contractor.
+29 (3) A juvenile adjudication for a nonwaivable offense, as defined
+30 in IC 31-9-2-84.8 that, if committed by an adult, would be a
+31 felony, unless the applicant is granted a waiver by the department
+32 with regard to the employee, volunteer, or contractor.
+33 (c) In determining whether to grant a waiver under subsection (b),
+34 the department shall consider the following factors:
+35 (1) The length of time that has passed since the disqualifying
+36 conviction.
+37 (2) The severity, nature, and circumstances of the offense.
+38 (3) Evidence of rehabilitation.
+39 (4) The duties and qualifications required for the proposed
+40 employment positions, volunteer assignment, or contract.
+41 (d) Notwithstanding subsection (a) or (b), if:
+42 (1) a license application could be denied due to a criminal
+HB 1092—LS 6542/DI 148
+
+14
+1 conviction of, or a determination of child abuse or neglect by, an
+2 employee, volunteer, or contractor of the applicant; and
+3 (2) the department determines that the employee, volunteer, or
+4 contractor has been dismissed by the applicant within a
+5 reasonable time after the applicant became aware of the
+6 conviction or determination;
+7 the criminal conviction of, or determination of child abuse or neglect
+8 by, the former employee, former volunteer, or former contractor does
+9 not constitute a sufficient basis for the denial of a license application.
+10 (e) The department may adopt rules to implement this section.
+11 SECTION 14. IC 31-30-1-6.5 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JULY 1, 2026]: Sec. 6.5. If allegations in the petition
+14 for adoption or evidence produced at an adoption proceeding
+15 indicates that the child for whom the adoption decree is requested
+16 meets the definition of a child adjudicated or alleged to be a child
+17 in need of services under IC 31-34-1, the probate court shall do the
+18 following on its own motion or at the request of a party to the
+19 adoption matter:
+20 (1) Send the petition for adoption and current chronological
+21 case summary to the department in the county where the child
+22 in need of services matter is pending.
+23 (2) Direct the department to determine whether the child for
+24 whom the adoption is requested is the subject of a pending
+25 child in need of services matter.
+26 (3) If the child is the subject of a pending a child in need of
+27 services matter communicate with the juvenile court as
+28 required under IC 31-19-1.5-1.
+29 SECTION 15. IC 31-33-8-7, AS AMENDED BY P.L.213-2021,
+30 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 7. (a) The department's assessment, to the extent
+32 that is reasonably possible, must include the following:
+33 (1) The nature, extent, and cause of the known or suspected child
+34 abuse or neglect.
+35 (2) The identity of the person allegedly responsible for the child
+36 abuse or neglect.
+37 (3) The names and conditions of other children in the home.
+38 (4) An evaluation of the parent, guardian, custodian, or person
+39 responsible for the care of the child.
+40 (5) The home environment and the relationship of the child to the
+41 parent, guardian, or custodian or other persons responsible for the
+42 child's care.
+HB 1092—LS 6542/DI 148
+
+15
+1 (6) All other data considered pertinent.
+2 (b) The assessment may include the following:
+3 (1) A visit to the child's home.
+4 (2) An interview with the subject child:
+5 (A) upon receiving parental consent;
+6 (B) upon receiving a court order; or
+7 (C) if there are exigent circumstances as defined by
+8 IC 31-9-2-44.1.
+9 (3) A physical, psychological, or psychiatric examination of any
+10 child in the home.
+11 (c) If:
+12 (1) admission to the home, the school, or any other place that the
+13 child may be; or
+14 (2) permission of the parent, guardian, custodian, or other persons
+15 responsible for the child for the physical, psychological, or
+16 psychiatric examination;
+17 under subsection (b) cannot be obtained, the juvenile court, upon good
+18 cause shown, shall follow the procedures under IC 31-32-12.
+19 (d) If a custodial parent, a guardian, or a custodian of a child refuses
+20 to allow the department to interview the child after the caseworker has
+21 attempted to obtain the consent of the custodial parent, guardian, or
+22 custodian to interview the child, the department may petition a court to
+23 order the custodial parent, guardian, or custodian to make the child
+24 available to be interviewed by the caseworker.
+25 (e) If the court finds that:
+26 (1) a custodial parent, a guardian, or a custodian has been
+27 informed of the hearing on a petition described under subsection
+28 (d); and
+29 (2) the department has made reasonable and unsuccessful efforts
+30 to obtain the consent of the custodial parent, guardian, or
+31 custodian to interview the child;
+32 the court shall specify in the order the efforts the department made to
+33 obtain the consent of the custodial parent, guardian, or custodian and
+34 may grant the motion to interview the child, either with or without the
+35 custodial parent, guardian, or custodian being present.
+36 (f) If the department requests to interview a child at the child's
+37 school, the school, except a nonaccredited nonpublic school that has
+38 less than one (1) employee, shall grant access to the department to
+39 interview the child alone, if the department employee presents:
+40 (1) their credentials as a department case worker, department
+41 issued credential, or other proof of employment with the
+42 department, for inspection upon arrival at the school; and
+HB 1092—LS 6542/DI 148
+
+16
+1 (2) a written statement that the department "has parental consent
+2 or a court order, or exigent circumstances exist as defined by
+3 IC 31-9-2-44.1 to interview [insert child's name]". The written
+4 statement under this subdivision shall not disclose any of the facts
+5 of the allegations or evidence and may be transmitted to the
+6 school electronically.
+7 (g) If the department provides a written statement under subsection
+8 (f)(2), the school shall:
+9 (1) not maintain the written statement in the child's file; and
+10 (2) protect the child and the child's family's confidentiality
+11 regarding the written statement and the interview.
+12 (h) If a parent, guardian, or custodian of a child who is the subject
+13 of a substantiated investigation of abuse or neglect is an active duty
+14 member of the military, the department shall notify the United States
+15 Department of Defense Family Advocacy Program of the assessment
+16 concerning the child of the active duty member of the military upon
+17 request.
+HB 1092—LS 6542/DI 148
+
+17
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Family, Children and Human
+Affairs, to which was referred House Bill 1092, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 3, delete lines 20 through 30.
+Page 3, line 35, after "Sec. 1." insert "(a)".
+Page 3, line 38, delete "article." and insert "article, including:
+(1) dates of scheduled hearings and the purpose of each
+hearing;
+(2) any placement order regarding the child; and
+(3) any permanency plan for the child.
+(b) Any communication between the courts under this section is
+for the purpose of ensuring the best interest of the child.".
+Page 3, delete lines 39 through 42.
+Page 4, delete lines 1 through 2.
+Page 4, line 3, delete "Sec. 3." and insert "Sec. 2.".
+Page 4, line 3, delete "sections" and insert "section".
+Page 4, line 4, delete "and 2".
+Page 5, line 8, delete "number." and insert "number, if known.".
+Page 5, between lines 19 and 20, begin a new paragraph and insert:
+"SECTION 7. IC 31-19-2-12, AS AMENDED BY P.L.128-2012,
+SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 12. As soon as a petition for adoption is found to
+be in proper form, the clerk of the court shall:
+(1) forward one (1) copy of the petition for adoption to a licensed
+child placing agency as described in IC 31-9-2-17.5, with
+preference to be given to the agency, if any, sponsoring the
+adoption, as shown by the petition for adoption; and
+(2) if the child is in the care and custody of the department,
+forward an additional copy of the petition to the
+department.".
+Page 6, delete lines 5 through 7.
+Page 14, line 16, delete "(a) Subject to subsections (b)".
+Page 14, delete lines 17 through 19.
+Page 14, line 20, delete "(b)".
+Page 14, run in lines 16 through 20.
+Page 14, line 33, delete ":".
+Page 14, delete lines 34 through 35.
+Page 14, line 36, delete "(B)".
+Page 14, run in lines 33 through 36.
+HB 1092—LS 6542/DI 148
+
+18
+Page 14, delete lines 38 through 41, begin a new paragraph and
+insert:
+"SECTION 15. IC 31-33-8-7, AS AMENDED BY P.L.213-2021,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 7. (a) The department's assessment, to the extent
+that is reasonably possible, must include the following:
+(1) The nature, extent, and cause of the known or suspected child
+abuse or neglect.
+(2) The identity of the person allegedly responsible for the child
+abuse or neglect.
+(3) The names and conditions of other children in the home.
+(4) An evaluation of the parent, guardian, custodian, or person
+responsible for the care of the child.
+(5) The home environment and the relationship of the child to the
+parent, guardian, or custodian or other persons responsible for the
+child's care.
+(6) All other data considered pertinent.
+(b) The assessment may include the following:
+(1) A visit to the child's home.
+(2) An interview with the subject child:
+(A) upon receiving parental consent;
+(B) upon receiving a court order; or
+(C) if there are exigent circumstances as defined by
+IC 31-9-2-44.1.
+(3) A physical, psychological, or psychiatric examination of any
+child in the home.
+(c) If:
+(1) admission to the home, the school, or any other place that the
+child may be; or
+(2) permission of the parent, guardian, custodian, or other persons
+responsible for the child for the physical, psychological, or
+psychiatric examination;
+under subsection (b) cannot be obtained, the juvenile court, upon good
+cause shown, shall follow the procedures under IC 31-32-12.
+(d) If a custodial parent, a guardian, or a custodian of a child refuses
+to allow the department to interview the child after the caseworker has
+attempted to obtain the consent of the custodial parent, guardian, or
+custodian to interview the child, the department may petition a court to
+order the custodial parent, guardian, or custodian to make the child
+available to be interviewed by the caseworker.
+(e) If the court finds that:
+(1) a custodial parent, a guardian, or a custodian has been
+HB 1092—LS 6542/DI 148
+
+19
+informed of the hearing on a petition described under subsection
+(d); and
+(2) the department has made reasonable and unsuccessful efforts
+to obtain the consent of the custodial parent, guardian, or
+custodian to interview the child;
+the court shall specify in the order the efforts the department made to
+obtain the consent of the custodial parent, guardian, or custodian and
+may grant the motion to interview the child, either with or without the
+custodial parent, guardian, or custodian being present.
+(f) If the department requests to interview a child at the child's
+school, the school, except a nonaccredited nonpublic school that has
+less than one (1) employee, shall grant access to the department to
+interview the child alone, if the department employee presents:
+(1) their credentials as a department case worker, department
+issued credential, or other proof of employment with the
+department, for inspection upon arrival at the school; and
+(2) a written statement that the department "has parental consent
+or a court order, or exigent circumstances exist as defined by
+IC 31-9-2-44.1 to interview [insert child's name]". The written
+statement under this subdivision shall not disclose any of the facts
+of the allegations or evidence and may be transmitted to the
+school electronically.
+(g) If the department provides a written statement under subsection
+(f)(2), the school shall:
+(1) not maintain the written statement in the child's file; and
+(2) protect the child and the child's family's confidentiality
+regarding the written statement and the interview.
+(h) If a parent, guardian, or custodian of a child who is the subject
+of a substantiated investigation of abuse or neglect is an active duty
+member of the military, the department shall notify the United States
+Department of Defense Family Advocacy Program of the assessment
+concerning the child of the active duty member of the military upon
+request.".
+Renumber SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1092 as introduced.)
+DEVON
+Committee Vote: yeas 11, nays 0.
+HB 1092—LS 6542/DI 148
+
+[DELETED:  t b o w f p i c i i t c a c o t d a ( t a a p t a a p u c]
+[DELETED:  t l w r w o y o t a t a p i t t c f w t]
+[DELETED:  1 I 4 A A B P h c p w a d c w i p a t c h f o i]
+[DELETED:  h t t b i t o t o 2 I 3 I A T R A p a h n b s a u w a f p t e t c]
+[DELETED:  p u t c h r g f h r g f p o a a a t c i s t i n o s d o s h a t p o e]
+[DELETED:  s r a a i k o i u t f a m r t t h a s o a i a t c i w t o t a t i c r t t]
+[DELETED:  p a a d i I 3 w t t s o a p c i n o s o p c i n o s p u]
+[DELETED:  c a o t i o a p i a m r t t h a s o a m r t t h a s o]
+[DELETED:  I t a c a c h c u a j a f a n o a t i a s o o o i c a c o j]
+[DELETED:  A n s o r c u A i l c r c u A i c p i c u A o c a r c u A o l c r c u a a o n c m a t]
+[DELETED:  w i t s o a c h c a i t A p w i t s o a c h c o a f w c w b p b t f h g h o c p a]
+[DELETED:  A c o a n o a d i T d a q r f t p a l a c b d d t a c h b d b t a w  t a t a b a o t]
+[DELETED:  o a f w c w b p b t h g o c p a A c o a n o a d i]
+[DELETED:  e o a t p a a v i a p T d a q r f t p a l a c b d d t a c h b d b t a w  t a t a b a o t o a f w c w b p b t h g h o c p a]
+[DELETED:  t A c o a n o a d i T d a q r f t p a l a c b d d t a c]
+[DELETED:  h b d b t a w  t a t a b a o t A A N S T R A F a a m c w t j c a]
+[DELETED:  i t a e c a d b f t c f t p p o a c p a g o a c h b o t c o t c p g o c o o p o e w t]
+[DELETED:  p t c a t c f c]
+[DELETED:  d o s h a t p o e p a a d i I 3 w t t a a c o t p t t]
+[DELETED:  i t a e c a d b f t c f t p p o a c p a g o a c h b]
+[DELETED:  o t c o t c p g o c o o p o e w t p t c a t c f c]

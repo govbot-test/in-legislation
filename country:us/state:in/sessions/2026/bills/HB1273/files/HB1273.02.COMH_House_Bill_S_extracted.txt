@@ -1,0 +1,2998 @@
+Title: HOUSE BILL No. 1273
+Official Title: HOUSE BILL No. 1273
+Number of Sections: 8
+Source: versions - House Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+*HB1273.1*
+January 13, 2026
+_____
+DIGEST OF HB 1273 (Updated January 13, 2026 1:20 pm - DI 154)
+Citations Affected: IC 24-4; IC 24-5.
+Synopsis: Requirements for proxy advisors. Provides that if a proxy
+advisor makes a recommendation against entity management on an
+entity proposal or proxy proposal, or makes a default recommendation
+or policy concerning votes against entity management on entity
+proposals or proxy proposals, and the proxy advisor does not do so
+based on a written financial analysis, the proxy advisor shall do the
+following: (1) At the time the proxy advisor provides the proxy
+advisory services, provide a clear and conspicuous disclosure to each
+interest holder or any person acting on behalf of an interest holder,
+receiving the proxy advisory services, that: (A) identifies the services
+being provided by the proxy advisor; (B) identifies the
+recommendation at issue; and (C) states that the proxy advisor has
+made the recommendation without utilizing a written financial analysis
+regarding the impact that the recommended action would have on
+entity interest holders. (2) If the proxy advisor provides certain proxy
+advisory services, then at the time the proxy advisor provides the proxy
+advisory services, the proxy advisor must provide to entity management
+the disclosure provided to each interest holder or any person acting on
+behalf of an interest holder receiving the proxy advisory services. (3)
+For the entire time that a proxy advisor is providing proxy advisory
+services to an interest holder of an entity or any person acting on behalf
+of an interest holder of an entity, prominently display on the home page
+of the proxy advisor's website a statement that the proxy advisor has
+made a recommendation: (A) against entity management on an entity
+(Continued next page)
+Effective: July 1, 2026.
+Pierce K, Andrade
+January 6, 2026, read first time and referred to Committee on Financial Institutions.
+January 13, 2026, amended, reported — Do Pass.
+HB 1273—LS 6762/DI 154
+Digest Continued
+proposal or proxy proposal; and (B) without utilizing a written financial
+analysis regarding the impact that the recommended action would have
+on entity interest holders. Provides that if a proxy advisor makes a
+recommendation against entity management on an entity proposal or
+proxy proposal, or makes a default recommendation or policy
+concerning votes against entity management on entity proposals or
+proxy proposals, and the proxy advisor does so based on a written
+financial analysis, the proxy advisor shall do the following: (1) At the
+time the proxy advisor provides the proxy advisory services, provide a
+clear and conspicuous disclosure to each interest holder or any person
+acting on behalf of an interest holder, receiving proxy advisory
+services, that: (A) identifies the services being provided by the proxy
+advisor; (B) identifies the recommendation at issue; (C) states that the
+proxy advisor utilized a written financial analysis regarding the impact
+that the recommended action would have on entity interest holders in
+making the recommendation; and (D) states that the written financial
+analysis is available upon request. (2) Make the written financial
+analysis available to an interest holder or any person acting on behalf
+of an interest holder, receiving the proxy advisory services within a
+reasonable time after an interest holder or any person acting on behalf
+of an interest holder, receiving the proxy advisory services requests the
+written financial analysis. (3) If the proxy advisor provides certain
+proxy advisory services, then at the time the proxy advisor provides the
+proxy advisory services, the proxy advisor must provide a copy of the
+written financial analysis to entity management. Amends the definition
+of "consumer transaction" for purposes of the deceptive consumer sales
+act to include the provision of a product or service to a state agency or
+a local agency in Indiana. Amends the definition of "supplier" for
+purposes of the deceptive consumer sales act to include an entity that
+provides a product or service to a state agency or a local agency in
+Indiana. Provides that an action that arises from a consumer transaction
+involving the provision of a product or service by a supplier to a state
+agency may be brought and enforced only by the attorney general.
+Provides that an action that arises from a consumer transaction
+involving the provision of a product or service by a supplier to a local
+agency may be brought and enforced only by an attorney acting on
+behalf of the local agency, unless the local unit of government served
+by the local agency requests the attorney general to bring and enforce
+an action on behalf of the local unit. Provides that in an action that
+arises from a consumer transaction involving the provision of a product
+or service by a supplier to a state agency or a local agency, a court may
+take certain actions.
+HHBB 11227733——LLSS 66776622//DDII 115544
+January 13, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1273
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-4-27.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 27.5. Proxy Advisors
+5 Sec. 1. As used in this chapter, "default recommendation or
+6 policy" means a system, set of rules, principles, or guidelines
+7 designed to assist with voting decisions on any entity proposals or
+8 proxy proposals.
+9 Sec. 2. (a) As used in this chapter, "entity" means a:
+10 (1) business corporation (as defined in IC 23-0.5-1.5-3);
+11 (2) general partnership (as defined in IC 23-0.5-1.5-13),
+12 including a limited liability partnership (as defined in
+13 IC 23-0.5-1.5-21);
+14 (3) limited partnership (as defined in IC 23-0.5-1.5-22); or
+15 (4) limited liability company (as defined in IC 23-0.5-1.5-20).
+HB 1273—LS 6762/DI 154
+2
+1 (b) The term does not include:
+2 (1) an individual;
+3 (2) a business trust, a trust with a predominately donative
+4 purpose, or a charitable trust;
+5 (3) an association or relationship that:
+6 (A) is not listed in subsection (a); and
+7 (B) is not a partnership under the rules stated in
+8 IC 23-4-1-7 or a similar provision of the law of another
+9 jurisdiction;
+10 (4) a decedent's estate; or
+11 (5) a government or a governmental subdivision, agency, or
+12 instrumentality.
+13 Sec. 3. As used in this chapter, "entity management" means an
+14 individual or group of individuals that actively oversee and direct
+15 an entity's activities, resources, and personnel to accomplish the
+16 entity's objectives.
+17 Sec. 4. As used in this chapter, "entity proposal" means any
+18 proposal made by an entity to its interest holders that is included
+19 in the entity's proxy statement, including director nominations or
+20 elections or any proposal relating to director nominations or
+21 elections, executive compensation, corporate transactions,
+22 corporate structure, auditor selection, or entity policy on any
+23 subject.
+24 Sec. 5. As used in this chapter, "interest" means:
+25 (1) a share in a business corporation (as defined in
+26 IC 23-0.5-1.5-3); or
+27 (2) a governance interest or economic interest in any other
+28 type of unincorporated entity.
+29 Sec. 6. As used in this chapter, "interest holder" means a direct
+30 holder of an interest in an entity.
+31 Sec. 7. As used in this chapter, "proxy advisor" means a person
+32 who, for compensation, provides a proxy advisory service to
+33 interest holders of an entity or to other persons with authority to
+34 vote on behalf of interest holders of an entity.
+35 Sec. 8. As used in this chapter, "proxy advisory service" means
+36 any of the following services that are provided in connection with
+37 an entity or are provided to any person in Indiana:
+38 (1) Advice or a recommendation on how to vote on an entity
+39 proposal or proxy proposal.
+40 (2) Proxy statement research and analysis regarding an entity
+41 proposal or proxy proposal.
+42 (3) Development of proxy voting recommendations or policies,
+HB 1273—LS 6762/DI 154
+3
+1 including establishing default recommendations or policies.
+2 Sec. 9. As used in this chapter, "proxy proposal" means any
+3 proposal made by an interest holder of an entity that is included in
+4 the entity's proxy statement, including a proposal relating to any
+5 of the subjects that could be covered by an entity proposal.
+6 Sec. 10. As used in this chapter, "written financial analysis"
+7 means a written document that:
+8 (1) analyzes the expected short term and long term financial
+9 benefits and costs to an entity of implementing an entity
+10 proposal or proxy proposal;
+11 (2) concludes what vote or course of action is most likely to
+12 positively affect interest holder value; and
+13 (3) explains the methods and processes used to prepare the
+14 analysis, including the experience and geographic location of
+15 the personnel who formed the conclusion.
+16 Sec. 11. (a) If a proxy advisor makes a recommendation against
+17 entity management on an entity proposal or proxy proposal, or
+18 makes a default recommendation or policy concerning votes
+19 against entity management on entity proposals or proxy proposals,
+20 and the proxy advisor does not do so based on a written financial
+21 analysis, the proxy advisor shall do the following:
+22 (1) At the time the proxy advisor provides the proxy advisory
+23 services, provide a clear and conspicuous disclosure to each
+24 interest holder or any person acting on behalf of an interest
+25 holder receiving the proxy advisory services that:
+26 (A) identifies the services being provided by the proxy
+27 advisor;
+28 (B) identifies the recommendation or policy at issue; and
+29 (C) states that the proxy advisor has made the
+30 recommendation or policy without utilizing a written
+31 financial analysis regarding the impact that the
+32 recommended action would have on entity interest holders
+33 that:
+34 (i) analyzes the expected short term and long term
+35 financial benefits and costs to the entity of implementing
+36 the entity proposal or proxy proposal;
+37 (ii) concludes what vote or course of action is most likely
+38 to positively affect interest holder value; and
+39 (iii) explains the methods and processes used to prepare
+40 the analysis, including the experience and geographic
+41 location of the personnel who formed the conclusion.
+42 (2) If the proxy advisor provides proxy advisory services
+HB 1273—LS 6762/DI 154
+4
+1 described in section 8(1) or 8(2) of this chapter, then at the
+2 time the proxy advisor provides the proxy advisory services
+3 described in section 8(1) and 8(2) of this chapter, the proxy
+4 advisor must provide the disclosure described in subdivision
+5 (1) to entity management.
+6 (3) For the entire time that a proxy advisor is providing proxy
+7 advisory services to an interest holder of an entity or any
+8 person acting on behalf of an interest holder of an entity,
+9 prominently display on the home page of the proxy advisor's
+10 website a statement that the proxy advisor has made a
+11 recommendation:
+12 (A) against entity management on an entity proposal or
+13 proxy proposal; and
+14 (B) without utilizing a written financial analysis regarding
+15 the impact that the recommended action would have on
+16 entity interest holders that:
+17 (i) analyzes the expected short term and long term
+18 financial benefits and costs to the entity of implementing
+19 the entity proposal or proxy proposal;
+20 (ii) concludes what vote or course of action is most likely
+21 to positively affect interest holder value; and
+22 (iii) explains the methods and processes used to prepare
+23 the analysis, including the experience and geographic
+24 location of the personnel who formed the conclusion.
+25 (b) If a proxy advisor makes a recommendation against entity
+26 management on an entity proposal or proxy proposal, or makes a
+27 default recommendation or policy concerning votes against entity
+28 management on entity proposals or proxy proposals, and the proxy
+29 advisor does so based on a written financial analysis, the proxy
+30 advisor shall do the following:
+31 (1) At the time the proxy advisor provides the proxy advisory
+32 services, provide a clear and conspicuous disclosure to each
+33 interest holder or any person acting on behalf of an interest
+34 holder receiving the proxy advisory services that:
+35 (A) identifies the services being provided by the proxy
+36 advisor;
+37 (B) identifies the recommendation or policy at issue;
+38 (C) states that the proxy advisor utilized a written financial
+39 analysis that:
+40 (i) analyzes the expected short term and long term
+41 financial benefits and costs to the entity of implementing
+42 the entity proposal or proxy proposal;
+HB 1273—LS 6762/DI 154
+5
+1 (ii) concludes what vote or course of action is most likely
+2 to positively affect interest holder value; and
+3 (iii) explains the methods and processes used to prepare
+4 the analysis, including the experience and geographic
+5 location of the personnel who formed the conclusion; and
+6 (D) states that the written financial analysis described in
+7 clause (C) is available upon request.
+8 (2) Make the written financial analysis described in
+9 subdivision (1)(C) available to an interest holder or any
+10 person acting on behalf of an interest holder, receiving the
+11 proxy advisory services within a reasonable time after an
+12 interest holder or any person acting on behalf of an interest
+13 holder, receiving the proxy advisory services requests the
+14 written financial analysis.
+15 (3) If the proxy advisor provides proxy advisory services
+16 described in section 8(1) or 8(2) of this chapter, then at the
+17 time the proxy advisor provides the proxy advisory services
+18 described in section 8(1) and 8(2) of this chapter, the proxy
+19 advisor must provide a copy of the written financial analysis
+20 described in subdivision (1)(C) to entity management.
+21 Sec. 12. (a) As used in this section, "interested person" means:
+22 (1) a recipient of proxy advisory services provided by a proxy
+23 advisor;
+24 (2) an entity that is the subject of proxy advisory services
+25 described in section 8(1) or 8(2) of this chapter provided by a
+26 proxy advisor; and
+27 (3) any interest holder of an entity that is the subject of proxy
+28 advisory services described in section 8(1) or 8(2) of this
+29 chapter provided by a proxy advisor.
+30 (b) A proxy advisor who violates any provision of this chapter
+31 commits a deceptive act which is actionable under IC 24-5-0.5 and
+32 subject to the penalties of IC 24-5-0.5.
+33 (c) Notwithstanding subsection (b), an interested person may
+34 bring an action seeking a declaratory judgment or injunctive relief
+35 against a proxy advisor who the interested person believes has
+36 violated this chapter. Not later than seven (7) days after the date on
+37 which an interested person brings an action under this subsection,
+38 the interested person shall provide written notice to the attorney
+39 general that informs the attorney general of the existence of the
+40 action. The attorney general has the right to intervene in an action
+41 under this subsection.
+42 SECTION 2. IC 24-5-0.5-2, AS AMENDED BY P.L.206-2025,
+HB 1273—LS 6762/DI 154
+6
+1 SECTION 5, AND AS AMENDED BY P.L.227-2025, SECTION 42,
+2 AND AS AMENDED BY THE TECHNICAL CORRECTIONS BILL
+3 OF THE 2026 GENERAL ASSEMBLY, IS CORRECTED AND
+4 AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]:
+5 Sec. 2. (a) As used in this chapter:
+6 (1) "Consumer transaction" means a sale, lease, assignment,
+7 award by chance, or other disposition of an item of personal
+8 property, real property, a service, or an intangible, except
+9 securities and policies or contracts of insurance issued by
+10 corporations authorized to transact an insurance business under
+11 the laws of the state of Indiana, with or without an extension of
+12 credit, to a person for purposes that are primarily personal,
+13 familial, charitable, agricultural, or household, or a solicitation to
+14 supply any of these things. However, the term includes the
+15 following:
+16 (A) A transfer of structured settlement payment rights under
+17 IC 34-50-2.
+18 (B) An unsolicited advertisement sent to a person by telephone
+19 facsimile machine offering a sale, lease, assignment, award by
+20 chance, or other disposition of an item of personal property,
+21 real property, a service, or an intangible.
+22 (C) The collection of or attempt to collect a debt by a debt
+23 collector.
+24 (D) The provision of a product or service to a:
+25 (i) state law enforcement agency; or
+26 (ii) local law enforcement agency;
+27 (iii) state agency; or
+28 (iv) local agency;
+29 in Indiana.
+30 (D) (E) Conduct that arises from, occurs in connection with,
+31 or otherwise involves a transaction for emergency towing (as
+32 defined in IC 24-14-2-5) of a personal or commercial vehicle.
+33 (2) "Person" means an individual, corporation, the state of Indiana
+34 or its subdivisions or agencies, business trust, estate, trust,
+35 partnership, association, nonprofit corporation or organization, or
+36 cooperative or any other legal entity.
+37 (3) "Supplier" means the following:
+38 (A) A seller, lessor, assignor, or other person who regularly
+39 engages in or solicits consumer transactions, including
+40 soliciting a consumer transaction by using a telephone
+41 facsimile machine to transmit an unsolicited advertisement.
+42 The term includes a manufacturer, a wholesaler, or a retailer,
+HB 1273—LS 6762/DI 154
+7
+1 or, in a consumer transaction described in subdivision (1)(D),
+2 an entity that provides a product or service to a state law
+3 enforcement agency, or local law enforcement agency, state
+4 agency, or local agency in Indiana, whether or not the person
+5 deals directly with the consumer.
+6 (B) A debt collector.
+7 (4) "Subject of a consumer transaction" means the personal
+8 property, real property, services, or intangibles offered or
+9 furnished in a consumer transaction.
+10 (5) "Cure" as applied to a deceptive act, means either:
+11 (A) to offer in writing to adjust or modify the consumer
+12 transaction to which the act relates to conform to the
+13 reasonable expectations of the consumer generated by such
+14 deceptive act and to perform such offer if accepted by the
+15 consumer; or
+16 (B) to offer in writing to rescind such consumer transaction
+17 and to perform such offer if accepted by the consumer.
+18 The term includes an offer in writing of one (1) or more items of
+19 value, including monetary compensation, that the supplier
+20 delivers to a consumer or a representative of the consumer if
+21 accepted by the consumer.
+22 (6) "Offer to cure" as applied to a deceptive act is a cure that:
+23 (A) is reasonably calculated to remedy a loss claimed by the
+24 consumer; and
+25 (B) includes a minimum additional amount that is the greater
+26 of:
+27 (i) ten percent (10%) of the value of the remedy under
+28 clause (A), but not more than four thousand dollars
+29 ($4,000); or
+30 (ii) five hundred dollars ($500);
+31 as compensation for attorney's fees, expenses, and other costs
+32 that a consumer may incur in relation to the deceptive act.
+33 (7) "Uncured deceptive act" means: a deceptive act:
+34 (A) a deceptive act with respect to which a consumer who has
+35 been damaged by such act has given notice to the supplier
+36 under section 5(a) of this chapter; and
+37 (B) either:
+38 (i) no offer to cure has been made to such consumer within
+39 thirty (30) days after such notice; or
+40 (ii) the act has not been cured as to such consumer within a
+41 reasonable time after the consumer's acceptance of the offer
+42 to cure.
+HB 1273—LS 6762/DI 154
+8
+1 (8) "Incurable deceptive act" means a deceptive act done by a
+2 supplier as part of a scheme, artifice, or device with intent to
+3 defraud or mislead. The term includes a failure of a transferee of
+4 structured settlement payment rights to timely provide a true and
+5 complete disclosure statement to a payee as provided under
+6 IC 34-50-2 in connection with a direct or indirect transfer of
+7 structured settlement payment rights.
+8 (9) "Local agency" means an administration, an agency, an
+9 authority, a board, a bureau, a commission, a committee, a
+10 council, a department, a division, an institution, an office, an
+11 officer, a service, or other similar body of a political
+12 subdivision created or established under law.
+13 (10) "Political subdivision" means a county, township, city,
+14 town, municipal corporation (as defined in IC 36-1-2-10), or
+15 special taxing district. However, the term does not include a
+16 school corporation or charter school.
+17 (9) (11) "Senior consumer" means an individual who is at least
+18 sixty (60) years of age.
+19 (12) "State agency" means an administration, an agency, an
+20 authority, a board, a bureau, a commission, a committee, a
+21 council, a department, a division, an institution, an office, an
+22 officer, a service, or other similar body of state government
+23 created or established under law. The term includes a body
+24 corporate and politic of the state created by statute. The term
+25 does not include a state educational institution (as defined in
+26 IC 21-7-13-32).
+27 (10) (13) "Telephone facsimile machine" means equipment that
+28 has the capacity to transcribe text or images, or both, from:
+29 (A) paper into an electronic signal and to transmit that signal
+30 over a regular telephone line; or
+31 (B) an electronic signal received over a regular telephone line
+32 onto paper.
+33 (11) (14) "Unsolicited advertisement" means material advertising
+34 the commercial availability or quality of:
+35 (A) property;
+36 (B) goods; or
+37 (C) services;
+38 that is transmitted to a person without the person's prior express
+39 invitation or permission, in writing or otherwise.
+40 (12) (15) "Debt" has the meaning set forth in 15 U.S.C.
+41 1692(a)(5).
+42 (13) (16) "Debt collector" has the meaning set forth in 15 U.S.C.
+HB 1273—LS 6762/DI 154
+9
+1 1692(a)(6). The term does not include a person admitted to the
+2 practice of law in Indiana if the person is acting within the course
+3 and scope of the person's practice as an attorney. The term
+4 includes a debt buyer (as defined in IC 24-5-15.5).
+5 (b) As used in section 3(b)(15) and 3(b)(16) of this chapter:
+6 (1) "Directory assistance" means the disclosure of telephone
+7 number information in connection with an identified telephone
+8 service subscriber by means of a live operator or automated
+9 service.
+10 (2) "Local telephone directory" refers to a telephone classified
+11 advertising directory or the business section of a telephone
+12 directory that is distributed by a telephone company or directory
+13 publisher to subscribers located in the local exchanges contained
+14 in the directory. The term includes a directory that includes
+15 listings of more than one (1) telephone company.
+16 (3) "Local telephone number" refers to a telephone number that
+17 has the three (3) number prefix used by the provider of telephone
+18 service for telephones physically located within the area covered
+19 by the local telephone directory in which the number is listed. The
+20 term does not include long distance numbers or 800-, 888-, or
+21 900- exchange numbers listed in a local telephone directory.
+22 SECTION 3. IC 24-5-0.5-3, AS AMENDED BY P.L.104-2024,
+23 SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2026]: Sec. 3. (a) A supplier may not commit an unfair,
+25 abusive, or deceptive act, omission, or practice in connection with a
+26 consumer transaction. Such an act, omission, or practice by a supplier
+27 is a violation of this chapter whether it occurs before, during, or after
+28 the transaction. An act, omission, or practice prohibited by this section
+29 includes both implicit and explicit misrepresentations.
+30 (b) Without limiting the scope of subsection (a), the following acts,
+31 and the following representations as to the subject matter of a
+32 consumer transaction, made orally, in writing, or by electronic
+33 communication, by a supplier, are deceptive acts:
+34 (1) That such subject of a consumer transaction has sponsorship,
+35 approval, performance, characteristics, accessories, uses, or
+36 benefits it does not have which the supplier knows or should
+37 reasonably know it does not have.
+38 (2) That such subject of a consumer transaction is of a particular
+39 standard, quality, grade, style, or model, if it is not and if the
+40 supplier knows or should reasonably know that it is not.
+41 (3) That such subject of a consumer transaction is new or unused,
+42 if it is not and if the supplier knows or should reasonably know
+HB 1273—LS 6762/DI 154
+10
+1 that it is not.
+2 (4) That such subject of a consumer transaction will be supplied
+3 to the public in greater quantity than the supplier intends or
+4 reasonably expects.
+5 (5) That replacement or repair constituting the subject of a
+6 consumer transaction is needed, if it is not and if the supplier
+7 knows or should reasonably know that it is not.
+8 (6) That a specific price advantage exists as to such subject of a
+9 consumer transaction, if it does not and if the supplier knows or
+10 should reasonably know that it does not.
+11 (7) That the supplier has a sponsorship, approval, or affiliation in
+12 such consumer transaction the supplier does not have, and which
+13 the supplier knows or should reasonably know that the supplier
+14 does not have.
+15 (8) That such consumer transaction involves or does not involve
+16 a warranty, a disclaimer of warranties, or other rights, remedies,
+17 or obligations, if the representation is false and if the supplier
+18 knows or should reasonably know that the representation is false.
+19 (9) That the consumer will receive a rebate, discount, or other
+20 benefit as an inducement for entering into a sale or lease in return
+21 for giving the supplier the names of prospective consumers or
+22 otherwise helping the supplier to enter into other consumer
+23 transactions, if earning the benefit, rebate, or discount is
+24 contingent upon the occurrence of an event subsequent to the time
+25 the consumer agrees to the purchase or lease.
+26 (10) That the supplier is able to deliver or complete the subject of
+27 the consumer transaction within a stated period of time, when the
+28 supplier knows or should reasonably know the supplier could not.
+29 If no time period has been stated by the supplier, there is a
+30 presumption that the supplier has represented that the supplier
+31 will deliver or complete the subject of the consumer transaction
+32 within a reasonable time, according to the course of dealing or the
+33 usage of the trade.
+34 (11) That the consumer will be able to purchase the subject of the
+35 consumer transaction as advertised by the supplier, if the supplier
+36 does not intend to sell it.
+37 (12) That the replacement or repair constituting the subject of a
+38 consumer transaction can be made by the supplier for the estimate
+39 the supplier gives a customer for the replacement or repair, if the
+40 specified work is completed and:
+41 (A) the cost exceeds the estimate by an amount equal to or
+42 greater than ten percent (10%) of the estimate;
+HB 1273—LS 6762/DI 154
+11
+1 (B) the supplier did not obtain written permission from the
+2 customer to authorize the supplier to complete the work even
+3 if the cost would exceed the amounts specified in clause (A);
+4 (C) the total cost for services and parts for a single transaction
+5 is more than seven hundred fifty dollars ($750); and
+6 (D) the supplier knew or reasonably should have known that
+7 the cost would exceed the estimate in the amounts specified in
+8 clause (A).
+9 (13) That the replacement or repair constituting the subject of a
+10 consumer transaction is needed, and that the supplier disposes of
+11 the part repaired or replaced earlier than seventy-two (72) hours
+12 after both:
+13 (A) the customer has been notified that the work has been
+14 completed; and
+15 (B) the part repaired or replaced has been made available for
+16 examination upon the request of the customer.
+17 (14) Engaging in the replacement or repair of the subject of a
+18 consumer transaction if the consumer has not authorized the
+19 replacement or repair, and if the supplier knows or should
+20 reasonably know that it is not authorized.
+21 (15) The act of misrepresenting the geographic location of the
+22 supplier by listing an alternate business name or an assumed
+23 business name (as described in IC 23-0.5-3-4) in a local telephone
+24 directory if:
+25 (A) the name misrepresents the supplier's geographic location;
+26 (B) the listing fails to identify the locality and state of the
+27 supplier's business;
+28 (C) calls to the local telephone number are routinely forwarded
+29 or otherwise transferred to a supplier's business location that
+30 is outside the calling area covered by the local telephone
+31 directory; and
+32 (D) the supplier's business location is located in a county that
+33 is not contiguous to a county in the calling area covered by the
+34 local telephone directory.
+35 (16) The act of listing an alternate business name or assumed
+36 business name (as described in IC 23-0.5-3-4) in a directory
+37 assistance data base if:
+38 (A) the name misrepresents the supplier's geographic location;
+39 (B) calls to the local telephone number are routinely forwarded
+40 or otherwise transferred to a supplier's business location that
+41 is outside the local calling area; and
+42 (C) the supplier's business location is located in a county that
+HB 1273—LS 6762/DI 154
+12
+1 is not contiguous to a county in the local calling area.
+2 (17) The violation by a supplier of IC 24-3-4 concerning
+3 cigarettes for import or export.
+4 (18) The act of a supplier in knowingly selling or reselling a
+5 product to a consumer if the product has been recalled, whether
+6 by the order of a court or a regulatory body, or voluntarily by the
+7 manufacturer, distributor, or retailer, unless the product has been
+8 repaired or modified to correct the defect that was the subject of
+9 the recall.
+10 (19) The violation by a supplier of 47 U.S.C. 227, including any
+11 rules or regulations issued under 47 U.S.C. 227.
+12 (20) The violation by a supplier of the federal Fair Debt
+13 Collection Practices Act (15 U.S.C. 1692 et seq.), including any
+14 rules or regulations issued under the federal Fair Debt Collection
+15 Practices Act (15 U.S.C. 1692 et seq.).
+16 (21) A violation of IC 24-5-7 (concerning health spa services), as
+17 set forth in IC 24-5-7-17.
+18 (22) A violation of IC 24-5-8 (concerning business opportunity
+19 transactions), as set forth in IC 24-5-8-20.
+20 (23) A violation of IC 24-5-10 (concerning home consumer
+21 transactions), as set forth in IC 24-5-10-18.
+22 (24) A violation of IC 24-5-11 (concerning real property
+23 improvement contracts), as set forth in IC 24-5-11-14.
+24 (25) A violation of IC 24-5-12 (concerning telephone
+25 solicitations), as set forth in IC 24-5-12-23.
+26 (26) A violation of IC 24-5-13.5 (concerning buyback motor
+27 vehicles), as set forth in IC 24-5-13.5-14.
+28 (27) A violation of IC 24-5-14 (concerning automatic
+29 dialing-announcing devices), as set forth in IC 24-5-14-13.
+30 (28) A violation of IC 24-5-15 (concerning credit services
+31 organizations), as set forth in IC 24-5-15-11.
+32 (29) A violation of IC 24-5-16 (concerning unlawful motor
+33 vehicle subleasing), as set forth in IC 24-5-16-18.
+34 (30) A violation of IC 24-5-17 (concerning environmental
+35 marketing claims), as set forth in IC 24-5-17-14.
+36 (31) A violation of IC 24-5-19 (concerning deceptive commercial
+37 solicitation), as set forth in IC 24-5-19-11.
+38 (32) A violation of IC 24-5-21 (concerning prescription drug
+39 discount cards), as set forth in IC 24-5-21-7.
+40 (33) A violation of IC 24-5-23.5-7 (concerning real estate
+41 appraisals), as set forth in IC 24-5-23.5-9.
+42 (34) A violation of IC 24-5-26 (concerning identity theft), as set
+HB 1273—LS 6762/DI 154
+13
+1 forth in IC 24-5-26-3.
+2 (35) A violation of IC 24-5.5 (concerning mortgage rescue fraud),
+3 as set forth in IC 24-5.5-6-1.
+4 (36) A violation of IC 24-8 (concerning promotional gifts and
+5 contests), as set forth in IC 24-8-6-3.
+6 (37) A violation of IC 21-18.5-6 (concerning representations
+7 made by a postsecondary credit bearing proprietary educational
+8 institution), as set forth in IC 21-18.5-6-22.5.
+9 (38) A violation of IC 24-5-15.5 (concerning collection actions of
+10 a plaintiff debt buyer), as set forth in IC 24-5-15.5-6.
+11 (39) A violation of IC 24-14 (concerning towing services), as set
+12 forth in IC 24-14-10-1.
+13 (40) A violation of IC 24-5-14.5 (concerning misleading or
+14 inaccurate caller identification information), as set forth in
+15 IC 24-5-14.5-12.
+16 (41) A violation of IC 24-5-27 (concerning intrastate inmate
+17 calling services), as set forth in IC 24-5-27-27.
+18 (42) A violation of IC 15-21 (concerning sales of dogs by retail
+19 pet stores), as set forth in IC 15-21-7-4.
+20 (43) A violation of IC 24-4-23 (concerning the security of
+21 information collected and transmitted by an adult oriented website
+22 operator), as set forth in IC 24-4-23-14.
+23 (44) A violation of IC 24-4-27.5 (concerning proxy advisors),
+24 as set forth in IC 24-4-27.5-12.
+25 (c) Any representations on or within a product or its packaging or
+26 in advertising or promotional materials which would constitute a
+27 deceptive act shall be the deceptive act both of the supplier who places
+28 such representation thereon or therein, or who authored such materials,
+29 and such other suppliers who shall state orally or in writing that such
+30 representation is true if such other supplier shall know or have reason
+31 to know that such representation was false.
+32 (d) If a supplier shows by a preponderance of the evidence that an
+33 act resulted from a bona fide error notwithstanding the maintenance of
+34 procedures reasonably adopted to avoid the error, such act shall not be
+35 deceptive within the meaning of this chapter.
+36 (e) It shall be a defense to any action brought under this chapter that
+37 the representation constituting an alleged deceptive act was one made
+38 in good faith by the supplier without knowledge of its falsity and in
+39 reliance upon the oral or written representations of the manufacturer,
+40 the person from whom the supplier acquired the product, any testing
+41 organization, or any other person provided that the source thereof is
+42 disclosed to the consumer.
+HB 1273—LS 6762/DI 154
+14
+1 (f) For purposes of subsection (b)(12), a supplier that provides
+2 estimates before performing repair or replacement work for a customer
+3 shall give the customer a written estimate itemizing as closely as
+4 possible the price for labor and parts necessary for the specific job
+5 before commencing the work.
+6 (g) For purposes of subsection (b)(15) and (b)(16), a telephone
+7 company or other provider of a telephone directory or directory
+8 assistance service or its officer or agent is immune from liability for
+9 publishing the listing of an alternate business name or assumed
+10 business name of a supplier in its directory or directory assistance data
+11 base unless the telephone company or other provider of a telephone
+12 directory or directory assistance service is the same person as the
+13 supplier who has committed the deceptive act.
+14 (h) For purposes of subsection (b)(18), it is an affirmative defense
+15 to any action brought under this chapter that the product has been
+16 altered by a person other than the defendant to render the product
+17 completely incapable of serving its original purpose.
+18 SECTION 4. IC 24-5-0.5-4, AS AMENDED BY P.L.186-2025,
+19 SECTION 133, IS AMENDED TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) A person relying upon an
+21 uncured or incurable deceptive act may bring an action for the damages
+22 actually suffered as a consumer as a result of the deceptive act or five
+23 hundred dollars ($500), whichever is greater. The court may increase
+24 damages for a willful deceptive act in an amount that does not exceed
+25 the greater of:
+26 (1) three (3) times the actual damages of the consumer suffering
+27 the loss; or
+28 (2) one thousand dollars ($1,000).
+29 Except as provided in subsection (k), the court may award reasonable
+30 attorney's fees to the party that prevails in an action under this
+31 subsection. This subsection does not apply to a consumer transaction
+32 in real property, including a claim or action involving a construction
+33 defect (as defined in IC 32-27-3-1(5)) brought against a construction
+34 professional (as defined in IC 32-27-3-1(4)), except for purchases of
+35 time shares and camping club memberships. This subsection does not
+36 apply with respect to a deceptive act described in section 3(b)(20) of
+37 this chapter. This subsection also does not apply to a violation of
+38 IC 24-4.7, IC 24-5-12, IC 24-5-14, or IC 24-5-14.5. Actual damages
+39 awarded to a person under this section have priority over any civil
+40 penalty imposed under this chapter.
+41 (b) Any person who is entitled to bring an action under subsection
+42 (a) on the person's own behalf against a supplier for damages for a
+HB 1273—LS 6762/DI 154
+15
+1 deceptive act may bring a class action against such supplier on behalf
+2 of any class of persons of which that person is a member and which has
+3 been damaged by such deceptive act, subject to and under the Indiana
+4 Rules of Trial Procedure governing class actions, except as herein
+5 expressly provided. Except as provided in subsection (k), the court may
+6 award reasonable attorney's fees to the party that prevails in a class
+7 action under this subsection, provided that such fee shall be determined
+8 by the amount of time reasonably expended by the attorney and not by
+9 the amount of the judgment, although the contingency of the fee may
+10 be considered. Except in the case of an extension of time granted by the
+11 attorney general under IC 24-10-2-2(b) in an action subject to IC 24-10,
+12 any money or other property recovered in a class action under this
+13 subsection which cannot, with due diligence, be restored to consumers
+14 within one (1) year after the judgment becomes final shall be returned
+15 to the party depositing the same. This subsection does not apply to a
+16 consumer transaction in real property, except for purchases of time
+17 shares and camping club memberships. This subsection does not apply
+18 with respect to a deceptive act described in section 3(b)(20) of this
+19 chapter. Actual damages awarded to a class have priority over any civil
+20 penalty imposed under this chapter.
+21 (c) The attorney general may bring an action to enjoin an unfair,
+22 abusive, or deceptive act, omission, or practice in connection with a
+23 consumer transaction, including a deceptive act described in section
+24 3(b)(20) of this chapter, notwithstanding subsections (a) and (b).
+25 However, the attorney general may seek to enjoin patterns of incurable
+26 deceptive acts with respect to consumer transactions in real property.
+27 In addition, the court may:
+28 (1) issue an injunction;
+29 (2) order the supplier to make payment of the money unlawfully
+30 received from the aggrieved consumers to be held in escrow for
+31 distribution to aggrieved consumers;
+32 (3) for a knowing violation against a senior consumer, increase
+33 the amount of restitution ordered under subdivision (2) in any
+34 amount up to three (3) times the amount of damages incurred or
+35 value of property or assets lost;
+36 (4) order the supplier to pay to the state the reasonable costs of
+37 the attorney general's investigation and prosecution, expert fees,
+38 and court fees related to the action;
+39 (5) provide for the appointment of a receiver; and
+40 (6) order the department of state revenue to suspend the supplier's
+41 registered retail merchant certificate, subject to the requirements
+42 and prohibitions contained in IC 6-2.5-8-7(a)(5), if the court finds
+HB 1273—LS 6762/DI 154
+16
+1 that a violation of this chapter involved the sale or solicited sale
+2 of a synthetic drug (as defined in IC 35-31.5-2-321), a synthetic
+3 drug lookalike substance (as defined in IC 35-31.5-2-321.5
+4 (repealed)) (before July 1, 2019), a controlled substance analog
+5 (as defined in IC 35-48-1.1-8), or a substance represented to be a
+6 controlled substance (as described in IC 35-48-4-4.6).
+7 (d) In an action under subsection (a), (b), (c), or (n) the court may
+8 void or limit the application of contracts or clauses resulting from
+9 deceptive acts and order restitution to be paid to aggrieved consumers.
+10 (e) In any action under subsection (a) or (b), upon the filing of the
+11 complaint or on the appearance of any defendant, claimant, or any
+12 other party, or at any later time, the trial court, the supreme court, or the
+13 court of appeals may require the plaintiff, defendant, claimant, or any
+14 other party or parties to give security, or additional security, in such
+15 sum as the court shall direct to pay all costs, expenses, and
+16 disbursements that shall be awarded against that party or which that
+17 party may be directed to pay by any interlocutory order by the final
+18 judgment or on appeal.
+19 (f) Any person who violates the terms of an injunction issued under
+20 subsection (c) or (n) shall forfeit and pay to the state a civil penalty of
+21 not more than fifteen thousand dollars ($15,000) per violation. For the
+22 purposes of this section, the court issuing an injunction shall retain
+23 jurisdiction, the cause shall be continued, and the attorney general
+24 acting in the name of the state may petition for recovery of civil
+25 penalties. Whenever the court determines that an injunction issued
+26 under subsection (c) or (n) has been violated, the court shall award
+27 reasonable costs to the state.
+28 (g) If a court finds any person has knowingly violated section 3 or
+29 10 of this chapter, other than section 3(b)(19), 3(b)(20), or 3(b)(40) of
+30 this chapter, the attorney general, in an action pursuant to subsection
+31 (c), may recover from the person on behalf of the state a civil penalty
+32 of a fine not exceeding five thousand dollars ($5,000) per violation.
+33 (h) If a court finds that a person has violated section 3(b)(19) of this
+34 chapter, the attorney general, in an action under subsection (c), may
+35 recover from the person on behalf of the state a civil penalty as follows:
+36 (1) For a knowing or intentional violation, one thousand five
+37 hundred dollars ($1,500).
+38 (2) For a violation other than a knowing or intentional violation,
+39 five hundred dollars ($500).
+40 A civil penalty recovered under this subsection shall be deposited in
+41 the consumer protection division telephone solicitation fund
+42 established by IC 24-4.7-3-6 to be used for the administration and
+HB 1273—LS 6762/DI 154
+17
+1 enforcement of section 3(b)(19) of this chapter.
+2 (i) A senior consumer relying upon an uncured or incurable
+3 deceptive act, including an act related to hypnotism, may bring an
+4 action to recover treble damages, if appropriate.
+5 (j) An offer to cure is:
+6 (1) not admissible as evidence in a proceeding initiated under this
+7 section unless the offer to cure is delivered by a supplier to the
+8 consumer or a representative of the consumer before the supplier
+9 files the supplier's initial response to a complaint; and
+10 (2) only admissible as evidence in a proceeding initiated under
+11 this section to prove that a supplier is not liable for attorney's fees
+12 under subsection (k).
+13 If the offer to cure is timely delivered by the supplier, the supplier may
+14 submit the offer to cure as evidence to prove in the proceeding in
+15 accordance with the Indiana Rules of Trial Procedure that the supplier
+16 made an offer to cure.
+17 (k) A supplier may not be held liable for the attorney's fees and
+18 court costs of the consumer that are incurred following the timely
+19 delivery of an offer to cure as described in subsection (j) unless the
+20 actual damages awarded, not including attorney's fees and costs, exceed
+21 the value of the offer to cure.
+22 (l) If a court finds that a person has knowingly violated section
+23 3(b)(20) of this chapter, the attorney general, in an action under
+24 subsection (c), may recover from the person on behalf of the state a
+25 civil penalty not exceeding one thousand dollars ($1,000) per
+26 consumer. In determining the amount of the civil penalty in any action
+27 by the attorney general under this subsection, the court shall consider,
+28 among other relevant factors, the frequency and persistence of
+29 noncompliance by the debt collector, the nature of the noncompliance,
+30 and the extent to which the noncompliance was intentional. A person
+31 may not be held liable in any action by the attorney general for a
+32 violation of section 3(b)(20) of this chapter if the person shows by a
+33 preponderance of evidence that the violation was not intentional and
+34 resulted from a bona fide error, notwithstanding the maintenance of
+35 procedures reasonably adapted to avoid the error. A person may not be
+36 held liable in any action for a violation of this chapter for contacting a
+37 person other than the debtor, if the contact is made in compliance with
+38 the Fair Debt Collection Practices Act.
+39 (m) If a court finds that a person has knowingly or intentionally
+40 violated section 3(b)(40) of this chapter, the attorney general, in an
+41 action under subsection (c), may recover from the person on behalf of
+42 the state a civil penalty in accordance with IC 24-5-14.5-12(b). As
+HB 1273—LS 6762/DI 154
+18
+1 specified in IC 24-5-14.5-12(b), a civil penalty recovered under
+2 IC 24-5-14.5-12(b) shall be deposited in the consumer protection
+3 division telephone solicitation fund established by IC 24-4.7-3-6 to be
+4 used for the administration and enforcement of IC 24-5-14.5. In
+5 addition to the recovery of a civil penalty in accordance with
+6 IC 24-5-14.5-12(b), the attorney general may also recover reasonable
+7 attorney fees and court costs from the person on behalf of the state.
+8 Those funds shall also be deposited in the consumer protection division
+9 telephone solicitation fund established by IC 24-4.7-3-6.
+10 (n) An action that arises from, or otherwise involves, an unfair,
+11 abusive, or deceptive act, omission, or practice in connection with a
+12 consumer transaction described in section 2(a)(1)(D)(i) or
+13 2(a)(1)(D)(iii) of this chapter may be brought and enforced only by the
+14 attorney general under this subsection. An action that arises from, or
+15 otherwise involves, an unfair, abusive, or deceptive act, omission, or
+16 practice in connection with a consumer transaction described in section
+17 2(a)(1)(D)(ii) or 2(a)(1)(D)(iv) of this chapter may be brought and
+18 enforced only by an attorney acting on behalf of the local law
+19 enforcement agency or local agency involved in the transaction, unless
+20 the local unit of government served by the local law enforcement
+21 agency or local agency requests the attorney general to bring and
+22 enforce an action under this subsection on behalf of the local unit. In
+23 addition, the court may:
+24 (1) issue an injunction;
+25 (2) order the supplier to make payment of the money unlawfully
+26 received from the aggrieved consumers to be held in escrow for
+27 distribution to aggrieved consumers; or
+28 (3) order the supplier to pay to:
+29 (A) the attorney acting on behalf of the local law enforcement
+30 agency or local agency; or
+31 (B) the attorney general for the state;
+32 as applicable, the reasonable costs of the attorney's or the attorney
+33 general's investigation and prosecution, expert fees, and court fees
+34 related to the action.
+35 The time for bringing an action under subsection (c), as set forth in
+36 section 5(b) of this chapter, applies to an action brought under this
+37 subsection.
+HB 1273—LS 6762/DI 154
+19
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Financial Institutions, to which
+was referred House Bill 1273, has had the same under consideration
+and begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 5, after line 41, begin a new paragraph and insert:
+"SECTION 2. IC 24-5-0.5-2, AS AMENDED BY P.L.206-2025,
+
+Section 2:
+SECTION 5, AND AS AMENDED BY P.L.227-2025, SECTION 42,
+AND AS AMENDED BY THE TECHNICAL CORRECTIONS BILL
+OF THE 2026 GENERAL ASSEMBLY, IS CORRECTED AND
+AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]:
+Sec. 2. (a) As used in this chapter:
+(1) "Consumer transaction" means a sale, lease, assignment,
+award by chance, or other disposition of an item of personal
+property, real property, a service, or an intangible, except
+securities and policies or contracts of insurance issued by
+corporations authorized to transact an insurance business under
+the laws of the state of Indiana, with or without an extension of
+credit, to a person for purposes that are primarily personal,
+familial, charitable, agricultural, or household, or a solicitation to
+supply any of these things. However, the term includes the
+following:
+(A) A transfer of structured settlement payment rights under
+IC 34-50-2.
+(B) An unsolicited advertisement sent to a person by telephone
+facsimile machine offering a sale, lease, assignment, award by
+chance, or other disposition of an item of personal property,
+real property, a service, or an intangible.
+(C) The collection of or attempt to collect a debt by a debt
+collector.
+(D) The provision of a product or service to a:
+(i) state law enforcement agency; or
+(ii) local law enforcement agency;
+(iii) state agency; or
+(iv) local agency;
+in Indiana.
+(D) (E) Conduct that arises from, occurs in connection with,
+or otherwise involves a transaction for emergency towing (as
+defined in IC 24-14-2-5) of a personal or commercial vehicle.
+(2) "Person" means an individual, corporation, the state of Indiana
+or its subdivisions or agencies, business trust, estate, trust,
+HB 1273—LS 6762/DI 154
+20
+partnership, association, nonprofit corporation or organization, or
+cooperative or any other legal entity.
+(3) "Supplier" means the following:
+(A) A seller, lessor, assignor, or other person who regularly
+engages in or solicits consumer transactions, including
+soliciting a consumer transaction by using a telephone
+facsimile machine to transmit an unsolicited advertisement.
+The term includes a manufacturer, a wholesaler, or a retailer,
+or, in a consumer transaction described in subdivision (1)(D),
+an entity that provides a product or service to a state law
+enforcement agency, or local law enforcement agency, state
+agency, or local agency in Indiana, whether or not the person
+deals directly with the consumer.
+(B) A debt collector.
+(4) "Subject of a consumer transaction" means the personal
+property, real property, services, or intangibles offered or
+furnished in a consumer transaction.
+(5) "Cure" as applied to a deceptive act, means either:
+(A) to offer in writing to adjust or modify the consumer
+transaction to which the act relates to conform to the
+reasonable expectations of the consumer generated by such
+deceptive act and to perform such offer if accepted by the
+consumer; or
+(B) to offer in writing to rescind such consumer transaction
+and to perform such offer if accepted by the consumer.
+The term includes an offer in writing of one (1) or more items of
+value, including monetary compensation, that the supplier
+delivers to a consumer or a representative of the consumer if
+accepted by the consumer.
+(6) "Offer to cure" as applied to a deceptive act is a cure that:
+(A) is reasonably calculated to remedy a loss claimed by the
+consumer; and
+(B) includes a minimum additional amount that is the greater
+of:
+(i) ten percent (10%) of the value of the remedy under
+clause (A), but not more than four thousand dollars
+($4,000); or
+(ii) five hundred dollars ($500);
+as compensation for attorney's fees, expenses, and other costs
+that a consumer may incur in relation to the deceptive act.
+(7) "Uncured deceptive act" means: a deceptive act:
+(A) a deceptive act with respect to which a consumer who has
+HB 1273—LS 6762/DI 154
+21
+been damaged by such act has given notice to the supplier
+under section 5(a) of this chapter; and
+(B) either:
+(i) no offer to cure has been made to such consumer within
+thirty (30) days after such notice; or
+(ii) the act has not been cured as to such consumer within a
+reasonable time after the consumer's acceptance of the offer
+to cure.
+(8) "Incurable deceptive act" means a deceptive act done by a
+supplier as part of a scheme, artifice, or device with intent to
+defraud or mislead. The term includes a failure of a transferee of
+structured settlement payment rights to timely provide a true and
+complete disclosure statement to a payee as provided under
+IC 34-50-2 in connection with a direct or indirect transfer of
+structured settlement payment rights.
+(9) "Local agency" means an administration, an agency, an
+authority, a board, a bureau, a commission, a committee, a
+council, a department, a division, an institution, an office, an
+officer, a service, or other similar body of a political
+subdivision created or established under law.
+(10) "Political subdivision" means a county, township, city,
+town, municipal corporation (as defined in IC 36-1-2-10), or
+special taxing district. However, the term does not include a
+school corporation or charter school.
+(9) (11) "Senior consumer" means an individual who is at least
+sixty (60) years of age.
+(12) "State agency" means an administration, an agency, an
+authority, a board, a bureau, a commission, a committee, a
+council, a department, a division, an institution, an office, an
+officer, a service, or other similar body of state government
+created or established under law. The term includes a body
+corporate and politic of the state created by statute. The term
+does not include a state educational institution (as defined in
+IC 21-7-13-32).
+(10) (13) "Telephone facsimile machine" means equipment that
+has the capacity to transcribe text or images, or both, from:
+(A) paper into an electronic signal and to transmit that signal
+over a regular telephone line; or
+(B) an electronic signal received over a regular telephone line
+onto paper.
+(11) (14) "Unsolicited advertisement" means material advertising
+the commercial availability or quality of:
+HB 1273—LS 6762/DI 154
+22
+(A) property;
+(B) goods; or
+(C) services;
+that is transmitted to a person without the person's prior express
+invitation or permission, in writing or otherwise.
+(12) (15) "Debt" has the meaning set forth in 15 U.S.C.
+1692(a)(5).
+(13) (16) "Debt collector" has the meaning set forth in 15 U.S.C.
+1692(a)(6). The term does not include a person admitted to the
+practice of law in Indiana if the person is acting within the course
+and scope of the person's practice as an attorney. The term
+includes a debt buyer (as defined in IC 24-5-15.5).
+(b) As used in section 3(b)(15) and 3(b)(16) of this chapter:
+(1) "Directory assistance" means the disclosure of telephone
+number information in connection with an identified telephone
+service subscriber by means of a live operator or automated
+service.
+(2) "Local telephone directory" refers to a telephone classified
+advertising directory or the business section of a telephone
+directory that is distributed by a telephone company or directory
+publisher to subscribers located in the local exchanges contained
+in the directory. The term includes a directory that includes
+listings of more than one (1) telephone company.
+(3) "Local telephone number" refers to a telephone number that
+has the three (3) number prefix used by the provider of telephone
+service for telephones physically located within the area covered
+by the local telephone directory in which the number is listed. The
+term does not include long distance numbers or 800-, 888-, or
+900- exchange numbers listed in a local telephone directory.
+
+Section 3:
+SECTION 3. IC 24-5-0.5-3, AS AMENDED BY P.L.104-2024,
+
+Section 4:
+SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 3. (a) A supplier may not commit an unfair,
+abusive, or deceptive act, omission, or practice in connection with a
+consumer transaction. Such an act, omission, or practice by a supplier
+is a violation of this chapter whether it occurs before, during, or after
+the transaction. An act, omission, or practice prohibited by this section
+includes both implicit and explicit misrepresentations.
+(b) Without limiting the scope of subsection (a), the following acts,
+and the following representations as to the subject matter of a
+consumer transaction, made orally, in writing, or by electronic
+communication, by a supplier, are deceptive acts:
+(1) That such subject of a consumer transaction has sponsorship,
+HB 1273—LS 6762/DI 154
+23
+approval, performance, characteristics, accessories, uses, or
+benefits it does not have which the supplier knows or should
+reasonably know it does not have.
+(2) That such subject of a consumer transaction is of a particular
+standard, quality, grade, style, or model, if it is not and if the
+supplier knows or should reasonably know that it is not.
+(3) That such subject of a consumer transaction is new or unused,
+if it is not and if the supplier knows or should reasonably know
+that it is not.
+(4) That such subject of a consumer transaction will be supplied
+to the public in greater quantity than the supplier intends or
+reasonably expects.
+(5) That replacement or repair constituting the subject of a
+consumer transaction is needed, if it is not and if the supplier
+knows or should reasonably know that it is not.
+(6) That a specific price advantage exists as to such subject of a
+consumer transaction, if it does not and if the supplier knows or
+should reasonably know that it does not.
+(7) That the supplier has a sponsorship, approval, or affiliation in
+such consumer transaction the supplier does not have, and which
+the supplier knows or should reasonably know that the supplier
+does not have.
+(8) That such consumer transaction involves or does not involve
+a warranty, a disclaimer of warranties, or other rights, remedies,
+or obligations, if the representation is false and if the supplier
+knows or should reasonably know that the representation is false.
+(9) That the consumer will receive a rebate, discount, or other
+benefit as an inducement for entering into a sale or lease in return
+for giving the supplier the names of prospective consumers or
+otherwise helping the supplier to enter into other consumer
+transactions, if earning the benefit, rebate, or discount is
+contingent upon the occurrence of an event subsequent to the time
+the consumer agrees to the purchase or lease.
+(10) That the supplier is able to deliver or complete the subject of
+the consumer transaction within a stated period of time, when the
+supplier knows or should reasonably know the supplier could not.
+If no time period has been stated by the supplier, there is a
+presumption that the supplier has represented that the supplier
+will deliver or complete the subject of the consumer transaction
+within a reasonable time, according to the course of dealing or the
+usage of the trade.
+(11) That the consumer will be able to purchase the subject of the
+HB 1273—LS 6762/DI 154
+24
+consumer transaction as advertised by the supplier, if the supplier
+does not intend to sell it.
+(12) That the replacement or repair constituting the subject of a
+consumer transaction can be made by the supplier for the estimate
+the supplier gives a customer for the replacement or repair, if the
+specified work is completed and:
+(A) the cost exceeds the estimate by an amount equal to or
+greater than ten percent (10%) of the estimate;
+(B) the supplier did not obtain written permission from the
+customer to authorize the supplier to complete the work even
+if the cost would exceed the amounts specified in clause (A);
+(C) the total cost for services and parts for a single transaction
+is more than seven hundred fifty dollars ($750); and
+(D) the supplier knew or reasonably should have known that
+the cost would exceed the estimate in the amounts specified in
+clause (A).
+(13) That the replacement or repair constituting the subject of a
+consumer transaction is needed, and that the supplier disposes of
+the part repaired or replaced earlier than seventy-two (72) hours
+after both:
+(A) the customer has been notified that the work has been
+completed; and
+(B) the part repaired or replaced has been made available for
+examination upon the request of the customer.
+(14) Engaging in the replacement or repair of the subject of a
+consumer transaction if the consumer has not authorized the
+replacement or repair, and if the supplier knows or should
+reasonably know that it is not authorized.
+(15) The act of misrepresenting the geographic location of the
+supplier by listing an alternate business name or an assumed
+business name (as described in IC 23-0.5-3-4) in a local telephone
+directory if:
+(A) the name misrepresents the supplier's geographic location;
+(B) the listing fails to identify the locality and state of the
+supplier's business;
+(C) calls to the local telephone number are routinely forwarded
+or otherwise transferred to a supplier's business location that
+is outside the calling area covered by the local telephone
+directory; and
+(D) the supplier's business location is located in a county that
+is not contiguous to a county in the calling area covered by the
+local telephone directory.
+HB 1273—LS 6762/DI 154
+25
+(16) The act of listing an alternate business name or assumed
+business name (as described in IC 23-0.5-3-4) in a directory
+assistance data base if:
+(A) the name misrepresents the supplier's geographic location;
+(B) calls to the local telephone number are routinely forwarded
+or otherwise transferred to a supplier's business location that
+is outside the local calling area; and
+(C) the supplier's business location is located in a county that
+is not contiguous to a county in the local calling area.
+(17) The violation by a supplier of IC 24-3-4 concerning
+cigarettes for import or export.
+(18) The act of a supplier in knowingly selling or reselling a
+product to a consumer if the product has been recalled, whether
+by the order of a court or a regulatory body, or voluntarily by the
+manufacturer, distributor, or retailer, unless the product has been
+repaired or modified to correct the defect that was the subject of
+the recall.
+(19) The violation by a supplier of 47 U.S.C. 227, including any
+rules or regulations issued under 47 U.S.C. 227.
+(20) The violation by a supplier of the federal Fair Debt
+Collection Practices Act (15 U.S.C. 1692 et seq.), including any
+rules or regulations issued under the federal Fair Debt Collection
+Practices Act (15 U.S.C. 1692 et seq.).
+(21) A violation of IC 24-5-7 (concerning health spa services), as
+set forth in IC 24-5-7-17.
+(22) A violation of IC 24-5-8 (concerning business opportunity
+transactions), as set forth in IC 24-5-8-20.
+(23) A violation of IC 24-5-10 (concerning home consumer
+transactions), as set forth in IC 24-5-10-18.
+(24) A violation of IC 24-5-11 (concerning real property
+improvement contracts), as set forth in IC 24-5-11-14.
+(25) A violation of IC 24-5-12 (concerning telephone
+solicitations), as set forth in IC 24-5-12-23.
+(26) A violation of IC 24-5-13.5 (concerning buyback motor
+vehicles), as set forth in IC 24-5-13.5-14.
+(27) A violation of IC 24-5-14 (concerning automatic
+dialing-announcing devices), as set forth in IC 24-5-14-13.
+(28) A violation of IC 24-5-15 (concerning credit services
+organizations), as set forth in IC 24-5-15-11.
+(29) A violation of IC 24-5-16 (concerning unlawful motor
+vehicle subleasing), as set forth in IC 24-5-16-18.
+(30) A violation of IC 24-5-17 (concerning environmental
+HB 1273—LS 6762/DI 154
+26
+marketing claims), as set forth in IC 24-5-17-14.
+(31) A violation of IC 24-5-19 (concerning deceptive commercial
+solicitation), as set forth in IC 24-5-19-11.
+(32) A violation of IC 24-5-21 (concerning prescription drug
+discount cards), as set forth in IC 24-5-21-7.
+(33) A violation of IC 24-5-23.5-7 (concerning real estate
+appraisals), as set forth in IC 24-5-23.5-9.
+(34) A violation of IC 24-5-26 (concerning identity theft), as set
+forth in IC 24-5-26-3.
+(35) A violation of IC 24-5.5 (concerning mortgage rescue fraud),
+as set forth in IC 24-5.5-6-1.
+(36) A violation of IC 24-8 (concerning promotional gifts and
+contests), as set forth in IC 24-8-6-3.
+(37) A violation of IC 21-18.5-6 (concerning representations
+made by a postsecondary credit bearing proprietary educational
+institution), as set forth in IC 21-18.5-6-22.5.
+(38) A violation of IC 24-5-15.5 (concerning collection actions of
+a plaintiff debt buyer), as set forth in IC 24-5-15.5-6.
+(39) A violation of IC 24-14 (concerning towing services), as set
+forth in IC 24-14-10-1.
+(40) A violation of IC 24-5-14.5 (concerning misleading or
+inaccurate caller identification information), as set forth in
+IC 24-5-14.5-12.
+(41) A violation of IC 24-5-27 (concerning intrastate inmate
+calling services), as set forth in IC 24-5-27-27.
+(42) A violation of IC 15-21 (concerning sales of dogs by retail
+pet stores), as set forth in IC 15-21-7-4.
+(43) A violation of IC 24-4-23 (concerning the security of
+information collected and transmitted by an adult oriented website
+operator), as set forth in IC 24-4-23-14.
+(44) A violation of IC 24-4-27.5 (concerning proxy advisors),
+as set forth in IC 24-4-27.5-12.
+(c) Any representations on or within a product or its packaging or
+in advertising or promotional materials which would constitute a
+deceptive act shall be the deceptive act both of the supplier who places
+such representation thereon or therein, or who authored such materials,
+and such other suppliers who shall state orally or in writing that such
+representation is true if such other supplier shall know or have reason
+to know that such representation was false.
+(d) If a supplier shows by a preponderance of the evidence that an
+act resulted from a bona fide error notwithstanding the maintenance of
+procedures reasonably adopted to avoid the error, such act shall not be
+HB 1273—LS 6762/DI 154
+27
+deceptive within the meaning of this chapter.
+(e) It shall be a defense to any action brought under this chapter that
+the representation constituting an alleged deceptive act was one made
+in good faith by the supplier without knowledge of its falsity and in
+reliance upon the oral or written representations of the manufacturer,
+the person from whom the supplier acquired the product, any testing
+organization, or any other person provided that the source thereof is
+disclosed to the consumer.
+(f) For purposes of subsection (b)(12), a supplier that provides
+estimates before performing repair or replacement work for a customer
+shall give the customer a written estimate itemizing as closely as
+possible the price for labor and parts necessary for the specific job
+before commencing the work.
+(g) For purposes of subsection (b)(15) and (b)(16), a telephone
+company or other provider of a telephone directory or directory
+assistance service or its officer or agent is immune from liability for
+publishing the listing of an alternate business name or assumed
+business name of a supplier in its directory or directory assistance data
+base unless the telephone company or other provider of a telephone
+directory or directory assistance service is the same person as the
+supplier who has committed the deceptive act.
+(h) For purposes of subsection (b)(18), it is an affirmative defense
+to any action brought under this chapter that the product has been
+altered by a person other than the defendant to render the product
+completely incapable of serving its original purpose.
+
+Section 5:
+SECTION 4. IC 24-5-0.5-4, AS AMENDED BY P.L.186-2025,
+
+Section 6:
+SECTION 133, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 4. (a) A person relying upon an
+uncured or incurable deceptive act may bring an action for the damages
+actually suffered as a consumer as a result of the deceptive act or five
+hundred dollars ($500), whichever is greater. The court may increase
+damages for a willful deceptive act in an amount that does not exceed
+the greater of:
+(1) three (3) times the actual damages of the consumer suffering
+the loss; or
+(2) one thousand dollars ($1,000).
+Except as provided in subsection (k), the court may award reasonable
+attorney's fees to the party that prevails in an action under this
+subsection. This subsection does not apply to a consumer transaction
+in real property, including a claim or action involving a construction
+defect (as defined in IC 32-27-3-1(5)) brought against a construction
+professional (as defined in IC 32-27-3-1(4)), except for purchases of
+HB 1273—LS 6762/DI 154
+28
+time shares and camping club memberships. This subsection does not
+apply with respect to a deceptive act described in section 3(b)(20) of
+this chapter. This subsection also does not apply to a violation of
+IC 24-4.7, IC 24-5-12, IC 24-5-14, or IC 24-5-14.5. Actual damages
+awarded to a person under this section have priority over any civil
+penalty imposed under this chapter.
+(b) Any person who is entitled to bring an action under subsection
+(a) on the person's own behalf against a supplier for damages for a
+deceptive act may bring a class action against such supplier on behalf
+of any class of persons of which that person is a member and which has
+been damaged by such deceptive act, subject to and under the Indiana
+Rules of Trial Procedure governing class actions, except as herein
+expressly provided. Except as provided in subsection (k), the court may
+award reasonable attorney's fees to the party that prevails in a class
+action under this subsection, provided that such fee shall be determined
+by the amount of time reasonably expended by the attorney and not by
+the amount of the judgment, although the contingency of the fee may
+be considered. Except in the case of an extension of time granted by the
+attorney general under IC 24-10-2-2(b) in an action subject to IC 24-10,
+any money or other property recovered in a class action under this
+subsection which cannot, with due diligence, be restored to consumers
+within one (1) year after the judgment becomes final shall be returned
+to the party depositing the same. This subsection does not apply to a
+consumer transaction in real property, except for purchases of time
+shares and camping club memberships. This subsection does not apply
+with respect to a deceptive act described in section 3(b)(20) of this
+chapter. Actual damages awarded to a class have priority over any civil
+penalty imposed under this chapter.
+(c) The attorney general may bring an action to enjoin an unfair,
+abusive, or deceptive act, omission, or practice in connection with a
+consumer transaction, including a deceptive act described in section
+3(b)(20) of this chapter, notwithstanding subsections (a) and (b).
+However, the attorney general may seek to enjoin patterns of incurable
+deceptive acts with respect to consumer transactions in real property.
+In addition, the court may:
+(1) issue an injunction;
+(2) order the supplier to make payment of the money unlawfully
+received from the aggrieved consumers to be held in escrow for
+distribution to aggrieved consumers;
+(3) for a knowing violation against a senior consumer, increase
+the amount of restitution ordered under subdivision (2) in any
+amount up to three (3) times the amount of damages incurred or
+HB 1273—LS 6762/DI 154
+29
+value of property or assets lost;
+(4) order the supplier to pay to the state the reasonable costs of
+the attorney general's investigation and prosecution, expert fees,
+and court fees related to the action;
+(5) provide for the appointment of a receiver; and
+(6) order the department of state revenue to suspend the supplier's
+registered retail merchant certificate, subject to the requirements
+and prohibitions contained in IC 6-2.5-8-7(a)(5), if the court finds
+that a violation of this chapter involved the sale or solicited sale
+of a synthetic drug (as defined in IC 35-31.5-2-321), a synthetic
+drug lookalike substance (as defined in IC 35-31.5-2-321.5
+(repealed)) (before July 1, 2019), a controlled substance analog
+(as defined in IC 35-48-1.1-8), or a substance represented to be a
+controlled substance (as described in IC 35-48-4-4.6).
+(d) In an action under subsection (a), (b), (c), or (n) the court may
+void or limit the application of contracts or clauses resulting from
+deceptive acts and order restitution to be paid to aggrieved consumers.
+(e) In any action under subsection (a) or (b), upon the filing of the
+complaint or on the appearance of any defendant, claimant, or any
+other party, or at any later time, the trial court, the supreme court, or the
+court of appeals may require the plaintiff, defendant, claimant, or any
+other party or parties to give security, or additional security, in such
+sum as the court shall direct to pay all costs, expenses, and
+disbursements that shall be awarded against that party or which that
+party may be directed to pay by any interlocutory order by the final
+judgment or on appeal.
+(f) Any person who violates the terms of an injunction issued under
+subsection (c) or (n) shall forfeit and pay to the state a civil penalty of
+not more than fifteen thousand dollars ($15,000) per violation. For the
+purposes of this section, the court issuing an injunction shall retain
+jurisdiction, the cause shall be continued, and the attorney general
+acting in the name of the state may petition for recovery of civil
+penalties. Whenever the court determines that an injunction issued
+under subsection (c) or (n) has been violated, the court shall award
+reasonable costs to the state.
+(g) If a court finds any person has knowingly violated section 3 or
+10 of this chapter, other than section 3(b)(19), 3(b)(20), or 3(b)(40) of
+this chapter, the attorney general, in an action pursuant to subsection
+(c), may recover from the person on behalf of the state a civil penalty
+of a fine not exceeding five thousand dollars ($5,000) per violation.
+(h) If a court finds that a person has violated section 3(b)(19) of this
+chapter, the attorney general, in an action under subsection (c), may
+HB 1273—LS 6762/DI 154
+30
+recover from the person on behalf of the state a civil penalty as follows:
+(1) For a knowing or intentional violation, one thousand five
+hundred dollars ($1,500).
+(2) For a violation other than a knowing or intentional violation,
+five hundred dollars ($500).
+A civil penalty recovered under this subsection shall be deposited in
+the consumer protection division telephone solicitation fund
+established by IC 24-4.7-3-6 to be used for the administration and
+enforcement of section 3(b)(19) of this chapter.
+(i) A senior consumer relying upon an uncured or incurable
+deceptive act, including an act related to hypnotism, may bring an
+action to recover treble damages, if appropriate.
+(j) An offer to cure is:
+(1) not admissible as evidence in a proceeding initiated under this
+
+Section 7:
+section unless the offer to cure is delivered by a supplier to the
+consumer or a representative of the consumer before the supplier
+files the supplier's initial response to a complaint; and
+(2) only admissible as evidence in a proceeding initiated under
+this section to prove that a supplier is not liable for attorney's fees
+under subsection (k).
+If the offer to cure is timely delivered by the supplier, the supplier may
+submit the offer to cure as evidence to prove in the proceeding in
+accordance with the Indiana Rules of Trial Procedure that the supplier
+made an offer to cure.
+(k) A supplier may not be held liable for the attorney's fees and
+court costs of the consumer that are incurred following the timely
+delivery of an offer to cure as described in subsection (j) unless the
+actual damages awarded, not including attorney's fees and costs, exceed
+the value of the offer to cure.
+(l) If a court finds that a person has knowingly violated section
+3(b)(20) of this chapter, the attorney general, in an action under
+subsection (c), may recover from the person on behalf of the state a
+civil penalty not exceeding one thousand dollars ($1,000) per
+consumer. In determining the amount of the civil penalty in any action
+by the attorney general under this subsection, the court shall consider,
+among other relevant factors, the frequency and persistence of
+noncompliance by the debt collector, the nature of the noncompliance,
+and the extent to which the noncompliance was intentional. A person
+may not be held liable in any action by the attorney general for a
+violation of section 3(b)(20) of this chapter if the person shows by a
+preponderance of evidence that the violation was not intentional and
+resulted from a bona fide error, notwithstanding the maintenance of
+HB 1273—LS 6762/DI 154
+31
+procedures reasonably adapted to avoid the error. A person may not be
+held liable in any action for a violation of this chapter for contacting a
+person other than the debtor, if the contact is made in compliance with
+the Fair Debt Collection Practices Act.
+(m) If a court finds that a person has knowingly or intentionally
+violated section 3(b)(40) of this chapter, the attorney general, in an
+action under subsection (c), may recover from the person on behalf of
+the state a civil penalty in accordance with IC 24-5-14.5-12(b). As
+specified in IC 24-5-14.5-12(b), a civil penalty recovered under
+IC 24-5-14.5-12(b) shall be deposited in the consumer protection
+division telephone solicitation fund established by IC 24-4.7-3-6 to be
+used for the administration and enforcement of IC 24-5-14.5. In
+addition to the recovery of a civil penalty in accordance with
+IC 24-5-14.5-12(b), the attorney general may also recover reasonable
+attorney fees and court costs from the person on behalf of the state.
+Those funds shall also be deposited in the consumer protection division
+telephone solicitation fund established by IC 24-4.7-3-6.
+(n) An action that arises from, or otherwise involves, an unfair,
+abusive, or deceptive act, omission, or practice in connection with a
+consumer transaction described in section 2(a)(1)(D)(i) or
+2(a)(1)(D)(iii) of this chapter may be brought and enforced only by the
+attorney general under this subsection. An action that arises from, or
+otherwise involves, an unfair, abusive, or deceptive act, omission, or
+practice in connection with a consumer transaction described in section
+2(a)(1)(D)(ii) or 2(a)(1)(D)(iv) of this chapter may be brought and
+enforced only by an attorney acting on behalf of the local law
+enforcement agency or local agency involved in the transaction, unless
+the local unit of government served by the local law enforcement
+agency or local agency requests the attorney general to bring and
+enforce an action under this subsection on behalf of the local unit. In
+addition, the court may:
+(1) issue an injunction;
+(2) order the supplier to make payment of the money unlawfully
+received from the aggrieved consumers to be held in escrow for
+distribution to aggrieved consumers; or
+(3) order the supplier to pay to:
+(A) the attorney acting on behalf of the local law enforcement
+agency or local agency; or
+(B) the attorney general for the state;
+as applicable, the reasonable costs of the attorney's or the attorney
+general's investigation and prosecution, expert fees, and court fees
+related to the action.
+HB 1273—LS 6762/DI 154
+32
+The time for bringing an action under subsection (c), as set forth in
+
+Section 8:
+section 5(b) of this chapter, applies to an action brought under this
+subsection.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1273 as introduced.)
+TESHKA
+Committee Vote: yeas 10, nays 0.
+HB 1273—LS 6762/DI 154
+[DELETED:  p c v a e m o e ( A t t t p a p t p p b t p a ( i t]
+[DELETED:  p o m a d r o p o b o a i h r p a ( t a a t a f a c t]
+[DELETED:  m a s o r p o g g p ( d i I 2 a l l p ( d i]
+[DELETED:  i n a p u t r s i o a p r t d n o e c c t s a o e p o a a s i a b c ( d i f c p a p a s t]
+[DELETED:  c t a d r o p c v s t t p a h m t o p w u a w a r t i t t a t e s t a l t]
+[DELETED:  a s t t p a h m  a t e s t a l t a t e s t a l t]
+[DELETED:  M t w f a d i ( a t a i h o a p]
+[DELETED:  T 2 G A I C A " t m a s l a r p a s o a i e a p o c o i i b t a p f p t a p p a o t t H t t i t i s o a b t e t i o s c t i a c t b u a t]
+[DELETED:  " o a c t m t p r p s o i o o t o i w t a o m t c t w t a r t c t t i m c t t s ( b n m t f t d]
+[DELETED:  d s t a p a p u a s o o s b o a p ( " h t m s f i 1 U]
+[DELETED:  s o t p p a a a T t " a m t d o t o d o t b s o a t t d T t i a d t i t f r a t t s m o  t m o i w o b e p c a u o]
+[DELETED:  T r o r c t s o  h t s t e i o c i e t b r o d i]
+[DELETED:  o r a i t s k o s c]
+[DELETED:  T v b a s o I 2 c T v b a s o t f F D A v o I 2 ( h c A v o I 2 ( r p A v o I 2 ( t A v o I 2 ( a A v o I 2 ( c s A v o I 2 ( u m A v o I 2 ( e A v o I 2 ( r e]
+[DELETED:  A v o I 2 ( m o c i i a s f i A v o I 2 ( t s o a o p m w w c ]
+[DELETED:  o o p o a t d o d t l o a a b n o a 1 I A T R A F f t t p t p i a a u t]
+[DELETED:  o t c n s ( a (]
+[DELETED:  l s ( d i I 3 a t c s d t p a c e a c p d t s f]
+[DELETED:  A s c r u a u o i o t c t a g i a a u p n e o t d ( p o r f t f a p o]
+[DELETED:  i I 2 a c p r u 2 s b d i t c p f t a a e o I 2 I t t r o a c p i a w t d i s 2 o o b a a a o b o t l l]
+[DELETED:  b l t r t s b t t H w t T 2 G A I C A " t m a s l a r p a s o a i e a p o c o i i b t a p f p t a p p a o t t H t t i t i s o a b t e t]
+[DELETED:  i o s c t i a c t b u a t " o a c t m t p r p s o i o o t o i w t a o m t c t w t a r t c t t i m c t t s r ( b n m t f t d]
+[DELETED:  d s t a p a p u a s o o s b o a p]
+[DELETED:  ( " h t m s f i 1 U s o t p p a a a T t " a m t d o t a d o t b s o a t t d T t i a d t i t f r a t t s m o  t m o i w o b e]
+[DELETED:  p c a u o T r o r c t s o  h t s t e i o c i e t b r o d i s]
+[DELETED:  o r a i t s k o s]
+[DELETED:  T v b a s o I 2 c T v b a s o t f F D A v o I 2 ( h c A v o I 2 ( r p A v o I 2 ( t A v o I 2 ( a A v o I 2 ( c s A v o I 2 ( u m A v o I 2 ( e]
+[DELETED:  A v o I 2 ( r e A v o I 2 ( m o c i i a s f i A v o I 2 ( t s o a o p m w w c ]
+[DELETED:  o o p o a t d o d t l o a a b n o a 1 I A T R A F f t t p t p i a a u t]
+[DELETED:  o t c n s ( a (]
+[DELETED:  l s ( d i I 3 a t c s d t p a c e a]
+[DELETED:  c p d t s f A s c r u a u o i o t c t a g i a a u p n e o t d ( p o r f t f a p o]
+[DELETED:  i I 2 a c p r u 2 s b d i t c p f t a a e o I 2 I t t r o a c p i a w t d i s 2 o o b a a a o b o t l l]
+
+
+================================================================================
+
+Raw Text:
+*HB1273.1*
+January 13, 2026
+HOUSE BILL No. 1273
+_____
+DIGEST OF HB 1273 (Updated January 13, 2026 1:20 pm - DI 154)
+Citations Affected: IC 24-4; IC 24-5.
+Synopsis: Requirements for proxy advisors. Provides that if a proxy
+advisor makes a recommendation against entity management on an
+entity proposal or proxy proposal, or makes a default recommendation
+or policy concerning votes against entity management on entity
+proposals or proxy proposals, and the proxy advisor does not do so
+based on a written financial analysis, the proxy advisor shall do the
+following: (1) At the time the proxy advisor provides the proxy
+advisory services, provide a clear and conspicuous disclosure to each
+interest holder or any person acting on behalf of an interest holder,
+receiving the proxy advisory services, that: (A) identifies the services
+being provided by the proxy advisor; (B) identifies the
+recommendation at issue; and (C) states that the proxy advisor has
+made the recommendation without utilizing a written financial analysis
+regarding the impact that the recommended action would have on
+entity interest holders. (2) If the proxy advisor provides certain proxy
+advisory services, then at the time the proxy advisor provides the proxy
+advisory services, the proxy advisor must provide to entity management
+the disclosure provided to each interest holder or any person acting on
+behalf of an interest holder receiving the proxy advisory services. (3)
+For the entire time that a proxy advisor is providing proxy advisory
+services to an interest holder of an entity or any person acting on behalf
+of an interest holder of an entity, prominently display on the home page
+of the proxy advisor's website a statement that the proxy advisor has
+made a recommendation: (A) against entity management on an entity
+(Continued next page)
+Effective: July 1, 2026.
+Pierce K, Andrade
+January 6, 2026, read first time and referred to Committee on Financial Institutions.
+January 13, 2026, amended, reported — Do Pass.
+HB 1273—LS 6762/DI 154
+
+Digest Continued
+proposal or proxy proposal; and (B) without utilizing a written financial
+analysis regarding the impact that the recommended action would have
+on entity interest holders. Provides that if a proxy advisor makes a
+recommendation against entity management on an entity proposal or
+proxy proposal, or makes a default recommendation or policy
+concerning votes against entity management on entity proposals or
+proxy proposals, and the proxy advisor does so based on a written
+financial analysis, the proxy advisor shall do the following: (1) At the
+time the proxy advisor provides the proxy advisory services, provide a
+clear and conspicuous disclosure to each interest holder or any person
+acting on behalf of an interest holder, receiving proxy advisory
+services, that: (A) identifies the services being provided by the proxy
+advisor; (B) identifies the recommendation at issue; (C) states that the
+proxy advisor utilized a written financial analysis regarding the impact
+that the recommended action would have on entity interest holders in
+making the recommendation; and (D) states that the written financial
+analysis is available upon request. (2) Make the written financial
+analysis available to an interest holder or any person acting on behalf
+of an interest holder, receiving the proxy advisory services within a
+reasonable time after an interest holder or any person acting on behalf
+of an interest holder, receiving the proxy advisory services requests the
+written financial analysis. (3) If the proxy advisor provides certain
+proxy advisory services, then at the time the proxy advisor provides the
+proxy advisory services, the proxy advisor must provide a copy of the
+written financial analysis to entity management. Amends the definition
+of "consumer transaction" for purposes of the deceptive consumer sales
+act to include the provision of a product or service to a state agency or
+a local agency in Indiana. Amends the definition of "supplier" for
+purposes of the deceptive consumer sales act to include an entity that
+provides a product or service to a state agency or a local agency in
+Indiana. Provides that an action that arises from a consumer transaction
+involving the provision of a product or service by a supplier to a state
+agency may be brought and enforced only by the attorney general.
+Provides that an action that arises from a consumer transaction
+involving the provision of a product or service by a supplier to a local
+agency may be brought and enforced only by an attorney acting on
+behalf of the local agency, unless the local unit of government served
+by the local agency requests the attorney general to bring and enforce
+an action on behalf of the local unit. Provides that in an action that
+arises from a consumer transaction involving the provision of a product
+or service by a supplier to a state agency or a local agency, a court may
+take certain actions.
+HHBB 11227733——LLSS 66776622//DDII 115544
+
+January 13, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1273
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-4-27.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 27.5. Proxy Advisors
+5 Sec. 1. As used in this chapter, "default recommendation or
+6 policy" means a system, set of rules, principles, or guidelines
+7 designed to assist with voting decisions on any entity proposals or
+8 proxy proposals.
+9 Sec. 2. (a) As used in this chapter, "entity" means a:
+10 (1) business corporation (as defined in IC 23-0.5-1.5-3);
+11 (2) general partnership (as defined in IC 23-0.5-1.5-13),
+12 including a limited liability partnership (as defined in
+13 IC 23-0.5-1.5-21);
+14 (3) limited partnership (as defined in IC 23-0.5-1.5-22); or
+15 (4) limited liability company (as defined in IC 23-0.5-1.5-20).
+HB 1273—LS 6762/DI 154
+
+2
+1 (b) The term does not include:
+2 (1) an individual;
+3 (2) a business trust, a trust with a predominately donative
+4 purpose, or a charitable trust;
+5 (3) an association or relationship that:
+6 (A) is not listed in subsection (a); and
+7 (B) is not a partnership under the rules stated in
+8 IC 23-4-1-7 or a similar provision of the law of another
+9 jurisdiction;
+10 (4) a decedent's estate; or
+11 (5) a government or a governmental subdivision, agency, or
+12 instrumentality.
+13 Sec. 3. As used in this chapter, "entity management" means an
+14 individual or group of individuals that actively oversee and direct
+15 an entity's activities, resources, and personnel to accomplish the
+16 entity's objectives.
+17 Sec. 4. As used in this chapter, "entity proposal" means any
+18 proposal made by an entity to its interest holders that is included
+19 in the entity's proxy statement, including director nominations or
+20 elections or any proposal relating to director nominations or
+21 elections, executive compensation, corporate transactions,
+22 corporate structure, auditor selection, or entity policy on any
+23 subject.
+24 Sec. 5. As used in this chapter, "interest" means:
+25 (1) a share in a business corporation (as defined in
+26 IC 23-0.5-1.5-3); or
+27 (2) a governance interest or economic interest in any other
+28 type of unincorporated entity.
+29 Sec. 6. As used in this chapter, "interest holder" means a direct
+30 holder of an interest in an entity.
+31 Sec. 7. As used in this chapter, "proxy advisor" means a person
+32 who, for compensation, provides a proxy advisory service to
+33 interest holders of an entity or to other persons with authority to
+34 vote on behalf of interest holders of an entity.
+35 Sec. 8. As used in this chapter, "proxy advisory service" means
+36 any of the following services that are provided in connection with
+37 an entity or are provided to any person in Indiana:
+38 (1) Advice or a recommendation on how to vote on an entity
+39 proposal or proxy proposal.
+40 (2) Proxy statement research and analysis regarding an entity
+41 proposal or proxy proposal.
+42 (3) Development of proxy voting recommendations or policies,
+HB 1273—LS 6762/DI 154
+
+3
+1 including establishing default recommendations or policies.
+2 Sec. 9. As used in this chapter, "proxy proposal" means any
+3 proposal made by an interest holder of an entity that is included in
+4 the entity's proxy statement, including a proposal relating to any
+5 of the subjects that could be covered by an entity proposal.
+6 Sec. 10. As used in this chapter, "written financial analysis"
+7 means a written document that:
+8 (1) analyzes the expected short term and long term financial
+9 benefits and costs to an entity of implementing an entity
+10 proposal or proxy proposal;
+11 (2) concludes what vote or course of action is most likely to
+12 positively affect interest holder value; and
+13 (3) explains the methods and processes used to prepare the
+14 analysis, including the experience and geographic location of
+15 the personnel who formed the conclusion.
+16 Sec. 11. (a) If a proxy advisor makes a recommendation against
+17 entity management on an entity proposal or proxy proposal, or
+18 makes a default recommendation or policy concerning votes
+19 against entity management on entity proposals or proxy proposals,
+20 and the proxy advisor does not do so based on a written financial
+21 analysis, the proxy advisor shall do the following:
+22 (1) At the time the proxy advisor provides the proxy advisory
+23 services, provide a clear and conspicuous disclosure to each
+24 interest holder or any person acting on behalf of an interest
+25 holder receiving the proxy advisory services that:
+26 (A) identifies the services being provided by the proxy
+27 advisor;
+28 (B) identifies the recommendation or policy at issue; and
+29 (C) states that the proxy advisor has made the
+30 recommendation or policy without utilizing a written
+31 financial analysis regarding the impact that the
+32 recommended action would have on entity interest holders
+33 that:
+34 (i) analyzes the expected short term and long term
+35 financial benefits and costs to the entity of implementing
+36 the entity proposal or proxy proposal;
+37 (ii) concludes what vote or course of action is most likely
+38 to positively affect interest holder value; and
+39 (iii) explains the methods and processes used to prepare
+40 the analysis, including the experience and geographic
+41 location of the personnel who formed the conclusion.
+42 (2) If the proxy advisor provides proxy advisory services
+HB 1273—LS 6762/DI 154
+
+4
+1 described in section 8(1) or 8(2) of this chapter, then at the
+2 time the proxy advisor provides the proxy advisory services
+3 described in section 8(1) and 8(2) of this chapter, the proxy
+4 advisor must provide the disclosure described in subdivision
+5 (1) to entity management.
+6 (3) For the entire time that a proxy advisor is providing proxy
+7 advisory services to an interest holder of an entity or any
+8 person acting on behalf of an interest holder of an entity,
+9 prominently display on the home page of the proxy advisor's
+10 website a statement that the proxy advisor has made a
+11 recommendation:
+12 (A) against entity management on an entity proposal or
+13 proxy proposal; and
+14 (B) without utilizing a written financial analysis regarding
+15 the impact that the recommended action would have on
+16 entity interest holders that:
+17 (i) analyzes the expected short term and long term
+18 financial benefits and costs to the entity of implementing
+19 the entity proposal or proxy proposal;
+20 (ii) concludes what vote or course of action is most likely
+21 to positively affect interest holder value; and
+22 (iii) explains the methods and processes used to prepare
+23 the analysis, including the experience and geographic
+24 location of the personnel who formed the conclusion.
+25 (b) If a proxy advisor makes a recommendation against entity
+26 management on an entity proposal or proxy proposal, or makes a
+27 default recommendation or policy concerning votes against entity
+28 management on entity proposals or proxy proposals, and the proxy
+29 advisor does so based on a written financial analysis, the proxy
+30 advisor shall do the following:
+31 (1) At the time the proxy advisor provides the proxy advisory
+32 services, provide a clear and conspicuous disclosure to each
+33 interest holder or any person acting on behalf of an interest
+34 holder receiving the proxy advisory services that:
+35 (A) identifies the services being provided by the proxy
+36 advisor;
+37 (B) identifies the recommendation or policy at issue;
+38 (C) states that the proxy advisor utilized a written financial
+39 analysis that:
+40 (i) analyzes the expected short term and long term
+41 financial benefits and costs to the entity of implementing
+42 the entity proposal or proxy proposal;
+HB 1273—LS 6762/DI 154
+
+5
+1 (ii) concludes what vote or course of action is most likely
+2 to positively affect interest holder value; and
+3 (iii) explains the methods and processes used to prepare
+4 the analysis, including the experience and geographic
+5 location of the personnel who formed the conclusion; and
+6 (D) states that the written financial analysis described in
+7 clause (C) is available upon request.
+8 (2) Make the written financial analysis described in
+9 subdivision (1)(C) available to an interest holder or any
+10 person acting on behalf of an interest holder, receiving the
+11 proxy advisory services within a reasonable time after an
+12 interest holder or any person acting on behalf of an interest
+13 holder, receiving the proxy advisory services requests the
+14 written financial analysis.
+15 (3) If the proxy advisor provides proxy advisory services
+16 described in section 8(1) or 8(2) of this chapter, then at the
+17 time the proxy advisor provides the proxy advisory services
+18 described in section 8(1) and 8(2) of this chapter, the proxy
+19 advisor must provide a copy of the written financial analysis
+20 described in subdivision (1)(C) to entity management.
+21 Sec. 12. (a) As used in this section, "interested person" means:
+22 (1) a recipient of proxy advisory services provided by a proxy
+23 advisor;
+24 (2) an entity that is the subject of proxy advisory services
+25 described in section 8(1) or 8(2) of this chapter provided by a
+26 proxy advisor; and
+27 (3) any interest holder of an entity that is the subject of proxy
+28 advisory services described in section 8(1) or 8(2) of this
+29 chapter provided by a proxy advisor.
+30 (b) A proxy advisor who violates any provision of this chapter
+31 commits a deceptive act which is actionable under IC 24-5-0.5 and
+32 subject to the penalties of IC 24-5-0.5.
+33 (c) Notwithstanding subsection (b), an interested person may
+34 bring an action seeking a declaratory judgment or injunctive relief
+35 against a proxy advisor who the interested person believes has
+36 violated this chapter. Not later than seven (7) days after the date on
+37 which an interested person brings an action under this subsection,
+38 the interested person shall provide written notice to the attorney
+39 general that informs the attorney general of the existence of the
+40 action. The attorney general has the right to intervene in an action
+41 under this subsection.
+42 SECTION 2. IC 24-5-0.5-2, AS AMENDED BY P.L.206-2025,
+HB 1273—LS 6762/DI 154
+
+6
+1 SECTION 5, AND AS AMENDED BY P.L.227-2025, SECTION 42,
+2 AND AS AMENDED BY THE TECHNICAL CORRECTIONS BILL
+3 OF THE 2026 GENERAL ASSEMBLY, IS CORRECTED AND
+4 AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]:
+5 Sec. 2. (a) As used in this chapter:
+6 (1) "Consumer transaction" means a sale, lease, assignment,
+7 award by chance, or other disposition of an item of personal
+8 property, real property, a service, or an intangible, except
+9 securities and policies or contracts of insurance issued by
+10 corporations authorized to transact an insurance business under
+11 the laws of the state of Indiana, with or without an extension of
+12 credit, to a person for purposes that are primarily personal,
+13 familial, charitable, agricultural, or household, or a solicitation to
+14 supply any of these things. However, the term includes the
+15 following:
+16 (A) A transfer of structured settlement payment rights under
+17 IC 34-50-2.
+18 (B) An unsolicited advertisement sent to a person by telephone
+19 facsimile machine offering a sale, lease, assignment, award by
+20 chance, or other disposition of an item of personal property,
+21 real property, a service, or an intangible.
+22 (C) The collection of or attempt to collect a debt by a debt
+23 collector.
+24 (D) The provision of a product or service to a:
+25 (i) state law enforcement agency; or
+26 (ii) local law enforcement agency;
+27 (iii) state agency; or
+28 (iv) local agency;
+29 in Indiana.
+30 (D) (E) Conduct that arises from, occurs in connection with,
+31 or otherwise involves a transaction for emergency towing (as
+32 defined in IC 24-14-2-5) of a personal or commercial vehicle.
+33 (2) "Person" means an individual, corporation, the state of Indiana
+34 or its subdivisions or agencies, business trust, estate, trust,
+35 partnership, association, nonprofit corporation or organization, or
+36 cooperative or any other legal entity.
+37 (3) "Supplier" means the following:
+38 (A) A seller, lessor, assignor, or other person who regularly
+39 engages in or solicits consumer transactions, including
+40 soliciting a consumer transaction by using a telephone
+41 facsimile machine to transmit an unsolicited advertisement.
+42 The term includes a manufacturer, a wholesaler, or a retailer,
+HB 1273—LS 6762/DI 154
+
+7
+1 or, in a consumer transaction described in subdivision (1)(D),
+2 an entity that provides a product or service to a state law
+3 enforcement agency, or local law enforcement agency, state
+4 agency, or local agency in Indiana, whether or not the person
+5 deals directly with the consumer.
+6 (B) A debt collector.
+7 (4) "Subject of a consumer transaction" means the personal
+8 property, real property, services, or intangibles offered or
+9 furnished in a consumer transaction.
+10 (5) "Cure" as applied to a deceptive act, means either:
+11 (A) to offer in writing to adjust or modify the consumer
+12 transaction to which the act relates to conform to the
+13 reasonable expectations of the consumer generated by such
+14 deceptive act and to perform such offer if accepted by the
+15 consumer; or
+16 (B) to offer in writing to rescind such consumer transaction
+17 and to perform such offer if accepted by the consumer.
+18 The term includes an offer in writing of one (1) or more items of
+19 value, including monetary compensation, that the supplier
+20 delivers to a consumer or a representative of the consumer if
+21 accepted by the consumer.
+22 (6) "Offer to cure" as applied to a deceptive act is a cure that:
+23 (A) is reasonably calculated to remedy a loss claimed by the
+24 consumer; and
+25 (B) includes a minimum additional amount that is the greater
+26 of:
+27 (i) ten percent (10%) of the value of the remedy under
+28 clause (A), but not more than four thousand dollars
+29 ($4,000); or
+30 (ii) five hundred dollars ($500);
+31 as compensation for attorney's fees, expenses, and other costs
+32 that a consumer may incur in relation to the deceptive act.
+33 (7) "Uncured deceptive act" means: a deceptive act:
+34 (A) a deceptive act with respect to which a consumer who has
+35 been damaged by such act has given notice to the supplier
+36 under section 5(a) of this chapter; and
+37 (B) either:
+38 (i) no offer to cure has been made to such consumer within
+39 thirty (30) days after such notice; or
+40 (ii) the act has not been cured as to such consumer within a
+41 reasonable time after the consumer's acceptance of the offer
+42 to cure.
+HB 1273—LS 6762/DI 154
+
+8
+1 (8) "Incurable deceptive act" means a deceptive act done by a
+2 supplier as part of a scheme, artifice, or device with intent to
+3 defraud or mislead. The term includes a failure of a transferee of
+4 structured settlement payment rights to timely provide a true and
+5 complete disclosure statement to a payee as provided under
+6 IC 34-50-2 in connection with a direct or indirect transfer of
+7 structured settlement payment rights.
+8 (9) "Local agency" means an administration, an agency, an
+9 authority, a board, a bureau, a commission, a committee, a
+10 council, a department, a division, an institution, an office, an
+11 officer, a service, or other similar body of a political
+12 subdivision created or established under law.
+13 (10) "Political subdivision" means a county, township, city,
+14 town, municipal corporation (as defined in IC 36-1-2-10), or
+15 special taxing district. However, the term does not include a
+16 school corporation or charter school.
+17 (9) (11) "Senior consumer" means an individual who is at least
+18 sixty (60) years of age.
+19 (12) "State agency" means an administration, an agency, an
+20 authority, a board, a bureau, a commission, a committee, a
+21 council, a department, a division, an institution, an office, an
+22 officer, a service, or other similar body of state government
+23 created or established under law. The term includes a body
+24 corporate and politic of the state created by statute. The term
+25 does not include a state educational institution (as defined in
+26 IC 21-7-13-32).
+27 (10) (13) "Telephone facsimile machine" means equipment that
+28 has the capacity to transcribe text or images, or both, from:
+29 (A) paper into an electronic signal and to transmit that signal
+30 over a regular telephone line; or
+31 (B) an electronic signal received over a regular telephone line
+32 onto paper.
+33 (11) (14) "Unsolicited advertisement" means material advertising
+34 the commercial availability or quality of:
+35 (A) property;
+36 (B) goods; or
+37 (C) services;
+38 that is transmitted to a person without the person's prior express
+39 invitation or permission, in writing or otherwise.
+40 (12) (15) "Debt" has the meaning set forth in 15 U.S.C.
+41 1692(a)(5).
+42 (13) (16) "Debt collector" has the meaning set forth in 15 U.S.C.
+HB 1273—LS 6762/DI 154
+
+9
+1 1692(a)(6). The term does not include a person admitted to the
+2 practice of law in Indiana if the person is acting within the course
+3 and scope of the person's practice as an attorney. The term
+4 includes a debt buyer (as defined in IC 24-5-15.5).
+5 (b) As used in section 3(b)(15) and 3(b)(16) of this chapter:
+6 (1) "Directory assistance" means the disclosure of telephone
+7 number information in connection with an identified telephone
+8 service subscriber by means of a live operator or automated
+9 service.
+10 (2) "Local telephone directory" refers to a telephone classified
+11 advertising directory or the business section of a telephone
+12 directory that is distributed by a telephone company or directory
+13 publisher to subscribers located in the local exchanges contained
+14 in the directory. The term includes a directory that includes
+15 listings of more than one (1) telephone company.
+16 (3) "Local telephone number" refers to a telephone number that
+17 has the three (3) number prefix used by the provider of telephone
+18 service for telephones physically located within the area covered
+19 by the local telephone directory in which the number is listed. The
+20 term does not include long distance numbers or 800-, 888-, or
+21 900- exchange numbers listed in a local telephone directory.
+22 SECTION 3. IC 24-5-0.5-3, AS AMENDED BY P.L.104-2024,
+23 SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2026]: Sec. 3. (a) A supplier may not commit an unfair,
+25 abusive, or deceptive act, omission, or practice in connection with a
+26 consumer transaction. Such an act, omission, or practice by a supplier
+27 is a violation of this chapter whether it occurs before, during, or after
+28 the transaction. An act, omission, or practice prohibited by this section
+29 includes both implicit and explicit misrepresentations.
+30 (b) Without limiting the scope of subsection (a), the following acts,
+31 and the following representations as to the subject matter of a
+32 consumer transaction, made orally, in writing, or by electronic
+33 communication, by a supplier, are deceptive acts:
+34 (1) That such subject of a consumer transaction has sponsorship,
+35 approval, performance, characteristics, accessories, uses, or
+36 benefits it does not have which the supplier knows or should
+37 reasonably know it does not have.
+38 (2) That such subject of a consumer transaction is of a particular
+39 standard, quality, grade, style, or model, if it is not and if the
+40 supplier knows or should reasonably know that it is not.
+41 (3) That such subject of a consumer transaction is new or unused,
+42 if it is not and if the supplier knows or should reasonably know
+HB 1273—LS 6762/DI 154
+
+10
+1 that it is not.
+2 (4) That such subject of a consumer transaction will be supplied
+3 to the public in greater quantity than the supplier intends or
+4 reasonably expects.
+5 (5) That replacement or repair constituting the subject of a
+6 consumer transaction is needed, if it is not and if the supplier
+7 knows or should reasonably know that it is not.
+8 (6) That a specific price advantage exists as to such subject of a
+9 consumer transaction, if it does not and if the supplier knows or
+10 should reasonably know that it does not.
+11 (7) That the supplier has a sponsorship, approval, or affiliation in
+12 such consumer transaction the supplier does not have, and which
+13 the supplier knows or should reasonably know that the supplier
+14 does not have.
+15 (8) That such consumer transaction involves or does not involve
+16 a warranty, a disclaimer of warranties, or other rights, remedies,
+17 or obligations, if the representation is false and if the supplier
+18 knows or should reasonably know that the representation is false.
+19 (9) That the consumer will receive a rebate, discount, or other
+20 benefit as an inducement for entering into a sale or lease in return
+21 for giving the supplier the names of prospective consumers or
+22 otherwise helping the supplier to enter into other consumer
+23 transactions, if earning the benefit, rebate, or discount is
+24 contingent upon the occurrence of an event subsequent to the time
+25 the consumer agrees to the purchase or lease.
+26 (10) That the supplier is able to deliver or complete the subject of
+27 the consumer transaction within a stated period of time, when the
+28 supplier knows or should reasonably know the supplier could not.
+29 If no time period has been stated by the supplier, there is a
+30 presumption that the supplier has represented that the supplier
+31 will deliver or complete the subject of the consumer transaction
+32 within a reasonable time, according to the course of dealing or the
+33 usage of the trade.
+34 (11) That the consumer will be able to purchase the subject of the
+35 consumer transaction as advertised by the supplier, if the supplier
+36 does not intend to sell it.
+37 (12) That the replacement or repair constituting the subject of a
+38 consumer transaction can be made by the supplier for the estimate
+39 the supplier gives a customer for the replacement or repair, if the
+40 specified work is completed and:
+41 (A) the cost exceeds the estimate by an amount equal to or
+42 greater than ten percent (10%) of the estimate;
+HB 1273—LS 6762/DI 154
+
+11
+1 (B) the supplier did not obtain written permission from the
+2 customer to authorize the supplier to complete the work even
+3 if the cost would exceed the amounts specified in clause (A);
+4 (C) the total cost for services and parts for a single transaction
+5 is more than seven hundred fifty dollars ($750); and
+6 (D) the supplier knew or reasonably should have known that
+7 the cost would exceed the estimate in the amounts specified in
+8 clause (A).
+9 (13) That the replacement or repair constituting the subject of a
+10 consumer transaction is needed, and that the supplier disposes of
+11 the part repaired or replaced earlier than seventy-two (72) hours
+12 after both:
+13 (A) the customer has been notified that the work has been
+14 completed; and
+15 (B) the part repaired or replaced has been made available for
+16 examination upon the request of the customer.
+17 (14) Engaging in the replacement or repair of the subject of a
+18 consumer transaction if the consumer has not authorized the
+19 replacement or repair, and if the supplier knows or should
+20 reasonably know that it is not authorized.
+21 (15) The act of misrepresenting the geographic location of the
+22 supplier by listing an alternate business name or an assumed
+23 business name (as described in IC 23-0.5-3-4) in a local telephone
+24 directory if:
+25 (A) the name misrepresents the supplier's geographic location;
+26 (B) the listing fails to identify the locality and state of the
+27 supplier's business;
+28 (C) calls to the local telephone number are routinely forwarded
+29 or otherwise transferred to a supplier's business location that
+30 is outside the calling area covered by the local telephone
+31 directory; and
+32 (D) the supplier's business location is located in a county that
+33 is not contiguous to a county in the calling area covered by the
+34 local telephone directory.
+35 (16) The act of listing an alternate business name or assumed
+36 business name (as described in IC 23-0.5-3-4) in a directory
+37 assistance data base if:
+38 (A) the name misrepresents the supplier's geographic location;
+39 (B) calls to the local telephone number are routinely forwarded
+40 or otherwise transferred to a supplier's business location that
+41 is outside the local calling area; and
+42 (C) the supplier's business location is located in a county that
+HB 1273—LS 6762/DI 154
+
+12
+1 is not contiguous to a county in the local calling area.
+2 (17) The violation by a supplier of IC 24-3-4 concerning
+3 cigarettes for import or export.
+4 (18) The act of a supplier in knowingly selling or reselling a
+5 product to a consumer if the product has been recalled, whether
+6 by the order of a court or a regulatory body, or voluntarily by the
+7 manufacturer, distributor, or retailer, unless the product has been
+8 repaired or modified to correct the defect that was the subject of
+9 the recall.
+10 (19) The violation by a supplier of 47 U.S.C. 227, including any
+11 rules or regulations issued under 47 U.S.C. 227.
+12 (20) The violation by a supplier of the federal Fair Debt
+13 Collection Practices Act (15 U.S.C. 1692 et seq.), including any
+14 rules or regulations issued under the federal Fair Debt Collection
+15 Practices Act (15 U.S.C. 1692 et seq.).
+16 (21) A violation of IC 24-5-7 (concerning health spa services), as
+17 set forth in IC 24-5-7-17.
+18 (22) A violation of IC 24-5-8 (concerning business opportunity
+19 transactions), as set forth in IC 24-5-8-20.
+20 (23) A violation of IC 24-5-10 (concerning home consumer
+21 transactions), as set forth in IC 24-5-10-18.
+22 (24) A violation of IC 24-5-11 (concerning real property
+23 improvement contracts), as set forth in IC 24-5-11-14.
+24 (25) A violation of IC 24-5-12 (concerning telephone
+25 solicitations), as set forth in IC 24-5-12-23.
+26 (26) A violation of IC 24-5-13.5 (concerning buyback motor
+27 vehicles), as set forth in IC 24-5-13.5-14.
+28 (27) A violation of IC 24-5-14 (concerning automatic
+29 dialing-announcing devices), as set forth in IC 24-5-14-13.
+30 (28) A violation of IC 24-5-15 (concerning credit services
+31 organizations), as set forth in IC 24-5-15-11.
+32 (29) A violation of IC 24-5-16 (concerning unlawful motor
+33 vehicle subleasing), as set forth in IC 24-5-16-18.
+34 (30) A violation of IC 24-5-17 (concerning environmental
+35 marketing claims), as set forth in IC 24-5-17-14.
+36 (31) A violation of IC 24-5-19 (concerning deceptive commercial
+37 solicitation), as set forth in IC 24-5-19-11.
+38 (32) A violation of IC 24-5-21 (concerning prescription drug
+39 discount cards), as set forth in IC 24-5-21-7.
+40 (33) A violation of IC 24-5-23.5-7 (concerning real estate
+41 appraisals), as set forth in IC 24-5-23.5-9.
+42 (34) A violation of IC 24-5-26 (concerning identity theft), as set
+HB 1273—LS 6762/DI 154
+
+13
+1 forth in IC 24-5-26-3.
+2 (35) A violation of IC 24-5.5 (concerning mortgage rescue fraud),
+3 as set forth in IC 24-5.5-6-1.
+4 (36) A violation of IC 24-8 (concerning promotional gifts and
+5 contests), as set forth in IC 24-8-6-3.
+6 (37) A violation of IC 21-18.5-6 (concerning representations
+7 made by a postsecondary credit bearing proprietary educational
+8 institution), as set forth in IC 21-18.5-6-22.5.
+9 (38) A violation of IC 24-5-15.5 (concerning collection actions of
+10 a plaintiff debt buyer), as set forth in IC 24-5-15.5-6.
+11 (39) A violation of IC 24-14 (concerning towing services), as set
+12 forth in IC 24-14-10-1.
+13 (40) A violation of IC 24-5-14.5 (concerning misleading or
+14 inaccurate caller identification information), as set forth in
+15 IC 24-5-14.5-12.
+16 (41) A violation of IC 24-5-27 (concerning intrastate inmate
+17 calling services), as set forth in IC 24-5-27-27.
+18 (42) A violation of IC 15-21 (concerning sales of dogs by retail
+19 pet stores), as set forth in IC 15-21-7-4.
+20 (43) A violation of IC 24-4-23 (concerning the security of
+21 information collected and transmitted by an adult oriented website
+22 operator), as set forth in IC 24-4-23-14.
+23 (44) A violation of IC 24-4-27.5 (concerning proxy advisors),
+24 as set forth in IC 24-4-27.5-12.
+25 (c) Any representations on or within a product or its packaging or
+26 in advertising or promotional materials which would constitute a
+27 deceptive act shall be the deceptive act both of the supplier who places
+28 such representation thereon or therein, or who authored such materials,
+29 and such other suppliers who shall state orally or in writing that such
+30 representation is true if such other supplier shall know or have reason
+31 to know that such representation was false.
+32 (d) If a supplier shows by a preponderance of the evidence that an
+33 act resulted from a bona fide error notwithstanding the maintenance of
+34 procedures reasonably adopted to avoid the error, such act shall not be
+35 deceptive within the meaning of this chapter.
+36 (e) It shall be a defense to any action brought under this chapter that
+37 the representation constituting an alleged deceptive act was one made
+38 in good faith by the supplier without knowledge of its falsity and in
+39 reliance upon the oral or written representations of the manufacturer,
+40 the person from whom the supplier acquired the product, any testing
+41 organization, or any other person provided that the source thereof is
+42 disclosed to the consumer.
+HB 1273—LS 6762/DI 154
+
+14
+1 (f) For purposes of subsection (b)(12), a supplier that provides
+2 estimates before performing repair or replacement work for a customer
+3 shall give the customer a written estimate itemizing as closely as
+4 possible the price for labor and parts necessary for the specific job
+5 before commencing the work.
+6 (g) For purposes of subsection (b)(15) and (b)(16), a telephone
+7 company or other provider of a telephone directory or directory
+8 assistance service or its officer or agent is immune from liability for
+9 publishing the listing of an alternate business name or assumed
+10 business name of a supplier in its directory or directory assistance data
+11 base unless the telephone company or other provider of a telephone
+12 directory or directory assistance service is the same person as the
+13 supplier who has committed the deceptive act.
+14 (h) For purposes of subsection (b)(18), it is an affirmative defense
+15 to any action brought under this chapter that the product has been
+16 altered by a person other than the defendant to render the product
+17 completely incapable of serving its original purpose.
+18 SECTION 4. IC 24-5-0.5-4, AS AMENDED BY P.L.186-2025,
+19 SECTION 133, IS AMENDED TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) A person relying upon an
+21 uncured or incurable deceptive act may bring an action for the damages
+22 actually suffered as a consumer as a result of the deceptive act or five
+23 hundred dollars ($500), whichever is greater. The court may increase
+24 damages for a willful deceptive act in an amount that does not exceed
+25 the greater of:
+26 (1) three (3) times the actual damages of the consumer suffering
+27 the loss; or
+28 (2) one thousand dollars ($1,000).
+29 Except as provided in subsection (k), the court may award reasonable
+30 attorney's fees to the party that prevails in an action under this
+31 subsection. This subsection does not apply to a consumer transaction
+32 in real property, including a claim or action involving a construction
+33 defect (as defined in IC 32-27-3-1(5)) brought against a construction
+34 professional (as defined in IC 32-27-3-1(4)), except for purchases of
+35 time shares and camping club memberships. This subsection does not
+36 apply with respect to a deceptive act described in section 3(b)(20) of
+37 this chapter. This subsection also does not apply to a violation of
+38 IC 24-4.7, IC 24-5-12, IC 24-5-14, or IC 24-5-14.5. Actual damages
+39 awarded to a person under this section have priority over any civil
+40 penalty imposed under this chapter.
+41 (b) Any person who is entitled to bring an action under subsection
+42 (a) on the person's own behalf against a supplier for damages for a
+HB 1273—LS 6762/DI 154
+
+15
+1 deceptive act may bring a class action against such supplier on behalf
+2 of any class of persons of which that person is a member and which has
+3 been damaged by such deceptive act, subject to and under the Indiana
+4 Rules of Trial Procedure governing class actions, except as herein
+5 expressly provided. Except as provided in subsection (k), the court may
+6 award reasonable attorney's fees to the party that prevails in a class
+7 action under this subsection, provided that such fee shall be determined
+8 by the amount of time reasonably expended by the attorney and not by
+9 the amount of the judgment, although the contingency of the fee may
+10 be considered. Except in the case of an extension of time granted by the
+11 attorney general under IC 24-10-2-2(b) in an action subject to IC 24-10,
+12 any money or other property recovered in a class action under this
+13 subsection which cannot, with due diligence, be restored to consumers
+14 within one (1) year after the judgment becomes final shall be returned
+15 to the party depositing the same. This subsection does not apply to a
+16 consumer transaction in real property, except for purchases of time
+17 shares and camping club memberships. This subsection does not apply
+18 with respect to a deceptive act described in section 3(b)(20) of this
+19 chapter. Actual damages awarded to a class have priority over any civil
+20 penalty imposed under this chapter.
+21 (c) The attorney general may bring an action to enjoin an unfair,
+22 abusive, or deceptive act, omission, or practice in connection with a
+23 consumer transaction, including a deceptive act described in section
+24 3(b)(20) of this chapter, notwithstanding subsections (a) and (b).
+25 However, the attorney general may seek to enjoin patterns of incurable
+26 deceptive acts with respect to consumer transactions in real property.
+27 In addition, the court may:
+28 (1) issue an injunction;
+29 (2) order the supplier to make payment of the money unlawfully
+30 received from the aggrieved consumers to be held in escrow for
+31 distribution to aggrieved consumers;
+32 (3) for a knowing violation against a senior consumer, increase
+33 the amount of restitution ordered under subdivision (2) in any
+34 amount up to three (3) times the amount of damages incurred or
+35 value of property or assets lost;
+36 (4) order the supplier to pay to the state the reasonable costs of
+37 the attorney general's investigation and prosecution, expert fees,
+38 and court fees related to the action;
+39 (5) provide for the appointment of a receiver; and
+40 (6) order the department of state revenue to suspend the supplier's
+41 registered retail merchant certificate, subject to the requirements
+42 and prohibitions contained in IC 6-2.5-8-7(a)(5), if the court finds
+HB 1273—LS 6762/DI 154
+
+16
+1 that a violation of this chapter involved the sale or solicited sale
+2 of a synthetic drug (as defined in IC 35-31.5-2-321), a synthetic
+3 drug lookalike substance (as defined in IC 35-31.5-2-321.5
+4 (repealed)) (before July 1, 2019), a controlled substance analog
+5 (as defined in IC 35-48-1.1-8), or a substance represented to be a
+6 controlled substance (as described in IC 35-48-4-4.6).
+7 (d) In an action under subsection (a), (b), (c), or (n) the court may
+8 void or limit the application of contracts or clauses resulting from
+9 deceptive acts and order restitution to be paid to aggrieved consumers.
+10 (e) In any action under subsection (a) or (b), upon the filing of the
+11 complaint or on the appearance of any defendant, claimant, or any
+12 other party, or at any later time, the trial court, the supreme court, or the
+13 court of appeals may require the plaintiff, defendant, claimant, or any
+14 other party or parties to give security, or additional security, in such
+15 sum as the court shall direct to pay all costs, expenses, and
+16 disbursements that shall be awarded against that party or which that
+17 party may be directed to pay by any interlocutory order by the final
+18 judgment or on appeal.
+19 (f) Any person who violates the terms of an injunction issued under
+20 subsection (c) or (n) shall forfeit and pay to the state a civil penalty of
+21 not more than fifteen thousand dollars ($15,000) per violation. For the
+22 purposes of this section, the court issuing an injunction shall retain
+23 jurisdiction, the cause shall be continued, and the attorney general
+24 acting in the name of the state may petition for recovery of civil
+25 penalties. Whenever the court determines that an injunction issued
+26 under subsection (c) or (n) has been violated, the court shall award
+27 reasonable costs to the state.
+28 (g) If a court finds any person has knowingly violated section 3 or
+29 10 of this chapter, other than section 3(b)(19), 3(b)(20), or 3(b)(40) of
+30 this chapter, the attorney general, in an action pursuant to subsection
+31 (c), may recover from the person on behalf of the state a civil penalty
+32 of a fine not exceeding five thousand dollars ($5,000) per violation.
+33 (h) If a court finds that a person has violated section 3(b)(19) of this
+34 chapter, the attorney general, in an action under subsection (c), may
+35 recover from the person on behalf of the state a civil penalty as follows:
+36 (1) For a knowing or intentional violation, one thousand five
+37 hundred dollars ($1,500).
+38 (2) For a violation other than a knowing or intentional violation,
+39 five hundred dollars ($500).
+40 A civil penalty recovered under this subsection shall be deposited in
+41 the consumer protection division telephone solicitation fund
+42 established by IC 24-4.7-3-6 to be used for the administration and
+HB 1273—LS 6762/DI 154
+
+17
+1 enforcement of section 3(b)(19) of this chapter.
+2 (i) A senior consumer relying upon an uncured or incurable
+3 deceptive act, including an act related to hypnotism, may bring an
+4 action to recover treble damages, if appropriate.
+5 (j) An offer to cure is:
+6 (1) not admissible as evidence in a proceeding initiated under this
+7 section unless the offer to cure is delivered by a supplier to the
+8 consumer or a representative of the consumer before the supplier
+9 files the supplier's initial response to a complaint; and
+10 (2) only admissible as evidence in a proceeding initiated under
+11 this section to prove that a supplier is not liable for attorney's fees
+12 under subsection (k).
+13 If the offer to cure is timely delivered by the supplier, the supplier may
+14 submit the offer to cure as evidence to prove in the proceeding in
+15 accordance with the Indiana Rules of Trial Procedure that the supplier
+16 made an offer to cure.
+17 (k) A supplier may not be held liable for the attorney's fees and
+18 court costs of the consumer that are incurred following the timely
+19 delivery of an offer to cure as described in subsection (j) unless the
+20 actual damages awarded, not including attorney's fees and costs, exceed
+21 the value of the offer to cure.
+22 (l) If a court finds that a person has knowingly violated section
+23 3(b)(20) of this chapter, the attorney general, in an action under
+24 subsection (c), may recover from the person on behalf of the state a
+25 civil penalty not exceeding one thousand dollars ($1,000) per
+26 consumer. In determining the amount of the civil penalty in any action
+27 by the attorney general under this subsection, the court shall consider,
+28 among other relevant factors, the frequency and persistence of
+29 noncompliance by the debt collector, the nature of the noncompliance,
+30 and the extent to which the noncompliance was intentional. A person
+31 may not be held liable in any action by the attorney general for a
+32 violation of section 3(b)(20) of this chapter if the person shows by a
+33 preponderance of evidence that the violation was not intentional and
+34 resulted from a bona fide error, notwithstanding the maintenance of
+35 procedures reasonably adapted to avoid the error. A person may not be
+36 held liable in any action for a violation of this chapter for contacting a
+37 person other than the debtor, if the contact is made in compliance with
+38 the Fair Debt Collection Practices Act.
+39 (m) If a court finds that a person has knowingly or intentionally
+40 violated section 3(b)(40) of this chapter, the attorney general, in an
+41 action under subsection (c), may recover from the person on behalf of
+42 the state a civil penalty in accordance with IC 24-5-14.5-12(b). As
+HB 1273—LS 6762/DI 154
+
+18
+1 specified in IC 24-5-14.5-12(b), a civil penalty recovered under
+2 IC 24-5-14.5-12(b) shall be deposited in the consumer protection
+3 division telephone solicitation fund established by IC 24-4.7-3-6 to be
+4 used for the administration and enforcement of IC 24-5-14.5. In
+5 addition to the recovery of a civil penalty in accordance with
+6 IC 24-5-14.5-12(b), the attorney general may also recover reasonable
+7 attorney fees and court costs from the person on behalf of the state.
+8 Those funds shall also be deposited in the consumer protection division
+9 telephone solicitation fund established by IC 24-4.7-3-6.
+10 (n) An action that arises from, or otherwise involves, an unfair,
+11 abusive, or deceptive act, omission, or practice in connection with a
+12 consumer transaction described in section 2(a)(1)(D)(i) or
+13 2(a)(1)(D)(iii) of this chapter may be brought and enforced only by the
+14 attorney general under this subsection. An action that arises from, or
+15 otherwise involves, an unfair, abusive, or deceptive act, omission, or
+16 practice in connection with a consumer transaction described in section
+17 2(a)(1)(D)(ii) or 2(a)(1)(D)(iv) of this chapter may be brought and
+18 enforced only by an attorney acting on behalf of the local law
+19 enforcement agency or local agency involved in the transaction, unless
+20 the local unit of government served by the local law enforcement
+21 agency or local agency requests the attorney general to bring and
+22 enforce an action under this subsection on behalf of the local unit. In
+23 addition, the court may:
+24 (1) issue an injunction;
+25 (2) order the supplier to make payment of the money unlawfully
+26 received from the aggrieved consumers to be held in escrow for
+27 distribution to aggrieved consumers; or
+28 (3) order the supplier to pay to:
+29 (A) the attorney acting on behalf of the local law enforcement
+30 agency or local agency; or
+31 (B) the attorney general for the state;
+32 as applicable, the reasonable costs of the attorney's or the attorney
+33 general's investigation and prosecution, expert fees, and court fees
+34 related to the action.
+35 The time for bringing an action under subsection (c), as set forth in
+36 section 5(b) of this chapter, applies to an action brought under this
+37 subsection.
+HB 1273—LS 6762/DI 154
+
+19
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Financial Institutions, to which
+was referred House Bill 1273, has had the same under consideration
+and begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 5, after line 41, begin a new paragraph and insert:
+"SECTION 2. IC 24-5-0.5-2, AS AMENDED BY P.L.206-2025,
+SECTION 5, AND AS AMENDED BY P.L.227-2025, SECTION 42,
+AND AS AMENDED BY THE TECHNICAL CORRECTIONS BILL
+OF THE 2026 GENERAL ASSEMBLY, IS CORRECTED AND
+AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]:
+Sec. 2. (a) As used in this chapter:
+(1) "Consumer transaction" means a sale, lease, assignment,
+award by chance, or other disposition of an item of personal
+property, real property, a service, or an intangible, except
+securities and policies or contracts of insurance issued by
+corporations authorized to transact an insurance business under
+the laws of the state of Indiana, with or without an extension of
+credit, to a person for purposes that are primarily personal,
+familial, charitable, agricultural, or household, or a solicitation to
+supply any of these things. However, the term includes the
+following:
+(A) A transfer of structured settlement payment rights under
+IC 34-50-2.
+(B) An unsolicited advertisement sent to a person by telephone
+facsimile machine offering a sale, lease, assignment, award by
+chance, or other disposition of an item of personal property,
+real property, a service, or an intangible.
+(C) The collection of or attempt to collect a debt by a debt
+collector.
+(D) The provision of a product or service to a:
+(i) state law enforcement agency; or
+(ii) local law enforcement agency;
+(iii) state agency; or
+(iv) local agency;
+in Indiana.
+(D) (E) Conduct that arises from, occurs in connection with,
+or otherwise involves a transaction for emergency towing (as
+defined in IC 24-14-2-5) of a personal or commercial vehicle.
+(2) "Person" means an individual, corporation, the state of Indiana
+or its subdivisions or agencies, business trust, estate, trust,
+HB 1273—LS 6762/DI 154
+
+20
+partnership, association, nonprofit corporation or organization, or
+cooperative or any other legal entity.
+(3) "Supplier" means the following:
+(A) A seller, lessor, assignor, or other person who regularly
+engages in or solicits consumer transactions, including
+soliciting a consumer transaction by using a telephone
+facsimile machine to transmit an unsolicited advertisement.
+The term includes a manufacturer, a wholesaler, or a retailer,
+or, in a consumer transaction described in subdivision (1)(D),
+an entity that provides a product or service to a state law
+enforcement agency, or local law enforcement agency, state
+agency, or local agency in Indiana, whether or not the person
+deals directly with the consumer.
+(B) A debt collector.
+(4) "Subject of a consumer transaction" means the personal
+property, real property, services, or intangibles offered or
+furnished in a consumer transaction.
+(5) "Cure" as applied to a deceptive act, means either:
+(A) to offer in writing to adjust or modify the consumer
+transaction to which the act relates to conform to the
+reasonable expectations of the consumer generated by such
+deceptive act and to perform such offer if accepted by the
+consumer; or
+(B) to offer in writing to rescind such consumer transaction
+and to perform such offer if accepted by the consumer.
+The term includes an offer in writing of one (1) or more items of
+value, including monetary compensation, that the supplier
+delivers to a consumer or a representative of the consumer if
+accepted by the consumer.
+(6) "Offer to cure" as applied to a deceptive act is a cure that:
+(A) is reasonably calculated to remedy a loss claimed by the
+consumer; and
+(B) includes a minimum additional amount that is the greater
+of:
+(i) ten percent (10%) of the value of the remedy under
+clause (A), but not more than four thousand dollars
+($4,000); or
+(ii) five hundred dollars ($500);
+as compensation for attorney's fees, expenses, and other costs
+that a consumer may incur in relation to the deceptive act.
+(7) "Uncured deceptive act" means: a deceptive act:
+(A) a deceptive act with respect to which a consumer who has
+HB 1273—LS 6762/DI 154
+
+21
+been damaged by such act has given notice to the supplier
+under section 5(a) of this chapter; and
+(B) either:
+(i) no offer to cure has been made to such consumer within
+thirty (30) days after such notice; or
+(ii) the act has not been cured as to such consumer within a
+reasonable time after the consumer's acceptance of the offer
+to cure.
+(8) "Incurable deceptive act" means a deceptive act done by a
+supplier as part of a scheme, artifice, or device with intent to
+defraud or mislead. The term includes a failure of a transferee of
+structured settlement payment rights to timely provide a true and
+complete disclosure statement to a payee as provided under
+IC 34-50-2 in connection with a direct or indirect transfer of
+structured settlement payment rights.
+(9) "Local agency" means an administration, an agency, an
+authority, a board, a bureau, a commission, a committee, a
+council, a department, a division, an institution, an office, an
+officer, a service, or other similar body of a political
+subdivision created or established under law.
+(10) "Political subdivision" means a county, township, city,
+town, municipal corporation (as defined in IC 36-1-2-10), or
+special taxing district. However, the term does not include a
+school corporation or charter school.
+(9) (11) "Senior consumer" means an individual who is at least
+sixty (60) years of age.
+(12) "State agency" means an administration, an agency, an
+authority, a board, a bureau, a commission, a committee, a
+council, a department, a division, an institution, an office, an
+officer, a service, or other similar body of state government
+created or established under law. The term includes a body
+corporate and politic of the state created by statute. The term
+does not include a state educational institution (as defined in
+IC 21-7-13-32).
+(10) (13) "Telephone facsimile machine" means equipment that
+has the capacity to transcribe text or images, or both, from:
+(A) paper into an electronic signal and to transmit that signal
+over a regular telephone line; or
+(B) an electronic signal received over a regular telephone line
+onto paper.
+(11) (14) "Unsolicited advertisement" means material advertising
+the commercial availability or quality of:
+HB 1273—LS 6762/DI 154
+
+22
+(A) property;
+(B) goods; or
+(C) services;
+that is transmitted to a person without the person's prior express
+invitation or permission, in writing or otherwise.
+(12) (15) "Debt" has the meaning set forth in 15 U.S.C.
+1692(a)(5).
+(13) (16) "Debt collector" has the meaning set forth in 15 U.S.C.
+1692(a)(6). The term does not include a person admitted to the
+practice of law in Indiana if the person is acting within the course
+and scope of the person's practice as an attorney. The term
+includes a debt buyer (as defined in IC 24-5-15.5).
+(b) As used in section 3(b)(15) and 3(b)(16) of this chapter:
+(1) "Directory assistance" means the disclosure of telephone
+number information in connection with an identified telephone
+service subscriber by means of a live operator or automated
+service.
+(2) "Local telephone directory" refers to a telephone classified
+advertising directory or the business section of a telephone
+directory that is distributed by a telephone company or directory
+publisher to subscribers located in the local exchanges contained
+in the directory. The term includes a directory that includes
+listings of more than one (1) telephone company.
+(3) "Local telephone number" refers to a telephone number that
+has the three (3) number prefix used by the provider of telephone
+service for telephones physically located within the area covered
+by the local telephone directory in which the number is listed. The
+term does not include long distance numbers or 800-, 888-, or
+900- exchange numbers listed in a local telephone directory.
+SECTION 3. IC 24-5-0.5-3, AS AMENDED BY P.L.104-2024,
+SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 3. (a) A supplier may not commit an unfair,
+abusive, or deceptive act, omission, or practice in connection with a
+consumer transaction. Such an act, omission, or practice by a supplier
+is a violation of this chapter whether it occurs before, during, or after
+the transaction. An act, omission, or practice prohibited by this section
+includes both implicit and explicit misrepresentations.
+(b) Without limiting the scope of subsection (a), the following acts,
+and the following representations as to the subject matter of a
+consumer transaction, made orally, in writing, or by electronic
+communication, by a supplier, are deceptive acts:
+(1) That such subject of a consumer transaction has sponsorship,
+HB 1273—LS 6762/DI 154
+
+23
+approval, performance, characteristics, accessories, uses, or
+benefits it does not have which the supplier knows or should
+reasonably know it does not have.
+(2) That such subject of a consumer transaction is of a particular
+standard, quality, grade, style, or model, if it is not and if the
+supplier knows or should reasonably know that it is not.
+(3) That such subject of a consumer transaction is new or unused,
+if it is not and if the supplier knows or should reasonably know
+that it is not.
+(4) That such subject of a consumer transaction will be supplied
+to the public in greater quantity than the supplier intends or
+reasonably expects.
+(5) That replacement or repair constituting the subject of a
+consumer transaction is needed, if it is not and if the supplier
+knows or should reasonably know that it is not.
+(6) That a specific price advantage exists as to such subject of a
+consumer transaction, if it does not and if the supplier knows or
+should reasonably know that it does not.
+(7) That the supplier has a sponsorship, approval, or affiliation in
+such consumer transaction the supplier does not have, and which
+the supplier knows or should reasonably know that the supplier
+does not have.
+(8) That such consumer transaction involves or does not involve
+a warranty, a disclaimer of warranties, or other rights, remedies,
+or obligations, if the representation is false and if the supplier
+knows or should reasonably know that the representation is false.
+(9) That the consumer will receive a rebate, discount, or other
+benefit as an inducement for entering into a sale or lease in return
+for giving the supplier the names of prospective consumers or
+otherwise helping the supplier to enter into other consumer
+transactions, if earning the benefit, rebate, or discount is
+contingent upon the occurrence of an event subsequent to the time
+the consumer agrees to the purchase or lease.
+(10) That the supplier is able to deliver or complete the subject of
+the consumer transaction within a stated period of time, when the
+supplier knows or should reasonably know the supplier could not.
+If no time period has been stated by the supplier, there is a
+presumption that the supplier has represented that the supplier
+will deliver or complete the subject of the consumer transaction
+within a reasonable time, according to the course of dealing or the
+usage of the trade.
+(11) That the consumer will be able to purchase the subject of the
+HB 1273—LS 6762/DI 154
+
+24
+consumer transaction as advertised by the supplier, if the supplier
+does not intend to sell it.
+(12) That the replacement or repair constituting the subject of a
+consumer transaction can be made by the supplier for the estimate
+the supplier gives a customer for the replacement or repair, if the
+specified work is completed and:
+(A) the cost exceeds the estimate by an amount equal to or
+greater than ten percent (10%) of the estimate;
+(B) the supplier did not obtain written permission from the
+customer to authorize the supplier to complete the work even
+if the cost would exceed the amounts specified in clause (A);
+(C) the total cost for services and parts for a single transaction
+is more than seven hundred fifty dollars ($750); and
+(D) the supplier knew or reasonably should have known that
+the cost would exceed the estimate in the amounts specified in
+clause (A).
+(13) That the replacement or repair constituting the subject of a
+consumer transaction is needed, and that the supplier disposes of
+the part repaired or replaced earlier than seventy-two (72) hours
+after both:
+(A) the customer has been notified that the work has been
+completed; and
+(B) the part repaired or replaced has been made available for
+examination upon the request of the customer.
+(14) Engaging in the replacement or repair of the subject of a
+consumer transaction if the consumer has not authorized the
+replacement or repair, and if the supplier knows or should
+reasonably know that it is not authorized.
+(15) The act of misrepresenting the geographic location of the
+supplier by listing an alternate business name or an assumed
+business name (as described in IC 23-0.5-3-4) in a local telephone
+directory if:
+(A) the name misrepresents the supplier's geographic location;
+(B) the listing fails to identify the locality and state of the
+supplier's business;
+(C) calls to the local telephone number are routinely forwarded
+or otherwise transferred to a supplier's business location that
+is outside the calling area covered by the local telephone
+directory; and
+(D) the supplier's business location is located in a county that
+is not contiguous to a county in the calling area covered by the
+local telephone directory.
+HB 1273—LS 6762/DI 154
+
+25
+(16) The act of listing an alternate business name or assumed
+business name (as described in IC 23-0.5-3-4) in a directory
+assistance data base if:
+(A) the name misrepresents the supplier's geographic location;
+(B) calls to the local telephone number are routinely forwarded
+or otherwise transferred to a supplier's business location that
+is outside the local calling area; and
+(C) the supplier's business location is located in a county that
+is not contiguous to a county in the local calling area.
+(17) The violation by a supplier of IC 24-3-4 concerning
+cigarettes for import or export.
+(18) The act of a supplier in knowingly selling or reselling a
+product to a consumer if the product has been recalled, whether
+by the order of a court or a regulatory body, or voluntarily by the
+manufacturer, distributor, or retailer, unless the product has been
+repaired or modified to correct the defect that was the subject of
+the recall.
+(19) The violation by a supplier of 47 U.S.C. 227, including any
+rules or regulations issued under 47 U.S.C. 227.
+(20) The violation by a supplier of the federal Fair Debt
+Collection Practices Act (15 U.S.C. 1692 et seq.), including any
+rules or regulations issued under the federal Fair Debt Collection
+Practices Act (15 U.S.C. 1692 et seq.).
+(21) A violation of IC 24-5-7 (concerning health spa services), as
+set forth in IC 24-5-7-17.
+(22) A violation of IC 24-5-8 (concerning business opportunity
+transactions), as set forth in IC 24-5-8-20.
+(23) A violation of IC 24-5-10 (concerning home consumer
+transactions), as set forth in IC 24-5-10-18.
+(24) A violation of IC 24-5-11 (concerning real property
+improvement contracts), as set forth in IC 24-5-11-14.
+(25) A violation of IC 24-5-12 (concerning telephone
+solicitations), as set forth in IC 24-5-12-23.
+(26) A violation of IC 24-5-13.5 (concerning buyback motor
+vehicles), as set forth in IC 24-5-13.5-14.
+(27) A violation of IC 24-5-14 (concerning automatic
+dialing-announcing devices), as set forth in IC 24-5-14-13.
+(28) A violation of IC 24-5-15 (concerning credit services
+organizations), as set forth in IC 24-5-15-11.
+(29) A violation of IC 24-5-16 (concerning unlawful motor
+vehicle subleasing), as set forth in IC 24-5-16-18.
+(30) A violation of IC 24-5-17 (concerning environmental
+HB 1273—LS 6762/DI 154
+
+26
+marketing claims), as set forth in IC 24-5-17-14.
+(31) A violation of IC 24-5-19 (concerning deceptive commercial
+solicitation), as set forth in IC 24-5-19-11.
+(32) A violation of IC 24-5-21 (concerning prescription drug
+discount cards), as set forth in IC 24-5-21-7.
+(33) A violation of IC 24-5-23.5-7 (concerning real estate
+appraisals), as set forth in IC 24-5-23.5-9.
+(34) A violation of IC 24-5-26 (concerning identity theft), as set
+forth in IC 24-5-26-3.
+(35) A violation of IC 24-5.5 (concerning mortgage rescue fraud),
+as set forth in IC 24-5.5-6-1.
+(36) A violation of IC 24-8 (concerning promotional gifts and
+contests), as set forth in IC 24-8-6-3.
+(37) A violation of IC 21-18.5-6 (concerning representations
+made by a postsecondary credit bearing proprietary educational
+institution), as set forth in IC 21-18.5-6-22.5.
+(38) A violation of IC 24-5-15.5 (concerning collection actions of
+a plaintiff debt buyer), as set forth in IC 24-5-15.5-6.
+(39) A violation of IC 24-14 (concerning towing services), as set
+forth in IC 24-14-10-1.
+(40) A violation of IC 24-5-14.5 (concerning misleading or
+inaccurate caller identification information), as set forth in
+IC 24-5-14.5-12.
+(41) A violation of IC 24-5-27 (concerning intrastate inmate
+calling services), as set forth in IC 24-5-27-27.
+(42) A violation of IC 15-21 (concerning sales of dogs by retail
+pet stores), as set forth in IC 15-21-7-4.
+(43) A violation of IC 24-4-23 (concerning the security of
+information collected and transmitted by an adult oriented website
+operator), as set forth in IC 24-4-23-14.
+(44) A violation of IC 24-4-27.5 (concerning proxy advisors),
+as set forth in IC 24-4-27.5-12.
+(c) Any representations on or within a product or its packaging or
+in advertising or promotional materials which would constitute a
+deceptive act shall be the deceptive act both of the supplier who places
+such representation thereon or therein, or who authored such materials,
+and such other suppliers who shall state orally or in writing that such
+representation is true if such other supplier shall know or have reason
+to know that such representation was false.
+(d) If a supplier shows by a preponderance of the evidence that an
+act resulted from a bona fide error notwithstanding the maintenance of
+procedures reasonably adopted to avoid the error, such act shall not be
+HB 1273—LS 6762/DI 154
+
+27
+deceptive within the meaning of this chapter.
+(e) It shall be a defense to any action brought under this chapter that
+the representation constituting an alleged deceptive act was one made
+in good faith by the supplier without knowledge of its falsity and in
+reliance upon the oral or written representations of the manufacturer,
+the person from whom the supplier acquired the product, any testing
+organization, or any other person provided that the source thereof is
+disclosed to the consumer.
+(f) For purposes of subsection (b)(12), a supplier that provides
+estimates before performing repair or replacement work for a customer
+shall give the customer a written estimate itemizing as closely as
+possible the price for labor and parts necessary for the specific job
+before commencing the work.
+(g) For purposes of subsection (b)(15) and (b)(16), a telephone
+company or other provider of a telephone directory or directory
+assistance service or its officer or agent is immune from liability for
+publishing the listing of an alternate business name or assumed
+business name of a supplier in its directory or directory assistance data
+base unless the telephone company or other provider of a telephone
+directory or directory assistance service is the same person as the
+supplier who has committed the deceptive act.
+(h) For purposes of subsection (b)(18), it is an affirmative defense
+to any action brought under this chapter that the product has been
+altered by a person other than the defendant to render the product
+completely incapable of serving its original purpose.
+SECTION 4. IC 24-5-0.5-4, AS AMENDED BY P.L.186-2025,
+SECTION 133, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 4. (a) A person relying upon an
+uncured or incurable deceptive act may bring an action for the damages
+actually suffered as a consumer as a result of the deceptive act or five
+hundred dollars ($500), whichever is greater. The court may increase
+damages for a willful deceptive act in an amount that does not exceed
+the greater of:
+(1) three (3) times the actual damages of the consumer suffering
+the loss; or
+(2) one thousand dollars ($1,000).
+Except as provided in subsection (k), the court may award reasonable
+attorney's fees to the party that prevails in an action under this
+subsection. This subsection does not apply to a consumer transaction
+in real property, including a claim or action involving a construction
+defect (as defined in IC 32-27-3-1(5)) brought against a construction
+professional (as defined in IC 32-27-3-1(4)), except for purchases of
+HB 1273—LS 6762/DI 154
+
+28
+time shares and camping club memberships. This subsection does not
+apply with respect to a deceptive act described in section 3(b)(20) of
+this chapter. This subsection also does not apply to a violation of
+IC 24-4.7, IC 24-5-12, IC 24-5-14, or IC 24-5-14.5. Actual damages
+awarded to a person under this section have priority over any civil
+penalty imposed under this chapter.
+(b) Any person who is entitled to bring an action under subsection
+(a) on the person's own behalf against a supplier for damages for a
+deceptive act may bring a class action against such supplier on behalf
+of any class of persons of which that person is a member and which has
+been damaged by such deceptive act, subject to and under the Indiana
+Rules of Trial Procedure governing class actions, except as herein
+expressly provided. Except as provided in subsection (k), the court may
+award reasonable attorney's fees to the party that prevails in a class
+action under this subsection, provided that such fee shall be determined
+by the amount of time reasonably expended by the attorney and not by
+the amount of the judgment, although the contingency of the fee may
+be considered. Except in the case of an extension of time granted by the
+attorney general under IC 24-10-2-2(b) in an action subject to IC 24-10,
+any money or other property recovered in a class action under this
+subsection which cannot, with due diligence, be restored to consumers
+within one (1) year after the judgment becomes final shall be returned
+to the party depositing the same. This subsection does not apply to a
+consumer transaction in real property, except for purchases of time
+shares and camping club memberships. This subsection does not apply
+with respect to a deceptive act described in section 3(b)(20) of this
+chapter. Actual damages awarded to a class have priority over any civil
+penalty imposed under this chapter.
+(c) The attorney general may bring an action to enjoin an unfair,
+abusive, or deceptive act, omission, or practice in connection with a
+consumer transaction, including a deceptive act described in section
+3(b)(20) of this chapter, notwithstanding subsections (a) and (b).
+However, the attorney general may seek to enjoin patterns of incurable
+deceptive acts with respect to consumer transactions in real property.
+In addition, the court may:
+(1) issue an injunction;
+(2) order the supplier to make payment of the money unlawfully
+received from the aggrieved consumers to be held in escrow for
+distribution to aggrieved consumers;
+(3) for a knowing violation against a senior consumer, increase
+the amount of restitution ordered under subdivision (2) in any
+amount up to three (3) times the amount of damages incurred or
+HB 1273—LS 6762/DI 154
+
+29
+value of property or assets lost;
+(4) order the supplier to pay to the state the reasonable costs of
+the attorney general's investigation and prosecution, expert fees,
+and court fees related to the action;
+(5) provide for the appointment of a receiver; and
+(6) order the department of state revenue to suspend the supplier's
+registered retail merchant certificate, subject to the requirements
+and prohibitions contained in IC 6-2.5-8-7(a)(5), if the court finds
+that a violation of this chapter involved the sale or solicited sale
+of a synthetic drug (as defined in IC 35-31.5-2-321), a synthetic
+drug lookalike substance (as defined in IC 35-31.5-2-321.5
+(repealed)) (before July 1, 2019), a controlled substance analog
+(as defined in IC 35-48-1.1-8), or a substance represented to be a
+controlled substance (as described in IC 35-48-4-4.6).
+(d) In an action under subsection (a), (b), (c), or (n) the court may
+void or limit the application of contracts or clauses resulting from
+deceptive acts and order restitution to be paid to aggrieved consumers.
+(e) In any action under subsection (a) or (b), upon the filing of the
+complaint or on the appearance of any defendant, claimant, or any
+other party, or at any later time, the trial court, the supreme court, or the
+court of appeals may require the plaintiff, defendant, claimant, or any
+other party or parties to give security, or additional security, in such
+sum as the court shall direct to pay all costs, expenses, and
+disbursements that shall be awarded against that party or which that
+party may be directed to pay by any interlocutory order by the final
+judgment or on appeal.
+(f) Any person who violates the terms of an injunction issued under
+subsection (c) or (n) shall forfeit and pay to the state a civil penalty of
+not more than fifteen thousand dollars ($15,000) per violation. For the
+purposes of this section, the court issuing an injunction shall retain
+jurisdiction, the cause shall be continued, and the attorney general
+acting in the name of the state may petition for recovery of civil
+penalties. Whenever the court determines that an injunction issued
+under subsection (c) or (n) has been violated, the court shall award
+reasonable costs to the state.
+(g) If a court finds any person has knowingly violated section 3 or
+10 of this chapter, other than section 3(b)(19), 3(b)(20), or 3(b)(40) of
+this chapter, the attorney general, in an action pursuant to subsection
+(c), may recover from the person on behalf of the state a civil penalty
+of a fine not exceeding five thousand dollars ($5,000) per violation.
+(h) If a court finds that a person has violated section 3(b)(19) of this
+chapter, the attorney general, in an action under subsection (c), may
+HB 1273—LS 6762/DI 154
+
+30
+recover from the person on behalf of the state a civil penalty as follows:
+(1) For a knowing or intentional violation, one thousand five
+hundred dollars ($1,500).
+(2) For a violation other than a knowing or intentional violation,
+five hundred dollars ($500).
+A civil penalty recovered under this subsection shall be deposited in
+the consumer protection division telephone solicitation fund
+established by IC 24-4.7-3-6 to be used for the administration and
+enforcement of section 3(b)(19) of this chapter.
+(i) A senior consumer relying upon an uncured or incurable
+deceptive act, including an act related to hypnotism, may bring an
+action to recover treble damages, if appropriate.
+(j) An offer to cure is:
+(1) not admissible as evidence in a proceeding initiated under this
+section unless the offer to cure is delivered by a supplier to the
+consumer or a representative of the consumer before the supplier
+files the supplier's initial response to a complaint; and
+(2) only admissible as evidence in a proceeding initiated under
+this section to prove that a supplier is not liable for attorney's fees
+under subsection (k).
+If the offer to cure is timely delivered by the supplier, the supplier may
+submit the offer to cure as evidence to prove in the proceeding in
+accordance with the Indiana Rules of Trial Procedure that the supplier
+made an offer to cure.
+(k) A supplier may not be held liable for the attorney's fees and
+court costs of the consumer that are incurred following the timely
+delivery of an offer to cure as described in subsection (j) unless the
+actual damages awarded, not including attorney's fees and costs, exceed
+the value of the offer to cure.
+(l) If a court finds that a person has knowingly violated section
+3(b)(20) of this chapter, the attorney general, in an action under
+subsection (c), may recover from the person on behalf of the state a
+civil penalty not exceeding one thousand dollars ($1,000) per
+consumer. In determining the amount of the civil penalty in any action
+by the attorney general under this subsection, the court shall consider,
+among other relevant factors, the frequency and persistence of
+noncompliance by the debt collector, the nature of the noncompliance,
+and the extent to which the noncompliance was intentional. A person
+may not be held liable in any action by the attorney general for a
+violation of section 3(b)(20) of this chapter if the person shows by a
+preponderance of evidence that the violation was not intentional and
+resulted from a bona fide error, notwithstanding the maintenance of
+HB 1273—LS 6762/DI 154
+
+31
+procedures reasonably adapted to avoid the error. A person may not be
+held liable in any action for a violation of this chapter for contacting a
+person other than the debtor, if the contact is made in compliance with
+the Fair Debt Collection Practices Act.
+(m) If a court finds that a person has knowingly or intentionally
+violated section 3(b)(40) of this chapter, the attorney general, in an
+action under subsection (c), may recover from the person on behalf of
+the state a civil penalty in accordance with IC 24-5-14.5-12(b). As
+specified in IC 24-5-14.5-12(b), a civil penalty recovered under
+IC 24-5-14.5-12(b) shall be deposited in the consumer protection
+division telephone solicitation fund established by IC 24-4.7-3-6 to be
+used for the administration and enforcement of IC 24-5-14.5. In
+addition to the recovery of a civil penalty in accordance with
+IC 24-5-14.5-12(b), the attorney general may also recover reasonable
+attorney fees and court costs from the person on behalf of the state.
+Those funds shall also be deposited in the consumer protection division
+telephone solicitation fund established by IC 24-4.7-3-6.
+(n) An action that arises from, or otherwise involves, an unfair,
+abusive, or deceptive act, omission, or practice in connection with a
+consumer transaction described in section 2(a)(1)(D)(i) or
+2(a)(1)(D)(iii) of this chapter may be brought and enforced only by the
+attorney general under this subsection. An action that arises from, or
+otherwise involves, an unfair, abusive, or deceptive act, omission, or
+practice in connection with a consumer transaction described in section
+2(a)(1)(D)(ii) or 2(a)(1)(D)(iv) of this chapter may be brought and
+enforced only by an attorney acting on behalf of the local law
+enforcement agency or local agency involved in the transaction, unless
+the local unit of government served by the local law enforcement
+agency or local agency requests the attorney general to bring and
+enforce an action under this subsection on behalf of the local unit. In
+addition, the court may:
+(1) issue an injunction;
+(2) order the supplier to make payment of the money unlawfully
+received from the aggrieved consumers to be held in escrow for
+distribution to aggrieved consumers; or
+(3) order the supplier to pay to:
+(A) the attorney acting on behalf of the local law enforcement
+agency or local agency; or
+(B) the attorney general for the state;
+as applicable, the reasonable costs of the attorney's or the attorney
+general's investigation and prosecution, expert fees, and court fees
+related to the action.
+HB 1273—LS 6762/DI 154
+
+32
+The time for bringing an action under subsection (c), as set forth in
+section 5(b) of this chapter, applies to an action brought under this
+subsection.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1273 as introduced.)
+TESHKA
+Committee Vote: yeas 10, nays 0.
+HB 1273—LS 6762/DI 154
+
+[DELETED:  p c v a e m o e ( A t t t p a p t p p b t p a ( i t]
+[DELETED:  p o m a d r o p o b o a i h r p a ( t a a t a f a c t]
+[DELETED:  m a s o r p o g g p ( d i I 2 a l l p ( d i]
+[DELETED:  i n a p u t r s i o a p r t d n o e c c t s a o e p o a a s i a b c ( d i f c p a p a s t]
+[DELETED:  c t a d r o p c v s t t p a h m t o p w u a w a r t i t t a t e s t a l t]
+[DELETED:  a s t t p a h m  a t e s t a l t a t e s t a l t]
+[DELETED:  M t w f a d i ( a t a i h o a p]
+[DELETED:  T 2 G A I C A " t m a s l a r p a s o a i e a p o c o i i b t a p f p t a p p a o t t H t t i t i s o a b t e t i o s c t i a c t b u a t]
+[DELETED:  " o a c t m t p r p s o i o o t o i w t a o m t c t w t a r t c t t i m c t t s ( b n m t f t d]
+[DELETED:  d s t a p a p u a s o o s b o a p ( " h t m s f i 1 U]
+[DELETED:  s o t p p a a a T t " a m t d o t o d o t b s o a t t d T t i a d t i t f r a t t s m o  t m o i w o b e p c a u o]
+[DELETED:  T r o r c t s o  h t s t e i o c i e t b r o d i]
+[DELETED:  o r a i t s k o s c]
+[DELETED:  T v b a s o I 2 c T v b a s o t f F D A v o I 2 ( h c A v o I 2 ( r p A v o I 2 ( t A v o I 2 ( a A v o I 2 ( c s A v o I 2 ( u m A v o I 2 ( e A v o I 2 ( r e]
+[DELETED:  A v o I 2 ( m o c i i a s f i A v o I 2 ( t s o a o p m w w c ]
+[DELETED:  o o p o a t d o d t l o a a b n o a 1 I A T R A F f t t p t p i a a u t]
+[DELETED:  o t c n s ( a (]
+[DELETED:  l s ( d i I 3 a t c s d t p a c e a c p d t s f]
+[DELETED:  A s c r u a u o i o t c t a g i a a u p n e o t d ( p o r f t f a p o]
+[DELETED:  i I 2 a c p r u 2 s b d i t c p f t a a e o I 2 I t t r o a c p i a w t d i s 2 o o b a a a o b o t l l]
+[DELETED:  b l t r t s b t t H w t T 2 G A I C A " t m a s l a r p a s o a i e a p o c o i i b t a p f p t a p p a o t t H t t i t i s o a b t e t]
+[DELETED:  i o s c t i a c t b u a t " o a c t m t p r p s o i o o t o i w t a o m t c t w t a r t c t t i m c t t s r ( b n m t f t d]
+[DELETED:  d s t a p a p u a s o o s b o a p]
+[DELETED:  ( " h t m s f i 1 U s o t p p a a a T t " a m t d o t a d o t b s o a t t d T t i a d t i t f r a t t s m o  t m o i w o b e]
+[DELETED:  p c a u o T r o r c t s o  h t s t e i o c i e t b r o d i s]
+[DELETED:  o r a i t s k o s]
+[DELETED:  T v b a s o I 2 c T v b a s o t f F D A v o I 2 ( h c A v o I 2 ( r p A v o I 2 ( t A v o I 2 ( a A v o I 2 ( c s A v o I 2 ( u m A v o I 2 ( e]
+[DELETED:  A v o I 2 ( r e A v o I 2 ( m o c i i a s f i A v o I 2 ( t s o a o p m w w c ]
+[DELETED:  o o p o a t d o d t l o a a b n o a 1 I A T R A F f t t p t p i a a u t]
+[DELETED:  o t c n s ( a (]
+[DELETED:  l s ( d i I 3 a t c s d t p a c e a]
+[DELETED:  c p d t s f A s c r u a u o i o t c t a g i a a u p n e o t d ( p o r f t f a p o]
+[DELETED:  i I 2 a c p r u 2 s b d i t c p f t a a e o I 2 I t t r o a c p i a w t d i s 2 o o b a a a o b o t l l]

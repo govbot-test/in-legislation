@@ -1,0 +1,436 @@
+Title: Second Regular Session of the 124th General Assembly (2026)
+Official Title: Second Regular Session of the 124th General Assembly (2026)
+Number of Sections: 5
+Source: versions - Enrolled Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 240
+AN ACT to amend the Indiana Code concerning utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+
+Section 2:
+SECTION 1. IC 8-1-8.5-3.6 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]: Sec. 3.6. (a) As used in this section, "electric utility" refers
+to an electric utility listed in 170 IAC 4-7-2(a).
+(b) As used in this section, "interconnection service" refers to a
+service that is:
+(1) established in a standard large generator interconnection
+agreement, as defined in the Federal Energy Regulatory
+Commission's pro forma Large Generator Interconnection
+Procedures for electric generating facilities having a
+generating facility capacity of more than twenty (20)
+megawatts;
+(2) provided by an electric transmission provider; and
+(3) associated with interconnecting a generating facility with
+the transmission provider's transmission system and enabling
+the transmission system to receive electric energy and
+capacity from the generating facility at the point of
+interconnection.
+(c) As used in this section, "surplus interconnection service"
+means any portion of interconnection service that:
+(1) has not been used; and
+(2) is not reasonably expected to be needed;
+SEA 240 — Concur
+2
+the use of which would result in the total amount of
+interconnection service at the point of interconnection remaining
+the same.
+(d) As used in this section, "third party facility", with respect to
+an electric utility, means a generating facility that is not owned or
+operated by the electric utility or an affiliate of the electric utility.
+(e) In any integrated resource plan filed with the commission
+under 170 IAC 4-7 after December 31, 2029, an electric utility must
+include an analysis of the potential for surplus interconnection
+service to meet immediate needs for capacity and energy at
+facilities owned by the electric utility. In performing the analysis
+required under this subsection, an electric utility shall assess the
+potential use of surplus interconnection service at utility owned
+facilities with surplus interconnection service greater than twenty
+(20) megawatts. In addition, the electric utility may solicit
+information concerning the potential use of surplus interconnection
+service at third party facilities, including the willingness of the
+owners or operators of third party facilities to accommodate
+surplus interconnection service. The electric utility may include in
+its integrated resource plan the results of a solicitation made under
+this subsection to the extent that the electric utility receives
+information concerning viable opportunities for the use of surplus
+interconnection service at the third party facilities considered in
+the solicitation.
+(f) In an integrated resource plan filed with the commission
+after December 31, 2029, an electric utility may include, in addition
+to the information set forth in subsection (e), the proposed use of
+more than one hundred percent (100%) of the surplus
+interconnection service at a utility owned facility or a third party
+facility so as to facilitate the use of the entire interconnection
+service established for the facility in a standard large generator
+interconnection agreement, so long as the use of the proposed
+surplus interconnection service when combined with the existing
+used capacity does not exceed the total interconnection service
+established for the facility in the standard large generator
+interconnection agreement.
+
+Section 3:
+SECTION 2. IC 8-1-8.5-4, AS AMENDED BY P.L.55-2023,
+
+Section 4:
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 4. (a) As used in this section, "federal phaseout
+mandate" means any federal statutory or regulatory requirement that:
+(1) is established after April 20, 2021, by the Congress of the
+United States, a federal regulatory agency, or a federal executive
+SEA 240 — Concur
+3
+order; and
+(2) requires the phaseout or discontinuance of a particular type of
+electric generating facility, technology, or fuel source.
+(b) As used in this section, "surplus interconnection service" has
+the meaning set forth in section 3.6 of this chapter.
+(b) (c) In acting upon any petition for the construction, purchase, or
+lease of any facility for the generation of electricity, the commission
+shall take into account the following:
+(1) The applicant's current and potential arrangement with other
+electric utilities for:
+(A) the interchange of power;
+(B) the pooling of facilities;
+(C) the purchase of power; and
+(D) joint ownership of facilities.
+(2) Other methods for providing reliable, efficient, and
+economical electric service, including the refurbishment of
+existing facilities, conservation, load management, cogeneration,
+and renewable energy sources.
+(3) With respect to a petition that:
+(A) is for the construction of a new generating facility; and
+(B) is submitted to the commission after June 30, 2021, and
+before January 1, 2025;
+the impact of federal phaseout mandates on the estimated useful
+life of each proposed generating facility included in the petition,
+including depreciation expense associated with each facility.
+(4) With respect to a petition that is submitted to the commission
+after June 30, 2023, whether the proposed construction, purchase,
+or lease of the facility will result in the provision of electric utility
+service with the attributes set forth in IC 8-1-2-0.6, including:
+(A) reliability;
+(B) affordability;
+(C) resiliency;
+(D) stability; and
+(E) environmental sustainability;
+as described in IC 8-1-2-0.6.
+(5) With respect to a petition that is submitted to the
+commission after December 31, 2029, whether:
+(A) the petitioner has conducted an analysis, as part of an
+integrated resource plan in accordance with section 3.6 of
+this chapter or otherwise, of the use of surplus
+interconnection service as an alternative to, or in
+conjunction with, the proposed construction, purchase, or
+SEA 240 — Concur
+4
+lease of the facility; and
+(B) the proposed construction, use, or lease of the facility
+will make use of, or allow for the use of, surplus
+interconnection service.
+
+Section 5:
+SECTION 3. IC 8-1-8.5-15 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]: Sec. 15. (a) The definitions in section 3.6 of this chapter
+apply throughout this section.
+(b) The commission shall conduct a study to evaluate the
+potential use of surplus interconnection service by electric utilities
+to enable electric utilities to:
+(1) safely, reliably, efficiently, and cost effectively meet
+electric system demand; and
+(2) provide safe, reliable, and affordable electric utility service
+to customers.
+(c) In conducting the study, the commission shall evaluate the
+following:
+(1) The potential use of surplus interconnection service to
+enable electric utilities to provide safe, reliable, and
+affordable electric utility service to customers in Indiana,
+considering existing and planned transmission infrastructure
+and projected demand growth.
+(2) Any other aspect of surplus interconnection service that
+the commission determines will assist policymakers, electric
+utilities, ratepayers, and other stakeholders in understanding
+the potential role of surplus interconnection service in the
+transmission system serving Indiana and the region.
+(d) An electric utility shall provide the commission, at the time
+and in the manner prescribed by the commission, any information
+or related materials required by the commission to perform the
+evaluation described in subsection (c). If the electric utility has
+solicited information concerning the potential use of surplus
+interconnection service at third party facilities under section 3.6(e)
+of this chapter, and the commission requires further information
+or related materials regarding the potential use of surplus
+interconnection service at those third party facilities, the
+commission may request the information or materials directly
+from the owners or operators of those third party facilities. Upon
+request by an electric utility or an owner or operator of a third
+party facility, the commission shall determine whether any
+information or related materials requested by the commission:
+(1) are confidential under IC 5-14-3-4;
+SEA 240 — Concur
+5
+(2) are exempt from public access and disclosure by Indiana
+law; and
+(3) must be treated as confidential and protected from public
+access and disclosure by the commission.
+(e) In conducting the study required by this section, the
+commission may consult with or invite comments from:
+(1) regional transmission organizations;
+(2) the Federal Energy Regulatory Commission or other
+federal regulators;
+(3) electric utilities;
+(4) the office of utility consumer counselor;
+(5) associations or organizations representing utility
+ratepayers;
+(6) regulatory commissions in other states;
+(7) engineers or other experts; and
+(8) other stakeholders.
+The commission may incorporate any information or comments
+received under this subsection in its report under subsection (f).
+(f) The commission shall include in the annual report that the
+commission is required to submit under IC 8-1-1-14 before
+October 1, 2027, a report that includes the commission's findings
+with respect to the topics set forth in subsection (c).
+SEA 240 — Concur
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date: Time:
+SEA 240 — Concur
+[DELETED:  a d i t F E R f e g f h  f c o m t t ( t s t r e e a f t g f a t p o]
+[DELETED:  u o w w r i t t a o t m i n f c a e a m I a t e u m s o o o t p f t a s t t e t t e u r t o h p ( o t s f t f i t s l g 2 I 8 A A B P]
+[DELETED:  O m f p r e a e s i t r o W r t a p t i s t t c o o o t u o s s a a a t o i]
+[DELETED:  m u o o a f t u o s T c s c a s t e t s r e a c e m e u t p s r a i c t p u o s r m r t p u o s s a t t p f t f t c s d w a]
+[DELETED:  I c t s r b t s t t F E R C o o a o o r u i r t s u I 8 b]
+[DELETED:  T]
+
+
+================================================================================
+
+Raw Text:
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 240
+AN ACT to amend the Indiana Code concerning utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 8-1-8.5-3.6 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]: Sec. 3.6. (a) As used in this section, "electric utility" refers
+to an electric utility listed in 170 IAC 4-7-2(a).
+(b) As used in this section, "interconnection service" refers to a
+service that is:
+(1) established in a standard large generator interconnection
+agreement, as defined in the Federal Energy Regulatory
+Commission's pro forma Large Generator Interconnection
+Procedures for electric generating facilities having a
+generating facility capacity of more than twenty (20)
+megawatts;
+(2) provided by an electric transmission provider; and
+(3) associated with interconnecting a generating facility with
+the transmission provider's transmission system and enabling
+the transmission system to receive electric energy and
+capacity from the generating facility at the point of
+interconnection.
+(c) As used in this section, "surplus interconnection service"
+means any portion of interconnection service that:
+(1) has not been used; and
+(2) is not reasonably expected to be needed;
+SEA 240 — Concur
+
+2
+the use of which would result in the total amount of
+interconnection service at the point of interconnection remaining
+the same.
+(d) As used in this section, "third party facility", with respect to
+an electric utility, means a generating facility that is not owned or
+operated by the electric utility or an affiliate of the electric utility.
+(e) In any integrated resource plan filed with the commission
+under 170 IAC 4-7 after December 31, 2029, an electric utility must
+include an analysis of the potential for surplus interconnection
+service to meet immediate needs for capacity and energy at
+facilities owned by the electric utility. In performing the analysis
+required under this subsection, an electric utility shall assess the
+potential use of surplus interconnection service at utility owned
+facilities with surplus interconnection service greater than twenty
+(20) megawatts. In addition, the electric utility may solicit
+information concerning the potential use of surplus interconnection
+service at third party facilities, including the willingness of the
+owners or operators of third party facilities to accommodate
+surplus interconnection service. The electric utility may include in
+its integrated resource plan the results of a solicitation made under
+this subsection to the extent that the electric utility receives
+information concerning viable opportunities for the use of surplus
+interconnection service at the third party facilities considered in
+the solicitation.
+(f) In an integrated resource plan filed with the commission
+after December 31, 2029, an electric utility may include, in addition
+to the information set forth in subsection (e), the proposed use of
+more than one hundred percent (100%) of the surplus
+interconnection service at a utility owned facility or a third party
+facility so as to facilitate the use of the entire interconnection
+service established for the facility in a standard large generator
+interconnection agreement, so long as the use of the proposed
+surplus interconnection service when combined with the existing
+used capacity does not exceed the total interconnection service
+established for the facility in the standard large generator
+interconnection agreement.
+SECTION 2. IC 8-1-8.5-4, AS AMENDED BY P.L.55-2023,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 4. (a) As used in this section, "federal phaseout
+mandate" means any federal statutory or regulatory requirement that:
+(1) is established after April 20, 2021, by the Congress of the
+United States, a federal regulatory agency, or a federal executive
+SEA 240 — Concur
+
+3
+order; and
+(2) requires the phaseout or discontinuance of a particular type of
+electric generating facility, technology, or fuel source.
+(b) As used in this section, "surplus interconnection service" has
+the meaning set forth in section 3.6 of this chapter.
+(b) (c) In acting upon any petition for the construction, purchase, or
+lease of any facility for the generation of electricity, the commission
+shall take into account the following:
+(1) The applicant's current and potential arrangement with other
+electric utilities for:
+(A) the interchange of power;
+(B) the pooling of facilities;
+(C) the purchase of power; and
+(D) joint ownership of facilities.
+(2) Other methods for providing reliable, efficient, and
+economical electric service, including the refurbishment of
+existing facilities, conservation, load management, cogeneration,
+and renewable energy sources.
+(3) With respect to a petition that:
+(A) is for the construction of a new generating facility; and
+(B) is submitted to the commission after June 30, 2021, and
+before January 1, 2025;
+the impact of federal phaseout mandates on the estimated useful
+life of each proposed generating facility included in the petition,
+including depreciation expense associated with each facility.
+(4) With respect to a petition that is submitted to the commission
+after June 30, 2023, whether the proposed construction, purchase,
+or lease of the facility will result in the provision of electric utility
+service with the attributes set forth in IC 8-1-2-0.6, including:
+(A) reliability;
+(B) affordability;
+(C) resiliency;
+(D) stability; and
+(E) environmental sustainability;
+as described in IC 8-1-2-0.6.
+(5) With respect to a petition that is submitted to the
+commission after December 31, 2029, whether:
+(A) the petitioner has conducted an analysis, as part of an
+integrated resource plan in accordance with section 3.6 of
+this chapter or otherwise, of the use of surplus
+interconnection service as an alternative to, or in
+conjunction with, the proposed construction, purchase, or
+SEA 240 — Concur
+
+4
+lease of the facility; and
+(B) the proposed construction, use, or lease of the facility
+will make use of, or allow for the use of, surplus
+interconnection service.
+SECTION 3. IC 8-1-8.5-15 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]: Sec. 15. (a) The definitions in section 3.6 of this chapter
+apply throughout this section.
+(b) The commission shall conduct a study to evaluate the
+potential use of surplus interconnection service by electric utilities
+to enable electric utilities to:
+(1) safely, reliably, efficiently, and cost effectively meet
+electric system demand; and
+(2) provide safe, reliable, and affordable electric utility service
+to customers.
+(c) In conducting the study, the commission shall evaluate the
+following:
+(1) The potential use of surplus interconnection service to
+enable electric utilities to provide safe, reliable, and
+affordable electric utility service to customers in Indiana,
+considering existing and planned transmission infrastructure
+and projected demand growth.
+(2) Any other aspect of surplus interconnection service that
+the commission determines will assist policymakers, electric
+utilities, ratepayers, and other stakeholders in understanding
+the potential role of surplus interconnection service in the
+transmission system serving Indiana and the region.
+(d) An electric utility shall provide the commission, at the time
+and in the manner prescribed by the commission, any information
+or related materials required by the commission to perform the
+evaluation described in subsection (c). If the electric utility has
+solicited information concerning the potential use of surplus
+interconnection service at third party facilities under section 3.6(e)
+of this chapter, and the commission requires further information
+or related materials regarding the potential use of surplus
+interconnection service at those third party facilities, the
+commission may request the information or materials directly
+from the owners or operators of those third party facilities. Upon
+request by an electric utility or an owner or operator of a third
+party facility, the commission shall determine whether any
+information or related materials requested by the commission:
+(1) are confidential under IC 5-14-3-4;
+SEA 240 — Concur
+
+5
+(2) are exempt from public access and disclosure by Indiana
+law; and
+(3) must be treated as confidential and protected from public
+access and disclosure by the commission.
+(e) In conducting the study required by this section, the
+commission may consult with or invite comments from:
+(1) regional transmission organizations;
+(2) the Federal Energy Regulatory Commission or other
+federal regulators;
+(3) electric utilities;
+(4) the office of utility consumer counselor;
+(5) associations or organizations representing utility
+ratepayers;
+(6) regulatory commissions in other states;
+(7) engineers or other experts; and
+(8) other stakeholders.
+The commission may incorporate any information or comments
+received under this subsection in its report under subsection (f).
+(f) The commission shall include in the annual report that the
+commission is required to submit under IC 8-1-1-14 before
+October 1, 2027, a report that includes the commission's findings
+with respect to the topics set forth in subsection (c).
+SEA 240 — Concur
+
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date: Time:
+SEA 240 — Concur
+
+[DELETED:  a d i t F E R f e g f h  f c o m t t ( t s t r e e a f t g f a t p o]
+[DELETED:  u o w w r i t t a o t m i n f c a e a m I a t e u m s o o o t p f t a s t t e t t e u r t o h p ( o t s f t f i t s l g 2 I 8 A A B P]
+[DELETED:  O m f p r e a e s i t r o W r t a p t i s t t c o o o t u o s s a a a t o i]
+[DELETED:  m u o o a f t u o s T c s c a s t e t s r e a c e m e u t p s r a i c t p u o s r m r t p u o s s a t t p f t f t c s d w a]
+[DELETED:  I c t s r b t s t t F E R C o o a o o r u i r t s u I 8 b]
+[DELETED:  T]

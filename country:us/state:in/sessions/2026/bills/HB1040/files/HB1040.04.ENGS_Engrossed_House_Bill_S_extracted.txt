@@ -1,0 +1,2452 @@
+Title: HOUSE BILL No. 1040
+Official Title: HOUSE BILL No. 1040
+Number of Sections: 5
+Source: versions - Engrossed House Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 28 sections found
+
+================================================================================
+
+Section 1:
+*EH1040.2*
+Reprinted
+February 20, 2026
+ENGROSSED
+_____
+DIGEST OF HB 1040 (Updated February 19, 2026 3:41 pm - DI 106)
+Citations Affected: IC 5-2; IC 5-14; IC 22-1; IC 27-10; IC 35-31.5;
+IC 35-40.5; IC 35-42.
+Synopsis: Battery against school and healthcare employees. Increases
+the penalty for battery on certain health care employees and school
+employees. Specifies that the enhancement for battery committed
+against a department of child services (DCS) employee applies only to
+those DCS employees whose responsibilities include personally
+supervising a child or parent, personally providing services to a child
+or parent, or personally interviewing a child or parent as part of an
+investigation. Requires the employer of a health care or school
+employee who is the victim of battery to make a semiannual report to
+the department of labor concerning workplace batteries.
+Effective: July 1, 2026.
+McNamara, Engleman, Barrett,
+Pfaff
+(SENATE SPONSORS — FREEMAN, CARRASCO, RAATZ)
+December 2, 2025, read first time and referred to Committee on Courts and Criminal Code.
+January 8, 2026, amended, reported — Do Pass.
+January 12, 2026, read second time, ordered engrossed.
+January 13, 2026, engrossed. Read third time, passed. Yeas 92, nays 0.
+SENATE ACTION
+January 27, 2026, read first time and referred to Committee on Corrections and Criminal
+Law.
+February 12, 2026, amended, reported favorably — Do Pass.
+February 19, 2026, read second time, amended, ordered engrossed.
+EH 1040—LS 6292/DI 106
+Reprinted
+February 20, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1040
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-2-22-1, AS AMENDED BY P.L.161-2018,
+2 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. The following definitions apply throughout this
+4 chapter:
+5 (1) "Crime of child abuse" means:
+6 (A) neglect of a dependent (IC 35-46-1-4) if the dependent is
+7 a child and the offense is committed under:
+8 (i) IC 35-46-1-4(a)(1);
+9 (ii) IC 35-46-1-4(a)(2); or
+10 (iii) IC 35-46-1-4(a)(3);
+11 (B) child selling (IC 35-46-1-4(d));
+12 (C) a sex offense (as defined in IC 11-8-8-5.2) committed
+13 against a child; or
+14 (D) battery against a child under:
+15 (i) IC 35-42-2-1(e)(3) (battery on a child);
+16 (ii) IC 35-42-2-1(g)(5)(B) IC 35-42-2-1(h)(5)(B) (battery
+17 causing bodily injury to a child);
+EH 1040—LS 6292/DI 106
+2
+1 (iii) IC 35-42-2-1(j) IC 35-42-2-1(k) (battery causing
+2 serious bodily injury to a child); or
+3 (iv) IC 35-42-2-1(k) IC 35-42-2-1(l) (battery resulting in the
+4 death of a child).
+5 (2) "Office" refers to the office of judicial administration created
+6 under by IC 33-24-6-1.
+7 (3) "Registry" means the child abuse registry established under
+8 section 2 of this chapter.
+9 SECTION 2. IC 5-14-3-4, AS AMENDED BY P.L.33-2025,
+10 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]: Sec. 4. (a) The following public records are excepted
+12 from section 3 of this chapter and may not be disclosed by a public
+13 agency, unless access to the records is specifically required by a state
+14 or federal statute or is ordered by a court under the rules of discovery:
+15 (1) Those declared confidential by state statute.
+16 (2) Those declared confidential by rule adopted by a public
+17 agency under specific authority to classify public records as
+18 confidential granted to the public agency by statute.
+19 (3) Those required to be kept confidential by federal law.
+20 (4) Records containing trade secrets.
+21 (5) Confidential financial information obtained, upon request,
+22 from a person. However, this does not include information that is
+23 filed with or received by a public agency pursuant to state statute.
+24 (6) Information concerning research, including actual research
+25 documents, conducted under the auspices of a state educational
+26 institution, including information:
+27 (A) concerning any negotiations made with respect to the
+28 research; and
+29 (B) received from another party involved in the research.
+30 (7) Grade transcripts and license examination scores obtained as
+31 part of a licensure process.
+32 (8) Those declared confidential by or under rules adopted by the
+33 supreme court of Indiana.
+34 (9) Patient medical records and charts created by a provider,
+35 unless the patient gives written consent under IC 16-39 or as
+36 provided under IC 16-41-8.
+37 (10) Application information declared confidential by the Indiana
+38 economic development corporation under IC 5-28.
+39 (11) A photograph, a video recording, or an audio recording of an
+40 autopsy, except as provided in IC 36-2-14-10.
+41 (12) A Social Security number contained in the records of a
+42 public agency.
+EH 1040—LS 6292/DI 106
+3
+1 (13) The following information that is part of a foreclosure action
+2 subject to IC 32-30-10.5:
+3 (A) Contact information for a debtor, as described in
+4 IC 32-30-10.5-8(d)(1)(B).
+5 (B) Any document submitted to the court as part of the debtor's
+6 loss mitigation package under IC 32-30-10.5-10(a)(3).
+7 (14) The following information obtained from a call made to a
+8 fraud hotline established under IC 36-1-8-8.5:
+9 (A) The identity of any individual who makes a call to the
+10 fraud hotline.
+11 (B) A report, transcript, audio recording, or other information
+12 concerning a call to the fraud hotline.
+13 However, records described in this subdivision may be disclosed
+14 to a law enforcement agency, a private university police
+15 department, the attorney general, the inspector general, the state
+16 examiner, or a prosecuting attorney.
+17 (15) Information described in section 5(c)(3)(B) of this chapter
+18 that is contained in a daily log or record described in section 5(c)
+19 of this chapter for a victim of a crime or delinquent act who is less
+20 than eighteen (18) years of age, unless and to the extent that:
+21 (A) a parent, guardian, or custodian of the victim consents in
+22 writing to public disclosure of the records; and
+23 (B) that parent, guardian, or custodian of the victim has not
+24 been charged with or convicted of committing a crime against
+25 the victim.
+26 However, records described in this subdivision may be disclosed
+27 to the department of child services.
+28 (b) Except as otherwise provided by subsection (a), the following
+29 public records shall be excepted from section 3 of this chapter at the
+30 discretion of a public agency:
+31 (1) Investigatory records of law enforcement agencies or private
+32 university police departments. For purposes of this chapter, a law
+33 enforcement recording is not an investigatory record. However,
+34 information described in subsection (a)(15) contained in a law
+35 enforcement recording is exempt from disclosure, unless and to
+36 the extent that a parent, guardian, or custodian of the victim
+37 consents in writing to public disclosure of the records. However,
+38 a parent, guardian, or custodian charged with or convicted of a
+39 crime against the victim may not consent to public disclosure of
+40 the records. Law enforcement agencies or private university
+41 police departments may share investigatory records with:
+42 (A) a person who advocates on behalf of a crime victim,
+EH 1040—LS 6292/DI 106
+4
+1 including a victim advocate (as defined in IC 35-37-6-3.5) or
+2 a victim service provider (as defined in IC 35-37-6-5), for the
+3 purposes of providing services to a victim or describing
+4 services that may be available to a victim;
+5 (B) a school corporation (as defined by IC 20-18-2-16(a)),
+6 charter school (as defined by IC 20-24-1-4), or nonpublic
+7 school (as defined by IC 20-18-2-12) for the purpose of
+8 enhancing the safety or security of a student or a school
+9 facility; and
+10 (C) the victim services division of the Indiana criminal justice
+11 institute under IC 5-2-6-8, for the purposes of conducting an
+12 investigation under IC 5-2-6.1-26;
+13 without the law enforcement agency or private university police
+14 department losing its discretion to keep those records confidential
+15 from other records requesters. However, certain law enforcement
+16 records must be made available for inspection and copying as
+17 provided in section 5 of this chapter.
+18 (2) The work product of an attorney representing, pursuant to
+19 state employment or an appointment by a public agency:
+20 (A) a public agency;
+21 (B) the state; or
+22 (C) an individual.
+23 (3) Test questions, scoring keys, and other examination data used
+24 in administering a licensing examination, examination for
+25 employment, or academic examination before the examination is
+26 given or if it is to be given again.
+27 (4) Scores of tests if the person is identified by name and has not
+28 consented to the release of the person's scores.
+29 (5) The following:
+30 (A) Records relating to negotiations between:
+31 (i) the Indiana economic development corporation;
+32 (ii) the ports of Indiana;
+33 (iii) the Indiana state department of agriculture;
+34 (iv) the Indiana finance authority;
+35 (v) an economic development commission;
+36 (vi) the Indiana White River state park development
+37 commission;
+38 (vii) a local economic development organization that is a
+39 nonprofit corporation established under state law whose
+40 primary purpose is the promotion of industrial or business
+41 development in Indiana, the retention or expansion of
+42 Indiana businesses, or the development of entrepreneurial
+EH 1040—LS 6292/DI 106
+5
+1 activities in Indiana; or
+2 (viii) a governing body of a political subdivision;
+3 with industrial, research, or commercial prospects, if the
+4 records are created while negotiations are in progress.
+5 However, this clause does not apply to records regarding
+6 research that is prohibited under IC 16-34.5-1-2 or any other
+7 law.
+8 (B) Notwithstanding clause (A), the terms of the final offer of
+9 public financial resources communicated by the Indiana
+10 economic development corporation, the ports of Indiana, the
+11 Indiana finance authority, an economic development
+12 commission, the Indiana White River state park development
+13 commission, or a governing body of a political subdivision to
+14 an industrial, a research, or a commercial prospect shall be
+15 available for inspection and copying under section 3 of this
+16 chapter after negotiations with that prospect have terminated.
+17 (C) When disclosing a final offer under clause (B), the Indiana
+18 economic development corporation shall certify that the
+19 information being disclosed accurately and completely
+20 represents the terms of the final offer.
+21 (D) Notwithstanding clause (A), an incentive agreement with
+22 an incentive recipient shall be available for inspection and
+23 copying under section 3 of this chapter after the date the
+24 incentive recipient and the Indiana economic development
+25 corporation execute the incentive agreement regardless of
+26 whether negotiations are in progress with the recipient after
+27 that date regarding a modification or extension of the incentive
+28 agreement.
+29 (6) Records that are intra-agency or interagency advisory or
+30 deliberative material, including material developed by a private
+31 contractor under a contract with a public agency, that are
+32 expressions of opinion or are of a speculative nature, and that are
+33 communicated for the purpose of decision making.
+34 (7) Diaries, journals, or other personal notes serving as the
+35 functional equivalent of a diary or journal.
+36 (8) Personnel files of public employees and files of applicants for
+37 public employment, except for:
+38 (A) the name, compensation, job title, business address,
+39 business telephone number, job description, education and
+40 training background, previous work experience, or dates of
+41 first and last employment of present or former officers or
+42 employees of the agency;
+EH 1040—LS 6292/DI 106
+6
+1 (B) information relating to the status of any formal charges
+2 against the employee; and
+3 (C) the factual basis for a disciplinary action in which final
+4 action has been taken and that resulted in the employee being
+5 suspended, demoted, or discharged.
+6 However, all personnel file information shall be made available
+7 to the affected employee or the employee's representative. This
+8 subdivision does not apply to disclosure of personnel information
+9 generally on all employees or for groups of employees without the
+10 request being particularized by employee name.
+11 (9) Minutes or records of hospital medical staff meetings.
+12 (10) Administrative or technical information that would
+13 jeopardize a record keeping system, voting system, voter
+14 registration system, or security system.
+15 (11) Computer programs, computer codes, computer filing
+16 systems, and other software that are owned by the public agency
+17 or entrusted to it and portions of electronic maps entrusted to a
+18 public agency by a utility.
+19 (12) Records specifically prepared for discussion or developed
+20 during discussion in an executive session under IC 5-14-1.5-6.1.
+21 However, this subdivision does not apply to that information
+22 required to be available for inspection and copying under
+23 subdivision (8).
+24 (13) The work product of the legislative services agency under
+25 personnel rules approved by the legislative council.
+26 (14) The work product of individual members and the partisan
+27 staffs of the general assembly.
+28 (15) The identity of a donor of a gift made to a public agency if:
+29 (A) the donor requires nondisclosure of the donor's identity as
+30 a condition of making the gift; or
+31 (B) after the gift is made, the donor or a member of the donor's
+32 family requests nondisclosure.
+33 (16) Library or archival records:
+34 (A) which can be used to identify any library patron; or
+35 (B) deposited with or acquired by a library upon a condition
+36 that the records be disclosed only:
+37 (i) to qualified researchers;
+38 (ii) after the passing of a period of years that is specified in
+39 the documents under which the deposit or acquisition is
+40 made; or
+41 (iii) after the death of persons specified at the time of the
+42 acquisition or deposit.
+EH 1040—LS 6292/DI 106
+7
+1 However, nothing in this subdivision shall limit or affect contracts
+2 entered into by the Indiana state library pursuant to IC 4-1-6-8.
+3 (17) The identity of any person who contacts the bureau of motor
+4 vehicles concerning the ability of a driver to operate a motor
+5 vehicle safely and the medical records and evaluations made by
+6 the bureau of motor vehicles staff or members of the driver
+7 licensing medical advisory board regarding the ability of a driver
+8 to operate a motor vehicle safely. However, upon written request
+9 to the commissioner of the bureau of motor vehicles, the driver
+10 must be given copies of the driver's medical records and
+11 evaluations.
+12 (18) School safety and security measures, plans, and systems,
+13 including emergency preparedness plans developed under 511
+14 IAC 6.1-2-2.5.
+15 (19) A record or a part of a record, the public disclosure of which
+16 would have a reasonable likelihood of threatening public safety
+17 by exposing a vulnerability to terrorist attack. A record described
+18 under this subdivision includes the following:
+19 (A) A record assembled, prepared, or maintained to prevent,
+20 mitigate, or respond to an act of terrorism under IC 35-47-12-1
+21 (before its repeal), an act of agricultural terrorism under
+22 IC 35-47-12-2 (before its repeal), or a felony terrorist offense
+23 (as defined in IC 35-50-2-18).
+24 (B) Vulnerability assessments.
+25 (C) Risk planning documents.
+26 (D) Needs assessments.
+27 (E) Threat assessments.
+28 (F) Intelligence assessments.
+29 (G) Domestic preparedness strategies.
+30 (H) The location of community drinking water wells and
+31 surface water intakes.
+32 (I) The emergency contact information of emergency
+33 responders and volunteers.
+34 (J) Infrastructure records that disclose the configuration of
+35 critical systems such as voting system and voter registration
+36 system critical infrastructure, and communication, electrical,
+37 ventilation, water, and wastewater systems.
+38 (K) Detailed drawings or specifications of structural elements,
+39 floor plans, and operating, utility, or security systems, whether
+40 in paper or electronic form, of any building or facility located
+41 on an airport (as defined in IC 8-21-1-1) that is owned,
+42 occupied, leased, or maintained by a public agency, or any part
+EH 1040—LS 6292/DI 106
+8
+1 of a law enforcement recording that captures information
+2 about airport security procedures, areas, or systems. A record
+3 described in this clause may not be released for public
+4 inspection by any public agency without the prior approval of
+5 the public agency that owns, occupies, leases, or maintains the
+6 airport. Both of the following apply to the public agency that
+7 owns, occupies, leases, or maintains the airport:
+8 (i) The public agency is responsible for determining whether
+9 the public disclosure of a record or a part of a record,
+10 including a law enforcement recording, has a reasonable
+11 likelihood of threatening public safety by exposing a
+12 security procedure, area, system, or vulnerability to terrorist
+13 attack.
+14 (ii) The public agency must identify a record described
+15 under item (i) and clearly mark the record as "confidential
+16 and not subject to public disclosure under
+17 IC 5-14-3-4(b)(19)(J) without approval of (insert name of
+18 submitting public agency)". However, in the case of a law
+19 enforcement recording, the public agency must clearly mark
+20 the record as "confidential and not subject to public
+21 disclosure under IC 5-14-3-4(b)(19)(K) without approval of
+22 (insert name of the public agency that owns, occupies,
+23 leases, or maintains the airport)".
+24 (L) The home address, home telephone number, and
+25 emergency contact information for any:
+26 (i) emergency management worker (as defined in
+27 IC 10-14-3-3);
+28 (ii) public safety officer (as defined in IC 35-47-4.5-3);
+29 (iii) emergency medical responder (as defined in
+30 IC 16-18-2-109.8); or
+31 (iv) advanced emergency medical technician (as defined in
+32 IC 16-18-2-6.5).
+33 (M) Information relating to security measures or precautions
+34 used to secure the statewide 911 system under IC 36-8-16.7.
+35 This subdivision does not apply to a record or portion of a record
+36 pertaining to a location or structure owned or protected by a
+37 public agency in the event that an act of terrorism under
+38 IC 35-47-12-1 (before its repeal), an act of agricultural terrorism
+39 under IC 35-47-12-2 (before its repeal), or a felony terrorist
+40 offense (as defined in IC 35-50-2-18) has occurred at that location
+41 or structure, unless release of the record or portion of the record
+42 would have a reasonable likelihood of threatening public safety
+EH 1040—LS 6292/DI 106
+9
+1 by exposing a vulnerability of other locations or structures to
+2 terrorist attack.
+3 (20) The following personal information concerning a customer
+4 of a municipally owned utility (as defined in IC 8-1-2-1):
+5 (A) Telephone number.
+6 (B) Address.
+7 (C) Social Security number.
+8 (21) The following personal information about a complainant
+9 contained in records of a law enforcement agency:
+10 (A) Telephone number.
+11 (B) The complainant's address. However, if the complainant's
+12 address is the location of the suspected crime, infraction,
+13 accident, or complaint reported, the address shall be made
+14 available for public inspection and copying.
+15 (22) Notwithstanding subdivision (8)(A), the name,
+16 compensation, job title, business address, business telephone
+17 number, job description, education and training background,
+18 previous work experience, or dates of first employment of a law
+19 enforcement officer who is operating in an undercover capacity.
+20 (23) Records requested by an offender, an agent, or a relative of
+21 an offender that:
+22 (A) contain personal information relating to:
+23 (i) a correctional officer (as defined in IC 5-10-10-1.5);
+24 (ii) a probation officer;
+25 (iii) a community corrections officer;
+26 (iv) a law enforcement officer (as defined in
+27 IC 35-31.5-2-185);
+28 (v) a judge (as defined in IC 33-38-12-3);
+29 (vi) the victim of a crime; or
+30 (vii) a family member of a correctional officer, probation
+31 officer, community corrections officer, law enforcement
+32 officer (as defined in IC 35-31.5-2-185), judge (as defined
+33 in IC 33-38-12-3), or victim of a crime; or
+34 (B) concern or could affect the security of a jail or correctional
+35 facility.
+36 For purposes of this subdivision, "agent" means a person who is
+37 authorized by an offender to act on behalf of, or at the direction
+38 of, the offender, and "relative" has the meaning set forth in
+39 IC 35-42-2-1(b). IC 35-42-2-1(a). However, the term "agent"
+40 does not include an attorney in good standing admitted to the
+41 practice of law in Indiana.
+42 (24) Information concerning an individual less than eighteen (18)
+EH 1040—LS 6292/DI 106
+10
+1 years of age who participates in a conference, meeting, program,
+2 or activity conducted or supervised by a state educational
+3 institution, including the following information regarding the
+4 individual or the individual's parent or guardian:
+5 (A) Name.
+6 (B) Address.
+7 (C) Telephone number.
+8 (D) Electronic mail account address.
+9 (25) Criminal intelligence information.
+10 (26) The following information contained in a report of unclaimed
+11 property under IC 32-34-1.5-18 or in a claim for unclaimed
+12 property under IC 32-34-1.5-48:
+13 (A) Date of birth.
+14 (B) Driver's license number.
+15 (C) Taxpayer identification number.
+16 (D) Employer identification number.
+17 (E) Account number.
+18 (27) Except as provided in subdivision (19) and sections 5.1 and
+19 5.2 of this chapter, a law enforcement recording. However, before
+20 disclosing the recording, the public agency must comply with the
+21 obscuring requirements of sections 5.1 and 5.2 of this chapter, if
+22 applicable.
+23 (28) Records relating to negotiations between a state educational
+24 institution and another entity concerning the establishment of a
+25 collaborative relationship or venture to advance the research,
+26 engagement, or educational mission of the state educational
+27 institution, if the records are created while negotiations are in
+28 progress. The terms of the final offer of public financial resources
+29 communicated by the state educational institution to an industrial,
+30 a research, or a commercial prospect shall be available for
+31 inspection and copying under section 3 of this chapter after
+32 negotiations with that prospect have terminated. However, this
+33 subdivision does not apply to records regarding research
+34 prohibited under IC 16-34.5-1-2 or any other law.
+35 (c) Nothing contained in subsection (b) shall limit or affect the right
+36 of a person to inspect and copy a public record required or directed to
+37 be made by any statute or by any rule of a public agency.
+38 (d) Notwithstanding any other law, a public record that is classified
+39 as confidential, other than a record concerning:
+40 (1) an adoption or patient medical records; or
+41 (2) a birth or stillbirth;
+42 shall be made available for inspection and copying seventy-five (75)
+EH 1040—LS 6292/DI 106
+11
+1 years after the creation of that record. A registration or certificate of a
+2 birth or stillbirth shall be made available in accordance with
+3 IC 16-37-1-7.5.
+4 (e) Only the content of a public record may form the basis for the
+5 adoption by any public agency of a rule or procedure creating an
+6 exception from disclosure under this section.
+7 (f) Except as provided by law, a public agency may not adopt a rule
+8 or procedure that creates an exception from disclosure under this
+9 section based upon whether a public record is stored or accessed using
+10 paper, electronic media, magnetic media, optical media, or other
+11 information storage technology.
+12 (g) Except as provided by law, a public agency may not adopt a rule
+13 or procedure nor impose any costs or liabilities that impede or restrict
+14 the reproduction or dissemination of any public record.
+15 (h) Notwithstanding subsection (d) and section 7 of this chapter:
+16 (1) public records subject to IC 5-15 may be destroyed only in
+17 accordance with record retention schedules under IC 5-15; or
+18 (2) public records not subject to IC 5-15 may be destroyed in the
+19 ordinary course of business.
+20 SECTION 3. IC 22-1-1-24 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2026]: Sec. 24. (a) The following definitions apply throughout
+23 this section:
+24 (1) "Health care employee" has the meaning set forth in
+25 IC 35-42-2-1.
+26 (2) "School employee" has the meaning set forth in
+27 IC 35-42-2-1.
+28 (3) "Workplace battery" means a battery described in
+29 IC 35-42-2-1(d) or IC 35-42-2-1(g).
+30 (b) The employer of a health care employee or school employee
+31 shall make a workplace battery report as described in subsection
+32 (c) to the commissioner if a health care employee or school
+33 employee is the victim of workplace battery.
+34 (c) Beginning July 1, 2027, the employer shall make the
+35 workplace battery report required under subsection (b) each year
+36 before:
+37 (1) August 1, for the period from January 1 to June 30; and
+38 (2) February 1, for the period from July 1 to December 31.
+39 The report shall be made on a form provided by the commissioner.
+40 (d) The workplace battery report must include the following
+41 information:
+42 (1) The name of the employer.
+EH 1040—LS 6292/DI 106
+12
+1 (2) The city and county in which a workplace battery was
+2 committed.
+3 (3) The time period covered by the report (January 1 to June
+4 30 or July 1 to December 31).
+5 (4) The number of workplace batteries that were committed
+6 during the reporting period.
+7 (5) The job title of each health care employee or school
+8 employee who was the victim of the workplace battery.
+9 (6) The date of each workplace battery.
+10 (7) The address and specific location (such as "hospital
+11 emergency room" or "school parking lot") where the
+12 workplace battery occurred. However, if the battery occurred
+13 at the health care employee's or school employee's home, the
+14 report may not include the address.
+15 (8) The circumstances surrounding the workplace battery and
+16 any resulting injury, including the following, if known:
+17 (A) The gender of the victim.
+18 (B) The specific manner in which the workplace battery
+19 was committed (such as by striking, biting, pushing,
+20 kicking, use of an object, or use of a weapon).
+21 (C) Whether the victim required hospitalization.
+22 (D) If a weapon or other object was used to commit the
+23 workplace battery, the type of weapon or object.
+24 (E) Whether law enforcement was contacted or responded
+25 to the workplace battery.
+26 (F) Whether criminal charges were filed against the
+27 perpetrator.
+28 For a workplace battery that does not occur on the employer's
+29 premises, the employer shall provide as much information as is
+30 known to the employer.
+31 (e) The employer shall make the report required under this
+32 section regardless of whether a person is criminally charged with
+33 the workplace battery.
+34 SECTION 4. IC 27-10-2-4.5, AS ADDED BY P.L.147-2022,
+35 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2026]: Sec. 4.5. (a) The following definitions apply
+37 throughout this section:
+38 (1) "Charitable bail organization" means a business entity, or a
+39 nonprofit organization under:
+40 (A) the Internal Revenue Code; or
+41 (B) Indiana law;
+42 that exists for the purpose of paying cash bail for another person.
+EH 1040—LS 6292/DI 106
+13
+1 However, the term does not include a person who pays cash bail
+2 for three (3) or fewer defendants in any one hundred eighty (180)
+3 day period, or a person who pays bail for a relative (as defined in
+4 IC 35-42-2-1(b)). IC 35-42-2-1(a)).
+5 (2) "Crime of violence" has the meaning set forth in
+6 IC 35-50-1-2(a).
+7 (b) The commissioner may certify a charitable bail organization if
+8 the charitable bail organization:
+9 (1) is a business entity, or a nonprofit organization under:
+10 (A) the Internal Revenue Code; or
+11 (B) Indiana law;
+12 (2) is currently registered to do business in Indiana;
+13 (3) is located in Indiana; and
+14 (4) exists for the purpose of depositing cash bail for an indigent
+15 defendant who:
+16 (A) is not charged with a crime of violence; or
+17 (B) if charged with a felony, does not have a prior conviction
+18 for a crime of violence.
+19 (c) A person may apply for certification under this section in
+20 accordance with rules adopted under this section.
+21 (d) The commissioner shall certify a person as a charitable bail
+22 organization if the:
+23 (1) person pays an application fee of three hundred dollars
+24 ($300);
+25 (2) person meets the requirements of this section; and
+26 (3) person, including an officer or director of the person, has not
+27 engaged in conduct that:
+28 (A) constitutes fraud, dishonesty, or deception;
+29 (B) constitutes malfeasance, misfeasance, or nonfeasance in
+30 dealing with money; or
+31 (C) resulted in the suspension or revocation of a previous
+32 certification.
+33 (e) A charitable bail certification is valid for two (2) years from the
+34 date of issuance and may be renewed upon payment of a renewal fee
+35 of three hundred dollars ($300). If a person applies for renewal before
+36 the expiration of the existing certification, the existing certification
+37 remains valid until the commissioner renews the certification, or until
+38 five (5) days after the commissioner denies the application for renewal.
+39 A person is entitled to renewal unless the commissioner denies the
+40 application for renewal under subsection (f).
+41 (f) The commissioner shall deny, suspend, revoke, or refuse to
+42 renew certification for any of the following causes:
+EH 1040—LS 6292/DI 106
+14
+1 (1) Any cause for which issuance of the certification could have
+2 been refused had it then existed and been known to the
+3 commissioner.
+4 (2) Violation of any laws of this state in the course of dealings
+5 under the certification.
+6 (3) Material misstatement, misrepresentation, or fraud in
+7 obtaining the certification.
+8 (4) Misappropriation, conversion, or unlawful withholding of
+9 money belonging to donors or others and received in the conduct
+10 of business under the certification.
+11 (5) Fraudulent or dishonest practices in the conduct of business
+12 under the certification.
+13 (6) Willful failure to comply with or willful violation of any
+14 proper order or rule of the commissioner.
+15 (7) When, in the judgment of the commissioner, the certificate
+16 holder has, in the conduct of affairs under the certification,
+17 demonstrated:
+18 (A) incompetency or untrustworthiness;
+19 (B) conduct or practices rendering the certificate holder unfit
+20 to carry on charitable bail activities or making the certificate
+21 holder's continuance detrimental to the public interest; or
+22 (C) that the certificate holder is no longer in good faith
+23 carrying on as a charitable bail organization;
+24 and for these reasons is found by the commissioner to be a source
+25 of detriment, injury, or loss to the public.
+26 (8) The listing of the name of the applicant or certificate holder on
+27 the most recent tax warrant list supplied to the commissioner by
+28 the department of state revenue.
+29 (g) A charitable bail organization must comply with all of the
+30 following:
+31 (1) If the charitable bail organization pays, or intends to pay, bail
+32 for more than three (3) individuals in any one hundred eighty
+33 (180) day period, the charitable bail organization must be certified
+34 by the commissioner under this section before soliciting or
+35 accepting donations for bail for another person, and before
+36 depositing money for bail for another person.
+37 (2) A charitable bail organization may not pay bail for a defendant
+38 who:
+39 (A) is charged with a crime of violence; or
+40 (B) is charged with a felony and has a prior conviction for a
+41 crime of violence.
+42 (3) A charitable bail organization may not execute a surety bond
+EH 1040—LS 6292/DI 106
+15
+1 for a defendant.
+2 (4) A charitable bail organization shall, before paying bail for an
+3 individual, execute an agreement described in IC 35-33-8-3.2
+4 allowing the court to retain all or a part of the bail to pay publicly
+5 paid costs of representation and fines, costs, fees, and restitution
+6 that the court may order the defendant to pay if the defendant is
+7 convicted.
+8 (5) A charitable bail organization may not charge a premium or
+9 receive any consideration for acting as a charitable bail
+10 organization.
+11 (h) All fees collected under this section must be deposited in the
+12 bail bond enforcement and administration fund created by
+13 IC 27-10-5-1.
+14 (i) Any authorized employee of a charitable bail organization may
+15 only deposit cash bail to the court.
+16 (j) If an individual fails to appear, the bail shall be forfeited in the
+17 manner described in IC 35-33-8-7 and the court shall take the steps
+18 described in IC 35-33-8-8.
+19 SECTION 5. IC 35-31.5-2-151.8 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 151.8. "Health care employee",
+22 for purposes of IC 35-42-2-1, has the meaning set forth in
+23 IC 35-42-2-1.
+24 SECTION 6. IC 35-31.5-2-282.9 IS ADDED TO THE INDIANA
+25 CODE AS A NEW SECTION TO READ AS FOLLOWS
+26 [EFFECTIVE JULY 1, 2026]: Sec. 282.9. "School", for purposes of
+27 IC 35-42-2-1, has the meaning set forth in IC 35-42-2-1.
+28 SECTION 7. IC 35-31.5-2-284.4 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE JULY 1, 2026]: Sec. 284.4. "School employee", for
+31 purposes of IC 35-42-2-1, has the meaning set forth in
+32 IC 35-42-2-1.
+33 SECTION 8. IC 35-40.5-1-1, AS AMENDED BY P.L.32-2021,
+34 SECTION 94, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 1. The following definitions apply throughout this
+36 article:
+37 (1) "Law enforcement officer" means any of the following:
+38 (A) A law enforcement officer (as defined in
+39 IC 35-31.5-2-185).
+40 (B) A state educational institution police officer appointed
+41 under IC 21-39-4.
+42 (C) A school corporation police officer appointed under
+EH 1040—LS 6292/DI 106
+16
+1 IC 20-26-16.
+2 (D) A school resource officer (as defined in IC 20-26-18.2-1).
+3 (E) A police officer of a private postsecondary educational
+4 institution whose governing board has appointed the police
+5 officer under IC 21-17-5-2.
+6 (2) "Provider" has the meaning set forth in IC 16-21-8-0.2.
+7 (3) "Relative" has the meaning set forth in IC 35-42-2-1(b).
+8 IC 35-42-2-1(a).
+9 (4) "Sexual assault forensic evidence" means the results collected
+10 from a forensic medical examination of a victim by a provider.
+11 (5) "State sexual assault response team" means the statewide
+12 sexual assault response team coordinated by the Indiana
+13 prosecuting attorneys council and the Indiana criminal justice
+14 institute.
+15 (6) "Victim" means an individual:
+16 (A) who is a victim of sexual assault (as defined in
+17 IC 5-26.5-1-8); or
+18 (B) who:
+19 (i) is a relative of or a person who has had a close personal
+20 relationship with the individual described under clause (A);
+21 and
+22 (ii) is designated by the individual described under clause
+23 (A) as a representative.
+24 The term does not include an individual who is accused of
+25 committing an act of sexual assault (as defined in IC 5-26.5-1-8)
+26 against the individual described under clause (A).
+27 (7) "Victim advocate" has the meaning set forth in IC 35-37-6-3.5.
+28 (8) "Victim service provider" has the meaning set forth in
+29 IC 35-37-6-5.
+30 SECTION 9. IC 35-42-2-0.5, AS ADDED BY P.L.65-2016,
+31 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]: Sec. 0.5. "Relative", for purposes of IC 35-42-2-1,
+33 section 1 of this chapter, has the meaning set forth in IC 35-42-2-1(b).
+34 section 1(a) of this chapter.
+35 SECTION 10. IC 35-42-2-1, AS AMENDED BY P.L.148-2024,
+36 SECTION 24, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 1. (a) As used in this section, "public safety
+38 official" means:
+39 (1) a law enforcement officer, including an alcoholic beverage
+40 enforcement officer;
+41 (2) an employee of a penal facility or a juvenile detention facility
+42 (as defined in IC 31-9-2-71);
+EH 1040—LS 6292/DI 106
+17
+1 (3) an employee of the department of correction;
+2 (4) a probation officer;
+3 (5) a parole officer;
+4 (6) a community corrections worker;
+5 (7) a home detention officer;
+6 (8) a department of child services employee;
+7 (9) a firefighter;
+8 (10) an emergency medical services provider;
+9 (11) a judicial officer;
+10 (12) a bailiff of any court; or
+11 (13) a special deputy (as described in IC 36-8-10-10.6).
+12 (b) As used in this section, "relative" means an individual related by
+13 blood, half-blood, adoption, marriage, or remarriage, including:
+14 (1) a spouse;
+15 (2) a parent or stepparent;
+16 (3) a child or stepchild;
+17 (4) a grandchild or stepgrandchild;
+18 (5) a grandparent or stepgrandparent;
+19 (6) a brother, sister, stepbrother, or stepsister;
+20 (7) a niece or nephew;
+21 (8) an aunt or uncle;
+22 (9) a daughter-in-law or son-in-law;
+23 (10) a mother-in-law or father-in-law; or
+24 (11) a first cousin.
+25 (a) The following definitions apply throughout this section:
+26 (1) "Health care employee" means an individual whose
+27 responsibilities involve contact or interaction with a patient,
+28 and who is employed by, in a contractual relationship with, or
+29 providing services on behalf of:
+30 (A) an individual;
+31 (B) a partnership;
+32 (C) a professional corporation;
+33 (D) a facility;
+34 (E) an institution;
+35 (F) a hospital; or
+36 (G) any entity;
+37 that is licensed, certified, or authorized to administer health
+38 care in the ordinary course of business or practice of the
+39 profession.
+40 (2) "Public safety official" means:
+41 (A) a law enforcement officer, including an alcoholic
+42 beverage enforcement officer;
+EH 1040—LS 6292/DI 106
+18
+1 (B) an employee of a penal facility or a juvenile detention
+2 facility (as defined in IC 31-9-2-71);
+3 (C) an employee of the department of correction;
+4 (D) a probation officer;
+5 (E) a parole officer;
+6 (F) a community corrections worker;
+7 (G) a home detention officer;
+8 (H) a department of child services employee whose
+9 responsibilities include:
+10 (i) personally supervising a child or parent;
+11 (ii) personally providing services to a child or parent; or
+12 (iii) personally interviewing a child or parent as part of
+13 an investigation;
+14 (I) a firefighter;
+15 (J) an emergency medical services provider;
+16 (K) a judicial officer;
+17 (L) a bailiff of any court; or
+18 (M) a special deputy (as described in IC 36-8-10-10.6).
+19 (3) "Relative" means an individual related by blood,
+20 half-blood, adoption, marriage, or remarriage, including:
+21 (A) a spouse;
+22 (B) a parent or stepparent;
+23 (C) a child or stepchild;
+24 (D) a grandchild or stepgrandchild;
+25 (E) a grandparent or stepgrandparent;
+26 (F) a brother, sister, stepbrother, or stepsister;
+27 (G) a niece or nephew;
+28 (H) an aunt or uncle;
+29 (I) a daughter-in-law or son-in-law;
+30 (J) a mother-in-law or father-in-law; or
+31 (K) a first cousin.
+32 (4) "School" means a public school, charter school, or
+33 nonpublic school with at least one (1) employee.
+34 (5) "School employee" means a person who:
+35 (A) is employed by a school or is in a contractual
+36 relationship with a school; and
+37 (B) has direct and ongoing contact with a student.
+38 (c) (b) Except as provided in subsections (d) (c) through (k), (l), a
+39 person who knowingly or intentionally:
+40 (1) touches another person in a rude, insolent, or angry manner;
+41 or
+42 (2) in a rude, insolent, or angry manner places any bodily fluid or
+EH 1040—LS 6292/DI 106
+19
+1 waste on another person;
+2 commits battery, a Class B misdemeanor.
+3 (d) (c) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+4 (b)(2) is a Class A misdemeanor if it:
+5 (1) results in bodily injury to any other person; or
+6 (2) is committed against a member of a foster family home (as
+7 defined in IC 35-31.5-2-139.3) by a person who is not a resident
+8 of the foster family home if the person who committed the offense
+9 is a relative of a person who lived in the foster family home at the
+10 time of the offense.
+11 (d) The offense described in subsection (b)(1) is a Class A
+12 misdemeanor if it is committed against a health care employee or
+13 school employee:
+14 (1) while the health care employee or school employee is
+15 acting within the scope of the health care employee's or school
+16 employee's employment;
+17 (2) while the health care employee or school employee is
+18 commuting to or from the health care employee's or school
+19 employee's place of employment; or
+20 (3) in retaliation for an act taken by the health care employee
+21 or school employee within the scope of the health care
+22 employee's or school employee's employment;
+23 unless the offense is committed by a person detained or committed
+24 under IC 12-26.
+25 (e) The offense described in subsection (c)(1) (b)(1) or (c)(2) (b)(2)
+26 is a Level 6 felony if one (1) or more of the following apply:
+27 (1) The offense results in moderate bodily injury to any other
+28 person.
+29 (2) The offense is committed against a public safety official while
+30 the official is engaged in the official's official duty, unless the
+31 offense is committed by a person detained or committed under
+32 IC 12-26.
+33 (3) The offense is committed against a person less than fourteen
+34 (14) years of age and is committed by a person at least eighteen
+35 (18) years of age.
+36 (4) The offense is committed against a person of any age who has
+37 a mental or physical disability and is committed by a person
+38 having the care of the person with the mental or physical
+39 disability, whether the care is assumed voluntarily or because of
+40 a legal obligation.
+41 (5) The offense is committed against an endangered adult (as
+42 defined in IC 12-10-3-2).
+EH 1040—LS 6292/DI 106
+20
+1 (6) The offense:
+2 (A) is committed against a member of a foster family home (as
+3 defined in IC 35-31.5-2-139.3) by a person who is not a
+4 resident of the foster family home if the person who committed
+5 the offense is a relative of a person who lived in the foster
+6 family home at the time of the offense; and
+7 (B) results in bodily injury to the member of the foster family.
+8 (f) The offense described in subsection (c)(2) (b)(2) is a Level 6
+9 felony if the person knew or recklessly failed to know that the bodily
+10 fluid or waste placed on another person was infected with hepatitis,
+11 tuberculosis, or human immunodeficiency virus.
+12 (g) The offense described in subsection (b)(1) is a Level 6 felony
+13 if it results in bodily injury to a health care employee or school
+14 employee and is committed against the health care employee or
+15 school employee:
+16 (1) while the health care employee or school employee is
+17 acting within the scope of the health care employee's or school
+18 employee's employment;
+19 (2) while the health care employee or school employee is
+20 commuting to or from the health care employee's or school
+21 employee's place of employment; or
+22 (3) in retaliation for an act taken by the health care employee
+23 or school employee within the scope of the health care
+24 employee's or school employee's employment;
+25 unless the offense is committed by a person detained or committed
+26 under IC 12-26.
+27 (g) (h) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+28 (b)(2) is a Level 5 felony if one (1) or more of the following apply:
+29 (1) The offense results in serious bodily injury to another person.
+30 (2) The offense is committed with a deadly weapon.
+31 (3) The offense results in bodily injury to a pregnant woman if the
+32 person knew of the pregnancy.
+33 (4) The person has a previous conviction for a battery or
+34 strangulation offense included in this chapter against the same
+35 victim.
+36 (5) The offense results in bodily injury to one (1) or more of the
+37 following:
+38 (A) A public safety official while the official is engaged in the
+39 official's official duties, unless the offense is committed by a
+40 person detained or committed under IC 12-26.
+41 (B) A person less than fourteen (14) years of age if the offense
+42 is committed by a person at least eighteen (18) years of age.
+EH 1040—LS 6292/DI 106
+21
+1 (C) A person who has a mental or physical disability if the
+2 offense is committed by an individual having care of the
+3 person with the disability, regardless of whether the care is
+4 assumed voluntarily or because of a legal obligation.
+5 (D) An endangered adult (as defined in IC 12-10-3-2).
+6 (h) (i) The offense described in subsection (c)(2) (b)(2) is a Level
+7 5 felony if:
+8 (1) the person knew or recklessly failed to know that the bodily
+9 fluid or waste placed on another person was infected with
+10 hepatitis, tuberculosis, or human immunodeficiency virus; and
+11 (2) the person placed the bodily fluid or waste on a public safety
+12 official, unless the offense is committed by a person detained or
+13 committed under IC 12-26.
+14 (i) (j) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+15 (b)(2) is a Level 4 felony if it results in serious bodily injury to an
+16 endangered adult (as defined in IC 12-10-3-2).
+17 (j) (k) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+18 (b)(2) is a Level 3 felony if it results in serious bodily injury to a person
+19 less than fourteen (14) years of age if the offense is committed by a
+20 person at least eighteen (18) years of age.
+21 (k) (l) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+22 (b)(2) is a Level 2 felony if it results in the death of one (1) or more of
+23 the following:
+24 (1) A person less than fourteen (14) years of age if the offense is
+25 committed by a person at least eighteen (18) years of age.
+26 (2) An endangered adult (as defined in IC 12-10-3-2).
+EH 1040—LS 6292/DI 106
+22
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Courts and Criminal Code, to
+which was referred House Bill 1040, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 11, between lines 19 and 20, begin a new paragraph and insert:
+"SECTION 3. IC 22-8-1.1-1, AS AMENDED BY P.L.32-2008,
+
+Section 2:
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 1. As used in this chapter, unless otherwise
+provided:
+"Board" means the board of safety review created by this chapter.
+"Commission" means the occupational safety standards commission
+created by this chapter.
+"Commissioner" means the commissioner of labor or the
+commissioner's duly designated representative.
+"Department" means the department of labor.
+"Employee" means a person permitted to work by an employer in
+employment.
+"Employer" means any individual or type of organization, including
+the state and all its political subdivisions, that has in its employ one (1)
+or more individuals.
+"INSafe" means the division of the department created by section 40
+of this chapter.
+"Safety order" refers to a notice issued to employers by the
+commissioner of labor for alleged violations of this chapter, including
+any health and safety standards.
+"Standard" refers to both health and safety standards.
+"Voluntary protection program" means a program offered by the
+United States Occupational Safety and Health Administration to
+employers subject to this chapter that exempts the employers from
+general scheduled inspections.
+"Vulnerable worker" has the meaning set forth in IC 35-42-2-1.
+
+Section 3:
+SECTION 2. IC 22-8-1.1-43.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 43.2. (a) The employer of a
+vulnerable worker shall make a report to the commissioner if the
+vulnerable worker is the victim of workplace battery as described
+in IC 35-42-2-1(d) or IC 35-42-2-1(g).
+(b) The employer shall make the report not later than:
+(1) eight (8) hours after the incident occurs, if the incident
+results in the death or hospitalization of the victim; or
+(2) twenty-four (24) hours after the incident occurs, if the
+EH 1040—LS 6292/DI 106
+23
+incident does not result in the death or hospitalization of the
+victim.
+The employer shall make the report required under this subsection
+regardless of whether a person is criminally charged with the
+workplace battery.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1040 as introduced.)
+MCNAMARA
+Committee Vote: yeas 11, nays 1.
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Corrections and Criminal
+Law, to which was referred House Bill No. 1040, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 11, between lines 34 and 35, begin a new paragraph and insert:
+""Health care employee" has the meaning set forth in
+IC 35-42-2-1.".
+Page 11, between lines 39 and 40, begin a new paragraph and insert:
+""School employee" has the meaning set forth in IC 35-42-2-1.".
+Page 12, delete lines 3 through 18, begin a new paragraph and
+insert:
+"SECTION 4. IC 22-8-1.1-43.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 43.2. (a) The following definitions
+apply throughout this section:
+(1) "Health care employee" has the meaning set forth in
+IC 35-42-2-1.
+(2) "School employee" has the meaning set forth in
+IC 35-42-2-1.
+(3) "Workplace battery" means a battery described in
+IC 35-42-2-1(d) or IC 35-42-2-1(g).
+(b) The employer of a health care employee or school employee
+shall make a workplace battery report as described in subsection
+(c) to the commissioner if a health care employee or school
+EH 1040—LS 6292/DI 106
+24
+employee is the victim of workplace battery.
+(c) Beginning July 1, 2027, the employer shall make the
+workplace battery report required under subsection (b) each year
+before:
+(1) August 1, for the period from January 1 to June 30; and
+(2) February 1, for the period from July 1 to December 31.
+The report shall be made on a form provided by the commissioner.
+(d) The workplace battery report must include the following
+information:
+(1) The name of the employer.
+(2) The city and county in which a workplace battery was
+committed.
+(3) The time period covered by the report (January 1 to June
+30 or July 1 to December 31).
+(4) The number of workplace batteries that were committed
+during the reporting period.
+(5) The job title of each health care employee or school
+employee who was the victim of the workplace battery.
+(6) The date of each workplace battery.
+(7) The address and specific location (such as "hospital
+emergency room" or "school parking lot") where the
+workplace battery occurred. However, if the battery occurred
+at the health care employee's or school employee's home, the
+report may not include the address.
+(8) The circumstances surrounding the workplace battery and
+any resulting injury, including the following, if known:
+(A) The gender of the victim.
+(B) The specific manner in which the workplace battery
+was committed (such as by striking, biting, pushing,
+kicking, use of an object, or use of a weapon).
+(C) Whether the victim required hospitalization.
+(D) If a weapon or other object was used to commit the
+workplace battery, the type of weapon or object.
+(E) Whether law enforcement was contacted or responded
+to the workplace battery.
+(F) Whether criminal charges were filed against the
+perpetrator.
+For a workplace battery that does not occur on the employer's
+premises, the employer shall provide as much information as is
+known to the employer.
+(e) The employer shall make the report required under this
+
+Section 4:
+section regardless of whether a person is criminally charged with
+EH 1040—LS 6292/DI 106
+25
+the workplace battery.".
+Page 15, delete lines 18 through 22.
+Page 18, delete lines 28 through 30.
+Page 19, delete lines 4 through 13, begin a new paragraph and
+insert:
+"(d) The offense described in subsection (b)(1) is a Class A
+misdemeanor if it is committed against a health care employee or
+school employee:
+(1) while the health care employee or school employee is
+acting within the scope of the health care employee's or school
+employee's employment;
+(2) while the health care employee or school employee is
+commuting to or from the health care employee's or school
+employee's place of employment; or
+(3) in retaliation for an act taken by the health care employee
+or school employee within the scope of the health care
+employee's or school employee's employment;
+unless the offense is committed by a person detained or committed
+under IC 12-26.".
+Page 20, delete lines 1 through 11, begin a new paragraph and
+insert:
+"(g) The offense described in subsection (b)(1) is a Level 6 felony
+if it results in bodily injury to a health care employee or school
+employee and is committed against the health care employee or
+school employee:
+(1) while the health care employee or school employee is
+acting within the scope of the health care employee's or school
+employee's employment;
+(2) while the health care employee or school employee is
+commuting to or from the health care employee's or school
+employee's place of employment; or
+(3) in retaliation for an act taken by the health care employee
+or school employee within the scope of the health care
+employee's or school employee's employment;
+unless the offense is committed by a person detained or committed
+under IC 12-26.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1040 as printed January 8, 2026.)
+EH 1040—LS 6292/DI 106
+26
+FREEMAN, Chairperson
+Committee Vote: Yeas 7, Nays 0.
+_____
+SENATE MOTION
+Mr. President: I move that Engrossed House Bill 1040 be amended
+to read as follows:
+Page 11, delete lines 20 through 42, begin a new paragraph, and
+insert:
+"SECTION 3. IC 22-1-1-24 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]: Sec. 24. (a) The following definitions apply throughout
+this section:
+(1) "Health care employee" has the meaning set forth in
+IC 35-42-2-1.
+(2) "School employee" has the meaning set forth in
+IC 35-42-2-1.
+(3) "Workplace battery" means a battery described in
+IC 35-42-2-1(d) or IC 35-42-2-1(g).
+(b) The employer of a health care employee or school employee
+shall make a workplace battery report as described in subsection
+(c) to the commissioner if a health care employee or school
+employee is the victim of workplace battery.
+(c) Beginning July 1, 2027, the employer shall make the
+workplace battery report required under subsection (b) each year
+before:
+(1) August 1, for the period from January 1 to June 30; and
+(2) February 1, for the period from July 1 to December 31.
+The report shall be made on a form provided by the commissioner.
+(d) The workplace battery report must include the following
+information:
+(1) The name of the employer.
+(2) The city and county in which a workplace battery was
+committed.
+(3) The time period covered by the report (January 1 to June
+30 or July 1 to December 31).
+(4) The number of workplace batteries that were committed
+during the reporting period.
+(5) The job title of each health care employee or school
+employee who was the victim of the workplace battery.
+EH 1040—LS 6292/DI 106
+27
+(6) The date of each workplace battery.
+(7) The address and specific location (such as "hospital
+emergency room" or "school parking lot") where the
+workplace battery occurred. However, if the battery occurred
+at the health care employee's or school employee's home, the
+report may not include the address.
+(8) The circumstances surrounding the workplace battery and
+any resulting injury, including the following, if known:
+(A) The gender of the victim.
+(B) The specific manner in which the workplace battery
+was committed (such as by striking, biting, pushing,
+kicking, use of an object, or use of a weapon).
+(C) Whether the victim required hospitalization.
+(D) If a weapon or other object was used to commit the
+workplace battery, the type of weapon or object.
+(E) Whether law enforcement was contacted or responded
+to the workplace battery.
+(F) Whether criminal charges were filed against the
+perpetrator.
+For a workplace battery that does not occur on the employer's
+premises, the employer shall provide as much information as is
+known to the employer.
+(e) The employer shall make the report required under this
+
+Section 5:
+section regardless of whether a person is criminally charged with
+the workplace battery.".
+Delete page 12.
+Page 13, delete lines 1 through 19.
+Renumber all SECTIONS consecutively.
+(Reference is to EHB 1040 as printed February 13, 2026.)
+FREEMAN
+EH 1040—LS 6292/DI 106
+[DELETED:  S t t e f b c D e w r i p R t e o a h c o s]
+[DELETED:  1 I 5 A A B P]
+[DELETED:  I 3 I 3 ( c 2 I 5 A A B P T d c b r a b a p u s a t c p r a]
+[DELETED:  C i f a d a d i a l e a a p u p r L e a o p u]
+[DELETED:  o p s t a v o d ( d b I 2 f t p o t s o s o a s o a a a l e e f t I W R s p d i I t r o e o]
+[DELETED:  i r o c p i t a c w n a i p t c d n t r r f r c b t I f a a e d d c s c t t b d a a c R t a i o i a o u a c w a p a t a D j o o p n s a t t n c j t b a]
+[DELETED:  A o t i t w a r k s v s v C p c c c f t b a f i a c u]
+[DELETED:  b g c o t d m r a i r a a o a t u T d w w T e c i o e a a ( d i I 8 t i o]
+[DELETED:  a l e r t c i i t c m n b r f p p d o r o a p a r o t p s b e  n s t p d u r a " a n s t p n o t p a t o o T h a h t n a e m w ( d i e m r ( d i a i t e t a a o t u]
+[DELETED:  N s ( t n t b a b t j d e a t b a l e o ( d i c o l e t o a " h t m s f i]
+[DELETED:  a c o s b a s e u I 3 o i a c f u o e m o t s e r o a c p s b a f a c u s 3 o t c a d n a t r r r]
+[DELETED:  o s s b m a i a w a e e m m m o m o o h " e h t m s f i " b m a b d i t t c i a h c e o s B J 1 2 t e s m t]
+[DELETED:  T j t o e h c e o s T a a s l ( a " r o " p l w t c ( a b s b p W c c w f a t 4 I 2 A A B P 1 2 S 4 ( T f d a]
+[DELETED:  " o v h t m s f i A p m a f c u t s i p p a a f o t h d]
+[DELETED:  r h i t e a b k t t M m m o f i h i t c o a u t c t t c h i n l i g f t c u t s b s o d f b f a p a b]
+[DELETED:  a c f a a a c b b e a a f c b A A N S T R A F p o I 3 h t m s f i A A N S T R A F A A N S T R A F o I 3 h t m s f i A l e o ( d i A s c p o a u]
+[DELETED:  " h t m s f i I 3 a r t c b t I w i a v o s a ( d i t d n i a i w i a o " s p h t m s f i 9 I 3 A A B P]
+[DELETED:  " c e m a i w a l e o i a a]
+[DELETED:  a d o c s e w " m a i r b b " m a p s c s o i e b a s o i i a c]
+[DELETED:  T o d i s ( i a C  w i s e w t s o t h c t c o t p w t m o p]
+[DELETED:  i I 3 b a p w n  i s e w t s o t h c T p h a p c f a b o]
+[DELETED:  o w p o a p w i w]
+[DELETED:  w r H B 1 h h t s u m t c o l o t o r t a n i t e b t S O S a H A t A A N S T R A F e]
+[DELETED:  w t r t s A a c e h t m s f i A A N S T R A F " e h t m s f i " b m a b d i t t c i a h c e o s]
+[DELETED:  B J 1 2 t e s m t T j t o e h c e o s T a a s l ( a " r o " p l w t c ( a b s b p W c c w f a t]
+[DELETED:  t w s e w t s o t h c o s s e w t s o t h c]
+[DELETED:  " e h t m s f i " b m a b d i t t c i a h c e o s B J 1 2 t e s m t T j t o e h c e o s]
+[DELETED:  T a a s l ( a " r o " p l w t c ( a b s b p W c c w f a t]
+
+
+================================================================================
+
+Raw Text:
+*EH1040.2*
+Reprinted
+February 20, 2026
+ENGROSSED
+HOUSE BILL No. 1040
+_____
+DIGEST OF HB 1040 (Updated February 19, 2026 3:41 pm - DI 106)
+Citations Affected: IC 5-2; IC 5-14; IC 22-1; IC 27-10; IC 35-31.5;
+IC 35-40.5; IC 35-42.
+Synopsis: Battery against school and healthcare employees. Increases
+the penalty for battery on certain health care employees and school
+employees. Specifies that the enhancement for battery committed
+against a department of child services (DCS) employee applies only to
+those DCS employees whose responsibilities include personally
+supervising a child or parent, personally providing services to a child
+or parent, or personally interviewing a child or parent as part of an
+investigation. Requires the employer of a health care or school
+employee who is the victim of battery to make a semiannual report to
+the department of labor concerning workplace batteries.
+Effective: July 1, 2026.
+McNamara, Engleman, Barrett,
+Pfaff
+(SENATE SPONSORS — FREEMAN, CARRASCO, RAATZ)
+December 2, 2025, read first time and referred to Committee on Courts and Criminal Code.
+January 8, 2026, amended, reported — Do Pass.
+January 12, 2026, read second time, ordered engrossed.
+January 13, 2026, engrossed. Read third time, passed. Yeas 92, nays 0.
+SENATE ACTION
+January 27, 2026, read first time and referred to Committee on Corrections and Criminal
+Law.
+February 12, 2026, amended, reported favorably — Do Pass.
+February 19, 2026, read second time, amended, ordered engrossed.
+EH 1040—LS 6292/DI 106
+
+Reprinted
+February 20, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1040
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-2-22-1, AS AMENDED BY P.L.161-2018,
+2 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. The following definitions apply throughout this
+4 chapter:
+5 (1) "Crime of child abuse" means:
+6 (A) neglect of a dependent (IC 35-46-1-4) if the dependent is
+7 a child and the offense is committed under:
+8 (i) IC 35-46-1-4(a)(1);
+9 (ii) IC 35-46-1-4(a)(2); or
+10 (iii) IC 35-46-1-4(a)(3);
+11 (B) child selling (IC 35-46-1-4(d));
+12 (C) a sex offense (as defined in IC 11-8-8-5.2) committed
+13 against a child; or
+14 (D) battery against a child under:
+15 (i) IC 35-42-2-1(e)(3) (battery on a child);
+16 (ii) IC 35-42-2-1(g)(5)(B) IC 35-42-2-1(h)(5)(B) (battery
+17 causing bodily injury to a child);
+EH 1040—LS 6292/DI 106
+
+2
+1 (iii) IC 35-42-2-1(j) IC 35-42-2-1(k) (battery causing
+2 serious bodily injury to a child); or
+3 (iv) IC 35-42-2-1(k) IC 35-42-2-1(l) (battery resulting in the
+4 death of a child).
+5 (2) "Office" refers to the office of judicial administration created
+6 under by IC 33-24-6-1.
+7 (3) "Registry" means the child abuse registry established under
+8 section 2 of this chapter.
+9 SECTION 2. IC 5-14-3-4, AS AMENDED BY P.L.33-2025,
+10 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]: Sec. 4. (a) The following public records are excepted
+12 from section 3 of this chapter and may not be disclosed by a public
+13 agency, unless access to the records is specifically required by a state
+14 or federal statute or is ordered by a court under the rules of discovery:
+15 (1) Those declared confidential by state statute.
+16 (2) Those declared confidential by rule adopted by a public
+17 agency under specific authority to classify public records as
+18 confidential granted to the public agency by statute.
+19 (3) Those required to be kept confidential by federal law.
+20 (4) Records containing trade secrets.
+21 (5) Confidential financial information obtained, upon request,
+22 from a person. However, this does not include information that is
+23 filed with or received by a public agency pursuant to state statute.
+24 (6) Information concerning research, including actual research
+25 documents, conducted under the auspices of a state educational
+26 institution, including information:
+27 (A) concerning any negotiations made with respect to the
+28 research; and
+29 (B) received from another party involved in the research.
+30 (7) Grade transcripts and license examination scores obtained as
+31 part of a licensure process.
+32 (8) Those declared confidential by or under rules adopted by the
+33 supreme court of Indiana.
+34 (9) Patient medical records and charts created by a provider,
+35 unless the patient gives written consent under IC 16-39 or as
+36 provided under IC 16-41-8.
+37 (10) Application information declared confidential by the Indiana
+38 economic development corporation under IC 5-28.
+39 (11) A photograph, a video recording, or an audio recording of an
+40 autopsy, except as provided in IC 36-2-14-10.
+41 (12) A Social Security number contained in the records of a
+42 public agency.
+EH 1040—LS 6292/DI 106
+
+3
+1 (13) The following information that is part of a foreclosure action
+2 subject to IC 32-30-10.5:
+3 (A) Contact information for a debtor, as described in
+4 IC 32-30-10.5-8(d)(1)(B).
+5 (B) Any document submitted to the court as part of the debtor's
+6 loss mitigation package under IC 32-30-10.5-10(a)(3).
+7 (14) The following information obtained from a call made to a
+8 fraud hotline established under IC 36-1-8-8.5:
+9 (A) The identity of any individual who makes a call to the
+10 fraud hotline.
+11 (B) A report, transcript, audio recording, or other information
+12 concerning a call to the fraud hotline.
+13 However, records described in this subdivision may be disclosed
+14 to a law enforcement agency, a private university police
+15 department, the attorney general, the inspector general, the state
+16 examiner, or a prosecuting attorney.
+17 (15) Information described in section 5(c)(3)(B) of this chapter
+18 that is contained in a daily log or record described in section 5(c)
+19 of this chapter for a victim of a crime or delinquent act who is less
+20 than eighteen (18) years of age, unless and to the extent that:
+21 (A) a parent, guardian, or custodian of the victim consents in
+22 writing to public disclosure of the records; and
+23 (B) that parent, guardian, or custodian of the victim has not
+24 been charged with or convicted of committing a crime against
+25 the victim.
+26 However, records described in this subdivision may be disclosed
+27 to the department of child services.
+28 (b) Except as otherwise provided by subsection (a), the following
+29 public records shall be excepted from section 3 of this chapter at the
+30 discretion of a public agency:
+31 (1) Investigatory records of law enforcement agencies or private
+32 university police departments. For purposes of this chapter, a law
+33 enforcement recording is not an investigatory record. However,
+34 information described in subsection (a)(15) contained in a law
+35 enforcement recording is exempt from disclosure, unless and to
+36 the extent that a parent, guardian, or custodian of the victim
+37 consents in writing to public disclosure of the records. However,
+38 a parent, guardian, or custodian charged with or convicted of a
+39 crime against the victim may not consent to public disclosure of
+40 the records. Law enforcement agencies or private university
+41 police departments may share investigatory records with:
+42 (A) a person who advocates on behalf of a crime victim,
+EH 1040—LS 6292/DI 106
+
+4
+1 including a victim advocate (as defined in IC 35-37-6-3.5) or
+2 a victim service provider (as defined in IC 35-37-6-5), for the
+3 purposes of providing services to a victim or describing
+4 services that may be available to a victim;
+5 (B) a school corporation (as defined by IC 20-18-2-16(a)),
+6 charter school (as defined by IC 20-24-1-4), or nonpublic
+7 school (as defined by IC 20-18-2-12) for the purpose of
+8 enhancing the safety or security of a student or a school
+9 facility; and
+10 (C) the victim services division of the Indiana criminal justice
+11 institute under IC 5-2-6-8, for the purposes of conducting an
+12 investigation under IC 5-2-6.1-26;
+13 without the law enforcement agency or private university police
+14 department losing its discretion to keep those records confidential
+15 from other records requesters. However, certain law enforcement
+16 records must be made available for inspection and copying as
+17 provided in section 5 of this chapter.
+18 (2) The work product of an attorney representing, pursuant to
+19 state employment or an appointment by a public agency:
+20 (A) a public agency;
+21 (B) the state; or
+22 (C) an individual.
+23 (3) Test questions, scoring keys, and other examination data used
+24 in administering a licensing examination, examination for
+25 employment, or academic examination before the examination is
+26 given or if it is to be given again.
+27 (4) Scores of tests if the person is identified by name and has not
+28 consented to the release of the person's scores.
+29 (5) The following:
+30 (A) Records relating to negotiations between:
+31 (i) the Indiana economic development corporation;
+32 (ii) the ports of Indiana;
+33 (iii) the Indiana state department of agriculture;
+34 (iv) the Indiana finance authority;
+35 (v) an economic development commission;
+36 (vi) the Indiana White River state park development
+37 commission;
+38 (vii) a local economic development organization that is a
+39 nonprofit corporation established under state law whose
+40 primary purpose is the promotion of industrial or business
+41 development in Indiana, the retention or expansion of
+42 Indiana businesses, or the development of entrepreneurial
+EH 1040—LS 6292/DI 106
+
+5
+1 activities in Indiana; or
+2 (viii) a governing body of a political subdivision;
+3 with industrial, research, or commercial prospects, if the
+4 records are created while negotiations are in progress.
+5 However, this clause does not apply to records regarding
+6 research that is prohibited under IC 16-34.5-1-2 or any other
+7 law.
+8 (B) Notwithstanding clause (A), the terms of the final offer of
+9 public financial resources communicated by the Indiana
+10 economic development corporation, the ports of Indiana, the
+11 Indiana finance authority, an economic development
+12 commission, the Indiana White River state park development
+13 commission, or a governing body of a political subdivision to
+14 an industrial, a research, or a commercial prospect shall be
+15 available for inspection and copying under section 3 of this
+16 chapter after negotiations with that prospect have terminated.
+17 (C) When disclosing a final offer under clause (B), the Indiana
+18 economic development corporation shall certify that the
+19 information being disclosed accurately and completely
+20 represents the terms of the final offer.
+21 (D) Notwithstanding clause (A), an incentive agreement with
+22 an incentive recipient shall be available for inspection and
+23 copying under section 3 of this chapter after the date the
+24 incentive recipient and the Indiana economic development
+25 corporation execute the incentive agreement regardless of
+26 whether negotiations are in progress with the recipient after
+27 that date regarding a modification or extension of the incentive
+28 agreement.
+29 (6) Records that are intra-agency or interagency advisory or
+30 deliberative material, including material developed by a private
+31 contractor under a contract with a public agency, that are
+32 expressions of opinion or are of a speculative nature, and that are
+33 communicated for the purpose of decision making.
+34 (7) Diaries, journals, or other personal notes serving as the
+35 functional equivalent of a diary or journal.
+36 (8) Personnel files of public employees and files of applicants for
+37 public employment, except for:
+38 (A) the name, compensation, job title, business address,
+39 business telephone number, job description, education and
+40 training background, previous work experience, or dates of
+41 first and last employment of present or former officers or
+42 employees of the agency;
+EH 1040—LS 6292/DI 106
+
+6
+1 (B) information relating to the status of any formal charges
+2 against the employee; and
+3 (C) the factual basis for a disciplinary action in which final
+4 action has been taken and that resulted in the employee being
+5 suspended, demoted, or discharged.
+6 However, all personnel file information shall be made available
+7 to the affected employee or the employee's representative. This
+8 subdivision does not apply to disclosure of personnel information
+9 generally on all employees or for groups of employees without the
+10 request being particularized by employee name.
+11 (9) Minutes or records of hospital medical staff meetings.
+12 (10) Administrative or technical information that would
+13 jeopardize a record keeping system, voting system, voter
+14 registration system, or security system.
+15 (11) Computer programs, computer codes, computer filing
+16 systems, and other software that are owned by the public agency
+17 or entrusted to it and portions of electronic maps entrusted to a
+18 public agency by a utility.
+19 (12) Records specifically prepared for discussion or developed
+20 during discussion in an executive session under IC 5-14-1.5-6.1.
+21 However, this subdivision does not apply to that information
+22 required to be available for inspection and copying under
+23 subdivision (8).
+24 (13) The work product of the legislative services agency under
+25 personnel rules approved by the legislative council.
+26 (14) The work product of individual members and the partisan
+27 staffs of the general assembly.
+28 (15) The identity of a donor of a gift made to a public agency if:
+29 (A) the donor requires nondisclosure of the donor's identity as
+30 a condition of making the gift; or
+31 (B) after the gift is made, the donor or a member of the donor's
+32 family requests nondisclosure.
+33 (16) Library or archival records:
+34 (A) which can be used to identify any library patron; or
+35 (B) deposited with or acquired by a library upon a condition
+36 that the records be disclosed only:
+37 (i) to qualified researchers;
+38 (ii) after the passing of a period of years that is specified in
+39 the documents under which the deposit or acquisition is
+40 made; or
+41 (iii) after the death of persons specified at the time of the
+42 acquisition or deposit.
+EH 1040—LS 6292/DI 106
+
+7
+1 However, nothing in this subdivision shall limit or affect contracts
+2 entered into by the Indiana state library pursuant to IC 4-1-6-8.
+3 (17) The identity of any person who contacts the bureau of motor
+4 vehicles concerning the ability of a driver to operate a motor
+5 vehicle safely and the medical records and evaluations made by
+6 the bureau of motor vehicles staff or members of the driver
+7 licensing medical advisory board regarding the ability of a driver
+8 to operate a motor vehicle safely. However, upon written request
+9 to the commissioner of the bureau of motor vehicles, the driver
+10 must be given copies of the driver's medical records and
+11 evaluations.
+12 (18) School safety and security measures, plans, and systems,
+13 including emergency preparedness plans developed under 511
+14 IAC 6.1-2-2.5.
+15 (19) A record or a part of a record, the public disclosure of which
+16 would have a reasonable likelihood of threatening public safety
+17 by exposing a vulnerability to terrorist attack. A record described
+18 under this subdivision includes the following:
+19 (A) A record assembled, prepared, or maintained to prevent,
+20 mitigate, or respond to an act of terrorism under IC 35-47-12-1
+21 (before its repeal), an act of agricultural terrorism under
+22 IC 35-47-12-2 (before its repeal), or a felony terrorist offense
+23 (as defined in IC 35-50-2-18).
+24 (B) Vulnerability assessments.
+25 (C) Risk planning documents.
+26 (D) Needs assessments.
+27 (E) Threat assessments.
+28 (F) Intelligence assessments.
+29 (G) Domestic preparedness strategies.
+30 (H) The location of community drinking water wells and
+31 surface water intakes.
+32 (I) The emergency contact information of emergency
+33 responders and volunteers.
+34 (J) Infrastructure records that disclose the configuration of
+35 critical systems such as voting system and voter registration
+36 system critical infrastructure, and communication, electrical,
+37 ventilation, water, and wastewater systems.
+38 (K) Detailed drawings or specifications of structural elements,
+39 floor plans, and operating, utility, or security systems, whether
+40 in paper or electronic form, of any building or facility located
+41 on an airport (as defined in IC 8-21-1-1) that is owned,
+42 occupied, leased, or maintained by a public agency, or any part
+EH 1040—LS 6292/DI 106
+
+8
+1 of a law enforcement recording that captures information
+2 about airport security procedures, areas, or systems. A record
+3 described in this clause may not be released for public
+4 inspection by any public agency without the prior approval of
+5 the public agency that owns, occupies, leases, or maintains the
+6 airport. Both of the following apply to the public agency that
+7 owns, occupies, leases, or maintains the airport:
+8 (i) The public agency is responsible for determining whether
+9 the public disclosure of a record or a part of a record,
+10 including a law enforcement recording, has a reasonable
+11 likelihood of threatening public safety by exposing a
+12 security procedure, area, system, or vulnerability to terrorist
+13 attack.
+14 (ii) The public agency must identify a record described
+15 under item (i) and clearly mark the record as "confidential
+16 and not subject to public disclosure under
+17 IC 5-14-3-4(b)(19)(J) without approval of (insert name of
+18 submitting public agency)". However, in the case of a law
+19 enforcement recording, the public agency must clearly mark
+20 the record as "confidential and not subject to public
+21 disclosure under IC 5-14-3-4(b)(19)(K) without approval of
+22 (insert name of the public agency that owns, occupies,
+23 leases, or maintains the airport)".
+24 (L) The home address, home telephone number, and
+25 emergency contact information for any:
+26 (i) emergency management worker (as defined in
+27 IC 10-14-3-3);
+28 (ii) public safety officer (as defined in IC 35-47-4.5-3);
+29 (iii) emergency medical responder (as defined in
+30 IC 16-18-2-109.8); or
+31 (iv) advanced emergency medical technician (as defined in
+32 IC 16-18-2-6.5).
+33 (M) Information relating to security measures or precautions
+34 used to secure the statewide 911 system under IC 36-8-16.7.
+35 This subdivision does not apply to a record or portion of a record
+36 pertaining to a location or structure owned or protected by a
+37 public agency in the event that an act of terrorism under
+38 IC 35-47-12-1 (before its repeal), an act of agricultural terrorism
+39 under IC 35-47-12-2 (before its repeal), or a felony terrorist
+40 offense (as defined in IC 35-50-2-18) has occurred at that location
+41 or structure, unless release of the record or portion of the record
+42 would have a reasonable likelihood of threatening public safety
+EH 1040—LS 6292/DI 106
+
+9
+1 by exposing a vulnerability of other locations or structures to
+2 terrorist attack.
+3 (20) The following personal information concerning a customer
+4 of a municipally owned utility (as defined in IC 8-1-2-1):
+5 (A) Telephone number.
+6 (B) Address.
+7 (C) Social Security number.
+8 (21) The following personal information about a complainant
+9 contained in records of a law enforcement agency:
+10 (A) Telephone number.
+11 (B) The complainant's address. However, if the complainant's
+12 address is the location of the suspected crime, infraction,
+13 accident, or complaint reported, the address shall be made
+14 available for public inspection and copying.
+15 (22) Notwithstanding subdivision (8)(A), the name,
+16 compensation, job title, business address, business telephone
+17 number, job description, education and training background,
+18 previous work experience, or dates of first employment of a law
+19 enforcement officer who is operating in an undercover capacity.
+20 (23) Records requested by an offender, an agent, or a relative of
+21 an offender that:
+22 (A) contain personal information relating to:
+23 (i) a correctional officer (as defined in IC 5-10-10-1.5);
+24 (ii) a probation officer;
+25 (iii) a community corrections officer;
+26 (iv) a law enforcement officer (as defined in
+27 IC 35-31.5-2-185);
+28 (v) a judge (as defined in IC 33-38-12-3);
+29 (vi) the victim of a crime; or
+30 (vii) a family member of a correctional officer, probation
+31 officer, community corrections officer, law enforcement
+32 officer (as defined in IC 35-31.5-2-185), judge (as defined
+33 in IC 33-38-12-3), or victim of a crime; or
+34 (B) concern or could affect the security of a jail or correctional
+35 facility.
+36 For purposes of this subdivision, "agent" means a person who is
+37 authorized by an offender to act on behalf of, or at the direction
+38 of, the offender, and "relative" has the meaning set forth in
+39 IC 35-42-2-1(b). IC 35-42-2-1(a). However, the term "agent"
+40 does not include an attorney in good standing admitted to the
+41 practice of law in Indiana.
+42 (24) Information concerning an individual less than eighteen (18)
+EH 1040—LS 6292/DI 106
+
+10
+1 years of age who participates in a conference, meeting, program,
+2 or activity conducted or supervised by a state educational
+3 institution, including the following information regarding the
+4 individual or the individual's parent or guardian:
+5 (A) Name.
+6 (B) Address.
+7 (C) Telephone number.
+8 (D) Electronic mail account address.
+9 (25) Criminal intelligence information.
+10 (26) The following information contained in a report of unclaimed
+11 property under IC 32-34-1.5-18 or in a claim for unclaimed
+12 property under IC 32-34-1.5-48:
+13 (A) Date of birth.
+14 (B) Driver's license number.
+15 (C) Taxpayer identification number.
+16 (D) Employer identification number.
+17 (E) Account number.
+18 (27) Except as provided in subdivision (19) and sections 5.1 and
+19 5.2 of this chapter, a law enforcement recording. However, before
+20 disclosing the recording, the public agency must comply with the
+21 obscuring requirements of sections 5.1 and 5.2 of this chapter, if
+22 applicable.
+23 (28) Records relating to negotiations between a state educational
+24 institution and another entity concerning the establishment of a
+25 collaborative relationship or venture to advance the research,
+26 engagement, or educational mission of the state educational
+27 institution, if the records are created while negotiations are in
+28 progress. The terms of the final offer of public financial resources
+29 communicated by the state educational institution to an industrial,
+30 a research, or a commercial prospect shall be available for
+31 inspection and copying under section 3 of this chapter after
+32 negotiations with that prospect have terminated. However, this
+33 subdivision does not apply to records regarding research
+34 prohibited under IC 16-34.5-1-2 or any other law.
+35 (c) Nothing contained in subsection (b) shall limit or affect the right
+36 of a person to inspect and copy a public record required or directed to
+37 be made by any statute or by any rule of a public agency.
+38 (d) Notwithstanding any other law, a public record that is classified
+39 as confidential, other than a record concerning:
+40 (1) an adoption or patient medical records; or
+41 (2) a birth or stillbirth;
+42 shall be made available for inspection and copying seventy-five (75)
+EH 1040—LS 6292/DI 106
+
+11
+1 years after the creation of that record. A registration or certificate of a
+2 birth or stillbirth shall be made available in accordance with
+3 IC 16-37-1-7.5.
+4 (e) Only the content of a public record may form the basis for the
+5 adoption by any public agency of a rule or procedure creating an
+6 exception from disclosure under this section.
+7 (f) Except as provided by law, a public agency may not adopt a rule
+8 or procedure that creates an exception from disclosure under this
+9 section based upon whether a public record is stored or accessed using
+10 paper, electronic media, magnetic media, optical media, or other
+11 information storage technology.
+12 (g) Except as provided by law, a public agency may not adopt a rule
+13 or procedure nor impose any costs or liabilities that impede or restrict
+14 the reproduction or dissemination of any public record.
+15 (h) Notwithstanding subsection (d) and section 7 of this chapter:
+16 (1) public records subject to IC 5-15 may be destroyed only in
+17 accordance with record retention schedules under IC 5-15; or
+18 (2) public records not subject to IC 5-15 may be destroyed in the
+19 ordinary course of business.
+20 SECTION 3. IC 22-1-1-24 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2026]: Sec. 24. (a) The following definitions apply throughout
+23 this section:
+24 (1) "Health care employee" has the meaning set forth in
+25 IC 35-42-2-1.
+26 (2) "School employee" has the meaning set forth in
+27 IC 35-42-2-1.
+28 (3) "Workplace battery" means a battery described in
+29 IC 35-42-2-1(d) or IC 35-42-2-1(g).
+30 (b) The employer of a health care employee or school employee
+31 shall make a workplace battery report as described in subsection
+32 (c) to the commissioner if a health care employee or school
+33 employee is the victim of workplace battery.
+34 (c) Beginning July 1, 2027, the employer shall make the
+35 workplace battery report required under subsection (b) each year
+36 before:
+37 (1) August 1, for the period from January 1 to June 30; and
+38 (2) February 1, for the period from July 1 to December 31.
+39 The report shall be made on a form provided by the commissioner.
+40 (d) The workplace battery report must include the following
+41 information:
+42 (1) The name of the employer.
+EH 1040—LS 6292/DI 106
+
+12
+1 (2) The city and county in which a workplace battery was
+2 committed.
+3 (3) The time period covered by the report (January 1 to June
+4 30 or July 1 to December 31).
+5 (4) The number of workplace batteries that were committed
+6 during the reporting period.
+7 (5) The job title of each health care employee or school
+8 employee who was the victim of the workplace battery.
+9 (6) The date of each workplace battery.
+10 (7) The address and specific location (such as "hospital
+11 emergency room" or "school parking lot") where the
+12 workplace battery occurred. However, if the battery occurred
+13 at the health care employee's or school employee's home, the
+14 report may not include the address.
+15 (8) The circumstances surrounding the workplace battery and
+16 any resulting injury, including the following, if known:
+17 (A) The gender of the victim.
+18 (B) The specific manner in which the workplace battery
+19 was committed (such as by striking, biting, pushing,
+20 kicking, use of an object, or use of a weapon).
+21 (C) Whether the victim required hospitalization.
+22 (D) If a weapon or other object was used to commit the
+23 workplace battery, the type of weapon or object.
+24 (E) Whether law enforcement was contacted or responded
+25 to the workplace battery.
+26 (F) Whether criminal charges were filed against the
+27 perpetrator.
+28 For a workplace battery that does not occur on the employer's
+29 premises, the employer shall provide as much information as is
+30 known to the employer.
+31 (e) The employer shall make the report required under this
+32 section regardless of whether a person is criminally charged with
+33 the workplace battery.
+34 SECTION 4. IC 27-10-2-4.5, AS ADDED BY P.L.147-2022,
+35 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2026]: Sec. 4.5. (a) The following definitions apply
+37 throughout this section:
+38 (1) "Charitable bail organization" means a business entity, or a
+39 nonprofit organization under:
+40 (A) the Internal Revenue Code; or
+41 (B) Indiana law;
+42 that exists for the purpose of paying cash bail for another person.
+EH 1040—LS 6292/DI 106
+
+13
+1 However, the term does not include a person who pays cash bail
+2 for three (3) or fewer defendants in any one hundred eighty (180)
+3 day period, or a person who pays bail for a relative (as defined in
+4 IC 35-42-2-1(b)). IC 35-42-2-1(a)).
+5 (2) "Crime of violence" has the meaning set forth in
+6 IC 35-50-1-2(a).
+7 (b) The commissioner may certify a charitable bail organization if
+8 the charitable bail organization:
+9 (1) is a business entity, or a nonprofit organization under:
+10 (A) the Internal Revenue Code; or
+11 (B) Indiana law;
+12 (2) is currently registered to do business in Indiana;
+13 (3) is located in Indiana; and
+14 (4) exists for the purpose of depositing cash bail for an indigent
+15 defendant who:
+16 (A) is not charged with a crime of violence; or
+17 (B) if charged with a felony, does not have a prior conviction
+18 for a crime of violence.
+19 (c) A person may apply for certification under this section in
+20 accordance with rules adopted under this section.
+21 (d) The commissioner shall certify a person as a charitable bail
+22 organization if the:
+23 (1) person pays an application fee of three hundred dollars
+24 ($300);
+25 (2) person meets the requirements of this section; and
+26 (3) person, including an officer or director of the person, has not
+27 engaged in conduct that:
+28 (A) constitutes fraud, dishonesty, or deception;
+29 (B) constitutes malfeasance, misfeasance, or nonfeasance in
+30 dealing with money; or
+31 (C) resulted in the suspension or revocation of a previous
+32 certification.
+33 (e) A charitable bail certification is valid for two (2) years from the
+34 date of issuance and may be renewed upon payment of a renewal fee
+35 of three hundred dollars ($300). If a person applies for renewal before
+36 the expiration of the existing certification, the existing certification
+37 remains valid until the commissioner renews the certification, or until
+38 five (5) days after the commissioner denies the application for renewal.
+39 A person is entitled to renewal unless the commissioner denies the
+40 application for renewal under subsection (f).
+41 (f) The commissioner shall deny, suspend, revoke, or refuse to
+42 renew certification for any of the following causes:
+EH 1040—LS 6292/DI 106
+
+14
+1 (1) Any cause for which issuance of the certification could have
+2 been refused had it then existed and been known to the
+3 commissioner.
+4 (2) Violation of any laws of this state in the course of dealings
+5 under the certification.
+6 (3) Material misstatement, misrepresentation, or fraud in
+7 obtaining the certification.
+8 (4) Misappropriation, conversion, or unlawful withholding of
+9 money belonging to donors or others and received in the conduct
+10 of business under the certification.
+11 (5) Fraudulent or dishonest practices in the conduct of business
+12 under the certification.
+13 (6) Willful failure to comply with or willful violation of any
+14 proper order or rule of the commissioner.
+15 (7) When, in the judgment of the commissioner, the certificate
+16 holder has, in the conduct of affairs under the certification,
+17 demonstrated:
+18 (A) incompetency or untrustworthiness;
+19 (B) conduct or practices rendering the certificate holder unfit
+20 to carry on charitable bail activities or making the certificate
+21 holder's continuance detrimental to the public interest; or
+22 (C) that the certificate holder is no longer in good faith
+23 carrying on as a charitable bail organization;
+24 and for these reasons is found by the commissioner to be a source
+25 of detriment, injury, or loss to the public.
+26 (8) The listing of the name of the applicant or certificate holder on
+27 the most recent tax warrant list supplied to the commissioner by
+28 the department of state revenue.
+29 (g) A charitable bail organization must comply with all of the
+30 following:
+31 (1) If the charitable bail organization pays, or intends to pay, bail
+32 for more than three (3) individuals in any one hundred eighty
+33 (180) day period, the charitable bail organization must be certified
+34 by the commissioner under this section before soliciting or
+35 accepting donations for bail for another person, and before
+36 depositing money for bail for another person.
+37 (2) A charitable bail organization may not pay bail for a defendant
+38 who:
+39 (A) is charged with a crime of violence; or
+40 (B) is charged with a felony and has a prior conviction for a
+41 crime of violence.
+42 (3) A charitable bail organization may not execute a surety bond
+EH 1040—LS 6292/DI 106
+
+15
+1 for a defendant.
+2 (4) A charitable bail organization shall, before paying bail for an
+3 individual, execute an agreement described in IC 35-33-8-3.2
+4 allowing the court to retain all or a part of the bail to pay publicly
+5 paid costs of representation and fines, costs, fees, and restitution
+6 that the court may order the defendant to pay if the defendant is
+7 convicted.
+8 (5) A charitable bail organization may not charge a premium or
+9 receive any consideration for acting as a charitable bail
+10 organization.
+11 (h) All fees collected under this section must be deposited in the
+12 bail bond enforcement and administration fund created by
+13 IC 27-10-5-1.
+14 (i) Any authorized employee of a charitable bail organization may
+15 only deposit cash bail to the court.
+16 (j) If an individual fails to appear, the bail shall be forfeited in the
+17 manner described in IC 35-33-8-7 and the court shall take the steps
+18 described in IC 35-33-8-8.
+19 SECTION 5. IC 35-31.5-2-151.8 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 151.8. "Health care employee",
+22 for purposes of IC 35-42-2-1, has the meaning set forth in
+23 IC 35-42-2-1.
+24 SECTION 6. IC 35-31.5-2-282.9 IS ADDED TO THE INDIANA
+25 CODE AS A NEW SECTION TO READ AS FOLLOWS
+26 [EFFECTIVE JULY 1, 2026]: Sec. 282.9. "School", for purposes of
+27 IC 35-42-2-1, has the meaning set forth in IC 35-42-2-1.
+28 SECTION 7. IC 35-31.5-2-284.4 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE JULY 1, 2026]: Sec. 284.4. "School employee", for
+31 purposes of IC 35-42-2-1, has the meaning set forth in
+32 IC 35-42-2-1.
+33 SECTION 8. IC 35-40.5-1-1, AS AMENDED BY P.L.32-2021,
+34 SECTION 94, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 1. The following definitions apply throughout this
+36 article:
+37 (1) "Law enforcement officer" means any of the following:
+38 (A) A law enforcement officer (as defined in
+39 IC 35-31.5-2-185).
+40 (B) A state educational institution police officer appointed
+41 under IC 21-39-4.
+42 (C) A school corporation police officer appointed under
+EH 1040—LS 6292/DI 106
+
+16
+1 IC 20-26-16.
+2 (D) A school resource officer (as defined in IC 20-26-18.2-1).
+3 (E) A police officer of a private postsecondary educational
+4 institution whose governing board has appointed the police
+5 officer under IC 21-17-5-2.
+6 (2) "Provider" has the meaning set forth in IC 16-21-8-0.2.
+7 (3) "Relative" has the meaning set forth in IC 35-42-2-1(b).
+8 IC 35-42-2-1(a).
+9 (4) "Sexual assault forensic evidence" means the results collected
+10 from a forensic medical examination of a victim by a provider.
+11 (5) "State sexual assault response team" means the statewide
+12 sexual assault response team coordinated by the Indiana
+13 prosecuting attorneys council and the Indiana criminal justice
+14 institute.
+15 (6) "Victim" means an individual:
+16 (A) who is a victim of sexual assault (as defined in
+17 IC 5-26.5-1-8); or
+18 (B) who:
+19 (i) is a relative of or a person who has had a close personal
+20 relationship with the individual described under clause (A);
+21 and
+22 (ii) is designated by the individual described under clause
+23 (A) as a representative.
+24 The term does not include an individual who is accused of
+25 committing an act of sexual assault (as defined in IC 5-26.5-1-8)
+26 against the individual described under clause (A).
+27 (7) "Victim advocate" has the meaning set forth in IC 35-37-6-3.5.
+28 (8) "Victim service provider" has the meaning set forth in
+29 IC 35-37-6-5.
+30 SECTION 9. IC 35-42-2-0.5, AS ADDED BY P.L.65-2016,
+31 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]: Sec. 0.5. "Relative", for purposes of IC 35-42-2-1,
+33 section 1 of this chapter, has the meaning set forth in IC 35-42-2-1(b).
+34 section 1(a) of this chapter.
+35 SECTION 10. IC 35-42-2-1, AS AMENDED BY P.L.148-2024,
+36 SECTION 24, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 1. (a) As used in this section, "public safety
+38 official" means:
+39 (1) a law enforcement officer, including an alcoholic beverage
+40 enforcement officer;
+41 (2) an employee of a penal facility or a juvenile detention facility
+42 (as defined in IC 31-9-2-71);
+EH 1040—LS 6292/DI 106
+
+17
+1 (3) an employee of the department of correction;
+2 (4) a probation officer;
+3 (5) a parole officer;
+4 (6) a community corrections worker;
+5 (7) a home detention officer;
+6 (8) a department of child services employee;
+7 (9) a firefighter;
+8 (10) an emergency medical services provider;
+9 (11) a judicial officer;
+10 (12) a bailiff of any court; or
+11 (13) a special deputy (as described in IC 36-8-10-10.6).
+12 (b) As used in this section, "relative" means an individual related by
+13 blood, half-blood, adoption, marriage, or remarriage, including:
+14 (1) a spouse;
+15 (2) a parent or stepparent;
+16 (3) a child or stepchild;
+17 (4) a grandchild or stepgrandchild;
+18 (5) a grandparent or stepgrandparent;
+19 (6) a brother, sister, stepbrother, or stepsister;
+20 (7) a niece or nephew;
+21 (8) an aunt or uncle;
+22 (9) a daughter-in-law or son-in-law;
+23 (10) a mother-in-law or father-in-law; or
+24 (11) a first cousin.
+25 (a) The following definitions apply throughout this section:
+26 (1) "Health care employee" means an individual whose
+27 responsibilities involve contact or interaction with a patient,
+28 and who is employed by, in a contractual relationship with, or
+29 providing services on behalf of:
+30 (A) an individual;
+31 (B) a partnership;
+32 (C) a professional corporation;
+33 (D) a facility;
+34 (E) an institution;
+35 (F) a hospital; or
+36 (G) any entity;
+37 that is licensed, certified, or authorized to administer health
+38 care in the ordinary course of business or practice of the
+39 profession.
+40 (2) "Public safety official" means:
+41 (A) a law enforcement officer, including an alcoholic
+42 beverage enforcement officer;
+EH 1040—LS 6292/DI 106
+
+18
+1 (B) an employee of a penal facility or a juvenile detention
+2 facility (as defined in IC 31-9-2-71);
+3 (C) an employee of the department of correction;
+4 (D) a probation officer;
+5 (E) a parole officer;
+6 (F) a community corrections worker;
+7 (G) a home detention officer;
+8 (H) a department of child services employee whose
+9 responsibilities include:
+10 (i) personally supervising a child or parent;
+11 (ii) personally providing services to a child or parent; or
+12 (iii) personally interviewing a child or parent as part of
+13 an investigation;
+14 (I) a firefighter;
+15 (J) an emergency medical services provider;
+16 (K) a judicial officer;
+17 (L) a bailiff of any court; or
+18 (M) a special deputy (as described in IC 36-8-10-10.6).
+19 (3) "Relative" means an individual related by blood,
+20 half-blood, adoption, marriage, or remarriage, including:
+21 (A) a spouse;
+22 (B) a parent or stepparent;
+23 (C) a child or stepchild;
+24 (D) a grandchild or stepgrandchild;
+25 (E) a grandparent or stepgrandparent;
+26 (F) a brother, sister, stepbrother, or stepsister;
+27 (G) a niece or nephew;
+28 (H) an aunt or uncle;
+29 (I) a daughter-in-law or son-in-law;
+30 (J) a mother-in-law or father-in-law; or
+31 (K) a first cousin.
+32 (4) "School" means a public school, charter school, or
+33 nonpublic school with at least one (1) employee.
+34 (5) "School employee" means a person who:
+35 (A) is employed by a school or is in a contractual
+36 relationship with a school; and
+37 (B) has direct and ongoing contact with a student.
+38 (c) (b) Except as provided in subsections (d) (c) through (k), (l), a
+39 person who knowingly or intentionally:
+40 (1) touches another person in a rude, insolent, or angry manner;
+41 or
+42 (2) in a rude, insolent, or angry manner places any bodily fluid or
+EH 1040—LS 6292/DI 106
+
+19
+1 waste on another person;
+2 commits battery, a Class B misdemeanor.
+3 (d) (c) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+4 (b)(2) is a Class A misdemeanor if it:
+5 (1) results in bodily injury to any other person; or
+6 (2) is committed against a member of a foster family home (as
+7 defined in IC 35-31.5-2-139.3) by a person who is not a resident
+8 of the foster family home if the person who committed the offense
+9 is a relative of a person who lived in the foster family home at the
+10 time of the offense.
+11 (d) The offense described in subsection (b)(1) is a Class A
+12 misdemeanor if it is committed against a health care employee or
+13 school employee:
+14 (1) while the health care employee or school employee is
+15 acting within the scope of the health care employee's or school
+16 employee's employment;
+17 (2) while the health care employee or school employee is
+18 commuting to or from the health care employee's or school
+19 employee's place of employment; or
+20 (3) in retaliation for an act taken by the health care employee
+21 or school employee within the scope of the health care
+22 employee's or school employee's employment;
+23 unless the offense is committed by a person detained or committed
+24 under IC 12-26.
+25 (e) The offense described in subsection (c)(1) (b)(1) or (c)(2) (b)(2)
+26 is a Level 6 felony if one (1) or more of the following apply:
+27 (1) The offense results in moderate bodily injury to any other
+28 person.
+29 (2) The offense is committed against a public safety official while
+30 the official is engaged in the official's official duty, unless the
+31 offense is committed by a person detained or committed under
+32 IC 12-26.
+33 (3) The offense is committed against a person less than fourteen
+34 (14) years of age and is committed by a person at least eighteen
+35 (18) years of age.
+36 (4) The offense is committed against a person of any age who has
+37 a mental or physical disability and is committed by a person
+38 having the care of the person with the mental or physical
+39 disability, whether the care is assumed voluntarily or because of
+40 a legal obligation.
+41 (5) The offense is committed against an endangered adult (as
+42 defined in IC 12-10-3-2).
+EH 1040—LS 6292/DI 106
+
+20
+1 (6) The offense:
+2 (A) is committed against a member of a foster family home (as
+3 defined in IC 35-31.5-2-139.3) by a person who is not a
+4 resident of the foster family home if the person who committed
+5 the offense is a relative of a person who lived in the foster
+6 family home at the time of the offense; and
+7 (B) results in bodily injury to the member of the foster family.
+8 (f) The offense described in subsection (c)(2) (b)(2) is a Level 6
+9 felony if the person knew or recklessly failed to know that the bodily
+10 fluid or waste placed on another person was infected with hepatitis,
+11 tuberculosis, or human immunodeficiency virus.
+12 (g) The offense described in subsection (b)(1) is a Level 6 felony
+13 if it results in bodily injury to a health care employee or school
+14 employee and is committed against the health care employee or
+15 school employee:
+16 (1) while the health care employee or school employee is
+17 acting within the scope of the health care employee's or school
+18 employee's employment;
+19 (2) while the health care employee or school employee is
+20 commuting to or from the health care employee's or school
+21 employee's place of employment; or
+22 (3) in retaliation for an act taken by the health care employee
+23 or school employee within the scope of the health care
+24 employee's or school employee's employment;
+25 unless the offense is committed by a person detained or committed
+26 under IC 12-26.
+27 (g) (h) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+28 (b)(2) is a Level 5 felony if one (1) or more of the following apply:
+29 (1) The offense results in serious bodily injury to another person.
+30 (2) The offense is committed with a deadly weapon.
+31 (3) The offense results in bodily injury to a pregnant woman if the
+32 person knew of the pregnancy.
+33 (4) The person has a previous conviction for a battery or
+34 strangulation offense included in this chapter against the same
+35 victim.
+36 (5) The offense results in bodily injury to one (1) or more of the
+37 following:
+38 (A) A public safety official while the official is engaged in the
+39 official's official duties, unless the offense is committed by a
+40 person detained or committed under IC 12-26.
+41 (B) A person less than fourteen (14) years of age if the offense
+42 is committed by a person at least eighteen (18) years of age.
+EH 1040—LS 6292/DI 106
+
+21
+1 (C) A person who has a mental or physical disability if the
+2 offense is committed by an individual having care of the
+3 person with the disability, regardless of whether the care is
+4 assumed voluntarily or because of a legal obligation.
+5 (D) An endangered adult (as defined in IC 12-10-3-2).
+6 (h) (i) The offense described in subsection (c)(2) (b)(2) is a Level
+7 5 felony if:
+8 (1) the person knew or recklessly failed to know that the bodily
+9 fluid or waste placed on another person was infected with
+10 hepatitis, tuberculosis, or human immunodeficiency virus; and
+11 (2) the person placed the bodily fluid or waste on a public safety
+12 official, unless the offense is committed by a person detained or
+13 committed under IC 12-26.
+14 (i) (j) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+15 (b)(2) is a Level 4 felony if it results in serious bodily injury to an
+16 endangered adult (as defined in IC 12-10-3-2).
+17 (j) (k) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+18 (b)(2) is a Level 3 felony if it results in serious bodily injury to a person
+19 less than fourteen (14) years of age if the offense is committed by a
+20 person at least eighteen (18) years of age.
+21 (k) (l) The offense described in subsection (c)(1) (b)(1) or (c)(2)
+22 (b)(2) is a Level 2 felony if it results in the death of one (1) or more of
+23 the following:
+24 (1) A person less than fourteen (14) years of age if the offense is
+25 committed by a person at least eighteen (18) years of age.
+26 (2) An endangered adult (as defined in IC 12-10-3-2).
+EH 1040—LS 6292/DI 106
+
+22
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Courts and Criminal Code, to
+which was referred House Bill 1040, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 11, between lines 19 and 20, begin a new paragraph and insert:
+"SECTION 3. IC 22-8-1.1-1, AS AMENDED BY P.L.32-2008,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 1. As used in this chapter, unless otherwise
+provided:
+"Board" means the board of safety review created by this chapter.
+"Commission" means the occupational safety standards commission
+created by this chapter.
+"Commissioner" means the commissioner of labor or the
+commissioner's duly designated representative.
+"Department" means the department of labor.
+"Employee" means a person permitted to work by an employer in
+employment.
+"Employer" means any individual or type of organization, including
+the state and all its political subdivisions, that has in its employ one (1)
+or more individuals.
+"INSafe" means the division of the department created by section 40
+of this chapter.
+"Safety order" refers to a notice issued to employers by the
+commissioner of labor for alleged violations of this chapter, including
+any health and safety standards.
+"Standard" refers to both health and safety standards.
+"Voluntary protection program" means a program offered by the
+United States Occupational Safety and Health Administration to
+employers subject to this chapter that exempts the employers from
+general scheduled inspections.
+"Vulnerable worker" has the meaning set forth in IC 35-42-2-1.
+SECTION 2. IC 22-8-1.1-43.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 43.2. (a) The employer of a
+vulnerable worker shall make a report to the commissioner if the
+vulnerable worker is the victim of workplace battery as described
+in IC 35-42-2-1(d) or IC 35-42-2-1(g).
+(b) The employer shall make the report not later than:
+(1) eight (8) hours after the incident occurs, if the incident
+results in the death or hospitalization of the victim; or
+(2) twenty-four (24) hours after the incident occurs, if the
+EH 1040—LS 6292/DI 106
+
+23
+incident does not result in the death or hospitalization of the
+victim.
+The employer shall make the report required under this subsection
+regardless of whether a person is criminally charged with the
+workplace battery.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1040 as introduced.)
+MCNAMARA
+Committee Vote: yeas 11, nays 1.
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Corrections and Criminal
+Law, to which was referred House Bill No. 1040, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 11, between lines 34 and 35, begin a new paragraph and insert:
+""Health care employee" has the meaning set forth in
+IC 35-42-2-1.".
+Page 11, between lines 39 and 40, begin a new paragraph and insert:
+""School employee" has the meaning set forth in IC 35-42-2-1.".
+Page 12, delete lines 3 through 18, begin a new paragraph and
+insert:
+"SECTION 4. IC 22-8-1.1-43.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 43.2. (a) The following definitions
+apply throughout this section:
+(1) "Health care employee" has the meaning set forth in
+IC 35-42-2-1.
+(2) "School employee" has the meaning set forth in
+IC 35-42-2-1.
+(3) "Workplace battery" means a battery described in
+IC 35-42-2-1(d) or IC 35-42-2-1(g).
+(b) The employer of a health care employee or school employee
+shall make a workplace battery report as described in subsection
+(c) to the commissioner if a health care employee or school
+EH 1040—LS 6292/DI 106
+
+24
+employee is the victim of workplace battery.
+(c) Beginning July 1, 2027, the employer shall make the
+workplace battery report required under subsection (b) each year
+before:
+(1) August 1, for the period from January 1 to June 30; and
+(2) February 1, for the period from July 1 to December 31.
+The report shall be made on a form provided by the commissioner.
+(d) The workplace battery report must include the following
+information:
+(1) The name of the employer.
+(2) The city and county in which a workplace battery was
+committed.
+(3) The time period covered by the report (January 1 to June
+30 or July 1 to December 31).
+(4) The number of workplace batteries that were committed
+during the reporting period.
+(5) The job title of each health care employee or school
+employee who was the victim of the workplace battery.
+(6) The date of each workplace battery.
+(7) The address and specific location (such as "hospital
+emergency room" or "school parking lot") where the
+workplace battery occurred. However, if the battery occurred
+at the health care employee's or school employee's home, the
+report may not include the address.
+(8) The circumstances surrounding the workplace battery and
+any resulting injury, including the following, if known:
+(A) The gender of the victim.
+(B) The specific manner in which the workplace battery
+was committed (such as by striking, biting, pushing,
+kicking, use of an object, or use of a weapon).
+(C) Whether the victim required hospitalization.
+(D) If a weapon or other object was used to commit the
+workplace battery, the type of weapon or object.
+(E) Whether law enforcement was contacted or responded
+to the workplace battery.
+(F) Whether criminal charges were filed against the
+perpetrator.
+For a workplace battery that does not occur on the employer's
+premises, the employer shall provide as much information as is
+known to the employer.
+(e) The employer shall make the report required under this
+section regardless of whether a person is criminally charged with
+EH 1040—LS 6292/DI 106
+
+25
+the workplace battery.".
+Page 15, delete lines 18 through 22.
+Page 18, delete lines 28 through 30.
+Page 19, delete lines 4 through 13, begin a new paragraph and
+insert:
+"(d) The offense described in subsection (b)(1) is a Class A
+misdemeanor if it is committed against a health care employee or
+school employee:
+(1) while the health care employee or school employee is
+acting within the scope of the health care employee's or school
+employee's employment;
+(2) while the health care employee or school employee is
+commuting to or from the health care employee's or school
+employee's place of employment; or
+(3) in retaliation for an act taken by the health care employee
+or school employee within the scope of the health care
+employee's or school employee's employment;
+unless the offense is committed by a person detained or committed
+under IC 12-26.".
+Page 20, delete lines 1 through 11, begin a new paragraph and
+insert:
+"(g) The offense described in subsection (b)(1) is a Level 6 felony
+if it results in bodily injury to a health care employee or school
+employee and is committed against the health care employee or
+school employee:
+(1) while the health care employee or school employee is
+acting within the scope of the health care employee's or school
+employee's employment;
+(2) while the health care employee or school employee is
+commuting to or from the health care employee's or school
+employee's place of employment; or
+(3) in retaliation for an act taken by the health care employee
+or school employee within the scope of the health care
+employee's or school employee's employment;
+unless the offense is committed by a person detained or committed
+under IC 12-26.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1040 as printed January 8, 2026.)
+EH 1040—LS 6292/DI 106
+
+26
+FREEMAN, Chairperson
+Committee Vote: Yeas 7, Nays 0.
+_____
+SENATE MOTION
+Mr. President: I move that Engrossed House Bill 1040 be amended
+to read as follows:
+Page 11, delete lines 20 through 42, begin a new paragraph, and
+insert:
+"SECTION 3. IC 22-1-1-24 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]: Sec. 24. (a) The following definitions apply throughout
+this section:
+(1) "Health care employee" has the meaning set forth in
+IC 35-42-2-1.
+(2) "School employee" has the meaning set forth in
+IC 35-42-2-1.
+(3) "Workplace battery" means a battery described in
+IC 35-42-2-1(d) or IC 35-42-2-1(g).
+(b) The employer of a health care employee or school employee
+shall make a workplace battery report as described in subsection
+(c) to the commissioner if a health care employee or school
+employee is the victim of workplace battery.
+(c) Beginning July 1, 2027, the employer shall make the
+workplace battery report required under subsection (b) each year
+before:
+(1) August 1, for the period from January 1 to June 30; and
+(2) February 1, for the period from July 1 to December 31.
+The report shall be made on a form provided by the commissioner.
+(d) The workplace battery report must include the following
+information:
+(1) The name of the employer.
+(2) The city and county in which a workplace battery was
+committed.
+(3) The time period covered by the report (January 1 to June
+30 or July 1 to December 31).
+(4) The number of workplace batteries that were committed
+during the reporting period.
+(5) The job title of each health care employee or school
+employee who was the victim of the workplace battery.
+EH 1040—LS 6292/DI 106
+
+27
+(6) The date of each workplace battery.
+(7) The address and specific location (such as "hospital
+emergency room" or "school parking lot") where the
+workplace battery occurred. However, if the battery occurred
+at the health care employee's or school employee's home, the
+report may not include the address.
+(8) The circumstances surrounding the workplace battery and
+any resulting injury, including the following, if known:
+(A) The gender of the victim.
+(B) The specific manner in which the workplace battery
+was committed (such as by striking, biting, pushing,
+kicking, use of an object, or use of a weapon).
+(C) Whether the victim required hospitalization.
+(D) If a weapon or other object was used to commit the
+workplace battery, the type of weapon or object.
+(E) Whether law enforcement was contacted or responded
+to the workplace battery.
+(F) Whether criminal charges were filed against the
+perpetrator.
+For a workplace battery that does not occur on the employer's
+premises, the employer shall provide as much information as is
+known to the employer.
+(e) The employer shall make the report required under this
+section regardless of whether a person is criminally charged with
+the workplace battery.".
+Delete page 12.
+Page 13, delete lines 1 through 19.
+Renumber all SECTIONS consecutively.
+(Reference is to EHB 1040 as printed February 13, 2026.)
+FREEMAN
+EH 1040—LS 6292/DI 106
+
+[DELETED:  S t t e f b c D e w r i p R t e o a h c o s]
+[DELETED:  1 I 5 A A B P]
+[DELETED:  I 3 I 3 ( c 2 I 5 A A B P T d c b r a b a p u s a t c p r a]
+[DELETED:  C i f a d a d i a l e a a p u p r L e a o p u]
+[DELETED:  o p s t a v o d ( d b I 2 f t p o t s o s o a s o a a a l e e f t I W R s p d i I t r o e o]
+[DELETED:  i r o c p i t a c w n a i p t c d n t r r f r c b t I f a a e d d c s c t t b d a a c R t a i o i a o u a c w a p a t a D j o o p n s a t t n c j t b a]
+[DELETED:  A o t i t w a r k s v s v C p c c c f t b a f i a c u]
+[DELETED:  b g c o t d m r a i r a a o a t u T d w w T e c i o e a a ( d i I 8 t i o]
+[DELETED:  a l e r t c i i t c m n b r f p p d o r o a p a r o t p s b e  n s t p d u r a " a n s t p n o t p a t o o T h a h t n a e m w ( d i e m r ( d i a i t e t a a o t u]
+[DELETED:  N s ( t n t b a b t j d e a t b a l e o ( d i c o l e t o a " h t m s f i]
+[DELETED:  a c o s b a s e u I 3 o i a c f u o e m o t s e r o a c p s b a f a c u s 3 o t c a d n a t r r r]
+[DELETED:  o s s b m a i a w a e e m m m o m o o h " e h t m s f i " b m a b d i t t c i a h c e o s B J 1 2 t e s m t]
+[DELETED:  T j t o e h c e o s T a a s l ( a " r o " p l w t c ( a b s b p W c c w f a t 4 I 2 A A B P 1 2 S 4 ( T f d a]
+[DELETED:  " o v h t m s f i A p m a f c u t s i p p a a f o t h d]
+[DELETED:  r h i t e a b k t t M m m o f i h i t c o a u t c t t c h i n l i g f t c u t s b s o d f b f a p a b]
+[DELETED:  a c f a a a c b b e a a f c b A A N S T R A F p o I 3 h t m s f i A A N S T R A F A A N S T R A F o I 3 h t m s f i A l e o ( d i A s c p o a u]
+[DELETED:  " h t m s f i I 3 a r t c b t I w i a v o s a ( d i t d n i a i w i a o " s p h t m s f i 9 I 3 A A B P]
+[DELETED:  " c e m a i w a l e o i a a]
+[DELETED:  a d o c s e w " m a i r b b " m a p s c s o i e b a s o i i a c]
+[DELETED:  T o d i s ( i a C  w i s e w t s o t h c t c o t p w t m o p]
+[DELETED:  i I 3 b a p w n  i s e w t s o t h c T p h a p c f a b o]
+[DELETED:  o w p o a p w i w]
+[DELETED:  w r H B 1 h h t s u m t c o l o t o r t a n i t e b t S O S a H A t A A N S T R A F e]
+[DELETED:  w t r t s A a c e h t m s f i A A N S T R A F " e h t m s f i " b m a b d i t t c i a h c e o s]
+[DELETED:  B J 1 2 t e s m t T j t o e h c e o s T a a s l ( a " r o " p l w t c ( a b s b p W c c w f a t]
+[DELETED:  t w s e w t s o t h c o s s e w t s o t h c]
+[DELETED:  " e h t m s f i " b m a b d i t t c i a h c e o s B J 1 2 t e s m t T j t o e h c e o s]
+[DELETED:  T a a s l ( a " r o " p l w t c ( a b s b p W c c w f a t]
