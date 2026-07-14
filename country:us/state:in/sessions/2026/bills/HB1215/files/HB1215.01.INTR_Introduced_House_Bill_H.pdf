@@ -1,0 +1,250 @@
+Introduced Version
+HOUSE BILL No. 1215
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 24-5-28.1.
+Synopsis: Regulation of interchange fees. Prohibits a payment card
+network from taking certain actions with respect to electronic payment
+transactions. Prohibits a payment card network from establishing,
+putting forward, or implementing a fee schedule that the payment card
+network knows or reasonably should know has been used by at least
+one issuer other than the payment card network to determine the
+amount of an interchange fee received or charged with respect to a
+charitable contribution, unless the interchange fee does not exceed
+certain amounts. Provides that a person that alleges damages arising
+from a payment card network's violation of certain provisions has a
+cause of action against the payment card network.
+Effective: July 1, 2026.
+Shonkwiler
+January 5, 2026, read first time and referred to Committee on Financial Institutions.
+2026 IN 1215—LS 6696/DI 154
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1215
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-5-28.1 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 28.1. Regulation of Payment Card Networks
+5 Sec. 1. As used in this chapter, "acquirer bank" means a
+6 member of a payment card network that contracts with a
+7 merchant, either directly or indirectly through a processor, for the
+8 settlement of an electronic payment transaction.
+9 Sec. 2. As used in this chapter, "authorization" means the
+10 process through which a merchant requests approval for an
+11 electronic payment transaction from the issuer.
+12 Sec. 3. As used in this chapter, "bad faith" means conduct that:
+13 (1) is fraudulent, willful, knowing, or intentional; and
+14 (2) causes injury.
+15 Sec. 4. As used in this chapter, "charitable contribution" has the
+16 meaning set forth in 26 U.S.C. 170(c), as in effect on July 1, 2026.
+17 Sec. 5. As used in this chapter, "clearance" means the process
+2026 IN 1215—LS 6696/DI 154
+
+2
+1 of transmitting final transaction data from a merchant to an issuer
+2 for posting to a person's account and the calculation of fees and
+3 charges, including interchange fees, that apply to the issuer and the
+4 merchant.
+5 Sec. 6. As used in this chapter, "covered credit card issuer"
+6 means an issuer of a credit card that, at any point in time in the
+7 previous calendar year, held consolidated worldwide banking and
+8 nonbanking assets, including assets of affiliates other than trust
+9 assets under management, in an amount greater than fifty billion
+10 dollars ($50,000,000,000).
+11 Sec. 7. As used in this chapter, "credit card" has the meaning
+12 set forth in IC 24-5-27.5-3.
+13 Sec. 8. As used in this chapter, "debit card" has the meaning set
+14 forth in IC 24-5-27.5-4.
+15 Sec. 9. As used in this chapter, "electronic payment transaction"
+16 means a transaction in which a person uses a debit card, credit
+17 card, or other payment code or device issued or approved through
+18 a payment card network to debit a deposit account or use a line of
+19 credit.
+20 Sec. 10. As used in this chapter, "fee schedule" means a
+21 schedule, list, table, chart, agreement, communication, or any other
+22 document, whether publicly available or not, that sets forth the
+23 amount of at least one (1) fee or a formula for determining at least
+24 one (1) fee.
+25 Sec. 11. As used in this chapter, "interchange fee" means a fee
+26 established, charged, or received by a payment card network for
+27 the purpose of compensating the issuer for the issuer's involvement
+28 in an electronic payment transaction.
+29 Sec. 12. As used in this chapter, "issuer" means a person that
+30 issues a debit card or credit card or an agent of a person that issues
+31 a debit card or credit card.
+32 Sec. 13. As used in this chapter, "merchant" means a person
+33 that accepts electronic payment transactions and collects and
+34 remits a tax or regulatory fee.
+35 Sec. 14. As used in this chapter, "payment card network" means
+36 a person to which the following apply:
+37 (1) The person, directly or through licensed members,
+38 processors, or agents, provides the proprietary services,
+39 infrastructure, and software to route information and data
+40 for the purpose of conducting electronic payment transaction
+41 authorization, clearance, and settlement.
+42 (2) A merchant uses the person to accept as a form of
+2026 IN 1215—LS 6696/DI 154
+
+3
+1 payment a brand of debit card, credit card, or other payment
+2 code or device that may be used to carry out electronic
+3 payment transactions.
+4 Sec. 15. As used in this chapter, "person" means a natural
+5 person, limited liability company, corporation, business trust,
+6 estate, trust, partnership, association, joint venture, government,
+7 governmental subdivision or agency, or any other legal or
+8 commercial entity.
+9 Sec. 16. As used in this chapter, "processor" means a person
+10 that facilitates, services, processes, or manages the debit or credit
+11 authorization, billing, transfer, payment procedures, or settlement
+12 with respect to any electronic payment transaction.
+13 Sec. 17. As used in this chapter, "regulatory fee" means a fee,
+14 assessment, or charge imposed by the state or a political
+15 subdivision (as defined in IC 3-5-2.1-79).
+16 Sec. 18. As used in this chapter, "settlement" means the process
+17 of transmitting sales information to the issuer for collection and
+18 reimbursement of funds to the merchant and calculating and
+19 reporting the net transaction amount to the issuer and merchant
+20 for a cleared electronic payment transaction.
+21 Sec. 19. As used in this chapter, "tax" means any:
+22 (1) use tax, including the use tax imposed under IC 6-2.5;
+23 (2) sales tax, including the state gross retail tax imposed under
+24 IC 6-2.5;
+25 (3) occupation tax; or
+26 (4) excise tax;
+27 that is imposed by the state or a political subdivision (as defined in
+28 IC 3-5-2.1-79).
+29 Sec. 20. As used in this chapter, "transaction data" includes
+30 information regarding:
+31 (1) items purchased by a person;
+32 (2) the price for each item;
+33 (3) a taxability determination for each item;
+34 (4) a segregated tax amount for each of the taxed items;
+35 (5) a segregated regulatory fee amount applicable to the
+36 transaction or to any item included in the transaction;
+37 (6) the amount of cash or credit tendered;
+38 (7) the net amount returned to the customer in change;
+39 (8) the date and time of the purchase;
+40 (9) the name, address, and identification number of the
+41 vendor; and
+42 (10) the receipt or invoice number of the transaction.
+2026 IN 1215—LS 6696/DI 154
+
+4
+1 Sec. 21. A payment card network, whether directly or through
+2 an agent, an acquirer bank, a processor, a contract, a requirement,
+3 a condition, a technological specification, or an inducement, shall
+4 not do any of the following:
+5 (1) Fix or conspire to fix an interchange fee with, or on behalf
+6 of, a covered credit card issuer or another payment card
+7 network.
+8 (2) Establish, put forward, or implement a fee schedule that
+9 the payment card network knows, or reasonably should know,
+10 has been used by a covered credit card issuer other than the
+11 payment card network to determine the amount of an
+12 interchange fee charged or received by the covered credit
+13 card issuer in the current or previous calendar year.
+14 (3) Establish, charge, or put forward on a fee schedule, an
+15 interchange fee if the following apply:
+16 (A) The fee is or includes a percentage multiplied by the
+17 gross dollar amount of an electronic payment transaction.
+18 (B) The fee does not exclude from the gross dollar amount
+19 of the electronic payment transaction, any amount
+20 attributable to a tax exempt product, tax, regulatory fee, or
+21 gratuity associated with the electronic payment
+22 transaction.
+23 (4) Increase the rate or amount of fees that apply to an
+24 electronic payment transaction other than on any amount
+25 attributable to a tax, gratuity, or regulatory fee associated
+26 with the electronic payment transaction.
+27 (5) Require a merchant that accepts credit cards that are
+28 enabled for processing over the payment card network to
+29 accept all credit cards issued by a covered credit card issuer
+30 that are enabled for processing over the payment card
+31 network.
+32 (6) Distribute, publish, or otherwise use transaction data from
+33 an electronic payment transaction, except to do any of the
+34 following:
+35 (A) Process the electronic payment transaction.
+36 (B) Monitor for, detect, or prevent fraud.
+37 (C) Support loyalty programs, reward programs, or
+38 promotional offers.
+39 (D) Tailor products and services to serve the needs of
+40 consumers.
+41 (E) Comply with the laws of Indiana or federal law.
+42 (7) Charge a fee to a person or merchant related to a disputed
+2026 IN 1215—LS 6696/DI 154
+
+5
+1 transaction in which the person used a credit card, until:
+2 (A) a determination as to whether the person or the
+3 merchant is responsible for the disputed transaction has
+4 been made; and
+5 (B) the person or the merchant, whichever is determined
+6 to be responsible for the disputed transaction under clause
+7 (A), has been provided written notice of the determination.
+8 (8) Penalize a merchant for setting prices in a manner that
+9 complies with the laws of Indiana and federal law.
+10 Sec. 22. A payment card network, whether directly or through
+11 an agent, an acquirer bank, a processor, a contract, a requirement,
+12 a condition, a technological specification, or an inducement, shall
+13 not establish, put forward, or implement a fee schedule that the
+14 payment network knows or reasonably should know has been used
+15 by at least one (1) issuer other than the payment card network to
+16 determine the amount of an interchange fee received or charged
+17 with respect to a charitable contribution, unless the interchange fee
+18 does not exceed either of the following:
+19 (1) For a charitable contribution made by means of a debit
+20 card, two-tenths of one percent (0.2%).
+21 (2) For a charitable contribution made by means of a credit
+22 card, three-tenths of one percent (0.3%).
+23 Sec. 23. (a) A person that alleges damages arising from a
+24 payment card network's violation of section 21 or 22 of this
+25 chapter has a cause of action against the payment card network.
+26 (b) A person that brings an action under this section may seek
+27 any of the following forms of relief:
+28 (1) The greatest of the following that are applicable:
+29 (A) Actual damages, including prejudgment interest of
+30 eight percent (8%) per year from the date the cause of
+31 action accrued.
+32 (B) Five hundred dollars ($500).
+33 (C) Three (3) times the amount of actual damages
+34 sustained by the person, if it is established by clear and
+35 convincing evidence that the payment card network
+36 engaged in bad faith.
+37 (2) Reasonable attorney's fees and costs.
+38 (c) If an action under this section is certified as a class action, a
+39 plaintiff who prevails in an action under this section may:
+40 (1) recover actual damages;
+41 (2) be awarded injunctive relief; and
+42 (3) may be awarded reasonable attorney's fees and costs.
+2026 IN 1215—LS 6696/DI 154
+
+6
+1 (d) A person that brings an action under this section that is
+2 found by a court of competent jurisdiction to be frivolous,
+3 groundless, and in bad faith, or for the purpose of harassment, is
+4 liable to the defendant for the costs of the action and reasonable
+5 attorney's fees.
+2026 IN 1215—LS 6696/DI 154
+
+[DELETED:  a p c n f e p6I]
+[DELETED:  1 A u i t c " b m  o a p c n t c w  A u i t c " m t t w a m r a f a6I]
+[DELETED:  1 A u i t c " s m  a e p t a c a T p d o t l m o a p t p s A m u t p t a a a f o6I]
+[DELETED:  o d t m b u t c o e l l c c b t s o a o a o l o o c i b t s o a p o f t t m a c a a s r f a a t t t n a a i n o t6I]
+[DELETED:  c n t d t a o a t e p t a a a w t e p I t r o a o f t a t a a e f p o t p c S l p r p o6I]
+[DELETED:  a d a t w t p o t 2 ( A p t a d a f  c n v o s 2 o 2 o t T ( t t a o a d e t t p c n6I]
+[DELETED:  b a c o c j t b f6I]

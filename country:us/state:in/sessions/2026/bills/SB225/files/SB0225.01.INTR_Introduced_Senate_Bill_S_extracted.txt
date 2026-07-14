@@ -1,0 +1,731 @@
+Title: SENATE BILL No. 225
+Official Title: SENATE BILL No. 225
+Number of Sections: 1
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 4-6-2-13; IC 16-18-2; IC 16-21; IC 32-28-16.
+Synopsis: Hospital matters. Amends the definition of "ambulatory
+outpatient surgical center" to remove the requirement that a surgical
+procedure is permitted to be performed only by a physician, dentist, or
+podiatrist who has certain hospital privileges. Prohibits a hospital, debt
+collector, or other third party from pursuing medical debt collection if
+the hospital is noncompliant with specified statutes. Requires the
+Indiana department of health (state department) to determine on a
+semiannual basis whether a hospital is in compliance with the statutes
+and notify a hospital concerning the state department's compliance
+determination. Requires a hospital to provide notice to patients
+concerning medical debt collection and establishes a deceptive act for
+failure to do so. Authorizes the attorney general to suspend the
+authority of a hospital to pursue medical debt collection when the state
+department has determined that the hospital is noncompliant and
+allows the attorney general to bring any action against a hospital for a
+deceptive act of pursuing medical debt while there is a noncompliance
+determination. Creates an affirmative defense for a debtor if the
+collection attempt occurred while the hospital was noncompliant.
+Requires a hospital to provide the state department with 120 days
+written notice if the hospital plans to: (1) close and permanently
+terminate hospital operations; or (2) eliminate or reduce a service line
+for longer than 90 days. Requires notice of the closure or reduction to
+be provided to certain state agencies and local units.
+Effective: July 1, 2026.
+Busch
+January 8, 2026, read first time and referred to Committee on Health and Provider
+Services.
+2026 IN 225—LS 6563/DI 104
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 225
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-6-2-13 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 13. (a) The attorney general may:
+4 (1) suspend the authority of a hospital, or a debt collector or
+5 other third party on behalf of a hospital, to pursue medical
+6 debt collection as described in IC 16-21-16-4; and
+7 (2) terminate the suspension upon the hospital's compliance
+8 with IC 16-21-16, as determined by the Indiana department
+9 of health.
+10 (b) The attorney general shall enforce IC 16-21-16 and may
+11 bring any action under IC 24-5-0.5-4(c) concerning a deceptive
+12 practice described in IC 16-21-16-7(b).
+13 SECTION 2. IC 16-18-2-14, AS AMENDED BY P.L.213-2025,
+14 SECTION 146, IS AMENDED TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 14. (a) "Ambulatory outpatient
+16 surgical center", for purposes of IC 16-19, IC 16-21, IC 16-32-5, and
+17 IC 16-38-2, means a public or private institution that meets the
+2026 IN 225—LS 6563/DI 104
+2
+1 following conditions:
+2 (1) Is established, equipped, and operated primarily for the
+3 purpose of performing surgical procedures and services.
+4 (2) Is operated under the supervision of at least one (1) licensed
+5 physician or under the supervision of the governing board of the
+6 hospital if the center is affiliated with a hospital.
+7 (3) Permits a surgical procedure to be performed only by a
+8 physician, dentist, or podiatrist who meets the following
+9 conditions:
+10 (A) Is qualified by education and training to perform the
+11 surgical procedure.
+12 (B) Is legally authorized to perform the procedure.
+13 (C) Is privileged to perform surgical procedures in at least one
+14 (1) hospital within the county or an Indiana county adjacent to
+15 the county in which the ambulatory outpatient surgical center
+16 is located.
+17 (D) (C) Is admitted to the open staff of the ambulatory
+18 outpatient surgical center.
+19 (4) Requires that a licensed physician with specialized training or
+20 experience in the administration of an anesthetic supervise the
+21 administration of the anesthetic to a patient and remain present in
+22 the facility during the surgical procedure, except when only a
+23 local infiltration anesthetic is administered.
+24 (5) Provides at least one (1) operating room and, if anesthetics
+25 other than local infiltration anesthetics are administered, at least
+26 one (1) postanesthesia recovery room.
+27 (6) Is equipped to perform diagnostic x-ray and laboratory
+28 examinations required in connection with any surgery performed.
+29 (7) Does not provide accommodations for patient stays of longer
+30 than twenty-four (24) hours.
+31 (8) Provides full-time services of registered and licensed nurses
+32 for the professional care of the patients in the postanesthesia
+33 recovery room.
+34 (9) Has available the necessary equipment and trained personnel
+35 to handle foreseeable emergencies such as a defibrillator for
+36 cardiac arrest, a tracheotomy set for airway obstructions, and a
+37 blood bank or other blood supply.
+38 (10) Maintains a written agreement with at least one (1) hospital
+39 for immediate acceptance of patients who develop complications
+40 or require postoperative confinement.
+41 (11) Provides for the periodic review of the center and the center's
+42 operations by a committee of at least three (3) licensed physicians
+2026 IN 225—LS 6563/DI 104
+3
+1 having no financial connections with the center.
+2 (12) Maintains adequate medical records for each patient.
+3 (13) Meets all additional minimum requirements as established by
+4 the state department for building and equipment requirements.
+5 (14) Meets the rules and other requirements established by the
+6 state department for the health, safety, and welfare of the patients.
+7 (b) The term does not include a birthing center.
+8 (c) "Ambulatory outpatient surgical center", for purposes of
+9 IC 16-34, refers to an institution described in subsection (a) and that
+10 has a majority ownership by a hospital licensed under IC 16-21.
+11 SECTION 3. IC 16-18-2-223.2 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JULY 1, 2026]: Sec. 223.2. "Medical debt", for
+14 purposes of IC 16-21-16, has the meaning set forth in
+15 IC 16-21-16-2.
+16 SECTION 4. IC 16-18-2-292.8 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2026]: Sec. 292.8. "Primary residence", for
+19 purposes of IC 16-21-16, has the meaning set forth in
+20 IC 16-21-16-3.
+21 SECTION 5. IC 16-18-2-328.8 IS ADDED TO THE INDIANA
+22 CODE AS A NEW SECTION TO READ AS FOLLOWS
+23 [EFFECTIVE JULY 1, 2026]: Sec. 328.8. "Service line", for
+24 purposes of IC 16-21-17.1, has the meaning set forth in
+25 IC 16-21-17.1-1.
+26 SECTION 6. IC 16-21-16 IS ADDED TO THE INDIANA CODE
+27 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]:
+29 Chapter 16. Medical Debt Collection Restrictions
+30 Sec. 1. This chapter applies to medical debt incurred after June
+31 30, 2026.
+32 Sec. 2. As used in this chapter, "medical debt" means any
+33 amount owed for health care services, products, or devices
+34 provided to an individual by or in a hospital.
+35 Sec. 3. As used in this chapter, "primary residence" means real
+36 or personal property that:
+37 (1) is located in Indiana;
+38 (2) the consumer:
+39 (A) owns; or
+40 (B) is buying under contract;
+41 whether solely or jointly with another person; and
+42 (3) constitutes the principal place of residence of:
+2026 IN 225—LS 6563/DI 104
+4
+1 (A) the consumer; or
+2 (B) a dependent of the consumer.
+3 Sec. 4. (a) A hospital, or a debt collector or other third party on
+4 behalf of a hospital, may not pursue collection of a medical debt
+5 unless the hospital is in compliance with the following statutes, if
+6 applicable to the hospital:
+7 (1) IC 16-21-6.
+8 (2) IC 16-21-9.
+9 (3) IC 16-21-17.1.
+10 (4) IC 16-21-18.
+11 (5) IC 16-21-19.
+12 (b) The state department shall determine on a semiannual basis
+13 whether a hospital is in compliance with the statutes specified in
+14 subsection (a) and notify a hospital, in writing, of the state
+15 department's determination concerning the hospital's compliance.
+16 A determination under this subsection is subject to review under
+17 IC 4-21.5.
+18 (c) The state department shall notify the office of the attorney
+19 general of any hospital that the state department determines to be
+20 noncompliant with the statutes described in subsection (a).
+21 (d) The office of the attorney general may suspend the
+22 noncompliant hospital's authority to pursue medical debt collection
+23 while the noncompliance remains uncured.
+24 (e) The state department shall notify the office of the attorney
+25 general of the following under this chapter:
+26 (1) A final determination that a hospital is noncompliant.
+27 (2) A determination that a hospital that was noncompliant has
+28 remedied the noncompliance and is now compliant with the
+29 statutes.
+30 Upon receiving a notice under subdivision (2), the office of the
+31 attorney general shall terminate a suspension described in
+32 subsection (d).
+33 (f) An individual may raise a hospital's noncompliance with a
+34 statute set forth in subsection (a) as an affirmative defense in any
+35 medical debt collection action.
+36 (g) A hospital may pursue collection of a medical debt
+37 previously incurred by an individual when the hospital was
+38 noncompliant under subsection (a) if the state department
+39 subsequently makes a determination, in writing, that the
+40 noncompliance has been remedied and the hospital is designated by
+41 the state department as compliant under this chapter.
+42 Sec. 5. (a) The state department shall post and update a list of
+2026 IN 225—LS 6563/DI 104
+5
+1 the noncompliant hospitals on the state department's website.
+2 (b) The state department shall adopt procedures for the
+3 following:
+4 (1) The state department's review of a hospital's compliance
+5 under this chapter, including a schedule for reviewing and
+6 issuing determinations concerning compliance.
+7 (2) A noncompliant hospital's subsequent compliance status
+8 review to determine if the noncompliance has been remedied.
+9 Sec. 6. (a) For purposes of this section, a patient includes the
+10 parent or guardian of a patient if the patient is a child or a
+11 dependent.
+12 (b) A hospital, or a debt collector or other third party on behalf
+13 of a hospital, may not file or maintain a lien on a patient's primary
+14 residence to recover medical debt if the patient is acting in good
+15 faith to make payments on the medical debt.
+16 (c) A patient is considered to be acting in good faith under
+17 subsection (b) if the patient does any of the following concerning
+18 the medical debt:
+19 (1) Enters into a reasonable payment plan with the hospital.
+20 (2) Applies for financial assistance offered by the hospital.
+21 (3) Makes partial payments toward the balance of the medical
+22 debt.
+23 (d) Any lien asserted, claimed, or entered on a primary
+24 residence in violation of this section is null and void and must be
+25 released at no cost to the patient.
+26 (e) Nothing in this section may be construed to discharge or
+27 otherwise release the underlying medical debt.
+28 Sec. 7. (a) A hospital shall include the following information in
+29 bold type in at least 14 point font on any statement, payment plan,
+30 or medical debt collection communication issued by the hospital,
+31 or a debt collector or other third party on behalf of the hospital:
+32 "Medical debt may not result in a lien on your home if you act
+33 in good faith to make payments on the medical debt.".
+34 (b) Failure to include the notice described in subsection (a)
+35 constitutes a deceptive act under IC 24-5-0.5 that is actionable by
+36 the attorney general and is subject to the remedies and penalties
+37 under IC 24-5-0.5.
+38 Sec. 8. (a) The attorney general shall enforce this chapter and
+39 may do any of the following:
+40 (1) Investigate alleged violations.
+41 (2) Impose civil penalties of not more than ten thousand
+42 dollars ($10,000) per violation.
+2026 IN 225—LS 6563/DI 104
+6
+1 (3) Order restitution to an affected patient or individual.
+2 (4) Suspend or prohibit a hospital, a debt collector, or other
+3 third party from collecting medical debt until compliance is
+4 verified.
+5 (b) The attorney general may adopt rules under IC 4-22-2 to
+6 implement and administer this chapter.
+7 Sec. 9. (a) An individual injured by a violation of this chapter
+8 may bring a civil action to recover in an appropriate court any of
+9 the following:
+10 (1) Actual damages.
+11 (2) Statutory damages not to exceed one thousand dollars
+12 ($1,000).
+13 (3) Injunctive relief.
+14 (b) A prevailing plaintiff is entitled to recover court costs and
+15 reasonable attorney's fees.
+16 SECTION 7. IC 16-21-17.1 IS ADDED TO THE INDIANA CODE
+17 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]:
+19 Chapter 17.1. Notice of Closure or Reduction of Services
+20 Sec. 1. As used in this chapter, "service line" means a category
+21 of hospital based clinical services offered to patients, including the
+22 following:
+23 (1) Emergency.
+24 (2) Obstetrics.
+25 (3) Neonatal.
+26 (4) Trauma.
+27 (5) Behavioral health services.
+28 Sec. 2. (a) Except as provided in section 4 of this chapter, a
+29 hospital shall provide written notice to the state department at
+30 least one hundred twenty (120) days before the hospital does any
+31 of the following:
+32 (1) Closes and permanently terminates hospital operations.
+33 (2) Eliminates or reduces a service line for longer than ninety
+34 (90) days.
+35 (b) The notice under subsection (a) must include the following:
+36 (1) The proposed date of closure, elimination, or reduction.
+37 (2) A description of the affected services and capacity.
+38 (3) The hospital's plan for patient continuity of care.
+39 (4) The reason for the closure, elimination, or reduction.
+40 Sec. 3. Except as provided in section 4 of this chapter, not later
+41 than ten (10) days after the notice is issued under section 2 of this
+42 chapter, the following must occur:
+2026 IN 225—LS 6563/DI 104
+7
+1 (1) The state department shall post a summary of the
+2 proposed closure, elimination, or reduction on the state
+3 department's website.
+4 (2) The state department shall notify the office of the
+5 secretary of family and social services and any other affected
+6 state agency of the closure, elimination, or reduction.
+7 (3) The hospital shall provide the notice described in section
+8 2 of this chapter to the following:
+9 (A) The local health department.
+10 (B) The chief elected official of the local unit in which the
+11 hospital is located.
+12 Sec. 4. (a) The state department may waive the requirements in
+13 sections 2 and 3 of this chapter upon written request by the
+14 hospital only if:
+15 (1) the closure, elimination, or reduction described in section
+16 2 of this chapter is necessary due to a natural disaster,
+17 catastrophic facility failure, or other emergency event beyond
+18 the hospital's control; and
+19 (2) the state department determines that the waiver is
+20 necessary to protect the public's health and safety.
+21 (b) The state department shall in a reasonable time period post
+22 on the state department's website any waiver granted under this
+23 section and the justification for the waiver.
+24 Sec. 5. A hospital that violates this chapter may be subject to
+25 any of the following:
+26 (1) A civil penalty not to exceed ten thousand dollars ($10,000)
+27 per violation.
+28 (2) Any other reasonable administrative action determined by
+29 the state department.
+30 SECTION 8. IC 32-28-16 IS ADDED TO THE INDIANA CODE
+31 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]:
+33 Chapter 16. Prohibition Against Lien on Principal Residence of
+34 a Consumer for Medical Debt
+35 Sec. 1. As used in this chapter, "hospital" refers to an entity
+36 licensed under IC 16-21. The term includes an affiliate, officer,
+37 agent, or employee of the entity.
+38 Sec. 2. As used in this chapter, "medical debt" means any
+39 amount owed for health care services, products, or devices
+40 provided to an individual by or in a hospital.
+41 Sec. 3. As used in this chapter, "primary residence" means real
+42 or personal property that:
+2026 IN 225—LS 6563/DI 104
+8
+1 (1) is located in Indiana;
+2 (2) the consumer:
+3 (A) owns; or
+4 (B) is buying under contract;
+5 whether solely or jointly with another person; and
+6 (3) constitutes the principal place of residence of:
+7 (A) the consumer; or
+8 (B) a dependent of the consumer.
+9 Sec. 4. A hospital having an ownership or other interest in
+10 medical debt owed by an individual may not assert, claim, enter,
+11 maintain, or enforce a lien against the individual's primary
+12 residence as long as the individual is acting in good faith to make
+13 payments on the medical debt as set forth in IC 16-21-16-6.
+2026 IN 225—LS 6563/DI 104
+[DELETED:  h i n w s s R t R a h t p n t p t d s A t a g t s t h d t t h i n a C a a d f a d i t a o w t h w n n i t h p t ( c a p6I]
+[DELETED:  1 I A T R A F 1 m a p o p i t m t6I]
+[DELETED:  I e e a o p f t P a s p t b p o b  d o p w m t f I q ( I a t t o s o t a I e t p d x a l6I]
+[DELETED:  " o s c f p o A A N S T R A F J 1 2 S 2 " d f o I 1 h t m s f i A A N S T R A F o I 1 h t m s f i A A N S T R A F J 1 2 S 3 " l f o I 1 h t m s f i a o f h c s p o d6I]
+[DELETED:  ( a n a h i w o t s T o o t a g m s t g s t a s d i A h m p c o a m d i b a i w t h w u s ( i t s d m a d i w t t6I]
+[DELETED:  T s d s a p f tS o g o a p i t p i a c o  A l a c o e o a p I c p o n t t t6I]
+[DELETED: 6I]
+[DELETED:  T s d s p a s o t c e o r o t s T s d s n t o o t 2 a 3 o t c u w r b t o t c i n d t a n d t s d d t t w i 2 o f h c s p o d6I]
+[DELETED:  o e a l a t i p6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+SENATE BILL No. 225
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 4-6-2-13; IC 16-18-2; IC 16-21; IC 32-28-16.
+Synopsis: Hospital matters. Amends the definition of "ambulatory
+outpatient surgical center" to remove the requirement that a surgical
+procedure is permitted to be performed only by a physician, dentist, or
+podiatrist who has certain hospital privileges. Prohibits a hospital, debt
+collector, or other third party from pursuing medical debt collection if
+the hospital is noncompliant with specified statutes. Requires the
+Indiana department of health (state department) to determine on a
+semiannual basis whether a hospital is in compliance with the statutes
+and notify a hospital concerning the state department's compliance
+determination. Requires a hospital to provide notice to patients
+concerning medical debt collection and establishes a deceptive act for
+failure to do so. Authorizes the attorney general to suspend the
+authority of a hospital to pursue medical debt collection when the state
+department has determined that the hospital is noncompliant and
+allows the attorney general to bring any action against a hospital for a
+deceptive act of pursuing medical debt while there is a noncompliance
+determination. Creates an affirmative defense for a debtor if the
+collection attempt occurred while the hospital was noncompliant.
+Requires a hospital to provide the state department with 120 days
+written notice if the hospital plans to: (1) close and permanently
+terminate hospital operations; or (2) eliminate or reduce a service line
+for longer than 90 days. Requires notice of the closure or reduction to
+be provided to certain state agencies and local units.
+Effective: July 1, 2026.
+Busch
+January 8, 2026, read first time and referred to Committee on Health and Provider
+Services.
+2026 IN 225—LS 6563/DI 104
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 225
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-6-2-13 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 13. (a) The attorney general may:
+4 (1) suspend the authority of a hospital, or a debt collector or
+5 other third party on behalf of a hospital, to pursue medical
+6 debt collection as described in IC 16-21-16-4; and
+7 (2) terminate the suspension upon the hospital's compliance
+8 with IC 16-21-16, as determined by the Indiana department
+9 of health.
+10 (b) The attorney general shall enforce IC 16-21-16 and may
+11 bring any action under IC 24-5-0.5-4(c) concerning a deceptive
+12 practice described in IC 16-21-16-7(b).
+13 SECTION 2. IC 16-18-2-14, AS AMENDED BY P.L.213-2025,
+14 SECTION 146, IS AMENDED TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 14. (a) "Ambulatory outpatient
+16 surgical center", for purposes of IC 16-19, IC 16-21, IC 16-32-5, and
+17 IC 16-38-2, means a public or private institution that meets the
+2026 IN 225—LS 6563/DI 104
+
+2
+1 following conditions:
+2 (1) Is established, equipped, and operated primarily for the
+3 purpose of performing surgical procedures and services.
+4 (2) Is operated under the supervision of at least one (1) licensed
+5 physician or under the supervision of the governing board of the
+6 hospital if the center is affiliated with a hospital.
+7 (3) Permits a surgical procedure to be performed only by a
+8 physician, dentist, or podiatrist who meets the following
+9 conditions:
+10 (A) Is qualified by education and training to perform the
+11 surgical procedure.
+12 (B) Is legally authorized to perform the procedure.
+13 (C) Is privileged to perform surgical procedures in at least one
+14 (1) hospital within the county or an Indiana county adjacent to
+15 the county in which the ambulatory outpatient surgical center
+16 is located.
+17 (D) (C) Is admitted to the open staff of the ambulatory
+18 outpatient surgical center.
+19 (4) Requires that a licensed physician with specialized training or
+20 experience in the administration of an anesthetic supervise the
+21 administration of the anesthetic to a patient and remain present in
+22 the facility during the surgical procedure, except when only a
+23 local infiltration anesthetic is administered.
+24 (5) Provides at least one (1) operating room and, if anesthetics
+25 other than local infiltration anesthetics are administered, at least
+26 one (1) postanesthesia recovery room.
+27 (6) Is equipped to perform diagnostic x-ray and laboratory
+28 examinations required in connection with any surgery performed.
+29 (7) Does not provide accommodations for patient stays of longer
+30 than twenty-four (24) hours.
+31 (8) Provides full-time services of registered and licensed nurses
+32 for the professional care of the patients in the postanesthesia
+33 recovery room.
+34 (9) Has available the necessary equipment and trained personnel
+35 to handle foreseeable emergencies such as a defibrillator for
+36 cardiac arrest, a tracheotomy set for airway obstructions, and a
+37 blood bank or other blood supply.
+38 (10) Maintains a written agreement with at least one (1) hospital
+39 for immediate acceptance of patients who develop complications
+40 or require postoperative confinement.
+41 (11) Provides for the periodic review of the center and the center's
+42 operations by a committee of at least three (3) licensed physicians
+2026 IN 225—LS 6563/DI 104
+
+3
+1 having no financial connections with the center.
+2 (12) Maintains adequate medical records for each patient.
+3 (13) Meets all additional minimum requirements as established by
+4 the state department for building and equipment requirements.
+5 (14) Meets the rules and other requirements established by the
+6 state department for the health, safety, and welfare of the patients.
+7 (b) The term does not include a birthing center.
+8 (c) "Ambulatory outpatient surgical center", for purposes of
+9 IC 16-34, refers to an institution described in subsection (a) and that
+10 has a majority ownership by a hospital licensed under IC 16-21.
+11 SECTION 3. IC 16-18-2-223.2 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JULY 1, 2026]: Sec. 223.2. "Medical debt", for
+14 purposes of IC 16-21-16, has the meaning set forth in
+15 IC 16-21-16-2.
+16 SECTION 4. IC 16-18-2-292.8 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2026]: Sec. 292.8. "Primary residence", for
+19 purposes of IC 16-21-16, has the meaning set forth in
+20 IC 16-21-16-3.
+21 SECTION 5. IC 16-18-2-328.8 IS ADDED TO THE INDIANA
+22 CODE AS A NEW SECTION TO READ AS FOLLOWS
+23 [EFFECTIVE JULY 1, 2026]: Sec. 328.8. "Service line", for
+24 purposes of IC 16-21-17.1, has the meaning set forth in
+25 IC 16-21-17.1-1.
+26 SECTION 6. IC 16-21-16 IS ADDED TO THE INDIANA CODE
+27 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]:
+29 Chapter 16. Medical Debt Collection Restrictions
+30 Sec. 1. This chapter applies to medical debt incurred after June
+31 30, 2026.
+32 Sec. 2. As used in this chapter, "medical debt" means any
+33 amount owed for health care services, products, or devices
+34 provided to an individual by or in a hospital.
+35 Sec. 3. As used in this chapter, "primary residence" means real
+36 or personal property that:
+37 (1) is located in Indiana;
+38 (2) the consumer:
+39 (A) owns; or
+40 (B) is buying under contract;
+41 whether solely or jointly with another person; and
+42 (3) constitutes the principal place of residence of:
+2026 IN 225—LS 6563/DI 104
+
+4
+1 (A) the consumer; or
+2 (B) a dependent of the consumer.
+3 Sec. 4. (a) A hospital, or a debt collector or other third party on
+4 behalf of a hospital, may not pursue collection of a medical debt
+5 unless the hospital is in compliance with the following statutes, if
+6 applicable to the hospital:
+7 (1) IC 16-21-6.
+8 (2) IC 16-21-9.
+9 (3) IC 16-21-17.1.
+10 (4) IC 16-21-18.
+11 (5) IC 16-21-19.
+12 (b) The state department shall determine on a semiannual basis
+13 whether a hospital is in compliance with the statutes specified in
+14 subsection (a) and notify a hospital, in writing, of the state
+15 department's determination concerning the hospital's compliance.
+16 A determination under this subsection is subject to review under
+17 IC 4-21.5.
+18 (c) The state department shall notify the office of the attorney
+19 general of any hospital that the state department determines to be
+20 noncompliant with the statutes described in subsection (a).
+21 (d) The office of the attorney general may suspend the
+22 noncompliant hospital's authority to pursue medical debt collection
+23 while the noncompliance remains uncured.
+24 (e) The state department shall notify the office of the attorney
+25 general of the following under this chapter:
+26 (1) A final determination that a hospital is noncompliant.
+27 (2) A determination that a hospital that was noncompliant has
+28 remedied the noncompliance and is now compliant with the
+29 statutes.
+30 Upon receiving a notice under subdivision (2), the office of the
+31 attorney general shall terminate a suspension described in
+32 subsection (d).
+33 (f) An individual may raise a hospital's noncompliance with a
+34 statute set forth in subsection (a) as an affirmative defense in any
+35 medical debt collection action.
+36 (g) A hospital may pursue collection of a medical debt
+37 previously incurred by an individual when the hospital was
+38 noncompliant under subsection (a) if the state department
+39 subsequently makes a determination, in writing, that the
+40 noncompliance has been remedied and the hospital is designated by
+41 the state department as compliant under this chapter.
+42 Sec. 5. (a) The state department shall post and update a list of
+2026 IN 225—LS 6563/DI 104
+
+5
+1 the noncompliant hospitals on the state department's website.
+2 (b) The state department shall adopt procedures for the
+3 following:
+4 (1) The state department's review of a hospital's compliance
+5 under this chapter, including a schedule for reviewing and
+6 issuing determinations concerning compliance.
+7 (2) A noncompliant hospital's subsequent compliance status
+8 review to determine if the noncompliance has been remedied.
+9 Sec. 6. (a) For purposes of this section, a patient includes the
+10 parent or guardian of a patient if the patient is a child or a
+11 dependent.
+12 (b) A hospital, or a debt collector or other third party on behalf
+13 of a hospital, may not file or maintain a lien on a patient's primary
+14 residence to recover medical debt if the patient is acting in good
+15 faith to make payments on the medical debt.
+16 (c) A patient is considered to be acting in good faith under
+17 subsection (b) if the patient does any of the following concerning
+18 the medical debt:
+19 (1) Enters into a reasonable payment plan with the hospital.
+20 (2) Applies for financial assistance offered by the hospital.
+21 (3) Makes partial payments toward the balance of the medical
+22 debt.
+23 (d) Any lien asserted, claimed, or entered on a primary
+24 residence in violation of this section is null and void and must be
+25 released at no cost to the patient.
+26 (e) Nothing in this section may be construed to discharge or
+27 otherwise release the underlying medical debt.
+28 Sec. 7. (a) A hospital shall include the following information in
+29 bold type in at least 14 point font on any statement, payment plan,
+30 or medical debt collection communication issued by the hospital,
+31 or a debt collector or other third party on behalf of the hospital:
+32 "Medical debt may not result in a lien on your home if you act
+33 in good faith to make payments on the medical debt.".
+34 (b) Failure to include the notice described in subsection (a)
+35 constitutes a deceptive act under IC 24-5-0.5 that is actionable by
+36 the attorney general and is subject to the remedies and penalties
+37 under IC 24-5-0.5.
+38 Sec. 8. (a) The attorney general shall enforce this chapter and
+39 may do any of the following:
+40 (1) Investigate alleged violations.
+41 (2) Impose civil penalties of not more than ten thousand
+42 dollars ($10,000) per violation.
+2026 IN 225—LS 6563/DI 104
+
+6
+1 (3) Order restitution to an affected patient or individual.
+2 (4) Suspend or prohibit a hospital, a debt collector, or other
+3 third party from collecting medical debt until compliance is
+4 verified.
+5 (b) The attorney general may adopt rules under IC 4-22-2 to
+6 implement and administer this chapter.
+7 Sec. 9. (a) An individual injured by a violation of this chapter
+8 may bring a civil action to recover in an appropriate court any of
+9 the following:
+10 (1) Actual damages.
+11 (2) Statutory damages not to exceed one thousand dollars
+12 ($1,000).
+13 (3) Injunctive relief.
+14 (b) A prevailing plaintiff is entitled to recover court costs and
+15 reasonable attorney's fees.
+16 SECTION 7. IC 16-21-17.1 IS ADDED TO THE INDIANA CODE
+17 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]:
+19 Chapter 17.1. Notice of Closure or Reduction of Services
+20 Sec. 1. As used in this chapter, "service line" means a category
+21 of hospital based clinical services offered to patients, including the
+22 following:
+23 (1) Emergency.
+24 (2) Obstetrics.
+25 (3) Neonatal.
+26 (4) Trauma.
+27 (5) Behavioral health services.
+28 Sec. 2. (a) Except as provided in section 4 of this chapter, a
+29 hospital shall provide written notice to the state department at
+30 least one hundred twenty (120) days before the hospital does any
+31 of the following:
+32 (1) Closes and permanently terminates hospital operations.
+33 (2) Eliminates or reduces a service line for longer than ninety
+34 (90) days.
+35 (b) The notice under subsection (a) must include the following:
+36 (1) The proposed date of closure, elimination, or reduction.
+37 (2) A description of the affected services and capacity.
+38 (3) The hospital's plan for patient continuity of care.
+39 (4) The reason for the closure, elimination, or reduction.
+40 Sec. 3. Except as provided in section 4 of this chapter, not later
+41 than ten (10) days after the notice is issued under section 2 of this
+42 chapter, the following must occur:
+2026 IN 225—LS 6563/DI 104
+
+7
+1 (1) The state department shall post a summary of the
+2 proposed closure, elimination, or reduction on the state
+3 department's website.
+4 (2) The state department shall notify the office of the
+5 secretary of family and social services and any other affected
+6 state agency of the closure, elimination, or reduction.
+7 (3) The hospital shall provide the notice described in section
+8 2 of this chapter to the following:
+9 (A) The local health department.
+10 (B) The chief elected official of the local unit in which the
+11 hospital is located.
+12 Sec. 4. (a) The state department may waive the requirements in
+13 sections 2 and 3 of this chapter upon written request by the
+14 hospital only if:
+15 (1) the closure, elimination, or reduction described in section
+16 2 of this chapter is necessary due to a natural disaster,
+17 catastrophic facility failure, or other emergency event beyond
+18 the hospital's control; and
+19 (2) the state department determines that the waiver is
+20 necessary to protect the public's health and safety.
+21 (b) The state department shall in a reasonable time period post
+22 on the state department's website any waiver granted under this
+23 section and the justification for the waiver.
+24 Sec. 5. A hospital that violates this chapter may be subject to
+25 any of the following:
+26 (1) A civil penalty not to exceed ten thousand dollars ($10,000)
+27 per violation.
+28 (2) Any other reasonable administrative action determined by
+29 the state department.
+30 SECTION 8. IC 32-28-16 IS ADDED TO THE INDIANA CODE
+31 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]:
+33 Chapter 16. Prohibition Against Lien on Principal Residence of
+34 a Consumer for Medical Debt
+35 Sec. 1. As used in this chapter, "hospital" refers to an entity
+36 licensed under IC 16-21. The term includes an affiliate, officer,
+37 agent, or employee of the entity.
+38 Sec. 2. As used in this chapter, "medical debt" means any
+39 amount owed for health care services, products, or devices
+40 provided to an individual by or in a hospital.
+41 Sec. 3. As used in this chapter, "primary residence" means real
+42 or personal property that:
+2026 IN 225—LS 6563/DI 104
+
+8
+1 (1) is located in Indiana;
+2 (2) the consumer:
+3 (A) owns; or
+4 (B) is buying under contract;
+5 whether solely or jointly with another person; and
+6 (3) constitutes the principal place of residence of:
+7 (A) the consumer; or
+8 (B) a dependent of the consumer.
+9 Sec. 4. A hospital having an ownership or other interest in
+10 medical debt owed by an individual may not assert, claim, enter,
+11 maintain, or enforce a lien against the individual's primary
+12 residence as long as the individual is acting in good faith to make
+13 payments on the medical debt as set forth in IC 16-21-16-6.
+2026 IN 225—LS 6563/DI 104
+
+[DELETED:  h i n w s s R t R a h t p n t p t d s A t a g t s t h d t t h i n a C a a d f a d i t a o w t h w n n i t h p t ( c a p6I]
+[DELETED:  1 I A T R A F 1 m a p o p i t m t6I]
+[DELETED:  I e e a o p f t P a s p t b p o b  d o p w m t f I q ( I a t t o s o t a I e t p d x a l6I]
+[DELETED:  " o s c f p o A A N S T R A F J 1 2 S 2 " d f o I 1 h t m s f i A A N S T R A F o I 1 h t m s f i A A N S T R A F J 1 2 S 3 " l f o I 1 h t m s f i a o f h c s p o d6I]
+[DELETED:  ( a n a h i w o t s T o o t a g m s t g s t a s d i A h m p c o a m d i b a i w t h w u s ( i t s d m a d i w t t6I]
+[DELETED:  T s d s a p f tS o g o a p i t p i a c o  A l a c o e o a p I c p o n t t t6I]
+[DELETED: 6I]
+[DELETED:  T s d s p a s o t c e o r o t s T s d s n t o o t 2 a 3 o t c u w r b t o t c i n d t a n d t s d d t t w i 2 o f h c s p o d6I]
+[DELETED:  o e a l a t i p6I]

@@ -1,0 +1,800 @@
+Title: SENATE BILL No. 253
+Official Title: SENATE BILL No. 253
+Number of Sections: 1
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 2-5-56.8; IC 32-21; IC 33-42; IC 34-24-6.5;
+IC 34-30-2.1.
+Synopsis: Deed fraud. Establishes the deed fraud task force. Provides
+that a county recorder may: (1) refuse to record a suspicious
+instrument, unless a court of competent jurisdiction finds that the
+county recorder's finding that the instrument is a suspicious instrument
+is erroneous; (2) report a suspicious instrument to the appropriate law
+enforcement agency; or (3) notify a notarial officer or notary public
+who has purported to acknowledge or prove a suspicious instrument of
+the reason for the county recorder's finding that the instrument is a
+suspicious instrument. Requires each county recorder to establish a
+property alert notification system. Requires each county recorder to
+establish an instrument alert notification system. Provides that a
+notarial officer may refuse to perform a notarial act if the notarial
+officer is not satisfied that the individual executing the record has
+provided sufficient information to conduct identity proofing. Requires
+a notary public to present proof of the notary public's commission to a
+person that sells or otherwise provides a stamping device to the notary
+public. Requires an applicant seeking a commission as a notary public
+to complete a background check administered by the secretary of state.
+Requires the secretary of state to establish certain security procedures
+and access controls with respect to the electronic data base of active
+notaries public. Provides that a person that alleges damages arising
+from the recording of a forged deed or mortgage has a cause of action
+against certain persons.
+Effective: July 1, 2026.
+Goode
+January 8, 2026, read first time and referred to Committee on Local Government.
+2026 IN 253—LS 7060/DI 154
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 253
+A BILL FOR AN ACT to amend the Indiana Code concerning
+property.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-5-56.8 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 56.8. Deed Fraud Task Force
+5 Sec. 1. As used in this chapter, "task force" refers to the deed
+6 fraud task force established by section 2 of this chapter.
+7 Sec. 2. The deed fraud task force is established.
+8 Sec. 3. (a) The task force consists of the following thirteen (13)
+9 members:
+10 (1) A member of the house of representatives who is
+11 appointed to the task force by the speaker of the house of
+12 representatives.
+13 (2) A member of the senate who is appointed to the task force
+14 by the president pro tempore of the senate.
+15 (3) A member of the house of representatives who is
+16 appointed to the task force by the minority leader of the house
+17 of representatives.
+2026 IN 253—LS 7060/DI 154
+2
+1 (4) A member of the senate who is appointed to the task force
+2 by the minority leader of the senate.
+3 (5) The chief justice of the supreme court or a designee of the
+4 chief justice.
+5 (6) The attorney general or the attorney general's designee.
+6 (7) A representative from the state police department.
+7 (8) The treasurer of state or the treasurer of state's designee.
+8 (9) The following members who are appointed to the task
+9 force by the governor:
+10 (A) A notary public (as defined in IC 33-42-0.5-20).
+11 (B) A title insurance agent (as defined in IC 35-43-9-4).
+12 (C) A county recorder.
+13 (D) A real estate broker licensed under IC 25-34.1.
+14 (E) A representative from a consumer advocacy group that
+15 represents the interests of consumers who are fifty (50)
+16 years of age or older.
+17 (b) The members appointed under subsection (a)(1) and (a)(2)
+18 shall serve as co-chairs.
+19 (c) A member appointed under subsection (a)(9) may not be a
+20 member of the general assembly.
+21 (d) A member serves at the will of the member's appointing
+22 authority. If a vacancy occurs in the task force, the appointing
+23 authority who appointed the member whose position is vacant shall
+24 appoint an individual to fill the vacancy.
+25 (e) An individual appointed to fill a vacancy must meet the
+26 qualifications of the vacancy.
+27 (f) An individual appointed to fill a vacancy serves for the
+28 remainder of the term of the member the individual is appointed
+29 to succeed.
+30 Sec. 4. (a) Seven (7) members of the task force constitute a
+31 quorum.
+32 (b) The affirmative vote of at least a majority of the members at
+33 a meeting at which a quorum is present is necessary for the task
+34 force to take official action other than to meet and take testimony.
+35 (c) The task force shall meet at the call of the co-chairs.
+36 Sec. 5. All meetings of the task force are open to the public in
+37 accordance with and subject to IC 5-14-1.5. All records of the task
+38 force are subject to the requirements of IC 5-14-3.
+39 Sec. 6. The task force shall:
+40 (1) assess the extent of deed fraud in Indiana; and
+41 (2) consider approaches to reduce deed fraud in Indiana.
+42 Sec. 7. The task force shall:
+2026 IN 253—LS 7060/DI 154
+3
+1 (1) develop recommendations for the legislative council
+2 concerning the topics set forth in section 6 of this chapter;
+3 (2) issue a report setting forth the recommendations
+4 developed under subdivision (1); and
+5 (3) not later than June 30, 2027, submit the report to the
+6 legislative council in an electronic format under IC 5-14-6.
+7 Sec. 8. The legislative services agency shall provide staff support
+8 to the task force.
+9 Sec. 9. (a) Each legislative member and each lay member of the
+10 task force is entitled to receive the same per diem, mileage, and
+11 travel allowances paid to individuals serving as legislative and lay
+12 members, respectively, on an interim study committee established
+13 by the legislative council.
+14 (b) A member of the task force who is a state employee is not
+15 entitled to a per diem. However, the member is entitled to receive
+16 the same travel allowances paid to members of the task force
+17 described in subsection (a).
+18 Sec. 10. The task force's expenses, including the payment of per
+19 diem and reimbursements under section 9 of this chapter, are
+20 payable from amounts appropriated to the legislative council.
+21 Sec. 11. This chapter expires July 1, 2027.
+22 SECTION 2. IC 32-21-2-17 IS ADDED TO THE INDIANA CODE
+23 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+24 1, 2026]: Sec. 17. (a) As used in this section:
+25 (1) "Suspicious instrument" means an instrument (as defined
+26 in section 1.5 of this chapter) for which the county recorder
+27 has found any of the following:
+28 (A) The name of a notarial officer or notary public who
+29 has purported to acknowledge or verify the instrument
+30 does not match official records.
+31 (B) The instrument purports not to be subject to the laws
+32 of the United States or Indiana.
+33 (C) The instrument does not conform to the recording
+34 standards enacted by the general assembly.
+35 (D) The instrument has not been submitted for recording
+36 by a trusted submitter or an authorized representative of
+37 a trusted submitter and the instrument is materially false,
+38 fictitious, or fraudulent.
+39 (2) "Title insurance agent" means a person who holds a
+40 limited lines producer's license issued under
+41 IC 27-1-15.6-18(3) and disburses funds from a title insurance
+42 escrow account to a party in connection with a real property
+2026 IN 253—LS 7060/DI 154
+4
+1 transaction.
+2 (3) "Trusted submitter" means:
+3 (A) a title insurance agent;
+4 (B) a title company;
+5 (C) an escrow company;
+6 (D) an attorney licensed to practice law in Indiana; and
+7 (E) a financial institution (as defined in IC 28-1-1-3(1)).
+8 (b) A county recorder may:
+9 (1) refuse to record a suspicious instrument, unless a court of
+10 competent jurisdiction finds that the county recorder's
+11 finding that the instrument is a suspicious instrument is
+12 erroneous;
+13 (2) report a suspicious instrument to the appropriate law
+14 enforcement agency; or
+15 (3) notify a notarial officer or notary public who has
+16 purported to acknowledge or prove a suspicious instrument
+17 of the reason for the county recorder's finding that the
+18 instrument is a suspicious instrument.
+19 (c) A person may bring an action seeking a declaratory
+20 judgment or injunctive relief against a county recorder for the
+21 county recorder's refusal to record an instrument under this
+22 section if the person believes that the county recorder erroneously
+23 determined that the instrument is a suspicious instrument. A
+24 county recorder is not liable for damages in an action brought
+25 under this subsection.
+26 SECTION 3. IC 32-21-2.2 IS ADDED TO THE INDIANA CODE
+27 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]:
+29 Chapter 2.2. Property Alert Notification System
+30 Sec. 1. Not later than January 1, 2027, each county recorder in
+31 Indiana shall establish a property alert notification system that
+32 allows a person to enroll the person's real property in the system.
+33 Sec. 2. A property alert notification system required to be
+34 established under this chapter shall do the following:
+35 (1) Notify a person that enrolls the person's real property in
+36 a property alert notification system required to be established
+37 under this chapter of the recording of any instrument (as
+38 defined in IC 32-21-2-1.5) that affects or may affect the
+39 person's real property.
+40 (2) In the notification described in subdivision (1), identify the
+41 nature of the instrument (as defined in IC 32-21-2-1.5),
+42 identify the real property by address or tax identification
+2026 IN 253—LS 7060/DI 154
+5
+1 number, and provide the recording information of the
+2 instrument (as defined in IC 32-21-2-1.5).
+3 (3) Allow a person that enrolls the person's real property in a
+4 property alert notification system required to be established
+5 under this chapter to elect to receive the notification
+6 described in subdivision (1) by mail, electronic mail, text
+7 message, or telephone call.
+8 Sec. 3. A charge may not be assessed to a person for enrolling
+9 the person's real property in a property alert notification system
+10 required to be established under this chapter.
+11 Sec. 4. A county recorder may, through any medium, provide
+12 property owners with:
+13 (1) educational information on deed fraud; and
+14 (2) information about the property alert notification system
+15 that the county recorder is required to establish under this
+16 chapter.
+17 Sec. 5. (a) A county recorder is not liable for a violation of this
+18 chapter.
+19 (b) This section does not create a cause of action against a
+20 county recorder regarding the establishment, maintenance, or
+21 operation of a property alert notification system required to be
+22 established under this chapter.
+23 SECTION 4. IC 32-21-2.3 IS ADDED TO THE INDIANA CODE
+24 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]:
+26 Chapter 2.3. Instrument Alert Notification System
+27 Sec. 1. As used in this chapter, "instrument" has the meaning
+28 set forth in IC 32-21-2-1.5.
+29 Sec. 2. As used in this chapter, "notary public" has the meaning
+30 set forth in IC 33-42-0.5-20.
+31 Sec. 3. Not later than January 1, 2027, each county recorder
+32 shall establish an instrument alert notification system that does the
+33 following:
+34 (1) Notifies a notary public who enrolls in an instrument alert
+35 notification system required to be established under this
+36 chapter of the recording of any instrument containing the
+37 name or commission number of the notary public.
+38 (2) In the notification described in subdivision (1), identifies
+39 the nature of the instrument, identifies the real property by
+40 address or tax identification number, and provides the
+41 recording information of the instrument.
+42 (3) Allows a notary public who enrolls in an instrument alert
+2026 IN 253—LS 7060/DI 154
+6
+1 notification system required to be established under this
+2 chapter to elect to receive the notification described in
+3 subdivision (1) by mail, electronic mail, text message, or
+4 telephone call.
+5 Sec. 4. There shall be no charge assessed to a notary public for
+6 enrolling in an instrument alert notification system required to be
+7 established under this chapter.
+8 Sec. 5. A county recorder may, through any medium, provide
+9 notaries public with:
+10 (1) educational information on deed fraud; and
+11 (2) information about the instrument alert notification system
+12 that the county recorder is required to establish under this
+13 chapter.
+14 Sec. 6. (a) A county recorder is not liable for a violation of this
+15 chapter.
+16 (b) This section does not create a cause of action against a
+17 county recorder regarding the establishment, maintenance, or
+18 operation of an instrument alert notification system required to be
+19 established under this chapter.
+20 SECTION 5. IC 33-42-9-4, AS AMENDED BY P.L.59-2018,
+21 SECTION 45, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 4. (a) A notarial officer has personal knowledge
+23 of an individual's identity if the:
+24 (1) individual is personally known to the notarial officer; or
+25 (2) notarial officer has transacted sufficient, prior business with
+26 the individual to know the individual's identity.
+27 (b) If a notarial officer does not have personal knowledge of an
+28 individual's identity, the notarial officer may authenticate the identity
+29 of the individual through one (1) of the following means:
+30 (1) An inspection of any of the following that, if expired, has not
+31 been expired for more than three (3) years:
+32 (A) The individual's passport.
+33 (B) The individual's driver's license.
+34 (C) The individual's government issued identification card.
+35 (D) A credential that:
+36 (i) is not described in clauses (A) through (C);
+37 (ii) is government issued; and
+38 (iii) contains a photograph of the individual.
+39 (2) A verification on an oath or affirmation by a credible witness
+40 who:
+41 (A) personally:
+42 (i) appears before the notarial officer; and
+2026 IN 253—LS 7060/DI 154
+7
+1 (ii) is personally known by the notarial officer; or
+2 (B) is identified to the notarial officer by a credential
+3 described in subdivision (1).
+4 (c) A notarial officer may require an individual to provide additional
+5 identification or information before performing a notarial act,
+6 including providing sufficient information to conduct identity
+7 proofing.
+8 SECTION 6. IC 33-42-9-5, AS ADDED BY P.L.128-2017,
+9 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2026]: Sec. 5. (a) A notarial officer may refuse to perform a
+11 notarial act if the notarial officer is not satisfied that:
+12 (1) the individual executing the record is competent; or
+13 (2) the individual's execution of the record is being done
+14 knowingly or voluntarily; or
+15 (3) the individual executing the record has provided sufficient
+16 information to conduct identity proofing under section 4(c) of
+17 this chapter.
+18 (b) A notarial officer may refuse to perform a notarial act unless the
+19 refusal is prohibited by law.
+20 SECTION 7. IC 33-42-10-3.5 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. (a) A notary public shall
+23 present proof of the notary public's commission to a person that
+24 sells or otherwise provides a stamping device to the notary public.
+25 (b) A notary public shall retain the proof described in
+26 subsection (a) for eight (8) years after providing the proof to a
+27 person that sells or otherwise provides a stamping device to the
+28 notary public.
+29 (c) A person that sells or otherwise provides a stamping device
+30 to a notary public shall retain the proof described in subsection (a)
+31 for eight (8) years after receiving the proof from the notary public.
+32 SECTION 8. IC 33-42-12-2.2 IS ADDED TO THE INDIANA
+33 CODE AS A NEW SECTION TO READ AS FOLLOWS
+34 [EFFECTIVE JULY 1, 2026]: Sec. 2.2. An applicant seeking a
+35 commission as a notary public must complete a background check
+36 administered by the secretary of state.
+37 SECTION 9. IC 33-42-13-2, AS ADDED BY P.L.128-2017,
+38 SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 2. (a) The secretary of state shall maintain an
+40 electronic data base of active notaries public.
+41 (b) The secretary of state shall require the use of a username
+42 and password authentication for any person attempting to access
+2026 IN 253—LS 7060/DI 154
+8
+1 the electronic data base established under this section.
+2 (c) In maintaining the data base established under this section,
+3 the secretary of state shall establish and maintain a system of
+4 security procedures and access controls. In establishing and
+5 maintaining a system of security procedures and access controls,
+6 the secretary of state shall consider the most recent standards
+7 promulgated by national standard setting bodies, such as the
+8 National Institute of Standards and Technology.
+9 SECTION 10. IC 34-24-6.5 IS ADDED TO THE INDIANA CODE
+10 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]:
+12 Chapter 6.5. Deed Fraud
+13 Sec. 1. As used in this chapter, "mortgage" means a mortgage
+14 or mortgage lien on an interest in real property in Indiana given to
+15 secure a loan.
+16 Sec. 2. A person that alleges damages arising from the recording
+17 of a forged deed or mortgage has a cause of action against any of
+18 the following persons:
+19 (1) The person who forged the signature of the person alleging
+20 damages arising from the recording of a forged deed or
+21 mortgage on a deed or mortgage.
+22 (2) A person who, with actual knowledge that the deed or
+23 mortgage included a forged signature, submitted the deed or
+24 mortgage to a county recorder for recording under
+25 IC 32-21-2.
+26 (3) A person with actual knowledge that the title to the real
+27 property is based on a forged deed, and who purports to sell
+28 or encumber the property to someone who is unaware of the
+29 forged deed.
+30 Sec. 3. A plaintiff who prevails in an action under this chapter
+31 is entitled to reasonable attorney's fees and compensatory and
+32 punitive damages.
+33 SECTION 11. IC 34-30-2.1-521.3 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 521.3. IC 32-21-2-17 (Concerning
+36 the recording of an instrument).
+37 SECTION 12. IC 34-30-2.1-521.5 IS ADDED TO THE INDIANA
+38 CODE AS A NEW SECTION TO READ AS FOLLOWS
+39 [EFFECTIVE JULY 1, 2026]: Sec. 521.5. IC 32-21-2.2-5 (Concerning
+40 a property alert notification system).
+41 SECTION 13. IC 34-30-2.1-521.7 IS ADDED TO THE INDIANA
+42 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2026 IN 253—LS 7060/DI 154
+9
+1 [EFFECTIVE JULY 1, 2026]: Sec. 521.7. IC 32-21-2.3-6 (Concerning
+2 an instrument alert notification system).
+2026 IN 253—LS 7060/DI 154
+[DELETED:  a c r m ( r t r a s a i a n s P t 6I]
+[DELETED:  A m o t h o r w i A m o t h o r w i6I]
+[DELETED: 6I]
+[DELETED:  d r f t l c i a r s f t r " i a m a p w h  l p l i u6I]
+[DELETED:  j f t t c r t t i i a s i i n a n o o n p w h t r f t c r f t t A p m b a a s a d r r t r a i u t t t i i a s i  A p a n s r t b i I 3 t a o m a t o t i ( d i I 36I]
+[DELETED:  a p t r i o t t c t e t r t n e r t e m o s r t b e u t o t i n a p t6I]
+[DELETED:  s r t b e u t t e t r t n d i ( b m e m t m o r t e m o 5 I 3 A A B P6I]
+[DELETED:  i i t t n o b a c o i b p a n a p s i t c i 6 I 3 A A B P t i e o t r i b d A A N S T R A F A n p s r t p d i A A N S T R A F J 1 2 S 2 A a s  9 I 3 A A B P6I]
+[DELETED:  p a a c I e a b n s s b s a t a f t r o a f d o t a c r f r u A A N S T R A F A A N S T R A F A A N S T R A F6I]
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+SENATE BILL No. 253
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 2-5-56.8; IC 32-21; IC 33-42; IC 34-24-6.5;
+IC 34-30-2.1.
+Synopsis: Deed fraud. Establishes the deed fraud task force. Provides
+that a county recorder may: (1) refuse to record a suspicious
+instrument, unless a court of competent jurisdiction finds that the
+county recorder's finding that the instrument is a suspicious instrument
+is erroneous; (2) report a suspicious instrument to the appropriate law
+enforcement agency; or (3) notify a notarial officer or notary public
+who has purported to acknowledge or prove a suspicious instrument of
+the reason for the county recorder's finding that the instrument is a
+suspicious instrument. Requires each county recorder to establish a
+property alert notification system. Requires each county recorder to
+establish an instrument alert notification system. Provides that a
+notarial officer may refuse to perform a notarial act if the notarial
+officer is not satisfied that the individual executing the record has
+provided sufficient information to conduct identity proofing. Requires
+a notary public to present proof of the notary public's commission to a
+person that sells or otherwise provides a stamping device to the notary
+public. Requires an applicant seeking a commission as a notary public
+to complete a background check administered by the secretary of state.
+Requires the secretary of state to establish certain security procedures
+and access controls with respect to the electronic data base of active
+notaries public. Provides that a person that alleges damages arising
+from the recording of a forged deed or mortgage has a cause of action
+against certain persons.
+Effective: July 1, 2026.
+Goode
+January 8, 2026, read first time and referred to Committee on Local Government.
+2026 IN 253—LS 7060/DI 154
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 253
+A BILL FOR AN ACT to amend the Indiana Code concerning
+property.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-5-56.8 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 56.8. Deed Fraud Task Force
+5 Sec. 1. As used in this chapter, "task force" refers to the deed
+6 fraud task force established by section 2 of this chapter.
+7 Sec. 2. The deed fraud task force is established.
+8 Sec. 3. (a) The task force consists of the following thirteen (13)
+9 members:
+10 (1) A member of the house of representatives who is
+11 appointed to the task force by the speaker of the house of
+12 representatives.
+13 (2) A member of the senate who is appointed to the task force
+14 by the president pro tempore of the senate.
+15 (3) A member of the house of representatives who is
+16 appointed to the task force by the minority leader of the house
+17 of representatives.
+2026 IN 253—LS 7060/DI 154
+
+2
+1 (4) A member of the senate who is appointed to the task force
+2 by the minority leader of the senate.
+3 (5) The chief justice of the supreme court or a designee of the
+4 chief justice.
+5 (6) The attorney general or the attorney general's designee.
+6 (7) A representative from the state police department.
+7 (8) The treasurer of state or the treasurer of state's designee.
+8 (9) The following members who are appointed to the task
+9 force by the governor:
+10 (A) A notary public (as defined in IC 33-42-0.5-20).
+11 (B) A title insurance agent (as defined in IC 35-43-9-4).
+12 (C) A county recorder.
+13 (D) A real estate broker licensed under IC 25-34.1.
+14 (E) A representative from a consumer advocacy group that
+15 represents the interests of consumers who are fifty (50)
+16 years of age or older.
+17 (b) The members appointed under subsection (a)(1) and (a)(2)
+18 shall serve as co-chairs.
+19 (c) A member appointed under subsection (a)(9) may not be a
+20 member of the general assembly.
+21 (d) A member serves at the will of the member's appointing
+22 authority. If a vacancy occurs in the task force, the appointing
+23 authority who appointed the member whose position is vacant shall
+24 appoint an individual to fill the vacancy.
+25 (e) An individual appointed to fill a vacancy must meet the
+26 qualifications of the vacancy.
+27 (f) An individual appointed to fill a vacancy serves for the
+28 remainder of the term of the member the individual is appointed
+29 to succeed.
+30 Sec. 4. (a) Seven (7) members of the task force constitute a
+31 quorum.
+32 (b) The affirmative vote of at least a majority of the members at
+33 a meeting at which a quorum is present is necessary for the task
+34 force to take official action other than to meet and take testimony.
+35 (c) The task force shall meet at the call of the co-chairs.
+36 Sec. 5. All meetings of the task force are open to the public in
+37 accordance with and subject to IC 5-14-1.5. All records of the task
+38 force are subject to the requirements of IC 5-14-3.
+39 Sec. 6. The task force shall:
+40 (1) assess the extent of deed fraud in Indiana; and
+41 (2) consider approaches to reduce deed fraud in Indiana.
+42 Sec. 7. The task force shall:
+2026 IN 253—LS 7060/DI 154
+
+3
+1 (1) develop recommendations for the legislative council
+2 concerning the topics set forth in section 6 of this chapter;
+3 (2) issue a report setting forth the recommendations
+4 developed under subdivision (1); and
+5 (3) not later than June 30, 2027, submit the report to the
+6 legislative council in an electronic format under IC 5-14-6.
+7 Sec. 8. The legislative services agency shall provide staff support
+8 to the task force.
+9 Sec. 9. (a) Each legislative member and each lay member of the
+10 task force is entitled to receive the same per diem, mileage, and
+11 travel allowances paid to individuals serving as legislative and lay
+12 members, respectively, on an interim study committee established
+13 by the legislative council.
+14 (b) A member of the task force who is a state employee is not
+15 entitled to a per diem. However, the member is entitled to receive
+16 the same travel allowances paid to members of the task force
+17 described in subsection (a).
+18 Sec. 10. The task force's expenses, including the payment of per
+19 diem and reimbursements under section 9 of this chapter, are
+20 payable from amounts appropriated to the legislative council.
+21 Sec. 11. This chapter expires July 1, 2027.
+22 SECTION 2. IC 32-21-2-17 IS ADDED TO THE INDIANA CODE
+23 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+24 1, 2026]: Sec. 17. (a) As used in this section:
+25 (1) "Suspicious instrument" means an instrument (as defined
+26 in section 1.5 of this chapter) for which the county recorder
+27 has found any of the following:
+28 (A) The name of a notarial officer or notary public who
+29 has purported to acknowledge or verify the instrument
+30 does not match official records.
+31 (B) The instrument purports not to be subject to the laws
+32 of the United States or Indiana.
+33 (C) The instrument does not conform to the recording
+34 standards enacted by the general assembly.
+35 (D) The instrument has not been submitted for recording
+36 by a trusted submitter or an authorized representative of
+37 a trusted submitter and the instrument is materially false,
+38 fictitious, or fraudulent.
+39 (2) "Title insurance agent" means a person who holds a
+40 limited lines producer's license issued under
+41 IC 27-1-15.6-18(3) and disburses funds from a title insurance
+42 escrow account to a party in connection with a real property
+2026 IN 253—LS 7060/DI 154
+
+4
+1 transaction.
+2 (3) "Trusted submitter" means:
+3 (A) a title insurance agent;
+4 (B) a title company;
+5 (C) an escrow company;
+6 (D) an attorney licensed to practice law in Indiana; and
+7 (E) a financial institution (as defined in IC 28-1-1-3(1)).
+8 (b) A county recorder may:
+9 (1) refuse to record a suspicious instrument, unless a court of
+10 competent jurisdiction finds that the county recorder's
+11 finding that the instrument is a suspicious instrument is
+12 erroneous;
+13 (2) report a suspicious instrument to the appropriate law
+14 enforcement agency; or
+15 (3) notify a notarial officer or notary public who has
+16 purported to acknowledge or prove a suspicious instrument
+17 of the reason for the county recorder's finding that the
+18 instrument is a suspicious instrument.
+19 (c) A person may bring an action seeking a declaratory
+20 judgment or injunctive relief against a county recorder for the
+21 county recorder's refusal to record an instrument under this
+22 section if the person believes that the county recorder erroneously
+23 determined that the instrument is a suspicious instrument. A
+24 county recorder is not liable for damages in an action brought
+25 under this subsection.
+26 SECTION 3. IC 32-21-2.2 IS ADDED TO THE INDIANA CODE
+27 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]:
+29 Chapter 2.2. Property Alert Notification System
+30 Sec. 1. Not later than January 1, 2027, each county recorder in
+31 Indiana shall establish a property alert notification system that
+32 allows a person to enroll the person's real property in the system.
+33 Sec. 2. A property alert notification system required to be
+34 established under this chapter shall do the following:
+35 (1) Notify a person that enrolls the person's real property in
+36 a property alert notification system required to be established
+37 under this chapter of the recording of any instrument (as
+38 defined in IC 32-21-2-1.5) that affects or may affect the
+39 person's real property.
+40 (2) In the notification described in subdivision (1), identify the
+41 nature of the instrument (as defined in IC 32-21-2-1.5),
+42 identify the real property by address or tax identification
+2026 IN 253—LS 7060/DI 154
+
+5
+1 number, and provide the recording information of the
+2 instrument (as defined in IC 32-21-2-1.5).
+3 (3) Allow a person that enrolls the person's real property in a
+4 property alert notification system required to be established
+5 under this chapter to elect to receive the notification
+6 described in subdivision (1) by mail, electronic mail, text
+7 message, or telephone call.
+8 Sec. 3. A charge may not be assessed to a person for enrolling
+9 the person's real property in a property alert notification system
+10 required to be established under this chapter.
+11 Sec. 4. A county recorder may, through any medium, provide
+12 property owners with:
+13 (1) educational information on deed fraud; and
+14 (2) information about the property alert notification system
+15 that the county recorder is required to establish under this
+16 chapter.
+17 Sec. 5. (a) A county recorder is not liable for a violation of this
+18 chapter.
+19 (b) This section does not create a cause of action against a
+20 county recorder regarding the establishment, maintenance, or
+21 operation of a property alert notification system required to be
+22 established under this chapter.
+23 SECTION 4. IC 32-21-2.3 IS ADDED TO THE INDIANA CODE
+24 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]:
+26 Chapter 2.3. Instrument Alert Notification System
+27 Sec. 1. As used in this chapter, "instrument" has the meaning
+28 set forth in IC 32-21-2-1.5.
+29 Sec. 2. As used in this chapter, "notary public" has the meaning
+30 set forth in IC 33-42-0.5-20.
+31 Sec. 3. Not later than January 1, 2027, each county recorder
+32 shall establish an instrument alert notification system that does the
+33 following:
+34 (1) Notifies a notary public who enrolls in an instrument alert
+35 notification system required to be established under this
+36 chapter of the recording of any instrument containing the
+37 name or commission number of the notary public.
+38 (2) In the notification described in subdivision (1), identifies
+39 the nature of the instrument, identifies the real property by
+40 address or tax identification number, and provides the
+41 recording information of the instrument.
+42 (3) Allows a notary public who enrolls in an instrument alert
+2026 IN 253—LS 7060/DI 154
+
+6
+1 notification system required to be established under this
+2 chapter to elect to receive the notification described in
+3 subdivision (1) by mail, electronic mail, text message, or
+4 telephone call.
+5 Sec. 4. There shall be no charge assessed to a notary public for
+6 enrolling in an instrument alert notification system required to be
+7 established under this chapter.
+8 Sec. 5. A county recorder may, through any medium, provide
+9 notaries public with:
+10 (1) educational information on deed fraud; and
+11 (2) information about the instrument alert notification system
+12 that the county recorder is required to establish under this
+13 chapter.
+14 Sec. 6. (a) A county recorder is not liable for a violation of this
+15 chapter.
+16 (b) This section does not create a cause of action against a
+17 county recorder regarding the establishment, maintenance, or
+18 operation of an instrument alert notification system required to be
+19 established under this chapter.
+20 SECTION 5. IC 33-42-9-4, AS AMENDED BY P.L.59-2018,
+21 SECTION 45, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 4. (a) A notarial officer has personal knowledge
+23 of an individual's identity if the:
+24 (1) individual is personally known to the notarial officer; or
+25 (2) notarial officer has transacted sufficient, prior business with
+26 the individual to know the individual's identity.
+27 (b) If a notarial officer does not have personal knowledge of an
+28 individual's identity, the notarial officer may authenticate the identity
+29 of the individual through one (1) of the following means:
+30 (1) An inspection of any of the following that, if expired, has not
+31 been expired for more than three (3) years:
+32 (A) The individual's passport.
+33 (B) The individual's driver's license.
+34 (C) The individual's government issued identification card.
+35 (D) A credential that:
+36 (i) is not described in clauses (A) through (C);
+37 (ii) is government issued; and
+38 (iii) contains a photograph of the individual.
+39 (2) A verification on an oath or affirmation by a credible witness
+40 who:
+41 (A) personally:
+42 (i) appears before the notarial officer; and
+2026 IN 253—LS 7060/DI 154
+
+7
+1 (ii) is personally known by the notarial officer; or
+2 (B) is identified to the notarial officer by a credential
+3 described in subdivision (1).
+4 (c) A notarial officer may require an individual to provide additional
+5 identification or information before performing a notarial act,
+6 including providing sufficient information to conduct identity
+7 proofing.
+8 SECTION 6. IC 33-42-9-5, AS ADDED BY P.L.128-2017,
+9 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2026]: Sec. 5. (a) A notarial officer may refuse to perform a
+11 notarial act if the notarial officer is not satisfied that:
+12 (1) the individual executing the record is competent; or
+13 (2) the individual's execution of the record is being done
+14 knowingly or voluntarily; or
+15 (3) the individual executing the record has provided sufficient
+16 information to conduct identity proofing under section 4(c) of
+17 this chapter.
+18 (b) A notarial officer may refuse to perform a notarial act unless the
+19 refusal is prohibited by law.
+20 SECTION 7. IC 33-42-10-3.5 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. (a) A notary public shall
+23 present proof of the notary public's commission to a person that
+24 sells or otherwise provides a stamping device to the notary public.
+25 (b) A notary public shall retain the proof described in
+26 subsection (a) for eight (8) years after providing the proof to a
+27 person that sells or otherwise provides a stamping device to the
+28 notary public.
+29 (c) A person that sells or otherwise provides a stamping device
+30 to a notary public shall retain the proof described in subsection (a)
+31 for eight (8) years after receiving the proof from the notary public.
+32 SECTION 8. IC 33-42-12-2.2 IS ADDED TO THE INDIANA
+33 CODE AS A NEW SECTION TO READ AS FOLLOWS
+34 [EFFECTIVE JULY 1, 2026]: Sec. 2.2. An applicant seeking a
+35 commission as a notary public must complete a background check
+36 administered by the secretary of state.
+37 SECTION 9. IC 33-42-13-2, AS ADDED BY P.L.128-2017,
+38 SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 2. (a) The secretary of state shall maintain an
+40 electronic data base of active notaries public.
+41 (b) The secretary of state shall require the use of a username
+42 and password authentication for any person attempting to access
+2026 IN 253—LS 7060/DI 154
+
+8
+1 the electronic data base established under this section.
+2 (c) In maintaining the data base established under this section,
+3 the secretary of state shall establish and maintain a system of
+4 security procedures and access controls. In establishing and
+5 maintaining a system of security procedures and access controls,
+6 the secretary of state shall consider the most recent standards
+7 promulgated by national standard setting bodies, such as the
+8 National Institute of Standards and Technology.
+9 SECTION 10. IC 34-24-6.5 IS ADDED TO THE INDIANA CODE
+10 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]:
+12 Chapter 6.5. Deed Fraud
+13 Sec. 1. As used in this chapter, "mortgage" means a mortgage
+14 or mortgage lien on an interest in real property in Indiana given to
+15 secure a loan.
+16 Sec. 2. A person that alleges damages arising from the recording
+17 of a forged deed or mortgage has a cause of action against any of
+18 the following persons:
+19 (1) The person who forged the signature of the person alleging
+20 damages arising from the recording of a forged deed or
+21 mortgage on a deed or mortgage.
+22 (2) A person who, with actual knowledge that the deed or
+23 mortgage included a forged signature, submitted the deed or
+24 mortgage to a county recorder for recording under
+25 IC 32-21-2.
+26 (3) A person with actual knowledge that the title to the real
+27 property is based on a forged deed, and who purports to sell
+28 or encumber the property to someone who is unaware of the
+29 forged deed.
+30 Sec. 3. A plaintiff who prevails in an action under this chapter
+31 is entitled to reasonable attorney's fees and compensatory and
+32 punitive damages.
+33 SECTION 11. IC 34-30-2.1-521.3 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 521.3. IC 32-21-2-17 (Concerning
+36 the recording of an instrument).
+37 SECTION 12. IC 34-30-2.1-521.5 IS ADDED TO THE INDIANA
+38 CODE AS A NEW SECTION TO READ AS FOLLOWS
+39 [EFFECTIVE JULY 1, 2026]: Sec. 521.5. IC 32-21-2.2-5 (Concerning
+40 a property alert notification system).
+41 SECTION 13. IC 34-30-2.1-521.7 IS ADDED TO THE INDIANA
+42 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2026 IN 253—LS 7060/DI 154
+
+9
+1 [EFFECTIVE JULY 1, 2026]: Sec. 521.7. IC 32-21-2.3-6 (Concerning
+2 an instrument alert notification system).
+2026 IN 253—LS 7060/DI 154
+
+[DELETED:  a c r m ( r t r a s a i a n s P t 6I]
+[DELETED:  A m o t h o r w i A m o t h o r w i6I]
+[DELETED: 6I]
+[DELETED:  d r f t l c i a r s f t r " i a m a p w h  l p l i u6I]
+[DELETED:  j f t t c r t t i i a s i i n a n o o n p w h t r f t c r f t t A p m b a a s a d r r t r a i u t t t i i a s i  A p a n s r t b i I 3 t a o m a t o t i ( d i I 36I]
+[DELETED:  a p t r i o t t c t e t r t n e r t e m o s r t b e u t o t i n a p t6I]
+[DELETED:  s r t b e u t t e t r t n d i ( b m e m t m o r t e m o 5 I 3 A A B P6I]
+[DELETED:  i i t t n o b a c o i b p a n a p s i t c i 6 I 3 A A B P t i e o t r i b d A A N S T R A F A n p s r t p d i A A N S T R A F J 1 2 S 2 A a s  9 I 3 A A B P6I]
+[DELETED:  p a a c I e a b n s s b s a t a f t r o a f d o t a c r f r u A A N S T R A F A A N S T R A F A A N S T R A F6I]
+[DELETED: 6I]

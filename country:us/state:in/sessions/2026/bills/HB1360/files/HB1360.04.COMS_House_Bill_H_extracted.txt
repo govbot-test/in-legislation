@@ -1,0 +1,3561 @@
+Title: HOUSE BILL No. 1360
+Official Title: HOUSE BILL No. 1360
+Number of Sections: 4
+Source: versions - House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 39 sections found
+
+================================================================================
+
+Section 1:
+*EH1360.1*
+February 20, 2026
+ENGROSSED
+_____
+DIGEST OF HB 1360 (Updated February 19, 2026 10:31 am - DI 119)
+Citations Affected: IC 5-14; IC 9-26.
+Synopsis: Access to public records. Allows a public agency to
+establish and maintain an electronic portal for submission of public
+records requests that: (1) incorporates CAPTCHA or an equivalent
+mechanism for ensuring that a requestor is a human; (2) requires
+verification of a requestor's physical address; (3) indicates to the public
+agency whether the requestor is a resident of Indiana; and (4)
+automatically tracks and reports submissions suspected to be
+automated or to have originated from known sources of phishing or
+data scraping. Provides that a public agency may deny a public record
+request if the request: (1) is made by a person that is a party to pending
+or ongoing litigation; and (2) is duplicative of a discovery request made
+by the person in the pending or ongoing litigation. Provides that: (1) a
+public agency may decline to respond to a public records request if the
+(Continued next page)
+Effective: July 1, 2026.
+Lehman, Carbaugh, Porter,
+Miller D
+(SENATE SPONSOR — BROWN L)
+January 8, 2026, read first time and referred to Committee on Government and Regulatory
+Reform.
+January 22, 2026, amended, reported — Do Pass.
+January 27, 2026, read second time, amended, ordered engrossed.
+January 28, 2026, engrossed. Read third time, passed. Yeas 94, nays 0.
+SENATE ACTION
+February 2, 2026, read first time and referred to Committee on Commerce and Technology.
+February 19, 2026, amended, reported favorably — Do Pass.
+EH 1360—LS 6876/DI 119
+Digest Continued
+public agency suspects: (A) the request to be data scraping or phishing
+activity; or (B) that responding to the request electronically may: (i)
+expose the public agency's electronic systems or data to unauthorized
+access or alteration; or (ii) otherwise jeopardize the security of the
+public agency's electronic systems or data; and (2) if the public agency
+declines to respond to the request, the public agency must report: (A)
+the request; and (B) the public agency's reason for declining to respond
+to the request; to the public access counselor. Allows a public agency
+to collect a supplemental fee for processing public records requests
+submitted by non-Indiana residents or out-of-state entities. Allows a
+public agency to give priority in fulfilling public records requests to:
+(1) Indiana residents; and (2) requests submitted for civic, journalistic,
+academic, or personal use. Requires public agencies to report to the
+public access counselor regarding public records requests suspected of
+being automated, data scraping activity, or phishing activity (suspect
+public records requests). Provides that the general assembly may
+establish reasonable and narrowly tailored procedural safeguards to
+preserve the integrity and availability of public agency resources.
+Requires the public access counselor to: (1) take specified actions with
+regard to identifying excessive and suspect public records requests; and
+(2) include in the public access counselor's annual report: (A)
+information regarding the volume and nature of public records requests
+received by public agencies, including information regarding suspect
+public records requests reported by public agencies; and (B)
+recommendations to the general assembly regarding statutory or
+administrative remedies to excessive and suspect public records
+requests.
+EEHH 11336600——LLSS 66887766//DDII 111199
+February 20, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1360
+A BILL FOR AN ACT to amend the Indiana Code concerning state
+and local administration.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-14-3-2, AS AMENDED BY P.L.64-2023,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 2. (a) The definitions set forth in this section apply
+4 throughout this chapter.
+5 (b) "Copy" includes transcribing by handwriting, photocopying,
+6 xerography, duplicating machine, duplicating electronically stored data
+7 onto a disk, tape, drum, or any other medium of electronic data storage,
+8 and reproducing by any other means.
+9 (c) "Criminal intelligence information" means data that has been
+10 evaluated to determine that the data is relevant to:
+11 (1) the identification of; and
+12 (2) the criminal activity engaged in by;
+13 an individual who or organization that is reasonably suspected of
+14 involvement in criminal activity.
+15 (d) "Data scraping" means use of an automated system to
+16 extract data from websites and other Internet accessible sources.
+17 (d) (e) "Direct cost" means one hundred five percent (105%) of the
+EH 1360—LS 6876/DI 119
+2
+1 sum of the cost of:
+2 (1) the initial development of a program, if any;
+3 (2) the labor required to retrieve electronically stored data;
+4 (3) the labor required to:
+5 (A) obscure nondisclosable information; and
+6 (B) perform an administrative review to determine if all
+7 nondisclosable information has been obscured;
+8 in a law enforcement recording; and
+9 (4) any medium used for electronic output;
+10 for providing a duplicate of electronically stored data onto a disk, tape,
+11 drum, or other medium of electronic data retrieval under section 8(g)
+12 of this chapter, or for reprogramming a computer system under section
+13 6(c) of this chapter. However, if the labor described in subdivision (3)
+14 is performed by an attorney, the cost under subdivision (3) may not
+15 exceed reasonable attorney's fees.
+16 (e) (f) "Electronic map" means copyrighted data provided by a
+17 public agency from an electronic geographic information system.
+18 (f) (g) "Enhanced access" means the inspection of a public record
+19 by a person other than a governmental entity and that:
+20 (1) is by means of an electronic device other than an electronic
+21 device provided by a public agency in the office of the public
+22 agency; or
+23 (2) requires the compilation or creation of a list or report that does
+24 not result in the permanent electronic storage of the information.
+25 (g) (h) "Facsimile machine" means a machine that electronically
+26 transmits exact images through connection with a telephone network.
+27 (h) (i) "Inspect" includes the right to do the following:
+28 (1) Manually transcribe and make notes, abstracts, or memoranda.
+29 (2) In the case of tape recordings or other aural public records, to
+30 listen and manually transcribe or duplicate, or make notes,
+31 abstracts, or other memoranda from them.
+32 (3) In the case of public records available:
+33 (A) by enhanced access under section 3.5 of this chapter; or
+34 (B) to a governmental entity under section 3(c)(2) of this
+35 chapter;
+36 to examine and copy the public records by use of an electronic
+37 device.
+38 (4) In the case of electronically stored data, to manually transcribe
+39 and make notes, abstracts, or memoranda or to duplicate the data
+40 onto a disk, tape, drum, or any other medium of electronic
+41 storage.
+42 (i) (j) "Investigatory record" means information compiled in the
+EH 1360—LS 6876/DI 119
+3
+1 course of the investigation of a crime.
+2 (j) (k) "Law enforcement activity" means:
+3 (1) a traffic stop;
+4 (2) a pedestrian stop;
+5 (3) an arrest;
+6 (4) a search;
+7 (5) an investigation;
+8 (6) a pursuit;
+9 (7) crowd control;
+10 (8) traffic control; or
+11 (9) any other instance in which a law enforcement officer is
+12 enforcing the law.
+13 The term does not include an administrative activity, including the
+14 completion of paperwork related to a law enforcement activity, or a
+15 custodial interrogation conducted in a place of detention as described
+16 in Indiana Evidence Rule 617, regardless of the ultimate admissibility
+17 of a statement made during the custodial interrogation.
+18 (k) (l) "Law enforcement recording" means an audio, visual, or
+19 audiovisual recording of a law enforcement activity captured by a
+20 camera or other device that is:
+21 (1) provided to or used by a law enforcement officer in the scope
+22 of the officer's duties; and
+23 (2) designed to be worn by a law enforcement officer or attached
+24 to the vehicle or transportation of a law enforcement officer.
+25 (l) (m) "Offender" means a person confined in a prison, county jail,
+26 detention facility, penal institution, or in a community corrections
+27 program as the result of the person's arrest or conviction for a crime.
+28 (m) (n) "Patient" has the meaning set out in IC 16-18-2-272(d).
+29 (n) (o) "Person" means an individual, a corporation, a limited
+30 liability company, a partnership, an unincorporated association, or a
+31 governmental entity.
+32 (p) "Phishing" means a method of obtaining information
+33 through fraud in which the sender of a communication
+34 intentionally misrepresents the identity of the sender in order to
+35 induce the recipient of the communication to:
+36 (1) divulge the information to the sender; or
+37 (2) take an action that allows the sender access to the
+38 information.
+39 (o) (q) "Private university police department" means the police
+40 officers appointed by the governing board of a private university under
+41 IC 21-17-5.
+42 (p) (r) "Provider" has the meaning set out in IC 16-18-2-295(b) and
+EH 1360—LS 6876/DI 119
+4
+1 includes employees of the Indiana department of health or local boards
+2 of health who create patient records at the request of another provider
+3 or who are social workers and create records concerning the family
+4 background of children who may need assistance.
+5 (q) (s) "Public agency", except as provided in section 2.1 of this
+6 chapter, means the following:
+7 (1) Any board, commission, department, division, bureau,
+8 committee, agency, office, instrumentality, or authority, by
+9 whatever name designated, exercising any part of the executive,
+10 administrative, judicial, or legislative power of the state.
+11 (2) Any:
+12 (A) county, township, school corporation, city, or town, or any
+13 board, commission, department, division, bureau, committee,
+14 office, instrumentality, or authority of any county, township,
+15 school corporation, city, or town;
+16 (B) political subdivision (as defined by IC 36-1-2-13); or
+17 (C) other entity, or any office thereof, by whatever name
+18 designated, exercising in a limited geographical area the
+19 executive, administrative, judicial, or legislative power of the
+20 state or a delegated local governmental power.
+21 (3) Any entity or office that is subject to:
+22 (A) budget review by either the department of local
+23 government finance or the governing body of a county, city,
+24 town, township, or school corporation; or
+25 (B) an audit by the state board of accounts that is required by
+26 statute, rule, or regulation.
+27 (4) Any building corporation of a political subdivision that issues
+28 bonds for the purpose of constructing public facilities.
+29 (5) Any advisory commission, committee, or body created by
+30 statute, ordinance, or executive order to advise the governing
+31 body of a public agency, except medical staffs or the committees
+32 of any such staff.
+33 (6) Any law enforcement agency, which means an agency or a
+34 department of any level of government that engages in the
+35 investigation, apprehension, arrest, or prosecution of alleged
+36 criminal offenders, such as the state police department, the police
+37 or sheriff's department of a political subdivision, prosecuting
+38 attorneys, members of the excise police division of the alcohol
+39 and tobacco commission, conservation officers of the department
+40 of natural resources, gaming agents of the Indiana gaming
+41 commission, gaming control officers of the Indiana gaming
+42 commission, and the security division of the state lottery
+EH 1360—LS 6876/DI 119
+5
+1 commission.
+2 (7) Any license branch operated under IC 9-14.1.
+3 (8) The state lottery commission established by IC 4-30-3-1,
+4 including any department, division, or office of the commission.
+5 (9) The Indiana gaming commission established under IC 4-33,
+6 including any department, division, or office of the commission.
+7 (10) The Indiana horse racing commission established by IC 4-31,
+8 including any department, division, or office of the commission.
+9 (11) A private university police department. The term does not
+10 include the governing board of a private university or any other
+11 department, division, board, entity, or office of a private
+12 university.
+13 (r) (t) "Public record" means any writing, paper, report, study, map,
+14 photograph, book, card, tape recording, or other material that is
+15 created, received, retained, maintained, or filed by or with a public
+16 agency and which is generated on paper, paper substitutes,
+17 photographic media, chemically based media, magnetic or machine
+18 readable media, electronically stored data, or any other material,
+19 regardless of form or characteristics.
+20 (s) (u) "Standard-sized documents" includes all documents that can
+21 be mechanically reproduced (without mechanical reduction) on paper
+22 sized eight and one-half (8 1/2) inches by eleven (11) inches or eight
+23 and one-half (8 1/2) inches by fourteen (14) inches.
+24 (t) (v) "Trade secret" has the meaning set forth in IC 24-2-3-2.
+25 (u) (w) "Work product of an attorney" means information compiled
+26 by an attorney in reasonable anticipation of litigation. The term
+27 includes the attorney's:
+28 (1) notes and statements taken during interviews of prospective
+29 witnesses; and
+30 (2) legal research or records, correspondence, reports, or
+31 memoranda to the extent that each contains the attorney's
+32 opinions, theories, or conclusions.
+33 This definition does not restrict the application of any exception under
+34 section 4 of this chapter.
+35 SECTION 2. IC 5-14-3-3.3 IS ADDED TO THE INDIANA CODE
+36 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+37 1, 2026]: Sec. 3.3. (a) A public agency may establish and maintain
+38 an electronic portal for submission of public records requests that:
+39 (1) incorporates Completely Automated Public Turing test to
+40 tell Computers and Humans Apart (CAPTCHA) or an
+41 equivalent mechanism for ensuring that a requestor is a
+42 human;
+EH 1360—LS 6876/DI 119
+6
+1 (2) requires verification of a requestor's physical address;
+2 (3) indicates to the public agency whether the requestor is a
+3 resident of Indiana; and
+4 (4) automatically tracks and reports submissions suspected to
+5 be automated or to have originated from known sources of
+6 phishing or data scraping.
+7 (b) A public agency may decline to respond to a public records
+8 request that is submitted to the public agency if one (1) or more of
+9 the following apply:
+10 (1) The public agency suspects the request to be data scraping
+11 or phishing activity.
+12 (2) The public agency suspects that responding to the request
+13 electronically may:
+14 (A) expose the public agency's electronic systems or data
+15 to unauthorized access or alteration; or
+16 (B) otherwise jeopardize the security of the public agency's
+17 electronic systems or data.
+18 (c) Not later than seven (7) days after a public agency receives
+19 a public records request to which the public agency declines to
+20 respond under subsection (b), the public agency shall notify the
+21 public access counselor of the request and the reason under
+22 subsection (b) for which the public agency has declined to respond
+23 to the request.
+24 SECTION 3. IC 5-14-3-4, AS AMENDED BY P.L.33-2025,
+25 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 4. (a) The following public records are excepted
+27 from section 3 of this chapter and may not be disclosed by a public
+28 agency, unless access to the records is specifically required by a state
+29 or federal statute or is ordered by a court under the rules of discovery:
+30 (1) Those declared confidential by state statute.
+31 (2) Those declared confidential by rule adopted by a public
+32 agency under specific authority to classify public records as
+33 confidential granted to the public agency by statute.
+34 (3) Those required to be kept confidential by federal law.
+35 (4) Records containing trade secrets.
+36 (5) Confidential financial information obtained, upon request,
+37 from a person. However, this does not include information that is
+38 filed with or received by a public agency pursuant to state statute.
+39 (6) Information concerning research, including actual research
+40 documents, conducted under the auspices of a state educational
+41 institution, including information:
+42 (A) concerning any negotiations made with respect to the
+EH 1360—LS 6876/DI 119
+7
+1 research; and
+2 (B) received from another party involved in the research.
+3 (7) Grade transcripts and license examination scores obtained as
+4 part of a licensure process.
+5 (8) Those declared confidential by or under rules adopted by the
+6 supreme court of Indiana.
+7 (9) Patient medical records and charts created by a provider,
+8 unless the patient gives written consent under IC 16-39 or as
+9 provided under IC 16-41-8.
+10 (10) Application information declared confidential by the Indiana
+11 economic development corporation under IC 5-28.
+12 (11) A photograph, a video recording, or an audio recording of an
+13 autopsy, except as provided in IC 36-2-14-10.
+14 (12) A Social Security number contained in the records of a
+15 public agency.
+16 (13) The following information that is part of a foreclosure action
+17 subject to IC 32-30-10.5:
+18 (A) Contact information for a debtor, as described in
+19 IC 32-30-10.5-8(d)(1)(B).
+20 (B) Any document submitted to the court as part of the debtor's
+21 loss mitigation package under IC 32-30-10.5-10(a)(3).
+22 (14) The following information obtained from a call made to a
+23 fraud hotline established under IC 36-1-8-8.5:
+24 (A) The identity of any individual who makes a call to the
+25 fraud hotline.
+26 (B) A report, transcript, audio recording, or other information
+27 concerning a call to the fraud hotline.
+28 However, records described in this subdivision may be disclosed
+29 to a law enforcement agency, a private university police
+30 department, the attorney general, the inspector general, the state
+31 examiner, or a prosecuting attorney.
+32 (15) Information described in section 5(c)(3)(B) of this chapter
+33 that is contained in a daily log or record described in section 5(c)
+34 of this chapter for a victim of a crime or delinquent act who is less
+35 than eighteen (18) years of age, unless and to the extent that:
+36 (A) a parent, guardian, or custodian of the victim consents in
+37 writing to public disclosure of the records; and
+38 (B) that parent, guardian, or custodian of the victim has not
+39 been charged with or convicted of committing a crime against
+40 the victim.
+41 However, records described in this subdivision may be disclosed
+42 to the department of child services.
+EH 1360—LS 6876/DI 119
+8
+1 (b) Except as otherwise provided by subsection (a), the following
+2 public records shall be excepted from section 3 of this chapter at the
+3 discretion of a public agency:
+4 (1) Investigatory records of law enforcement agencies or private
+5 university police departments. For purposes of this chapter, a law
+6 enforcement recording is not an investigatory record. However,
+7 information described in subsection (a)(15) contained in a law
+8 enforcement recording is exempt from disclosure, unless and to
+9 the extent that a parent, guardian, or custodian of the victim
+10 consents in writing to public disclosure of the records. However,
+11 a parent, guardian, or custodian charged with or convicted of a
+12 crime against the victim may not consent to public disclosure of
+13 the records. Law enforcement agencies or private university
+14 police departments may share investigatory records with:
+15 (A) a person who advocates on behalf of a crime victim,
+16 including a victim advocate (as defined in IC 35-37-6-3.5) or
+17 a victim service provider (as defined in IC 35-37-6-5), for the
+18 purposes of providing services to a victim or describing
+19 services that may be available to a victim;
+20 (B) a school corporation (as defined by IC 20-18-2-16(a)),
+21 charter school (as defined by IC 20-24-1-4), or nonpublic
+22 school (as defined by IC 20-18-2-12) for the purpose of
+23 enhancing the safety or security of a student or a school
+24 facility; and
+25 (C) the victim services division of the Indiana criminal justice
+26 institute under IC 5-2-6-8, for the purposes of conducting an
+27 investigation under IC 5-2-6.1-26;
+28 without the law enforcement agency or private university police
+29 department losing its discretion to keep those records confidential
+30 from other records requesters. However, certain law enforcement
+31 records must be made available for inspection and copying as
+32 provided in section 5 of this chapter.
+33 (2) The work product of an attorney representing, pursuant to
+34 state employment or an appointment by a public agency:
+35 (A) a public agency;
+36 (B) the state; or
+37 (C) an individual.
+38 (3) Test questions, scoring keys, and other examination data used
+39 in administering a licensing examination, examination for
+40 employment, or academic examination before the examination is
+41 given or if it is to be given again.
+42 (4) Scores of tests if the person is identified by name and has not
+EH 1360—LS 6876/DI 119
+9
+1 consented to the release of the person's scores.
+2 (5) The following:
+3 (A) Records relating to negotiations between:
+4 (i) the Indiana economic development corporation;
+5 (ii) the ports of Indiana;
+6 (iii) the Indiana state department of agriculture;
+7 (iv) the Indiana finance authority;
+8 (v) an economic development commission;
+9 (vi) the Indiana White River state park development
+10 commission;
+11 (vii) a local economic development organization that is a
+12 nonprofit corporation established under state law whose
+13 primary purpose is the promotion of industrial or business
+14 development in Indiana, the retention or expansion of
+15 Indiana businesses, or the development of entrepreneurial
+16 activities in Indiana; or
+17 (viii) a governing body of a political subdivision;
+18 with industrial, research, or commercial prospects, if the
+19 records are created while negotiations are in progress.
+20 However, this clause does not apply to records regarding
+21 research that is prohibited under IC 16-34.5-1-2 or any other
+22 law.
+23 (B) Notwithstanding clause (A), the terms of the final offer of
+24 public financial resources communicated by the Indiana
+25 economic development corporation, the ports of Indiana, the
+26 Indiana finance authority, an economic development
+27 commission, the Indiana White River state park development
+28 commission, or a governing body of a political subdivision to
+29 an industrial, a research, or a commercial prospect shall be
+30 available for inspection and copying under section 3 of this
+31 chapter after negotiations with that prospect have terminated.
+32 (C) When disclosing a final offer under clause (B), the Indiana
+33 economic development corporation shall certify that the
+34 information being disclosed accurately and completely
+35 represents the terms of the final offer.
+36 (D) Notwithstanding clause (A), an incentive agreement with
+37 an incentive recipient shall be available for inspection and
+38 copying under section 3 of this chapter after the date the
+39 incentive recipient and the Indiana economic development
+40 corporation execute the incentive agreement regardless of
+41 whether negotiations are in progress with the recipient after
+42 that date regarding a modification or extension of the incentive
+EH 1360—LS 6876/DI 119
+10
+1 agreement.
+2 (6) Records that are intra-agency or interagency advisory or
+3 deliberative material, including material developed by a private
+4 contractor under a contract with a public agency, that are
+5 expressions of opinion or are of a speculative nature, and that are
+6 communicated for the purpose of decision making.
+7 (7) Diaries, journals, or other personal notes serving as the
+8 functional equivalent of a diary or journal.
+9 (8) Personnel files of public employees and files of applicants for
+10 public employment, except for:
+11 (A) the name, compensation, job title, business address,
+12 business telephone number, job description, education and
+13 training background, previous work experience, or dates of
+14 first and last employment of present or former officers or
+15 employees of the agency;
+16 (B) information relating to the status of any formal charges
+17 against the employee; and
+18 (C) the factual basis for a disciplinary action in which final
+19 action has been taken and that resulted in the employee being
+20 suspended, demoted, or discharged.
+21 However, all personnel file information shall be made available
+22 to the affected employee or the employee's representative. This
+23 subdivision does not apply to disclosure of personnel information
+24 generally on all employees or for groups of employees without the
+25 request being particularized by employee name.
+26 (9) Minutes or records of hospital medical staff meetings.
+27 (10) Administrative or technical information that would
+28 jeopardize a record keeping system, voting system, voter
+29 registration system, or security system.
+30 (11) Computer programs, computer codes, computer filing
+31 systems, and other software that are owned by the public agency
+32 or entrusted to it and portions of electronic maps entrusted to a
+33 public agency by a utility.
+34 (12) Records specifically prepared for discussion or developed
+35 during discussion in an executive session under IC 5-14-1.5-6.1.
+36 However, this subdivision does not apply to that information
+37 required to be available for inspection and copying under
+38 subdivision (8).
+39 (13) The work product of the legislative services agency under
+40 personnel rules approved by the legislative council.
+41 (14) The work product of individual members and the partisan
+42 staffs of the general assembly.
+EH 1360—LS 6876/DI 119
+11
+1 (15) The identity of a donor of a gift made to a public agency if:
+2 (A) the donor requires nondisclosure of the donor's identity as
+3 a condition of making the gift; or
+4 (B) after the gift is made, the donor or a member of the donor's
+5 family requests nondisclosure.
+6 (16) Library or archival records:
+7 (A) which can be used to identify any library patron; or
+8 (B) deposited with or acquired by a library upon a condition
+9 that the records be disclosed only:
+10 (i) to qualified researchers;
+11 (ii) after the passing of a period of years that is specified in
+12 the documents under which the deposit or acquisition is
+13 made; or
+14 (iii) after the death of persons specified at the time of the
+15 acquisition or deposit.
+16 However, nothing in this subdivision shall limit or affect contracts
+17 entered into by the Indiana state library pursuant to IC 4-1-6-8.
+18 (17) The identity of any person who contacts the bureau of motor
+19 vehicles concerning the ability of a driver to operate a motor
+20 vehicle safely and the medical records and evaluations made by
+21 the bureau of motor vehicles staff or members of the driver
+22 licensing medical advisory board regarding the ability of a driver
+23 to operate a motor vehicle safely. However, upon written request
+24 to the commissioner of the bureau of motor vehicles, the driver
+25 must be given copies of the driver's medical records and
+26 evaluations.
+27 (18) School safety and security measures, plans, and systems,
+28 including emergency preparedness plans developed under 511
+29 IAC 6.1-2-2.5.
+30 (19) A record or a part of a record, the public disclosure of which
+31 would have a reasonable likelihood of threatening public safety
+32 by exposing a vulnerability to terrorist attack. A record described
+33 under this subdivision includes the following:
+34 (A) A record assembled, prepared, or maintained to prevent,
+35 mitigate, or respond to an act of terrorism under IC 35-47-12-1
+36 (before its repeal), an act of agricultural terrorism under
+37 IC 35-47-12-2 (before its repeal), or a felony terrorist offense
+38 (as defined in IC 35-50-2-18).
+39 (B) Vulnerability assessments.
+40 (C) Risk planning documents.
+41 (D) Needs assessments.
+42 (E) Threat assessments.
+EH 1360—LS 6876/DI 119
+12
+1 (F) Intelligence assessments.
+2 (G) Domestic preparedness strategies.
+3 (H) The location of community drinking water wells and
+4 surface water intakes.
+5 (I) The emergency contact information of emergency
+6 responders and volunteers.
+7 (J) Infrastructure records that disclose the configuration of
+8 critical systems such as voting system and voter registration
+9 system critical infrastructure, and communication, electrical,
+10 ventilation, water, and wastewater systems.
+11 (K) Detailed drawings or specifications of structural elements,
+12 floor plans, and operating, utility, or security systems, whether
+13 in paper or electronic form, of any building or facility located
+14 on an airport (as defined in IC 8-21-1-1) that is owned,
+15 occupied, leased, or maintained by a public agency, or any part
+16 of a law enforcement recording that captures information
+17 about airport security procedures, areas, or systems. A record
+18 described in this clause may not be released for public
+19 inspection by any public agency without the prior approval of
+20 the public agency that owns, occupies, leases, or maintains the
+21 airport. Both of the following apply to the public agency that
+22 owns, occupies, leases, or maintains the airport:
+23 (i) The public agency is responsible for determining whether
+24 the public disclosure of a record or a part of a record,
+25 including a law enforcement recording, has a reasonable
+26 likelihood of threatening public safety by exposing a
+27 security procedure, area, system, or vulnerability to terrorist
+28 attack.
+29 (ii) The public agency must identify a record described
+30 under item (i) and clearly mark the record as "confidential
+31 and not subject to public disclosure under
+32 IC 5-14-3-4(b)(19)(J) without approval of (insert name of
+33 submitting public agency)". However, in the case of a law
+34 enforcement recording, the public agency must clearly mark
+35 the record as "confidential and not subject to public
+36 disclosure under IC 5-14-3-4(b)(19)(K) without approval of
+37 (insert name of the public agency that owns, occupies,
+38 leases, or maintains the airport)".
+39 (L) The home address, home telephone number, and
+40 emergency contact information for any:
+41 (i) emergency management worker (as defined in
+42 IC 10-14-3-3);
+EH 1360—LS 6876/DI 119
+13
+1 (ii) public safety officer (as defined in IC 35-47-4.5-3);
+2 (iii) emergency medical responder (as defined in
+3 IC 16-18-2-109.8); or
+4 (iv) advanced emergency medical technician (as defined in
+5 IC 16-18-2-6.5).
+6 (M) Information relating to security measures or precautions
+7 used to secure the statewide 911 system under IC 36-8-16.7.
+8 This subdivision does not apply to a record or portion of a record
+9 pertaining to a location or structure owned or protected by a
+10 public agency in the event that an act of terrorism under
+11 IC 35-47-12-1 (before its repeal), an act of agricultural terrorism
+12 under IC 35-47-12-2 (before its repeal), or a felony terrorist
+13 offense (as defined in IC 35-50-2-18) has occurred at that location
+14 or structure, unless release of the record or portion of the record
+15 would have a reasonable likelihood of threatening public safety
+16 by exposing a vulnerability of other locations or structures to
+17 terrorist attack.
+18 (20) The following personal information concerning a customer
+19 of a municipally owned utility (as defined in IC 8-1-2-1):
+20 (A) Telephone number.
+21 (B) Address.
+22 (C) Social Security number.
+23 (21) The following personal information about a complainant
+24 contained in records of a law enforcement agency:
+25 (A) Telephone number.
+26 (B) The complainant's address. However, if the complainant's
+27 address is the location of the suspected crime, infraction,
+28 accident, or complaint reported, the address shall be made
+29 available for public inspection and copying.
+30 (22) Notwithstanding subdivision (8)(A), the name,
+31 compensation, job title, business address, business telephone
+32 number, job description, education and training background,
+33 previous work experience, or dates of first employment of a law
+34 enforcement officer who is operating in an undercover capacity.
+35 (23) Records requested by an offender, an agent, or a relative of
+36 an offender that:
+37 (A) contain personal information relating to:
+38 (i) a correctional officer (as defined in IC 5-10-10-1.5);
+39 (ii) a probation officer;
+40 (iii) a community corrections officer;
+41 (iv) a law enforcement officer (as defined in
+42 IC 35-31.5-2-185);
+EH 1360—LS 6876/DI 119
+14
+1 (v) a judge (as defined in IC 33-38-12-3);
+2 (vi) the victim of a crime; or
+3 (vii) a family member of a correctional officer, probation
+4 officer, community corrections officer, law enforcement
+5 officer (as defined in IC 35-31.5-2-185), judge (as defined
+6 in IC 33-38-12-3), or victim of a crime; or
+7 (B) concern or could affect the security of a jail or correctional
+8 facility.
+9 For purposes of this subdivision, "agent" means a person who is
+10 authorized by an offender to act on behalf of, or at the direction
+11 of, the offender, and "relative" has the meaning set forth in
+12 IC 35-42-2-1(b). However, the term "agent" does not include an
+13 attorney in good standing admitted to the practice of law in
+14 Indiana.
+15 (24) Information concerning an individual less than eighteen (18)
+16 years of age who participates in a conference, meeting, program,
+17 or activity conducted or supervised by a state educational
+18 institution, including the following information regarding the
+19 individual or the individual's parent or guardian:
+20 (A) Name.
+21 (B) Address.
+22 (C) Telephone number.
+23 (D) Electronic mail account address.
+24 (25) Criminal intelligence information.
+25 (26) The following information contained in a report of unclaimed
+26 property under IC 32-34-1.5-18 or in a claim for unclaimed
+27 property under IC 32-34-1.5-48:
+28 (A) Date of birth.
+29 (B) Driver's license number.
+30 (C) Taxpayer identification number.
+31 (D) Employer identification number.
+32 (E) Account number.
+33 (27) Except as provided in subdivision (19) and sections 5.1 and
+34 5.2 of this chapter, a law enforcement recording. However, before
+35 disclosing the recording, the public agency must comply with the
+36 obscuring requirements of sections 5.1 and 5.2 of this chapter, if
+37 applicable.
+38 (28) Records relating to negotiations between a state educational
+39 institution and another entity concerning the establishment of a
+40 collaborative relationship or venture to advance the research,
+41 engagement, or educational mission of the state educational
+42 institution, if the records are created while negotiations are in
+EH 1360—LS 6876/DI 119
+15
+1 progress. The terms of the final offer of public financial resources
+2 communicated by the state educational institution to an industrial,
+3 a research, or a commercial prospect shall be available for
+4 inspection and copying under section 3 of this chapter after
+5 negotiations with that prospect have terminated. However, this
+6 subdivision does not apply to records regarding research
+7 prohibited under IC 16-34.5-1-2 or any other law.
+8 (c) Nothing contained in subsection (b) shall limit or affect the right
+9 of a person to inspect and copy a public record required or directed to
+10 be made by any statute or by any rule of a public agency.
+11 (d) Notwithstanding any other law, a public record that is classified
+12 as confidential, other than a record concerning:
+13 (1) an adoption or patient medical records; or
+14 (2) a birth or stillbirth;
+15 shall be made available for inspection and copying seventy-five (75)
+16 years after the creation of that record. A registration or certificate of a
+17 birth or stillbirth shall be made available in accordance with
+18 IC 16-37-1-7.5.
+19 (e) A public agency may deny a request under this chapter for
+20 a record if the request:
+21 (1) is made by a person that is a party to pending or ongoing
+22 litigation; and
+23 (2) is duplicative of a discovery request made by the person in
+24 the pending or ongoing litigation.
+25 (e) (f) Only the content of a public record may form the basis for the
+26 adoption by any public agency of a rule or procedure creating an
+27 exception from disclosure under this section.
+28 (f) (g) Except as provided by law, a public agency may not adopt a
+29 rule or procedure that creates an exception from disclosure under this
+30 section based upon whether a public record is stored or accessed using
+31 paper, electronic media, magnetic media, optical media, or other
+32 information storage technology.
+33 (g) (h) Except as provided by law, a public agency may not adopt a
+34 rule or procedure nor impose any costs or liabilities that impede or
+35 restrict the reproduction or dissemination of any public record.
+36 (h) (i) Notwithstanding subsection (d) and section 7 of this chapter:
+37 (1) public records subject to IC 5-15 may be destroyed only in
+38 accordance with record retention schedules under IC 5-15; or
+39 (2) public records not subject to IC 5-15 may be destroyed in the
+40 ordinary course of business.
+41 SECTION 4. IC 5-14-3-4.4, AS AMENDED BY P.L.249-2019,
+42 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+EH 1360—LS 6876/DI 119
+16
+1 JULY 1, 2026]: Sec. 4.4. (a) This section applies to a request for a
+2 record that the public agency considers to be excepted from disclosure
+3 under section 4(b)(1) or 4(b)(25) of this chapter. The public agency
+4 may do either of the following:
+5 (1) Deny disclosure of the record or a part of the record. The
+6 person requesting the information may appeal the denial under
+7 section 9 of this chapter.
+8 (2) Refuse to confirm or deny the existence of the record,
+9 regardless of whether the record exists or does not exist, if the fact
+10 of the record's existence or nonexistence would reveal information
+11 that would:
+12 (A) impede or compromise an ongoing law enforcement
+13 investigation or result in danger to an individual's safety,
+14 including the safety of a law enforcement officer or a
+15 confidential source; or
+16 (B) reveal information that would have a reasonable likelihood
+17 of threatening public safety.
+18 (b) This subsection applies to a request for a record that the public
+19 agency considers to be excepted from disclosure under section 4(b)(19)
+20 of this chapter. The agency may consult with the governor's security
+21 council established by IC 10-19-8.1-2 in formulating a response. The
+22 public agency may do either of the following:
+23 (1) Deny disclosure of the record or a part of the record. The
+24 agency or the counterterrorism and security council shall provide
+25 a general description of the record being withheld and of how
+26 disclosure of the record would have a reasonable likelihood of
+27 threatening public safety by exposing a vulnerability to terrorist
+28 attack. The person requesting the information may appeal the
+29 denial under section 9 of this chapter.
+30 (2) Refuse to confirm or deny the existence of the record
+31 regardless of whether the record exists or does not exist, if the fact
+32 of the record's existence or nonexistence would reveal information
+33 that would have a reasonable likelihood of threatening public
+34 safety.
+35 (c) If a public agency does not respond to a request for a record
+36 under this section:
+37 (1) within twenty-four (24) hours of receiving the request for a
+38 record from a person who:
+39 (A) is physically present in the agency office;
+40 (B) makes the request by telephone; or
+41 (C) requests enhanced access to a document; or
+42 (2) within seven (7) days of receiving the request for a record
+EH 1360—LS 6876/DI 119
+17
+1 made by mail, or by facsimile, or through an electronic portal
+2 under section 3.3 of this chapter;
+3 the request for the record is deemed denied. The person requesting the
+4 information may appeal the denial under section 9 of this chapter.
+5 (d) If a public agency refuses to confirm or deny the existence of a
+6 record under this section, the name and title or position of the person
+7 responsible for the refusal shall be given to the person making the
+8 records request.
+9 (e) A person who has received a refusal from an agency to confirm
+10 or deny the existence of a record may file an action in the circuit or
+11 superior court of the county in which the response was received:
+12 (1) to compel the public agency to confirm whether the record
+13 exists or does not exist; and
+14 (2) if the public agency confirms that the record exists, to compel
+15 the agency to permit the person to inspect and copy the record.
+16 (f) The court shall determine the matter de novo, with the burden of
+17 proof on the public agency to sustain its refusal to confirm or deny the
+18 existence of the record. The public agency meets its burden of proof by
+19 filing a public affidavit with the court that provides with reasonable
+20 specificity of detail, and not simply conclusory statements, the basis of
+21 the agency's claim that it cannot be required to confirm or deny the
+22 existence of the requested record. If the public agency meets its burden
+23 of proof, the burden of proof shifts to the person requesting access to
+24 the record. The person requesting access to the record meets the
+25 person's burden of proof by proving any of the following:
+26 (1) The agency's justifications for not confirming the existence of
+27 the record contradict other evidence in the trial record.
+28 (2) The agency is withholding the record in bad faith.
+29 (3) An official with authority to speak for the agency has
+30 acknowledged to the public in a documented disclosure that the
+31 record exists. The person requesting the record must prove that
+32 the information requested:
+33 (A) is as specific as the information previously disclosed; and
+34 (B) matches the previously disclosed information.
+35 (g) Either party may make an interlocutory appeal of the trial court's
+36 determination on whether the agency's refusal to confirm or deny the
+37 existence of the record was proper.
+38 (h) If the court, after the disposition of any interlocutory appeals,
+39 finds that the agency's refusal to confirm or deny was improper, the
+40 court shall order the agency to disclose whether the record exists or
+41 does not exist. If the record exists and the agency claims that the record
+42 is exempt from disclosure under this chapter, the court may review the
+EH 1360—LS 6876/DI 119
+18
+1 public record in camera to determine whether any part of the record
+2 may be withheld.
+3 (i) In an action filed under this section, the court shall award
+4 reasonable attorney's fees, court costs, and other reasonable expenses
+5 of litigation to the prevailing party if:
+6 (1) the plaintiff substantially prevails; or
+7 (2) the defendant substantially prevails and the court finds the
+8 action was frivolous or vexatious.
+9 A plaintiff is eligible for the awarding of attorney's fees, court costs,
+10 and other reasonable expenses regardless of whether the plaintiff filed
+11 the action without first seeking and receiving an informal inquiry
+12 response or advisory opinion from the public access counselor.
+13 (j) A court that hears an action under this section may not assess a
+14 civil penalty under section 9.5 of this chapter in connection with the
+15 action.
+16 SECTION 5. IC 5-14-3-8, AS AMENDED BY P.L.287-2019,
+17 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]: Sec. 8. (a) For the purposes of this section, "state
+19 agency" has the meaning set forth in IC 4-13-1-1.
+20 (b) Except as provided in this section, a public agency may not
+21 charge any fee under this chapter for the following:
+22 (1) To inspect a public record.
+23 (2) This subdivision applies only to a school corporation and a
+24 charter school. This subdivision does not apply to a request for a
+25 search by an exclusive representative (as defined in
+26 IC 20-29-2-9). To search for a record that is in an electronic
+27 format, if the search does not exceed five (5) hours.
+28 (3) Subject to subdivision (2), to search for, examine, or review
+29 a record to determine whether the record may be disclosed.
+30 (4) To provide an electronic copy of a public record by electronic
+31 mail. However, a public agency may charge a fee for a public
+32 record transmitted by electronic mail if the fee for the public
+33 record is authorized under:
+34 (A) subsection (f) or (j);
+35 (B) section 6(c) of this chapter; or
+36 (C) IC 36-2-7-10 or IC 36-2-7-10.1 concerning records of the
+37 county recorder.
+38 (c) The Indiana department of administration shall establish a
+39 uniform copying fee for the copying of one (1) page of a standard-sized
+40 document by state agencies. The fee may not exceed the average cost
+41 of copying records by state agencies or ten cents ($0.10) per page,
+42 whichever is greater. Except as provided in subsection (n), a state
+EH 1360—LS 6876/DI 119
+19
+1 agency may not collect more than the uniform copying fee for
+2 providing a copy of a public record. However, a state agency shall
+3 establish and collect a reasonable fee for copying nonstandard-sized
+4 documents.
+5 (d) This subsection applies to a public agency that is not a state
+6 agency. The fiscal body (as defined in IC 36-1-2-6) of the public
+7 agency, or the governing body, if there is no fiscal body, shall establish
+8 a fee schedule for the certification or copying of documents. The fee for
+9 certification of documents may not exceed five dollars ($5) per
+10 document. The fee for copying documents may not exceed the greater
+11 of:
+12 (1) ten cents ($0.10) per page for copies that are not color copies
+13 or twenty-five cents ($0.25) per page for color copies; or
+14 (2) the actual cost to the agency of copying the document.
+15 As used in this subsection, "actual cost" means the cost of paper and
+16 the per-page cost for use of copying or facsimile equipment and does
+17 not include labor costs or overhead costs. A fee established under this
+18 subsection must be uniform throughout the public agency and uniform
+19 to all purchasers.
+20 (e) If:
+21 (1) a person is entitled to a copy of a public record under this
+22 chapter; and
+23 (2) the public agency which is in possession of the record has
+24 reasonable access to a machine capable of reproducing the public
+25 record;
+26 the public agency must provide at least one (1) copy of the public
+27 record to the person. However, if a public agency does not have
+28 reasonable access to a machine capable of reproducing the record or if
+29 the person cannot reproduce the record by use of enhanced access
+30 under section 3.5 of this chapter, the person is only entitled to inspect
+31 and manually transcribe the record. A public agency may require that
+32 the payment for search and copying costs be made in advance.
+33 (f) Notwithstanding subsection (b), (c), (d), (g), (h), or (i), or (n), a
+34 public agency shall collect any certification, copying, facsimile
+35 machine transmission, or search fee that is specified by statute or is
+36 ordered by a court.
+37 (g) Except as provided by subsection (h), for providing a duplicate
+38 of a computer tape, computer disc, microfilm, law enforcement
+39 recording, or similar or analogous record system containing
+40 information owned by the public agency or entrusted to it, a public
+41 agency may charge a fee, uniform to all purchasers, that does not
+42 exceed the sum of the following:
+EH 1360—LS 6876/DI 119
+20
+1 (1) The agency's direct cost of supplying the information in that
+2 form. However, the fee for a copy of a law enforcement recording
+3 may not exceed one hundred fifty dollars ($150).
+4 (2) The standard cost for selling the same information to the
+5 public in the form of a publication if the agency has published the
+6 information and made the publication available for sale.
+7 (3) In the case of the legislative services agency, a reasonable
+8 percentage of the agency's direct cost of maintaining the system
+9 in which the information is stored. However, the amount charged
+10 by the legislative services agency under this subdivision may not
+11 exceed the sum of the amounts it may charge under subdivisions
+12 (1) and (2).
+13 (h) This subsection applies to the fee charged by a public agency for
+14 providing enhanced access to a public record. A public agency may
+15 charge any reasonable fee agreed on in the contract under section 3.5
+16 of this chapter for providing enhanced access to public records.
+17 (i) This subsection applies to the fee charged by a public agency for
+18 permitting a governmental entity to inspect public records by means of
+19 an electronic device. A public agency may charge any reasonable fee
+20 for the inspection of public records under this subsection, or the public
+21 agency may waive any fee for the inspection.
+22 (j) Except as provided in subsection (k), a public agency may charge
+23 a fee, uniform to all purchasers, for providing an electronic map that is
+24 based upon a reasonable percentage of the agency's direct cost of
+25 maintaining, upgrading, and enhancing the electronic map and for the
+26 direct cost of supplying the electronic map in the form requested by the
+27 purchaser. If the public agency is within a political subdivision having
+28 a fiscal body, the fee is subject to the approval of the fiscal body of the
+29 political subdivision.
+30 (k) The fee charged by a public agency under subsection (j) to cover
+31 costs for maintaining, upgrading, and enhancing an electronic map may
+32 be waived by the public agency if the electronic map for which the fee
+33 is charged will be used for a noncommercial purpose, including the
+34 following:
+35 (1) Public agency program support.
+36 (2) Nonprofit activities.
+37 (3) Journalism.
+38 (4) Academic research.
+39 (l) This subsection does not apply to a state agency. A fee collected
+40 under subsection (g) for the copying of a law enforcement recording
+41 may be:
+42 (1) retained by the public agency; and
+EH 1360—LS 6876/DI 119
+21
+1 (2) used without appropriation for one (1) or more of the
+2 following purposes:
+3 (A) To purchase cameras and other equipment for use in
+4 connection with the agency's law enforcement recording
+5 program.
+6 (B) For training concerning law enforcement recording.
+7 (C) To defray the expenses of storing, producing, and copying
+8 law enforcement recordings.
+9 Money from a fee described in this subsection does not revert to the
+10 local general fund at the end of a fiscal year.
+11 (m) This subsection applies to a school corporation and a charter
+12 school. For purposes of this subsection, "computer processing time"
+13 means the amount of time a computer takes to process a command or
+14 script to extract or copy electronically stored data that is the subject of
+15 a public records request. A school corporation or charter school may
+16 not charge a fee for the first five (5) hours required to search for
+17 records that are in an electronic format. A school corporation or charter
+18 school may charge a search fee for any time spent searching for records
+19 that are in an electronic format that exceeds five (5) hours. If the school
+20 corporation or charter school charges a search fee, the school
+21 corporation or charter school shall charge an hourly fee that does not
+22 exceed the lesser of:
+23 (1) the hourly rate of the person making the search; or
+24 (2) twenty dollars ($20) per hour.
+25 A school corporation or charter school charging an hourly fee under
+26 this subsection for searching for records that are in an electronic format
+27 may charge only for time that the person making the search actually
+28 spends in searching for the records that are in an electronic format. A
+29 school corporation or charter school may not charge for computer
+30 processing time and may not establish a minimum fee for searching for
+31 records that are in an electronic format. A school corporation or charter
+32 school shall make a good faith effort to complete a search for records
+33 that are in an electronic format that is within a reasonable time in order
+34 to minimize the amount of a search fee. The fee must be prorated to
+35 reflect any search time of less than one (1) hour.
+36 (n) Except as provided in subsection (o), a public agency may
+37 collect a supplemental fee for processing public records requests
+38 submitted by non-Indiana residents or out-of-state entities. The
+39 fee:
+40 (1) must be reasonably related to the cost of fulfilling the
+41 request; and
+42 (2) may not exceed twenty-five cents ($0.25) per page and
+EH 1360—LS 6876/DI 119
+22
+1 twenty-five dollars ($25) per hour of staff time spent
+2 processing the request.
+3 (o) A public agency may waive the fee under subsection (n) if the
+4 public agency finds that the public records request serves the
+5 public interest.
+6 SECTION 6. IC 5-14-3-8.1 IS ADDED TO THE INDIANA CODE
+7 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+8 1, 2026]: Sec. 8.1. (a) A public agency may give priority in fulfilling
+9 public records requests to:
+10 (1) Indiana residents; and
+11 (2) requests submitted for civic, journalistic, academic, or
+12 personal use.
+13 (b) Requests identified as originating from out-of-state entities
+14 or automated systems may be:
+15 (1) delayed as necessary to prevent disruption of core agency
+16 functions; and
+17 (2) subject to a fee under section 8(n) of this chapter.
+18 SECTION 7. IC 5-14-3-9, AS AMENDED BY P.L.58-2016,
+19 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 9. (a) This section does not apply to a request for
+21 information under section 4.4 of this chapter.
+22 (b) A denial of disclosure by a public agency occurs when the
+23 person making the request is physically present in the office of the
+24 agency, makes the request by telephone, or requests enhanced access
+25 to a document and:
+26 (1) the person designated by the public agency as being
+27 responsible for public records release decisions refuses to permit
+28 inspection and copying of a public record when a request has
+29 been made; or
+30 (2) twenty-four (24) hours elapse after any employee of the public
+31 agency refuses to permit inspection and copying of a public
+32 record when a request has been made;
+33 whichever occurs first.
+34 (c) If a person requests by mail or by facsimile a copy or copies of
+35 a public record by mail, by facsimile, or through an electronic
+36 portal under section 3.3 of this chapter, a denial of disclosure does
+37 not occur until seven (7) days have elapsed from the date the public
+38 agency receives the request.
+39 (d) If a request is made orally, either in person or by telephone, a
+40 public agency may deny the request orally. However, if a request
+41 initially is made in writing, by facsimile, or through enhanced access,
+42 or if an oral request that has been denied is renewed in writing or by
+EH 1360—LS 6876/DI 119
+23
+1 facsimile, a public agency may deny the request if:
+2 (1) the denial is in writing or by facsimile; and
+3 (2) the denial includes:
+4 (A) a statement of the specific exemption or exemptions
+5 authorizing the withholding of all or part of the public record;
+6 and
+7 (B) the name and the title or position of the person responsible
+8 for the denial.
+9 (e) A person who has been denied the right to inspect or copy a
+10 public record by a public agency may file an action in the circuit or
+11 superior court of the county in which the denial occurred to compel the
+12 public agency to permit the person to inspect and copy the public
+13 record. Whenever an action is filed under this subsection, the public
+14 agency must notify each person who supplied any part of the public
+15 record at issue:
+16 (1) that a request for release of the public record has been denied;
+17 and
+18 (2) whether the denial was in compliance with an informal inquiry
+19 response or advisory opinion of the public access counselor.
+20 Such persons are entitled to intervene in any litigation that results from
+21 the denial. The person who has been denied the right to inspect or copy
+22 need not allege or prove any special damage different from that
+23 suffered by the public at large.
+24 (f) The court shall determine the matter de novo, with the burden of
+25 proof on the public agency to sustain its denial. If the issue in de novo
+26 review under this section is whether a public agency properly denied
+27 access to a public record because the record is exempted under section
+28 4(a) of this chapter, the public agency meets its burden of proof under
+29 this subsection by establishing the content of the record with adequate
+30 specificity and not by relying on a conclusory statement or affidavit.
+31 (g) This subsection does not apply to an action under section 5.2 of
+32 this chapter. If the issue in a de novo review under this section is
+33 whether a public agency properly denied access to a public record
+34 because the record is exempted under section 4(b) of this chapter:
+35 (1) the public agency meets its burden of proof under this
+36 subsection by:
+37 (A) proving that:
+38 (i) the record falls within any one (1) of the categories of
+39 exempted records under section 4(b) of this chapter; and
+40 (ii) if the action is for denial of access to a recording under
+41 section 5.1 of this chapter, the plaintiff is not a "requestor"
+42 as that term is defined in section 5.1 of this chapter; and
+EH 1360—LS 6876/DI 119
+24
+1 (B) establishing the content of the record with adequate
+2 specificity and not by relying on a conclusory statement or
+3 affidavit; and
+4 (2) a person requesting access to a public record meets the
+5 person's burden of proof under this subsection by proving that the
+6 denial of access is arbitrary or capricious.
+7 (h) The court may review the public record in camera to determine
+8 whether any part of it may be withheld under this chapter. However, if
+9 the complaint alleges that a public agency denied disclosure of a public
+10 record by redacting information in the public record, the court shall
+11 conduct an in camera inspection of the public record with the redacted
+12 information included.
+13 (i) Except as provided in subsection (k), in any action filed under
+14 this section, a court shall award reasonable attorney's fees, court costs,
+15 and other reasonable expenses of litigation to the prevailing party if:
+16 (1) the plaintiff substantially prevails; or
+17 (2) the defendant substantially prevails and the court finds the
+18 action was frivolous or vexatious.
+19 Except as provided in subsection (k), the plaintiff is not eligible for the
+20 awarding of attorney's fees, court costs, and other reasonable expenses
+21 if the plaintiff filed the action without first seeking and receiving an
+22 informal inquiry response or advisory opinion from the public access
+23 counselor, unless the plaintiff can show the filing of the action was
+24 necessary because the denial of access to a public record under this
+25 chapter would prevent the plaintiff from presenting that public record
+26 to a public agency preparing to act on a matter of relevance to the
+27 public record whose disclosure was denied.
+28 (j) Except as provided in subsection (k), a court may assess a civil
+29 penalty under section 9.5 of this chapter only if the plaintiff obtained
+30 an advisory opinion from the public access counselor before filing an
+31 action under this section as set forth in section 9.5 of this chapter.
+32 (k) This subsection applies only to an action to appeal the denial of
+33 access to a law enforcement recording under section 5.1 of this chapter.
+34 A requestor (as defined in section 5.1 of this chapter) may bring an
+35 action to appeal from the denial of access to a law enforcement
+36 recording without first seeking or receiving an informal inquiry
+37 response or advisory opinion from the public access counselor. If the
+38 requestor prevails in an action under this subsection:
+39 (1) the requestor is eligible for an award of reasonable attorney's
+40 fees, court costs, and other reasonable expenses; and
+41 (2) a court may assess a civil penalty under section 9.5 of this
+42 chapter.
+EH 1360—LS 6876/DI 119
+25
+1 (l) A court shall expedite the hearing of an action filed under this
+2 section.
+3 SECTION 8. IC 5-14-3-11 IS ADDED TO THE INDIANA CODE
+4 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+5 1, 2026]: Sec. 11. In addition to providing the public access
+6 counselor with notice of a request to which the public agency has
+7 declined to respond under section 3.3 of this chapter, a public
+8 agency shall report to the public access counselor, through a
+9 standardized mechanism prescribed by the public access counselor,
+10 any public records request received by the public agency that is
+11 suspected by the public agency of being:
+12 (1) automated; or
+13 (2) data scraping or phishing activity.
+14 SECTION 9. IC 5-14-3-12 IS ADDED TO THE INDIANA CODE
+15 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+16 1, 2026]: Sec. 12. Nothing in this chapter shall prevent the general
+17 assembly from establishing reasonable and narrowly tailored
+18 procedural safeguards to preserve the integrity and availability of
+19 public agency resources.
+20 SECTION 10. IC 5-14-4-1.2 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2026]: Sec. 1.2. As used in this chapter, "data scraping" has the
+23 meaning set forth in IC 5-14-3-2.
+24 SECTION 11. IC 5-14-4-2.5 IS ADDED TO THE INDIANA CODE
+25 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+26 1, 2026]: Sec. 2.5. As used in this chapter, "phishing" has the
+27 meaning set forth in IC 5-14-3-2.
+28 SECTION 12. IC 5-14-4-10 IS AMENDED TO READ AS
+29 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 10. The counselor has
+30 the following powers and duties:
+31 (1) To establish and administer a program to train public officials
+32 and educate the public on the rights of the public and the
+33 responsibilities of public agencies under the public access laws.
+34 The counselor may contract with a person or a public or private
+35 entity to fulfill the counselor's responsibility under this
+36 subdivision.
+37 (2) To conduct research.
+38 (3) To prepare interpretive and educational materials and
+39 programs in cooperation with the office of the attorney general.
+40 (4) To distribute to newly elected or appointed public officials the
+41 public access laws and educational materials concerning the
+42 public access laws.
+EH 1360—LS 6876/DI 119
+26
+1 (5) To respond to informal inquiries made by the public and
+2 public agencies by telephone, in writing, in person, by facsimile,
+3 or by electronic mail concerning the public access laws.
+4 (6) To issue advisory opinions to interpret the public access laws
+5 upon the request of a person or a public agency. However, the
+6 counselor may not issue an advisory opinion concerning a specific
+7 matter with respect to which a lawsuit has been filed under
+8 IC 5-14-1.5 or IC 5-14-3.
+9 (7) To make recommendations to the general assembly
+10 concerning ways to improve public access.
+11 (8) To coordinate with public agencies to:
+12 (A) track the volume and nature of public records requests
+13 received by public agencies; and
+14 (B) identify patterns or sources of excessive, automated,
+15 phishing related, or data scraping based public records
+16 requests.
+17 (9) To establish a standardized mechanism by which public
+18 agencies can report suspect public records requests under
+19 IC 5-14-3-11.
+20 SECTION 13. IC 5-14-4-12 IS AMENDED TO READ AS
+21 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 12. The counselor shall
+22 submit a report in an electronic format under IC 5-14-6 not later than
+23 June 30 of each year to the legislative services agency concerning the
+24 activities of the counselor for the previous year. The report must
+25 include the following information:
+26 (1) Summary information regarding:
+27 (A) the volume and nature of public records requests
+28 received by public agencies; and
+29 (B) public records requests reported to the counselor by
+30 public agencies under IC 5-14-3-11.
+31 (1) (2) The total number of inquiries and complaints received.
+32 (2) (3) The number of inquiries and complaints received each
+33 from the public, the media, and government agencies.
+34 (3) (4) The number of inquiries and complaints that were
+35 resolved.
+36 (4) (5) The number of complaints received about each of the
+37 following:
+38 (A) State agencies.
+39 (B) County agencies.
+40 (C) City agencies.
+41 (D) Town agencies.
+42 (E) Township agencies.
+EH 1360—LS 6876/DI 119
+27
+1 (F) School corporations.
+2 (G) Other local agencies.
+3 (5) (6) The number of complaints received concerning each of the
+4 following:
+5 (A) Public records.
+6 (B) Public meetings.
+7 (6) (7) The total number of written advisory opinions issued and
+8 pending.
+9 (8) Recommendations to the general assembly regarding
+10 statutory or administrative remedies to public records
+11 requests described in section 10(8)(B) of this chapter.
+12 SECTION 14. IC 9-26-10-2, AS AMENDED BY P.L.11-2019,
+13 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+14 JULY 1, 2026]: Sec. 2. (a) As used in this section, "person" has the
+15 meaning set forth in IC 5-14-3-2(n). IC 5-14-3-2(o).
+16 (b) Except as provided in subsections (c), (d), (e), and (f), all
+17 information contained in the emergency contact data base is
+18 confidential and exempt from:
+19 (1) disclosure to any person; and
+20 (2) public inspection under IC 5-14-3.
+21 (c) The bureau may access information contained in the emergency
+22 contact data base for the purpose of deleting, logging, or revising
+23 emergency contact information contained in the emergency contact
+24 data base.
+25 (d) A law enforcement officer may access information contained in
+26 the emergency contact data base for the purpose of complying with
+27 IC 9-26-2-5.
+28 (e) A coroner may access information contained in the emergency
+29 contact data base in the performance of the coroner's duties.
+30 (f) Information contained in the emergency contact data base is
+31 subject to disclosure to an appropriate person upon the bureau's receipt
+32 of a:
+33 (1) grand jury subpoena; or
+34 (2) subpoena related to a criminal investigation.
+EH 1360—LS 6876/DI 119
+28
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Government and Regulatory
+Reform, to which was referred House Bill 1360, has had the same
+under consideration and begs leave to report the same back to the
+House with the recommendation that said bill be amended as follows:
+Page 5, line 37, delete "shall" and insert "may".
+Page 12, line 2, delete "shall" and insert "may".
+Page 12, line 11, delete "shall" and insert "may".
+and when so amended that said bill do pass.
+(Reference is to HB 1360 as introduced.)
+MILLER D
+Committee Vote: yeas 12, nays 0.
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1360 be amended to read as
+follows:
+Page 5, line 37, after "3.3." insert "(a)".
+Page 6, between lines 6 and 7, begin a new paragraph and insert:
+"(b) A public agency may decline to respond to a public records
+request that is submitted to the public agency electronically if one
+(1) or more of the following apply:
+(1) The public agency suspects the request to be data scraping
+or phishing activity.
+(2) The public agency suspects that responding to the request
+electronically may:
+(A) expose the public agency's electronic systems or data
+to unauthorized access or alteration; or
+(B) otherwise jeopardize the security of the public agency's
+electronic systems or data.
+(c) Not later than seven (7) days after a public agency receives
+a public records request to which the public agency declines to
+respond under subsection (b), the public agency shall notify the
+public access counselor of the request and the reason under
+subsection (b) for which the public agency has declined to respond
+to the request.".
+Page 15, line 13, delete "A" and insert "In addition to providing
+EH 1360—LS 6876/DI 119
+29
+the public access counselor with notice of a request to which the
+public agency has declined to respond under section 3.3 of this
+chapter, a".
+Page 15, line 15, after "counselor," insert "any".
+Page 15, line 15, delete "requests" and insert "request".
+Page 15, line 16, delete "are" and insert "is".
+(Reference is to HB 1360 as printed January 22, 2026.)
+LEHMAN
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Commerce and
+Technology, to which was referred House Bill No. 1360, has had the
+same under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 6, line 4, delete "logs" and insert "tracks".
+Page 6, line 8, delete "electronically".
+Page 6, between lines 23 and 24, begin a new paragraph and insert:
+"SECTION 3. IC 5-14-3-4, AS AMENDED BY P.L.33-2025,
+
+Section 2:
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 4. (a) The following public records are excepted
+from section 3 of this chapter and may not be disclosed by a public
+agency, unless access to the records is specifically required by a state
+or federal statute or is ordered by a court under the rules of discovery:
+(1) Those declared confidential by state statute.
+(2) Those declared confidential by rule adopted by a public
+agency under specific authority to classify public records as
+confidential granted to the public agency by statute.
+(3) Those required to be kept confidential by federal law.
+(4) Records containing trade secrets.
+(5) Confidential financial information obtained, upon request,
+from a person. However, this does not include information that is
+filed with or received by a public agency pursuant to state statute.
+(6) Information concerning research, including actual research
+documents, conducted under the auspices of a state educational
+institution, including information:
+(A) concerning any negotiations made with respect to the
+research; and
+EH 1360—LS 6876/DI 119
+30
+(B) received from another party involved in the research.
+(7) Grade transcripts and license examination scores obtained as
+part of a licensure process.
+(8) Those declared confidential by or under rules adopted by the
+supreme court of Indiana.
+(9) Patient medical records and charts created by a provider,
+unless the patient gives written consent under IC 16-39 or as
+provided under IC 16-41-8.
+(10) Application information declared confidential by the Indiana
+economic development corporation under IC 5-28.
+(11) A photograph, a video recording, or an audio recording of an
+autopsy, except as provided in IC 36-2-14-10.
+(12) A Social Security number contained in the records of a
+public agency.
+(13) The following information that is part of a foreclosure action
+subject to IC 32-30-10.5:
+(A) Contact information for a debtor, as described in
+IC 32-30-10.5-8(d)(1)(B).
+(B) Any document submitted to the court as part of the debtor's
+loss mitigation package under IC 32-30-10.5-10(a)(3).
+(14) The following information obtained from a call made to a
+fraud hotline established under IC 36-1-8-8.5:
+(A) The identity of any individual who makes a call to the
+fraud hotline.
+(B) A report, transcript, audio recording, or other information
+concerning a call to the fraud hotline.
+However, records described in this subdivision may be disclosed
+to a law enforcement agency, a private university police
+department, the attorney general, the inspector general, the state
+examiner, or a prosecuting attorney.
+(15) Information described in section 5(c)(3)(B) of this chapter
+that is contained in a daily log or record described in section 5(c)
+of this chapter for a victim of a crime or delinquent act who is less
+than eighteen (18) years of age, unless and to the extent that:
+(A) a parent, guardian, or custodian of the victim consents in
+writing to public disclosure of the records; and
+(B) that parent, guardian, or custodian of the victim has not
+been charged with or convicted of committing a crime against
+the victim.
+However, records described in this subdivision may be disclosed
+to the department of child services.
+(b) Except as otherwise provided by subsection (a), the following
+EH 1360—LS 6876/DI 119
+31
+public records shall be excepted from section 3 of this chapter at the
+discretion of a public agency:
+(1) Investigatory records of law enforcement agencies or private
+university police departments. For purposes of this chapter, a law
+enforcement recording is not an investigatory record. However,
+information described in subsection (a)(15) contained in a law
+enforcement recording is exempt from disclosure, unless and to
+the extent that a parent, guardian, or custodian of the victim
+consents in writing to public disclosure of the records. However,
+a parent, guardian, or custodian charged with or convicted of a
+crime against the victim may not consent to public disclosure of
+the records. Law enforcement agencies or private university
+police departments may share investigatory records with:
+(A) a person who advocates on behalf of a crime victim,
+including a victim advocate (as defined in IC 35-37-6-3.5) or
+a victim service provider (as defined in IC 35-37-6-5), for the
+purposes of providing services to a victim or describing
+services that may be available to a victim;
+(B) a school corporation (as defined by IC 20-18-2-16(a)),
+charter school (as defined by IC 20-24-1-4), or nonpublic
+school (as defined by IC 20-18-2-12) for the purpose of
+enhancing the safety or security of a student or a school
+facility; and
+(C) the victim services division of the Indiana criminal justice
+institute under IC 5-2-6-8, for the purposes of conducting an
+investigation under IC 5-2-6.1-26;
+without the law enforcement agency or private university police
+department losing its discretion to keep those records confidential
+from other records requesters. However, certain law enforcement
+records must be made available for inspection and copying as
+provided in section 5 of this chapter.
+(2) The work product of an attorney representing, pursuant to
+state employment or an appointment by a public agency:
+(A) a public agency;
+(B) the state; or
+(C) an individual.
+(3) Test questions, scoring keys, and other examination data used
+in administering a licensing examination, examination for
+employment, or academic examination before the examination is
+given or if it is to be given again.
+(4) Scores of tests if the person is identified by name and has not
+consented to the release of the person's scores.
+EH 1360—LS 6876/DI 119
+32
+(5) The following:
+(A) Records relating to negotiations between:
+(i) the Indiana economic development corporation;
+(ii) the ports of Indiana;
+(iii) the Indiana state department of agriculture;
+(iv) the Indiana finance authority;
+(v) an economic development commission;
+(vi) the Indiana White River state park development
+commission;
+(vii) a local economic development organization that is a
+nonprofit corporation established under state law whose
+primary purpose is the promotion of industrial or business
+development in Indiana, the retention or expansion of
+Indiana businesses, or the development of entrepreneurial
+activities in Indiana; or
+(viii) a governing body of a political subdivision;
+with industrial, research, or commercial prospects, if the
+records are created while negotiations are in progress.
+However, this clause does not apply to records regarding
+research that is prohibited under IC 16-34.5-1-2 or any other
+law.
+(B) Notwithstanding clause (A), the terms of the final offer of
+public financial resources communicated by the Indiana
+economic development corporation, the ports of Indiana, the
+Indiana finance authority, an economic development
+commission, the Indiana White River state park development
+commission, or a governing body of a political subdivision to
+an industrial, a research, or a commercial prospect shall be
+available for inspection and copying under section 3 of this
+chapter after negotiations with that prospect have terminated.
+(C) When disclosing a final offer under clause (B), the Indiana
+economic development corporation shall certify that the
+information being disclosed accurately and completely
+represents the terms of the final offer.
+(D) Notwithstanding clause (A), an incentive agreement with
+an incentive recipient shall be available for inspection and
+copying under section 3 of this chapter after the date the
+incentive recipient and the Indiana economic development
+corporation execute the incentive agreement regardless of
+whether negotiations are in progress with the recipient after
+that date regarding a modification or extension of the incentive
+agreement.
+EH 1360—LS 6876/DI 119
+33
+(6) Records that are intra-agency or interagency advisory or
+deliberative material, including material developed by a private
+contractor under a contract with a public agency, that are
+expressions of opinion or are of a speculative nature, and that are
+communicated for the purpose of decision making.
+(7) Diaries, journals, or other personal notes serving as the
+functional equivalent of a diary or journal.
+(8) Personnel files of public employees and files of applicants for
+public employment, except for:
+(A) the name, compensation, job title, business address,
+business telephone number, job description, education and
+training background, previous work experience, or dates of
+first and last employment of present or former officers or
+employees of the agency;
+(B) information relating to the status of any formal charges
+against the employee; and
+(C) the factual basis for a disciplinary action in which final
+action has been taken and that resulted in the employee being
+suspended, demoted, or discharged.
+However, all personnel file information shall be made available
+to the affected employee or the employee's representative. This
+subdivision does not apply to disclosure of personnel information
+generally on all employees or for groups of employees without the
+request being particularized by employee name.
+(9) Minutes or records of hospital medical staff meetings.
+(10) Administrative or technical information that would
+jeopardize a record keeping system, voting system, voter
+registration system, or security system.
+(11) Computer programs, computer codes, computer filing
+systems, and other software that are owned by the public agency
+or entrusted to it and portions of electronic maps entrusted to a
+public agency by a utility.
+(12) Records specifically prepared for discussion or developed
+during discussion in an executive session under IC 5-14-1.5-6.1.
+However, this subdivision does not apply to that information
+required to be available for inspection and copying under
+subdivision (8).
+(13) The work product of the legislative services agency under
+personnel rules approved by the legislative council.
+(14) The work product of individual members and the partisan
+staffs of the general assembly.
+(15) The identity of a donor of a gift made to a public agency if:
+EH 1360—LS 6876/DI 119
+34
+(A) the donor requires nondisclosure of the donor's identity as
+a condition of making the gift; or
+(B) after the gift is made, the donor or a member of the donor's
+family requests nondisclosure.
+(16) Library or archival records:
+(A) which can be used to identify any library patron; or
+(B) deposited with or acquired by a library upon a condition
+that the records be disclosed only:
+(i) to qualified researchers;
+(ii) after the passing of a period of years that is specified in
+the documents under which the deposit or acquisition is
+made; or
+(iii) after the death of persons specified at the time of the
+acquisition or deposit.
+However, nothing in this subdivision shall limit or affect contracts
+entered into by the Indiana state library pursuant to IC 4-1-6-8.
+(17) The identity of any person who contacts the bureau of motor
+vehicles concerning the ability of a driver to operate a motor
+vehicle safely and the medical records and evaluations made by
+the bureau of motor vehicles staff or members of the driver
+licensing medical advisory board regarding the ability of a driver
+to operate a motor vehicle safely. However, upon written request
+to the commissioner of the bureau of motor vehicles, the driver
+must be given copies of the driver's medical records and
+evaluations.
+(18) School safety and security measures, plans, and systems,
+including emergency preparedness plans developed under 511
+IAC 6.1-2-2.5.
+(19) A record or a part of a record, the public disclosure of which
+would have a reasonable likelihood of threatening public safety
+by exposing a vulnerability to terrorist attack. A record described
+under this subdivision includes the following:
+(A) A record assembled, prepared, or maintained to prevent,
+mitigate, or respond to an act of terrorism under IC 35-47-12-1
+(before its repeal), an act of agricultural terrorism under
+IC 35-47-12-2 (before its repeal), or a felony terrorist offense
+(as defined in IC 35-50-2-18).
+(B) Vulnerability assessments.
+(C) Risk planning documents.
+(D) Needs assessments.
+(E) Threat assessments.
+(F) Intelligence assessments.
+EH 1360—LS 6876/DI 119
+35
+(G) Domestic preparedness strategies.
+(H) The location of community drinking water wells and
+surface water intakes.
+(I) The emergency contact information of emergency
+responders and volunteers.
+(J) Infrastructure records that disclose the configuration of
+critical systems such as voting system and voter registration
+system critical infrastructure, and communication, electrical,
+ventilation, water, and wastewater systems.
+(K) Detailed drawings or specifications of structural elements,
+floor plans, and operating, utility, or security systems, whether
+in paper or electronic form, of any building or facility located
+on an airport (as defined in IC 8-21-1-1) that is owned,
+occupied, leased, or maintained by a public agency, or any part
+of a law enforcement recording that captures information
+about airport security procedures, areas, or systems. A record
+described in this clause may not be released for public
+inspection by any public agency without the prior approval of
+the public agency that owns, occupies, leases, or maintains the
+airport. Both of the following apply to the public agency that
+owns, occupies, leases, or maintains the airport:
+(i) The public agency is responsible for determining whether
+the public disclosure of a record or a part of a record,
+including a law enforcement recording, has a reasonable
+likelihood of threatening public safety by exposing a
+security procedure, area, system, or vulnerability to terrorist
+attack.
+(ii) The public agency must identify a record described
+under item (i) and clearly mark the record as "confidential
+and not subject to public disclosure under
+IC 5-14-3-4(b)(19)(J) without approval of (insert name of
+submitting public agency)". However, in the case of a law
+enforcement recording, the public agency must clearly mark
+the record as "confidential and not subject to public
+disclosure under IC 5-14-3-4(b)(19)(K) without approval of
+(insert name of the public agency that owns, occupies,
+leases, or maintains the airport)".
+(L) The home address, home telephone number, and
+emergency contact information for any:
+(i) emergency management worker (as defined in
+IC 10-14-3-3);
+(ii) public safety officer (as defined in IC 35-47-4.5-3);
+EH 1360—LS 6876/DI 119
+36
+(iii) emergency medical responder (as defined in
+IC 16-18-2-109.8); or
+(iv) advanced emergency medical technician (as defined in
+IC 16-18-2-6.5).
+(M) Information relating to security measures or precautions
+used to secure the statewide 911 system under IC 36-8-16.7.
+This subdivision does not apply to a record or portion of a record
+pertaining to a location or structure owned or protected by a
+public agency in the event that an act of terrorism under
+IC 35-47-12-1 (before its repeal), an act of agricultural terrorism
+under IC 35-47-12-2 (before its repeal), or a felony terrorist
+offense (as defined in IC 35-50-2-18) has occurred at that location
+or structure, unless release of the record or portion of the record
+would have a reasonable likelihood of threatening public safety
+by exposing a vulnerability of other locations or structures to
+terrorist attack.
+(20) The following personal information concerning a customer
+of a municipally owned utility (as defined in IC 8-1-2-1):
+(A) Telephone number.
+(B) Address.
+(C) Social Security number.
+(21) The following personal information about a complainant
+contained in records of a law enforcement agency:
+(A) Telephone number.
+(B) The complainant's address. However, if the complainant's
+address is the location of the suspected crime, infraction,
+accident, or complaint reported, the address shall be made
+available for public inspection and copying.
+(22) Notwithstanding subdivision (8)(A), the name,
+compensation, job title, business address, business telephone
+number, job description, education and training background,
+previous work experience, or dates of first employment of a law
+enforcement officer who is operating in an undercover capacity.
+(23) Records requested by an offender, an agent, or a relative of
+an offender that:
+(A) contain personal information relating to:
+(i) a correctional officer (as defined in IC 5-10-10-1.5);
+(ii) a probation officer;
+(iii) a community corrections officer;
+(iv) a law enforcement officer (as defined in
+IC 35-31.5-2-185);
+(v) a judge (as defined in IC 33-38-12-3);
+EH 1360—LS 6876/DI 119
+37
+(vi) the victim of a crime; or
+(vii) a family member of a correctional officer, probation
+officer, community corrections officer, law enforcement
+officer (as defined in IC 35-31.5-2-185), judge (as defined
+in IC 33-38-12-3), or victim of a crime; or
+(B) concern or could affect the security of a jail or correctional
+facility.
+For purposes of this subdivision, "agent" means a person who is
+authorized by an offender to act on behalf of, or at the direction
+of, the offender, and "relative" has the meaning set forth in
+IC 35-42-2-1(b). However, the term "agent" does not include an
+attorney in good standing admitted to the practice of law in
+Indiana.
+(24) Information concerning an individual less than eighteen (18)
+years of age who participates in a conference, meeting, program,
+or activity conducted or supervised by a state educational
+institution, including the following information regarding the
+individual or the individual's parent or guardian:
+(A) Name.
+(B) Address.
+(C) Telephone number.
+(D) Electronic mail account address.
+(25) Criminal intelligence information.
+(26) The following information contained in a report of unclaimed
+property under IC 32-34-1.5-18 or in a claim for unclaimed
+property under IC 32-34-1.5-48:
+(A) Date of birth.
+(B) Driver's license number.
+(C) Taxpayer identification number.
+(D) Employer identification number.
+(E) Account number.
+(27) Except as provided in subdivision (19) and sections 5.1 and
+
+Section 3:
+5.2 of this chapter, a law enforcement recording. However, before
+disclosing the recording, the public agency must comply with the
+obscuring requirements of sections 5.1 and 5.2 of this chapter, if
+applicable.
+(28) Records relating to negotiations between a state educational
+institution and another entity concerning the establishment of a
+collaborative relationship or venture to advance the research,
+engagement, or educational mission of the state educational
+institution, if the records are created while negotiations are in
+progress. The terms of the final offer of public financial resources
+EH 1360—LS 6876/DI 119
+38
+communicated by the state educational institution to an industrial,
+a research, or a commercial prospect shall be available for
+inspection and copying under section 3 of this chapter after
+negotiations with that prospect have terminated. However, this
+subdivision does not apply to records regarding research
+prohibited under IC 16-34.5-1-2 or any other law.
+(c) Nothing contained in subsection (b) shall limit or affect the right
+of a person to inspect and copy a public record required or directed to
+be made by any statute or by any rule of a public agency.
+(d) Notwithstanding any other law, a public record that is classified
+as confidential, other than a record concerning:
+(1) an adoption or patient medical records; or
+(2) a birth or stillbirth;
+shall be made available for inspection and copying seventy-five (75)
+years after the creation of that record. A registration or certificate of a
+birth or stillbirth shall be made available in accordance with
+IC 16-37-1-7.5.
+(e) A public agency may deny a request under this chapter for
+a record if the request:
+(1) is made by a person that is a party to pending or ongoing
+litigation; and
+(2) is duplicative of a discovery request made by the person in
+the pending or ongoing litigation.
+(e) (f) Only the content of a public record may form the basis for the
+adoption by any public agency of a rule or procedure creating an
+exception from disclosure under this section.
+(f) (g) Except as provided by law, a public agency may not adopt a
+rule or procedure that creates an exception from disclosure under this
+
+Section 4:
+section based upon whether a public record is stored or accessed using
+paper, electronic media, magnetic media, optical media, or other
+information storage technology.
+(g) (h) Except as provided by law, a public agency may not adopt a
+rule or procedure nor impose any costs or liabilities that impede or
+restrict the reproduction or dissemination of any public record.
+(h) (i) Notwithstanding subsection (d) and section 7 of this chapter:
+(1) public records subject to IC 5-15 may be destroyed only in
+accordance with record retention schedules under IC 5-15; or
+(2) public records not subject to IC 5-15 may be destroyed in the
+ordinary course of business.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+EH 1360—LS 6876/DI 119
+39
+(Reference is to HB 1360 as reprinted January 28, 2026.)
+BUCHANAN, Chairperson
+Committee Vote: Yeas 10, Nays 0.
+EH 1360—LS 6876/DI 119
+[DELETED:   A t p r A a p a t w t r i a r o I a ( t a r s s t b]
+[DELETED:  r r P t t g a m i i t p a c a r ( r r r b p a a ( t t g a r s o r t e a s p r]
+[DELETED:  1 I 5 A A B P " s m u o a a s t]
+[DELETED:  p a a r t d i a a m t o d o m n a d t d o a o m o e]
+[DELETED:  ( " m a i a c a l " m a m o o i f i w t s o a c t a a t a t s a t t]
+[DELETED:  A b c d d b a o i o a b b e i a l g a t b r b e t d o l o a l o g t e i t a a o p o a n r g a o t I g g c o o t I g a t s d o t s l]
+[DELETED:  d b e o o o a p b c t r o o m t i a w i g o p p s m e s d o a o m a a i r a o l T t l r o r c r o t t e t e c t a C a H A ( o a m f e t a r i ]
+[DELETED:  a c o t r a t r u 3 I 5 A A B P T d c b r a b a p u s a t c p r a]
+[DELETED:  C i f a d a d i a l e a a p u p]
+[DELETED:  r L e a o p u o p s t a v o d ( d b I 2 f t p o t s o s o a s o a a a l e e f]
+[DELETED:  t I W R s p d i I t r o e o i r o c p i t a c w n a i p t c d n t r r f r c b t I f a a e d d c s c t t b d a a c]
+[DELETED:  R t a i o i a o u a c w a p a t a D j o o p n s a t t n c j t b a A o t i t w a r k s v s v C p c c c f t b a f i a c u]
+[DELETED:  d b g c o t d m r a i r a a o a t u]
+[DELETED:  T l o c d w w a T e c i o e a a ( d i I 8 t i o a l e r t c i i t c m n b r f p p d o r o a p a r o t p s b e  n s t p d u r a " a n s t p n o t p a t o o T h a h t n a e m w ( d i]
+[DELETED:  e m r ( d i a i t e t a a o t u t i N s ( t n t b a b t j d e a t b a l e o ( d i]
+[DELETED:  c l e t o a " h t m s f i a c o s b a s e I 3 o i a c f u o e m o t s e]
+[DELETED:  r o a c p s b a f a c u s 3 o t c a d n a t r r r o s s b m a i a w e m m m o m o o(]
+[DELETED:  R t c o d t e o t r i o c a o l e o r i t a i t s o a l e o o  R t c o d t e o t r]
+[DELETED:  r T p r a t t r m t A o w a t s f t a h]
+[DELETED:  I a a u t s t c s a 5 I 5 A A B P b a e r ( d i T I d o a s e ]
+[DELETED:  m n c m t t u c f f o d m n e f d ( p i a s c a c c f a c t c d m l e o s o a r s c]
+[DELETED:  u w a f o ( o m o t w t a l e r o c s c a s f t s]
+[DELETED:  d ( p h o s t s 7 I 5 A A B P t p d b t p a a b]
+[DELETED:  a s o t s e o e n a o p a s d d f t t p a m i b o p u t]
+[DELETED:  e t c o t r w a a p r a t a p r m t t a f t d o a t a l e w f s o r a i i]
+[DELETED:  2 S 1 I a t p t p a s r t t p a c t  f e r a n t 1 I 5 I A T R A e t p o t r o t p a t t f t c r u t T p i a e m a a l a e m c t]
+[DELETED:  w t w l h b f T m r t t g a 1 I 5 I A T R A f t v a n o p r r ( T n o i a c t w]
+[DELETED:  R t t g a r o a r t p r c i t e c d b i]
+[DELETED:  a c o t r a t r u]
+[DELETED:  P T S C o C a w t r t s A a 3 I 5 A A B P T d c b r a b a p u s a t c p a]
+[DELETED:  C i f a d a d i a l e a a p u p]
+[DELETED:  r L e a o p u o p s t a v o d ( d b I 2 f t p o t s o s a s o a a a l e e f]
+[DELETED:  t I W R s p d i I t r o e o i r o c p i t a c w n a i p t c d n t r r f r c b t I f a a e d d c s c t t b d a a c d]
+[DELETED:  R t a i o i a o u a c w a p a t a D j o o p n s a t t n c j t b a A o t i t w a r k s v s v C p c c c f t b a f i a c u]
+[DELETED:  b b g c o t d m r a i r a a o a t u]
+[DELETED:  T d w a T e c i o e a a ( d i I 8 t i o a l e r t c i i t c m n b r f p p d o r o a p a r o t p s b e  n s t p d u r a " a n s t p n o t p a t o o T h a h t n a e m w ( d i]
+[DELETED:  e m r ( d i a i t e t a a o t u t l N s ( t n t b a b t j d e a t b a l e o ( d i]
+[DELETED:  c l e t o a " h t m s f i l a c o s b a s e I 3 o i a c f u o e m o t s e]
+[DELETED:  r o a c p s b a f c u s 3 o t c a d n a t r r r o s s b m a i a w e m m m o m o o(]
+
+
+================================================================================
+
+Raw Text:
+*EH1360.1*
+February 20, 2026
+ENGROSSED
+HOUSE BILL No. 1360
+_____
+DIGEST OF HB 1360 (Updated February 19, 2026 10:31 am - DI 119)
+Citations Affected: IC 5-14; IC 9-26.
+Synopsis: Access to public records. Allows a public agency to
+establish and maintain an electronic portal for submission of public
+records requests that: (1) incorporates CAPTCHA or an equivalent
+mechanism for ensuring that a requestor is a human; (2) requires
+verification of a requestor's physical address; (3) indicates to the public
+agency whether the requestor is a resident of Indiana; and (4)
+automatically tracks and reports submissions suspected to be
+automated or to have originated from known sources of phishing or
+data scraping. Provides that a public agency may deny a public record
+request if the request: (1) is made by a person that is a party to pending
+or ongoing litigation; and (2) is duplicative of a discovery request made
+by the person in the pending or ongoing litigation. Provides that: (1) a
+public agency may decline to respond to a public records request if the
+(Continued next page)
+Effective: July 1, 2026.
+Lehman, Carbaugh, Porter,
+Miller D
+(SENATE SPONSOR — BROWN L)
+January 8, 2026, read first time and referred to Committee on Government and Regulatory
+Reform.
+January 22, 2026, amended, reported — Do Pass.
+January 27, 2026, read second time, amended, ordered engrossed.
+January 28, 2026, engrossed. Read third time, passed. Yeas 94, nays 0.
+SENATE ACTION
+February 2, 2026, read first time and referred to Committee on Commerce and Technology.
+February 19, 2026, amended, reported favorably — Do Pass.
+EH 1360—LS 6876/DI 119
+
+Digest Continued
+public agency suspects: (A) the request to be data scraping or phishing
+activity; or (B) that responding to the request electronically may: (i)
+expose the public agency's electronic systems or data to unauthorized
+access or alteration; or (ii) otherwise jeopardize the security of the
+public agency's electronic systems or data; and (2) if the public agency
+declines to respond to the request, the public agency must report: (A)
+the request; and (B) the public agency's reason for declining to respond
+to the request; to the public access counselor. Allows a public agency
+to collect a supplemental fee for processing public records requests
+submitted by non-Indiana residents or out-of-state entities. Allows a
+public agency to give priority in fulfilling public records requests to:
+(1) Indiana residents; and (2) requests submitted for civic, journalistic,
+academic, or personal use. Requires public agencies to report to the
+public access counselor regarding public records requests suspected of
+being automated, data scraping activity, or phishing activity (suspect
+public records requests). Provides that the general assembly may
+establish reasonable and narrowly tailored procedural safeguards to
+preserve the integrity and availability of public agency resources.
+Requires the public access counselor to: (1) take specified actions with
+regard to identifying excessive and suspect public records requests; and
+(2) include in the public access counselor's annual report: (A)
+information regarding the volume and nature of public records requests
+received by public agencies, including information regarding suspect
+public records requests reported by public agencies; and (B)
+recommendations to the general assembly regarding statutory or
+administrative remedies to excessive and suspect public records
+requests.
+EEHH 11336600——LLSS 66887766//DDII 111199
+
+February 20, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1360
+A BILL FOR AN ACT to amend the Indiana Code concerning state
+and local administration.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-14-3-2, AS AMENDED BY P.L.64-2023,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 2. (a) The definitions set forth in this section apply
+4 throughout this chapter.
+5 (b) "Copy" includes transcribing by handwriting, photocopying,
+6 xerography, duplicating machine, duplicating electronically stored data
+7 onto a disk, tape, drum, or any other medium of electronic data storage,
+8 and reproducing by any other means.
+9 (c) "Criminal intelligence information" means data that has been
+10 evaluated to determine that the data is relevant to:
+11 (1) the identification of; and
+12 (2) the criminal activity engaged in by;
+13 an individual who or organization that is reasonably suspected of
+14 involvement in criminal activity.
+15 (d) "Data scraping" means use of an automated system to
+16 extract data from websites and other Internet accessible sources.
+17 (d) (e) "Direct cost" means one hundred five percent (105%) of the
+EH 1360—LS 6876/DI 119
+
+2
+1 sum of the cost of:
+2 (1) the initial development of a program, if any;
+3 (2) the labor required to retrieve electronically stored data;
+4 (3) the labor required to:
+5 (A) obscure nondisclosable information; and
+6 (B) perform an administrative review to determine if all
+7 nondisclosable information has been obscured;
+8 in a law enforcement recording; and
+9 (4) any medium used for electronic output;
+10 for providing a duplicate of electronically stored data onto a disk, tape,
+11 drum, or other medium of electronic data retrieval under section 8(g)
+12 of this chapter, or for reprogramming a computer system under section
+13 6(c) of this chapter. However, if the labor described in subdivision (3)
+14 is performed by an attorney, the cost under subdivision (3) may not
+15 exceed reasonable attorney's fees.
+16 (e) (f) "Electronic map" means copyrighted data provided by a
+17 public agency from an electronic geographic information system.
+18 (f) (g) "Enhanced access" means the inspection of a public record
+19 by a person other than a governmental entity and that:
+20 (1) is by means of an electronic device other than an electronic
+21 device provided by a public agency in the office of the public
+22 agency; or
+23 (2) requires the compilation or creation of a list or report that does
+24 not result in the permanent electronic storage of the information.
+25 (g) (h) "Facsimile machine" means a machine that electronically
+26 transmits exact images through connection with a telephone network.
+27 (h) (i) "Inspect" includes the right to do the following:
+28 (1) Manually transcribe and make notes, abstracts, or memoranda.
+29 (2) In the case of tape recordings or other aural public records, to
+30 listen and manually transcribe or duplicate, or make notes,
+31 abstracts, or other memoranda from them.
+32 (3) In the case of public records available:
+33 (A) by enhanced access under section 3.5 of this chapter; or
+34 (B) to a governmental entity under section 3(c)(2) of this
+35 chapter;
+36 to examine and copy the public records by use of an electronic
+37 device.
+38 (4) In the case of electronically stored data, to manually transcribe
+39 and make notes, abstracts, or memoranda or to duplicate the data
+40 onto a disk, tape, drum, or any other medium of electronic
+41 storage.
+42 (i) (j) "Investigatory record" means information compiled in the
+EH 1360—LS 6876/DI 119
+
+3
+1 course of the investigation of a crime.
+2 (j) (k) "Law enforcement activity" means:
+3 (1) a traffic stop;
+4 (2) a pedestrian stop;
+5 (3) an arrest;
+6 (4) a search;
+7 (5) an investigation;
+8 (6) a pursuit;
+9 (7) crowd control;
+10 (8) traffic control; or
+11 (9) any other instance in which a law enforcement officer is
+12 enforcing the law.
+13 The term does not include an administrative activity, including the
+14 completion of paperwork related to a law enforcement activity, or a
+15 custodial interrogation conducted in a place of detention as described
+16 in Indiana Evidence Rule 617, regardless of the ultimate admissibility
+17 of a statement made during the custodial interrogation.
+18 (k) (l) "Law enforcement recording" means an audio, visual, or
+19 audiovisual recording of a law enforcement activity captured by a
+20 camera or other device that is:
+21 (1) provided to or used by a law enforcement officer in the scope
+22 of the officer's duties; and
+23 (2) designed to be worn by a law enforcement officer or attached
+24 to the vehicle or transportation of a law enforcement officer.
+25 (l) (m) "Offender" means a person confined in a prison, county jail,
+26 detention facility, penal institution, or in a community corrections
+27 program as the result of the person's arrest or conviction for a crime.
+28 (m) (n) "Patient" has the meaning set out in IC 16-18-2-272(d).
+29 (n) (o) "Person" means an individual, a corporation, a limited
+30 liability company, a partnership, an unincorporated association, or a
+31 governmental entity.
+32 (p) "Phishing" means a method of obtaining information
+33 through fraud in which the sender of a communication
+34 intentionally misrepresents the identity of the sender in order to
+35 induce the recipient of the communication to:
+36 (1) divulge the information to the sender; or
+37 (2) take an action that allows the sender access to the
+38 information.
+39 (o) (q) "Private university police department" means the police
+40 officers appointed by the governing board of a private university under
+41 IC 21-17-5.
+42 (p) (r) "Provider" has the meaning set out in IC 16-18-2-295(b) and
+EH 1360—LS 6876/DI 119
+
+4
+1 includes employees of the Indiana department of health or local boards
+2 of health who create patient records at the request of another provider
+3 or who are social workers and create records concerning the family
+4 background of children who may need assistance.
+5 (q) (s) "Public agency", except as provided in section 2.1 of this
+6 chapter, means the following:
+7 (1) Any board, commission, department, division, bureau,
+8 committee, agency, office, instrumentality, or authority, by
+9 whatever name designated, exercising any part of the executive,
+10 administrative, judicial, or legislative power of the state.
+11 (2) Any:
+12 (A) county, township, school corporation, city, or town, or any
+13 board, commission, department, division, bureau, committee,
+14 office, instrumentality, or authority of any county, township,
+15 school corporation, city, or town;
+16 (B) political subdivision (as defined by IC 36-1-2-13); or
+17 (C) other entity, or any office thereof, by whatever name
+18 designated, exercising in a limited geographical area the
+19 executive, administrative, judicial, or legislative power of the
+20 state or a delegated local governmental power.
+21 (3) Any entity or office that is subject to:
+22 (A) budget review by either the department of local
+23 government finance or the governing body of a county, city,
+24 town, township, or school corporation; or
+25 (B) an audit by the state board of accounts that is required by
+26 statute, rule, or regulation.
+27 (4) Any building corporation of a political subdivision that issues
+28 bonds for the purpose of constructing public facilities.
+29 (5) Any advisory commission, committee, or body created by
+30 statute, ordinance, or executive order to advise the governing
+31 body of a public agency, except medical staffs or the committees
+32 of any such staff.
+33 (6) Any law enforcement agency, which means an agency or a
+34 department of any level of government that engages in the
+35 investigation, apprehension, arrest, or prosecution of alleged
+36 criminal offenders, such as the state police department, the police
+37 or sheriff's department of a political subdivision, prosecuting
+38 attorneys, members of the excise police division of the alcohol
+39 and tobacco commission, conservation officers of the department
+40 of natural resources, gaming agents of the Indiana gaming
+41 commission, gaming control officers of the Indiana gaming
+42 commission, and the security division of the state lottery
+EH 1360—LS 6876/DI 119
+
+5
+1 commission.
+2 (7) Any license branch operated under IC 9-14.1.
+3 (8) The state lottery commission established by IC 4-30-3-1,
+4 including any department, division, or office of the commission.
+5 (9) The Indiana gaming commission established under IC 4-33,
+6 including any department, division, or office of the commission.
+7 (10) The Indiana horse racing commission established by IC 4-31,
+8 including any department, division, or office of the commission.
+9 (11) A private university police department. The term does not
+10 include the governing board of a private university or any other
+11 department, division, board, entity, or office of a private
+12 university.
+13 (r) (t) "Public record" means any writing, paper, report, study, map,
+14 photograph, book, card, tape recording, or other material that is
+15 created, received, retained, maintained, or filed by or with a public
+16 agency and which is generated on paper, paper substitutes,
+17 photographic media, chemically based media, magnetic or machine
+18 readable media, electronically stored data, or any other material,
+19 regardless of form or characteristics.
+20 (s) (u) "Standard-sized documents" includes all documents that can
+21 be mechanically reproduced (without mechanical reduction) on paper
+22 sized eight and one-half (8 1/2) inches by eleven (11) inches or eight
+23 and one-half (8 1/2) inches by fourteen (14) inches.
+24 (t) (v) "Trade secret" has the meaning set forth in IC 24-2-3-2.
+25 (u) (w) "Work product of an attorney" means information compiled
+26 by an attorney in reasonable anticipation of litigation. The term
+27 includes the attorney's:
+28 (1) notes and statements taken during interviews of prospective
+29 witnesses; and
+30 (2) legal research or records, correspondence, reports, or
+31 memoranda to the extent that each contains the attorney's
+32 opinions, theories, or conclusions.
+33 This definition does not restrict the application of any exception under
+34 section 4 of this chapter.
+35 SECTION 2. IC 5-14-3-3.3 IS ADDED TO THE INDIANA CODE
+36 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+37 1, 2026]: Sec. 3.3. (a) A public agency may establish and maintain
+38 an electronic portal for submission of public records requests that:
+39 (1) incorporates Completely Automated Public Turing test to
+40 tell Computers and Humans Apart (CAPTCHA) or an
+41 equivalent mechanism for ensuring that a requestor is a
+42 human;
+EH 1360—LS 6876/DI 119
+
+6
+1 (2) requires verification of a requestor's physical address;
+2 (3) indicates to the public agency whether the requestor is a
+3 resident of Indiana; and
+4 (4) automatically tracks and reports submissions suspected to
+5 be automated or to have originated from known sources of
+6 phishing or data scraping.
+7 (b) A public agency may decline to respond to a public records
+8 request that is submitted to the public agency if one (1) or more of
+9 the following apply:
+10 (1) The public agency suspects the request to be data scraping
+11 or phishing activity.
+12 (2) The public agency suspects that responding to the request
+13 electronically may:
+14 (A) expose the public agency's electronic systems or data
+15 to unauthorized access or alteration; or
+16 (B) otherwise jeopardize the security of the public agency's
+17 electronic systems or data.
+18 (c) Not later than seven (7) days after a public agency receives
+19 a public records request to which the public agency declines to
+20 respond under subsection (b), the public agency shall notify the
+21 public access counselor of the request and the reason under
+22 subsection (b) for which the public agency has declined to respond
+23 to the request.
+24 SECTION 3. IC 5-14-3-4, AS AMENDED BY P.L.33-2025,
+25 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 4. (a) The following public records are excepted
+27 from section 3 of this chapter and may not be disclosed by a public
+28 agency, unless access to the records is specifically required by a state
+29 or federal statute or is ordered by a court under the rules of discovery:
+30 (1) Those declared confidential by state statute.
+31 (2) Those declared confidential by rule adopted by a public
+32 agency under specific authority to classify public records as
+33 confidential granted to the public agency by statute.
+34 (3) Those required to be kept confidential by federal law.
+35 (4) Records containing trade secrets.
+36 (5) Confidential financial information obtained, upon request,
+37 from a person. However, this does not include information that is
+38 filed with or received by a public agency pursuant to state statute.
+39 (6) Information concerning research, including actual research
+40 documents, conducted under the auspices of a state educational
+41 institution, including information:
+42 (A) concerning any negotiations made with respect to the
+EH 1360—LS 6876/DI 119
+
+7
+1 research; and
+2 (B) received from another party involved in the research.
+3 (7) Grade transcripts and license examination scores obtained as
+4 part of a licensure process.
+5 (8) Those declared confidential by or under rules adopted by the
+6 supreme court of Indiana.
+7 (9) Patient medical records and charts created by a provider,
+8 unless the patient gives written consent under IC 16-39 or as
+9 provided under IC 16-41-8.
+10 (10) Application information declared confidential by the Indiana
+11 economic development corporation under IC 5-28.
+12 (11) A photograph, a video recording, or an audio recording of an
+13 autopsy, except as provided in IC 36-2-14-10.
+14 (12) A Social Security number contained in the records of a
+15 public agency.
+16 (13) The following information that is part of a foreclosure action
+17 subject to IC 32-30-10.5:
+18 (A) Contact information for a debtor, as described in
+19 IC 32-30-10.5-8(d)(1)(B).
+20 (B) Any document submitted to the court as part of the debtor's
+21 loss mitigation package under IC 32-30-10.5-10(a)(3).
+22 (14) The following information obtained from a call made to a
+23 fraud hotline established under IC 36-1-8-8.5:
+24 (A) The identity of any individual who makes a call to the
+25 fraud hotline.
+26 (B) A report, transcript, audio recording, or other information
+27 concerning a call to the fraud hotline.
+28 However, records described in this subdivision may be disclosed
+29 to a law enforcement agency, a private university police
+30 department, the attorney general, the inspector general, the state
+31 examiner, or a prosecuting attorney.
+32 (15) Information described in section 5(c)(3)(B) of this chapter
+33 that is contained in a daily log or record described in section 5(c)
+34 of this chapter for a victim of a crime or delinquent act who is less
+35 than eighteen (18) years of age, unless and to the extent that:
+36 (A) a parent, guardian, or custodian of the victim consents in
+37 writing to public disclosure of the records; and
+38 (B) that parent, guardian, or custodian of the victim has not
+39 been charged with or convicted of committing a crime against
+40 the victim.
+41 However, records described in this subdivision may be disclosed
+42 to the department of child services.
+EH 1360—LS 6876/DI 119
+
+8
+1 (b) Except as otherwise provided by subsection (a), the following
+2 public records shall be excepted from section 3 of this chapter at the
+3 discretion of a public agency:
+4 (1) Investigatory records of law enforcement agencies or private
+5 university police departments. For purposes of this chapter, a law
+6 enforcement recording is not an investigatory record. However,
+7 information described in subsection (a)(15) contained in a law
+8 enforcement recording is exempt from disclosure, unless and to
+9 the extent that a parent, guardian, or custodian of the victim
+10 consents in writing to public disclosure of the records. However,
+11 a parent, guardian, or custodian charged with or convicted of a
+12 crime against the victim may not consent to public disclosure of
+13 the records. Law enforcement agencies or private university
+14 police departments may share investigatory records with:
+15 (A) a person who advocates on behalf of a crime victim,
+16 including a victim advocate (as defined in IC 35-37-6-3.5) or
+17 a victim service provider (as defined in IC 35-37-6-5), for the
+18 purposes of providing services to a victim or describing
+19 services that may be available to a victim;
+20 (B) a school corporation (as defined by IC 20-18-2-16(a)),
+21 charter school (as defined by IC 20-24-1-4), or nonpublic
+22 school (as defined by IC 20-18-2-12) for the purpose of
+23 enhancing the safety or security of a student or a school
+24 facility; and
+25 (C) the victim services division of the Indiana criminal justice
+26 institute under IC 5-2-6-8, for the purposes of conducting an
+27 investigation under IC 5-2-6.1-26;
+28 without the law enforcement agency or private university police
+29 department losing its discretion to keep those records confidential
+30 from other records requesters. However, certain law enforcement
+31 records must be made available for inspection and copying as
+32 provided in section 5 of this chapter.
+33 (2) The work product of an attorney representing, pursuant to
+34 state employment or an appointment by a public agency:
+35 (A) a public agency;
+36 (B) the state; or
+37 (C) an individual.
+38 (3) Test questions, scoring keys, and other examination data used
+39 in administering a licensing examination, examination for
+40 employment, or academic examination before the examination is
+41 given or if it is to be given again.
+42 (4) Scores of tests if the person is identified by name and has not
+EH 1360—LS 6876/DI 119
+
+9
+1 consented to the release of the person's scores.
+2 (5) The following:
+3 (A) Records relating to negotiations between:
+4 (i) the Indiana economic development corporation;
+5 (ii) the ports of Indiana;
+6 (iii) the Indiana state department of agriculture;
+7 (iv) the Indiana finance authority;
+8 (v) an economic development commission;
+9 (vi) the Indiana White River state park development
+10 commission;
+11 (vii) a local economic development organization that is a
+12 nonprofit corporation established under state law whose
+13 primary purpose is the promotion of industrial or business
+14 development in Indiana, the retention or expansion of
+15 Indiana businesses, or the development of entrepreneurial
+16 activities in Indiana; or
+17 (viii) a governing body of a political subdivision;
+18 with industrial, research, or commercial prospects, if the
+19 records are created while negotiations are in progress.
+20 However, this clause does not apply to records regarding
+21 research that is prohibited under IC 16-34.5-1-2 or any other
+22 law.
+23 (B) Notwithstanding clause (A), the terms of the final offer of
+24 public financial resources communicated by the Indiana
+25 economic development corporation, the ports of Indiana, the
+26 Indiana finance authority, an economic development
+27 commission, the Indiana White River state park development
+28 commission, or a governing body of a political subdivision to
+29 an industrial, a research, or a commercial prospect shall be
+30 available for inspection and copying under section 3 of this
+31 chapter after negotiations with that prospect have terminated.
+32 (C) When disclosing a final offer under clause (B), the Indiana
+33 economic development corporation shall certify that the
+34 information being disclosed accurately and completely
+35 represents the terms of the final offer.
+36 (D) Notwithstanding clause (A), an incentive agreement with
+37 an incentive recipient shall be available for inspection and
+38 copying under section 3 of this chapter after the date the
+39 incentive recipient and the Indiana economic development
+40 corporation execute the incentive agreement regardless of
+41 whether negotiations are in progress with the recipient after
+42 that date regarding a modification or extension of the incentive
+EH 1360—LS 6876/DI 119
+
+10
+1 agreement.
+2 (6) Records that are intra-agency or interagency advisory or
+3 deliberative material, including material developed by a private
+4 contractor under a contract with a public agency, that are
+5 expressions of opinion or are of a speculative nature, and that are
+6 communicated for the purpose of decision making.
+7 (7) Diaries, journals, or other personal notes serving as the
+8 functional equivalent of a diary or journal.
+9 (8) Personnel files of public employees and files of applicants for
+10 public employment, except for:
+11 (A) the name, compensation, job title, business address,
+12 business telephone number, job description, education and
+13 training background, previous work experience, or dates of
+14 first and last employment of present or former officers or
+15 employees of the agency;
+16 (B) information relating to the status of any formal charges
+17 against the employee; and
+18 (C) the factual basis for a disciplinary action in which final
+19 action has been taken and that resulted in the employee being
+20 suspended, demoted, or discharged.
+21 However, all personnel file information shall be made available
+22 to the affected employee or the employee's representative. This
+23 subdivision does not apply to disclosure of personnel information
+24 generally on all employees or for groups of employees without the
+25 request being particularized by employee name.
+26 (9) Minutes or records of hospital medical staff meetings.
+27 (10) Administrative or technical information that would
+28 jeopardize a record keeping system, voting system, voter
+29 registration system, or security system.
+30 (11) Computer programs, computer codes, computer filing
+31 systems, and other software that are owned by the public agency
+32 or entrusted to it and portions of electronic maps entrusted to a
+33 public agency by a utility.
+34 (12) Records specifically prepared for discussion or developed
+35 during discussion in an executive session under IC 5-14-1.5-6.1.
+36 However, this subdivision does not apply to that information
+37 required to be available for inspection and copying under
+38 subdivision (8).
+39 (13) The work product of the legislative services agency under
+40 personnel rules approved by the legislative council.
+41 (14) The work product of individual members and the partisan
+42 staffs of the general assembly.
+EH 1360—LS 6876/DI 119
+
+11
+1 (15) The identity of a donor of a gift made to a public agency if:
+2 (A) the donor requires nondisclosure of the donor's identity as
+3 a condition of making the gift; or
+4 (B) after the gift is made, the donor or a member of the donor's
+5 family requests nondisclosure.
+6 (16) Library or archival records:
+7 (A) which can be used to identify any library patron; or
+8 (B) deposited with or acquired by a library upon a condition
+9 that the records be disclosed only:
+10 (i) to qualified researchers;
+11 (ii) after the passing of a period of years that is specified in
+12 the documents under which the deposit or acquisition is
+13 made; or
+14 (iii) after the death of persons specified at the time of the
+15 acquisition or deposit.
+16 However, nothing in this subdivision shall limit or affect contracts
+17 entered into by the Indiana state library pursuant to IC 4-1-6-8.
+18 (17) The identity of any person who contacts the bureau of motor
+19 vehicles concerning the ability of a driver to operate a motor
+20 vehicle safely and the medical records and evaluations made by
+21 the bureau of motor vehicles staff or members of the driver
+22 licensing medical advisory board regarding the ability of a driver
+23 to operate a motor vehicle safely. However, upon written request
+24 to the commissioner of the bureau of motor vehicles, the driver
+25 must be given copies of the driver's medical records and
+26 evaluations.
+27 (18) School safety and security measures, plans, and systems,
+28 including emergency preparedness plans developed under 511
+29 IAC 6.1-2-2.5.
+30 (19) A record or a part of a record, the public disclosure of which
+31 would have a reasonable likelihood of threatening public safety
+32 by exposing a vulnerability to terrorist attack. A record described
+33 under this subdivision includes the following:
+34 (A) A record assembled, prepared, or maintained to prevent,
+35 mitigate, or respond to an act of terrorism under IC 35-47-12-1
+36 (before its repeal), an act of agricultural terrorism under
+37 IC 35-47-12-2 (before its repeal), or a felony terrorist offense
+38 (as defined in IC 35-50-2-18).
+39 (B) Vulnerability assessments.
+40 (C) Risk planning documents.
+41 (D) Needs assessments.
+42 (E) Threat assessments.
+EH 1360—LS 6876/DI 119
+
+12
+1 (F) Intelligence assessments.
+2 (G) Domestic preparedness strategies.
+3 (H) The location of community drinking water wells and
+4 surface water intakes.
+5 (I) The emergency contact information of emergency
+6 responders and volunteers.
+7 (J) Infrastructure records that disclose the configuration of
+8 critical systems such as voting system and voter registration
+9 system critical infrastructure, and communication, electrical,
+10 ventilation, water, and wastewater systems.
+11 (K) Detailed drawings or specifications of structural elements,
+12 floor plans, and operating, utility, or security systems, whether
+13 in paper or electronic form, of any building or facility located
+14 on an airport (as defined in IC 8-21-1-1) that is owned,
+15 occupied, leased, or maintained by a public agency, or any part
+16 of a law enforcement recording that captures information
+17 about airport security procedures, areas, or systems. A record
+18 described in this clause may not be released for public
+19 inspection by any public agency without the prior approval of
+20 the public agency that owns, occupies, leases, or maintains the
+21 airport. Both of the following apply to the public agency that
+22 owns, occupies, leases, or maintains the airport:
+23 (i) The public agency is responsible for determining whether
+24 the public disclosure of a record or a part of a record,
+25 including a law enforcement recording, has a reasonable
+26 likelihood of threatening public safety by exposing a
+27 security procedure, area, system, or vulnerability to terrorist
+28 attack.
+29 (ii) The public agency must identify a record described
+30 under item (i) and clearly mark the record as "confidential
+31 and not subject to public disclosure under
+32 IC 5-14-3-4(b)(19)(J) without approval of (insert name of
+33 submitting public agency)". However, in the case of a law
+34 enforcement recording, the public agency must clearly mark
+35 the record as "confidential and not subject to public
+36 disclosure under IC 5-14-3-4(b)(19)(K) without approval of
+37 (insert name of the public agency that owns, occupies,
+38 leases, or maintains the airport)".
+39 (L) The home address, home telephone number, and
+40 emergency contact information for any:
+41 (i) emergency management worker (as defined in
+42 IC 10-14-3-3);
+EH 1360—LS 6876/DI 119
+
+13
+1 (ii) public safety officer (as defined in IC 35-47-4.5-3);
+2 (iii) emergency medical responder (as defined in
+3 IC 16-18-2-109.8); or
+4 (iv) advanced emergency medical technician (as defined in
+5 IC 16-18-2-6.5).
+6 (M) Information relating to security measures or precautions
+7 used to secure the statewide 911 system under IC 36-8-16.7.
+8 This subdivision does not apply to a record or portion of a record
+9 pertaining to a location or structure owned or protected by a
+10 public agency in the event that an act of terrorism under
+11 IC 35-47-12-1 (before its repeal), an act of agricultural terrorism
+12 under IC 35-47-12-2 (before its repeal), or a felony terrorist
+13 offense (as defined in IC 35-50-2-18) has occurred at that location
+14 or structure, unless release of the record or portion of the record
+15 would have a reasonable likelihood of threatening public safety
+16 by exposing a vulnerability of other locations or structures to
+17 terrorist attack.
+18 (20) The following personal information concerning a customer
+19 of a municipally owned utility (as defined in IC 8-1-2-1):
+20 (A) Telephone number.
+21 (B) Address.
+22 (C) Social Security number.
+23 (21) The following personal information about a complainant
+24 contained in records of a law enforcement agency:
+25 (A) Telephone number.
+26 (B) The complainant's address. However, if the complainant's
+27 address is the location of the suspected crime, infraction,
+28 accident, or complaint reported, the address shall be made
+29 available for public inspection and copying.
+30 (22) Notwithstanding subdivision (8)(A), the name,
+31 compensation, job title, business address, business telephone
+32 number, job description, education and training background,
+33 previous work experience, or dates of first employment of a law
+34 enforcement officer who is operating in an undercover capacity.
+35 (23) Records requested by an offender, an agent, or a relative of
+36 an offender that:
+37 (A) contain personal information relating to:
+38 (i) a correctional officer (as defined in IC 5-10-10-1.5);
+39 (ii) a probation officer;
+40 (iii) a community corrections officer;
+41 (iv) a law enforcement officer (as defined in
+42 IC 35-31.5-2-185);
+EH 1360—LS 6876/DI 119
+
+14
+1 (v) a judge (as defined in IC 33-38-12-3);
+2 (vi) the victim of a crime; or
+3 (vii) a family member of a correctional officer, probation
+4 officer, community corrections officer, law enforcement
+5 officer (as defined in IC 35-31.5-2-185), judge (as defined
+6 in IC 33-38-12-3), or victim of a crime; or
+7 (B) concern or could affect the security of a jail or correctional
+8 facility.
+9 For purposes of this subdivision, "agent" means a person who is
+10 authorized by an offender to act on behalf of, or at the direction
+11 of, the offender, and "relative" has the meaning set forth in
+12 IC 35-42-2-1(b). However, the term "agent" does not include an
+13 attorney in good standing admitted to the practice of law in
+14 Indiana.
+15 (24) Information concerning an individual less than eighteen (18)
+16 years of age who participates in a conference, meeting, program,
+17 or activity conducted or supervised by a state educational
+18 institution, including the following information regarding the
+19 individual or the individual's parent or guardian:
+20 (A) Name.
+21 (B) Address.
+22 (C) Telephone number.
+23 (D) Electronic mail account address.
+24 (25) Criminal intelligence information.
+25 (26) The following information contained in a report of unclaimed
+26 property under IC 32-34-1.5-18 or in a claim for unclaimed
+27 property under IC 32-34-1.5-48:
+28 (A) Date of birth.
+29 (B) Driver's license number.
+30 (C) Taxpayer identification number.
+31 (D) Employer identification number.
+32 (E) Account number.
+33 (27) Except as provided in subdivision (19) and sections 5.1 and
+34 5.2 of this chapter, a law enforcement recording. However, before
+35 disclosing the recording, the public agency must comply with the
+36 obscuring requirements of sections 5.1 and 5.2 of this chapter, if
+37 applicable.
+38 (28) Records relating to negotiations between a state educational
+39 institution and another entity concerning the establishment of a
+40 collaborative relationship or venture to advance the research,
+41 engagement, or educational mission of the state educational
+42 institution, if the records are created while negotiations are in
+EH 1360—LS 6876/DI 119
+
+15
+1 progress. The terms of the final offer of public financial resources
+2 communicated by the state educational institution to an industrial,
+3 a research, or a commercial prospect shall be available for
+4 inspection and copying under section 3 of this chapter after
+5 negotiations with that prospect have terminated. However, this
+6 subdivision does not apply to records regarding research
+7 prohibited under IC 16-34.5-1-2 or any other law.
+8 (c) Nothing contained in subsection (b) shall limit or affect the right
+9 of a person to inspect and copy a public record required or directed to
+10 be made by any statute or by any rule of a public agency.
+11 (d) Notwithstanding any other law, a public record that is classified
+12 as confidential, other than a record concerning:
+13 (1) an adoption or patient medical records; or
+14 (2) a birth or stillbirth;
+15 shall be made available for inspection and copying seventy-five (75)
+16 years after the creation of that record. A registration or certificate of a
+17 birth or stillbirth shall be made available in accordance with
+18 IC 16-37-1-7.5.
+19 (e) A public agency may deny a request under this chapter for
+20 a record if the request:
+21 (1) is made by a person that is a party to pending or ongoing
+22 litigation; and
+23 (2) is duplicative of a discovery request made by the person in
+24 the pending or ongoing litigation.
+25 (e) (f) Only the content of a public record may form the basis for the
+26 adoption by any public agency of a rule or procedure creating an
+27 exception from disclosure under this section.
+28 (f) (g) Except as provided by law, a public agency may not adopt a
+29 rule or procedure that creates an exception from disclosure under this
+30 section based upon whether a public record is stored or accessed using
+31 paper, electronic media, magnetic media, optical media, or other
+32 information storage technology.
+33 (g) (h) Except as provided by law, a public agency may not adopt a
+34 rule or procedure nor impose any costs or liabilities that impede or
+35 restrict the reproduction or dissemination of any public record.
+36 (h) (i) Notwithstanding subsection (d) and section 7 of this chapter:
+37 (1) public records subject to IC 5-15 may be destroyed only in
+38 accordance with record retention schedules under IC 5-15; or
+39 (2) public records not subject to IC 5-15 may be destroyed in the
+40 ordinary course of business.
+41 SECTION 4. IC 5-14-3-4.4, AS AMENDED BY P.L.249-2019,
+42 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+EH 1360—LS 6876/DI 119
+
+16
+1 JULY 1, 2026]: Sec. 4.4. (a) This section applies to a request for a
+2 record that the public agency considers to be excepted from disclosure
+3 under section 4(b)(1) or 4(b)(25) of this chapter. The public agency
+4 may do either of the following:
+5 (1) Deny disclosure of the record or a part of the record. The
+6 person requesting the information may appeal the denial under
+7 section 9 of this chapter.
+8 (2) Refuse to confirm or deny the existence of the record,
+9 regardless of whether the record exists or does not exist, if the fact
+10 of the record's existence or nonexistence would reveal information
+11 that would:
+12 (A) impede or compromise an ongoing law enforcement
+13 investigation or result in danger to an individual's safety,
+14 including the safety of a law enforcement officer or a
+15 confidential source; or
+16 (B) reveal information that would have a reasonable likelihood
+17 of threatening public safety.
+18 (b) This subsection applies to a request for a record that the public
+19 agency considers to be excepted from disclosure under section 4(b)(19)
+20 of this chapter. The agency may consult with the governor's security
+21 council established by IC 10-19-8.1-2 in formulating a response. The
+22 public agency may do either of the following:
+23 (1) Deny disclosure of the record or a part of the record. The
+24 agency or the counterterrorism and security council shall provide
+25 a general description of the record being withheld and of how
+26 disclosure of the record would have a reasonable likelihood of
+27 threatening public safety by exposing a vulnerability to terrorist
+28 attack. The person requesting the information may appeal the
+29 denial under section 9 of this chapter.
+30 (2) Refuse to confirm or deny the existence of the record
+31 regardless of whether the record exists or does not exist, if the fact
+32 of the record's existence or nonexistence would reveal information
+33 that would have a reasonable likelihood of threatening public
+34 safety.
+35 (c) If a public agency does not respond to a request for a record
+36 under this section:
+37 (1) within twenty-four (24) hours of receiving the request for a
+38 record from a person who:
+39 (A) is physically present in the agency office;
+40 (B) makes the request by telephone; or
+41 (C) requests enhanced access to a document; or
+42 (2) within seven (7) days of receiving the request for a record
+EH 1360—LS 6876/DI 119
+
+17
+1 made by mail, or by facsimile, or through an electronic portal
+2 under section 3.3 of this chapter;
+3 the request for the record is deemed denied. The person requesting the
+4 information may appeal the denial under section 9 of this chapter.
+5 (d) If a public agency refuses to confirm or deny the existence of a
+6 record under this section, the name and title or position of the person
+7 responsible for the refusal shall be given to the person making the
+8 records request.
+9 (e) A person who has received a refusal from an agency to confirm
+10 or deny the existence of a record may file an action in the circuit or
+11 superior court of the county in which the response was received:
+12 (1) to compel the public agency to confirm whether the record
+13 exists or does not exist; and
+14 (2) if the public agency confirms that the record exists, to compel
+15 the agency to permit the person to inspect and copy the record.
+16 (f) The court shall determine the matter de novo, with the burden of
+17 proof on the public agency to sustain its refusal to confirm or deny the
+18 existence of the record. The public agency meets its burden of proof by
+19 filing a public affidavit with the court that provides with reasonable
+20 specificity of detail, and not simply conclusory statements, the basis of
+21 the agency's claim that it cannot be required to confirm or deny the
+22 existence of the requested record. If the public agency meets its burden
+23 of proof, the burden of proof shifts to the person requesting access to
+24 the record. The person requesting access to the record meets the
+25 person's burden of proof by proving any of the following:
+26 (1) The agency's justifications for not confirming the existence of
+27 the record contradict other evidence in the trial record.
+28 (2) The agency is withholding the record in bad faith.
+29 (3) An official with authority to speak for the agency has
+30 acknowledged to the public in a documented disclosure that the
+31 record exists. The person requesting the record must prove that
+32 the information requested:
+33 (A) is as specific as the information previously disclosed; and
+34 (B) matches the previously disclosed information.
+35 (g) Either party may make an interlocutory appeal of the trial court's
+36 determination on whether the agency's refusal to confirm or deny the
+37 existence of the record was proper.
+38 (h) If the court, after the disposition of any interlocutory appeals,
+39 finds that the agency's refusal to confirm or deny was improper, the
+40 court shall order the agency to disclose whether the record exists or
+41 does not exist. If the record exists and the agency claims that the record
+42 is exempt from disclosure under this chapter, the court may review the
+EH 1360—LS 6876/DI 119
+
+18
+1 public record in camera to determine whether any part of the record
+2 may be withheld.
+3 (i) In an action filed under this section, the court shall award
+4 reasonable attorney's fees, court costs, and other reasonable expenses
+5 of litigation to the prevailing party if:
+6 (1) the plaintiff substantially prevails; or
+7 (2) the defendant substantially prevails and the court finds the
+8 action was frivolous or vexatious.
+9 A plaintiff is eligible for the awarding of attorney's fees, court costs,
+10 and other reasonable expenses regardless of whether the plaintiff filed
+11 the action without first seeking and receiving an informal inquiry
+12 response or advisory opinion from the public access counselor.
+13 (j) A court that hears an action under this section may not assess a
+14 civil penalty under section 9.5 of this chapter in connection with the
+15 action.
+16 SECTION 5. IC 5-14-3-8, AS AMENDED BY P.L.287-2019,
+17 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]: Sec. 8. (a) For the purposes of this section, "state
+19 agency" has the meaning set forth in IC 4-13-1-1.
+20 (b) Except as provided in this section, a public agency may not
+21 charge any fee under this chapter for the following:
+22 (1) To inspect a public record.
+23 (2) This subdivision applies only to a school corporation and a
+24 charter school. This subdivision does not apply to a request for a
+25 search by an exclusive representative (as defined in
+26 IC 20-29-2-9). To search for a record that is in an electronic
+27 format, if the search does not exceed five (5) hours.
+28 (3) Subject to subdivision (2), to search for, examine, or review
+29 a record to determine whether the record may be disclosed.
+30 (4) To provide an electronic copy of a public record by electronic
+31 mail. However, a public agency may charge a fee for a public
+32 record transmitted by electronic mail if the fee for the public
+33 record is authorized under:
+34 (A) subsection (f) or (j);
+35 (B) section 6(c) of this chapter; or
+36 (C) IC 36-2-7-10 or IC 36-2-7-10.1 concerning records of the
+37 county recorder.
+38 (c) The Indiana department of administration shall establish a
+39 uniform copying fee for the copying of one (1) page of a standard-sized
+40 document by state agencies. The fee may not exceed the average cost
+41 of copying records by state agencies or ten cents ($0.10) per page,
+42 whichever is greater. Except as provided in subsection (n), a state
+EH 1360—LS 6876/DI 119
+
+19
+1 agency may not collect more than the uniform copying fee for
+2 providing a copy of a public record. However, a state agency shall
+3 establish and collect a reasonable fee for copying nonstandard-sized
+4 documents.
+5 (d) This subsection applies to a public agency that is not a state
+6 agency. The fiscal body (as defined in IC 36-1-2-6) of the public
+7 agency, or the governing body, if there is no fiscal body, shall establish
+8 a fee schedule for the certification or copying of documents. The fee for
+9 certification of documents may not exceed five dollars ($5) per
+10 document. The fee for copying documents may not exceed the greater
+11 of:
+12 (1) ten cents ($0.10) per page for copies that are not color copies
+13 or twenty-five cents ($0.25) per page for color copies; or
+14 (2) the actual cost to the agency of copying the document.
+15 As used in this subsection, "actual cost" means the cost of paper and
+16 the per-page cost for use of copying or facsimile equipment and does
+17 not include labor costs or overhead costs. A fee established under this
+18 subsection must be uniform throughout the public agency and uniform
+19 to all purchasers.
+20 (e) If:
+21 (1) a person is entitled to a copy of a public record under this
+22 chapter; and
+23 (2) the public agency which is in possession of the record has
+24 reasonable access to a machine capable of reproducing the public
+25 record;
+26 the public agency must provide at least one (1) copy of the public
+27 record to the person. However, if a public agency does not have
+28 reasonable access to a machine capable of reproducing the record or if
+29 the person cannot reproduce the record by use of enhanced access
+30 under section 3.5 of this chapter, the person is only entitled to inspect
+31 and manually transcribe the record. A public agency may require that
+32 the payment for search and copying costs be made in advance.
+33 (f) Notwithstanding subsection (b), (c), (d), (g), (h), or (i), or (n), a
+34 public agency shall collect any certification, copying, facsimile
+35 machine transmission, or search fee that is specified by statute or is
+36 ordered by a court.
+37 (g) Except as provided by subsection (h), for providing a duplicate
+38 of a computer tape, computer disc, microfilm, law enforcement
+39 recording, or similar or analogous record system containing
+40 information owned by the public agency or entrusted to it, a public
+41 agency may charge a fee, uniform to all purchasers, that does not
+42 exceed the sum of the following:
+EH 1360—LS 6876/DI 119
+
+20
+1 (1) The agency's direct cost of supplying the information in that
+2 form. However, the fee for a copy of a law enforcement recording
+3 may not exceed one hundred fifty dollars ($150).
+4 (2) The standard cost for selling the same information to the
+5 public in the form of a publication if the agency has published the
+6 information and made the publication available for sale.
+7 (3) In the case of the legislative services agency, a reasonable
+8 percentage of the agency's direct cost of maintaining the system
+9 in which the information is stored. However, the amount charged
+10 by the legislative services agency under this subdivision may not
+11 exceed the sum of the amounts it may charge under subdivisions
+12 (1) and (2).
+13 (h) This subsection applies to the fee charged by a public agency for
+14 providing enhanced access to a public record. A public agency may
+15 charge any reasonable fee agreed on in the contract under section 3.5
+16 of this chapter for providing enhanced access to public records.
+17 (i) This subsection applies to the fee charged by a public agency for
+18 permitting a governmental entity to inspect public records by means of
+19 an electronic device. A public agency may charge any reasonable fee
+20 for the inspection of public records under this subsection, or the public
+21 agency may waive any fee for the inspection.
+22 (j) Except as provided in subsection (k), a public agency may charge
+23 a fee, uniform to all purchasers, for providing an electronic map that is
+24 based upon a reasonable percentage of the agency's direct cost of
+25 maintaining, upgrading, and enhancing the electronic map and for the
+26 direct cost of supplying the electronic map in the form requested by the
+27 purchaser. If the public agency is within a political subdivision having
+28 a fiscal body, the fee is subject to the approval of the fiscal body of the
+29 political subdivision.
+30 (k) The fee charged by a public agency under subsection (j) to cover
+31 costs for maintaining, upgrading, and enhancing an electronic map may
+32 be waived by the public agency if the electronic map for which the fee
+33 is charged will be used for a noncommercial purpose, including the
+34 following:
+35 (1) Public agency program support.
+36 (2) Nonprofit activities.
+37 (3) Journalism.
+38 (4) Academic research.
+39 (l) This subsection does not apply to a state agency. A fee collected
+40 under subsection (g) for the copying of a law enforcement recording
+41 may be:
+42 (1) retained by the public agency; and
+EH 1360—LS 6876/DI 119
+
+21
+1 (2) used without appropriation for one (1) or more of the
+2 following purposes:
+3 (A) To purchase cameras and other equipment for use in
+4 connection with the agency's law enforcement recording
+5 program.
+6 (B) For training concerning law enforcement recording.
+7 (C) To defray the expenses of storing, producing, and copying
+8 law enforcement recordings.
+9 Money from a fee described in this subsection does not revert to the
+10 local general fund at the end of a fiscal year.
+11 (m) This subsection applies to a school corporation and a charter
+12 school. For purposes of this subsection, "computer processing time"
+13 means the amount of time a computer takes to process a command or
+14 script to extract or copy electronically stored data that is the subject of
+15 a public records request. A school corporation or charter school may
+16 not charge a fee for the first five (5) hours required to search for
+17 records that are in an electronic format. A school corporation or charter
+18 school may charge a search fee for any time spent searching for records
+19 that are in an electronic format that exceeds five (5) hours. If the school
+20 corporation or charter school charges a search fee, the school
+21 corporation or charter school shall charge an hourly fee that does not
+22 exceed the lesser of:
+23 (1) the hourly rate of the person making the search; or
+24 (2) twenty dollars ($20) per hour.
+25 A school corporation or charter school charging an hourly fee under
+26 this subsection for searching for records that are in an electronic format
+27 may charge only for time that the person making the search actually
+28 spends in searching for the records that are in an electronic format. A
+29 school corporation or charter school may not charge for computer
+30 processing time and may not establish a minimum fee for searching for
+31 records that are in an electronic format. A school corporation or charter
+32 school shall make a good faith effort to complete a search for records
+33 that are in an electronic format that is within a reasonable time in order
+34 to minimize the amount of a search fee. The fee must be prorated to
+35 reflect any search time of less than one (1) hour.
+36 (n) Except as provided in subsection (o), a public agency may
+37 collect a supplemental fee for processing public records requests
+38 submitted by non-Indiana residents or out-of-state entities. The
+39 fee:
+40 (1) must be reasonably related to the cost of fulfilling the
+41 request; and
+42 (2) may not exceed twenty-five cents ($0.25) per page and
+EH 1360—LS 6876/DI 119
+
+22
+1 twenty-five dollars ($25) per hour of staff time spent
+2 processing the request.
+3 (o) A public agency may waive the fee under subsection (n) if the
+4 public agency finds that the public records request serves the
+5 public interest.
+6 SECTION 6. IC 5-14-3-8.1 IS ADDED TO THE INDIANA CODE
+7 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+8 1, 2026]: Sec. 8.1. (a) A public agency may give priority in fulfilling
+9 public records requests to:
+10 (1) Indiana residents; and
+11 (2) requests submitted for civic, journalistic, academic, or
+12 personal use.
+13 (b) Requests identified as originating from out-of-state entities
+14 or automated systems may be:
+15 (1) delayed as necessary to prevent disruption of core agency
+16 functions; and
+17 (2) subject to a fee under section 8(n) of this chapter.
+18 SECTION 7. IC 5-14-3-9, AS AMENDED BY P.L.58-2016,
+19 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 9. (a) This section does not apply to a request for
+21 information under section 4.4 of this chapter.
+22 (b) A denial of disclosure by a public agency occurs when the
+23 person making the request is physically present in the office of the
+24 agency, makes the request by telephone, or requests enhanced access
+25 to a document and:
+26 (1) the person designated by the public agency as being
+27 responsible for public records release decisions refuses to permit
+28 inspection and copying of a public record when a request has
+29 been made; or
+30 (2) twenty-four (24) hours elapse after any employee of the public
+31 agency refuses to permit inspection and copying of a public
+32 record when a request has been made;
+33 whichever occurs first.
+34 (c) If a person requests by mail or by facsimile a copy or copies of
+35 a public record by mail, by facsimile, or through an electronic
+36 portal under section 3.3 of this chapter, a denial of disclosure does
+37 not occur until seven (7) days have elapsed from the date the public
+38 agency receives the request.
+39 (d) If a request is made orally, either in person or by telephone, a
+40 public agency may deny the request orally. However, if a request
+41 initially is made in writing, by facsimile, or through enhanced access,
+42 or if an oral request that has been denied is renewed in writing or by
+EH 1360—LS 6876/DI 119
+
+23
+1 facsimile, a public agency may deny the request if:
+2 (1) the denial is in writing or by facsimile; and
+3 (2) the denial includes:
+4 (A) a statement of the specific exemption or exemptions
+5 authorizing the withholding of all or part of the public record;
+6 and
+7 (B) the name and the title or position of the person responsible
+8 for the denial.
+9 (e) A person who has been denied the right to inspect or copy a
+10 public record by a public agency may file an action in the circuit or
+11 superior court of the county in which the denial occurred to compel the
+12 public agency to permit the person to inspect and copy the public
+13 record. Whenever an action is filed under this subsection, the public
+14 agency must notify each person who supplied any part of the public
+15 record at issue:
+16 (1) that a request for release of the public record has been denied;
+17 and
+18 (2) whether the denial was in compliance with an informal inquiry
+19 response or advisory opinion of the public access counselor.
+20 Such persons are entitled to intervene in any litigation that results from
+21 the denial. The person who has been denied the right to inspect or copy
+22 need not allege or prove any special damage different from that
+23 suffered by the public at large.
+24 (f) The court shall determine the matter de novo, with the burden of
+25 proof on the public agency to sustain its denial. If the issue in de novo
+26 review under this section is whether a public agency properly denied
+27 access to a public record because the record is exempted under section
+28 4(a) of this chapter, the public agency meets its burden of proof under
+29 this subsection by establishing the content of the record with adequate
+30 specificity and not by relying on a conclusory statement or affidavit.
+31 (g) This subsection does not apply to an action under section 5.2 of
+32 this chapter. If the issue in a de novo review under this section is
+33 whether a public agency properly denied access to a public record
+34 because the record is exempted under section 4(b) of this chapter:
+35 (1) the public agency meets its burden of proof under this
+36 subsection by:
+37 (A) proving that:
+38 (i) the record falls within any one (1) of the categories of
+39 exempted records under section 4(b) of this chapter; and
+40 (ii) if the action is for denial of access to a recording under
+41 section 5.1 of this chapter, the plaintiff is not a "requestor"
+42 as that term is defined in section 5.1 of this chapter; and
+EH 1360—LS 6876/DI 119
+
+24
+1 (B) establishing the content of the record with adequate
+2 specificity and not by relying on a conclusory statement or
+3 affidavit; and
+4 (2) a person requesting access to a public record meets the
+5 person's burden of proof under this subsection by proving that the
+6 denial of access is arbitrary or capricious.
+7 (h) The court may review the public record in camera to determine
+8 whether any part of it may be withheld under this chapter. However, if
+9 the complaint alleges that a public agency denied disclosure of a public
+10 record by redacting information in the public record, the court shall
+11 conduct an in camera inspection of the public record with the redacted
+12 information included.
+13 (i) Except as provided in subsection (k), in any action filed under
+14 this section, a court shall award reasonable attorney's fees, court costs,
+15 and other reasonable expenses of litigation to the prevailing party if:
+16 (1) the plaintiff substantially prevails; or
+17 (2) the defendant substantially prevails and the court finds the
+18 action was frivolous or vexatious.
+19 Except as provided in subsection (k), the plaintiff is not eligible for the
+20 awarding of attorney's fees, court costs, and other reasonable expenses
+21 if the plaintiff filed the action without first seeking and receiving an
+22 informal inquiry response or advisory opinion from the public access
+23 counselor, unless the plaintiff can show the filing of the action was
+24 necessary because the denial of access to a public record under this
+25 chapter would prevent the plaintiff from presenting that public record
+26 to a public agency preparing to act on a matter of relevance to the
+27 public record whose disclosure was denied.
+28 (j) Except as provided in subsection (k), a court may assess a civil
+29 penalty under section 9.5 of this chapter only if the plaintiff obtained
+30 an advisory opinion from the public access counselor before filing an
+31 action under this section as set forth in section 9.5 of this chapter.
+32 (k) This subsection applies only to an action to appeal the denial of
+33 access to a law enforcement recording under section 5.1 of this chapter.
+34 A requestor (as defined in section 5.1 of this chapter) may bring an
+35 action to appeal from the denial of access to a law enforcement
+36 recording without first seeking or receiving an informal inquiry
+37 response or advisory opinion from the public access counselor. If the
+38 requestor prevails in an action under this subsection:
+39 (1) the requestor is eligible for an award of reasonable attorney's
+40 fees, court costs, and other reasonable expenses; and
+41 (2) a court may assess a civil penalty under section 9.5 of this
+42 chapter.
+EH 1360—LS 6876/DI 119
+
+25
+1 (l) A court shall expedite the hearing of an action filed under this
+2 section.
+3 SECTION 8. IC 5-14-3-11 IS ADDED TO THE INDIANA CODE
+4 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+5 1, 2026]: Sec. 11. In addition to providing the public access
+6 counselor with notice of a request to which the public agency has
+7 declined to respond under section 3.3 of this chapter, a public
+8 agency shall report to the public access counselor, through a
+9 standardized mechanism prescribed by the public access counselor,
+10 any public records request received by the public agency that is
+11 suspected by the public agency of being:
+12 (1) automated; or
+13 (2) data scraping or phishing activity.
+14 SECTION 9. IC 5-14-3-12 IS ADDED TO THE INDIANA CODE
+15 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+16 1, 2026]: Sec. 12. Nothing in this chapter shall prevent the general
+17 assembly from establishing reasonable and narrowly tailored
+18 procedural safeguards to preserve the integrity and availability of
+19 public agency resources.
+20 SECTION 10. IC 5-14-4-1.2 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2026]: Sec. 1.2. As used in this chapter, "data scraping" has the
+23 meaning set forth in IC 5-14-3-2.
+24 SECTION 11. IC 5-14-4-2.5 IS ADDED TO THE INDIANA CODE
+25 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+26 1, 2026]: Sec. 2.5. As used in this chapter, "phishing" has the
+27 meaning set forth in IC 5-14-3-2.
+28 SECTION 12. IC 5-14-4-10 IS AMENDED TO READ AS
+29 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 10. The counselor has
+30 the following powers and duties:
+31 (1) To establish and administer a program to train public officials
+32 and educate the public on the rights of the public and the
+33 responsibilities of public agencies under the public access laws.
+34 The counselor may contract with a person or a public or private
+35 entity to fulfill the counselor's responsibility under this
+36 subdivision.
+37 (2) To conduct research.
+38 (3) To prepare interpretive and educational materials and
+39 programs in cooperation with the office of the attorney general.
+40 (4) To distribute to newly elected or appointed public officials the
+41 public access laws and educational materials concerning the
+42 public access laws.
+EH 1360—LS 6876/DI 119
+
+26
+1 (5) To respond to informal inquiries made by the public and
+2 public agencies by telephone, in writing, in person, by facsimile,
+3 or by electronic mail concerning the public access laws.
+4 (6) To issue advisory opinions to interpret the public access laws
+5 upon the request of a person or a public agency. However, the
+6 counselor may not issue an advisory opinion concerning a specific
+7 matter with respect to which a lawsuit has been filed under
+8 IC 5-14-1.5 or IC 5-14-3.
+9 (7) To make recommendations to the general assembly
+10 concerning ways to improve public access.
+11 (8) To coordinate with public agencies to:
+12 (A) track the volume and nature of public records requests
+13 received by public agencies; and
+14 (B) identify patterns or sources of excessive, automated,
+15 phishing related, or data scraping based public records
+16 requests.
+17 (9) To establish a standardized mechanism by which public
+18 agencies can report suspect public records requests under
+19 IC 5-14-3-11.
+20 SECTION 13. IC 5-14-4-12 IS AMENDED TO READ AS
+21 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 12. The counselor shall
+22 submit a report in an electronic format under IC 5-14-6 not later than
+23 June 30 of each year to the legislative services agency concerning the
+24 activities of the counselor for the previous year. The report must
+25 include the following information:
+26 (1) Summary information regarding:
+27 (A) the volume and nature of public records requests
+28 received by public agencies; and
+29 (B) public records requests reported to the counselor by
+30 public agencies under IC 5-14-3-11.
+31 (1) (2) The total number of inquiries and complaints received.
+32 (2) (3) The number of inquiries and complaints received each
+33 from the public, the media, and government agencies.
+34 (3) (4) The number of inquiries and complaints that were
+35 resolved.
+36 (4) (5) The number of complaints received about each of the
+37 following:
+38 (A) State agencies.
+39 (B) County agencies.
+40 (C) City agencies.
+41 (D) Town agencies.
+42 (E) Township agencies.
+EH 1360—LS 6876/DI 119
+
+27
+1 (F) School corporations.
+2 (G) Other local agencies.
+3 (5) (6) The number of complaints received concerning each of the
+4 following:
+5 (A) Public records.
+6 (B) Public meetings.
+7 (6) (7) The total number of written advisory opinions issued and
+8 pending.
+9 (8) Recommendations to the general assembly regarding
+10 statutory or administrative remedies to public records
+11 requests described in section 10(8)(B) of this chapter.
+12 SECTION 14. IC 9-26-10-2, AS AMENDED BY P.L.11-2019,
+13 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+14 JULY 1, 2026]: Sec. 2. (a) As used in this section, "person" has the
+15 meaning set forth in IC 5-14-3-2(n). IC 5-14-3-2(o).
+16 (b) Except as provided in subsections (c), (d), (e), and (f), all
+17 information contained in the emergency contact data base is
+18 confidential and exempt from:
+19 (1) disclosure to any person; and
+20 (2) public inspection under IC 5-14-3.
+21 (c) The bureau may access information contained in the emergency
+22 contact data base for the purpose of deleting, logging, or revising
+23 emergency contact information contained in the emergency contact
+24 data base.
+25 (d) A law enforcement officer may access information contained in
+26 the emergency contact data base for the purpose of complying with
+27 IC 9-26-2-5.
+28 (e) A coroner may access information contained in the emergency
+29 contact data base in the performance of the coroner's duties.
+30 (f) Information contained in the emergency contact data base is
+31 subject to disclosure to an appropriate person upon the bureau's receipt
+32 of a:
+33 (1) grand jury subpoena; or
+34 (2) subpoena related to a criminal investigation.
+EH 1360—LS 6876/DI 119
+
+28
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Government and Regulatory
+Reform, to which was referred House Bill 1360, has had the same
+under consideration and begs leave to report the same back to the
+House with the recommendation that said bill be amended as follows:
+Page 5, line 37, delete "shall" and insert "may".
+Page 12, line 2, delete "shall" and insert "may".
+Page 12, line 11, delete "shall" and insert "may".
+and when so amended that said bill do pass.
+(Reference is to HB 1360 as introduced.)
+MILLER D
+Committee Vote: yeas 12, nays 0.
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1360 be amended to read as
+follows:
+Page 5, line 37, after "3.3." insert "(a)".
+Page 6, between lines 6 and 7, begin a new paragraph and insert:
+"(b) A public agency may decline to respond to a public records
+request that is submitted to the public agency electronically if one
+(1) or more of the following apply:
+(1) The public agency suspects the request to be data scraping
+or phishing activity.
+(2) The public agency suspects that responding to the request
+electronically may:
+(A) expose the public agency's electronic systems or data
+to unauthorized access or alteration; or
+(B) otherwise jeopardize the security of the public agency's
+electronic systems or data.
+(c) Not later than seven (7) days after a public agency receives
+a public records request to which the public agency declines to
+respond under subsection (b), the public agency shall notify the
+public access counselor of the request and the reason under
+subsection (b) for which the public agency has declined to respond
+to the request.".
+Page 15, line 13, delete "A" and insert "In addition to providing
+EH 1360—LS 6876/DI 119
+
+29
+the public access counselor with notice of a request to which the
+public agency has declined to respond under section 3.3 of this
+chapter, a".
+Page 15, line 15, after "counselor," insert "any".
+Page 15, line 15, delete "requests" and insert "request".
+Page 15, line 16, delete "are" and insert "is".
+(Reference is to HB 1360 as printed January 22, 2026.)
+LEHMAN
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Commerce and
+Technology, to which was referred House Bill No. 1360, has had the
+same under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 6, line 4, delete "logs" and insert "tracks".
+Page 6, line 8, delete "electronically".
+Page 6, between lines 23 and 24, begin a new paragraph and insert:
+"SECTION 3. IC 5-14-3-4, AS AMENDED BY P.L.33-2025,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 4. (a) The following public records are excepted
+from section 3 of this chapter and may not be disclosed by a public
+agency, unless access to the records is specifically required by a state
+or federal statute or is ordered by a court under the rules of discovery:
+(1) Those declared confidential by state statute.
+(2) Those declared confidential by rule adopted by a public
+agency under specific authority to classify public records as
+confidential granted to the public agency by statute.
+(3) Those required to be kept confidential by federal law.
+(4) Records containing trade secrets.
+(5) Confidential financial information obtained, upon request,
+from a person. However, this does not include information that is
+filed with or received by a public agency pursuant to state statute.
+(6) Information concerning research, including actual research
+documents, conducted under the auspices of a state educational
+institution, including information:
+(A) concerning any negotiations made with respect to the
+research; and
+EH 1360—LS 6876/DI 119
+
+30
+(B) received from another party involved in the research.
+(7) Grade transcripts and license examination scores obtained as
+part of a licensure process.
+(8) Those declared confidential by or under rules adopted by the
+supreme court of Indiana.
+(9) Patient medical records and charts created by a provider,
+unless the patient gives written consent under IC 16-39 or as
+provided under IC 16-41-8.
+(10) Application information declared confidential by the Indiana
+economic development corporation under IC 5-28.
+(11) A photograph, a video recording, or an audio recording of an
+autopsy, except as provided in IC 36-2-14-10.
+(12) A Social Security number contained in the records of a
+public agency.
+(13) The following information that is part of a foreclosure action
+subject to IC 32-30-10.5:
+(A) Contact information for a debtor, as described in
+IC 32-30-10.5-8(d)(1)(B).
+(B) Any document submitted to the court as part of the debtor's
+loss mitigation package under IC 32-30-10.5-10(a)(3).
+(14) The following information obtained from a call made to a
+fraud hotline established under IC 36-1-8-8.5:
+(A) The identity of any individual who makes a call to the
+fraud hotline.
+(B) A report, transcript, audio recording, or other information
+concerning a call to the fraud hotline.
+However, records described in this subdivision may be disclosed
+to a law enforcement agency, a private university police
+department, the attorney general, the inspector general, the state
+examiner, or a prosecuting attorney.
+(15) Information described in section 5(c)(3)(B) of this chapter
+that is contained in a daily log or record described in section 5(c)
+of this chapter for a victim of a crime or delinquent act who is less
+than eighteen (18) years of age, unless and to the extent that:
+(A) a parent, guardian, or custodian of the victim consents in
+writing to public disclosure of the records; and
+(B) that parent, guardian, or custodian of the victim has not
+been charged with or convicted of committing a crime against
+the victim.
+However, records described in this subdivision may be disclosed
+to the department of child services.
+(b) Except as otherwise provided by subsection (a), the following
+EH 1360—LS 6876/DI 119
+
+31
+public records shall be excepted from section 3 of this chapter at the
+discretion of a public agency:
+(1) Investigatory records of law enforcement agencies or private
+university police departments. For purposes of this chapter, a law
+enforcement recording is not an investigatory record. However,
+information described in subsection (a)(15) contained in a law
+enforcement recording is exempt from disclosure, unless and to
+the extent that a parent, guardian, or custodian of the victim
+consents in writing to public disclosure of the records. However,
+a parent, guardian, or custodian charged with or convicted of a
+crime against the victim may not consent to public disclosure of
+the records. Law enforcement agencies or private university
+police departments may share investigatory records with:
+(A) a person who advocates on behalf of a crime victim,
+including a victim advocate (as defined in IC 35-37-6-3.5) or
+a victim service provider (as defined in IC 35-37-6-5), for the
+purposes of providing services to a victim or describing
+services that may be available to a victim;
+(B) a school corporation (as defined by IC 20-18-2-16(a)),
+charter school (as defined by IC 20-24-1-4), or nonpublic
+school (as defined by IC 20-18-2-12) for the purpose of
+enhancing the safety or security of a student or a school
+facility; and
+(C) the victim services division of the Indiana criminal justice
+institute under IC 5-2-6-8, for the purposes of conducting an
+investigation under IC 5-2-6.1-26;
+without the law enforcement agency or private university police
+department losing its discretion to keep those records confidential
+from other records requesters. However, certain law enforcement
+records must be made available for inspection and copying as
+provided in section 5 of this chapter.
+(2) The work product of an attorney representing, pursuant to
+state employment or an appointment by a public agency:
+(A) a public agency;
+(B) the state; or
+(C) an individual.
+(3) Test questions, scoring keys, and other examination data used
+in administering a licensing examination, examination for
+employment, or academic examination before the examination is
+given or if it is to be given again.
+(4) Scores of tests if the person is identified by name and has not
+consented to the release of the person's scores.
+EH 1360—LS 6876/DI 119
+
+32
+(5) The following:
+(A) Records relating to negotiations between:
+(i) the Indiana economic development corporation;
+(ii) the ports of Indiana;
+(iii) the Indiana state department of agriculture;
+(iv) the Indiana finance authority;
+(v) an economic development commission;
+(vi) the Indiana White River state park development
+commission;
+(vii) a local economic development organization that is a
+nonprofit corporation established under state law whose
+primary purpose is the promotion of industrial or business
+development in Indiana, the retention or expansion of
+Indiana businesses, or the development of entrepreneurial
+activities in Indiana; or
+(viii) a governing body of a political subdivision;
+with industrial, research, or commercial prospects, if the
+records are created while negotiations are in progress.
+However, this clause does not apply to records regarding
+research that is prohibited under IC 16-34.5-1-2 or any other
+law.
+(B) Notwithstanding clause (A), the terms of the final offer of
+public financial resources communicated by the Indiana
+economic development corporation, the ports of Indiana, the
+Indiana finance authority, an economic development
+commission, the Indiana White River state park development
+commission, or a governing body of a political subdivision to
+an industrial, a research, or a commercial prospect shall be
+available for inspection and copying under section 3 of this
+chapter after negotiations with that prospect have terminated.
+(C) When disclosing a final offer under clause (B), the Indiana
+economic development corporation shall certify that the
+information being disclosed accurately and completely
+represents the terms of the final offer.
+(D) Notwithstanding clause (A), an incentive agreement with
+an incentive recipient shall be available for inspection and
+copying under section 3 of this chapter after the date the
+incentive recipient and the Indiana economic development
+corporation execute the incentive agreement regardless of
+whether negotiations are in progress with the recipient after
+that date regarding a modification or extension of the incentive
+agreement.
+EH 1360—LS 6876/DI 119
+
+33
+(6) Records that are intra-agency or interagency advisory or
+deliberative material, including material developed by a private
+contractor under a contract with a public agency, that are
+expressions of opinion or are of a speculative nature, and that are
+communicated for the purpose of decision making.
+(7) Diaries, journals, or other personal notes serving as the
+functional equivalent of a diary or journal.
+(8) Personnel files of public employees and files of applicants for
+public employment, except for:
+(A) the name, compensation, job title, business address,
+business telephone number, job description, education and
+training background, previous work experience, or dates of
+first and last employment of present or former officers or
+employees of the agency;
+(B) information relating to the status of any formal charges
+against the employee; and
+(C) the factual basis for a disciplinary action in which final
+action has been taken and that resulted in the employee being
+suspended, demoted, or discharged.
+However, all personnel file information shall be made available
+to the affected employee or the employee's representative. This
+subdivision does not apply to disclosure of personnel information
+generally on all employees or for groups of employees without the
+request being particularized by employee name.
+(9) Minutes or records of hospital medical staff meetings.
+(10) Administrative or technical information that would
+jeopardize a record keeping system, voting system, voter
+registration system, or security system.
+(11) Computer programs, computer codes, computer filing
+systems, and other software that are owned by the public agency
+or entrusted to it and portions of electronic maps entrusted to a
+public agency by a utility.
+(12) Records specifically prepared for discussion or developed
+during discussion in an executive session under IC 5-14-1.5-6.1.
+However, this subdivision does not apply to that information
+required to be available for inspection and copying under
+subdivision (8).
+(13) The work product of the legislative services agency under
+personnel rules approved by the legislative council.
+(14) The work product of individual members and the partisan
+staffs of the general assembly.
+(15) The identity of a donor of a gift made to a public agency if:
+EH 1360—LS 6876/DI 119
+
+34
+(A) the donor requires nondisclosure of the donor's identity as
+a condition of making the gift; or
+(B) after the gift is made, the donor or a member of the donor's
+family requests nondisclosure.
+(16) Library or archival records:
+(A) which can be used to identify any library patron; or
+(B) deposited with or acquired by a library upon a condition
+that the records be disclosed only:
+(i) to qualified researchers;
+(ii) after the passing of a period of years that is specified in
+the documents under which the deposit or acquisition is
+made; or
+(iii) after the death of persons specified at the time of the
+acquisition or deposit.
+However, nothing in this subdivision shall limit or affect contracts
+entered into by the Indiana state library pursuant to IC 4-1-6-8.
+(17) The identity of any person who contacts the bureau of motor
+vehicles concerning the ability of a driver to operate a motor
+vehicle safely and the medical records and evaluations made by
+the bureau of motor vehicles staff or members of the driver
+licensing medical advisory board regarding the ability of a driver
+to operate a motor vehicle safely. However, upon written request
+to the commissioner of the bureau of motor vehicles, the driver
+must be given copies of the driver's medical records and
+evaluations.
+(18) School safety and security measures, plans, and systems,
+including emergency preparedness plans developed under 511
+IAC 6.1-2-2.5.
+(19) A record or a part of a record, the public disclosure of which
+would have a reasonable likelihood of threatening public safety
+by exposing a vulnerability to terrorist attack. A record described
+under this subdivision includes the following:
+(A) A record assembled, prepared, or maintained to prevent,
+mitigate, or respond to an act of terrorism under IC 35-47-12-1
+(before its repeal), an act of agricultural terrorism under
+IC 35-47-12-2 (before its repeal), or a felony terrorist offense
+(as defined in IC 35-50-2-18).
+(B) Vulnerability assessments.
+(C) Risk planning documents.
+(D) Needs assessments.
+(E) Threat assessments.
+(F) Intelligence assessments.
+EH 1360—LS 6876/DI 119
+
+35
+(G) Domestic preparedness strategies.
+(H) The location of community drinking water wells and
+surface water intakes.
+(I) The emergency contact information of emergency
+responders and volunteers.
+(J) Infrastructure records that disclose the configuration of
+critical systems such as voting system and voter registration
+system critical infrastructure, and communication, electrical,
+ventilation, water, and wastewater systems.
+(K) Detailed drawings or specifications of structural elements,
+floor plans, and operating, utility, or security systems, whether
+in paper or electronic form, of any building or facility located
+on an airport (as defined in IC 8-21-1-1) that is owned,
+occupied, leased, or maintained by a public agency, or any part
+of a law enforcement recording that captures information
+about airport security procedures, areas, or systems. A record
+described in this clause may not be released for public
+inspection by any public agency without the prior approval of
+the public agency that owns, occupies, leases, or maintains the
+airport. Both of the following apply to the public agency that
+owns, occupies, leases, or maintains the airport:
+(i) The public agency is responsible for determining whether
+the public disclosure of a record or a part of a record,
+including a law enforcement recording, has a reasonable
+likelihood of threatening public safety by exposing a
+security procedure, area, system, or vulnerability to terrorist
+attack.
+(ii) The public agency must identify a record described
+under item (i) and clearly mark the record as "confidential
+and not subject to public disclosure under
+IC 5-14-3-4(b)(19)(J) without approval of (insert name of
+submitting public agency)". However, in the case of a law
+enforcement recording, the public agency must clearly mark
+the record as "confidential and not subject to public
+disclosure under IC 5-14-3-4(b)(19)(K) without approval of
+(insert name of the public agency that owns, occupies,
+leases, or maintains the airport)".
+(L) The home address, home telephone number, and
+emergency contact information for any:
+(i) emergency management worker (as defined in
+IC 10-14-3-3);
+(ii) public safety officer (as defined in IC 35-47-4.5-3);
+EH 1360—LS 6876/DI 119
+
+36
+(iii) emergency medical responder (as defined in
+IC 16-18-2-109.8); or
+(iv) advanced emergency medical technician (as defined in
+IC 16-18-2-6.5).
+(M) Information relating to security measures or precautions
+used to secure the statewide 911 system under IC 36-8-16.7.
+This subdivision does not apply to a record or portion of a record
+pertaining to a location or structure owned or protected by a
+public agency in the event that an act of terrorism under
+IC 35-47-12-1 (before its repeal), an act of agricultural terrorism
+under IC 35-47-12-2 (before its repeal), or a felony terrorist
+offense (as defined in IC 35-50-2-18) has occurred at that location
+or structure, unless release of the record or portion of the record
+would have a reasonable likelihood of threatening public safety
+by exposing a vulnerability of other locations or structures to
+terrorist attack.
+(20) The following personal information concerning a customer
+of a municipally owned utility (as defined in IC 8-1-2-1):
+(A) Telephone number.
+(B) Address.
+(C) Social Security number.
+(21) The following personal information about a complainant
+contained in records of a law enforcement agency:
+(A) Telephone number.
+(B) The complainant's address. However, if the complainant's
+address is the location of the suspected crime, infraction,
+accident, or complaint reported, the address shall be made
+available for public inspection and copying.
+(22) Notwithstanding subdivision (8)(A), the name,
+compensation, job title, business address, business telephone
+number, job description, education and training background,
+previous work experience, or dates of first employment of a law
+enforcement officer who is operating in an undercover capacity.
+(23) Records requested by an offender, an agent, or a relative of
+an offender that:
+(A) contain personal information relating to:
+(i) a correctional officer (as defined in IC 5-10-10-1.5);
+(ii) a probation officer;
+(iii) a community corrections officer;
+(iv) a law enforcement officer (as defined in
+IC 35-31.5-2-185);
+(v) a judge (as defined in IC 33-38-12-3);
+EH 1360—LS 6876/DI 119
+
+37
+(vi) the victim of a crime; or
+(vii) a family member of a correctional officer, probation
+officer, community corrections officer, law enforcement
+officer (as defined in IC 35-31.5-2-185), judge (as defined
+in IC 33-38-12-3), or victim of a crime; or
+(B) concern or could affect the security of a jail or correctional
+facility.
+For purposes of this subdivision, "agent" means a person who is
+authorized by an offender to act on behalf of, or at the direction
+of, the offender, and "relative" has the meaning set forth in
+IC 35-42-2-1(b). However, the term "agent" does not include an
+attorney in good standing admitted to the practice of law in
+Indiana.
+(24) Information concerning an individual less than eighteen (18)
+years of age who participates in a conference, meeting, program,
+or activity conducted or supervised by a state educational
+institution, including the following information regarding the
+individual or the individual's parent or guardian:
+(A) Name.
+(B) Address.
+(C) Telephone number.
+(D) Electronic mail account address.
+(25) Criminal intelligence information.
+(26) The following information contained in a report of unclaimed
+property under IC 32-34-1.5-18 or in a claim for unclaimed
+property under IC 32-34-1.5-48:
+(A) Date of birth.
+(B) Driver's license number.
+(C) Taxpayer identification number.
+(D) Employer identification number.
+(E) Account number.
+(27) Except as provided in subdivision (19) and sections 5.1 and
+5.2 of this chapter, a law enforcement recording. However, before
+disclosing the recording, the public agency must comply with the
+obscuring requirements of sections 5.1 and 5.2 of this chapter, if
+applicable.
+(28) Records relating to negotiations between a state educational
+institution and another entity concerning the establishment of a
+collaborative relationship or venture to advance the research,
+engagement, or educational mission of the state educational
+institution, if the records are created while negotiations are in
+progress. The terms of the final offer of public financial resources
+EH 1360—LS 6876/DI 119
+
+38
+communicated by the state educational institution to an industrial,
+a research, or a commercial prospect shall be available for
+inspection and copying under section 3 of this chapter after
+negotiations with that prospect have terminated. However, this
+subdivision does not apply to records regarding research
+prohibited under IC 16-34.5-1-2 or any other law.
+(c) Nothing contained in subsection (b) shall limit or affect the right
+of a person to inspect and copy a public record required or directed to
+be made by any statute or by any rule of a public agency.
+(d) Notwithstanding any other law, a public record that is classified
+as confidential, other than a record concerning:
+(1) an adoption or patient medical records; or
+(2) a birth or stillbirth;
+shall be made available for inspection and copying seventy-five (75)
+years after the creation of that record. A registration or certificate of a
+birth or stillbirth shall be made available in accordance with
+IC 16-37-1-7.5.
+(e) A public agency may deny a request under this chapter for
+a record if the request:
+(1) is made by a person that is a party to pending or ongoing
+litigation; and
+(2) is duplicative of a discovery request made by the person in
+the pending or ongoing litigation.
+(e) (f) Only the content of a public record may form the basis for the
+adoption by any public agency of a rule or procedure creating an
+exception from disclosure under this section.
+(f) (g) Except as provided by law, a public agency may not adopt a
+rule or procedure that creates an exception from disclosure under this
+section based upon whether a public record is stored or accessed using
+paper, electronic media, magnetic media, optical media, or other
+information storage technology.
+(g) (h) Except as provided by law, a public agency may not adopt a
+rule or procedure nor impose any costs or liabilities that impede or
+restrict the reproduction or dissemination of any public record.
+(h) (i) Notwithstanding subsection (d) and section 7 of this chapter:
+(1) public records subject to IC 5-15 may be destroyed only in
+accordance with record retention schedules under IC 5-15; or
+(2) public records not subject to IC 5-15 may be destroyed in the
+ordinary course of business.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+EH 1360—LS 6876/DI 119
+
+39
+(Reference is to HB 1360 as reprinted January 28, 2026.)
+BUCHANAN, Chairperson
+Committee Vote: Yeas 10, Nays 0.
+EH 1360—LS 6876/DI 119
+
+[DELETED:   A t p r A a p a t w t r i a r o I a ( t a r s s t b]
+[DELETED:  r r P t t g a m i i t p a c a r ( r r r b p a a ( t t g a r s o r t e a s p r]
+[DELETED:  1 I 5 A A B P " s m u o a a s t]
+[DELETED:  p a a r t d i a a m t o d o m n a d t d o a o m o e]
+[DELETED:  ( " m a i a c a l " m a m o o i f i w t s o a c t a a t a t s a t t]
+[DELETED:  A b c d d b a o i o a b b e i a l g a t b r b e t d o l o a l o g t e i t a a o p o a n r g a o t I g g c o o t I g a t s d o t s l]
+[DELETED:  d b e o o o a p b c t r o o m t i a w i g o p p s m e s d o a o m a a i r a o l T t l r o r c r o t t e t e c t a C a H A ( o a m f e t a r i ]
+[DELETED:  a c o t r a t r u 3 I 5 A A B P T d c b r a b a p u s a t c p r a]
+[DELETED:  C i f a d a d i a l e a a p u p]
+[DELETED:  r L e a o p u o p s t a v o d ( d b I 2 f t p o t s o s o a s o a a a l e e f]
+[DELETED:  t I W R s p d i I t r o e o i r o c p i t a c w n a i p t c d n t r r f r c b t I f a a e d d c s c t t b d a a c]
+[DELETED:  R t a i o i a o u a c w a p a t a D j o o p n s a t t n c j t b a A o t i t w a r k s v s v C p c c c f t b a f i a c u]
+[DELETED:  d b g c o t d m r a i r a a o a t u]
+[DELETED:  T l o c d w w a T e c i o e a a ( d i I 8 t i o a l e r t c i i t c m n b r f p p d o r o a p a r o t p s b e  n s t p d u r a " a n s t p n o t p a t o o T h a h t n a e m w ( d i]
+[DELETED:  e m r ( d i a i t e t a a o t u t i N s ( t n t b a b t j d e a t b a l e o ( d i]
+[DELETED:  c l e t o a " h t m s f i a c o s b a s e I 3 o i a c f u o e m o t s e]
+[DELETED:  r o a c p s b a f a c u s 3 o t c a d n a t r r r o s s b m a i a w e m m m o m o o(]
+[DELETED:  R t c o d t e o t r i o c a o l e o r i t a i t s o a l e o o  R t c o d t e o t r]
+[DELETED:  r T p r a t t r m t A o w a t s f t a h]
+[DELETED:  I a a u t s t c s a 5 I 5 A A B P b a e r ( d i T I d o a s e ]
+[DELETED:  m n c m t t u c f f o d m n e f d ( p i a s c a c c f a c t c d m l e o s o a r s c]
+[DELETED:  u w a f o ( o m o t w t a l e r o c s c a s f t s]
+[DELETED:  d ( p h o s t s 7 I 5 A A B P t p d b t p a a b]
+[DELETED:  a s o t s e o e n a o p a s d d f t t p a m i b o p u t]
+[DELETED:  e t c o t r w a a p r a t a p r m t t a f t d o a t a l e w f s o r a i i]
+[DELETED:  2 S 1 I a t p t p a s r t t p a c t  f e r a n t 1 I 5 I A T R A e t p o t r o t p a t t f t c r u t T p i a e m a a l a e m c t]
+[DELETED:  w t w l h b f T m r t t g a 1 I 5 I A T R A f t v a n o p r r ( T n o i a c t w]
+[DELETED:  R t t g a r o a r t p r c i t e c d b i]
+[DELETED:  a c o t r a t r u]
+[DELETED:  P T S C o C a w t r t s A a 3 I 5 A A B P T d c b r a b a p u s a t c p a]
+[DELETED:  C i f a d a d i a l e a a p u p]
+[DELETED:  r L e a o p u o p s t a v o d ( d b I 2 f t p o t s o s a s o a a a l e e f]
+[DELETED:  t I W R s p d i I t r o e o i r o c p i t a c w n a i p t c d n t r r f r c b t I f a a e d d c s c t t b d a a c d]
+[DELETED:  R t a i o i a o u a c w a p a t a D j o o p n s a t t n c j t b a A o t i t w a r k s v s v C p c c c f t b a f i a c u]
+[DELETED:  b b g c o t d m r a i r a a o a t u]
+[DELETED:  T d w a T e c i o e a a ( d i I 8 t i o a l e r t c i i t c m n b r f p p d o r o a p a r o t p s b e  n s t p d u r a " a n s t p n o t p a t o o T h a h t n a e m w ( d i]
+[DELETED:  e m r ( d i a i t e t a a o t u t l N s ( t n t b a b t j d e a t b a l e o ( d i]
+[DELETED:  c l e t o a " h t m s f i l a c o s b a s e I 3 o i a c f u o e m o t s e]
+[DELETED:  r o a c p s b a f c u s 3 o t c a d n a t r r r o s s b m a i a w e m m m o m o o(]

@@ -1,0 +1,1350 @@
+Title: HOUSE BILL No. 1200
+Official Title: HOUSE BILL No. 1200
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 9-14.1-2-3; IC 9-18.5; IC 9-22-3-18; IC 9-24.
+Synopsis: Bureau of motor vehicles. Provides that the total for a
+transaction at a license branch of the bureau of motor vehicles (bureau)
+must be rounded down to the nearest $0.00 or $0.05. Allows additional
+license plates issued by the bureau to be designed as a personalized
+license plate. Amends the information required to be provided by an
+applicant for a driver's license or permit. Amends the required age an
+individual must be to obtain a driver's license from 16 years and 90
+days of age to 16 years of age. Requires an individual to demonstrate
+sufficient proficiency of the English language to operate a commercial
+motor vehicle. Allows an applicant for a driver's license or permit to
+take an examination of the individual's ability to read and understand
+highway signs and the individual's knowledge of Indiana traffic laws
+by satisfactorily completing an online examination approved by the
+bureau. Amends the time that an expired driver's license of an
+individual temporarily residing outside Indiana because of service in
+the armed forces remains valid. Changes the time for an individual who
+is 75 years of age or older and renewing a physical credential to
+provide proof to the bureau that the individual passed an eyesight
+examination from 30 days to 60 days. Removes the limitation that a
+renewal identification card cannot be issued by electronic service if the
+card expired more than 180 days prior to the date of the application for
+renewal.
+Effective: Upon passage; July 1, 2026; January 1, 2027; July 1, 2027.
+Pressel
+January 5, 2026, read first time and referred to Committee on Roads and Transportation.
+2026 IN 1200—LS 6786/DI 137
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1200
+A BILL FOR AN ACT to amend the Indiana Code concerning
+motor vehicles.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 9-14.1-2-3, AS ADDED BY P.L.198-2016,
+2 SECTION 195, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 3. Each license branch shall:
+4 (1) round the total of any transaction down to the nearest
+5 amount ending in zero cents ($0.00) or five cents ($0.05) and
+6 collect:
+7 (A) the service charges and fees as set forth in this title and in
+8 policies and other documents of the bureau; and
+9 (B) applicable excise taxes under IC 6-6; and
+10 (2) remit the amounts collected to the bureau for deposit as set
+11 forth in this title and IC 6-6.
+12 SECTION 2. IC 9-18.5-2-1, AS AMENDED BY P.L.118-2022,
+13 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+14 JULY 1, 2027]: Sec. 1. (a) A person may apply to the bureau for a
+15 personalized license plate to display on the person's vehicle.
+16 (b) The following license plates may be designed as a personalized
+17 license plate under this chapter:
+2026 IN 1200—LS 6786/DI 137
+2
+1 (1) IC 9-18.5-4 (prisoner of war license plates).
+2 (2) IC 9-18.5-5 (disabled Hoosier veteran license plates).
+3 (3) IC 9-18.5-6 (Purple Heart license plates).
+4 (4) IC 9-18.5-7 (National Guard license plates).
+5 (5) IC 9-18.5-8 (license plates for persons with disabilities).
+6 (6) IC 9-18.5-9 (amateur radio operator license plates).
+7 (7) IC 9-18.5-10 (civic event license plates).
+8 (8) IC 9-18.5-11 (In God We Trust license plates).
+9 (9) IC 9-18.5-12 (special group recognition license plates).
+10 (10) IC 9-18.5-13 (environmental license plates).
+11 (11) IC 9-18.5-14 (kids first trust license plates).
+12 (12) IC 9-18.5-15 (education license plates).
+13 (13) IC 9-18.5-16 (Indiana FFA trust license plates).
+14 (14) IC 9-18.5-17 (Indiana firefighter license plates).
+15 (15) IC 9-18.5-18 (Indiana boy scouts trust license plates).
+16 (16) IC 9-18.5-19 (D.A.R.E. Indiana trust license plates).
+17 (17) IC 9-18.5-20 (Indiana arts trust license plates).
+18 (18) IC 9-18.5-21 (Indiana health trust license plates).
+19 (19) IC 9-18.5-22 (Indiana Native American trust license plates).
+20 (20) IC 9-18.5-23 (Safety First license plates).
+21 (20) (21) IC 9-18.5-24 (Pearl Harbor survivor license plates).
+22 (21) (22) IC 9-18.5-25 (Indiana state educational institution trust
+23 license plates).
+24 (22) (23) IC 9-18.5-26 (Lewis and Clark expedition license
+25 plates).
+26 (23) (24) IC 9-18.5-27 (Riley Children's Foundation license
+27 plates).
+28 (24) (25) IC 9-18.5-28 (National Football League franchised
+29 professional football team license plates).
+30 (25) (26) IC 9-18.5-29 (Hoosier veteran license plates).
+31 (26) (27) IC 9-18.5-30 (support our troops license plates).
+32 (27) (28) IC 9-18.5-31 (Abraham Lincoln's boyhood home license
+33 plates).
+34 (28) (29) IC 9-18.5-33 (Indiana Gold Star family member license
+35 plates).
+36 (30) IC 9-18.5-34 (Historic vehicles).
+37 (29) (31) IC 9-18.5-35 (Armed Forces Expeditionary Medal
+38 license plates).
+39 (32) IC 9-18.5-36 (Semiquincentennial license plates).
+40 (30) (33) A license plate issued under IC 9-18 (before its
+41 expiration) or IC 9-18.1.
+42 SECTION 3. IC 9-18.5-3-1, AS ADDED BY P.L.198-2016,
+2026 IN 1200—LS 6786/DI 137
+3
+1 SECTION 327, IS AMENDED TO READ AS FOLLOWS
+2 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) License plates shall be issued
+3 to the following:
+4 (1) Members of the general assembly.
+5 (2) Spouses of members of the general assembly.
+6 (3) Other state officials who receive special license plates on an
+7 annual basis.
+8 (b) A license plate issued under this chapter may also be issued to
+9 a company or business owned by a person described in subsection (a).
+10 (c) A license plate issued under this chapter may be designed in
+11 an alternate color scheme version.
+12 SECTION 4. IC 9-22-3-18, AS AMENDED BY P.L.125-2012,
+13 SECTION 138, IS AMENDED TO READ AS FOLLOWS
+14 [EFFECTIVE UPON PASSAGE]: Sec. 18. (a) Except as provided in
+15 subsection (b), a vehicle that has been designated "JUNK",
+16 "DISMANTLED", "SCRAP", "DESTROYED", or any similar
+17 designation in another state or jurisdiction shall not be titled in Indiana.
+18 (b) Subsection (a) does not apply to a vehicle that was issued a
+19 title in Indiana after it was designated "JUNK" in another state or
+20 jurisdiction.
+21 SECTION 5. IC 9-24-3-2.5, AS AMENDED BY P.L.227-2025,
+22 SECTION 24, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2026]: Sec. 2.5. (a) Except as provided in section 3 of this
+24 chapter, an individual must satisfy the requirements set forth in one (1)
+25 of the following subdivisions to receive a driver's license:
+26 (1) The individual meets the following conditions:
+27 (A) Is at least sixteen (16) years and ninety (90) days of age.
+28 (B) Has held a valid learner's permit for at least one hundred
+29 eighty (180) days.
+30 (C) Obtains an instructor's certification that the individual has
+31 satisfactorily completed an approved driver education course.
+32 (D) Passes the required examinations.
+33 (E) Completes at least fifty (50) hours of supervised driving
+34 practice, of which at least ten (10) hours are nighttime driving,
+35 as provided in subsection (b).
+36 (2) The individual meets the following conditions:
+37 (A) Is at least sixteen (16) years and two hundred seventy
+38 (270) days of age.
+39 (B) Has held a valid learner's permit for at least one hundred
+40 eighty (180) days.
+41 (C) Passes the required examinations.
+42 (D) Completes at least fifty (50) hours of supervised driving
+2026 IN 1200—LS 6786/DI 137
+4
+1 practice, of which at least ten (10) hours are nighttime driving,
+2 as provided in subsection (b).
+3 (3) The individual meets the following conditions:
+4 (A) Is at least sixteen (16) years and one hundred eighty (180)
+5 days of age but less than eighteen (18) years of age.
+6 (B) Has previously been a nonresident of Indiana, but, at the
+7 time of application, qualifies as an Indiana resident.
+8 (C) Has held for at least sixty (60) days a valid driver's license,
+9 excluding a learner's permit or the equivalent, in the state or a
+10 combination of states in which the individual formerly resided.
+11 (D) Passes the required examinations.
+12 (4) The individual meets the following conditions:
+13 (A) Is at least eighteen (18) years of age.
+14 (B) Has previously been a nonresident but, at the time of
+15 application, qualifies as an Indiana resident.
+16 (C) Held a valid driver's license, excluding a learner's permit
+17 or the equivalent, from the state or country of prior residence.
+18 (D) Passes the required examinations.
+19 (5) The individual meets the following conditions:
+20 (A) Is at least eighteen (18) years of age.
+21 (B) Is a person with a disability.
+22 (C) Holds an Indiana learner's permit.
+23 (D) Has successfully completed driver rehabilitation training
+24 by a certified driver rehabilitation specialist recognized by the
+25 bureau.
+26 (E) Passes the required examinations.
+27 (6) The individual meets the following conditions:
+28 (A) Is at least sixteen (16) years and ninety (90) days of age.
+29 (B) Is a person with a disability.
+30 (C) Has held a valid learner's permit for at least one hundred
+31 eighty (180) days.
+32 (D) Has successfully completed driver rehabilitation training
+33 by a certified driver rehabilitation specialist recognized by the
+34 bureau.
+35 (E) Passes the required examinations.
+36 (F) Completes at least fifty (50) hours of supervised driving
+37 practice, of which at least ten (10) hours are nighttime driving,
+38 as provided in subsection (b).
+39 (b) An applicant who is required to complete at least fifty (50) hours
+40 of supervised practice driving under subsection (a)(1)(E), (a)(2)(D), or
+41 (a)(6)(F) must do the following:
+42 (1) If the applicant is less than eighteen (18) years of age,
+2026 IN 1200—LS 6786/DI 137
+5
+1 complete the practice driving with:
+2 (A) a licensed driver, with valid driving privileges, who is:
+3 (i) at least twenty-five (25) years of age; and
+4 (ii) related to the applicant by blood, marriage, or legal
+5 status;
+6 (B) the spouse of the applicant who is:
+7 (i) a licensed driver with valid driving privileges; and
+8 (ii) at least twenty-one (21) years of age; or
+9 (C) an individual with valid driving privileges who:
+10 (i) is licensed as a driver education instructor under
+11 IC 9-27-6-8 and is working under the direction of a driver
+12 training school described in IC 9-27-6-3(a)(2); or
+13 (ii) is a certified driver rehabilitation specialist recognized
+14 by the bureau who is employed through a driver
+15 rehabilitation program.
+16 (2) If the applicant is at least eighteen (18) years of age, complete
+17 the driving practice with:
+18 (A) a licensed driver, with valid driving privileges, who is at
+19 least twenty-five (25) years of age; or
+20 (B) the spouse of the applicant who is:
+21 (i) a licensed driver with valid driving privileges; and
+22 (ii) at least twenty-one (21) years of age.
+23 (3) If the applicant is less than eighteen (18) years of age and is
+24 under the care and supervision of the department of child
+25 services, complete the driving practice with:
+26 (A) a licensed driver with valid driving privileges who is:
+27 (i) at least twenty-five (25) years of age; and
+28 (ii) related to the applicant by blood, marriage, or legal
+29 status;
+30 (B) a licensed driver with valid driving privileges who is:
+31 (i) at least twenty-five (25) years of age; and
+32 (ii) approved by the department of child services; or
+33 (C) an individual with valid driving privileges who is:
+34 (i) licensed as a driver education instructor under
+35 IC 9-27-6-8 and is working under the direction of a driver
+36 training school described in IC 9-27-6-3(a)(2); or
+37 (ii) a certified driver rehabilitation specialist recognized by
+38 the bureau who is employed through a driver rehabilitation
+39 program.
+40 (4) Submit to the commission under IC 9-24-9-2(c) evidence of
+41 the time logged in practice driving.
+42 SECTION 6. IC 9-24-6.1-2.7 IS ADDED TO THE INDIANA
+2026 IN 1200—LS 6786/DI 137
+6
+1 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2 [EFFECTIVE UPON PASSAGE]: Sec. 2.7. An individual must be
+3 able to demonstrate proficiency of the English language sufficient
+4 to:
+5 (1) converse with the general public;
+6 (2) understand highway traffic signs and signals in the English
+7 language;
+8 (3) respond to official inquiries; and
+9 (4) make entries on reports in records;
+10 to operate a commercial motor vehicle.
+11 SECTION 7. IC 9-24-8.5-3, AS AMENDED BY P.L.211-2023,
+12 SECTION 35, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 3. (a) The bureau shall add a motorcycle
+14 endorsement to a driver's license if the holder meets the following
+15 conditions:
+16 (1) Is at least:
+17 (A) sixteen (16) years and ninety (90) days of age and has
+18 completed a motorcycle operator safety education course
+19 approved by the bureau under IC 9-27-7; or
+20 (B) sixteen (16) years and two hundred seventy (270) days of
+21 age.
+22 (2) Makes a proper application in the form and manner prescribed
+23 by the bureau.
+24 (3) Has passed a written examination developed by the bureau
+25 concerning the safe operation of a motorcycle.
+26 (4) Satisfactorily completes an operational skills test at a location
+27 approved by the bureau.
+28 (5) Pays a fee of nineteen dollars ($19). The fee shall be
+29 distributed as follows:
+30 (A) Fifty cents ($0.50) to the state motor vehicle technology
+31 fund.
+32 (B) One dollar and twenty-five cents ($1.25) to the motor
+33 vehicle highway account.
+34 (C) One dollar and twenty-five cents ($1.25) to the integrated
+35 public safety communications fund.
+36 (D) Sixteen dollars ($16) to the commission fund.
+37 (b) The bureau may waive the testing requirements under subsection
+38 (a)(3) and (a)(4) for an individual who satisfactorily completes a
+39 motorcycle operator safety course approved by the bureau as set forth
+40 in IC 9-27-7.
+41 (c) The bureau may waive the operational skills test under
+42 subsection (a)(4) for an individual who holds a valid motorcycle
+2026 IN 1200—LS 6786/DI 137
+7
+1 endorsement or motorcycle license from any other jurisdiction.
+2 (d) An individual who fails the operational skills test under
+3 subsection (a)(4) three (3) consecutive times is not eligible to retake
+4 the test until two (2) months after the date of the most recent failed test.
+5 (e) The fee for a motorcycle operational skills test administered
+6 under this chapter is as follows:
+7 (1) For tests given by state employees, the fee is five dollars ($5)
+8 and shall be deposited in the motor vehicle highway account
+9 under IC 8-14-1.
+10 (2) For tests given by a contractor approved by the bureau, the fee
+11 is:
+12 (A) determined under rules adopted by the bureau under
+13 IC 4-22-2 to cover the direct costs of administering the test;
+14 and
+15 (B) paid to the contractor.
+16 (f) The bureau may impose an additional fee of twenty-five dollars
+17 ($25) if the bureau processes an application for a physical credential
+18 under this chapter in a period of time that is shorter than the normal
+19 processing period. The bureau shall deposit the fee in the commission
+20 fund.
+21 (g) A fee imposed under this section is in addition to any other fee
+22 imposed under this chapter.
+23 SECTION 8. IC 9-24-9-2, AS AMENDED BY P.L.227-2025,
+24 SECTION 28, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 2. (a) Except as provided in subsection (b), each
+26 application for a driver's license or permit under this chapter must
+27 require the following information:
+28 (1) The full legal name of the applicant.
+29 (2) The applicant's date of birth.
+30 (3) The gender of the applicant.
+31 (4) The applicant's height, weight, hair color, and eye color.
+32 (5) The address of the applicant.
+33 (6) A:
+34 (A) valid Social Security number; or
+35 (B) verification of an applicant's:
+36 (i) ineligibility to be issued a Social Security number;
+37 (ii) identity; and
+38 (iii) lawful status.
+39 (7) Whether the applicant has been subject to fainting spells or
+40 seizures.
+41 (8) Whether the applicant has been issued a driver's license or has
+42 been the holder of a permit, and if so, when and by what
+2026 IN 1200—LS 6786/DI 137
+8
+1 jurisdiction.
+2 (9) Whether the applicant's driver's license or permit has ever
+3 been suspended or revoked, and if so, the date of and the reason
+4 for the suspension or revocation.
+5 (10) Whether the applicant has been convicted of:
+6 (A) a crime punishable as a felony under Indiana motor
+7 vehicle law; or
+8 (B) any other felony in the commission of which a motor
+9 vehicle was used;
+10 that has not been expunged by a court.
+11 (11) (9) Whether the applicant has a physical or mental disability,
+12 and if so, the nature of the disability.
+13 (12) (10) The signature of the applicant showing the applicant's
+14 legal name as it appears or will appear on the driver's license or
+15 permit.
+16 (13) (11) A digital photograph of the applicant.
+17 (14) (12) Any other information the bureau requires.
+18 (b) For purposes of subsection (a), an individual certified as a
+19 program participant in the address confidentiality program under
+20 IC 5-26.5 is not required to provide the individual's address, but may
+21 provide an address designated by the office of the attorney general
+22 under IC 5-26.5 as the individual's address.
+23 (c) In addition to the information required by subsection (a), an
+24 applicant who is required to complete at least fifty (50) hours of
+25 supervised practice driving under IC 9-24-3-2.5(a)(1)(E),
+26 IC 9-24-3-2.5(a)(2)(D), or IC 9-24-3-2.5(a)(6)(F) must submit to the
+27 bureau evidence of the time logged in practice driving.
+28 SECTION 9. IC 9-24-10-1, AS AMENDED BY P.L.256-2017,
+29 SECTION 173, IS AMENDED TO READ AS FOLLOWS
+30 [EFFECTIVE JANUARY 1, 2027]: Sec. 1. (a) An individual who
+31 applies under this chapter for a permit or driver's license and who is
+32 required by this chapter to take an examination of the applicant's skill
+33 in the operation of a motor vehicle under section 4(a)(2) of this
+34 chapter shall:
+35 (1) appear before a member of the bureau or commission; or
+36 (2) appear before an instructor having an endorsement under
+37 IC 9-27-6-8;
+38 and be examined concerning the applicant's qualifications and ability
+39 to operate a motor vehicle upon a highway.
+40 (b) An individual who applies under this chapter for a permit or
+41 driver's license and who is required to take an examination of the
+42 applicant's ability to read and understand highway signs under
+2026 IN 1200—LS 6786/DI 137
+9
+1 section 4(a)(1)(B) of this chapter and the applicant's knowledge of
+2 Indiana traffic laws under section 4(a)(1)(C) of this chapter shall:
+3 (1) appear before a member of the bureau or commission;
+4 (2) appear before an instructor having an endorsement under
+5 IC 9-27-6-8; or
+6 (3) satisfactorily complete an online examination approved by
+7 the bureau;
+8 and be examined concerning the applicant's qualifications and
+9 ability to operate a motor vehicle upon a highway.
+10 SECTION 10. IC 9-24-12-4, AS AMENDED BY P.L.141-2024,
+11 SECTION 28, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JANUARY 1, 2027]: Sec. 4. (a) Except as provided in subsections (c)
+13 and (d), the application for renewal of:
+14 (1) a driver's license;
+15 (2) a chauffeur's license (before the expiration of IC 9-24-4 on
+16 July 1, 2024);
+17 (3) a public passenger chauffeur's license (before the expiration
+18 of IC 9-24-5 on July 1, 2022);
+19 (4) an identification card; or
+20 (5) a photo exempt identification card;
+21 under this article may be filed not more than twenty-four (24) months
+22 before the expiration date of the license, identification card, or photo
+23 exempt identification card held by the applicant.
+24 (b) Except as provided in subsections (c) and (d), an application for
+25 the renewal of a learner's permit issued under this article may be filed
+26 not more than thirty (30) days before the expiration of the learner's
+27 permit.
+28 (c) When the applicant complies with IC 9-24-9-2.5, an application
+29 for renewal of a driver's license in subsection (a)(1), (a)(2), or (a)(3)
+30 may be filed not more than one (1) month thirty (30) days before the
+31 expiration date of the license held by the applicant.
+32 (d) When the applicant complies with IC 9-24-16-3.5, an application
+33 for renewal of an identification card under subsection (a)(4) may be
+34 filed not more than one (1) month thirty (30) days before the
+35 expiration date of the identification card held by the applicant.
+36 SECTION 11. IC 9-24-12-5, AS AMENDED BY P.L.211-2023,
+37 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 5. (a) Except as provided in subsection (b), and
+39 subject to subsection (d), an individual applying for renewal of a
+40 driver's license in the form of a physical credential (issued under
+41 IC 9-24-3), or a chauffeur's or a public passenger chauffeur's license,
+42 including any endorsements in effect with respect to the license, must
+2026 IN 1200—LS 6786/DI 137
+10
+1 apply in person at a license branch and do the following:
+2 (1) Pass an eyesight examination.
+3 (2) Pass a written examination if:
+4 (A) the applicant has at least six (6) active points on the
+5 applicant's driving record maintained by the bureau;
+6 (B) the applicant has not reached the applicant's twenty-first
+7 birthday and has active points on the applicant's driving record
+8 maintained by the bureau; or
+9 (C) the applicant is in possession of a driver's license that is
+10 expired beyond one hundred eighty (180) days.
+11 (b) The holder of a driver's license in the form of a physical
+12 credential (issued under IC 9-24-3), a chauffeur's or a public passenger
+13 chauffeur's license, or a learner's permit issued in the form of a physical
+14 credential under IC 9-24-7 may renew the license, including any
+15 endorsements in effect with respect to the license, by mail or by
+16 electronic service, subject to the following conditions:
+17 (1) A valid computerized image of the individual must exist
+18 within the records of the bureau.
+19 (2) The previous renewal of the individual's driver's license
+20 (issued under IC 9-24-3), chauffeur's or public passenger
+21 chauffeur's license, or a learner's permit issued under IC 9-24-7
+22 must not have been by mail or by electronic service.
+23 (3) The application for or previous renewal of the individual's
+24 license or permit must have included a test of the individual's
+25 eyesight approved by the bureau.
+26 (4) If the individual were applying for the license or permit
+27 renewal in person at a license branch, the individual would not be
+28 required under subsection (a)(2) to submit to a written
+29 examination.
+30 (5) The individual must be a citizen of the United States, as
+31 shown in the records of the bureau.
+32 (6) There must not have been any change in the:
+33 (A) address; or
+34 (B) name;
+35 of the individual since the issuance or previous renewal of the
+36 individual's driver's license (issued under IC 9-24-3), chauffeur's
+37 or public passenger chauffeur's license, or a learner's permit
+38 issued under IC 9-24-7.
+39 (7) The driver's license (issued under IC 9-24-3), chauffeur's or
+40 public passenger chauffeur's license, or a learner's permit issued
+41 under IC 9-24-7 of the individual must not be:
+42 (A) suspended; or
+2026 IN 1200—LS 6786/DI 137
+11
+1 (B) expired more than one hundred eighty (180) days;
+2 at the time of the application for renewal.
+3 (8) If the individual is seventy-five (75) years of age or older at
+4 the time of the application for renewal, the individual must
+5 provide proof, on a form approved by the bureau, that the
+6 individual has passed an eyesight examination within thirty (30)
+7 sixty (60) days prior to the renewal application.
+8 (c) An individual applying for the renewal of a driver's license
+9 issued in the form of a physical credential (issued under IC 9-24-3), a
+10 chauffeur's license or a public passenger chauffeur's license, or a
+11 learner's permit issued in the form of a physical credential under
+12 IC 9-24-7, including any endorsements in effect with respect to the
+13 license, must apply in person at a license branch under subsection (a)
+14 if the individual is not entitled to apply by mail or by electronic service
+15 under subsection (b).
+16 (d) The bureau may not issue or renew a chauffeur's or a public
+17 passenger chauffeur's license after December 31, 2016. If a holder of
+18 a chauffeur's or a public passenger chauffeur's license applies after
+19 December 31, 2016, for renewal of the chauffeur's or public passenger
+20 chauffeur's license, the bureau shall issue to the holder a driver's
+21 license under IC 9-24-3 with a for-hire endorsement if the holder:
+22 (1) applies in a form and manner prescribed by the bureau; and
+23 (2) satisfies the requirements for renewal of a driver's license
+24 issued under IC 9-24-3, including the fee and examination
+25 requirements under this section.
+26 (e) An individual applying for the renewal of a driver's license
+27 issued in the form of a physical credential under IC 9-24-3 shall pay the
+28 following applicable fee:
+29 (1) If the individual is less than seventy-five (75) years of age,
+30 seventeen dollars and fifty cents ($17.50). The fee shall be
+31 distributed as follows:
+32 (A) Fifty cents ($0.50) to the state motor vehicle technology
+33 fund.
+34 (B) Two dollars ($2) to the crossroads 2000 fund.
+35 (C) Four dollars and fifty cents ($4.50) to the motor vehicle
+36 highway account.
+37 (D) One dollar and twenty-five cents ($1.25) to the integrated
+38 public safety communications fund.
+39 (E) Nine dollars and twenty-five cents ($9.25) to the
+40 commission fund.
+41 (2) If the individual is at least seventy-five (75) years of age and
+42 less than eighty-five (85) years of age, eleven dollars ($11). The
+2026 IN 1200—LS 6786/DI 137
+12
+1 fee shall be distributed as follows:
+2 (A) Fifty cents ($0.50) to the state motor vehicle technology
+3 fund.
+4 (B) One dollar and fifty cents ($1.50) to the crossroads 2000
+5 fund.
+6 (C) Three dollars ($3) to the motor vehicle highway account.
+7 (D) One dollar and twenty-five cents ($1.25) to the integrated
+8 public safety communications fund.
+9 (E) Four dollars and seventy-five cents ($4.75) to the
+10 commission fund.
+11 (3) If the individual is at least eighty-five (85) years of age, seven
+12 dollars ($7). The fee shall be distributed as follows:
+13 (A) Fifty cents ($0.50) to the state motor vehicle technology
+14 fund.
+15 (B) One dollar ($1) to the crossroads 2000 fund.
+16 (C) Two dollars ($2) to the motor vehicle highway account.
+17 (D) One dollar and twenty-five cents ($1.25) to the integrated
+18 public safety communications fund.
+19 (E) Two dollars and twenty-five cents ($2.25) to the
+20 commission fund.
+21 A fee paid under this subsection after December 31, 2016, includes the
+22 renewal of any endorsements that are in effect with respect to the
+23 driver's license issued in the form of a physical credential under
+24 IC 9-24-3 at the time of renewal.
+25 SECTION 12. IC 9-24-12-6, AS AMENDED BY P.L.141-2024,
+26 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JANUARY 1, 2027]: Sec. 6. (a) When the Indiana driver's license of
+28 an individual who is temporarily residing outside Indiana because of
+29 service in the armed forces of the United States has expired, the driver's
+30 license remains valid for ninety (90) days following the individual's
+31 discharge from service in the armed forces or postdeployment in the
+32 armed forces. date the individual is no longer temporarily residing
+33 outside Indiana because of the individual's service. To obtain a
+34 renewed driver's license, the individual must do the following:
+35 (1) Apply for a renewal of the driver's license during the ninety
+36 (90) day period following the individual's discharge or
+37 postdeployment in the armed forces. date the individual is no
+38 longer temporarily residing outside Indiana because of the
+39 individual's service.
+40 (2) Show proof of discharge from temporary residence outside
+41 of Indiana because of service in the armed forces or status as
+42 postdeployment in the armed forces to the bureau when applying
+2026 IN 1200—LS 6786/DI 137
+13
+1 for the renewal.
+2 An individual who held a commercial driver's license that expired
+3 during the individual's service in the armed forces may renew the
+4 commercial driver's license as if the commercial driver's license had
+5 not expired but had remained valid during the period of service in the
+6 armed forces of the United States.
+7 (b) When the Indiana driver's license of an individual who is
+8 temporarily residing outside Indiana because of the service of a spouse,
+9 parent, or guardian in the armed forces of the United States has
+10 expired, the driver's license remains valid for ninety (90) days
+11 following the discharge from service in the armed forces or end of
+12 deployment in the armed forces of date the individual's spouse, parent,
+13 or guardian is no longer temporarily residing outside Indiana
+14 because of the individual's service. To obtain a renewed driver's
+15 license, the individual must do the following:
+16 (1) Apply for a renewal of the driver's license during the ninety
+17 (90) day period following the discharge from or end of
+18 deployment in the armed forces of date the individual's spouse,
+19 parent, or guardian is no longer temporarily residing outside
+20 Indiana.
+21 (2) Show to the bureau proof of discharge or end of deployment
+22 in the armed forces of that the individual's spouse, parent, or
+23 guardian is no longer temporarily residing outside Indiana
+24 when applying for the renewal.
+25 SECTION 13. IC 9-24-16-4.5, AS AMENDED BY P.L.141-2024,
+26 SECTION 36, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JANUARY 1, 2027]: Sec. 4.5. (a) An individual may apply for a
+28 replacement identification card issued in the form of a physical
+29 credential under section 9 of this chapter, apply for a replacement
+30 identification card issued in the form of a physical credential under
+31 section 6 of this chapter, or convert a driver's license or learner's permit
+32 into an identification card under IC 9-24-14-3.5 by electronic service.
+33 An individual's renewal, amendment, or replacement of, or conversion
+34 to, an identification card issued in the form of a physical credential by
+35 electronic service is subject to the following conditions:
+36 (1) A valid computerized image or digital photograph of the
+37 individual must exist within the records of the bureau.
+38 (2) The individual must be a citizen of the United States, as
+39 shown in the records of the bureau.
+40 (3) There must not have been any change in the:
+41 (A) legal address; or
+42 (B) name;
+2026 IN 1200—LS 6786/DI 137
+14
+1 of the individual since the issuance or previous renewal of the
+2 identification card issued in the form of a physical credential of
+3 the individual.
+4 (4) The identification card issued in the form of a physical
+5 credential of the individual must not be expired more than one
+6 hundred eighty (180) days at the time of the application for
+7 renewal.
+8 (b) An individual applying for:
+9 (1) the renewal of an identification card; or
+10 (2) a replacement identification card;
+11 must apply in person if the individual is not entitled to apply by mail or
+12 by electronic service under subsection (a).
+13 SECTION 14. IC 9-24-16-5, AS AMENDED BY P.L.227-2025,
+14 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JANUARY 1, 2027]: Sec. 5. (a) An application for renewal of an
+16 identification card issued in the form of a physical credential may be
+17 made not more than twenty-four (24) months before the expiration date
+18 of the card issued in the form of a physical credential. However, when
+19 the applicant complies with section 3.5 of this chapter, an application
+20 for renewal of an identification card issued in the form of a physical
+21 credential may be filed not more than one (1) month thirty (30) days
+22 before the expiration date of the identification card issued in the form
+23 of a physical credential held by the applicant.
+24 (b) Except as provided in subsection (d), a renewed card issued in
+25 the form of a physical credential is valid on the birth date of the holder
+26 and remains valid for six (6) years.
+27 (c) Renewal may not be granted if the cardholder was issued a
+28 driver's license issued in the form of a physical credential subsequent
+29 to the last issuance of an identification card issued in the form of a
+30 physical credential.
+31 (d) A renewed identification card issued under this article in the
+32 form of a physical credential to an applicant who complies with section
+33 3.5 of this chapter expires:
+34 (1) at midnight one (1) year after issuance, if there is no
+35 expiration date on the authorization granted to the individual to
+36 remain in the United States; or
+37 (2) if there is an expiration date on the authorization granted to
+38 the individual to remain in the United States, the earlier of the
+39 following:
+40 (A) At midnight of the date the authorization of the holder to
+41 have lawful status as a permanent resident or conditional
+42 resident alien of the United States expires.
+2026 IN 1200—LS 6786/DI 137
+15
+1 (B) At midnight of the birthday of the holder that occurs six
+2 (6) years after the date of issuance.
+3 (e) An identification card expires upon the bureau receiving notice
+4 of the death of the holder or upon issuance of a subsequent physical
+5 credential.
+6 SECTION 15. An emergency is declared for this act.
+2026 IN 1200—LS 6786/DI 137
+[DELETED:  A t t t a e d l o a6I]
+[DELETED:  1 I 9 A A B P 1 I A T R A F6I]
+[DELETED:  ( I 9 ( a C e l ( I 9 ( C F l ( I 9 ( F E M ( A l p i u I 9 ( i 3 I 9 A A B P6I]
+[DELETED:  3 I A T R A F 1 I A T R A F ( a v t h b d " " " o a s6I]
+[DELETED:  I t a i l t e ( y o a6I]
+[DELETED:  i l a a d e i u t b w i e t a d t c a s o t d o c l a a d e i u 6 I 9 I A T T I6I]
+[DELETED:  A A N S T R A F 1 2 S 3 ( T b s a a m a m o s e c P a f o n d ( T f s b a ( f a w s  T b m w t o s t u ( f a i w h a v m6I]
+[DELETED:  A i w f t o s t u d u r a b t b u 8 I 9 A A B P t h o a p a i s w a b w6I]
+[DELETED:  a c p a a f u I m p i t a c p u p d u I 9 1 I A T R A F6I]
+[DELETED:  n m t o ( m t ( d b t6I]
+[DELETED:  T h o a d l i t f o a p u I 9 m r t l i a w T p r o t i d l u I 9 c o p p u s ( t s t a w p p c l o a l p6I]
+[DELETED:  t o t a f r t i m p o a f a b t b t t o a u I 9 i t f a e d a f c ( T f s b N d a t c ( t t6I]
+[DELETED:  F d a s c ( t t T d a t c ( t t l i i t f o a p c u d p f t i d o6I]
+[DELETED:  W t I d l o a i w i o g i t a f o t U S h t d l r v f n ( d g i n l t r o I d p f t d f o e o i c i i t f o a p6I]
+[DELETED:  T i c i i t f o a p a m o ( y a i i t i n6I]
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1200
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 9-14.1-2-3; IC 9-18.5; IC 9-22-3-18; IC 9-24.
+Synopsis: Bureau of motor vehicles. Provides that the total for a
+transaction at a license branch of the bureau of motor vehicles (bureau)
+must be rounded down to the nearest $0.00 or $0.05. Allows additional
+license plates issued by the bureau to be designed as a personalized
+license plate. Amends the information required to be provided by an
+applicant for a driver's license or permit. Amends the required age an
+individual must be to obtain a driver's license from 16 years and 90
+days of age to 16 years of age. Requires an individual to demonstrate
+sufficient proficiency of the English language to operate a commercial
+motor vehicle. Allows an applicant for a driver's license or permit to
+take an examination of the individual's ability to read and understand
+highway signs and the individual's knowledge of Indiana traffic laws
+by satisfactorily completing an online examination approved by the
+bureau. Amends the time that an expired driver's license of an
+individual temporarily residing outside Indiana because of service in
+the armed forces remains valid. Changes the time for an individual who
+is 75 years of age or older and renewing a physical credential to
+provide proof to the bureau that the individual passed an eyesight
+examination from 30 days to 60 days. Removes the limitation that a
+renewal identification card cannot be issued by electronic service if the
+card expired more than 180 days prior to the date of the application for
+renewal.
+Effective: Upon passage; July 1, 2026; January 1, 2027; July 1, 2027.
+Pressel
+January 5, 2026, read first time and referred to Committee on Roads and Transportation.
+2026 IN 1200—LS 6786/DI 137
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1200
+A BILL FOR AN ACT to amend the Indiana Code concerning
+motor vehicles.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 9-14.1-2-3, AS ADDED BY P.L.198-2016,
+2 SECTION 195, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 3. Each license branch shall:
+4 (1) round the total of any transaction down to the nearest
+5 amount ending in zero cents ($0.00) or five cents ($0.05) and
+6 collect:
+7 (A) the service charges and fees as set forth in this title and in
+8 policies and other documents of the bureau; and
+9 (B) applicable excise taxes under IC 6-6; and
+10 (2) remit the amounts collected to the bureau for deposit as set
+11 forth in this title and IC 6-6.
+12 SECTION 2. IC 9-18.5-2-1, AS AMENDED BY P.L.118-2022,
+13 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+14 JULY 1, 2027]: Sec. 1. (a) A person may apply to the bureau for a
+15 personalized license plate to display on the person's vehicle.
+16 (b) The following license plates may be designed as a personalized
+17 license plate under this chapter:
+2026 IN 1200—LS 6786/DI 137
+
+2
+1 (1) IC 9-18.5-4 (prisoner of war license plates).
+2 (2) IC 9-18.5-5 (disabled Hoosier veteran license plates).
+3 (3) IC 9-18.5-6 (Purple Heart license plates).
+4 (4) IC 9-18.5-7 (National Guard license plates).
+5 (5) IC 9-18.5-8 (license plates for persons with disabilities).
+6 (6) IC 9-18.5-9 (amateur radio operator license plates).
+7 (7) IC 9-18.5-10 (civic event license plates).
+8 (8) IC 9-18.5-11 (In God We Trust license plates).
+9 (9) IC 9-18.5-12 (special group recognition license plates).
+10 (10) IC 9-18.5-13 (environmental license plates).
+11 (11) IC 9-18.5-14 (kids first trust license plates).
+12 (12) IC 9-18.5-15 (education license plates).
+13 (13) IC 9-18.5-16 (Indiana FFA trust license plates).
+14 (14) IC 9-18.5-17 (Indiana firefighter license plates).
+15 (15) IC 9-18.5-18 (Indiana boy scouts trust license plates).
+16 (16) IC 9-18.5-19 (D.A.R.E. Indiana trust license plates).
+17 (17) IC 9-18.5-20 (Indiana arts trust license plates).
+18 (18) IC 9-18.5-21 (Indiana health trust license plates).
+19 (19) IC 9-18.5-22 (Indiana Native American trust license plates).
+20 (20) IC 9-18.5-23 (Safety First license plates).
+21 (20) (21) IC 9-18.5-24 (Pearl Harbor survivor license plates).
+22 (21) (22) IC 9-18.5-25 (Indiana state educational institution trust
+23 license plates).
+24 (22) (23) IC 9-18.5-26 (Lewis and Clark expedition license
+25 plates).
+26 (23) (24) IC 9-18.5-27 (Riley Children's Foundation license
+27 plates).
+28 (24) (25) IC 9-18.5-28 (National Football League franchised
+29 professional football team license plates).
+30 (25) (26) IC 9-18.5-29 (Hoosier veteran license plates).
+31 (26) (27) IC 9-18.5-30 (support our troops license plates).
+32 (27) (28) IC 9-18.5-31 (Abraham Lincoln's boyhood home license
+33 plates).
+34 (28) (29) IC 9-18.5-33 (Indiana Gold Star family member license
+35 plates).
+36 (30) IC 9-18.5-34 (Historic vehicles).
+37 (29) (31) IC 9-18.5-35 (Armed Forces Expeditionary Medal
+38 license plates).
+39 (32) IC 9-18.5-36 (Semiquincentennial license plates).
+40 (30) (33) A license plate issued under IC 9-18 (before its
+41 expiration) or IC 9-18.1.
+42 SECTION 3. IC 9-18.5-3-1, AS ADDED BY P.L.198-2016,
+2026 IN 1200—LS 6786/DI 137
+
+3
+1 SECTION 327, IS AMENDED TO READ AS FOLLOWS
+2 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) License plates shall be issued
+3 to the following:
+4 (1) Members of the general assembly.
+5 (2) Spouses of members of the general assembly.
+6 (3) Other state officials who receive special license plates on an
+7 annual basis.
+8 (b) A license plate issued under this chapter may also be issued to
+9 a company or business owned by a person described in subsection (a).
+10 (c) A license plate issued under this chapter may be designed in
+11 an alternate color scheme version.
+12 SECTION 4. IC 9-22-3-18, AS AMENDED BY P.L.125-2012,
+13 SECTION 138, IS AMENDED TO READ AS FOLLOWS
+14 [EFFECTIVE UPON PASSAGE]: Sec. 18. (a) Except as provided in
+15 subsection (b), a vehicle that has been designated "JUNK",
+16 "DISMANTLED", "SCRAP", "DESTROYED", or any similar
+17 designation in another state or jurisdiction shall not be titled in Indiana.
+18 (b) Subsection (a) does not apply to a vehicle that was issued a
+19 title in Indiana after it was designated "JUNK" in another state or
+20 jurisdiction.
+21 SECTION 5. IC 9-24-3-2.5, AS AMENDED BY P.L.227-2025,
+22 SECTION 24, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2026]: Sec. 2.5. (a) Except as provided in section 3 of this
+24 chapter, an individual must satisfy the requirements set forth in one (1)
+25 of the following subdivisions to receive a driver's license:
+26 (1) The individual meets the following conditions:
+27 (A) Is at least sixteen (16) years and ninety (90) days of age.
+28 (B) Has held a valid learner's permit for at least one hundred
+29 eighty (180) days.
+30 (C) Obtains an instructor's certification that the individual has
+31 satisfactorily completed an approved driver education course.
+32 (D) Passes the required examinations.
+33 (E) Completes at least fifty (50) hours of supervised driving
+34 practice, of which at least ten (10) hours are nighttime driving,
+35 as provided in subsection (b).
+36 (2) The individual meets the following conditions:
+37 (A) Is at least sixteen (16) years and two hundred seventy
+38 (270) days of age.
+39 (B) Has held a valid learner's permit for at least one hundred
+40 eighty (180) days.
+41 (C) Passes the required examinations.
+42 (D) Completes at least fifty (50) hours of supervised driving
+2026 IN 1200—LS 6786/DI 137
+
+4
+1 practice, of which at least ten (10) hours are nighttime driving,
+2 as provided in subsection (b).
+3 (3) The individual meets the following conditions:
+4 (A) Is at least sixteen (16) years and one hundred eighty (180)
+5 days of age but less than eighteen (18) years of age.
+6 (B) Has previously been a nonresident of Indiana, but, at the
+7 time of application, qualifies as an Indiana resident.
+8 (C) Has held for at least sixty (60) days a valid driver's license,
+9 excluding a learner's permit or the equivalent, in the state or a
+10 combination of states in which the individual formerly resided.
+11 (D) Passes the required examinations.
+12 (4) The individual meets the following conditions:
+13 (A) Is at least eighteen (18) years of age.
+14 (B) Has previously been a nonresident but, at the time of
+15 application, qualifies as an Indiana resident.
+16 (C) Held a valid driver's license, excluding a learner's permit
+17 or the equivalent, from the state or country of prior residence.
+18 (D) Passes the required examinations.
+19 (5) The individual meets the following conditions:
+20 (A) Is at least eighteen (18) years of age.
+21 (B) Is a person with a disability.
+22 (C) Holds an Indiana learner's permit.
+23 (D) Has successfully completed driver rehabilitation training
+24 by a certified driver rehabilitation specialist recognized by the
+25 bureau.
+26 (E) Passes the required examinations.
+27 (6) The individual meets the following conditions:
+28 (A) Is at least sixteen (16) years and ninety (90) days of age.
+29 (B) Is a person with a disability.
+30 (C) Has held a valid learner's permit for at least one hundred
+31 eighty (180) days.
+32 (D) Has successfully completed driver rehabilitation training
+33 by a certified driver rehabilitation specialist recognized by the
+34 bureau.
+35 (E) Passes the required examinations.
+36 (F) Completes at least fifty (50) hours of supervised driving
+37 practice, of which at least ten (10) hours are nighttime driving,
+38 as provided in subsection (b).
+39 (b) An applicant who is required to complete at least fifty (50) hours
+40 of supervised practice driving under subsection (a)(1)(E), (a)(2)(D), or
+41 (a)(6)(F) must do the following:
+42 (1) If the applicant is less than eighteen (18) years of age,
+2026 IN 1200—LS 6786/DI 137
+
+5
+1 complete the practice driving with:
+2 (A) a licensed driver, with valid driving privileges, who is:
+3 (i) at least twenty-five (25) years of age; and
+4 (ii) related to the applicant by blood, marriage, or legal
+5 status;
+6 (B) the spouse of the applicant who is:
+7 (i) a licensed driver with valid driving privileges; and
+8 (ii) at least twenty-one (21) years of age; or
+9 (C) an individual with valid driving privileges who:
+10 (i) is licensed as a driver education instructor under
+11 IC 9-27-6-8 and is working under the direction of a driver
+12 training school described in IC 9-27-6-3(a)(2); or
+13 (ii) is a certified driver rehabilitation specialist recognized
+14 by the bureau who is employed through a driver
+15 rehabilitation program.
+16 (2) If the applicant is at least eighteen (18) years of age, complete
+17 the driving practice with:
+18 (A) a licensed driver, with valid driving privileges, who is at
+19 least twenty-five (25) years of age; or
+20 (B) the spouse of the applicant who is:
+21 (i) a licensed driver with valid driving privileges; and
+22 (ii) at least twenty-one (21) years of age.
+23 (3) If the applicant is less than eighteen (18) years of age and is
+24 under the care and supervision of the department of child
+25 services, complete the driving practice with:
+26 (A) a licensed driver with valid driving privileges who is:
+27 (i) at least twenty-five (25) years of age; and
+28 (ii) related to the applicant by blood, marriage, or legal
+29 status;
+30 (B) a licensed driver with valid driving privileges who is:
+31 (i) at least twenty-five (25) years of age; and
+32 (ii) approved by the department of child services; or
+33 (C) an individual with valid driving privileges who is:
+34 (i) licensed as a driver education instructor under
+35 IC 9-27-6-8 and is working under the direction of a driver
+36 training school described in IC 9-27-6-3(a)(2); or
+37 (ii) a certified driver rehabilitation specialist recognized by
+38 the bureau who is employed through a driver rehabilitation
+39 program.
+40 (4) Submit to the commission under IC 9-24-9-2(c) evidence of
+41 the time logged in practice driving.
+42 SECTION 6. IC 9-24-6.1-2.7 IS ADDED TO THE INDIANA
+2026 IN 1200—LS 6786/DI 137
+
+6
+1 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2 [EFFECTIVE UPON PASSAGE]: Sec. 2.7. An individual must be
+3 able to demonstrate proficiency of the English language sufficient
+4 to:
+5 (1) converse with the general public;
+6 (2) understand highway traffic signs and signals in the English
+7 language;
+8 (3) respond to official inquiries; and
+9 (4) make entries on reports in records;
+10 to operate a commercial motor vehicle.
+11 SECTION 7. IC 9-24-8.5-3, AS AMENDED BY P.L.211-2023,
+12 SECTION 35, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 3. (a) The bureau shall add a motorcycle
+14 endorsement to a driver's license if the holder meets the following
+15 conditions:
+16 (1) Is at least:
+17 (A) sixteen (16) years and ninety (90) days of age and has
+18 completed a motorcycle operator safety education course
+19 approved by the bureau under IC 9-27-7; or
+20 (B) sixteen (16) years and two hundred seventy (270) days of
+21 age.
+22 (2) Makes a proper application in the form and manner prescribed
+23 by the bureau.
+24 (3) Has passed a written examination developed by the bureau
+25 concerning the safe operation of a motorcycle.
+26 (4) Satisfactorily completes an operational skills test at a location
+27 approved by the bureau.
+28 (5) Pays a fee of nineteen dollars ($19). The fee shall be
+29 distributed as follows:
+30 (A) Fifty cents ($0.50) to the state motor vehicle technology
+31 fund.
+32 (B) One dollar and twenty-five cents ($1.25) to the motor
+33 vehicle highway account.
+34 (C) One dollar and twenty-five cents ($1.25) to the integrated
+35 public safety communications fund.
+36 (D) Sixteen dollars ($16) to the commission fund.
+37 (b) The bureau may waive the testing requirements under subsection
+38 (a)(3) and (a)(4) for an individual who satisfactorily completes a
+39 motorcycle operator safety course approved by the bureau as set forth
+40 in IC 9-27-7.
+41 (c) The bureau may waive the operational skills test under
+42 subsection (a)(4) for an individual who holds a valid motorcycle
+2026 IN 1200—LS 6786/DI 137
+
+7
+1 endorsement or motorcycle license from any other jurisdiction.
+2 (d) An individual who fails the operational skills test under
+3 subsection (a)(4) three (3) consecutive times is not eligible to retake
+4 the test until two (2) months after the date of the most recent failed test.
+5 (e) The fee for a motorcycle operational skills test administered
+6 under this chapter is as follows:
+7 (1) For tests given by state employees, the fee is five dollars ($5)
+8 and shall be deposited in the motor vehicle highway account
+9 under IC 8-14-1.
+10 (2) For tests given by a contractor approved by the bureau, the fee
+11 is:
+12 (A) determined under rules adopted by the bureau under
+13 IC 4-22-2 to cover the direct costs of administering the test;
+14 and
+15 (B) paid to the contractor.
+16 (f) The bureau may impose an additional fee of twenty-five dollars
+17 ($25) if the bureau processes an application for a physical credential
+18 under this chapter in a period of time that is shorter than the normal
+19 processing period. The bureau shall deposit the fee in the commission
+20 fund.
+21 (g) A fee imposed under this section is in addition to any other fee
+22 imposed under this chapter.
+23 SECTION 8. IC 9-24-9-2, AS AMENDED BY P.L.227-2025,
+24 SECTION 28, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 2. (a) Except as provided in subsection (b), each
+26 application for a driver's license or permit under this chapter must
+27 require the following information:
+28 (1) The full legal name of the applicant.
+29 (2) The applicant's date of birth.
+30 (3) The gender of the applicant.
+31 (4) The applicant's height, weight, hair color, and eye color.
+32 (5) The address of the applicant.
+33 (6) A:
+34 (A) valid Social Security number; or
+35 (B) verification of an applicant's:
+36 (i) ineligibility to be issued a Social Security number;
+37 (ii) identity; and
+38 (iii) lawful status.
+39 (7) Whether the applicant has been subject to fainting spells or
+40 seizures.
+41 (8) Whether the applicant has been issued a driver's license or has
+42 been the holder of a permit, and if so, when and by what
+2026 IN 1200—LS 6786/DI 137
+
+8
+1 jurisdiction.
+2 (9) Whether the applicant's driver's license or permit has ever
+3 been suspended or revoked, and if so, the date of and the reason
+4 for the suspension or revocation.
+5 (10) Whether the applicant has been convicted of:
+6 (A) a crime punishable as a felony under Indiana motor
+7 vehicle law; or
+8 (B) any other felony in the commission of which a motor
+9 vehicle was used;
+10 that has not been expunged by a court.
+11 (11) (9) Whether the applicant has a physical or mental disability,
+12 and if so, the nature of the disability.
+13 (12) (10) The signature of the applicant showing the applicant's
+14 legal name as it appears or will appear on the driver's license or
+15 permit.
+16 (13) (11) A digital photograph of the applicant.
+17 (14) (12) Any other information the bureau requires.
+18 (b) For purposes of subsection (a), an individual certified as a
+19 program participant in the address confidentiality program under
+20 IC 5-26.5 is not required to provide the individual's address, but may
+21 provide an address designated by the office of the attorney general
+22 under IC 5-26.5 as the individual's address.
+23 (c) In addition to the information required by subsection (a), an
+24 applicant who is required to complete at least fifty (50) hours of
+25 supervised practice driving under IC 9-24-3-2.5(a)(1)(E),
+26 IC 9-24-3-2.5(a)(2)(D), or IC 9-24-3-2.5(a)(6)(F) must submit to the
+27 bureau evidence of the time logged in practice driving.
+28 SECTION 9. IC 9-24-10-1, AS AMENDED BY P.L.256-2017,
+29 SECTION 173, IS AMENDED TO READ AS FOLLOWS
+30 [EFFECTIVE JANUARY 1, 2027]: Sec. 1. (a) An individual who
+31 applies under this chapter for a permit or driver's license and who is
+32 required by this chapter to take an examination of the applicant's skill
+33 in the operation of a motor vehicle under section 4(a)(2) of this
+34 chapter shall:
+35 (1) appear before a member of the bureau or commission; or
+36 (2) appear before an instructor having an endorsement under
+37 IC 9-27-6-8;
+38 and be examined concerning the applicant's qualifications and ability
+39 to operate a motor vehicle upon a highway.
+40 (b) An individual who applies under this chapter for a permit or
+41 driver's license and who is required to take an examination of the
+42 applicant's ability to read and understand highway signs under
+2026 IN 1200—LS 6786/DI 137
+
+9
+1 section 4(a)(1)(B) of this chapter and the applicant's knowledge of
+2 Indiana traffic laws under section 4(a)(1)(C) of this chapter shall:
+3 (1) appear before a member of the bureau or commission;
+4 (2) appear before an instructor having an endorsement under
+5 IC 9-27-6-8; or
+6 (3) satisfactorily complete an online examination approved by
+7 the bureau;
+8 and be examined concerning the applicant's qualifications and
+9 ability to operate a motor vehicle upon a highway.
+10 SECTION 10. IC 9-24-12-4, AS AMENDED BY P.L.141-2024,
+11 SECTION 28, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JANUARY 1, 2027]: Sec. 4. (a) Except as provided in subsections (c)
+13 and (d), the application for renewal of:
+14 (1) a driver's license;
+15 (2) a chauffeur's license (before the expiration of IC 9-24-4 on
+16 July 1, 2024);
+17 (3) a public passenger chauffeur's license (before the expiration
+18 of IC 9-24-5 on July 1, 2022);
+19 (4) an identification card; or
+20 (5) a photo exempt identification card;
+21 under this article may be filed not more than twenty-four (24) months
+22 before the expiration date of the license, identification card, or photo
+23 exempt identification card held by the applicant.
+24 (b) Except as provided in subsections (c) and (d), an application for
+25 the renewal of a learner's permit issued under this article may be filed
+26 not more than thirty (30) days before the expiration of the learner's
+27 permit.
+28 (c) When the applicant complies with IC 9-24-9-2.5, an application
+29 for renewal of a driver's license in subsection (a)(1), (a)(2), or (a)(3)
+30 may be filed not more than one (1) month thirty (30) days before the
+31 expiration date of the license held by the applicant.
+32 (d) When the applicant complies with IC 9-24-16-3.5, an application
+33 for renewal of an identification card under subsection (a)(4) may be
+34 filed not more than one (1) month thirty (30) days before the
+35 expiration date of the identification card held by the applicant.
+36 SECTION 11. IC 9-24-12-5, AS AMENDED BY P.L.211-2023,
+37 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 5. (a) Except as provided in subsection (b), and
+39 subject to subsection (d), an individual applying for renewal of a
+40 driver's license in the form of a physical credential (issued under
+41 IC 9-24-3), or a chauffeur's or a public passenger chauffeur's license,
+42 including any endorsements in effect with respect to the license, must
+2026 IN 1200—LS 6786/DI 137
+
+10
+1 apply in person at a license branch and do the following:
+2 (1) Pass an eyesight examination.
+3 (2) Pass a written examination if:
+4 (A) the applicant has at least six (6) active points on the
+5 applicant's driving record maintained by the bureau;
+6 (B) the applicant has not reached the applicant's twenty-first
+7 birthday and has active points on the applicant's driving record
+8 maintained by the bureau; or
+9 (C) the applicant is in possession of a driver's license that is
+10 expired beyond one hundred eighty (180) days.
+11 (b) The holder of a driver's license in the form of a physical
+12 credential (issued under IC 9-24-3), a chauffeur's or a public passenger
+13 chauffeur's license, or a learner's permit issued in the form of a physical
+14 credential under IC 9-24-7 may renew the license, including any
+15 endorsements in effect with respect to the license, by mail or by
+16 electronic service, subject to the following conditions:
+17 (1) A valid computerized image of the individual must exist
+18 within the records of the bureau.
+19 (2) The previous renewal of the individual's driver's license
+20 (issued under IC 9-24-3), chauffeur's or public passenger
+21 chauffeur's license, or a learner's permit issued under IC 9-24-7
+22 must not have been by mail or by electronic service.
+23 (3) The application for or previous renewal of the individual's
+24 license or permit must have included a test of the individual's
+25 eyesight approved by the bureau.
+26 (4) If the individual were applying for the license or permit
+27 renewal in person at a license branch, the individual would not be
+28 required under subsection (a)(2) to submit to a written
+29 examination.
+30 (5) The individual must be a citizen of the United States, as
+31 shown in the records of the bureau.
+32 (6) There must not have been any change in the:
+33 (A) address; or
+34 (B) name;
+35 of the individual since the issuance or previous renewal of the
+36 individual's driver's license (issued under IC 9-24-3), chauffeur's
+37 or public passenger chauffeur's license, or a learner's permit
+38 issued under IC 9-24-7.
+39 (7) The driver's license (issued under IC 9-24-3), chauffeur's or
+40 public passenger chauffeur's license, or a learner's permit issued
+41 under IC 9-24-7 of the individual must not be:
+42 (A) suspended; or
+2026 IN 1200—LS 6786/DI 137
+
+11
+1 (B) expired more than one hundred eighty (180) days;
+2 at the time of the application for renewal.
+3 (8) If the individual is seventy-five (75) years of age or older at
+4 the time of the application for renewal, the individual must
+5 provide proof, on a form approved by the bureau, that the
+6 individual has passed an eyesight examination within thirty (30)
+7 sixty (60) days prior to the renewal application.
+8 (c) An individual applying for the renewal of a driver's license
+9 issued in the form of a physical credential (issued under IC 9-24-3), a
+10 chauffeur's license or a public passenger chauffeur's license, or a
+11 learner's permit issued in the form of a physical credential under
+12 IC 9-24-7, including any endorsements in effect with respect to the
+13 license, must apply in person at a license branch under subsection (a)
+14 if the individual is not entitled to apply by mail or by electronic service
+15 under subsection (b).
+16 (d) The bureau may not issue or renew a chauffeur's or a public
+17 passenger chauffeur's license after December 31, 2016. If a holder of
+18 a chauffeur's or a public passenger chauffeur's license applies after
+19 December 31, 2016, for renewal of the chauffeur's or public passenger
+20 chauffeur's license, the bureau shall issue to the holder a driver's
+21 license under IC 9-24-3 with a for-hire endorsement if the holder:
+22 (1) applies in a form and manner prescribed by the bureau; and
+23 (2) satisfies the requirements for renewal of a driver's license
+24 issued under IC 9-24-3, including the fee and examination
+25 requirements under this section.
+26 (e) An individual applying for the renewal of a driver's license
+27 issued in the form of a physical credential under IC 9-24-3 shall pay the
+28 following applicable fee:
+29 (1) If the individual is less than seventy-five (75) years of age,
+30 seventeen dollars and fifty cents ($17.50). The fee shall be
+31 distributed as follows:
+32 (A) Fifty cents ($0.50) to the state motor vehicle technology
+33 fund.
+34 (B) Two dollars ($2) to the crossroads 2000 fund.
+35 (C) Four dollars and fifty cents ($4.50) to the motor vehicle
+36 highway account.
+37 (D) One dollar and twenty-five cents ($1.25) to the integrated
+38 public safety communications fund.
+39 (E) Nine dollars and twenty-five cents ($9.25) to the
+40 commission fund.
+41 (2) If the individual is at least seventy-five (75) years of age and
+42 less than eighty-five (85) years of age, eleven dollars ($11). The
+2026 IN 1200—LS 6786/DI 137
+
+12
+1 fee shall be distributed as follows:
+2 (A) Fifty cents ($0.50) to the state motor vehicle technology
+3 fund.
+4 (B) One dollar and fifty cents ($1.50) to the crossroads 2000
+5 fund.
+6 (C) Three dollars ($3) to the motor vehicle highway account.
+7 (D) One dollar and twenty-five cents ($1.25) to the integrated
+8 public safety communications fund.
+9 (E) Four dollars and seventy-five cents ($4.75) to the
+10 commission fund.
+11 (3) If the individual is at least eighty-five (85) years of age, seven
+12 dollars ($7). The fee shall be distributed as follows:
+13 (A) Fifty cents ($0.50) to the state motor vehicle technology
+14 fund.
+15 (B) One dollar ($1) to the crossroads 2000 fund.
+16 (C) Two dollars ($2) to the motor vehicle highway account.
+17 (D) One dollar and twenty-five cents ($1.25) to the integrated
+18 public safety communications fund.
+19 (E) Two dollars and twenty-five cents ($2.25) to the
+20 commission fund.
+21 A fee paid under this subsection after December 31, 2016, includes the
+22 renewal of any endorsements that are in effect with respect to the
+23 driver's license issued in the form of a physical credential under
+24 IC 9-24-3 at the time of renewal.
+25 SECTION 12. IC 9-24-12-6, AS AMENDED BY P.L.141-2024,
+26 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JANUARY 1, 2027]: Sec. 6. (a) When the Indiana driver's license of
+28 an individual who is temporarily residing outside Indiana because of
+29 service in the armed forces of the United States has expired, the driver's
+30 license remains valid for ninety (90) days following the individual's
+31 discharge from service in the armed forces or postdeployment in the
+32 armed forces. date the individual is no longer temporarily residing
+33 outside Indiana because of the individual's service. To obtain a
+34 renewed driver's license, the individual must do the following:
+35 (1) Apply for a renewal of the driver's license during the ninety
+36 (90) day period following the individual's discharge or
+37 postdeployment in the armed forces. date the individual is no
+38 longer temporarily residing outside Indiana because of the
+39 individual's service.
+40 (2) Show proof of discharge from temporary residence outside
+41 of Indiana because of service in the armed forces or status as
+42 postdeployment in the armed forces to the bureau when applying
+2026 IN 1200—LS 6786/DI 137
+
+13
+1 for the renewal.
+2 An individual who held a commercial driver's license that expired
+3 during the individual's service in the armed forces may renew the
+4 commercial driver's license as if the commercial driver's license had
+5 not expired but had remained valid during the period of service in the
+6 armed forces of the United States.
+7 (b) When the Indiana driver's license of an individual who is
+8 temporarily residing outside Indiana because of the service of a spouse,
+9 parent, or guardian in the armed forces of the United States has
+10 expired, the driver's license remains valid for ninety (90) days
+11 following the discharge from service in the armed forces or end of
+12 deployment in the armed forces of date the individual's spouse, parent,
+13 or guardian is no longer temporarily residing outside Indiana
+14 because of the individual's service. To obtain a renewed driver's
+15 license, the individual must do the following:
+16 (1) Apply for a renewal of the driver's license during the ninety
+17 (90) day period following the discharge from or end of
+18 deployment in the armed forces of date the individual's spouse,
+19 parent, or guardian is no longer temporarily residing outside
+20 Indiana.
+21 (2) Show to the bureau proof of discharge or end of deployment
+22 in the armed forces of that the individual's spouse, parent, or
+23 guardian is no longer temporarily residing outside Indiana
+24 when applying for the renewal.
+25 SECTION 13. IC 9-24-16-4.5, AS AMENDED BY P.L.141-2024,
+26 SECTION 36, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JANUARY 1, 2027]: Sec. 4.5. (a) An individual may apply for a
+28 replacement identification card issued in the form of a physical
+29 credential under section 9 of this chapter, apply for a replacement
+30 identification card issued in the form of a physical credential under
+31 section 6 of this chapter, or convert a driver's license or learner's permit
+32 into an identification card under IC 9-24-14-3.5 by electronic service.
+33 An individual's renewal, amendment, or replacement of, or conversion
+34 to, an identification card issued in the form of a physical credential by
+35 electronic service is subject to the following conditions:
+36 (1) A valid computerized image or digital photograph of the
+37 individual must exist within the records of the bureau.
+38 (2) The individual must be a citizen of the United States, as
+39 shown in the records of the bureau.
+40 (3) There must not have been any change in the:
+41 (A) legal address; or
+42 (B) name;
+2026 IN 1200—LS 6786/DI 137
+
+14
+1 of the individual since the issuance or previous renewal of the
+2 identification card issued in the form of a physical credential of
+3 the individual.
+4 (4) The identification card issued in the form of a physical
+5 credential of the individual must not be expired more than one
+6 hundred eighty (180) days at the time of the application for
+7 renewal.
+8 (b) An individual applying for:
+9 (1) the renewal of an identification card; or
+10 (2) a replacement identification card;
+11 must apply in person if the individual is not entitled to apply by mail or
+12 by electronic service under subsection (a).
+13 SECTION 14. IC 9-24-16-5, AS AMENDED BY P.L.227-2025,
+14 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JANUARY 1, 2027]: Sec. 5. (a) An application for renewal of an
+16 identification card issued in the form of a physical credential may be
+17 made not more than twenty-four (24) months before the expiration date
+18 of the card issued in the form of a physical credential. However, when
+19 the applicant complies with section 3.5 of this chapter, an application
+20 for renewal of an identification card issued in the form of a physical
+21 credential may be filed not more than one (1) month thirty (30) days
+22 before the expiration date of the identification card issued in the form
+23 of a physical credential held by the applicant.
+24 (b) Except as provided in subsection (d), a renewed card issued in
+25 the form of a physical credential is valid on the birth date of the holder
+26 and remains valid for six (6) years.
+27 (c) Renewal may not be granted if the cardholder was issued a
+28 driver's license issued in the form of a physical credential subsequent
+29 to the last issuance of an identification card issued in the form of a
+30 physical credential.
+31 (d) A renewed identification card issued under this article in the
+32 form of a physical credential to an applicant who complies with section
+33 3.5 of this chapter expires:
+34 (1) at midnight one (1) year after issuance, if there is no
+35 expiration date on the authorization granted to the individual to
+36 remain in the United States; or
+37 (2) if there is an expiration date on the authorization granted to
+38 the individual to remain in the United States, the earlier of the
+39 following:
+40 (A) At midnight of the date the authorization of the holder to
+41 have lawful status as a permanent resident or conditional
+42 resident alien of the United States expires.
+2026 IN 1200—LS 6786/DI 137
+
+15
+1 (B) At midnight of the birthday of the holder that occurs six
+2 (6) years after the date of issuance.
+3 (e) An identification card expires upon the bureau receiving notice
+4 of the death of the holder or upon issuance of a subsequent physical
+5 credential.
+6 SECTION 15. An emergency is declared for this act.
+2026 IN 1200—LS 6786/DI 137
+
+[DELETED:  A t t t a e d l o a6I]
+[DELETED:  1 I 9 A A B P 1 I A T R A F6I]
+[DELETED:  ( I 9 ( a C e l ( I 9 ( C F l ( I 9 ( F E M ( A l p i u I 9 ( i 3 I 9 A A B P6I]
+[DELETED:  3 I A T R A F 1 I A T R A F ( a v t h b d " " " o a s6I]
+[DELETED:  I t a i l t e ( y o a6I]
+[DELETED:  i l a a d e i u t b w i e t a d t c a s o t d o c l a a d e i u 6 I 9 I A T T I6I]
+[DELETED:  A A N S T R A F 1 2 S 3 ( T b s a a m a m o s e c P a f o n d ( T f s b a ( f a w s  T b m w t o s t u ( f a i w h a v m6I]
+[DELETED:  A i w f t o s t u d u r a b t b u 8 I 9 A A B P t h o a p a i s w a b w6I]
+[DELETED:  a c p a a f u I m p i t a c p u p d u I 9 1 I A T R A F6I]
+[DELETED:  n m t o ( m t ( d b t6I]
+[DELETED:  T h o a d l i t f o a p u I 9 m r t l i a w T p r o t i d l u I 9 c o p p u s ( t s t a w p p c l o a l p6I]
+[DELETED:  t o t a f r t i m p o a f a b t b t t o a u I 9 i t f a e d a f c ( T f s b N d a t c ( t t6I]
+[DELETED:  F d a s c ( t t T d a t c ( t t l i i t f o a p c u d p f t i d o6I]
+[DELETED:  W t I d l o a i w i o g i t a f o t U S h t d l r v f n ( d g i n l t r o I d p f t d f o e o i c i i t f o a p6I]
+[DELETED:  T i c i i t f o a p a m o ( y a i i t i n6I]
+[DELETED: 6I]

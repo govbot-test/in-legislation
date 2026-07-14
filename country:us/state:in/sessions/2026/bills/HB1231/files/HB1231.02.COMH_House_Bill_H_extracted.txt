@@ -1,0 +1,1302 @@
+Title: HOUSE BILL No. 1231
+Official Title: HOUSE BILL No. 1231
+Number of Sections: 1
+Source: versions - House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+*HB1231.1*
+January 22, 2026
+_____
+DIGEST OF HB 1231 (Updated January 22, 2026 11:03 am - DI 150)
+Citations Affected: IC 13-11; IC 13-20.7.
+Synopsis: Battery recycling. Provides that a retailer may not sell, offer
+for sale, or distribute for sale a covered battery or battery containing
+product unless: (1) the producer joins a battery stewardship
+organization; and (2) the battery is approved under a battery
+stewardship plan. Provides that a battery stewardship organization shall
+submit a battery stewardship plan (plan) to the Indiana department of
+environmental management (department) for approval. Sets out certain
+requirements with respect to a plan. Establishes the battery stewardship
+fund to cover the department's expenses in administering this act.
+Requires the department to publish certain information regarding
+battery recycling on the department's website. Provides that a battery
+stewardship organization may recover, under certain circumstances, all
+costs associated with collecting a covered battery from the producer.
+Allows fee based and nonfee based collection and recycling programs
+to operate under certain conditions. Prohibits a person from improperly
+recycling a covered battery. Defines certain terms. Provides that a
+producer and battery stewardship organization are exempt from state
+antitrust law with respect to planning, reporting, or operating a battery
+stewardship program.
+Effective: July 1, 2026.
+Miller D, Baird, Errington,
+Hamilton
+January 5, 2026, read first time and referred to Committee on Environmental Affairs.
+January 22, 2026, amended, reported — Do Pass. Referred to Committee on Ways and
+Means pursuant to Rule 126.3.
+HB 1231—LS 6858/DI 153
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1231
+A BILL FOR AN ACT to amend the Indiana Code concerning
+environmental law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 13-11-2-17.3 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 17.3. (a) "Battery containing
+4 product", for purposes of section 171.5 of this chapter and
+5 IC 13-20.7, means a product that contains or is packaged with a
+6 covered battery.
+7 (b) The term does not include computers, small scale servers,
+8 computer monitors, electronic keyboards and mice, printers, fax
+9 machines, scanners, televisions, digital video disc players and
+10 recorders, video cassette recorders, digital converter boxes, cable
+11 receivers, satellite receivers, portable digital music players, and
+12 video game consoles.
+13 SECTION 2. IC 13-11-2-17.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 17.5. "Battery stewardship
+16 organization", for purposes of sections 31.7 and 180.3 of this
+17 chapter and IC 13-20.7, means an organization designated by a
+HB 1231—LS 6858/DI 153
+2
+1 producer to implement a battery stewardship plan approved by the
+2 department under IC 13-20.7.
+3 SECTION 3. IC 13-11-2-31.7 IS ADDED TO THE INDIANA
+4 CODE AS A NEW SECTION TO READ AS FOLLOWS
+5 [EFFECTIVE JULY 1, 2026]: Sec. 31.7. "Collection rate", for
+6 purposes of IC 13-20.7, means the percentage calculated by
+7 dividing:
+8 (1) the total weight of covered batteries collected by a battery
+9 stewardship organization in Indiana during a calendar year;
+10 by
+11 (2) the average annual weight of covered batteries estimated
+12 to have been sold by all producers in Indiana during the
+13 previous three (3) calendar years.
+14 SECTION 4. IC 13-11-2-47.3 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE JULY 1, 2026]: Sec. 47.3. "Covered battery", for
+17 purposes of this chapter and IC 13-20.7, means a portable battery
+18 or a medium format battery.
+19 SECTION 5. IC 13-11-2-128.1 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 128.1. "Medium format battery",
+22 for purposes of section 47.3 of this chapter, means a:
+23 (1) nonrechargeable battery that weighs more than four and
+24 four-tenths (4.4) pounds but less than or equal to twenty-five
+25 (25) pounds; or
+26 (2) rechargeable battery that:
+27 (A) weighs more than eleven (11) pounds or has a rating of
+28 more than three hundred (300) watt hours; and
+29 (B) weighs less than or equal to twenty-five (25) pounds
+30 and has a rating of less than or equal to two thousand
+31 (2,000) watt hours.
+32 SECTION 6. IC 13-11-2-166.7 IS ADDED TO THE INDIANA
+33 CODE AS A NEW SECTION TO READ AS FOLLOWS
+34 [EFFECTIVE JULY 1, 2026]: Sec. 166.7. "Portable battery", for
+35 purposes of section 47.3 of this chapter, means a:
+36 (1) nonrechargeable battery that weighs less than or equal to
+37 four and four-tenths (4.4) pounds; or
+38 (2) rechargeable battery that weighs less than or equal to
+39 eleven (11) pounds and has a rating of less than or equal to
+40 three hundred (300) watt hours.
+41 SECTION 7. IC 13-11-2-171.5 IS ADDED TO THE INDIANA
+42 CODE AS A NEW SECTION TO READ AS FOLLOWS
+HB 1231—LS 6858/DI 153
+3
+1 [EFFECTIVE JULY 1, 2026]: Sec. 171.5. (a) "Producer", for
+2 purposes of sections 17.5 and 31.7 of this chapter and IC 13-20.7,
+3 means the following:
+4 (1) For a covered battery, the following:
+5 (A) If the battery is sold under the brand of the battery
+6 manufacturer, the battery manufacturer.
+7 (B) If the battery is sold under a retail brand or under a
+8 brand owned by a person other than the manufacturer, the
+9 brand owner.
+10 (C) If clauses (A) and (B) are inapplicable, the licensee of
+11 a brand or trademark under which the battery is:
+12 (i) used in a commercial enterprise;
+13 (ii) sold;
+14 (iii) offered for sale; or
+15 (iv) distributed.
+16 (2) For a battery containing product, the following:
+17 (A) If the battery containing product is sold under the
+18 brand of the product manufacturer, the product
+19 manufacturer.
+20 (B) If the battery containing product is sold under a retail
+21 brand or under a brand owned by a person other than the
+22 manufacturer, the brand owner.
+23 (C) If clauses (A) and (B) are inapplicable, the licensee of
+24 a brand or trademark under which the product is:
+25 (i) used in a commercial enterprise;
+26 (ii) sold;
+27 (iii) offered for sale; or
+28 (iv) distributed.
+29 (b) The term does not include a person who would otherwise be
+30 considered a producer under subsection (a)(2) if:
+31 (1) the supplier of the battery used in the product has joined
+32 a registered battery stewardship organization with respect to
+33 the battery; and
+34 (2) the supplier provides written certification of its
+35 membership in the approved battery stewardship
+36 organization to the person who would otherwise be considered
+37 a producer under subsection (a)(2).
+38 SECTION 8. IC 13-11-2-178.3 IS ADDED TO THE INDIANA
+39 CODE AS A NEW SECTION TO READ AS FOLLOWS
+40 [EFFECTIVE JULY 1, 2026]: Sec. 178.3. "Rechargeable battery",
+41 for purposes of sections 128.1 and 166.7 of this chapter, means a
+42 battery that:
+HB 1231—LS 6858/DI 153
+4
+1 (1) contains one (1) or more voltaic or galvanic cells
+2 electrically connected to produce electric energy; and
+3 (2) is designed to be recharged.
+4 SECTION 9. IC 13-11-2-180, AS AMENDED BY P.L.54-2023,
+5 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2026]: Sec. 180. (a) "Recycling", for purposes of
+7 IC 13-20-17.5 and IC 13-21:
+8 (1) means a process by which materials that would otherwise
+9 become solid waste are:
+10 (A) collected;
+11 (B) separated or processed; and
+12 (C) converted into materials or products for reuse or sale; and
+13 (2) includes advanced recycling.
+14 (b) "Recycling", for purposes of section 179.9 of this chapter and
+15 IC 13-20.5, means the process of collecting and preparing video display
+16 devices or covered electronic devices for use in manufacturing
+17 processes or for recovery of useable materials followed by delivery of
+18 the materials for use. The term does not include the following:
+19 (1) Destruction of recyclable materials by incineration or another
+20 process.
+21 (2) Land disposal of recyclable materials.
+22 (3) Reuse, repair, or any other process through which video
+23 display devices or covered electronic devices are returned to use
+24 for covered entities in their original form.
+25 (c) "Recycling", for purposes of IC 13-20.7, means the process
+26 of collecting and preparing a covered battery for:
+27 (1) use in a manufacturing process; or
+28 (2) the recovery and delivery of usable materials.
+29 However, the term does not include the destruction of a covered
+30 battery, land disposal of recyclable materials, or any process by
+31 which a covered battery is returned to its original form such as a
+32 repair.
+33 SECTION 10. IC 13-11-2-180.3 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 180.3. "Recycling efficiency
+36 rate", for purposes of IC 13-20.7, means the percentage calculated
+37 by dividing:
+38 (1) the weight of components and materials recycled by a
+39 battery stewardship organization; by
+40 (2) the weight of covered batteries collected by the battery
+41 stewardship organization.
+42 SECTION 11. IC 13-11-2-194, AS AMENDED BY P.L.176-2023,
+HB 1231—LS 6858/DI 153
+5
+1 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 194. (a) "Retailer", for purposes of IC 13-20-14,
+3 means a person engaged in the business of selling new tires at retail in
+4 Indiana.
+5 (b) "Retailer", for purposes of IC 13-20-16, means a person engaged
+6 in the business of selling lead acid batteries at retail in Indiana.
+7 (c) "Retailer", for purposes of section 195.7 of this chapter and
+8 IC 13-20.5, means a person that sells, rents, or leases, through sales
+9 outlets, catalogs, or the Internet, a video display device to a covered
+10 entity and not for resale in any form.
+11 (d) "Retailer", for purposes of IC 13-20.7, means a person that:
+12 (1) sells;
+13 (2) offers for sale; or
+14 (3) distributes;
+15 a covered battery.
+16 (d) (e) "Retailer", for purposes of section 0.4 of this chapter and
+17 IC 13-23, means a person who purchases motor fuel for sale to the
+18 general public for ultimate consumption.
+19 SECTION 12. IC 13-20.7 IS ADDED TO THE INDIANA CODE
+20 AS A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY
+21 1, 2026]:
+22 ARTICLE 20.7. RECYCLING OF BATTERIES
+23 Chapter 1. Applicability
+24 Sec. 1. Except as provided in IC 13-20.7-5-2, this article does not
+25 apply to:
+26 (1) a covered battery regulated by IC 13-20-16, except that
+27 this article does apply to a covered battery:
+28 (A) that:
+29 (i) contains lead and sulfuric acid; and
+30 (ii) has nominal voltage of at least six (6) volts; and
+31 (B) that is used in a motorized toy;
+32 (2) a covered battery contained within a device, as defined in
+33 21 U.S.C. 321(h), that is not designed and marketed for sale or
+34 resale principally to consumers for personal use;
+35 (3) a covered battery that is:
+36 (A) in a product; and
+37 (B) not designed to be easily removable from the product;
+38 (4) a covered battery that contains an electrolyte as a free
+39 liquid;
+40 (5) a covered battery designed to power a motor vehicle, in
+41 whole or part, or a component of a motor vehicle;
+42 (6) a covered battery or battery containing product or that
+HB 1231—LS 6858/DI 153
+6
+1 has been recalled for safety reasons; or
+2 (7) a covered battery that is a part of a utility scale battery
+3 energy storage system (as defined in IC 22-14-8-3).
+4 Chapter 2. Requirements
+5 Sec. 1. Beginning January 1, 2030, a retailer may not sell, offer
+6 for sale, or distribute for sale a covered battery or battery
+7 containing product unless:
+8 (1) the producer has joined a battery stewardship
+9 organization; and
+10 (2) the battery is approved under a battery stewardship plan
+11 described in this article.
+12 Sec. 2. (a) This section applies to a covered battery that:
+13 (1) is greater than or equal to one-half (1/2) inch in diameter;
+14 or
+15 (2) contains a surface with a length that exceeds one-half (1/2)
+16 inch.
+17 (b) Except as provided in subsection (c), beginning January 1,
+18 2030, a covered battery or battery in a battery containing product
+19 must include the following on the battery:
+20 (1) The identity of the producer.
+21 (2) The chemistry of the battery.
+22 (3) A disclaimer that the battery should not be disposed of as
+23 ordinary waste.
+24 (c) If a covered battery can fit entirely, in any orientation, into
+25 the small parts cylinder described in 16 CFR 1501.4, the marks
+26 described in subsection (b)(1) and (b)(3) must be placed on the
+27 packaging of the covered battery.
+28 Chapter 3. Battery Stewardship Plans
+29 Sec. 1. A battery stewardship organization shall submit to the
+30 department a battery stewardship plan focused on improving the
+31 quantity and effectiveness of recycling.
+32 Sec. 2. A battery stewardship plan must include the following:
+33 (1) A list of each:
+34 (A) producer; and
+35 (B) brand of covered battery;
+36 intended to be covered by the battery stewardship plan.
+37 (2) A list of each collection site intended to be used as part of
+38 the battery stewardship plan.
+39 (3) A performance plan that includes:
+40 (A) collection rate goals;
+41 (B) recycling efficiency rate goals; and
+42 (C) education and safety standards, including collection
+HB 1231—LS 6858/DI 153
+7
+1 site safety training procedures related to covered battery
+2 collection activities at collection sites, such as appropriate
+3 protocols to reduce risks of spills or fires and response
+4 protocols in the event of a spill or fire, and a protocol for
+5 safe management of damaged batteries that are returned
+6 to collection sites;
+7 with respect to covered batteries intended to be covered by
+8 the battery stewardship plan.
+9 (4) A financial plan that fully funds compliance with this
+10 article without shifting costs to consumers and that
+11 reimburses units of local government for collecting covered
+12 batteries.
+13 (5) Any other information required by the department.
+14 Sec. 3. The department shall approve or deny a battery
+15 stewardship plan not later than one hundred twenty (120) days
+16 after a plan is submitted.
+17 Sec. 4. The department shall notify a battery stewardship
+18 organization in writing of a denial, including the reason for the
+19 denial.
+20 Sec. 5. If a battery stewardship organization intends to
+21 materially change an approved plan, the battery stewardship
+22 organization shall submit an amendment to the department for
+23 approval. An amendment is subject to the same procedures
+24 described in sections 3 and 4 of this chapter.
+25 Sec. 6. An updated battery stewardship plan must be submitted
+26 to the department every five (5) years after an initial plan is
+27 approved by the department unless the battery stewardship
+28 organization files a notice with the department of the
+29 organization's intent to disband.
+30 Sec. 7. The department shall impose the following fees:
+31 (1) A review fee of ten thousand dollars ($10,000) the first
+32 time a battery stewardship organization submits its plan to
+33 the department for approval.
+34 (2) An annual fee sufficient to cover the costs of the
+35 department in administering this article, as determined by the
+36 department, for each approved battery stewardship
+37 organization.
+38 Sec. 8. A person may not charge a fee to a consumer to defray
+39 the costs of implementing a battery stewardship plan under this
+40 chapter.
+41 Sec. 9. (a) A battery stewardship organization that has:
+42 (1) submitted an approved battery stewardship plan; and
+HB 1231—LS 6858/DI 153
+8
+1 (2) not filed a notice described in section 6 of this chapter;
+2 shall submit an annual progress report to the department.
+3 (b) The department shall provide standards for the contents of
+4 progress reports described in subsection (a).
+5 Chapter 4. Battery Stewardship Fund
+6 Sec. 1. (a) The battery stewardship fund is established.
+7 (b) The expenses of administering the fund shall be paid from
+8 the money in the fund.
+9 (c) The treasurer of state shall invest the money in the fund not
+10 currently needed to meet the obligations of the fund in the same
+11 manner as other public money may be invested. Interest that
+12 accrues from these investments shall be deposited in the fund.
+13 (d) Money in the fund at the end of a state fiscal year does not
+14 revert to the state general fund.
+15 (e) The sources of money for the fund are the following:
+16 (1) Annual fees paid under IC 13-20.7-3-7.
+17 (2) Appropriations made by the general assembly, gifts, and
+18 donations intended for deposit in the fund.
+19 (f) The commissioner shall use money in the fund to pay the
+20 expenses of administering this article.
+21 Chapter 5. Miscellaneous Provisions
+22 Sec. 1. The department shall publish the following on the
+23 department's website:
+24 (1) A copy of each active battery stewardship plan approved
+25 by the department under this article, including any
+26 amendments.
+27 (2) The name of each producer covered by a battery
+28 stewardship plan approved by the department under this
+29 article.
+30 (3) The name of each brand of covered batteries covered by a
+31 battery stewardship plan approved by the department under
+32 this article.
+33 (4) A copy of each annual progress report submitted to the
+34 department under IC 13-20.7-3-9.
+35 Sec. 2. (a) A battery stewardship organization:
+36 (1) shall provide for the collection of loose covered batteries;
+37 and
+38 (2) may, but is not required to, provide for the collection of:
+39 (A) battery containing products; or
+40 (B) covered batteries or battery containing products
+41 recalled for safety reasons.
+42 (b) If a battery stewardship organization collects a covered
+HB 1231—LS 6858/DI 153
+9
+1 battery or battery containing product described in subsection
+2 (a)(2)(B), the battery stewardship organization may recover all
+3 costs incurred in collecting, transporting, and processing the
+4 covered battery or battery containing product from the producer.
+5 Sec. 3. (a) A person may operate a fee based collection and
+6 recycling program that collects covered batteries independently of
+7 a battery stewardship organization or a similar program that is not
+8 fee based for government sites if the following conditions are met:
+9 (1) The person accepts all covered batteries.
+10 (2) The person receives no compensation from a battery
+11 stewardship organization with respect to the covered
+12 batteries, unless the battery stewardship organization has an
+13 agreement with the person.
+14 (3) The person provides the following information to the
+15 department on an annual basis, as established by the
+16 department, with respect to each covered battery collected by
+17 the person:
+18 (A) The weight, by chemistry, of covered batteries
+19 collected.
+20 (B) The weight of materials recovered from covered
+21 batteries collected, in total and by method of battery
+22 recycling.
+23 (C) The percentage calculated by dividing:
+24 (i) the weight of components and materials recycled by
+25 the person; by
+26 (ii) the weight of covered batteries collected by the
+27 person;
+28 for each recycling process.
+29 (D) A description of how each facility used for the final
+30 disposition of covered batteries, whether recycled or
+31 otherwise, managed the batteries and battery components.
+32 (E) The weight and chemistry of covered batteries sent to
+33 each facility that is used for final disposition of the
+34 batteries.
+35 (b) If a battery stewardship organization's performance goals
+36 would be impacted by the information provided under subsection
+37 (a)(3), the department shall:
+38 (1) consider the information when calculating the recycling
+39 efficiency rate for the battery stewardship organization; and
+40 (2) provide the information to the battery stewardship
+41 organization.
+42 Sec. 4. Beginning January 1, 2029, a person may not knowingly
+HB 1231—LS 6858/DI 153
+10
+1 cause or allow:
+2 (1) the placing of a covered battery into a container intended
+3 for collection and disposal at a facility that is not authorized
+4 under IC 13-22 or federal law for operation as a hazardous
+5 waste facility; or
+6 (2) the disposal of a covered battery in a facility that is not
+7 authorized under IC 13-22 or federal law for operation as a
+8 hazardous waste facility.
+9 Sec. 5. (a) A person that violates section 4 of this chapter is not
+10 subject to:
+11 (1) a criminal or civil action or penalty; or
+12 (2) any other sanction;
+13 under this title or any other state law.
+14 (b) A violation of this chapter does not create a cause of action.
+15 Sec. 6. A producer and battery stewardship organization are
+16 exempt from the provisions of IC 24-1 with respect to planning,
+17 reporting, or operating a battery stewardship program, including:
+18 (1) the creation, implementation, or management of a battery
+19 stewardship organization and any battery stewardship plan,
+20 regardless of whether it is submitted, denied, or approved;
+21 (2) the determination of the cost and structure of a battery
+22 stewardship plan; and
+23 (3) the types or quantities of batteries being recycled or
+24 otherwise managed under this article.
+25 Sec. 7. The department may adopt rules under IC 4-22-2 and
+26 IC 13-14-9 to implement this article.
+HB 1231—LS 6858/DI 153
+11
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Environmental Affairs, to which
+was referred House Bill 1231, has had the same under consideration
+and begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 13-11-2-17.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 17.3. (a) "Battery containing
+product", for purposes of section 171.5 of this chapter and
+IC 13-20.7, means a product that contains or is packaged with a
+covered battery.
+(b) The term does not include computers, small scale servers,
+computer monitors, electronic keyboards and mice, printers, fax
+machines, scanners, televisions, digital video disc players and
+recorders, video cassette recorders, digital converter boxes, cable
+receivers, satellite receivers, portable digital music players, and
+video game consoles.".
+Page 2, line 31, after "Sec. 171.5." insert "(a)".
+Page 2, line 32, delete "a".
+Page 2, delete line 33 and insert "the following:
+(1) For a covered battery, the following:
+(A) If the battery is sold under the brand of the battery
+manufacturer, the battery manufacturer.
+(B) If the battery is sold under a retail brand or under a
+brand owned by a person other than the manufacturer, the
+brand owner.
+(C) If clauses (A) and (B) are inapplicable, the licensee of
+a brand or trademark under which the battery is:
+(i) used in a commercial enterprise;
+(ii) sold;
+(iii) offered for sale; or
+(iv) distributed.
+(2) For a battery containing product, the following:
+(A) If the battery containing product is sold under the
+brand of the product manufacturer, the product
+manufacturer.
+(B) If the battery containing product is sold under a retail
+brand or under a brand owned by a person other than the
+manufacturer, the brand owner.
+(C) If clauses (A) and (B) are inapplicable, the licensee of
+HB 1231—LS 6858/DI 153
+12
+a brand or trademark under which the product is:
+(i) used in a commercial enterprise;
+(ii) sold;
+(iii) offered for sale; or
+(iv) distributed.
+(b) The term does not include a person who would otherwise be
+considered a producer under subsection (a)(2) if:
+(1) the supplier of the battery used in the product has joined
+a registered battery stewardship organization with respect to
+the battery; and
+(2) the supplier provides written certification of its
+membership in the approved battery stewardship
+organization to the person who would otherwise be considered
+a producer under subsection (a)(2).".
+Page 4, delete lines 21 through 30 and insert "apply to:
+(1) a covered battery regulated by IC 13-20-16, except that
+this article does apply to a covered battery:
+(A) that:
+(i) contains lead and sulfuric acid; and
+(ii) has nominal voltage of at least six (6) volts; and
+(B) that is used in a motorized toy;
+(2) a covered battery contained within a device, as defined in
+21 U.S.C. 321(h), that is not designed and marketed for sale or
+resale principally to consumers for personal use;
+(3) a covered battery that is:
+(A) in a product; and
+(B) not designed to be easily removable from the product;
+(4) a covered battery that contains an electrolyte as a free
+liquid;
+(5) a covered battery designed to power a motor vehicle, in
+whole or part, or a component of a motor vehicle;
+(6) a covered battery or battery containing product or that
+has been recalled for safety reasons; or
+(7) a covered battery that is a part of a utility scale battery
+energy storage system (as defined in IC 22-14-8-3).".
+Page 4, line 33, after "covered battery" insert "or battery
+containing product".
+Page 5, line 2, after "covered battery" insert "or battery in a
+battery containing product".
+Page 5, line 20, delete "and producer".
+Page 5, line 25, delete "standards;" and insert "standards, including
+collection site safety training procedures related to covered battery
+HB 1231—LS 6858/DI 153
+13
+collection activities at collection sites, such as appropriate
+protocols to reduce risks of spills or fires and response protocols in
+the event of a spill or fire, and a protocol for safe management of
+damaged batteries that are returned to collection sites;".
+Page 5, line 29, delete "consumers." and insert "consumers and
+that reimburses units of local government for collecting covered
+batteries.".
+Page 6, delete lines 5 through 9, begin a new paragraph and insert:
+"Sec. 7. The department shall impose the following fees:
+(1) A review fee of ten thousand dollars ($10,000) the first
+time a battery stewardship organization submits its plan to
+the department for approval.
+(2) An annual fee sufficient to cover the costs of the
+department in administering this article, as determined by the
+department, for each approved battery stewardship
+organization.".
+Page 7, delete lines 7 through 27, begin a new paragraph and insert:
+"Sec. 2. (a) A battery stewardship organization:
+(1) shall provide for the collection of loose covered batteries;
+and
+(2) may, but is not required to, provide for the collection of:
+(A) battery containing products; or
+(B) covered batteries or battery containing products
+recalled for safety reasons.
+(b) If a battery stewardship organization collects a covered
+battery or battery containing product described in subsection
+(a)(2)(B), the battery stewardship organization may recover all
+costs incurred in collecting, transporting, and processing the
+covered battery or battery containing product from the producer.
+Sec. 3. (a) A person may operate a fee based collection and
+recycling program that collects covered batteries independently of
+a battery stewardship organization or a similar program that is not
+fee based for government sites if the following conditions are met:
+(1) The person accepts all covered batteries.
+(2) The person receives no compensation from a battery
+stewardship organization with respect to the covered
+batteries, unless the battery stewardship organization has an
+agreement with the person.
+(3) The person provides the following information to the
+department on an annual basis, as established by the
+department, with respect to each covered battery collected by
+the person:
+HB 1231—LS 6858/DI 153
+14
+(A) The weight, by chemistry, of covered batteries
+collected.
+(B) The weight of materials recovered from covered
+batteries collected, in total and by method of battery
+recycling.
+(C) The percentage calculated by dividing:
+(i) the weight of components and materials recycled by
+the person; by
+(ii) the weight of covered batteries collected by the
+person;
+for each recycling process.
+(D) A description of how each facility used for the final
+disposition of covered batteries, whether recycled or
+otherwise, managed the batteries and battery components.
+(E) The weight and chemistry of covered batteries sent to
+each facility that is used for final disposition of the
+batteries.
+(b) If a battery stewardship organization's performance goals
+would be impacted by the information provided under subsection
+(a)(3), the department shall:
+(1) consider the information when calculating the recycling
+efficiency rate for the battery stewardship organization; and
+(2) provide the information to the battery stewardship
+organization.".
+Page 7, after line 42, begin a new paragraph and insert:
+"Sec. 6. A producer and battery stewardship organization are
+exempt from the provisions of IC 24-1 with respect to planning,
+reporting, or operating a battery stewardship program, including:
+(1) the creation, implementation, or management of a battery
+stewardship organization and any battery stewardship plan,
+regardless of whether it is submitted, denied, or approved;
+(2) the determination of the cost and structure of a battery
+stewardship plan; and
+(3) the types or quantities of batteries being recycled or
+otherwise managed under this article.".
+Page 8, line 1, delete "Sec. 6." and insert "Sec. 7.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1231 as introduced.)
+BAIRD
+HB 1231—LS 6858/DI 153
+15
+Committee Vote: yeas 11, nays 0.
+HB 1231—LS 6858/DI 153
+[DELETED:  u ( t p j a b s a ( t b i a u a b t d t p c i r]
+[DELETED:  A A N S T R A F f p o s 1 o t c a s t d v d p a A A N S T R A F J 1 2 S 1 " s f p o s 3 a 1 o t]
+[DELETED:  A A N S T R A F J 1 2 S 3 " r f o I 1 m t p c b A A N S T R A F A A N S T R A F A A N S T R A F A A N S T R A F]
+[DELETED:  J 1 2 S 1 ( " f o t p m t p t s p w c o i i t a b s A A N S T R A F]
+[DELETED:  c o ( o m v o g c 1 2 S 1 ( " f p o o c e d f u i m R r o a p t w v A A N S T R A F J 1 2 S 1 " e]
+[DELETED:  s o d f s a c b o b t p h j a b s]
+[DELETED:  w s c t c a t 3 T d s a o d a b 4 T d s n a b s 5 I a b s o i t c a a p t b s A a i s t t s p t d e f ( y i p i b t d u t b s f a n w t d o t A a f s t c t c o t f e a b s]
+[DELETED:  a o p m m b i I 1 T d s p t f o t t d u t a i a T n o e p c b a b c b o b c p]
+[DELETED:  o b c p d i s i i c t a p t T p r n c f a b o w r t t c T p p t f i t t o a a b a e b t T w b c o c b T w o m r f c c i t a b m o b t w o c b c b t o c b w r o f t i u f f d o t p t i t t b s]
+[DELETED:  t t o q o b b r o]
+[DELETED:  b l t r t s b t t H w t 1 b t e c a l 1 b a n A A N S T R A F f p o s 1 o t c a s t d v d p a o t p m t p]
+[DELETED:  t s p w c o i i t a b s 4 l 3 a " b i " b "]
+[DELETED:  a a c s s a a A a f s t c t c o t f e a b s c b o b c p o b c p d i s i i c t a p t T p r n c f a b o w r t t c T p p t f i t t o a a b a e b t]
+[DELETED:  T w b c o c b T w o m r f c c i t a b m o b t w o c b c b t o c b w r o f t i u f f d o t p t i t t b s t t o q o b b r o]
+
+
+================================================================================
+
+Raw Text:
+*HB1231.1*
+January 22, 2026
+HOUSE BILL No. 1231
+_____
+DIGEST OF HB 1231 (Updated January 22, 2026 11:03 am - DI 150)
+Citations Affected: IC 13-11; IC 13-20.7.
+Synopsis: Battery recycling. Provides that a retailer may not sell, offer
+for sale, or distribute for sale a covered battery or battery containing
+product unless: (1) the producer joins a battery stewardship
+organization; and (2) the battery is approved under a battery
+stewardship plan. Provides that a battery stewardship organization shall
+submit a battery stewardship plan (plan) to the Indiana department of
+environmental management (department) for approval. Sets out certain
+requirements with respect to a plan. Establishes the battery stewardship
+fund to cover the department's expenses in administering this act.
+Requires the department to publish certain information regarding
+battery recycling on the department's website. Provides that a battery
+stewardship organization may recover, under certain circumstances, all
+costs associated with collecting a covered battery from the producer.
+Allows fee based and nonfee based collection and recycling programs
+to operate under certain conditions. Prohibits a person from improperly
+recycling a covered battery. Defines certain terms. Provides that a
+producer and battery stewardship organization are exempt from state
+antitrust law with respect to planning, reporting, or operating a battery
+stewardship program.
+Effective: July 1, 2026.
+Miller D, Baird, Errington,
+Hamilton
+January 5, 2026, read first time and referred to Committee on Environmental Affairs.
+January 22, 2026, amended, reported — Do Pass. Referred to Committee on Ways and
+Means pursuant to Rule 126.3.
+HB 1231—LS 6858/DI 153
+
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1231
+A BILL FOR AN ACT to amend the Indiana Code concerning
+environmental law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 13-11-2-17.3 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 17.3. (a) "Battery containing
+4 product", for purposes of section 171.5 of this chapter and
+5 IC 13-20.7, means a product that contains or is packaged with a
+6 covered battery.
+7 (b) The term does not include computers, small scale servers,
+8 computer monitors, electronic keyboards and mice, printers, fax
+9 machines, scanners, televisions, digital video disc players and
+10 recorders, video cassette recorders, digital converter boxes, cable
+11 receivers, satellite receivers, portable digital music players, and
+12 video game consoles.
+13 SECTION 2. IC 13-11-2-17.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 17.5. "Battery stewardship
+16 organization", for purposes of sections 31.7 and 180.3 of this
+17 chapter and IC 13-20.7, means an organization designated by a
+HB 1231—LS 6858/DI 153
+
+2
+1 producer to implement a battery stewardship plan approved by the
+2 department under IC 13-20.7.
+3 SECTION 3. IC 13-11-2-31.7 IS ADDED TO THE INDIANA
+4 CODE AS A NEW SECTION TO READ AS FOLLOWS
+5 [EFFECTIVE JULY 1, 2026]: Sec. 31.7. "Collection rate", for
+6 purposes of IC 13-20.7, means the percentage calculated by
+7 dividing:
+8 (1) the total weight of covered batteries collected by a battery
+9 stewardship organization in Indiana during a calendar year;
+10 by
+11 (2) the average annual weight of covered batteries estimated
+12 to have been sold by all producers in Indiana during the
+13 previous three (3) calendar years.
+14 SECTION 4. IC 13-11-2-47.3 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE JULY 1, 2026]: Sec. 47.3. "Covered battery", for
+17 purposes of this chapter and IC 13-20.7, means a portable battery
+18 or a medium format battery.
+19 SECTION 5. IC 13-11-2-128.1 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 128.1. "Medium format battery",
+22 for purposes of section 47.3 of this chapter, means a:
+23 (1) nonrechargeable battery that weighs more than four and
+24 four-tenths (4.4) pounds but less than or equal to twenty-five
+25 (25) pounds; or
+26 (2) rechargeable battery that:
+27 (A) weighs more than eleven (11) pounds or has a rating of
+28 more than three hundred (300) watt hours; and
+29 (B) weighs less than or equal to twenty-five (25) pounds
+30 and has a rating of less than or equal to two thousand
+31 (2,000) watt hours.
+32 SECTION 6. IC 13-11-2-166.7 IS ADDED TO THE INDIANA
+33 CODE AS A NEW SECTION TO READ AS FOLLOWS
+34 [EFFECTIVE JULY 1, 2026]: Sec. 166.7. "Portable battery", for
+35 purposes of section 47.3 of this chapter, means a:
+36 (1) nonrechargeable battery that weighs less than or equal to
+37 four and four-tenths (4.4) pounds; or
+38 (2) rechargeable battery that weighs less than or equal to
+39 eleven (11) pounds and has a rating of less than or equal to
+40 three hundred (300) watt hours.
+41 SECTION 7. IC 13-11-2-171.5 IS ADDED TO THE INDIANA
+42 CODE AS A NEW SECTION TO READ AS FOLLOWS
+HB 1231—LS 6858/DI 153
+
+3
+1 [EFFECTIVE JULY 1, 2026]: Sec. 171.5. (a) "Producer", for
+2 purposes of sections 17.5 and 31.7 of this chapter and IC 13-20.7,
+3 means the following:
+4 (1) For a covered battery, the following:
+5 (A) If the battery is sold under the brand of the battery
+6 manufacturer, the battery manufacturer.
+7 (B) If the battery is sold under a retail brand or under a
+8 brand owned by a person other than the manufacturer, the
+9 brand owner.
+10 (C) If clauses (A) and (B) are inapplicable, the licensee of
+11 a brand or trademark under which the battery is:
+12 (i) used in a commercial enterprise;
+13 (ii) sold;
+14 (iii) offered for sale; or
+15 (iv) distributed.
+16 (2) For a battery containing product, the following:
+17 (A) If the battery containing product is sold under the
+18 brand of the product manufacturer, the product
+19 manufacturer.
+20 (B) If the battery containing product is sold under a retail
+21 brand or under a brand owned by a person other than the
+22 manufacturer, the brand owner.
+23 (C) If clauses (A) and (B) are inapplicable, the licensee of
+24 a brand or trademark under which the product is:
+25 (i) used in a commercial enterprise;
+26 (ii) sold;
+27 (iii) offered for sale; or
+28 (iv) distributed.
+29 (b) The term does not include a person who would otherwise be
+30 considered a producer under subsection (a)(2) if:
+31 (1) the supplier of the battery used in the product has joined
+32 a registered battery stewardship organization with respect to
+33 the battery; and
+34 (2) the supplier provides written certification of its
+35 membership in the approved battery stewardship
+36 organization to the person who would otherwise be considered
+37 a producer under subsection (a)(2).
+38 SECTION 8. IC 13-11-2-178.3 IS ADDED TO THE INDIANA
+39 CODE AS A NEW SECTION TO READ AS FOLLOWS
+40 [EFFECTIVE JULY 1, 2026]: Sec. 178.3. "Rechargeable battery",
+41 for purposes of sections 128.1 and 166.7 of this chapter, means a
+42 battery that:
+HB 1231—LS 6858/DI 153
+
+4
+1 (1) contains one (1) or more voltaic or galvanic cells
+2 electrically connected to produce electric energy; and
+3 (2) is designed to be recharged.
+4 SECTION 9. IC 13-11-2-180, AS AMENDED BY P.L.54-2023,
+5 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2026]: Sec. 180. (a) "Recycling", for purposes of
+7 IC 13-20-17.5 and IC 13-21:
+8 (1) means a process by which materials that would otherwise
+9 become solid waste are:
+10 (A) collected;
+11 (B) separated or processed; and
+12 (C) converted into materials or products for reuse or sale; and
+13 (2) includes advanced recycling.
+14 (b) "Recycling", for purposes of section 179.9 of this chapter and
+15 IC 13-20.5, means the process of collecting and preparing video display
+16 devices or covered electronic devices for use in manufacturing
+17 processes or for recovery of useable materials followed by delivery of
+18 the materials for use. The term does not include the following:
+19 (1) Destruction of recyclable materials by incineration or another
+20 process.
+21 (2) Land disposal of recyclable materials.
+22 (3) Reuse, repair, or any other process through which video
+23 display devices or covered electronic devices are returned to use
+24 for covered entities in their original form.
+25 (c) "Recycling", for purposes of IC 13-20.7, means the process
+26 of collecting and preparing a covered battery for:
+27 (1) use in a manufacturing process; or
+28 (2) the recovery and delivery of usable materials.
+29 However, the term does not include the destruction of a covered
+30 battery, land disposal of recyclable materials, or any process by
+31 which a covered battery is returned to its original form such as a
+32 repair.
+33 SECTION 10. IC 13-11-2-180.3 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 180.3. "Recycling efficiency
+36 rate", for purposes of IC 13-20.7, means the percentage calculated
+37 by dividing:
+38 (1) the weight of components and materials recycled by a
+39 battery stewardship organization; by
+40 (2) the weight of covered batteries collected by the battery
+41 stewardship organization.
+42 SECTION 11. IC 13-11-2-194, AS AMENDED BY P.L.176-2023,
+HB 1231—LS 6858/DI 153
+
+5
+1 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 194. (a) "Retailer", for purposes of IC 13-20-14,
+3 means a person engaged in the business of selling new tires at retail in
+4 Indiana.
+5 (b) "Retailer", for purposes of IC 13-20-16, means a person engaged
+6 in the business of selling lead acid batteries at retail in Indiana.
+7 (c) "Retailer", for purposes of section 195.7 of this chapter and
+8 IC 13-20.5, means a person that sells, rents, or leases, through sales
+9 outlets, catalogs, or the Internet, a video display device to a covered
+10 entity and not for resale in any form.
+11 (d) "Retailer", for purposes of IC 13-20.7, means a person that:
+12 (1) sells;
+13 (2) offers for sale; or
+14 (3) distributes;
+15 a covered battery.
+16 (d) (e) "Retailer", for purposes of section 0.4 of this chapter and
+17 IC 13-23, means a person who purchases motor fuel for sale to the
+18 general public for ultimate consumption.
+19 SECTION 12. IC 13-20.7 IS ADDED TO THE INDIANA CODE
+20 AS A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY
+21 1, 2026]:
+22 ARTICLE 20.7. RECYCLING OF BATTERIES
+23 Chapter 1. Applicability
+24 Sec. 1. Except as provided in IC 13-20.7-5-2, this article does not
+25 apply to:
+26 (1) a covered battery regulated by IC 13-20-16, except that
+27 this article does apply to a covered battery:
+28 (A) that:
+29 (i) contains lead and sulfuric acid; and
+30 (ii) has nominal voltage of at least six (6) volts; and
+31 (B) that is used in a motorized toy;
+32 (2) a covered battery contained within a device, as defined in
+33 21 U.S.C. 321(h), that is not designed and marketed for sale or
+34 resale principally to consumers for personal use;
+35 (3) a covered battery that is:
+36 (A) in a product; and
+37 (B) not designed to be easily removable from the product;
+38 (4) a covered battery that contains an electrolyte as a free
+39 liquid;
+40 (5) a covered battery designed to power a motor vehicle, in
+41 whole or part, or a component of a motor vehicle;
+42 (6) a covered battery or battery containing product or that
+HB 1231—LS 6858/DI 153
+
+6
+1 has been recalled for safety reasons; or
+2 (7) a covered battery that is a part of a utility scale battery
+3 energy storage system (as defined in IC 22-14-8-3).
+4 Chapter 2. Requirements
+5 Sec. 1. Beginning January 1, 2030, a retailer may not sell, offer
+6 for sale, or distribute for sale a covered battery or battery
+7 containing product unless:
+8 (1) the producer has joined a battery stewardship
+9 organization; and
+10 (2) the battery is approved under a battery stewardship plan
+11 described in this article.
+12 Sec. 2. (a) This section applies to a covered battery that:
+13 (1) is greater than or equal to one-half (1/2) inch in diameter;
+14 or
+15 (2) contains a surface with a length that exceeds one-half (1/2)
+16 inch.
+17 (b) Except as provided in subsection (c), beginning January 1,
+18 2030, a covered battery or battery in a battery containing product
+19 must include the following on the battery:
+20 (1) The identity of the producer.
+21 (2) The chemistry of the battery.
+22 (3) A disclaimer that the battery should not be disposed of as
+23 ordinary waste.
+24 (c) If a covered battery can fit entirely, in any orientation, into
+25 the small parts cylinder described in 16 CFR 1501.4, the marks
+26 described in subsection (b)(1) and (b)(3) must be placed on the
+27 packaging of the covered battery.
+28 Chapter 3. Battery Stewardship Plans
+29 Sec. 1. A battery stewardship organization shall submit to the
+30 department a battery stewardship plan focused on improving the
+31 quantity and effectiveness of recycling.
+32 Sec. 2. A battery stewardship plan must include the following:
+33 (1) A list of each:
+34 (A) producer; and
+35 (B) brand of covered battery;
+36 intended to be covered by the battery stewardship plan.
+37 (2) A list of each collection site intended to be used as part of
+38 the battery stewardship plan.
+39 (3) A performance plan that includes:
+40 (A) collection rate goals;
+41 (B) recycling efficiency rate goals; and
+42 (C) education and safety standards, including collection
+HB 1231—LS 6858/DI 153
+
+7
+1 site safety training procedures related to covered battery
+2 collection activities at collection sites, such as appropriate
+3 protocols to reduce risks of spills or fires and response
+4 protocols in the event of a spill or fire, and a protocol for
+5 safe management of damaged batteries that are returned
+6 to collection sites;
+7 with respect to covered batteries intended to be covered by
+8 the battery stewardship plan.
+9 (4) A financial plan that fully funds compliance with this
+10 article without shifting costs to consumers and that
+11 reimburses units of local government for collecting covered
+12 batteries.
+13 (5) Any other information required by the department.
+14 Sec. 3. The department shall approve or deny a battery
+15 stewardship plan not later than one hundred twenty (120) days
+16 after a plan is submitted.
+17 Sec. 4. The department shall notify a battery stewardship
+18 organization in writing of a denial, including the reason for the
+19 denial.
+20 Sec. 5. If a battery stewardship organization intends to
+21 materially change an approved plan, the battery stewardship
+22 organization shall submit an amendment to the department for
+23 approval. An amendment is subject to the same procedures
+24 described in sections 3 and 4 of this chapter.
+25 Sec. 6. An updated battery stewardship plan must be submitted
+26 to the department every five (5) years after an initial plan is
+27 approved by the department unless the battery stewardship
+28 organization files a notice with the department of the
+29 organization's intent to disband.
+30 Sec. 7. The department shall impose the following fees:
+31 (1) A review fee of ten thousand dollars ($10,000) the first
+32 time a battery stewardship organization submits its plan to
+33 the department for approval.
+34 (2) An annual fee sufficient to cover the costs of the
+35 department in administering this article, as determined by the
+36 department, for each approved battery stewardship
+37 organization.
+38 Sec. 8. A person may not charge a fee to a consumer to defray
+39 the costs of implementing a battery stewardship plan under this
+40 chapter.
+41 Sec. 9. (a) A battery stewardship organization that has:
+42 (1) submitted an approved battery stewardship plan; and
+HB 1231—LS 6858/DI 153
+
+8
+1 (2) not filed a notice described in section 6 of this chapter;
+2 shall submit an annual progress report to the department.
+3 (b) The department shall provide standards for the contents of
+4 progress reports described in subsection (a).
+5 Chapter 4. Battery Stewardship Fund
+6 Sec. 1. (a) The battery stewardship fund is established.
+7 (b) The expenses of administering the fund shall be paid from
+8 the money in the fund.
+9 (c) The treasurer of state shall invest the money in the fund not
+10 currently needed to meet the obligations of the fund in the same
+11 manner as other public money may be invested. Interest that
+12 accrues from these investments shall be deposited in the fund.
+13 (d) Money in the fund at the end of a state fiscal year does not
+14 revert to the state general fund.
+15 (e) The sources of money for the fund are the following:
+16 (1) Annual fees paid under IC 13-20.7-3-7.
+17 (2) Appropriations made by the general assembly, gifts, and
+18 donations intended for deposit in the fund.
+19 (f) The commissioner shall use money in the fund to pay the
+20 expenses of administering this article.
+21 Chapter 5. Miscellaneous Provisions
+22 Sec. 1. The department shall publish the following on the
+23 department's website:
+24 (1) A copy of each active battery stewardship plan approved
+25 by the department under this article, including any
+26 amendments.
+27 (2) The name of each producer covered by a battery
+28 stewardship plan approved by the department under this
+29 article.
+30 (3) The name of each brand of covered batteries covered by a
+31 battery stewardship plan approved by the department under
+32 this article.
+33 (4) A copy of each annual progress report submitted to the
+34 department under IC 13-20.7-3-9.
+35 Sec. 2. (a) A battery stewardship organization:
+36 (1) shall provide for the collection of loose covered batteries;
+37 and
+38 (2) may, but is not required to, provide for the collection of:
+39 (A) battery containing products; or
+40 (B) covered batteries or battery containing products
+41 recalled for safety reasons.
+42 (b) If a battery stewardship organization collects a covered
+HB 1231—LS 6858/DI 153
+
+9
+1 battery or battery containing product described in subsection
+2 (a)(2)(B), the battery stewardship organization may recover all
+3 costs incurred in collecting, transporting, and processing the
+4 covered battery or battery containing product from the producer.
+5 Sec. 3. (a) A person may operate a fee based collection and
+6 recycling program that collects covered batteries independently of
+7 a battery stewardship organization or a similar program that is not
+8 fee based for government sites if the following conditions are met:
+9 (1) The person accepts all covered batteries.
+10 (2) The person receives no compensation from a battery
+11 stewardship organization with respect to the covered
+12 batteries, unless the battery stewardship organization has an
+13 agreement with the person.
+14 (3) The person provides the following information to the
+15 department on an annual basis, as established by the
+16 department, with respect to each covered battery collected by
+17 the person:
+18 (A) The weight, by chemistry, of covered batteries
+19 collected.
+20 (B) The weight of materials recovered from covered
+21 batteries collected, in total and by method of battery
+22 recycling.
+23 (C) The percentage calculated by dividing:
+24 (i) the weight of components and materials recycled by
+25 the person; by
+26 (ii) the weight of covered batteries collected by the
+27 person;
+28 for each recycling process.
+29 (D) A description of how each facility used for the final
+30 disposition of covered batteries, whether recycled or
+31 otherwise, managed the batteries and battery components.
+32 (E) The weight and chemistry of covered batteries sent to
+33 each facility that is used for final disposition of the
+34 batteries.
+35 (b) If a battery stewardship organization's performance goals
+36 would be impacted by the information provided under subsection
+37 (a)(3), the department shall:
+38 (1) consider the information when calculating the recycling
+39 efficiency rate for the battery stewardship organization; and
+40 (2) provide the information to the battery stewardship
+41 organization.
+42 Sec. 4. Beginning January 1, 2029, a person may not knowingly
+HB 1231—LS 6858/DI 153
+
+10
+1 cause or allow:
+2 (1) the placing of a covered battery into a container intended
+3 for collection and disposal at a facility that is not authorized
+4 under IC 13-22 or federal law for operation as a hazardous
+5 waste facility; or
+6 (2) the disposal of a covered battery in a facility that is not
+7 authorized under IC 13-22 or federal law for operation as a
+8 hazardous waste facility.
+9 Sec. 5. (a) A person that violates section 4 of this chapter is not
+10 subject to:
+11 (1) a criminal or civil action or penalty; or
+12 (2) any other sanction;
+13 under this title or any other state law.
+14 (b) A violation of this chapter does not create a cause of action.
+15 Sec. 6. A producer and battery stewardship organization are
+16 exempt from the provisions of IC 24-1 with respect to planning,
+17 reporting, or operating a battery stewardship program, including:
+18 (1) the creation, implementation, or management of a battery
+19 stewardship organization and any battery stewardship plan,
+20 regardless of whether it is submitted, denied, or approved;
+21 (2) the determination of the cost and structure of a battery
+22 stewardship plan; and
+23 (3) the types or quantities of batteries being recycled or
+24 otherwise managed under this article.
+25 Sec. 7. The department may adopt rules under IC 4-22-2 and
+26 IC 13-14-9 to implement this article.
+HB 1231—LS 6858/DI 153
+
+11
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Environmental Affairs, to which
+was referred House Bill 1231, has had the same under consideration
+and begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 13-11-2-17.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 17.3. (a) "Battery containing
+product", for purposes of section 171.5 of this chapter and
+IC 13-20.7, means a product that contains or is packaged with a
+covered battery.
+(b) The term does not include computers, small scale servers,
+computer monitors, electronic keyboards and mice, printers, fax
+machines, scanners, televisions, digital video disc players and
+recorders, video cassette recorders, digital converter boxes, cable
+receivers, satellite receivers, portable digital music players, and
+video game consoles.".
+Page 2, line 31, after "Sec. 171.5." insert "(a)".
+Page 2, line 32, delete "a".
+Page 2, delete line 33 and insert "the following:
+(1) For a covered battery, the following:
+(A) If the battery is sold under the brand of the battery
+manufacturer, the battery manufacturer.
+(B) If the battery is sold under a retail brand or under a
+brand owned by a person other than the manufacturer, the
+brand owner.
+(C) If clauses (A) and (B) are inapplicable, the licensee of
+a brand or trademark under which the battery is:
+(i) used in a commercial enterprise;
+(ii) sold;
+(iii) offered for sale; or
+(iv) distributed.
+(2) For a battery containing product, the following:
+(A) If the battery containing product is sold under the
+brand of the product manufacturer, the product
+manufacturer.
+(B) If the battery containing product is sold under a retail
+brand or under a brand owned by a person other than the
+manufacturer, the brand owner.
+(C) If clauses (A) and (B) are inapplicable, the licensee of
+HB 1231—LS 6858/DI 153
+
+12
+a brand or trademark under which the product is:
+(i) used in a commercial enterprise;
+(ii) sold;
+(iii) offered for sale; or
+(iv) distributed.
+(b) The term does not include a person who would otherwise be
+considered a producer under subsection (a)(2) if:
+(1) the supplier of the battery used in the product has joined
+a registered battery stewardship organization with respect to
+the battery; and
+(2) the supplier provides written certification of its
+membership in the approved battery stewardship
+organization to the person who would otherwise be considered
+a producer under subsection (a)(2).".
+Page 4, delete lines 21 through 30 and insert "apply to:
+(1) a covered battery regulated by IC 13-20-16, except that
+this article does apply to a covered battery:
+(A) that:
+(i) contains lead and sulfuric acid; and
+(ii) has nominal voltage of at least six (6) volts; and
+(B) that is used in a motorized toy;
+(2) a covered battery contained within a device, as defined in
+21 U.S.C. 321(h), that is not designed and marketed for sale or
+resale principally to consumers for personal use;
+(3) a covered battery that is:
+(A) in a product; and
+(B) not designed to be easily removable from the product;
+(4) a covered battery that contains an electrolyte as a free
+liquid;
+(5) a covered battery designed to power a motor vehicle, in
+whole or part, or a component of a motor vehicle;
+(6) a covered battery or battery containing product or that
+has been recalled for safety reasons; or
+(7) a covered battery that is a part of a utility scale battery
+energy storage system (as defined in IC 22-14-8-3).".
+Page 4, line 33, after "covered battery" insert "or battery
+containing product".
+Page 5, line 2, after "covered battery" insert "or battery in a
+battery containing product".
+Page 5, line 20, delete "and producer".
+Page 5, line 25, delete "standards;" and insert "standards, including
+collection site safety training procedures related to covered battery
+HB 1231—LS 6858/DI 153
+
+13
+collection activities at collection sites, such as appropriate
+protocols to reduce risks of spills or fires and response protocols in
+the event of a spill or fire, and a protocol for safe management of
+damaged batteries that are returned to collection sites;".
+Page 5, line 29, delete "consumers." and insert "consumers and
+that reimburses units of local government for collecting covered
+batteries.".
+Page 6, delete lines 5 through 9, begin a new paragraph and insert:
+"Sec. 7. The department shall impose the following fees:
+(1) A review fee of ten thousand dollars ($10,000) the first
+time a battery stewardship organization submits its plan to
+the department for approval.
+(2) An annual fee sufficient to cover the costs of the
+department in administering this article, as determined by the
+department, for each approved battery stewardship
+organization.".
+Page 7, delete lines 7 through 27, begin a new paragraph and insert:
+"Sec. 2. (a) A battery stewardship organization:
+(1) shall provide for the collection of loose covered batteries;
+and
+(2) may, but is not required to, provide for the collection of:
+(A) battery containing products; or
+(B) covered batteries or battery containing products
+recalled for safety reasons.
+(b) If a battery stewardship organization collects a covered
+battery or battery containing product described in subsection
+(a)(2)(B), the battery stewardship organization may recover all
+costs incurred in collecting, transporting, and processing the
+covered battery or battery containing product from the producer.
+Sec. 3. (a) A person may operate a fee based collection and
+recycling program that collects covered batteries independently of
+a battery stewardship organization or a similar program that is not
+fee based for government sites if the following conditions are met:
+(1) The person accepts all covered batteries.
+(2) The person receives no compensation from a battery
+stewardship organization with respect to the covered
+batteries, unless the battery stewardship organization has an
+agreement with the person.
+(3) The person provides the following information to the
+department on an annual basis, as established by the
+department, with respect to each covered battery collected by
+the person:
+HB 1231—LS 6858/DI 153
+
+14
+(A) The weight, by chemistry, of covered batteries
+collected.
+(B) The weight of materials recovered from covered
+batteries collected, in total and by method of battery
+recycling.
+(C) The percentage calculated by dividing:
+(i) the weight of components and materials recycled by
+the person; by
+(ii) the weight of covered batteries collected by the
+person;
+for each recycling process.
+(D) A description of how each facility used for the final
+disposition of covered batteries, whether recycled or
+otherwise, managed the batteries and battery components.
+(E) The weight and chemistry of covered batteries sent to
+each facility that is used for final disposition of the
+batteries.
+(b) If a battery stewardship organization's performance goals
+would be impacted by the information provided under subsection
+(a)(3), the department shall:
+(1) consider the information when calculating the recycling
+efficiency rate for the battery stewardship organization; and
+(2) provide the information to the battery stewardship
+organization.".
+Page 7, after line 42, begin a new paragraph and insert:
+"Sec. 6. A producer and battery stewardship organization are
+exempt from the provisions of IC 24-1 with respect to planning,
+reporting, or operating a battery stewardship program, including:
+(1) the creation, implementation, or management of a battery
+stewardship organization and any battery stewardship plan,
+regardless of whether it is submitted, denied, or approved;
+(2) the determination of the cost and structure of a battery
+stewardship plan; and
+(3) the types or quantities of batteries being recycled or
+otherwise managed under this article.".
+Page 8, line 1, delete "Sec. 6." and insert "Sec. 7.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1231 as introduced.)
+BAIRD
+HB 1231—LS 6858/DI 153
+
+15
+Committee Vote: yeas 11, nays 0.
+HB 1231—LS 6858/DI 153
+
+[DELETED:  u ( t p j a b s a ( t b i a u a b t d t p c i r]
+[DELETED:  A A N S T R A F f p o s 1 o t c a s t d v d p a A A N S T R A F J 1 2 S 1 " s f p o s 3 a 1 o t]
+[DELETED:  A A N S T R A F J 1 2 S 3 " r f o I 1 m t p c b A A N S T R A F A A N S T R A F A A N S T R A F A A N S T R A F]
+[DELETED:  J 1 2 S 1 ( " f o t p m t p t s p w c o i i t a b s A A N S T R A F]
+[DELETED:  c o ( o m v o g c 1 2 S 1 ( " f p o o c e d f u i m R r o a p t w v A A N S T R A F J 1 2 S 1 " e]
+[DELETED:  s o d f s a c b o b t p h j a b s]
+[DELETED:  w s c t c a t 3 T d s a o d a b 4 T d s n a b s 5 I a b s o i t c a a p t b s A a i s t t s p t d e f ( y i p i b t d u t b s f a n w t d o t A a f s t c t c o t f e a b s]
+[DELETED:  a o p m m b i I 1 T d s p t f o t t d u t a i a T n o e p c b a b c b o b c p]
+[DELETED:  o b c p d i s i i c t a p t T p r n c f a b o w r t t c T p p t f i t t o a a b a e b t T w b c o c b T w o m r f c c i t a b m o b t w o c b c b t o c b w r o f t i u f f d o t p t i t t b s]
+[DELETED:  t t o q o b b r o]
+[DELETED:  b l t r t s b t t H w t 1 b t e c a l 1 b a n A A N S T R A F f p o s 1 o t c a s t d v d p a o t p m t p]
+[DELETED:  t s p w c o i i t a b s 4 l 3 a " b i " b "]
+[DELETED:  a a c s s a a A a f s t c t c o t f e a b s c b o b c p o b c p d i s i i c t a p t T p r n c f a b o w r t t c T p p t f i t t o a a b a e b t]
+[DELETED:  T w b c o c b T w o m r f c c i t a b m o b t w o c b c b t o c b w r o f t i u f f d o t p t i t t b s t t o q o b b r o]
