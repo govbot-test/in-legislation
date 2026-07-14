@@ -1,0 +1,1220 @@
+Title: HOUSE BILL No. 1120
+Official Title: HOUSE BILL No. 1120
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1.
+Synopsis: Retirement of electric generation resources. Amends the
+statute concerning public utilities' annual electric resource planning
+reports to the Indiana utility regulatory commission (IURC) to provide
+that for an annual report submitted after December 31, 2026, if: (1)
+after an investigation under the statute, the IURC does not issue an
+order to prohibit the retirement of a public utility's electric generation
+resource; (2) the public utility proceeds with plans to retire the electric
+generation resource before: (A) the date specified for the retirement in
+the public utility's most recently filed integrated resource plan; or (B)
+the end of the electric generation resource's economically useful life;
+and (3) the retirement is not required to comply with environmental
+laws, regulations, or court orders; the public utility may not recover a
+return on any asset retirement obligations related to the retirement in
+any future general rate case or other regulatory proceeding. Makes a
+conforming amendment to a provision concerning public utilities'
+depreciation rates and asset retirement obligations.
+Effective: Upon passage.
+Ledbetter
+January 5, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+2026 IN 1120—LS 6441/DI 101
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1120
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-2-19, AS AMENDED BY P.L.170-2023,
+2 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 19. (a) Every public utility shall carry a
+4 separate, proper and adequate depreciation account whenever the
+5 commission, after investigation, shall determine that such depreciation
+6 account reasonably can be required.
+7 (b) The commission, from time to time, shall ascertain and
+8 determine the proper and adequate rates of depreciation of the several
+9 classes of property of each public utility. Depreciation rates under this
+10 subsection shall be calculated to recover a reasonable estimate of the
+11 future cost of removing retired assets of the public utility.
+12 (c) A public utility's rates, tolls and charges shall be such as will
+13 provide the amounts required over and above the reasonable and
+14 necessary operating expenses, to maintain such property in an
+15 operating state of efficiency corresponding to the progress of the
+16 industry. Subject to IC 8-1-8.5-13(x), in a proceeding in which the
+17 costs of a capital asset are being recognized for ratemaking purposes,
+2026 IN 1120—LS 6441/DI 101
+2
+1 a public utility may account for any asset retirement obligations and
+2 recover, through rates charged to customers, reasonably and prudently
+3 incurred costs associated with asset retirement obligations, to the extent
+4 the specific asset retirement obligation costs are incremental and have
+5 not otherwise been included in depreciation rates. Each public utility
+6 shall conform its depreciation accounts to the rates so ascertained and
+7 determined by the commission.
+8 (d) Subject to IC 8-1-8.5-2.1(d), the commission shall make changes
+9 in a public utility's rates of depreciation, from time to time, as the
+10 commission finds necessary, including as necessary to reflect changes
+11 in:
+12 (1) the public utility's estimated asset retirement costs, including
+13 all reasonable and prudent costs of removing retired assets; and
+14 (2) the estimated retirement dates of assets of the public utility.
+15 SECTION 2. IC 8-1-8.5-13, AS AMENDED BY P.L.217-2025,
+16 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 UPON PASSAGE]: Sec. 13. (a) The general assembly finds that it is
+18 in the public interest to support the reliability, availability, and
+19 diversity of electric generating capacity in Indiana for the purpose of
+20 providing reliable and stable electric service to customers of public
+21 utilities.
+22 (b) As used in this section, "appropriate regional transmission
+23 organization", with respect to a public utility, refers to the regional
+24 transmission organization approved by the Federal Energy Regulatory
+25 Commission for the control area that includes the public utility's
+26 assigned service area (as defined in IC 8-1-2.3-2).
+27 (c) As used in this section, "capacity market" means an auction
+28 conducted by an appropriate regional transmission organization to
+29 determine a market clearing price for capacity based on the planning
+30 reserve margin requirements established by the appropriate regional
+31 transmission organization for a planning year with respect to which an
+32 auction has not yet been conducted.
+33 (d) As used in this section, "fall unforced capacity", or "fall UCAP",
+34 with respect to an electric generating facility, means:
+35 (1) the capacity value of the electric generating facility's installed
+36 capacity rate adjusted for the electric generating facility's average
+37 forced outage rate for the fall period, calculated as required by the
+38 appropriate regional transmission organization or by the Federal
+39 Energy Regulatory Commission;
+40 (2) a metric that is similar to the metric described in subdivision
+41 (1) and that is required by the appropriate regional transmission
+42 organization; or
+2026 IN 1120—LS 6441/DI 101
+3
+1 (3) if the appropriate regional transmission organization does not
+2 require a metric described in subdivision (1) or (2), a metric that:
+3 (A) can be used to demonstrate that a public utility has
+4 sufficient capacity to:
+5 (i) provide reliable electric service to Indiana customers for
+6 the fall period; and
+7 (ii) meet its planning reserve margin requirement and other
+8 federal reliability requirements described in subsection
+9 (n)(6); and
+10 (B) is acceptable to the commission.
+11 (e) As used in this section, "MISO" refers to the regional
+12 transmission organization known as the Midcontinent Independent
+13 System Operator that operates the bulk power transmission system
+14 serving most of the geographic territory in Indiana.
+15 (f) As used in this section, "planning reserve margin requirement",
+16 with respect to a public utility for a particular resource planning year,
+17 means the planning reserve margin requirement for that planning year
+18 that the public utility is obligated to meet in accordance with the public
+19 utility's membership in the appropriate regional transmission
+20 organization.
+21 (g) As used in this section, "refuel" or "refueling" means a planned
+22 fuel conversion from one fuel source to another fuel source with
+23 respect to an electric generation resource with a nameplate capacity of
+24 at least one hundred twenty-five (125) megawatts by a public utility.
+25 (h) As used in this section, "reliability adequacy metrics", with
+26 respect to a public utility, means calculations used to demonstrate all
+27 of the following:
+28 (1) Subject to subsection (u)(2), that the public utility:
+29 (A) has in place sufficient summer UCAP; or
+30 (B) can reasonably acquire not more than:
+31 (i) thirty percent (30%) of its total summer UCAP from
+32 capacity markets, with respect to a report filed with the
+33 commission under subsection (n) before July 1, 2023; or
+34 (ii) fifteen percent (15%) of its total summer UCAP from
+35 capacity markets, with respect to a report filed with the
+36 commission under subsection (n) after June 30, 2023;
+37 such that it will have sufficient summer UCAP;
+38 to provide reliable electric service to Indiana customers, and to
+39 meet its planning reserve margin requirement and other federal
+40 reliability requirements described in subsection (n)(6).
+41 (2) Subject to subsection (u)(2), that the public utility:
+42 (A) has in place sufficient winter UCAP; or
+2026 IN 1120—LS 6441/DI 101
+4
+1 (B) can reasonably acquire not more than:
+2 (i) thirty percent (30%) of its total winter UCAP from
+3 capacity markets, with respect to a report filed with the
+4 commission under subsection (n) before July 1, 2023; or
+5 (ii) fifteen percent (15%) of its total winter UCAP from
+6 capacity markets, with respect to a report filed with the
+7 commission under subsection (n) after June 30, 2023;
+8 such that it will have sufficient winter UCAP;
+9 to provide reliable electric service to Indiana customers, and to
+10 meet its planning reserve margin requirement and other federal
+11 reliability requirements described in subsection (n)(6).
+12 (3) Subject to subsection (u)(2), with respect to a report filed with
+13 the commission under subsection (n) after June 30, 2026, that the
+14 public utility:
+15 (A) has in place sufficient spring UCAP; or
+16 (B) can reasonably acquire not more than fifteen percent
+17 (15%) of its total spring UCAP from capacity markets, such
+18 that it will have sufficient spring UCAP;
+19 to provide reliable electric service to Indiana customers, and to
+20 meet its planning reserve margin requirement and other federal
+21 reliability requirements described in subsection (n)(6).
+22 (4) Subject to subsection (u)(2), with respect to a report filed with
+23 the commission under subsection (n) after June 30, 2026, that the
+24 public utility:
+25 (A) has in place sufficient fall UCAP; or
+26 (B) can reasonably acquire not more than fifteen percent
+27 (15%) of its total fall UCAP from capacity markets, such that
+28 it will have sufficient fall UCAP;
+29 to provide reliable electric service to Indiana customers, and to
+30 meet its planning reserve margin requirement and other federal
+31 reliability requirements described in subsection (n)(6).
+32 (i) As used in this section, "retire" or retirement" means a planned
+33 permanent ceasing of electric generation operations with respect to an
+34 electric generation resource with a nameplate capacity of at least one
+35 hundred twenty-five (125) megawatts by a public utility.
+36 (j) As used in this section, "spring unforced capacity", or "spring
+37 UCAP", with respect to an electric generating facility, means:
+38 (1) the capacity value of the electric generating facility's installed
+39 capacity rate adjusted for the electric generating facility's average
+40 forced outage rate for the spring period, calculated as required by
+41 the appropriate regional transmission organization or by the
+42 Federal Energy Regulatory Commission;
+2026 IN 1120—LS 6441/DI 101
+5
+1 (2) a metric that is similar to the metric described in subdivision
+2 (1) and that is required by the appropriate regional transmission
+3 organization; or
+4 (3) if the appropriate regional transmission organization does not
+5 require a metric described in subdivision (1) or (2), a metric that:
+6 (A) can be used to demonstrate that a public utility has
+7 sufficient capacity to:
+8 (i) provide reliable electric service to Indiana customers for
+9 the spring period; and
+10 (ii) meet its planning reserve margin requirement and other
+11 federal reliability requirements described in subsection
+12 (n)(6); and
+13 (B) is acceptable to the commission.
+14 (k) As used in this section, "summer unforced capacity", or "summer
+15 UCAP", with respect to an electric generating facility, means:
+16 (1) the capacity value of the electric generating facility's installed
+17 capacity rate adjusted for the electric generating facility's average
+18 forced outage rate for the summer period, calculated as required
+19 by the appropriate regional transmission organization or by the
+20 Federal Energy Regulatory Commission; or
+21 (2) a metric that is similar to the metric described in subdivision
+22 (1) and that is required by the appropriate regional transmission
+23 organization.
+24 (l) As used in this section, "winter unforced capacity", or "winter
+25 UCAP", with respect to an electric generating facility, means:
+26 (1) the capacity value of the electric generating facility's installed
+27 capacity rate adjusted for the electric generating facility's average
+28 forced outage rate for the winter period, calculated as required by
+29 the appropriate regional transmission organization or by the
+30 Federal Energy Regulatory Commission;
+31 (2) a metric that is similar to the metric described in subdivision
+32 (1) and that is required by the appropriate regional transmission
+33 organization; or
+34 (3) if the appropriate regional transmission organization does not
+35 require a metric described in subdivision (1) or (2), a metric that:
+36 (A) can be used to demonstrate that a public utility has
+37 sufficient capacity to:
+38 (i) provide reliable electric service to Indiana customers for
+39 the winter period; and
+40 (ii) meet its planning reserve margin requirement and other
+41 federal reliability requirements described in subsection
+42 (n)(6); and
+2026 IN 1120—LS 6441/DI 101
+6
+1 (B) is acceptable to the commission.
+2 (m) A public utility that owns and operates an electric generating
+3 facility serving customers in Indiana shall operate and maintain the
+4 facility using good utility practices and in a manner:
+5 (1) reasonably intended to support the provision of reliable and
+6 economic electric service to customers of the public utility;
+7 (2) reasonably consistent with the resource reliability
+8 requirements of MISO or any other appropriate regional
+9 transmission organization; and
+10 (3) that reasonably maximizes the economic value of the electric
+11 generating facility.
+12 (n) Not later than thirty (30) days after the deadline for submitting
+13 an annual planning reserve margin report to MISO, each public utility
+14 providing electric service to Indiana customers shall, regardless of
+15 whether the public utility is required to submit an annual planning
+16 reserve margin report to MISO, file with the commission a report, in a
+17 form specified by the commission, that provides the following
+18 information for each of the next three (3) resource planning years,
+19 beginning with the planning year covered by the planning reserve
+20 margin report to MISO described in this subsection:
+21 (1) The:
+22 (A) capacity;
+23 (B) location; and
+24 (C) fuel source;
+25 for each electric generating facility that is owned and operated by
+26 the electric utility and that will be used to provide electric service
+27 to Indiana customers.
+28 (2) With respect to a report submitted to the commission after
+29 December 31, 2025, the amount of generating resource capacity
+30 or energy, or both, that the public utility plans to retire and that is
+31 owned and operated by the public utility and used to provide retail
+32 electric service in Indiana, including the:
+33 (A) capacity;
+34 (B) location;
+35 (C) fuel source; and
+36 (D) planned retirement date;
+37 for each electric generating facility. The public utility must
+38 include information as to whether the planned retirement is
+39 required in order to comply with environmental laws, regulations,
+40 or court orders, including consent decrees, that are or will be in
+41 effect at the time of the planned retirement. In addition, the public
+42 utility must provide its economic rationale for the planned
+2026 IN 1120—LS 6441/DI 101
+7
+1 retirement, including anticipated ratepayer impacts, and
+2 information concerning the public utility's plan or plans with
+3 respect to the amount of replacement capacity identified to
+4 provide approximately the same accredited capacity within the
+5 appropriate regional transmission organization as the amount of
+6 capacity of the facility to be retired.
+7 (3) With respect to a report submitted to the commission after
+8 December 31, 2025, the amount of generating resource capacity
+9 or energy, or both, that the public utility plans to refuel, including
+10 the:
+11 (A) capacity;
+12 (B) location;
+13 (C) existing fuel source;
+14 (D) proposed fuel source; and
+15 (E) planned completion date of the refueling;
+16 with respect to each electric generating facility that the public
+17 utility plans to refuel. The public utility must provide its
+18 economic rationale for the planned refueling, including
+19 anticipated ratepayer impacts, and information concerning the
+20 public utility's plan or plans with respect to the extent to which
+21 the refueling will maintain or increase the current generating
+22 resource accredited capacity or energy, or both, that the electric
+23 generating facility provides, so as to provide approximately the
+24 same accredited capacity within the appropriate regional
+25 transmission organization.
+26 (4) The amount of generating resource capacity or energy, or
+27 both, that the public utility has procured under contract and that
+28 will be used to provide electric service to Indiana customers,
+29 including the:
+30 (A) capacity;
+31 (B) location; and
+32 (C) fuel source;
+33 for each electric generating facility that will supply capacity or
+34 energy under the contract, to the extent known by the public
+35 utility.
+36 (5) The amount of demand response resources available to the
+37 public utility under contracts and tariffs.
+38 (6) The following:
+39 (A) The planning reserve margin requirements established by
+40 MISO for the planning years covered by the report, to the
+41 extent known by the public utility with respect to any
+42 particular planning year covered by the report.
+2026 IN 1120—LS 6441/DI 101
+8
+1 (B) If applicable, any other planning reserve margin
+2 requirement that:
+3 (i) applies to the planning years covered by the report; and
+4 (ii) the public utility is obligated to meet in accordance with
+5 the public utility's membership in an appropriate regional
+6 transmission organization;
+7 to the extent known by the public utility with respect to any
+8 particular planning year covered by the report.
+9 (C) Other federal reliability requirements that the public utility
+10 is obligated to meet in accordance with its membership in an
+11 appropriate regional transmission organization with respect to
+12 the planning years covered by the report, to the extent known
+13 by the public utility with respect to any particular planning
+14 year covered by the report.
+15 For each planning reserve margin requirement reported under
+16 clause (A) or (B), the public utility shall include a comparison of
+17 that planning reserve margin requirement to the planning reserve
+18 margin requirement established by the same regional transmission
+19 organization for the 2021-2022 planning year.
+20 (7) The reliability adequacy metrics of the public utility, as
+21 forecasted for the three (3) planning years covered by the report.
+22 (o) Upon request by a public utility, the commission shall determine
+23 whether information provided in a report filed by the public utility
+24 under subsection (n):
+25 (1) is confidential under IC 5-14-3-4 or is a trade secret under
+26 IC 24-2-3;
+27 (2) is exempt from public access and disclosure by Indiana law;
+28 and
+29 (3) shall be treated as confidential and protected from public
+30 access and disclosure by the commission.
+31 (p) A joint agency created under IC 8-1-2.2 may file the report
+32 required under subsection (n) as a consolidated report on behalf of any
+33 or all of the municipally owned utilities that make up its membership.
+34 (q) A:
+35 (1) corporation organized under IC 23-17 that is an electric
+36 cooperative and that has at least one (1) member that is a
+37 corporation organized under IC 8-1-13; or
+38 (2) general district corporation within the meaning of
+39 IC 8-1-13-23;
+40 may file the report required under subsection (n) as a consolidated
+41 report on behalf of any or all of the cooperatively owned electric
+42 utilities that it serves.
+2026 IN 1120—LS 6441/DI 101
+9
+1 (r) In reviewing a report filed by a public utility under subsection
+2 (n), the commission may request technical assistance from MISO or
+3 any other appropriate regional transmission organization in
+4 determining:
+5 (1) the planning reserve margin requirements or other federal
+6 reliability requirements that the public utility is obligated to meet,
+7 as described in subsection (n)(6); and
+8 (2) whether the resources available to the public utility under
+9 subsections (n)(1) through (n)(5) will be adequate to support the
+10 provision of reliable electric service to the public utility's Indiana
+11 customers.
+12 (s) With respect to a report submitted under subsection (n) after
+13 December 31, 2025, commission staff shall review the reports
+14 submitted by public utilities and shall, not later than ninety (90) days
+15 after the date of submission of the reports, submit to the commission a
+16 staff report concerning any planned retirements included in the reports
+17 under subsection (n)(2). The report must make recommendations to the
+18 commission based on whether each planned retirement:
+19 (1) is consistent with the standards set forth in subsection (m);
+20 (2) will be replaced with an amount of replacement capacity that
+21 will provide approximately the same accredited capacity within
+22 the appropriate regional transmission organization as the amount
+23 of capacity of the facility to be retired;
+24 (3) will not adversely and unreasonably impact a public utility's
+25 ability to provide safe, reliable, and economical electric utility
+26 service to the public utility's customers;
+27 (4) will result in the provision to Indiana customers of electric
+28 utility service with the attributes of:
+29 (A) reliability;
+30 (B) affordability;
+31 (C) resiliency;
+32 (D) stability; and
+33 (E) environmental sustainability;
+34 as set forth in IC 8-1-2-0.6; and
+35 (5) is required in order to comply with environmental laws,
+36 regulations, or court orders, including consent decrees, that are or
+37 will be in effect at the time of the planned retirement.
+38 (t) The commission shall make the staff reports prepared under
+39 subsection (s) publicly available by posting the staff reports on the
+40 commission's website. Upon the posting of a staff report on the
+41 commission's website, the commission shall accept public comments
+42 on the report for a period not to exceed thirty (30) days after the date
+2026 IN 1120—LS 6441/DI 101
+10
+1 of posting.
+2 (u) If, after reviewing a report filed by a public utility under
+3 subsection (n) and any staff report prepared with respect to the public
+4 utility under subsection (s), the commission is not satisfied that the
+5 public utility can either:
+6 (1) satisfy both:
+7 (A) its planning reserve margin requirement or other federal
+8 reliability requirements that the public utility is obligated to
+9 meet, as described in subsection (n)(6); and
+10 (B) the reliability adequacy metrics set forth in subsection (h);
+11 or
+12 (2) provide sufficient reason as to why the public utility is unable
+13 to satisfy both:
+14 (A) its planning reserve margin requirement or other federal
+15 reliability requirements that the public utility is obligated to
+16 meet, as described in subsection (n)(6); and
+17 (B) the reliability adequacy metrics set forth in subsection (h);
+18 during one (1) more of the planning years covered by the report, the
+19 commission shall conduct an investigation under IC 8-1-2-58 through
+20 IC 8-1-2-60 as to the reasons for the public utility's potential inability
+21 to meet the requirements described in subdivision (1) or provide
+22 sufficient reason as to that inability, as described in subdivision (2). In
+23 addition, if the public utility has indicated in its report under subsection
+24 (n)(2) that it plans to retire an electric generating facility within one (1)
+25 year of the date of the report, the commission must conduct an
+26 investigation under IC 8-1-2-58 through IC 8-1-2-60 as to the reasons
+27 for the public utility's potential inability to meet the requirements
+28 described in subdivision (1) or provide sufficient reason as to that
+29 inability, as described in subdivision (2). However, a public utility may
+30 request, not earlier than three (3) years before the planned retirement
+31 date of an electric generation facility, that the commission conduct an
+32 investigation under IC 8-1-2-58 through IC 8-1-2-60, for the purposes
+33 described in this subsection, with respect to the planned retirement. If
+34 the commission conducts an investigation at the request of a public
+35 utility within the three (3) year period before the planned retirement
+36 date of an electric generation facility, the commission may not conduct
+37 a subsequent investigation that would otherwise be required under this
+38 subsection with respect to the retirement of that same electric
+39 generation facility unless the commission is not satisfied, as of the time
+40 that an investigation would otherwise be required under this
+41 subsection, that the public utility can meet the requirements described
+42 in subdivision (1) or provide sufficient reason as to that inability, as
+2026 IN 1120—LS 6441/DI 101
+11
+1 described in subdivision (2). If a certificate is granted by the
+2 commission under this chapter for a facility intended to repower or
+3 replace a generation unit that is planned for retirement, and the
+4 certificate includes findings that the project will result in at least
+5 equivalent accredited capacity and will provide economic benefit to
+6 ratepayers as compared to the continued operation of the generating
+7 unit to be retired, the certificate under this chapter constitutes approval
+8 by the commission for purposes of an investigation required by this
+9 subsection. However, if the commission finds that facts and
+10 circumstances regarding the planned retirement have changed
+11 significantly since the certificate was granted and that those changes
+12 concern the public utility's ability to meet the requirements described
+13 in subdivision (1), the commission may conduct an investigation into
+14 the planned retirement of the unit.
+15 (v) If, upon investigation under IC 8-1-2-58 through IC 8-1-2-60,
+16 and after notice and hearing, as required by IC 8-1-2-59, the
+17 commission determines that the capacity resources available to the
+18 public utility under subsections (n)(1) through (n)(5) will not be
+19 adequate to allow the public utility to satisfy both its planning reserve
+20 margin requirements or other federal reliability requirements that the
+21 public utility is obligated to meet (as described in subsection (n)(6))
+22 and the reliability adequacy metrics set forth in subsection (h), the
+23 commission shall issue an order:
+24 (1) directing the public utility to acquire or construct; or
+25 (2) prohibiting the retirement or refueling of;
+26 such capacity resources that are reasonable and necessary to enable the
+27 public utility to provide reliable electric service to its Indiana
+28 customers, and to satisfy both its planning reserve margin requirements
+29 or other federal reliability requirements described in subsection (n)(6)
+30 and the reliability adequacy metrics set forth in subsection (h). The
+31 commission shall issue an order under this subsection not later than
+32 one hundred twenty (120) days after the initiation of the investigation
+33 under subsection (u). If the commission does not issue an order within
+34 the one hundred twenty (120) day period prescribed by this subsection,
+35 the public utility is considered to be able to meet the requirements
+36 described in subsection (u)(1) with respect to the retirement of the any
+37 electric generation facility under investigation. Not later than ninety
+38 (90) days after the date of an order by the commission under this
+39 subsection, the public utility shall file for approval with the
+40 commission a plan to comply with the commission's order.
+41 Notwithstanding IC 8-1-3 or any other law, any appeal of an order by
+42 the commission under this subsection is entitled to priority review and
+2026 IN 1120—LS 6441/DI 101
+12
+1 shall be given expedited consideration in accordance with Rule 21 of
+2 the Indiana Rules of Appellate Procedure.
+3 (w) With respect to a report submitted under subsection (n) after
+4 December 31, 2025, if the commission issues an order under
+5 subsection (v) to prohibit the retirement or refueling of an electric
+6 generation resource, the commission shall create a sub-docket to
+7 authorize the public utility to recover in rates the costs of the continued
+8 operation of the electric generation resource that was proposed to be
+9 retired or refueled. The commission must find that the continued costs
+10 of operation are just and reasonable before authorizing their recovery
+11 in the public utility's rates. The creation of a sub-docket under this
+12 subsection is not subject to the one hundred twenty (120) day time
+13 frame for the commission to issue an order under subsection (v).
+14 (x) With respect to a report submitted under subsection (n) after
+15 December 31, 2026, if:
+16 (1) the commission does not issue an order under subsection
+17 (v) to prohibit the retirement of a public utility's electric
+18 generation resource after an investigation of the planned
+19 retirement under subsection (u);
+20 (2) the public utility proceeds with plans to retire the electric
+21 generation resource before:
+22 (A) the date specified for the retirement in the public
+23 utility's most recently filed integrated resource plan, if
+24 applicable; or
+25 (B) the end of the electric generation resource's
+26 economically useful life, as determined by the commission
+27 upon the evidence presented; and
+28 (3) the retirement is not required to comply with
+29 environmental laws, regulations, or court orders, including
+30 consent decrees, that are or will be in effect at the time of the
+31 planned retirement;
+32 the public utility may not recover a return on any asset retirement
+33 obligations related to the retirement in any future general rate case
+34 or other regulatory proceeding.
+35 (x) (y) A public utility's plan under subsection (v) may include:
+36 (1) a request for a certificate of public convenience and necessity
+37 under this chapter; or
+38 (2) an application under IC 8-1-8.8;
+39 or both.
+40 (y) (z) Beginning in 2022, the commission shall include in its
+41 annual report under IC 8-1-1-14 the following information:
+42 (1) The commission's analysis regarding the ability of public
+2026 IN 1120—LS 6441/DI 101
+13
+1 utilities to:
+2 (A) provide reliable electric service to Indiana customers; and
+3 (B) satisfy both:
+4 (i) their planning reserve margin requirements or other
+5 federal reliability requirements; and
+6 (ii) the reliability adequacy metrics set forth in subsection
+7 (h);
+8 for the next three (3) utility resource planning years, based on the
+9 most recent reports filed by public utilities under subsection (n).
+10 (2) A summary of:
+11 (A) the projected demand for retail electricity in Indiana over
+12 the next calendar year;
+13 (B) the amount and type of capacity resources committed to
+14 meeting the projected demand;
+15 (C) beginning with the commission's annual report due before
+16 October 1, 2026, and in each subsequent annual report, the
+17 planned retirements or refuelings of electric generation
+18 resources and the plans to replace or retain the capacity or
+19 energy, or both, of the electric generation resources planned to
+20 be retired or refueled; and
+21 (D) beginning with the commission's annual report due before
+22 October 1, 2026, and in each subsequent annual report, the
+23 reports of commission staff under subsection (s).
+24 In preparing the summary required under this subdivision, the
+25 commission may consult with the forecasting group established
+26 under section 3.5 of this chapter.
+27 (3) Beginning with the commission's annual report filed under
+28 IC 8-1-1-14 in 2025, the commission's analysis regarding the
+29 appropriate percentage or portion of:
+30 (A) total spring UCAP that public utilities should be
+31 authorized to acquire from capacity markets under subsection
+32 (h)(3)(B); and
+33 (B) total fall UCAP that public utilities should be authorized
+34 to acquire from capacity markets under subsection (h)(4)(B).
+35 (z) (aa) The commission may adopt rules under IC 4-22-2 to
+36 implement this section.
+37 SECTION 3. An emergency is declared for this act.
+2026 IN 1120—LS 6441/DI 101
+[DELETED:  a t a p c p u6I]
+[DELETED:  1 I 8 A A B P p a a d a w t T c f t t t s a a t a r o a a t r a o e t m s p i a s o e t o t6I]
+[DELETED:  t p i t s t r a a A u i t s " r t f t c a t i t p u6I]
+[DELETED:  c b u t d t a p u h r r d i s A u i t s " r t t r m i t a r t f s6I]
+[DELETED:  t p ( o i t w U f c r a n m t f p c r a n m t f p a r t o o b t6I]
+[DELETED:  c b u t d t a p u h r r d i s a r t o o b t c b u t d t a p u h r r d i s6I]
+[DELETED:  r c w t r r o M o a o a r s b t c t p t f e e g f T p u m i a t w t p r i m p i e r f t p6I]
+[DELETED:  i a r i a t t a o r c i t p t r T p u m p i r f t p r i a c w t a r k b t p u w r t a6I]
+[DELETED:  I a a o p r m T r a m o t p u a c o u I 2 t i a e a t h a l o ( m t i  g d c w t m o6I]
+[DELETED:  o a r t o i 3 2 c s s r t r i r i o t c w e l w U t p o a s r o t6I]
+[DELETED:  I a r a r f b a p u u m t r d i s ( o p o t d o t r t c m c a w r t t r o t s e a i w o b r u t6I]
+[DELETED:  i s ( I a c i g b t a g u t i p f r a t H i t c f t f a r t p r h c a n a h a r b I 8 t u u s ( t ( w n b u t p r e s t i I t p u s f f a w t a p t c w t c o6I]
+[DELETED:  3 2 i t c i a o u r t c s c a s t r a a i o t p t d s f t r i t p t e o t e g r t r i n r t c w6I]
+[DELETED:  t p r m r o o r o r o e g t s U t p u s b ( T c m a r u I 4 t6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1120
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1.
+Synopsis: Retirement of electric generation resources. Amends the
+statute concerning public utilities' annual electric resource planning
+reports to the Indiana utility regulatory commission (IURC) to provide
+that for an annual report submitted after December 31, 2026, if: (1)
+after an investigation under the statute, the IURC does not issue an
+order to prohibit the retirement of a public utility's electric generation
+resource; (2) the public utility proceeds with plans to retire the electric
+generation resource before: (A) the date specified for the retirement in
+the public utility's most recently filed integrated resource plan; or (B)
+the end of the electric generation resource's economically useful life;
+and (3) the retirement is not required to comply with environmental
+laws, regulations, or court orders; the public utility may not recover a
+return on any asset retirement obligations related to the retirement in
+any future general rate case or other regulatory proceeding. Makes a
+conforming amendment to a provision concerning public utilities'
+depreciation rates and asset retirement obligations.
+Effective: Upon passage.
+Ledbetter
+January 5, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+2026 IN 1120—LS 6441/DI 101
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1120
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-2-19, AS AMENDED BY P.L.170-2023,
+2 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 19. (a) Every public utility shall carry a
+4 separate, proper and adequate depreciation account whenever the
+5 commission, after investigation, shall determine that such depreciation
+6 account reasonably can be required.
+7 (b) The commission, from time to time, shall ascertain and
+8 determine the proper and adequate rates of depreciation of the several
+9 classes of property of each public utility. Depreciation rates under this
+10 subsection shall be calculated to recover a reasonable estimate of the
+11 future cost of removing retired assets of the public utility.
+12 (c) A public utility's rates, tolls and charges shall be such as will
+13 provide the amounts required over and above the reasonable and
+14 necessary operating expenses, to maintain such property in an
+15 operating state of efficiency corresponding to the progress of the
+16 industry. Subject to IC 8-1-8.5-13(x), in a proceeding in which the
+17 costs of a capital asset are being recognized for ratemaking purposes,
+2026 IN 1120—LS 6441/DI 101
+
+2
+1 a public utility may account for any asset retirement obligations and
+2 recover, through rates charged to customers, reasonably and prudently
+3 incurred costs associated with asset retirement obligations, to the extent
+4 the specific asset retirement obligation costs are incremental and have
+5 not otherwise been included in depreciation rates. Each public utility
+6 shall conform its depreciation accounts to the rates so ascertained and
+7 determined by the commission.
+8 (d) Subject to IC 8-1-8.5-2.1(d), the commission shall make changes
+9 in a public utility's rates of depreciation, from time to time, as the
+10 commission finds necessary, including as necessary to reflect changes
+11 in:
+12 (1) the public utility's estimated asset retirement costs, including
+13 all reasonable and prudent costs of removing retired assets; and
+14 (2) the estimated retirement dates of assets of the public utility.
+15 SECTION 2. IC 8-1-8.5-13, AS AMENDED BY P.L.217-2025,
+16 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 UPON PASSAGE]: Sec. 13. (a) The general assembly finds that it is
+18 in the public interest to support the reliability, availability, and
+19 diversity of electric generating capacity in Indiana for the purpose of
+20 providing reliable and stable electric service to customers of public
+21 utilities.
+22 (b) As used in this section, "appropriate regional transmission
+23 organization", with respect to a public utility, refers to the regional
+24 transmission organization approved by the Federal Energy Regulatory
+25 Commission for the control area that includes the public utility's
+26 assigned service area (as defined in IC 8-1-2.3-2).
+27 (c) As used in this section, "capacity market" means an auction
+28 conducted by an appropriate regional transmission organization to
+29 determine a market clearing price for capacity based on the planning
+30 reserve margin requirements established by the appropriate regional
+31 transmission organization for a planning year with respect to which an
+32 auction has not yet been conducted.
+33 (d) As used in this section, "fall unforced capacity", or "fall UCAP",
+34 with respect to an electric generating facility, means:
+35 (1) the capacity value of the electric generating facility's installed
+36 capacity rate adjusted for the electric generating facility's average
+37 forced outage rate for the fall period, calculated as required by the
+38 appropriate regional transmission organization or by the Federal
+39 Energy Regulatory Commission;
+40 (2) a metric that is similar to the metric described in subdivision
+41 (1) and that is required by the appropriate regional transmission
+42 organization; or
+2026 IN 1120—LS 6441/DI 101
+
+3
+1 (3) if the appropriate regional transmission organization does not
+2 require a metric described in subdivision (1) or (2), a metric that:
+3 (A) can be used to demonstrate that a public utility has
+4 sufficient capacity to:
+5 (i) provide reliable electric service to Indiana customers for
+6 the fall period; and
+7 (ii) meet its planning reserve margin requirement and other
+8 federal reliability requirements described in subsection
+9 (n)(6); and
+10 (B) is acceptable to the commission.
+11 (e) As used in this section, "MISO" refers to the regional
+12 transmission organization known as the Midcontinent Independent
+13 System Operator that operates the bulk power transmission system
+14 serving most of the geographic territory in Indiana.
+15 (f) As used in this section, "planning reserve margin requirement",
+16 with respect to a public utility for a particular resource planning year,
+17 means the planning reserve margin requirement for that planning year
+18 that the public utility is obligated to meet in accordance with the public
+19 utility's membership in the appropriate regional transmission
+20 organization.
+21 (g) As used in this section, "refuel" or "refueling" means a planned
+22 fuel conversion from one fuel source to another fuel source with
+23 respect to an electric generation resource with a nameplate capacity of
+24 at least one hundred twenty-five (125) megawatts by a public utility.
+25 (h) As used in this section, "reliability adequacy metrics", with
+26 respect to a public utility, means calculations used to demonstrate all
+27 of the following:
+28 (1) Subject to subsection (u)(2), that the public utility:
+29 (A) has in place sufficient summer UCAP; or
+30 (B) can reasonably acquire not more than:
+31 (i) thirty percent (30%) of its total summer UCAP from
+32 capacity markets, with respect to a report filed with the
+33 commission under subsection (n) before July 1, 2023; or
+34 (ii) fifteen percent (15%) of its total summer UCAP from
+35 capacity markets, with respect to a report filed with the
+36 commission under subsection (n) after June 30, 2023;
+37 such that it will have sufficient summer UCAP;
+38 to provide reliable electric service to Indiana customers, and to
+39 meet its planning reserve margin requirement and other federal
+40 reliability requirements described in subsection (n)(6).
+41 (2) Subject to subsection (u)(2), that the public utility:
+42 (A) has in place sufficient winter UCAP; or
+2026 IN 1120—LS 6441/DI 101
+
+4
+1 (B) can reasonably acquire not more than:
+2 (i) thirty percent (30%) of its total winter UCAP from
+3 capacity markets, with respect to a report filed with the
+4 commission under subsection (n) before July 1, 2023; or
+5 (ii) fifteen percent (15%) of its total winter UCAP from
+6 capacity markets, with respect to a report filed with the
+7 commission under subsection (n) after June 30, 2023;
+8 such that it will have sufficient winter UCAP;
+9 to provide reliable electric service to Indiana customers, and to
+10 meet its planning reserve margin requirement and other federal
+11 reliability requirements described in subsection (n)(6).
+12 (3) Subject to subsection (u)(2), with respect to a report filed with
+13 the commission under subsection (n) after June 30, 2026, that the
+14 public utility:
+15 (A) has in place sufficient spring UCAP; or
+16 (B) can reasonably acquire not more than fifteen percent
+17 (15%) of its total spring UCAP from capacity markets, such
+18 that it will have sufficient spring UCAP;
+19 to provide reliable electric service to Indiana customers, and to
+20 meet its planning reserve margin requirement and other federal
+21 reliability requirements described in subsection (n)(6).
+22 (4) Subject to subsection (u)(2), with respect to a report filed with
+23 the commission under subsection (n) after June 30, 2026, that the
+24 public utility:
+25 (A) has in place sufficient fall UCAP; or
+26 (B) can reasonably acquire not more than fifteen percent
+27 (15%) of its total fall UCAP from capacity markets, such that
+28 it will have sufficient fall UCAP;
+29 to provide reliable electric service to Indiana customers, and to
+30 meet its planning reserve margin requirement and other federal
+31 reliability requirements described in subsection (n)(6).
+32 (i) As used in this section, "retire" or retirement" means a planned
+33 permanent ceasing of electric generation operations with respect to an
+34 electric generation resource with a nameplate capacity of at least one
+35 hundred twenty-five (125) megawatts by a public utility.
+36 (j) As used in this section, "spring unforced capacity", or "spring
+37 UCAP", with respect to an electric generating facility, means:
+38 (1) the capacity value of the electric generating facility's installed
+39 capacity rate adjusted for the electric generating facility's average
+40 forced outage rate for the spring period, calculated as required by
+41 the appropriate regional transmission organization or by the
+42 Federal Energy Regulatory Commission;
+2026 IN 1120—LS 6441/DI 101
+
+5
+1 (2) a metric that is similar to the metric described in subdivision
+2 (1) and that is required by the appropriate regional transmission
+3 organization; or
+4 (3) if the appropriate regional transmission organization does not
+5 require a metric described in subdivision (1) or (2), a metric that:
+6 (A) can be used to demonstrate that a public utility has
+7 sufficient capacity to:
+8 (i) provide reliable electric service to Indiana customers for
+9 the spring period; and
+10 (ii) meet its planning reserve margin requirement and other
+11 federal reliability requirements described in subsection
+12 (n)(6); and
+13 (B) is acceptable to the commission.
+14 (k) As used in this section, "summer unforced capacity", or "summer
+15 UCAP", with respect to an electric generating facility, means:
+16 (1) the capacity value of the electric generating facility's installed
+17 capacity rate adjusted for the electric generating facility's average
+18 forced outage rate for the summer period, calculated as required
+19 by the appropriate regional transmission organization or by the
+20 Federal Energy Regulatory Commission; or
+21 (2) a metric that is similar to the metric described in subdivision
+22 (1) and that is required by the appropriate regional transmission
+23 organization.
+24 (l) As used in this section, "winter unforced capacity", or "winter
+25 UCAP", with respect to an electric generating facility, means:
+26 (1) the capacity value of the electric generating facility's installed
+27 capacity rate adjusted for the electric generating facility's average
+28 forced outage rate for the winter period, calculated as required by
+29 the appropriate regional transmission organization or by the
+30 Federal Energy Regulatory Commission;
+31 (2) a metric that is similar to the metric described in subdivision
+32 (1) and that is required by the appropriate regional transmission
+33 organization; or
+34 (3) if the appropriate regional transmission organization does not
+35 require a metric described in subdivision (1) or (2), a metric that:
+36 (A) can be used to demonstrate that a public utility has
+37 sufficient capacity to:
+38 (i) provide reliable electric service to Indiana customers for
+39 the winter period; and
+40 (ii) meet its planning reserve margin requirement and other
+41 federal reliability requirements described in subsection
+42 (n)(6); and
+2026 IN 1120—LS 6441/DI 101
+
+6
+1 (B) is acceptable to the commission.
+2 (m) A public utility that owns and operates an electric generating
+3 facility serving customers in Indiana shall operate and maintain the
+4 facility using good utility practices and in a manner:
+5 (1) reasonably intended to support the provision of reliable and
+6 economic electric service to customers of the public utility;
+7 (2) reasonably consistent with the resource reliability
+8 requirements of MISO or any other appropriate regional
+9 transmission organization; and
+10 (3) that reasonably maximizes the economic value of the electric
+11 generating facility.
+12 (n) Not later than thirty (30) days after the deadline for submitting
+13 an annual planning reserve margin report to MISO, each public utility
+14 providing electric service to Indiana customers shall, regardless of
+15 whether the public utility is required to submit an annual planning
+16 reserve margin report to MISO, file with the commission a report, in a
+17 form specified by the commission, that provides the following
+18 information for each of the next three (3) resource planning years,
+19 beginning with the planning year covered by the planning reserve
+20 margin report to MISO described in this subsection:
+21 (1) The:
+22 (A) capacity;
+23 (B) location; and
+24 (C) fuel source;
+25 for each electric generating facility that is owned and operated by
+26 the electric utility and that will be used to provide electric service
+27 to Indiana customers.
+28 (2) With respect to a report submitted to the commission after
+29 December 31, 2025, the amount of generating resource capacity
+30 or energy, or both, that the public utility plans to retire and that is
+31 owned and operated by the public utility and used to provide retail
+32 electric service in Indiana, including the:
+33 (A) capacity;
+34 (B) location;
+35 (C) fuel source; and
+36 (D) planned retirement date;
+37 for each electric generating facility. The public utility must
+38 include information as to whether the planned retirement is
+39 required in order to comply with environmental laws, regulations,
+40 or court orders, including consent decrees, that are or will be in
+41 effect at the time of the planned retirement. In addition, the public
+42 utility must provide its economic rationale for the planned
+2026 IN 1120—LS 6441/DI 101
+
+7
+1 retirement, including anticipated ratepayer impacts, and
+2 information concerning the public utility's plan or plans with
+3 respect to the amount of replacement capacity identified to
+4 provide approximately the same accredited capacity within the
+5 appropriate regional transmission organization as the amount of
+6 capacity of the facility to be retired.
+7 (3) With respect to a report submitted to the commission after
+8 December 31, 2025, the amount of generating resource capacity
+9 or energy, or both, that the public utility plans to refuel, including
+10 the:
+11 (A) capacity;
+12 (B) location;
+13 (C) existing fuel source;
+14 (D) proposed fuel source; and
+15 (E) planned completion date of the refueling;
+16 with respect to each electric generating facility that the public
+17 utility plans to refuel. The public utility must provide its
+18 economic rationale for the planned refueling, including
+19 anticipated ratepayer impacts, and information concerning the
+20 public utility's plan or plans with respect to the extent to which
+21 the refueling will maintain or increase the current generating
+22 resource accredited capacity or energy, or both, that the electric
+23 generating facility provides, so as to provide approximately the
+24 same accredited capacity within the appropriate regional
+25 transmission organization.
+26 (4) The amount of generating resource capacity or energy, or
+27 both, that the public utility has procured under contract and that
+28 will be used to provide electric service to Indiana customers,
+29 including the:
+30 (A) capacity;
+31 (B) location; and
+32 (C) fuel source;
+33 for each electric generating facility that will supply capacity or
+34 energy under the contract, to the extent known by the public
+35 utility.
+36 (5) The amount of demand response resources available to the
+37 public utility under contracts and tariffs.
+38 (6) The following:
+39 (A) The planning reserve margin requirements established by
+40 MISO for the planning years covered by the report, to the
+41 extent known by the public utility with respect to any
+42 particular planning year covered by the report.
+2026 IN 1120—LS 6441/DI 101
+
+8
+1 (B) If applicable, any other planning reserve margin
+2 requirement that:
+3 (i) applies to the planning years covered by the report; and
+4 (ii) the public utility is obligated to meet in accordance with
+5 the public utility's membership in an appropriate regional
+6 transmission organization;
+7 to the extent known by the public utility with respect to any
+8 particular planning year covered by the report.
+9 (C) Other federal reliability requirements that the public utility
+10 is obligated to meet in accordance with its membership in an
+11 appropriate regional transmission organization with respect to
+12 the planning years covered by the report, to the extent known
+13 by the public utility with respect to any particular planning
+14 year covered by the report.
+15 For each planning reserve margin requirement reported under
+16 clause (A) or (B), the public utility shall include a comparison of
+17 that planning reserve margin requirement to the planning reserve
+18 margin requirement established by the same regional transmission
+19 organization for the 2021-2022 planning year.
+20 (7) The reliability adequacy metrics of the public utility, as
+21 forecasted for the three (3) planning years covered by the report.
+22 (o) Upon request by a public utility, the commission shall determine
+23 whether information provided in a report filed by the public utility
+24 under subsection (n):
+25 (1) is confidential under IC 5-14-3-4 or is a trade secret under
+26 IC 24-2-3;
+27 (2) is exempt from public access and disclosure by Indiana law;
+28 and
+29 (3) shall be treated as confidential and protected from public
+30 access and disclosure by the commission.
+31 (p) A joint agency created under IC 8-1-2.2 may file the report
+32 required under subsection (n) as a consolidated report on behalf of any
+33 or all of the municipally owned utilities that make up its membership.
+34 (q) A:
+35 (1) corporation organized under IC 23-17 that is an electric
+36 cooperative and that has at least one (1) member that is a
+37 corporation organized under IC 8-1-13; or
+38 (2) general district corporation within the meaning of
+39 IC 8-1-13-23;
+40 may file the report required under subsection (n) as a consolidated
+41 report on behalf of any or all of the cooperatively owned electric
+42 utilities that it serves.
+2026 IN 1120—LS 6441/DI 101
+
+9
+1 (r) In reviewing a report filed by a public utility under subsection
+2 (n), the commission may request technical assistance from MISO or
+3 any other appropriate regional transmission organization in
+4 determining:
+5 (1) the planning reserve margin requirements or other federal
+6 reliability requirements that the public utility is obligated to meet,
+7 as described in subsection (n)(6); and
+8 (2) whether the resources available to the public utility under
+9 subsections (n)(1) through (n)(5) will be adequate to support the
+10 provision of reliable electric service to the public utility's Indiana
+11 customers.
+12 (s) With respect to a report submitted under subsection (n) after
+13 December 31, 2025, commission staff shall review the reports
+14 submitted by public utilities and shall, not later than ninety (90) days
+15 after the date of submission of the reports, submit to the commission a
+16 staff report concerning any planned retirements included in the reports
+17 under subsection (n)(2). The report must make recommendations to the
+18 commission based on whether each planned retirement:
+19 (1) is consistent with the standards set forth in subsection (m);
+20 (2) will be replaced with an amount of replacement capacity that
+21 will provide approximately the same accredited capacity within
+22 the appropriate regional transmission organization as the amount
+23 of capacity of the facility to be retired;
+24 (3) will not adversely and unreasonably impact a public utility's
+25 ability to provide safe, reliable, and economical electric utility
+26 service to the public utility's customers;
+27 (4) will result in the provision to Indiana customers of electric
+28 utility service with the attributes of:
+29 (A) reliability;
+30 (B) affordability;
+31 (C) resiliency;
+32 (D) stability; and
+33 (E) environmental sustainability;
+34 as set forth in IC 8-1-2-0.6; and
+35 (5) is required in order to comply with environmental laws,
+36 regulations, or court orders, including consent decrees, that are or
+37 will be in effect at the time of the planned retirement.
+38 (t) The commission shall make the staff reports prepared under
+39 subsection (s) publicly available by posting the staff reports on the
+40 commission's website. Upon the posting of a staff report on the
+41 commission's website, the commission shall accept public comments
+42 on the report for a period not to exceed thirty (30) days after the date
+2026 IN 1120—LS 6441/DI 101
+
+10
+1 of posting.
+2 (u) If, after reviewing a report filed by a public utility under
+3 subsection (n) and any staff report prepared with respect to the public
+4 utility under subsection (s), the commission is not satisfied that the
+5 public utility can either:
+6 (1) satisfy both:
+7 (A) its planning reserve margin requirement or other federal
+8 reliability requirements that the public utility is obligated to
+9 meet, as described in subsection (n)(6); and
+10 (B) the reliability adequacy metrics set forth in subsection (h);
+11 or
+12 (2) provide sufficient reason as to why the public utility is unable
+13 to satisfy both:
+14 (A) its planning reserve margin requirement or other federal
+15 reliability requirements that the public utility is obligated to
+16 meet, as described in subsection (n)(6); and
+17 (B) the reliability adequacy metrics set forth in subsection (h);
+18 during one (1) more of the planning years covered by the report, the
+19 commission shall conduct an investigation under IC 8-1-2-58 through
+20 IC 8-1-2-60 as to the reasons for the public utility's potential inability
+21 to meet the requirements described in subdivision (1) or provide
+22 sufficient reason as to that inability, as described in subdivision (2). In
+23 addition, if the public utility has indicated in its report under subsection
+24 (n)(2) that it plans to retire an electric generating facility within one (1)
+25 year of the date of the report, the commission must conduct an
+26 investigation under IC 8-1-2-58 through IC 8-1-2-60 as to the reasons
+27 for the public utility's potential inability to meet the requirements
+28 described in subdivision (1) or provide sufficient reason as to that
+29 inability, as described in subdivision (2). However, a public utility may
+30 request, not earlier than three (3) years before the planned retirement
+31 date of an electric generation facility, that the commission conduct an
+32 investigation under IC 8-1-2-58 through IC 8-1-2-60, for the purposes
+33 described in this subsection, with respect to the planned retirement. If
+34 the commission conducts an investigation at the request of a public
+35 utility within the three (3) year period before the planned retirement
+36 date of an electric generation facility, the commission may not conduct
+37 a subsequent investigation that would otherwise be required under this
+38 subsection with respect to the retirement of that same electric
+39 generation facility unless the commission is not satisfied, as of the time
+40 that an investigation would otherwise be required under this
+41 subsection, that the public utility can meet the requirements described
+42 in subdivision (1) or provide sufficient reason as to that inability, as
+2026 IN 1120—LS 6441/DI 101
+
+11
+1 described in subdivision (2). If a certificate is granted by the
+2 commission under this chapter for a facility intended to repower or
+3 replace a generation unit that is planned for retirement, and the
+4 certificate includes findings that the project will result in at least
+5 equivalent accredited capacity and will provide economic benefit to
+6 ratepayers as compared to the continued operation of the generating
+7 unit to be retired, the certificate under this chapter constitutes approval
+8 by the commission for purposes of an investigation required by this
+9 subsection. However, if the commission finds that facts and
+10 circumstances regarding the planned retirement have changed
+11 significantly since the certificate was granted and that those changes
+12 concern the public utility's ability to meet the requirements described
+13 in subdivision (1), the commission may conduct an investigation into
+14 the planned retirement of the unit.
+15 (v) If, upon investigation under IC 8-1-2-58 through IC 8-1-2-60,
+16 and after notice and hearing, as required by IC 8-1-2-59, the
+17 commission determines that the capacity resources available to the
+18 public utility under subsections (n)(1) through (n)(5) will not be
+19 adequate to allow the public utility to satisfy both its planning reserve
+20 margin requirements or other federal reliability requirements that the
+21 public utility is obligated to meet (as described in subsection (n)(6))
+22 and the reliability adequacy metrics set forth in subsection (h), the
+23 commission shall issue an order:
+24 (1) directing the public utility to acquire or construct; or
+25 (2) prohibiting the retirement or refueling of;
+26 such capacity resources that are reasonable and necessary to enable the
+27 public utility to provide reliable electric service to its Indiana
+28 customers, and to satisfy both its planning reserve margin requirements
+29 or other federal reliability requirements described in subsection (n)(6)
+30 and the reliability adequacy metrics set forth in subsection (h). The
+31 commission shall issue an order under this subsection not later than
+32 one hundred twenty (120) days after the initiation of the investigation
+33 under subsection (u). If the commission does not issue an order within
+34 the one hundred twenty (120) day period prescribed by this subsection,
+35 the public utility is considered to be able to meet the requirements
+36 described in subsection (u)(1) with respect to the retirement of the any
+37 electric generation facility under investigation. Not later than ninety
+38 (90) days after the date of an order by the commission under this
+39 subsection, the public utility shall file for approval with the
+40 commission a plan to comply with the commission's order.
+41 Notwithstanding IC 8-1-3 or any other law, any appeal of an order by
+42 the commission under this subsection is entitled to priority review and
+2026 IN 1120—LS 6441/DI 101
+
+12
+1 shall be given expedited consideration in accordance with Rule 21 of
+2 the Indiana Rules of Appellate Procedure.
+3 (w) With respect to a report submitted under subsection (n) after
+4 December 31, 2025, if the commission issues an order under
+5 subsection (v) to prohibit the retirement or refueling of an electric
+6 generation resource, the commission shall create a sub-docket to
+7 authorize the public utility to recover in rates the costs of the continued
+8 operation of the electric generation resource that was proposed to be
+9 retired or refueled. The commission must find that the continued costs
+10 of operation are just and reasonable before authorizing their recovery
+11 in the public utility's rates. The creation of a sub-docket under this
+12 subsection is not subject to the one hundred twenty (120) day time
+13 frame for the commission to issue an order under subsection (v).
+14 (x) With respect to a report submitted under subsection (n) after
+15 December 31, 2026, if:
+16 (1) the commission does not issue an order under subsection
+17 (v) to prohibit the retirement of a public utility's electric
+18 generation resource after an investigation of the planned
+19 retirement under subsection (u);
+20 (2) the public utility proceeds with plans to retire the electric
+21 generation resource before:
+22 (A) the date specified for the retirement in the public
+23 utility's most recently filed integrated resource plan, if
+24 applicable; or
+25 (B) the end of the electric generation resource's
+26 economically useful life, as determined by the commission
+27 upon the evidence presented; and
+28 (3) the retirement is not required to comply with
+29 environmental laws, regulations, or court orders, including
+30 consent decrees, that are or will be in effect at the time of the
+31 planned retirement;
+32 the public utility may not recover a return on any asset retirement
+33 obligations related to the retirement in any future general rate case
+34 or other regulatory proceeding.
+35 (x) (y) A public utility's plan under subsection (v) may include:
+36 (1) a request for a certificate of public convenience and necessity
+37 under this chapter; or
+38 (2) an application under IC 8-1-8.8;
+39 or both.
+40 (y) (z) Beginning in 2022, the commission shall include in its
+41 annual report under IC 8-1-1-14 the following information:
+42 (1) The commission's analysis regarding the ability of public
+2026 IN 1120—LS 6441/DI 101
+
+13
+1 utilities to:
+2 (A) provide reliable electric service to Indiana customers; and
+3 (B) satisfy both:
+4 (i) their planning reserve margin requirements or other
+5 federal reliability requirements; and
+6 (ii) the reliability adequacy metrics set forth in subsection
+7 (h);
+8 for the next three (3) utility resource planning years, based on the
+9 most recent reports filed by public utilities under subsection (n).
+10 (2) A summary of:
+11 (A) the projected demand for retail electricity in Indiana over
+12 the next calendar year;
+13 (B) the amount and type of capacity resources committed to
+14 meeting the projected demand;
+15 (C) beginning with the commission's annual report due before
+16 October 1, 2026, and in each subsequent annual report, the
+17 planned retirements or refuelings of electric generation
+18 resources and the plans to replace or retain the capacity or
+19 energy, or both, of the electric generation resources planned to
+20 be retired or refueled; and
+21 (D) beginning with the commission's annual report due before
+22 October 1, 2026, and in each subsequent annual report, the
+23 reports of commission staff under subsection (s).
+24 In preparing the summary required under this subdivision, the
+25 commission may consult with the forecasting group established
+26 under section 3.5 of this chapter.
+27 (3) Beginning with the commission's annual report filed under
+28 IC 8-1-1-14 in 2025, the commission's analysis regarding the
+29 appropriate percentage or portion of:
+30 (A) total spring UCAP that public utilities should be
+31 authorized to acquire from capacity markets under subsection
+32 (h)(3)(B); and
+33 (B) total fall UCAP that public utilities should be authorized
+34 to acquire from capacity markets under subsection (h)(4)(B).
+35 (z) (aa) The commission may adopt rules under IC 4-22-2 to
+36 implement this section.
+37 SECTION 3. An emergency is declared for this act.
+2026 IN 1120—LS 6441/DI 101
+
+[DELETED:  a t a p c p u6I]
+[DELETED:  1 I 8 A A B P p a a d a w t T c f t t t s a a t a r o a a t r a o e t m s p i a s o e t o t6I]
+[DELETED:  t p i t s t r a a A u i t s " r t f t c a t i t p u6I]
+[DELETED:  c b u t d t a p u h r r d i s A u i t s " r t t r m i t a r t f s6I]
+[DELETED:  t p ( o i t w U f c r a n m t f p c r a n m t f p a r t o o b t6I]
+[DELETED:  c b u t d t a p u h r r d i s a r t o o b t c b u t d t a p u h r r d i s6I]
+[DELETED:  r c w t r r o M o a o a r s b t c t p t f e e g f T p u m i a t w t p r i m p i e r f t p6I]
+[DELETED:  i a r i a t t a o r c i t p t r T p u m p i r f t p r i a c w t a r k b t p u w r t a6I]
+[DELETED:  I a a o p r m T r a m o t p u a c o u I 2 t i a e a t h a l o ( m t i  g d c w t m o6I]
+[DELETED:  o a r t o i 3 2 c s s r t r i r i o t c w e l w U t p o a s r o t6I]
+[DELETED:  I a r a r f b a p u u m t r d i s ( o p o t d o t r t c m c a w r t t r o t s e a i w o b r u t6I]
+[DELETED:  i s ( I a c i g b t a g u t i p f r a t H i t c f t f a r t p r h c a n a h a r b I 8 t u u s ( t ( w n b u t p r e s t i I t p u s f f a w t a p t c w t c o6I]
+[DELETED:  3 2 i t c i a o u r t c s c a s t r a a i o t p t d s f t r i t p t e o t e g r t r i n r t c w6I]
+[DELETED:  t p r m r o o r o r o e g t s U t p u s b ( T c m a r u I 4 t6I]

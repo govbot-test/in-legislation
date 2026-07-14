@@ -1,0 +1,877 @@
+Title: HOUSE BILL No. 1119
+Official Title: HOUSE BILL No. 1119
+Number of Sections: 1
+Source: versions - Engrossed House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+*HB1119.2*
+Reprinted
+January 28, 2026
+_____
+DIGEST OF HB 1119 (Updated January 27, 2026 5:21 pm - DI 106)
+Citations Affected: IC 35-38.
+Synopsis: Execution methods. Authorizes the death penalty to be
+carried out by firing squad. Removes the requirement that an execution
+be carried out: (1) at the Indiana state prison; and (2) before sunrise.
+Adds a pooled media witness to the list of persons authorized to
+witness an execution. Exempts certain persons from being required to
+participate in an execution, and requires the department of correction
+to contract with a psychologist or psychiatrist to make available
+treatment services to a member of an execution team. Makes
+conforming amendments and technical corrections.
+Effective: July 1, 2026.
+Lucas, Prescott, Bartels, Ireland
+January 5, 2026, read first time and referred to Committee on Courts and Criminal Code.
+January 22, 2026, amended, reported — Do Pass.
+January 27, 2026, read second time, amended, ordered engrossed.
+HB 1119—LS 6521/DI 106
+Reprinted
+January 28, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1119
+A BILL FOR AN ACT to amend the Indiana Code concerning
+corrections.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 35-38-6-0.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 0.5. (a) As used in this section, "participate in or be
+4 in attendance at an execution" includes:
+5 (1) personally preparing the convicted person;
+6 (2) personally servicing, preparing, or maintaining equipment
+7 used for the execution; or
+8 (3) supervising the activities of other personnel involved in
+9 carrying out an execution.
+10 (b) The commissioner of the department of correction may not
+11 require, as a condition of employment or as a contractual
+12 obligation:
+13 (1) an employee of; or
+14 (2) a person providing contractual services to;
+15 the department of correction to participate in or be in attendance
+16 at an execution if this is contrary to the moral or religious beliefs
+17 of the employee or person providing contractual services.
+HB 1119—LS 6521/DI 106
+2
+1 SECTION 2. IC 35-38-6-1, AS AMENDED BY P.L.56-2023,
+2 SECTION 322, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) Except as provided in
+4 section 1.5 of this chapter, the punishment of death shall be inflicted
+5 carried out by intravenous injection of a lethal substance or substances
+6 into the convicted person:
+7 (1) in a quantity sufficient to cause the death of the convicted
+8 person; and
+9 (2) until the convicted person is dead.
+10 (b) The death penalty shall be inflicted carried out before the hour
+11 of sunrise on a date fixed by the sentencing court. However, the
+12 execution must not occur until at least one hundred (100) days after the
+13 conviction.
+14 (c) The warden of the appropriate state prison, or persons
+15 designated by the warden, shall designate the person who is to serve as
+16 the executioner.
+17 (d) The department of correction may adopt rules under IC 4-22-2
+18 necessary to implement subsection (a).
+19 (e) The department of correction may make and enter into a contract
+20 with an outsourcing facility, a wholesale drug distributor (as defined in
+21 IC 25-26-14-12), a pharmacy (as defined in IC 25-26-13-2), or a
+22 pharmacist (as defined in IC 25-26-13-2) for the issuance or
+23 compounding of a lethal substance necessary to carry out an execution
+24 by lethal injection. A lethal substance provided to the department of
+25 correction under this subsection may be used only for the purpose of
+26 carrying out an execution by lethal injection. The issuance or
+27 compounding of a lethal substance under this subsection:
+28 (1) does not constitute the practice of pharmacy (as defined in
+29 IC 25-26-13-2);
+30 (2) is not subject to the jurisdiction of the Indiana board of
+31 pharmacy, the medical licensing board of Indiana, the Indiana
+32 department of health, or the Indiana professional licensing
+33 agency; and
+34 (3) is exempt from the provisions of IC 25.
+35 A pharmacist, a pharmacy, a wholesale drug distributor, or an
+36 outsourcing facility that provides a lethal substance to the department
+37 of correction under this subsection shall label the lethal substance with
+38 the name of the lethal substance, its dosage, a projected expiration date,
+39 and a statement that the lethal substance shall be used only by the
+40 department of correction for the purpose of carrying out an execution
+41 by lethal injection.
+42 (f) The following are confidential, are not subject to discovery, and
+HB 1119—LS 6521/DI 106
+3
+1 may not be introduced as evidence in any civil or criminal proceeding:
+2 (1) The identity of a person described in subsection (e) that enters
+3 into a contract with the department of correction under subsection
+4 (e) for the issuance or compounding of lethal substances
+5 necessary to carry out an execution by lethal injection.
+6 (2) The identity of an officer, an employee, or a contractor of a
+7 person described in subdivision (1).
+8 (3) The identity of a person contracted by a person described in
+9 subdivision (1) to obtain equipment or a substance to facilitate the
+10 compounding of a lethal substance described in subsection (e).
+11 (4) Information reasonably calculated to lead to the identity of a
+12 person described in this subsection, including a:
+13 (A) name;
+14 (B) residential or business address;
+15 (C) residential or office telephone number; and
+16 (D) Social Security number or tax identification number.
+17 This subsection applies retroactively to any request for information,
+18 discovery request, or proceeding, no matter when made or initiated.
+19 SECTION 3. IC 35-38-6-1.5 IS ADDED TO THE INDIANA CODE
+20 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+21 1, 2026]: Sec. 1.5. (a) The department of correction may carry out
+22 an execution by:
+23 (1) lethal injection; or
+24 (2) firing squad;
+25 as determined by the commissioner of the department of
+26 correction.
+27 (b) The department of correction shall establish a facility and a
+28 protocol for carrying out an execution by firing squad.
+29 (c) An execution shall be carried out within the time frame
+30 described in section 1(b) of this chapter.
+31 (d) An execution by firing squad shall be carried out by a firing
+32 squad consisting of three (3) individuals who are selected by the
+33 warden of the prison where the execution will be carried out. Each
+34 individual shall fire a weapon containing live ammunition. No
+35 blanks may be used.
+36 (e) The department of correction may adopt rules under
+37 IC 4-22-2 necessary to implement this chapter.
+38 (f) The following are confidential, are not subject to discovery,
+39 and may not be introduced as evidence in any civil or criminal
+40 proceeding:
+41 (1) The identity of any member of an execution team.
+42 (2) The identity of any individual designated as eligible to
+HB 1119—LS 6521/DI 106
+4
+1 serve as a member of an execution team.
+2 (3) Information reasonably calculated to lead to the identity
+3 of an individual described in this subsection.
+4 (h) The department of correction shall contract with a:
+5 (1) psychologist licensed under IC 25-33; or
+6 (2) psychiatrist licensed as a physician under IC 25-22.5;
+7 having expertise in treating posttraumatic stress disorder to make
+8 mental health services available to a member of an execution team
+9 for treatment of issues resulting from the member's participation
+10 on the execution team. The expenses of treatment shall be paid
+11 from the funds appropriated to the department for state
+12 correctional facilities operations.
+13 SECTION 4. IC 35-38-6-2, AS AMENDED BY P.L.67-2017,
+14 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 2. The court in which a death sentence is ordered
+16 shall issue a warrant to the sheriff within fourteen (14) days of the
+17 sentence:
+18 (1) that is under the seal of the court;
+19 (2) that contains notice of the conviction and the sentence;
+20 (3) that is directed to the warden of the appropriate state prison;
+21 and
+22 (4) that orders the warden to execute the convicted person at a
+23 specified time and date in the appropriate state prison.
+24 SECTION 5. IC 35-38-6-3, AS AMENDED BY P.L.67-2017,
+25 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 3. A sheriff who receives a warrant under section
+27 2 or section 7 of this chapter shall immediately:
+28 (1) transport the person to the appropriate state prison;
+29 (2) deliver the person and the warrant to the warden of the prison;
+30 (3) obtain a receipt for the delivery of the person; and
+31 (4) deliver the receipt to the clerk of the sentencing court.
+32 SECTION 6. IC 35-38-6-4 IS AMENDED TO READ AS
+33 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) The convicted
+34 person shall be confined in the a state prison until the date of the
+35 convicted person's execution. The convicted person may temporarily
+36 be held in a maximum security facility for security purposes or during
+37 renovation of the state prison. A convicted female shall be confined in
+38 a maximum security women's prison until not more than thirty (30)
+39 days before the date of her execution. A convicted female shall be
+40 segregated from male prisoners after her transfer from the women's
+41 prison.
+42 (b) The convicted person's:
+HB 1119—LS 6521/DI 106
+5
+1 (1) attorney;
+2 (2) physician;
+3 (3) relatives;
+4 (4) friends; and
+5 (5) spiritual advisor;
+6 may visit the convicted person while the convicted person is confined.
+7 The department of correction shall adopt rules, under IC 4-22-2,
+8 governing such these visits.
+9 SECTION 7. IC 35-38-6-5 IS AMENDED TO READ AS
+10 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. The execution must
+11 take place inside the walls of the an Indiana state prison in a room
+12 arranged for that purpose. The department of correction shall provide
+13 the necessary room and appliances equipment to carry out the
+14 execution as provided in this chapter.
+15 SECTION 8. IC 35-38-6-6, AS AMENDED BY P.L.67-2017,
+16 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 6. (a) Only the following persons may be present
+18 at the execution:
+19 (1) The warden of the state prison.
+20 (2) The person Persons designated by the warden of the state
+21 prison and any assistants who are necessary to assist in the
+22 execution.
+23 (3) The prison physician.
+24 (4) One (1) other physician.
+25 (5) The spiritual advisor of the convicted person.
+26 (6) The prison chaplain.
+27 (7) Not more than five (5) friends or relatives of the convicted
+28 person who are invited by the convicted person to attend.
+29 (8) Except as provided in subsection (b), not more than eight (8)
+30 of the following members of the victim's immediate family who
+31 are at least eighteen (18) years of age:
+32 (A) The victim's spouse.
+33 (B) One (1) or more of the victim's children.
+34 (C) One (1) or more of the victim's parents.
+35 (D) One (1) or more of the victim's grandparents.
+36 (E) One (1) or more of the victim's siblings.
+37 (9) At least one (1) pooled media witness, selected by the
+38 department from media organizations that primarily cover
+39 the statehouse. A media witness is subject to reasonable
+40 security restrictions established by the department.
+41 (b) If there is more than one (1) victim, not more than eight (8)
+42 persons who are members of the victims' immediate families may be
+HB 1119—LS 6521/DI 106
+6
+1 present at the execution. The department shall determine which persons
+2 may be present in accordance with procedures adopted under
+3 subsection (c).
+4 (c) The department shall develop procedures to determine which
+5 family members of a victim may be present at the execution if more
+6 than eight (8) family members of a victim desire to be present or if
+7 there is more than one (1) victim. Upon the request of a family member
+8 of a victim, the department shall establish a support room for the use
+9 of:
+10 (1) an immediate family member of the victim described in
+11 subsection (a)(8) who is not selected to be present at the
+12 execution; and
+13 (2) a person invited by an immediate family member of the victim
+14 described in subsection (a)(8) to offer support to the immediate
+15 family member.
+16 (d) The warden of the state prison may exclude a person from
+17 viewing the execution if the warden determines that the presence of the
+18 person would threaten the safety or security of the state prison and sets
+19 forth this determination in writing.
+20 (e) The department of correction:
+21 (1) shall keep confidential the identities of persons who assist the
+22 warden of the state prison in an execution; and
+23 (2) may:
+24 (A) classify as confidential; and
+25 (B) withhold from the public;
+26 any part of a document relating to an execution that would reveal
+27 the identity of a person who assists the warden in the execution.
+28 SECTION 9. IC 35-38-6-7, AS AMENDED BY P.L.67-2017,
+29 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 7. (a) If the convicted person:
+31 (1) escapes from custody before the date set for execution; and
+32 (2) is recaptured before the date set for execution;
+33 the convicted person shall be confined and executed according to the
+34 terms of the warrant.
+35 (b) If the convicted person:
+36 (1) escapes from custody before delivery to the warden of the
+37 appropriate state prison; and
+38 (2) is recaptured after the date set for execution;
+39 any person may arrest and commit the convicted person to the jail of
+40 the county in which the convicted person was sentenced. The sheriff
+41 shall notify the sentencing court of the recapture, and the court shall fix
+42 a new date for the execution. The new execution date must not be less
+HB 1119—LS 6521/DI 106
+7
+1 than thirty (30) nor more than sixty (60) days after the recapture of the
+2 person. The court shall issue a new warrant in the form prescribed by
+3 section 2 of this chapter.
+4 (c) If the convicted person:
+5 (1) escapes from confinement; and
+6 (2) is recaptured after the date set for execution;
+7 any person may arrest and commit the convicted person to the
+8 department of correction. When the convicted person is returned to the
+9 department of correction or a facility or place designated by the
+10 department of correction, the department shall notify the sentencing
+11 court, and the court shall fix a new date for the execution. The new
+12 execution date must not be less than thirty (30) nor more than sixty (60)
+13 days after the recapture of the person. The court shall issue a warrant
+14 to the department of correction directing the superintendent warden of
+15 the appropriate state prison to execute the convicted person at a
+16 specified time and date in the state prison.
+17 SECTION 10. IC 35-38-6-10, AS AMENDED BY P.L.67-2017,
+18 SECTION 20, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2026]: Sec. 10. If the physician of the state prison where a
+20 condemned woman is scheduled to be executed, and one (1) other
+21 physician, certify in writing to the warden of the state prison and the
+22 sentencing court that a the condemned woman is pregnant, the warden
+23 shall suspend the execution of the sentence. When the state prison
+24 physician and one (1) other physician certify in writing to the warden
+25 of the state prison and the sentencing court that the woman is no longer
+26 pregnant, the sentencing court shall immediately fix a new execution
+27 date.
+HB 1119—LS 6521/DI 106
+8
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Courts and Criminal Code, to
+which was referred House Bill 1119, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 35-38-6-0.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 0.5. (a) As used in this section,
+"participate in or be in attendance at an execution" includes:
+(1) personally preparing the convicted person;
+(2) personally servicing, preparing, or maintaining equipment
+used for the execution; or
+(3) supervising the activities of other personnel involved in
+carrying out an execution.
+(b) The commissioner of the department of correction may not
+require, as a condition of employment or as a contractual
+obligation:
+(1) an employee of; or
+(2) a person providing contractual services to;
+the department of correction to participate in or be in attendance
+at an execution if this is contrary to the moral or religious beliefs
+of the employee or person providing contractual services.".
+Page 3, delete lines 2 through 42, begin a new paragraph and insert:
+"SECTION 2. IC 35-38-6-1.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 1.5. (a) The department of
+correction may carry out an execution by:
+(1) lethal injection;
+(2) firing squad; or
+(3) nitrogen hypoxia;
+as determined by the commissioner of the department of
+correction.
+(b) The department of correction shall establish a facility and a
+protocol for carrying out an execution by firing squad.
+(c) The department of correction shall establish a facility and a
+protocol for carrying out an execution by nitrogen hypoxia.
+(d) An execution shall be carried out within the time frame
+described in section 1(b) of this chapter.
+(e) An execution by firing squad shall be carried out by a firing
+squad consisting of three (3) individuals who are selected by the
+HB 1119—LS 6521/DI 106
+9
+warden of the prison where the execution will be carried out. Each
+individual shall fire a weapon containing live ammunition. No
+blanks may be used.
+(f) The department of correction may adopt rules under
+IC 4-22-2 necessary to implement this chapter.
+(g) The following are confidential, are not subject to discovery,
+and may not be introduced as evidence in any civil or criminal
+proceeding:
+(1) The identity of any member of an execution team.
+(2) The identity of any individual designated as eligible to
+serve as a member of an execution team.
+(3) Information reasonably calculated to lead to the identity
+of an individual described in this subsection.".
+Page 4, delete line 1.
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1119 as introduced.)
+MCNAMARA
+Committee Vote: yeas 8, nays 5.
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1119 be amended to read as
+follows:
+Page 4, between lines 6 and 7, begin a new paragraph and insert:
+"(h) The department of correction shall contract with a:
+(1) psychologist licensed under IC 25-33; or
+(2) psychiatrist licensed as a physician under IC 25-22.5;
+having expertise in treating posttraumatic stress disorder to make
+mental health services available to a member of an execution team
+for treatment of issues resulting from the member's participation
+on the execution team. The expenses of treatment shall be paid
+from the funds appropriated to the department for state
+correctional facilities operations.".
+(Reference is to HB 1119 as printed January 22, 2026.)
+GARCIA WILBURN
+HB 1119—LS 6521/DI 106
+10
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1119 be amended to read as
+follows:
+Page 5, between lines 30 and 31, begin a new line block indented
+and insert:
+"(9) At least one (1) pooled media witness, selected by the
+department from media organizations that primarily cover
+the statehouse. A media witness is subject to reasonable
+security restrictions established by the department.".
+Renumber all SECTIONS consecutively.
+(Reference is to HB 1119 as printed January 22, 2026.)
+ZIMMERMAN
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1119 be amended to read as
+follows:
+Page 3, line 23, after "injection;" insert "or".
+Page 3, line 24, delete "or".
+Page 3, delete line 25.
+Page 3, delete lines 30 through 31.
+Page 3, line 32, delete "(d)" and insert "(c)".
+Page 3, line 34, delete "(e)" and insert "(d)".
+Page 3, line 39, delete "(f)" and insert "(e)".
+Page 3, line 41, delete "(g)" and insert "(f)".
+Renumber all SECTIONS consecutively.
+(Reference is to HB 1119 as printed January 22, 2026.)
+ZIMMERMAN
+HB 1119—LS 6521/DI 106
+[DELETED:  l c w a p o p t m a s t a m o a e t M]
+[DELETED:  a a c o e o a a c]
+[DELETED:  2 I 3 A A B P 3 I A T R A F b t T w o t a s p o p o ( d i I 2 f t i o o a e b l i T i o s o h o t I p l p a p a w d d o a]
+[DELETED:  f t i o c o l s d b t c o t d o T d o c m a r u]
+[DELETED:  t f a t t d f s 4 I 3 A A B P 5 I 3 A A B P 6 I 3 I A T R A]
+[DELETED:  d o c s a r u I 4 7 I 3 I A T R A n r a a e t c o t 8 I 3 A A B P a a a w a n t a i t s A m w i s t r]
+[DELETED:  b p i a w p a u a i f m o t v d i ( w i n s t b p a t 9 I 3 A A B P]
+[DELETED:  p m a a c t c p t t o c o a f o p d b t]
+[DELETED:  w r H B 1 h h t s u 1 b t e c a l 1 b a n 1 3 I A T I A A N S T R A F a a c o e o a a c 2 3 I A T T I A A N S T R A F J 1 2 S 1 ( T d o d b t c o t d o]
+[DELETED:  T d o c m a r u t f a t t d f s]
+[DELETED:  s A m w i s t r]
+
+
+================================================================================
+
+Raw Text:
+*HB1119.2*
+Reprinted
+January 28, 2026
+HOUSE BILL No. 1119
+_____
+DIGEST OF HB 1119 (Updated January 27, 2026 5:21 pm - DI 106)
+Citations Affected: IC 35-38.
+Synopsis: Execution methods. Authorizes the death penalty to be
+carried out by firing squad. Removes the requirement that an execution
+be carried out: (1) at the Indiana state prison; and (2) before sunrise.
+Adds a pooled media witness to the list of persons authorized to
+witness an execution. Exempts certain persons from being required to
+participate in an execution, and requires the department of correction
+to contract with a psychologist or psychiatrist to make available
+treatment services to a member of an execution team. Makes
+conforming amendments and technical corrections.
+Effective: July 1, 2026.
+Lucas, Prescott, Bartels, Ireland
+January 5, 2026, read first time and referred to Committee on Courts and Criminal Code.
+January 22, 2026, amended, reported — Do Pass.
+January 27, 2026, read second time, amended, ordered engrossed.
+HB 1119—LS 6521/DI 106
+
+Reprinted
+January 28, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1119
+A BILL FOR AN ACT to amend the Indiana Code concerning
+corrections.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 35-38-6-0.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 0.5. (a) As used in this section, "participate in or be
+4 in attendance at an execution" includes:
+5 (1) personally preparing the convicted person;
+6 (2) personally servicing, preparing, or maintaining equipment
+7 used for the execution; or
+8 (3) supervising the activities of other personnel involved in
+9 carrying out an execution.
+10 (b) The commissioner of the department of correction may not
+11 require, as a condition of employment or as a contractual
+12 obligation:
+13 (1) an employee of; or
+14 (2) a person providing contractual services to;
+15 the department of correction to participate in or be in attendance
+16 at an execution if this is contrary to the moral or religious beliefs
+17 of the employee or person providing contractual services.
+HB 1119—LS 6521/DI 106
+
+2
+1 SECTION 2. IC 35-38-6-1, AS AMENDED BY P.L.56-2023,
+2 SECTION 322, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) Except as provided in
+4 section 1.5 of this chapter, the punishment of death shall be inflicted
+5 carried out by intravenous injection of a lethal substance or substances
+6 into the convicted person:
+7 (1) in a quantity sufficient to cause the death of the convicted
+8 person; and
+9 (2) until the convicted person is dead.
+10 (b) The death penalty shall be inflicted carried out before the hour
+11 of sunrise on a date fixed by the sentencing court. However, the
+12 execution must not occur until at least one hundred (100) days after the
+13 conviction.
+14 (c) The warden of the appropriate state prison, or persons
+15 designated by the warden, shall designate the person who is to serve as
+16 the executioner.
+17 (d) The department of correction may adopt rules under IC 4-22-2
+18 necessary to implement subsection (a).
+19 (e) The department of correction may make and enter into a contract
+20 with an outsourcing facility, a wholesale drug distributor (as defined in
+21 IC 25-26-14-12), a pharmacy (as defined in IC 25-26-13-2), or a
+22 pharmacist (as defined in IC 25-26-13-2) for the issuance or
+23 compounding of a lethal substance necessary to carry out an execution
+24 by lethal injection. A lethal substance provided to the department of
+25 correction under this subsection may be used only for the purpose of
+26 carrying out an execution by lethal injection. The issuance or
+27 compounding of a lethal substance under this subsection:
+28 (1) does not constitute the practice of pharmacy (as defined in
+29 IC 25-26-13-2);
+30 (2) is not subject to the jurisdiction of the Indiana board of
+31 pharmacy, the medical licensing board of Indiana, the Indiana
+32 department of health, or the Indiana professional licensing
+33 agency; and
+34 (3) is exempt from the provisions of IC 25.
+35 A pharmacist, a pharmacy, a wholesale drug distributor, or an
+36 outsourcing facility that provides a lethal substance to the department
+37 of correction under this subsection shall label the lethal substance with
+38 the name of the lethal substance, its dosage, a projected expiration date,
+39 and a statement that the lethal substance shall be used only by the
+40 department of correction for the purpose of carrying out an execution
+41 by lethal injection.
+42 (f) The following are confidential, are not subject to discovery, and
+HB 1119—LS 6521/DI 106
+
+3
+1 may not be introduced as evidence in any civil or criminal proceeding:
+2 (1) The identity of a person described in subsection (e) that enters
+3 into a contract with the department of correction under subsection
+4 (e) for the issuance or compounding of lethal substances
+5 necessary to carry out an execution by lethal injection.
+6 (2) The identity of an officer, an employee, or a contractor of a
+7 person described in subdivision (1).
+8 (3) The identity of a person contracted by a person described in
+9 subdivision (1) to obtain equipment or a substance to facilitate the
+10 compounding of a lethal substance described in subsection (e).
+11 (4) Information reasonably calculated to lead to the identity of a
+12 person described in this subsection, including a:
+13 (A) name;
+14 (B) residential or business address;
+15 (C) residential or office telephone number; and
+16 (D) Social Security number or tax identification number.
+17 This subsection applies retroactively to any request for information,
+18 discovery request, or proceeding, no matter when made or initiated.
+19 SECTION 3. IC 35-38-6-1.5 IS ADDED TO THE INDIANA CODE
+20 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+21 1, 2026]: Sec. 1.5. (a) The department of correction may carry out
+22 an execution by:
+23 (1) lethal injection; or
+24 (2) firing squad;
+25 as determined by the commissioner of the department of
+26 correction.
+27 (b) The department of correction shall establish a facility and a
+28 protocol for carrying out an execution by firing squad.
+29 (c) An execution shall be carried out within the time frame
+30 described in section 1(b) of this chapter.
+31 (d) An execution by firing squad shall be carried out by a firing
+32 squad consisting of three (3) individuals who are selected by the
+33 warden of the prison where the execution will be carried out. Each
+34 individual shall fire a weapon containing live ammunition. No
+35 blanks may be used.
+36 (e) The department of correction may adopt rules under
+37 IC 4-22-2 necessary to implement this chapter.
+38 (f) The following are confidential, are not subject to discovery,
+39 and may not be introduced as evidence in any civil or criminal
+40 proceeding:
+41 (1) The identity of any member of an execution team.
+42 (2) The identity of any individual designated as eligible to
+HB 1119—LS 6521/DI 106
+
+4
+1 serve as a member of an execution team.
+2 (3) Information reasonably calculated to lead to the identity
+3 of an individual described in this subsection.
+4 (h) The department of correction shall contract with a:
+5 (1) psychologist licensed under IC 25-33; or
+6 (2) psychiatrist licensed as a physician under IC 25-22.5;
+7 having expertise in treating posttraumatic stress disorder to make
+8 mental health services available to a member of an execution team
+9 for treatment of issues resulting from the member's participation
+10 on the execution team. The expenses of treatment shall be paid
+11 from the funds appropriated to the department for state
+12 correctional facilities operations.
+13 SECTION 4. IC 35-38-6-2, AS AMENDED BY P.L.67-2017,
+14 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 2. The court in which a death sentence is ordered
+16 shall issue a warrant to the sheriff within fourteen (14) days of the
+17 sentence:
+18 (1) that is under the seal of the court;
+19 (2) that contains notice of the conviction and the sentence;
+20 (3) that is directed to the warden of the appropriate state prison;
+21 and
+22 (4) that orders the warden to execute the convicted person at a
+23 specified time and date in the appropriate state prison.
+24 SECTION 5. IC 35-38-6-3, AS AMENDED BY P.L.67-2017,
+25 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 3. A sheriff who receives a warrant under section
+27 2 or section 7 of this chapter shall immediately:
+28 (1) transport the person to the appropriate state prison;
+29 (2) deliver the person and the warrant to the warden of the prison;
+30 (3) obtain a receipt for the delivery of the person; and
+31 (4) deliver the receipt to the clerk of the sentencing court.
+32 SECTION 6. IC 35-38-6-4 IS AMENDED TO READ AS
+33 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) The convicted
+34 person shall be confined in the a state prison until the date of the
+35 convicted person's execution. The convicted person may temporarily
+36 be held in a maximum security facility for security purposes or during
+37 renovation of the state prison. A convicted female shall be confined in
+38 a maximum security women's prison until not more than thirty (30)
+39 days before the date of her execution. A convicted female shall be
+40 segregated from male prisoners after her transfer from the women's
+41 prison.
+42 (b) The convicted person's:
+HB 1119—LS 6521/DI 106
+
+5
+1 (1) attorney;
+2 (2) physician;
+3 (3) relatives;
+4 (4) friends; and
+5 (5) spiritual advisor;
+6 may visit the convicted person while the convicted person is confined.
+7 The department of correction shall adopt rules, under IC 4-22-2,
+8 governing such these visits.
+9 SECTION 7. IC 35-38-6-5 IS AMENDED TO READ AS
+10 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. The execution must
+11 take place inside the walls of the an Indiana state prison in a room
+12 arranged for that purpose. The department of correction shall provide
+13 the necessary room and appliances equipment to carry out the
+14 execution as provided in this chapter.
+15 SECTION 8. IC 35-38-6-6, AS AMENDED BY P.L.67-2017,
+16 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 6. (a) Only the following persons may be present
+18 at the execution:
+19 (1) The warden of the state prison.
+20 (2) The person Persons designated by the warden of the state
+21 prison and any assistants who are necessary to assist in the
+22 execution.
+23 (3) The prison physician.
+24 (4) One (1) other physician.
+25 (5) The spiritual advisor of the convicted person.
+26 (6) The prison chaplain.
+27 (7) Not more than five (5) friends or relatives of the convicted
+28 person who are invited by the convicted person to attend.
+29 (8) Except as provided in subsection (b), not more than eight (8)
+30 of the following members of the victim's immediate family who
+31 are at least eighteen (18) years of age:
+32 (A) The victim's spouse.
+33 (B) One (1) or more of the victim's children.
+34 (C) One (1) or more of the victim's parents.
+35 (D) One (1) or more of the victim's grandparents.
+36 (E) One (1) or more of the victim's siblings.
+37 (9) At least one (1) pooled media witness, selected by the
+38 department from media organizations that primarily cover
+39 the statehouse. A media witness is subject to reasonable
+40 security restrictions established by the department.
+41 (b) If there is more than one (1) victim, not more than eight (8)
+42 persons who are members of the victims' immediate families may be
+HB 1119—LS 6521/DI 106
+
+6
+1 present at the execution. The department shall determine which persons
+2 may be present in accordance with procedures adopted under
+3 subsection (c).
+4 (c) The department shall develop procedures to determine which
+5 family members of a victim may be present at the execution if more
+6 than eight (8) family members of a victim desire to be present or if
+7 there is more than one (1) victim. Upon the request of a family member
+8 of a victim, the department shall establish a support room for the use
+9 of:
+10 (1) an immediate family member of the victim described in
+11 subsection (a)(8) who is not selected to be present at the
+12 execution; and
+13 (2) a person invited by an immediate family member of the victim
+14 described in subsection (a)(8) to offer support to the immediate
+15 family member.
+16 (d) The warden of the state prison may exclude a person from
+17 viewing the execution if the warden determines that the presence of the
+18 person would threaten the safety or security of the state prison and sets
+19 forth this determination in writing.
+20 (e) The department of correction:
+21 (1) shall keep confidential the identities of persons who assist the
+22 warden of the state prison in an execution; and
+23 (2) may:
+24 (A) classify as confidential; and
+25 (B) withhold from the public;
+26 any part of a document relating to an execution that would reveal
+27 the identity of a person who assists the warden in the execution.
+28 SECTION 9. IC 35-38-6-7, AS AMENDED BY P.L.67-2017,
+29 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 7. (a) If the convicted person:
+31 (1) escapes from custody before the date set for execution; and
+32 (2) is recaptured before the date set for execution;
+33 the convicted person shall be confined and executed according to the
+34 terms of the warrant.
+35 (b) If the convicted person:
+36 (1) escapes from custody before delivery to the warden of the
+37 appropriate state prison; and
+38 (2) is recaptured after the date set for execution;
+39 any person may arrest and commit the convicted person to the jail of
+40 the county in which the convicted person was sentenced. The sheriff
+41 shall notify the sentencing court of the recapture, and the court shall fix
+42 a new date for the execution. The new execution date must not be less
+HB 1119—LS 6521/DI 106
+
+7
+1 than thirty (30) nor more than sixty (60) days after the recapture of the
+2 person. The court shall issue a new warrant in the form prescribed by
+3 section 2 of this chapter.
+4 (c) If the convicted person:
+5 (1) escapes from confinement; and
+6 (2) is recaptured after the date set for execution;
+7 any person may arrest and commit the convicted person to the
+8 department of correction. When the convicted person is returned to the
+9 department of correction or a facility or place designated by the
+10 department of correction, the department shall notify the sentencing
+11 court, and the court shall fix a new date for the execution. The new
+12 execution date must not be less than thirty (30) nor more than sixty (60)
+13 days after the recapture of the person. The court shall issue a warrant
+14 to the department of correction directing the superintendent warden of
+15 the appropriate state prison to execute the convicted person at a
+16 specified time and date in the state prison.
+17 SECTION 10. IC 35-38-6-10, AS AMENDED BY P.L.67-2017,
+18 SECTION 20, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2026]: Sec. 10. If the physician of the state prison where a
+20 condemned woman is scheduled to be executed, and one (1) other
+21 physician, certify in writing to the warden of the state prison and the
+22 sentencing court that a the condemned woman is pregnant, the warden
+23 shall suspend the execution of the sentence. When the state prison
+24 physician and one (1) other physician certify in writing to the warden
+25 of the state prison and the sentencing court that the woman is no longer
+26 pregnant, the sentencing court shall immediately fix a new execution
+27 date.
+HB 1119—LS 6521/DI 106
+
+8
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Courts and Criminal Code, to
+which was referred House Bill 1119, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 35-38-6-0.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 0.5. (a) As used in this section,
+"participate in or be in attendance at an execution" includes:
+(1) personally preparing the convicted person;
+(2) personally servicing, preparing, or maintaining equipment
+used for the execution; or
+(3) supervising the activities of other personnel involved in
+carrying out an execution.
+(b) The commissioner of the department of correction may not
+require, as a condition of employment or as a contractual
+obligation:
+(1) an employee of; or
+(2) a person providing contractual services to;
+the department of correction to participate in or be in attendance
+at an execution if this is contrary to the moral or religious beliefs
+of the employee or person providing contractual services.".
+Page 3, delete lines 2 through 42, begin a new paragraph and insert:
+"SECTION 2. IC 35-38-6-1.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 1.5. (a) The department of
+correction may carry out an execution by:
+(1) lethal injection;
+(2) firing squad; or
+(3) nitrogen hypoxia;
+as determined by the commissioner of the department of
+correction.
+(b) The department of correction shall establish a facility and a
+protocol for carrying out an execution by firing squad.
+(c) The department of correction shall establish a facility and a
+protocol for carrying out an execution by nitrogen hypoxia.
+(d) An execution shall be carried out within the time frame
+described in section 1(b) of this chapter.
+(e) An execution by firing squad shall be carried out by a firing
+squad consisting of three (3) individuals who are selected by the
+HB 1119—LS 6521/DI 106
+
+9
+warden of the prison where the execution will be carried out. Each
+individual shall fire a weapon containing live ammunition. No
+blanks may be used.
+(f) The department of correction may adopt rules under
+IC 4-22-2 necessary to implement this chapter.
+(g) The following are confidential, are not subject to discovery,
+and may not be introduced as evidence in any civil or criminal
+proceeding:
+(1) The identity of any member of an execution team.
+(2) The identity of any individual designated as eligible to
+serve as a member of an execution team.
+(3) Information reasonably calculated to lead to the identity
+of an individual described in this subsection.".
+Page 4, delete line 1.
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1119 as introduced.)
+MCNAMARA
+Committee Vote: yeas 8, nays 5.
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1119 be amended to read as
+follows:
+Page 4, between lines 6 and 7, begin a new paragraph and insert:
+"(h) The department of correction shall contract with a:
+(1) psychologist licensed under IC 25-33; or
+(2) psychiatrist licensed as a physician under IC 25-22.5;
+having expertise in treating posttraumatic stress disorder to make
+mental health services available to a member of an execution team
+for treatment of issues resulting from the member's participation
+on the execution team. The expenses of treatment shall be paid
+from the funds appropriated to the department for state
+correctional facilities operations.".
+(Reference is to HB 1119 as printed January 22, 2026.)
+GARCIA WILBURN
+HB 1119—LS 6521/DI 106
+
+10
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1119 be amended to read as
+follows:
+Page 5, between lines 30 and 31, begin a new line block indented
+and insert:
+"(9) At least one (1) pooled media witness, selected by the
+department from media organizations that primarily cover
+the statehouse. A media witness is subject to reasonable
+security restrictions established by the department.".
+Renumber all SECTIONS consecutively.
+(Reference is to HB 1119 as printed January 22, 2026.)
+ZIMMERMAN
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1119 be amended to read as
+follows:
+Page 3, line 23, after "injection;" insert "or".
+Page 3, line 24, delete "or".
+Page 3, delete line 25.
+Page 3, delete lines 30 through 31.
+Page 3, line 32, delete "(d)" and insert "(c)".
+Page 3, line 34, delete "(e)" and insert "(d)".
+Page 3, line 39, delete "(f)" and insert "(e)".
+Page 3, line 41, delete "(g)" and insert "(f)".
+Renumber all SECTIONS consecutively.
+(Reference is to HB 1119 as printed January 22, 2026.)
+ZIMMERMAN
+HB 1119—LS 6521/DI 106
+
+[DELETED:  l c w a p o p t m a s t a m o a e t M]
+[DELETED:  a a c o e o a a c]
+[DELETED:  2 I 3 A A B P 3 I A T R A F b t T w o t a s p o p o ( d i I 2 f t i o o a e b l i T i o s o h o t I p l p a p a w d d o a]
+[DELETED:  f t i o c o l s d b t c o t d o T d o c m a r u]
+[DELETED:  t f a t t d f s 4 I 3 A A B P 5 I 3 A A B P 6 I 3 I A T R A]
+[DELETED:  d o c s a r u I 4 7 I 3 I A T R A n r a a e t c o t 8 I 3 A A B P a a a w a n t a i t s A m w i s t r]
+[DELETED:  b p i a w p a u a i f m o t v d i ( w i n s t b p a t 9 I 3 A A B P]
+[DELETED:  p m a a c t c p t t o c o a f o p d b t]
+[DELETED:  w r H B 1 h h t s u 1 b t e c a l 1 b a n 1 3 I A T I A A N S T R A F a a c o e o a a c 2 3 I A T T I A A N S T R A F J 1 2 S 1 ( T d o d b t c o t d o]
+[DELETED:  T d o c m a r u t f a t t d f s]
+[DELETED:  s A m w i s t r]

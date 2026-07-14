@@ -1,0 +1,415 @@
+Title: SENATE BILL No. 219
+Official Title: SENATE BILL No. 219
+Number of Sections: 1
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 23-0.7.
+Synopsis: Uniform Antitrust Pre-merger Notification Act.
+Incorporates into Indiana's law governing businesses and other
+associations the Uniform Antitrust Pre-Merger Notification Act, as
+approved and recommended for enactment in all states by the Uniform
+Law Commission. Provides that upon filing a pre-merger notification
+under the federal Hart-Scott-Rondino Act, a person shall file
+contemporaneously a complete electronic copy of the form required
+under that act with the attorney general if: (1) the person's principal
+place of business is in Indiana; or (2) the person conducts a specified
+level of sales in Indiana with respect to the goods or services involved
+in the proposed merger transaction. Provides that: (1) a form or
+additional documentary material under the federal act; and (2) other
+specified information related to the proposed merger transaction; are
+confidential for purposes of Indiana's public records act and may not be
+disclosed or made public by the attorney general. Provides an exception
+to this confidentiality requirement if: (1) the attorney general's
+disclosure is made pursuant to a protective order issued by an agency,
+court, or judicial officer in an administrative proceeding or judicial
+action; and (2) the proposed merger transaction is relevant to the
+proceeding or action. Authorizes the attorney general to: (1) share
+information with; and (2) disclose a form or additional documentary
+material under the federal act to; the attorney general of another state
+that has enacted the Uniform Antitrust Pre-Merger Notification Act or
+a substantively equivalent act. Authorizes the attorney general to
+impose on a person that violates the bill's filing requirement a civil
+penalty of not more than $10,000 per day for each day that the violation
+remains unremedied.
+Effective: July 1, 2026.
+Charbonneau
+January 8, 2026, read first time and referred to Committee on Judiciary.
+2026 IN 219—LS 6798/DI 101
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 219
+A BILL FOR AN ACT to amend the Indiana Code concerning
+business and other associations.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 23-0.7 IS ADDED TO THE INDIANA CODE AS
+2 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+3 2026]:
+4 ARTICLE 0.7. UNIFORM ANTITRUST PRE-MERGER
+5 NOTIFICATION ACT
+6 Chapter 1. General Provisions
+7 Sec. 1. This article may be cited as the Uniform Antitrust
+8 Pre-Merger Notification Act.
+9 Sec. 2. This article applies to a pre-merger notification filed
+10 after June 30, 2026.
+11 Sec. 3. For purposes of applying and construing this article,
+12 consideration shall be given to the need to promote uniformity of
+13 the law among jurisdictions that enact the Uniform Antitrust
+14 Pre-Merger Notification Act.
+15 Chapter 2. Definitions
+16 Sec. 0.5. The definitions in this chapter apply throughout this
+17 article.
+2026 IN 219—LS 6798/DI 101
+2
+1 Sec. 1. "Additional documentary material" means the additional
+2 documentary material filed with a Hart-Scott-Rodino form.
+3 Sec. 2. "Electronic" means relating to technology having
+4 electrical, digital, magnetic, wireless, optical, electromagnetic, or
+5 similar capabilities.
+6 Sec. 3. "Filing threshold" means the minimum size of a
+7 transaction that requires the transaction to be reported under the
+8 Hart-Scott-Rondino Act, as in effect at the time a person files a
+9 pre-merger notification.
+10 Sec. 4. "Hart-Scott-Rondino Act" refers to Section 201 of the
+11 Hart-Scott-Rondino Antitrust Improvements Act of 1976 (15
+12 U.S.C. 18a), as amended.
+13 Sec. 5. "Hart-Scott-Rondino form" means the form filed with a
+14 pre-merger notification. The term does not include additional
+15 documentary material.
+16 Sec. 6. "Person" means an individual, estate, business or
+17 not-for-profit entity, government or governmental subdivision,
+18 agency, or instrumentality, or other legal entity.
+19 Sec. 7. "Pre-merger notification" means a notification filed
+20 under the Hart-Scott-Rondino Act with:
+21 (1) the Federal Trade Commission; and
+22 (2) the Antitrust Division of the United States Department of
+23 Justice;
+24 or a successor of either agency.
+25 Sec. 8. "State" means a state of the United States, the District of
+26 Columbia, Puerto Rico, the United States Virgin Islands, or any
+27 other territory or possession subject to the jurisdiction of the
+28 United States.
+29 Chapter 3. Filing Requirement
+30 Sec. 1. (a) Upon filing a pre-merger notification under the
+31 Hart-Scott-Rondino Act, a person shall file contemporaneously a
+32 complete electronic copy of the Hart-Scott-Rondino form with the
+33 attorney general if:
+34 (1) the person's principal place of business is in Indiana; or
+35 (2) either:
+36 (A) the person; or
+37 (B) a person controlled directly or indirectly by the person;
+38 has annual net sales in Indiana, with respect to the goods or
+39 services involved in the proposed merger transaction, in an
+40 amount equal to at least twenty percent (20%) of the filing
+41 threshold.
+42 (b) A person that files a Hart-Scott-Rondino form with the
+2026 IN 219—LS 6798/DI 101
+3
+1 attorney general under subsection (a)(1) shall include with the
+2 filing a complete electronic copy of the additional documentary
+3 material.
+4 (c) A person that files a Hart-Scott-Rondino form with the
+5 attorney general under subsection (a)(2) shall, upon request of the
+6 attorney general, provide a complete electronic copy of the
+7 additional documentary material to the attorney general not later
+8 than seven (7) days after the date of receipt of the attorney
+9 general's request.
+10 (d) The attorney general may not charge a person a fee in
+11 connection with:
+12 (1) filing a Hart-Scott-Rondino form; or
+13 (2) filing or providing the additional documentary material;
+14 under this section.
+15 Chapter 4. Confidentiality
+16 Sec. 1. (a) Except as provided in subsection (b) or IC 23-0.7-5-1,
+17 the following are confidential for purposes of IC 5-14-3 and may
+18 not be disclosed or made public by the attorney general:
+19 (1) A Hart-Scott-Rondino form filed under IC 23-0.7-3-1.
+20 (2) Additional documentary material filed or provided under
+21 IC 23-0.7-3-1.
+22 (3) A Hart-Scott-Rondino form or additional documentary
+23 material provided to the attorney general by the attorney
+24 general of another state.
+25 (4) The fact that a Hart-Scott-Rondino form or additional
+26 documentary material has been:
+27 (A) filed or provided under IC 23-0.7-3-1; or
+28 (B) provided by the attorney general of another state.
+29 (5) The fact that the merger transaction that is the subject of
+30 a Hart-Scott-Rondino form has been proposed or any
+31 information related to the proposed merger transaction.
+32 (b) The attorney general may disclose:
+33 (1) a Hart-Scott-Rondino form;
+34 (2) additional documentary material; or
+35 (3) other information described in subsection (a);
+36 pursuant to a protective order issued by an agency, court, or
+37 judicial officer in an administrative proceeding or judicial action
+38 if the proposed merger transaction is relevant to the proceeding or
+39 action.
+40 (c) This section does not:
+41 (1) limit or annul any other:
+42 (A) confidentiality; or
+2026 IN 219—LS 6798/DI 101
+4
+1 (B) information security;
+2 obligation of the attorney general;
+3 (2) preclude the attorney general from sharing information
+4 with:
+5 (A) the Federal Trade Commission; and
+6 (B) the Antitrust Division of the United States Department
+7 of Justice;
+8 or a successor of either agency; or
+9 (3) preclude the attorney general from sharing information
+10 with the attorney general of another state that has enacted:
+11 (A) the Uniform Antitrust Pre-Merger Notification Act; or
+12 (B) a substantively equivalent act that includes
+13 confidentiality provisions that are at least as protective as
+14 the confidentiality provisions of the Uniform Antitrust
+15 Pre-Merger Notification Act.
+16 Chapter 5. Reciprocity
+17 Sec. 1. (a) The attorney general may disclose a
+18 Hart-Scott-Rondino form and additional documentary material
+19 filed with or provided to the attorney general under IC 23-0.7-3-1
+20 to the attorney general of another state that has enacted:
+21 (1) the Uniform Antitrust Pre-Merger Notification Act; or
+22 (2) a substantively equivalent act that includes confidentiality
+23 provisions that are at least as protective as the confidentiality
+24 provisions of the Uniform Antitrust Pre-Merger Notification
+25 Act.
+26 (b) At least two (2) business days before making a disclosure
+27 under subsection (a), the attorney general shall give notice to the
+28 person that filed or provided the Hart-Scott-Rondino form or
+29 additional documentary material under IC 23-0.7-3-1.
+30 Chapter 6. Enforcement
+31 Sec. 1. The attorney general may impose on a person that
+32 violates IC 23-0.7-3-1 a civil penalty of not more than ten thousand
+33 dollars ($10,000) per day for each day that the violation remains
+34 unremedied.
+2026 IN 219—LS 6798/DI 101
+[DELETED:   U A P N A i I l g b a o t f H A a p s f t p m t P t ( a f o t c r i ( t a g s e a A t a g t6I]
+[DELETED:  0 U A P 1 T a m b c a t U A a j t e t U A6I]
+[DELETED:  2 " m r t t h 3 " t m t m s o  A I A o 1 ( n T t d n i a 6 " m a i e b o ( U f a p n u t6I]
+[DELETED:  g p a c e c o t s ( d a t d o r o t a H f h b p o a6I]
+[DELETED:  a s e a t i 1 ( T a g m d  T a g m o a p6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+SENATE BILL No. 219
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 23-0.7.
+Synopsis: Uniform Antitrust Pre-merger Notification Act.
+Incorporates into Indiana's law governing businesses and other
+associations the Uniform Antitrust Pre-Merger Notification Act, as
+approved and recommended for enactment in all states by the Uniform
+Law Commission. Provides that upon filing a pre-merger notification
+under the federal Hart-Scott-Rondino Act, a person shall file
+contemporaneously a complete electronic copy of the form required
+under that act with the attorney general if: (1) the person's principal
+place of business is in Indiana; or (2) the person conducts a specified
+level of sales in Indiana with respect to the goods or services involved
+in the proposed merger transaction. Provides that: (1) a form or
+additional documentary material under the federal act; and (2) other
+specified information related to the proposed merger transaction; are
+confidential for purposes of Indiana's public records act and may not be
+disclosed or made public by the attorney general. Provides an exception
+to this confidentiality requirement if: (1) the attorney general's
+disclosure is made pursuant to a protective order issued by an agency,
+court, or judicial officer in an administrative proceeding or judicial
+action; and (2) the proposed merger transaction is relevant to the
+proceeding or action. Authorizes the attorney general to: (1) share
+information with; and (2) disclose a form or additional documentary
+material under the federal act to; the attorney general of another state
+that has enacted the Uniform Antitrust Pre-Merger Notification Act or
+a substantively equivalent act. Authorizes the attorney general to
+impose on a person that violates the bill's filing requirement a civil
+penalty of not more than $10,000 per day for each day that the violation
+remains unremedied.
+Effective: July 1, 2026.
+Charbonneau
+January 8, 2026, read first time and referred to Committee on Judiciary.
+2026 IN 219—LS 6798/DI 101
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 219
+A BILL FOR AN ACT to amend the Indiana Code concerning
+business and other associations.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 23-0.7 IS ADDED TO THE INDIANA CODE AS
+2 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+3 2026]:
+4 ARTICLE 0.7. UNIFORM ANTITRUST PRE-MERGER
+5 NOTIFICATION ACT
+6 Chapter 1. General Provisions
+7 Sec. 1. This article may be cited as the Uniform Antitrust
+8 Pre-Merger Notification Act.
+9 Sec. 2. This article applies to a pre-merger notification filed
+10 after June 30, 2026.
+11 Sec. 3. For purposes of applying and construing this article,
+12 consideration shall be given to the need to promote uniformity of
+13 the law among jurisdictions that enact the Uniform Antitrust
+14 Pre-Merger Notification Act.
+15 Chapter 2. Definitions
+16 Sec. 0.5. The definitions in this chapter apply throughout this
+17 article.
+2026 IN 219—LS 6798/DI 101
+
+2
+1 Sec. 1. "Additional documentary material" means the additional
+2 documentary material filed with a Hart-Scott-Rodino form.
+3 Sec. 2. "Electronic" means relating to technology having
+4 electrical, digital, magnetic, wireless, optical, electromagnetic, or
+5 similar capabilities.
+6 Sec. 3. "Filing threshold" means the minimum size of a
+7 transaction that requires the transaction to be reported under the
+8 Hart-Scott-Rondino Act, as in effect at the time a person files a
+9 pre-merger notification.
+10 Sec. 4. "Hart-Scott-Rondino Act" refers to Section 201 of the
+11 Hart-Scott-Rondino Antitrust Improvements Act of 1976 (15
+12 U.S.C. 18a), as amended.
+13 Sec. 5. "Hart-Scott-Rondino form" means the form filed with a
+14 pre-merger notification. The term does not include additional
+15 documentary material.
+16 Sec. 6. "Person" means an individual, estate, business or
+17 not-for-profit entity, government or governmental subdivision,
+18 agency, or instrumentality, or other legal entity.
+19 Sec. 7. "Pre-merger notification" means a notification filed
+20 under the Hart-Scott-Rondino Act with:
+21 (1) the Federal Trade Commission; and
+22 (2) the Antitrust Division of the United States Department of
+23 Justice;
+24 or a successor of either agency.
+25 Sec. 8. "State" means a state of the United States, the District of
+26 Columbia, Puerto Rico, the United States Virgin Islands, or any
+27 other territory or possession subject to the jurisdiction of the
+28 United States.
+29 Chapter 3. Filing Requirement
+30 Sec. 1. (a) Upon filing a pre-merger notification under the
+31 Hart-Scott-Rondino Act, a person shall file contemporaneously a
+32 complete electronic copy of the Hart-Scott-Rondino form with the
+33 attorney general if:
+34 (1) the person's principal place of business is in Indiana; or
+35 (2) either:
+36 (A) the person; or
+37 (B) a person controlled directly or indirectly by the person;
+38 has annual net sales in Indiana, with respect to the goods or
+39 services involved in the proposed merger transaction, in an
+40 amount equal to at least twenty percent (20%) of the filing
+41 threshold.
+42 (b) A person that files a Hart-Scott-Rondino form with the
+2026 IN 219—LS 6798/DI 101
+
+3
+1 attorney general under subsection (a)(1) shall include with the
+2 filing a complete electronic copy of the additional documentary
+3 material.
+4 (c) A person that files a Hart-Scott-Rondino form with the
+5 attorney general under subsection (a)(2) shall, upon request of the
+6 attorney general, provide a complete electronic copy of the
+7 additional documentary material to the attorney general not later
+8 than seven (7) days after the date of receipt of the attorney
+9 general's request.
+10 (d) The attorney general may not charge a person a fee in
+11 connection with:
+12 (1) filing a Hart-Scott-Rondino form; or
+13 (2) filing or providing the additional documentary material;
+14 under this section.
+15 Chapter 4. Confidentiality
+16 Sec. 1. (a) Except as provided in subsection (b) or IC 23-0.7-5-1,
+17 the following are confidential for purposes of IC 5-14-3 and may
+18 not be disclosed or made public by the attorney general:
+19 (1) A Hart-Scott-Rondino form filed under IC 23-0.7-3-1.
+20 (2) Additional documentary material filed or provided under
+21 IC 23-0.7-3-1.
+22 (3) A Hart-Scott-Rondino form or additional documentary
+23 material provided to the attorney general by the attorney
+24 general of another state.
+25 (4) The fact that a Hart-Scott-Rondino form or additional
+26 documentary material has been:
+27 (A) filed or provided under IC 23-0.7-3-1; or
+28 (B) provided by the attorney general of another state.
+29 (5) The fact that the merger transaction that is the subject of
+30 a Hart-Scott-Rondino form has been proposed or any
+31 information related to the proposed merger transaction.
+32 (b) The attorney general may disclose:
+33 (1) a Hart-Scott-Rondino form;
+34 (2) additional documentary material; or
+35 (3) other information described in subsection (a);
+36 pursuant to a protective order issued by an agency, court, or
+37 judicial officer in an administrative proceeding or judicial action
+38 if the proposed merger transaction is relevant to the proceeding or
+39 action.
+40 (c) This section does not:
+41 (1) limit or annul any other:
+42 (A) confidentiality; or
+2026 IN 219—LS 6798/DI 101
+
+4
+1 (B) information security;
+2 obligation of the attorney general;
+3 (2) preclude the attorney general from sharing information
+4 with:
+5 (A) the Federal Trade Commission; and
+6 (B) the Antitrust Division of the United States Department
+7 of Justice;
+8 or a successor of either agency; or
+9 (3) preclude the attorney general from sharing information
+10 with the attorney general of another state that has enacted:
+11 (A) the Uniform Antitrust Pre-Merger Notification Act; or
+12 (B) a substantively equivalent act that includes
+13 confidentiality provisions that are at least as protective as
+14 the confidentiality provisions of the Uniform Antitrust
+15 Pre-Merger Notification Act.
+16 Chapter 5. Reciprocity
+17 Sec. 1. (a) The attorney general may disclose a
+18 Hart-Scott-Rondino form and additional documentary material
+19 filed with or provided to the attorney general under IC 23-0.7-3-1
+20 to the attorney general of another state that has enacted:
+21 (1) the Uniform Antitrust Pre-Merger Notification Act; or
+22 (2) a substantively equivalent act that includes confidentiality
+23 provisions that are at least as protective as the confidentiality
+24 provisions of the Uniform Antitrust Pre-Merger Notification
+25 Act.
+26 (b) At least two (2) business days before making a disclosure
+27 under subsection (a), the attorney general shall give notice to the
+28 person that filed or provided the Hart-Scott-Rondino form or
+29 additional documentary material under IC 23-0.7-3-1.
+30 Chapter 6. Enforcement
+31 Sec. 1. The attorney general may impose on a person that
+32 violates IC 23-0.7-3-1 a civil penalty of not more than ten thousand
+33 dollars ($10,000) per day for each day that the violation remains
+34 unremedied.
+2026 IN 219—LS 6798/DI 101
+
+[DELETED:   U A P N A i I l g b a o t f H A a p s f t p m t P t ( a f o t c r i ( t a g s e a A t a g t6I]
+[DELETED:  0 U A P 1 T a m b c a t U A a j t e t U A6I]
+[DELETED:  2 " m r t t h 3 " t m t m s o  A I A o 1 ( n T t d n i a 6 " m a i e b o ( U f a p n u t6I]
+[DELETED:  g p a c e c o t s ( d a t d o r o t a H f h b p o a6I]
+[DELETED:  a s e a t i 1 ( T a g m d  T a g m o a p6I]

@@ -1,0 +1,333 @@
+Title: SENATE BILL No. 159
+Official Title: SENATE BILL No. 159
+Number of Sections: 1
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 20-20-13-7; IC 20-26-5.
+Synopsis: School technology plans and policies. Requires school
+corporations and charter schools (schools) to include in the school's
+technology plan a description of the school's plan to: (1) ensure the
+appropriate use of technological devices in schools; and (2) enable
+parents of students to exercise control over a student's technological
+devices while the student is not in school. Not later than January 1,
+2027, requires a school to include in the school's Internet use policy a
+provision that enables the parent of a student to increase the strength
+of certain filters and limit the use of certain devices. Requires a school
+to include in the school's wireless communication device policy a
+provision that prohibits a student from using school supplied
+technological devices for a noneducational purpose during instructional
+time.
+Effective: July 1, 2026.
+Deery
+January 5, 2026, read first time and referred to Committee on Education and Career
+Development.
+2026 IN 159—LS 6604/DI 143
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 159
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 20-20-13-7, AS AMENDED BY P.L.189-2023,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 7. (a) Notwithstanding any other law, a:
+4 (1) school corporation may not:
+5 (A) receive any money under this chapter;
+6 (B) use money from the school corporation's education fund
+7 for educational technology equipment under IC 20-40-2; or
+8 (C) receive an advance from the common school fund for an
+9 educational technology program under IC 20-49-4; and
+10 (2) charter school may not receive:
+11 (A) a technology plan grant under sections 13 through 24 of
+12 this chapter; or
+13 (B) an advance from the common school fund for an
+14 educational technology program under IC 20-49-4;
+15 unless the school corporation or charter school develops a three (3)
+16 year technology plan.
+17 (b) Each technology plan must include at least the following
+2026 IN 159—LS 6604/DI 143
+2
+1 information:
+2 (1) A description of the school corporation's or charter school's
+3 intent to integrate technology into the school corporation's or
+4 charter school's curriculum.
+5 (2) A plan for providing inservice training.
+6 (3) A schedule for maintaining and replacing educational
+7 technology equipment.
+8 (4) A description of the criteria used to select the appropriate
+9 educational technology equipment for the appropriate use.
+10 (5) A description of the school corporation's or charter
+11 school's plan to:
+12 (A) ensure the appropriate use of technological devices in
+13 schools; and
+14 (B) enable parents of students to exercise control over a
+15 student's technological devices while the student is not in
+16 school as described in IC 20-26-5-40.5(c).
+17 (5) (6) Other information requested by the department after
+18 consulting with the budget agency.
+19 (c) The department shall develop guidelines concerning the
+20 development of technology plans. The guidelines developed under this
+21 subsection are subject to the approval of the governor.
+22 SECTION 2. IC 20-26-5-40.5, AS AMENDED BY THE
+23 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+24 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 40.5. (a) Not later than January 1, 2022, Each
+26 school corporation and charter school shall adopt and implement an
+27 Internet use policy that:
+28 (1) prohibits the sending, receiving, viewing, or downloading of
+29 materials that are harmful to minors (as described in
+30 IC 35-49-2-2) on computers and other technology related devices
+31 owned by the school corporation or charter school;
+32 (2) provides for the use of hardware or installation of software on
+33 computers and other technology related devices described in
+34 subdivision (1) to filter or block Internet access to materials that
+35 are harmful to minors; and
+36 (3) establishes appropriate disciplinary measures to be taken
+37 against persons violating the policy established under this section.
+38 (b) Not later than January 1, 2022, Each school corporation and
+39 charter school shall use hardware or install software on computers and
+40 other technology related devices described in subsection (a)(1) to filter
+41 or block Internet access to materials that are harmful to minors.
+42 (c) Not later than January 1, 2027, each school corporation and
+2026 IN 159—LS 6604/DI 143
+3
+1 charter school shall adopt and implement a policy that enables the
+2 parent of a student to:
+3 (1) increase the strength of the filter described in subsection
+4 (b); and
+5 (2) limit the amount of time a device described in subsection
+6 (a)(1) may be used by the student while the student is not in
+7 school.
+8 A school to which this subsection applies must inform each parent
+9 of a student enrolled in the school of the policy described in this
+10 subsection.
+11 (c) (d) Each school corporation and charter school shall post on the
+12 school corporation's or charter school's Internet web site website the
+13 Internet use policy established under subsection (a).
+14 SECTION 3. IC 20-26-5-40.7, AS ADDED BY P.L.24-2024,
+15 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 40.7. (a) As used in this section, "instructional
+17 time" has the meaning set forth in IC 20-30-2-1.
+18 (b) As used in this section, "wireless communication device" means
+19 any portable wireless device that has the capability to provide voice,
+20 messaging, or other data communication between two (2) or more
+21 parties, including a:
+22 (1) cellular telephone;
+23 (2) tablet computer;
+24 (3) laptop computer; or
+25 (4) gaming device.
+26 (c) Each school corporation and charter school shall adopt and
+27 implement a wireless communication device policy that:
+28 (1) except as provided in subdivisions (2) and (3) and subsection
+29 (d), prohibits a student from using a:
+30 (A) wireless communication device during instructional time;
+31 and
+32 (B) school supplied wireless communication device for a
+33 noneducational purpose during instructional time;
+34 (2) authorizes a teacher to allow a student to use a wireless
+35 communication device for educational purposes during
+36 instructional time; and
+37 (3) permits a student to use a wireless communication device in
+38 the event of an emergency or to manage the student's health care.
+39 (d) The policy adopted and implemented under subsection (c) may
+40 not prohibit a student from using a wireless communication device
+41 during instructional time if the use of the wireless communication
+42 device is included in the student's:
+2026 IN 159—LS 6604/DI 143
+4
+1 (1) individualized education program; or
+2 (2) plan developed under Section 504 of the federal Rehabilitation
+3 Act of 1973, 29 U.S.C. 794.
+4 (e) Each school corporation and charter school shall publish on its
+5 website the wireless communication device policy established under
+6 subsection (c).
+2026 IN 159—LS 6604/DI 143
+[DELETED:  t p a s f u s s6I]
+[DELETED:  a a f t c s f f a E t p m i a l t f6I]
+[DELETED:  A s f m a r e A d o t s c o c ( O i r b t d a T d s d g c t 2 I 2 A A B T C B O T 2 G t a h t m ( d i d6I]
+[DELETED:  3 I 2 A A B P d f e p d6I]
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+SENATE BILL No. 159
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 20-20-13-7; IC 20-26-5.
+Synopsis: School technology plans and policies. Requires school
+corporations and charter schools (schools) to include in the school's
+technology plan a description of the school's plan to: (1) ensure the
+appropriate use of technological devices in schools; and (2) enable
+parents of students to exercise control over a student's technological
+devices while the student is not in school. Not later than January 1,
+2027, requires a school to include in the school's Internet use policy a
+provision that enables the parent of a student to increase the strength
+of certain filters and limit the use of certain devices. Requires a school
+to include in the school's wireless communication device policy a
+provision that prohibits a student from using school supplied
+technological devices for a noneducational purpose during instructional
+time.
+Effective: July 1, 2026.
+Deery
+January 5, 2026, read first time and referred to Committee on Education and Career
+Development.
+2026 IN 159—LS 6604/DI 143
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 159
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 20-20-13-7, AS AMENDED BY P.L.189-2023,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 7. (a) Notwithstanding any other law, a:
+4 (1) school corporation may not:
+5 (A) receive any money under this chapter;
+6 (B) use money from the school corporation's education fund
+7 for educational technology equipment under IC 20-40-2; or
+8 (C) receive an advance from the common school fund for an
+9 educational technology program under IC 20-49-4; and
+10 (2) charter school may not receive:
+11 (A) a technology plan grant under sections 13 through 24 of
+12 this chapter; or
+13 (B) an advance from the common school fund for an
+14 educational technology program under IC 20-49-4;
+15 unless the school corporation or charter school develops a three (3)
+16 year technology plan.
+17 (b) Each technology plan must include at least the following
+2026 IN 159—LS 6604/DI 143
+
+2
+1 information:
+2 (1) A description of the school corporation's or charter school's
+3 intent to integrate technology into the school corporation's or
+4 charter school's curriculum.
+5 (2) A plan for providing inservice training.
+6 (3) A schedule for maintaining and replacing educational
+7 technology equipment.
+8 (4) A description of the criteria used to select the appropriate
+9 educational technology equipment for the appropriate use.
+10 (5) A description of the school corporation's or charter
+11 school's plan to:
+12 (A) ensure the appropriate use of technological devices in
+13 schools; and
+14 (B) enable parents of students to exercise control over a
+15 student's technological devices while the student is not in
+16 school as described in IC 20-26-5-40.5(c).
+17 (5) (6) Other information requested by the department after
+18 consulting with the budget agency.
+19 (c) The department shall develop guidelines concerning the
+20 development of technology plans. The guidelines developed under this
+21 subsection are subject to the approval of the governor.
+22 SECTION 2. IC 20-26-5-40.5, AS AMENDED BY THE
+23 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+24 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 40.5. (a) Not later than January 1, 2022, Each
+26 school corporation and charter school shall adopt and implement an
+27 Internet use policy that:
+28 (1) prohibits the sending, receiving, viewing, or downloading of
+29 materials that are harmful to minors (as described in
+30 IC 35-49-2-2) on computers and other technology related devices
+31 owned by the school corporation or charter school;
+32 (2) provides for the use of hardware or installation of software on
+33 computers and other technology related devices described in
+34 subdivision (1) to filter or block Internet access to materials that
+35 are harmful to minors; and
+36 (3) establishes appropriate disciplinary measures to be taken
+37 against persons violating the policy established under this section.
+38 (b) Not later than January 1, 2022, Each school corporation and
+39 charter school shall use hardware or install software on computers and
+40 other technology related devices described in subsection (a)(1) to filter
+41 or block Internet access to materials that are harmful to minors.
+42 (c) Not later than January 1, 2027, each school corporation and
+2026 IN 159—LS 6604/DI 143
+
+3
+1 charter school shall adopt and implement a policy that enables the
+2 parent of a student to:
+3 (1) increase the strength of the filter described in subsection
+4 (b); and
+5 (2) limit the amount of time a device described in subsection
+6 (a)(1) may be used by the student while the student is not in
+7 school.
+8 A school to which this subsection applies must inform each parent
+9 of a student enrolled in the school of the policy described in this
+10 subsection.
+11 (c) (d) Each school corporation and charter school shall post on the
+12 school corporation's or charter school's Internet web site website the
+13 Internet use policy established under subsection (a).
+14 SECTION 3. IC 20-26-5-40.7, AS ADDED BY P.L.24-2024,
+15 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 40.7. (a) As used in this section, "instructional
+17 time" has the meaning set forth in IC 20-30-2-1.
+18 (b) As used in this section, "wireless communication device" means
+19 any portable wireless device that has the capability to provide voice,
+20 messaging, or other data communication between two (2) or more
+21 parties, including a:
+22 (1) cellular telephone;
+23 (2) tablet computer;
+24 (3) laptop computer; or
+25 (4) gaming device.
+26 (c) Each school corporation and charter school shall adopt and
+27 implement a wireless communication device policy that:
+28 (1) except as provided in subdivisions (2) and (3) and subsection
+29 (d), prohibits a student from using a:
+30 (A) wireless communication device during instructional time;
+31 and
+32 (B) school supplied wireless communication device for a
+33 noneducational purpose during instructional time;
+34 (2) authorizes a teacher to allow a student to use a wireless
+35 communication device for educational purposes during
+36 instructional time; and
+37 (3) permits a student to use a wireless communication device in
+38 the event of an emergency or to manage the student's health care.
+39 (d) The policy adopted and implemented under subsection (c) may
+40 not prohibit a student from using a wireless communication device
+41 during instructional time if the use of the wireless communication
+42 device is included in the student's:
+2026 IN 159—LS 6604/DI 143
+
+4
+1 (1) individualized education program; or
+2 (2) plan developed under Section 504 of the federal Rehabilitation
+3 Act of 1973, 29 U.S.C. 794.
+4 (e) Each school corporation and charter school shall publish on its
+5 website the wireless communication device policy established under
+6 subsection (c).
+2026 IN 159—LS 6604/DI 143
+
+[DELETED:  t p a s f u s s6I]
+[DELETED:  a a f t c s f f a E t p m i a l t f6I]
+[DELETED:  A s f m a r e A d o t s c o c ( O i r b t d a T d s d g c t 2 I 2 A A B T C B O T 2 G t a h t m ( d i d6I]
+[DELETED:  3 I 2 A A B P d f e p d6I]
+[DELETED: 6I]
