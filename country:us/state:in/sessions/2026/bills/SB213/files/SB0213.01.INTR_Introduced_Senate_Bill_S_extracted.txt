@@ -1,0 +1,307 @@
+Title: SENATE BILL No. 213
+Official Title: SENATE BILL No. 213
+Number of Sections: 1
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 6-3-2-30.
+Synopsis: Income tax deduction for theft loss. Provides an income tax
+deduction for theft losses that result from certain financial transactions
+induced by third parties and that cause the individual to incur federal
+gross income as a result of the theft. Requires the department of state
+revenue to first certify the theft loss deduction before a taxpayer may
+claim the deduction in a taxable year.
+Effective: January 1, 2024 (retroactive).
+Holdman
+January 8, 2026, read first time and referred to Committee on Tax and Fiscal Policy.
+2026 IN 213—LS 6595/DI 120
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 213
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-3-2-30 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+3 JANUARY 1, 2024 (RETROACTIVE)]: Sec. 30. (a) For purposes of
+4 this section, "qualifying account" means any of the following
+5 owned directly by an individual, either as a sole owner or jointly
+6 with one (1) or more individuals:
+7 (1) A retirement plan described in 4 U.S.C. 114(b)(1).
+8 (2) A securities or commodities account.
+9 (3) A savings or checking account.
+10 (4) Any account substantially similar to an account described
+11 in subdivision (2) or (3).
+12 If an account listed in subdivisions (1) through (4) is owned in
+13 whole or in part by a person or entity other than an individual, the
+14 account is a qualifying account only to the extent it is owned
+15 directly by an individual.
+16 (b) For purposes of this section, "taxpayer" means an individual
+17 subject to taxation under this article.
+2026 IN 213—LS 6595/DI 120
+2
+1 (c) For purposes of this section, "theft" means:
+2 (1) an event for which a taxpayer would have been permitted
+3 a deduction as a theft loss under Section 165(c) of the Internal
+4 Revenue Code (as in effect on January 1, 2017); and
+5 (2) the event was either:
+6 (A) a distribution from the taxpayer's qualifying account;
+7 or
+8 (B) a sale, exchange, or liquidation of the taxpayer's stocks,
+9 bonds, certificates of deposit, or similar instruments,
+10 regardless of whether these were held in a qualifying
+11 account;
+12 followed by a payment to another individual or entity within
+13 sixty (60) days of the distribution, sale, exchange, or
+14 liquidation, and for which the distribution, sale, exchange, or
+15 liquidation was induced by the individual or entity.
+16 (d) For purposes of this section, "theft loss" means the amount
+17 that an individual would have been permitted to deduct under
+18 Section 165(c) of the Internal Revenue Code (as in effect on
+19 January 1, 2017) as the result of a theft and that the individual was
+20 not permitted to deduct in determining the individual's federal
+21 adjusted gross income under Section 62 of the Internal Revenue
+22 Code. For an individual who is not a resident of Indiana, the theft
+23 loss amount shall only be the portion of the loss derived from
+24 Indiana sources and only if the distribution would have been
+25 included in the taxpayer's Indiana adjusted gross income.
+26 (e) For taxable years beginning after December 31, 2023, a
+27 taxpayer is entitled to a deduction from the taxpayer's adjusted
+28 gross income for a taxable year if the taxpayer:
+29 (1) incurred a loss as the result of a theft during the taxable
+30 year; and
+31 (2) as a result of the theft, had federal gross income for the
+32 taxable year that would not have been included in the
+33 taxpayer's federal adjusted gross income for the taxable year
+34 under Section 62 of the Internal Revenue Code if the theft had
+35 not occurred or been induced.
+36 (f) The amount of the deduction for a taxable year is the lesser
+37 of:
+38 (1) the amount of the theft loss; or
+39 (2) the amount reported in the taxpayer's adjusted gross
+40 income under IC 6-3-1-3.5(a) for the taxable year that
+41 resulted from the theft or inducement of theft.
+42 (g) A taxpayer wishing to claim a deduction under this section
+2026 IN 213—LS 6595/DI 120
+3
+1 must first apply to the department for certification of the
+2 deduction and provide all information requested by the
+3 department relating to the theft to the department prior to
+4 claiming the deduction under this section. The following apply:
+5 (1) Upon receipt of a taxpayer's application, the department
+6 shall determine the amount of the deduction for theft losses
+7 that are allowable, if any, under this section and provide
+8 notice of the determination and certification to the taxpayer.
+9 (2) A taxpayer may claim the deduction on the taxpayer's
+10 state tax return or returns only after the department's
+11 determination and only up to the amount certified by the
+12 department as an allowable deduction.
+13 (3) If a taxpayer disagrees with the department's
+14 determination of a theft loss deduction, the taxpayer may
+15 protest the determination of the loss in the same manner and
+16 under the same time periods as a refund denial under
+17 IC 6-8.1-9-1.
+18 (h) For purposes of this section:
+19 (1) any amounts that an individual received as insurance
+20 payments, reimbursement, or other similar payments in
+21 recovery for a theft loss during the taxable year are not
+22 deductible under this section; and
+23 (2) to the extent that amounts in subdivision (1) are received
+24 in a subsequent taxable year, the individual shall report the
+25 amount received as an addition in determining adjusted gross
+26 income under IC 6-3-1-3.5(a) for purposes of adjusted gross
+27 income tax in the year in which the amount is received, but
+28 only to the extent that the deduction under this section would
+29 have been reduced in the taxable year of the theft had the
+30 recovery amount been received in the taxable year of the
+31 theft. Any recovery required to be included in Indiana
+32 adjusted gross income as a result of this section shall not be an
+33 addback for purposes of section 2.5 or 2.6 of this chapter.
+34 (i) If a taxpayer claims a deduction under this section for a
+35 taxable year beginning before January 1, 2026, the taxpayer claims
+36 a refund as a result of the deduction, and interest is due on the
+37 refund under IC 6-8.1-9-2(d), then the amount of interest due on
+38 the refund shall be computed from the latest of:
+39 (1) April 15, 2026;
+40 (2) the date the department issues the determination under
+41 subsection (g); or
+42 (3) the date determined under IC 6-8.1-9-2(d).
+2026 IN 213—LS 6595/DI 120
+4
+1 SECTION 2. An emergency is declared for this act.
+2026 IN 213—LS 6595/DI 120
+[DELETED: 6I]
+[DELETED:  A N S T R A F [ s " a m a o t f6I]
+[DELETED:  c o d o s i o w t w h i a q ( d o t d s e o 1 o t I R C ( i e o s a o i t d w h b y t w n h b i i t u I 6 f t t y t6I]
+[DELETED:  f a t t d f c o t a p a i r b t r t t t t t d p t t r o r o a t d I a t d w t d t s t p a a r d u r o o s p i d A r r t b i i I6I]
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+SENATE BILL No. 213
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 6-3-2-30.
+Synopsis: Income tax deduction for theft loss. Provides an income tax
+deduction for theft losses that result from certain financial transactions
+induced by third parties and that cause the individual to incur federal
+gross income as a result of the theft. Requires the department of state
+revenue to first certify the theft loss deduction before a taxpayer may
+claim the deduction in a taxable year.
+Effective: January 1, 2024 (retroactive).
+Holdman
+January 8, 2026, read first time and referred to Committee on Tax and Fiscal Policy.
+2026 IN 213—LS 6595/DI 120
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 213
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-3-2-30 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+3 JANUARY 1, 2024 (RETROACTIVE)]: Sec. 30. (a) For purposes of
+4 this section, "qualifying account" means any of the following
+5 owned directly by an individual, either as a sole owner or jointly
+6 with one (1) or more individuals:
+7 (1) A retirement plan described in 4 U.S.C. 114(b)(1).
+8 (2) A securities or commodities account.
+9 (3) A savings or checking account.
+10 (4) Any account substantially similar to an account described
+11 in subdivision (2) or (3).
+12 If an account listed in subdivisions (1) through (4) is owned in
+13 whole or in part by a person or entity other than an individual, the
+14 account is a qualifying account only to the extent it is owned
+15 directly by an individual.
+16 (b) For purposes of this section, "taxpayer" means an individual
+17 subject to taxation under this article.
+2026 IN 213—LS 6595/DI 120
+
+2
+1 (c) For purposes of this section, "theft" means:
+2 (1) an event for which a taxpayer would have been permitted
+3 a deduction as a theft loss under Section 165(c) of the Internal
+4 Revenue Code (as in effect on January 1, 2017); and
+5 (2) the event was either:
+6 (A) a distribution from the taxpayer's qualifying account;
+7 or
+8 (B) a sale, exchange, or liquidation of the taxpayer's stocks,
+9 bonds, certificates of deposit, or similar instruments,
+10 regardless of whether these were held in a qualifying
+11 account;
+12 followed by a payment to another individual or entity within
+13 sixty (60) days of the distribution, sale, exchange, or
+14 liquidation, and for which the distribution, sale, exchange, or
+15 liquidation was induced by the individual or entity.
+16 (d) For purposes of this section, "theft loss" means the amount
+17 that an individual would have been permitted to deduct under
+18 Section 165(c) of the Internal Revenue Code (as in effect on
+19 January 1, 2017) as the result of a theft and that the individual was
+20 not permitted to deduct in determining the individual's federal
+21 adjusted gross income under Section 62 of the Internal Revenue
+22 Code. For an individual who is not a resident of Indiana, the theft
+23 loss amount shall only be the portion of the loss derived from
+24 Indiana sources and only if the distribution would have been
+25 included in the taxpayer's Indiana adjusted gross income.
+26 (e) For taxable years beginning after December 31, 2023, a
+27 taxpayer is entitled to a deduction from the taxpayer's adjusted
+28 gross income for a taxable year if the taxpayer:
+29 (1) incurred a loss as the result of a theft during the taxable
+30 year; and
+31 (2) as a result of the theft, had federal gross income for the
+32 taxable year that would not have been included in the
+33 taxpayer's federal adjusted gross income for the taxable year
+34 under Section 62 of the Internal Revenue Code if the theft had
+35 not occurred or been induced.
+36 (f) The amount of the deduction for a taxable year is the lesser
+37 of:
+38 (1) the amount of the theft loss; or
+39 (2) the amount reported in the taxpayer's adjusted gross
+40 income under IC 6-3-1-3.5(a) for the taxable year that
+41 resulted from the theft or inducement of theft.
+42 (g) A taxpayer wishing to claim a deduction under this section
+2026 IN 213—LS 6595/DI 120
+
+3
+1 must first apply to the department for certification of the
+2 deduction and provide all information requested by the
+3 department relating to the theft to the department prior to
+4 claiming the deduction under this section. The following apply:
+5 (1) Upon receipt of a taxpayer's application, the department
+6 shall determine the amount of the deduction for theft losses
+7 that are allowable, if any, under this section and provide
+8 notice of the determination and certification to the taxpayer.
+9 (2) A taxpayer may claim the deduction on the taxpayer's
+10 state tax return or returns only after the department's
+11 determination and only up to the amount certified by the
+12 department as an allowable deduction.
+13 (3) If a taxpayer disagrees with the department's
+14 determination of a theft loss deduction, the taxpayer may
+15 protest the determination of the loss in the same manner and
+16 under the same time periods as a refund denial under
+17 IC 6-8.1-9-1.
+18 (h) For purposes of this section:
+19 (1) any amounts that an individual received as insurance
+20 payments, reimbursement, or other similar payments in
+21 recovery for a theft loss during the taxable year are not
+22 deductible under this section; and
+23 (2) to the extent that amounts in subdivision (1) are received
+24 in a subsequent taxable year, the individual shall report the
+25 amount received as an addition in determining adjusted gross
+26 income under IC 6-3-1-3.5(a) for purposes of adjusted gross
+27 income tax in the year in which the amount is received, but
+28 only to the extent that the deduction under this section would
+29 have been reduced in the taxable year of the theft had the
+30 recovery amount been received in the taxable year of the
+31 theft. Any recovery required to be included in Indiana
+32 adjusted gross income as a result of this section shall not be an
+33 addback for purposes of section 2.5 or 2.6 of this chapter.
+34 (i) If a taxpayer claims a deduction under this section for a
+35 taxable year beginning before January 1, 2026, the taxpayer claims
+36 a refund as a result of the deduction, and interest is due on the
+37 refund under IC 6-8.1-9-2(d), then the amount of interest due on
+38 the refund shall be computed from the latest of:
+39 (1) April 15, 2026;
+40 (2) the date the department issues the determination under
+41 subsection (g); or
+42 (3) the date determined under IC 6-8.1-9-2(d).
+2026 IN 213—LS 6595/DI 120
+
+4
+1 SECTION 2. An emergency is declared for this act.
+2026 IN 213—LS 6595/DI 120
+
+[DELETED: 6I]
+[DELETED:  A N S T R A F [ s " a m a o t f6I]
+[DELETED:  c o d o s i o w t w h i a q ( d o t d s e o 1 o t I R C ( i e o s a o i t d w h b y t w n h b i i t u I 6 f t t y t6I]
+[DELETED:  f a t t d f c o t a p a i r b t r t t t t t d p t t r o r o a t d I a t d w t d t s t p a a r d u r o o s p i d A r r t b i i I6I]
+[DELETED: 6I]

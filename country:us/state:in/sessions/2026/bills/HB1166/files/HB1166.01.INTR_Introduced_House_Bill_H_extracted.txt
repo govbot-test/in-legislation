@@ -1,0 +1,798 @@
+Title: HOUSE BILL No. 1166
+Official Title: HOUSE BILL No. 1166
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 3-5-2.5; IC 3-7; IC 3-11-16-6; IC 4-6-17;
+IC 35-52-3-0.5.
+Synopsis: Elections. Provides that the state of Indiana shall conduct
+all elections using secure, hand-marked paper ballots that are: (1)
+designed and made in Indiana; (2) embellished with a distinctive
+watermark; and (3) serialized numerically. Provides that no other
+method of voting may be used in Indiana. Specifies that ballots must be
+counted by hand. Requires precincts to have video cameras that record
+and live stream the counting of ballots and the ballot box container.
+Requires each precinct to have one voting system equipped for
+individuals with disabilities. Specifies requirements for reporting
+results of the election. Requires election results to be announced the
+evening of the election. Prohibits the use of a pollbook in any form
+other than paper. Provides that ballots are not confidential. Prohibits
+the state from conducting the voting system technical oversight
+program (VSTOP) after June 30, 2026. Specifies storage requirements
+for certain election documents. Requires the secretary of state
+(secretary) to randomly choose 10 counties for post-election hand
+recounts and inspections of secured storage facilities. Provides that all
+Indiana citizens have the right to inspect and copy all election materials
+at the office of the county clerk. Requires the secretary to establish and
+maintain a statewide voter registration data base. Requires the secretary
+to administer voter registration rolls and provides that the secretary
+(Continued next page)
+Effective: Upon passage.
+Sweet
+January 5, 2026, read first time and referred to Committee on Elections and
+Apportionment.
+2026 IN 1166—LS 6679/DI 144
+Digest Continued
+may not delegate this function. Requires county clerks to create and
+print the paper pollbook for each precinct. Specifies requirements for
+back up lists and daily records of the voter registration data base.
+Specifies that an election in Indiana may be held only on election day.
+Prohibits: (1) early in person voting; (2) vote centers; (3) Internet
+voting; (4) mass mail-in voting; (5) ballot harvesting; and (6) a ballot
+drop box. Provides that a precinct may contain not more than 1,500
+registered active voters. Specifies that absentee voter boards may be
+used for all voters at extended care facilities. Requires all voter
+registration applications to include proof of citizenship and a signature.
+Specifies certain restrictions that apply to a third party organization.
+Provides that a digital identification is not acceptable for the purposes
+of registration or voting. Specifies: (1) requirements for absentee
+ballots; and (2) the individuals who qualify to receive an absentee
+ballot. Requires an absentee ballot to include a copy of the voter's proof
+of identification or the last four digits of the voter's Social Security
+number. Provides that a person who violates these provisions: (1)
+commits a Class A misdemeanor; and (2) is deprived of the right of
+suffrage for 10 years. Repeals a provision that designates as
+confidential certain information maintained by VSTOP. Requires the
+attorney general to establish an election crimes unit.
+22002266 IINN 11116666——LLSS 66667799//DDII 114444
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1166
+A BILL FOR AN ACT to amend the Indiana Code concerning
+elections.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 3-5-2.5 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+3 PASSAGE]:
+4 Chapter 2.5. Manner of Conducting Elections in Indiana
+5 Sec. 0.5. (a) This chapter applies notwithstanding any other law.
+6 (b) If there is a conflict between a provision of this chapter and
+7 another provision of Indiana law, this chapter prevails.
+8 Sec. 1. The state of Indiana shall conduct all elections using
+9 secure, hand-marked paper ballots that are:
+10 (1) designed and made in Indiana;
+11 (2) embellished with a distinctive watermark, as designated by
+12 the secretary of state; and
+13 (3) serialized numerically.
+14 No other method of voting may be used in Indiana.
+15 Sec. 2. (a) The watermarked and serialized paper ballots
+2026 IN 1166—LS 6679/DI 144
+2
+1 described in section 1 of this chapter must be counted by hand
+2 beginning at 7 a.m. on election day.
+3 (b) Mail-in ballots must be opened at the precinct polling place
+4 and counted at noon on election day in the manner set forth in
+5 IC 3-11.5-5.
+6 Sec. 3. (a) Except as specifically authorized by this chapter,
+7 machines or electronic devices are prohibited in a precinct polling
+8 place.
+9 (b) Each polling place must have video cameras that record and
+10 live stream, with audio and video of the polling place, in full view
+11 of the watchers, the:
+12 (1) hand counting process of the paper ballots; and
+13 (2) transparent ballot box container into which voters place
+14 their folded marked ballots.
+15 (c) Each precinct must have one (1) voting system equipped for
+16 individuals with disabilities to comply with the requirements of
+17 HAVA.
+18 Sec. 4. (a) Ballots must be counted by two (2) counters in
+19 accordance with IC 3-12-2.
+20 (b) The video cameras required under section 3(b) of this
+21 chapter must clearly show the counting of ballots so that watchers
+22 in the polling place have full access to the live stream of all ballots
+23 being hand-counted. The video cameras shall record each
+24 serialized ballot being hand-counted on the tally sheet in full view,
+25 with audio of the caller, to confirm the votes for each candidate or
+26 public question that is called.
+27 Sec. 5. The hand-counted precinct results must be affirmed by
+28 all precinct workers present. All precinct workers shall sign, under
+29 the penalties for perjury, the precinct final tally records.
+30 Sec. 6. (a) The results of the election must be called in to the
+31 county election board, with all precinct workers present. The
+32 county election board shall report the results of the election to the
+33 county clerk for certification.
+34 (b) Copies of final tally reports must be given to each of the
+35 precinct workers as part of the transparency of their work.
+36 (c) Precinct workers may validate reported results from the
+37 county clerk on the election summary report uploaded by precinct
+38 to the county clerk website.
+39 Sec. 7. Election results must be announced the evening of the
+40 election.
+41 Sec. 8. The use of pollbooks in any form other than paper is
+42 prohibited.
+2026 IN 1166—LS 6679/DI 144
+3
+1 Sec. 9. (a) Ballots may not contain confidential voter
+2 information. The serial number of the ballot may not allow an
+3 individual to identify a voter.
+4 (b) Ballots are not confidential in Indiana.
+5 Sec. 10. (a) Except as provided in subsection (c), after June 30,
+6 2026, the state may not conduct VSTOP.
+7 (b) On July 1, 2026, the secretary of state shall transfer all funds
+8 for VSTOP to the treasurer of state for deposit in the state general
+9 fund.
+10 (c) This subsection applies if the state has outstanding
+11 contractual obligations under VSTOP after June 30, 2026. When
+12 all contractual obligations under VSTOP are satisfied, the state
+13 may no longer conduct VSTOP.
+14 Sec. 11. (a) The following must be maintained in secure county
+15 owned facilities with restricted access:
+16 (1) Indiana election forms.
+17 (2) Ballots.
+18 (3) Paper pollbooks.
+19 (4) Audio and visual media from the hand counting process.
+20 (5) All other required election related materials.
+21 (b) Except as otherwise required by law, only the county clerk,
+22 together with a member of the opposing political party, may access
+23 ballots maintained under subsection (a).
+24 (c) The secretary of state shall randomly choose ten (10)
+25 counties for post-election hand recounts and inspections of secured
+26 storage facilities.
+27 Sec. 12. (a) All citizens of Indiana have the right to inspect and
+28 copy all election materials at the office of the county clerk,
+29 including the following:
+30 (1) Voter lists.
+31 (2) Pollbook signatures.
+32 (3) Voter history.
+33 (4) Absentee applications.
+34 (5) Absentee ballot signatures.
+35 (6) Chain of custody documentation.
+36 (7) All ballots, excluding the names and addresses of those
+37 participating in the confidential address program.
+38 (b) Inspection and copying under subsection (a) must be
+39 supervised, monitored, and controlled.
+40 Sec. 13. (a) The secretary of state shall establish and maintain
+41 a statewide voter registration data base administered by the
+42 election division and archived in the office of the secretary of state.
+2026 IN 1166—LS 6679/DI 144
+4
+1 (b) The data base described in subsection (a) must be made
+2 continuously available to the citizens of Indiana through the
+3 secretary of state's website without cost to the citizen.
+4 (c) The data base described in subsection (a) must be monthly
+5 reconciled against:
+6 (1) the National Change of Address system;
+7 (2) the United States Social Security death index;
+8 (3) noncitizen data bases, such as the Systematic Alien
+9 Verification for Entitlements (SAVE) program; and
+10 (4) any data base that the secretary of state deems useful in
+11 voter roll maintenance;
+12 to ensure all persons on the voter registration lists are eligible to
+13 vote in Indiana.
+14 (d) The secretary of state shall administer voter registration
+15 rolls. The secretary of state may not delegate this function.
+16 Sec. 14. (a) County clerks shall create and print the paper
+17 pollbook for each precinct using the county's official list of
+18 registered voters.
+19 (b) The county clerk shall send any new, edited, or removed
+20 voters from the county's official list by facsimile to the election
+21 division for updating.
+22 (c) The county shall maintain a back up paper copy of the
+23 county's official list, printed once each year. The county clerk shall
+24 also maintain an electronic back up copy of the county's official
+25 list, transferred once each month to a thumb drive that must be
+26 stored securely with the election materials.
+27 Sec. 15. The state's voter registration application must require
+28 an applicant to give permission to the state, if the application is
+29 approved, to inform any other state where the applicant is still
+30 registered to vote, for the purpose of removing the applicant from
+31 the voter registration rolls in the other state. The county clerk shall
+32 send a form to the voter to forward to the voter's former state to
+33 cancel the voter's registration.
+34 Sec. 16. Each day, the election division shall:
+35 (1) create a daily record of the election division's voter
+36 registration data base, as of 4 p.m.; and
+37 (2) transmit, in a secure manner, the daily record to the
+38 secretary of state for:
+39 (A) archive purposes; and
+40 (B) uploading online each day for citizens.
+41 Sec. 17. (a) An election in Indiana may be held only on election
+42 day.
+2026 IN 1166—LS 6679/DI 144
+5
+1 (b) Early in person voting is prohibited.
+2 (c) Vote centers are prohibited.
+3 (d) Internet voting is prohibited.
+4 Sec. 18. A precinct may contain not more than one thousand five
+5 hundred (1,500) registered active voters.
+6 Sec. 19. Mass mail-in voting is prohibited. Notwithstanding this
+7 section, a voter may vote by absentee ballot if the ballot is
+8 individually requested by the voter and the voter is permitted to
+9 vote by absentee ballot under section 26 of this chapter.
+10 Sec. 20. Ballot harvesting is prohibited. Only a voter or an
+11 immediate family member of a voter may return a completed
+12 absentee ballot to the county clerk.
+13 Sec. 21. Absentee voter boards may be used for all voters at
+14 extended care facilities. However, an employee at an extended care
+15 facility may not assist a voter in completing a ballot unless the
+16 voter is the employee's immediate family member.
+17 Sec. 22. (a) All voter registration applications must include
+18 proof of citizenship and a signature of the applicant.
+19 (b) A signature submitted under subsection (a) must be used to
+20 verify future voting:
+21 (1) at precinct check in; or
+22 (2) for a voter who votes:
+23 (A) by absentee mail-in ballot; or
+24 (B) as an absent uniformed services voter or overseas
+25 voter.
+26 The requirements under this subsection apply to, but are not
+27 limited to, an envelope containing an absentee ballot.
+28 Sec. 23. A third party organization may not:
+29 (1) request a voter registration;
+30 (2) fill out or mail a registration form for an applicant;
+31 (3) return a registration form to a county official or to the
+32 secretary of state by hand; or
+33 (4) offer any monetary or nonmonetary enticement to request,
+34 fill out, or return a registration form.
+35 Sec. 24. A digital identification is not acceptable for the
+36 purposes of registration or voting.
+37 Sec. 25. A ballot drop box, whether manned or unmanned, is
+38 prohibited in any location.
+39 Sec. 26. (a) An absentee ballot application may not be sent by
+40 mail unless the application is requested.
+41 (b) Absentee ballots must be received by noon on election day.
+42 All absentee ballots received after noon on election day are void
+2026 IN 1166—LS 6679/DI 144
+6
+1 and may not be counted.
+2 (c) An absentee ballot may be mailed only to an individual who
+3 requests an absentee ballot.
+4 (d) The following individuals qualify to receive an absentee
+5 ballot:
+6 (1) A member of the military.
+7 (2) An individual with a disability.
+8 (3) A voter who is required to work for the entire time the
+9 polls are open.
+10 (4) An absent uniformed services voter or overseas voter.
+11 (5) An elderly voter who is at least sixty-five (65) years of age.
+12 (e) Mailing an absentee ballot to an individual who is not
+13 described in subsection (d) is prohibited.
+14 (f) An absentee ballot must include a copy of:
+15 (1) the voter's proof of identification; or
+16 (2) the last four (4) digits of the voter's Social Security
+17 number.
+18 Information submitted under this subsection must be verified by
+19 the county clerk from the voter's original registration record and
+20 signature. This section also applies to an absent uniformed services
+21 voter or overseas voter.
+22 Sec. 27. (a) A person who violates this chapter commits voter
+23 fraud, a Class A misdemeanor.
+24 (b) Notwithstanding IC 3-7-13-4, IC 3-7-13-5, and IC 3-7-13-6,
+25 a person who violates this chapter is deprived of the right of
+26 suffrage by the general assembly for a period of ten (10) years
+27 following the date of conviction, pursuant to Article 2, Section 8 of
+28 the Constitution of the State of Indiana.
+29 (c) A person described in subsection (b) is not:
+30 (1) authorized to vote; or
+31 (2) eligible to register under this article;
+32 during the period within which the person is deprived of the right
+33 of suffrage, even if the person is no longer in prison or otherwise
+34 subject to lawful detention.
+35 (d) The reduction of a felony to a misdemeanor does not affect
+36 the operation of subsections (b) and (c).
+37 (e) A person described in subsection (b) who is otherwise
+38 qualified to register under IC 3-7 is eligible to register after the
+39 expiration of the period within which the person is deprived of the
+40 right of suffrage.
+41 SECTION 2. IC 3-7-13-4 IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE UPON PASSAGE]: Sec. 4. (a) A person who is:
+2026 IN 1166—LS 6679/DI 144
+7
+1 (1) convicted of a crime; and
+2 (2) imprisoned following conviction;
+3 is deprived of the right of suffrage by the general assembly pursuant to
+4 Article 2, Section 8 of the Constitution of the State of Indiana.
+5 (b) Except as provided in IC 3-5-2.5-27, a person described in
+6 subsection (a) is ineligible to register under this article during the
+7 period that the person is:
+8 (1) imprisoned; or
+9 (2) otherwise subject to lawful detention.
+10 SECTION 3. IC 3-7-13-6 IS AMENDED TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 6. (a) This section applies to a
+12 person who is:
+13 (1) otherwise qualified to register under this article; and
+14 (2) not imprisoned or subject to lawful detention.
+15 (b) Except as provided in IC 3-5-2.5-27, a person described in
+16 subsection (a) who is:
+17 (1) on probation;
+18 (2) on parole;
+19 (3) subject to home detention under IC 35-38-2.5; or
+20 (4) placed in a community corrections program under
+21 IC 35-38-2.6;
+22 is eligible to register and to vote.
+23 SECTION 4. IC 3-7-46-1, AS AMENDED BY P.L.128-2015,
+24 SECTION 140, IS AMENDED TO READ AS FOLLOWS
+25 [EFFECTIVE UPON PASSAGE]: Sec. 1. As permitted under 52
+26 U.S.C. 20507(a)(3)(B) and in the manner required under 52 U.S.C.
+27 21083, a county voter registration office shall remove from the official
+28 list of registered voters the name of a voter who is disfranchised under:
+29 (1) this chapter; or
+30 (2) IC 3-5-2.5-27;
+31 due to a criminal conviction.
+32 SECTION 5. IC 3-11-16-6 IS REPEALED [EFFECTIVE UPON
+33 PASSAGE]. Sec. 6. The inventory of voting systems and electronic poll
+34 books maintained by VSTOP under section 4 of this chapter is
+35 confidential.
+36 SECTION 6. IC 4-6-17 IS ADDED TO THE INDIANA CODE AS
+37 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+38 PASSAGE]:
+39 Chapter 17. Election Crimes Unit
+40 Sec. 1. As used in this chapter, "ECU" refers to the election
+41 crimes unit established under section 2 of this chapter.
+42 Sec. 2. The attorney general shall establish an election crimes
+2026 IN 1166—LS 6679/DI 144
+8
+1 unit.
+2 Sec. 3. The ECU shall receive, review, and investigate any notice
+3 or report of an election law violation.
+4 Sec. 4. The ECU may independently initiate an investigation
+5 concerning election law violations.
+6 Sec. 5. The ECU has jurisdiction throughout Indiana.
+7 Sec. 6. The secretary of state and the election division shall
+8 permit the ECU access to all data maintained by the secretary of
+9 state and the election division for the ECU's evaluation and review.
+10 Sec. 7. The attorney general shall appoint a director of the ECU.
+11 Sec. 8. The ECU shall create and oversee an Indiana voter fraud
+12 hotline.
+13 Sec. 9. The creation of the ECU does not limit the jurisdiction of
+14 any other office or agency to investigate voter fraud.
+15 Sec. 10. The ECU shall submit an annual report to the governor
+16 and the general assembly containing a summary of all of the ECU's
+17 investigations. The report must be made available to the public. A
+18 report to the general assembly under this section must be in an
+19 electronic format under IC 5-14-6.
+20 SECTION 7. IC 35-52-3-0.5 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+22 UPON PASSAGE]: Sec. 0.5. IC 3-5-2.5-27 defines a crime
+23 concerning elections.
+24 SECTION 8. An emergency is declared for this act.
+2026 IN 1166—LS 6679/DI 144
+[DELETED:  d s e p t h o v s e f w d S r f r s f c t v s t o c e d R t s o s 5 2 r f t a r t C o E a6I]
+[DELETED:  f a v a e c f R a v r o v S ( r f a f 1 y R a p t d a6I]
+[DELETED:  2 ( T w a s p b6I]
+[DELETED:  4 ( B m b c b t ( c i T v c r u s 3 o t h T v c s r e e b w p w p T6I]
+[DELETED:  9 ( B m n c c v T s a i t s h o T s o s s r c t ( a e m a t o o t c c I a c u s ( m b s v r d b a b t6I]
+[DELETED:  a t t c o I t t n d b s a t S A f e p u t c o l o c a d r o t e d v6I]
+[DELETED:  a v m v b a b i t b i a a a u v o o r u t s a b a n 2 A d i i n a f t6I]
+[DELETED:  M a a b t a i w i n t l f ( d o t v S S o t A p d i s ( w i o6I]
+[DELETED:  p i a c c p u 4 I 3 A A B P 1 I A T R A F U P S 1 A p u 5 m b V u s 4 o t c i6I]
+[DELETED:  A N S T R A F [ P S 0 I 3 d a c6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1166
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 3-5-2.5; IC 3-7; IC 3-11-16-6; IC 4-6-17;
+IC 35-52-3-0.5.
+Synopsis: Elections. Provides that the state of Indiana shall conduct
+all elections using secure, hand-marked paper ballots that are: (1)
+designed and made in Indiana; (2) embellished with a distinctive
+watermark; and (3) serialized numerically. Provides that no other
+method of voting may be used in Indiana. Specifies that ballots must be
+counted by hand. Requires precincts to have video cameras that record
+and live stream the counting of ballots and the ballot box container.
+Requires each precinct to have one voting system equipped for
+individuals with disabilities. Specifies requirements for reporting
+results of the election. Requires election results to be announced the
+evening of the election. Prohibits the use of a pollbook in any form
+other than paper. Provides that ballots are not confidential. Prohibits
+the state from conducting the voting system technical oversight
+program (VSTOP) after June 30, 2026. Specifies storage requirements
+for certain election documents. Requires the secretary of state
+(secretary) to randomly choose 10 counties for post-election hand
+recounts and inspections of secured storage facilities. Provides that all
+Indiana citizens have the right to inspect and copy all election materials
+at the office of the county clerk. Requires the secretary to establish and
+maintain a statewide voter registration data base. Requires the secretary
+to administer voter registration rolls and provides that the secretary
+(Continued next page)
+Effective: Upon passage.
+Sweet
+January 5, 2026, read first time and referred to Committee on Elections and
+Apportionment.
+2026 IN 1166—LS 6679/DI 144
+
+Digest Continued
+may not delegate this function. Requires county clerks to create and
+print the paper pollbook for each precinct. Specifies requirements for
+back up lists and daily records of the voter registration data base.
+Specifies that an election in Indiana may be held only on election day.
+Prohibits: (1) early in person voting; (2) vote centers; (3) Internet
+voting; (4) mass mail-in voting; (5) ballot harvesting; and (6) a ballot
+drop box. Provides that a precinct may contain not more than 1,500
+registered active voters. Specifies that absentee voter boards may be
+used for all voters at extended care facilities. Requires all voter
+registration applications to include proof of citizenship and a signature.
+Specifies certain restrictions that apply to a third party organization.
+Provides that a digital identification is not acceptable for the purposes
+of registration or voting. Specifies: (1) requirements for absentee
+ballots; and (2) the individuals who qualify to receive an absentee
+ballot. Requires an absentee ballot to include a copy of the voter's proof
+of identification or the last four digits of the voter's Social Security
+number. Provides that a person who violates these provisions: (1)
+commits a Class A misdemeanor; and (2) is deprived of the right of
+suffrage for 10 years. Repeals a provision that designates as
+confidential certain information maintained by VSTOP. Requires the
+attorney general to establish an election crimes unit.
+22002266 IINN 11116666——LLSS 66667799//DDII 114444
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1166
+A BILL FOR AN ACT to amend the Indiana Code concerning
+elections.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 3-5-2.5 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+3 PASSAGE]:
+4 Chapter 2.5. Manner of Conducting Elections in Indiana
+5 Sec. 0.5. (a) This chapter applies notwithstanding any other law.
+6 (b) If there is a conflict between a provision of this chapter and
+7 another provision of Indiana law, this chapter prevails.
+8 Sec. 1. The state of Indiana shall conduct all elections using
+9 secure, hand-marked paper ballots that are:
+10 (1) designed and made in Indiana;
+11 (2) embellished with a distinctive watermark, as designated by
+12 the secretary of state; and
+13 (3) serialized numerically.
+14 No other method of voting may be used in Indiana.
+15 Sec. 2. (a) The watermarked and serialized paper ballots
+2026 IN 1166—LS 6679/DI 144
+
+2
+1 described in section 1 of this chapter must be counted by hand
+2 beginning at 7 a.m. on election day.
+3 (b) Mail-in ballots must be opened at the precinct polling place
+4 and counted at noon on election day in the manner set forth in
+5 IC 3-11.5-5.
+6 Sec. 3. (a) Except as specifically authorized by this chapter,
+7 machines or electronic devices are prohibited in a precinct polling
+8 place.
+9 (b) Each polling place must have video cameras that record and
+10 live stream, with audio and video of the polling place, in full view
+11 of the watchers, the:
+12 (1) hand counting process of the paper ballots; and
+13 (2) transparent ballot box container into which voters place
+14 their folded marked ballots.
+15 (c) Each precinct must have one (1) voting system equipped for
+16 individuals with disabilities to comply with the requirements of
+17 HAVA.
+18 Sec. 4. (a) Ballots must be counted by two (2) counters in
+19 accordance with IC 3-12-2.
+20 (b) The video cameras required under section 3(b) of this
+21 chapter must clearly show the counting of ballots so that watchers
+22 in the polling place have full access to the live stream of all ballots
+23 being hand-counted. The video cameras shall record each
+24 serialized ballot being hand-counted on the tally sheet in full view,
+25 with audio of the caller, to confirm the votes for each candidate or
+26 public question that is called.
+27 Sec. 5. The hand-counted precinct results must be affirmed by
+28 all precinct workers present. All precinct workers shall sign, under
+29 the penalties for perjury, the precinct final tally records.
+30 Sec. 6. (a) The results of the election must be called in to the
+31 county election board, with all precinct workers present. The
+32 county election board shall report the results of the election to the
+33 county clerk for certification.
+34 (b) Copies of final tally reports must be given to each of the
+35 precinct workers as part of the transparency of their work.
+36 (c) Precinct workers may validate reported results from the
+37 county clerk on the election summary report uploaded by precinct
+38 to the county clerk website.
+39 Sec. 7. Election results must be announced the evening of the
+40 election.
+41 Sec. 8. The use of pollbooks in any form other than paper is
+42 prohibited.
+2026 IN 1166—LS 6679/DI 144
+
+3
+1 Sec. 9. (a) Ballots may not contain confidential voter
+2 information. The serial number of the ballot may not allow an
+3 individual to identify a voter.
+4 (b) Ballots are not confidential in Indiana.
+5 Sec. 10. (a) Except as provided in subsection (c), after June 30,
+6 2026, the state may not conduct VSTOP.
+7 (b) On July 1, 2026, the secretary of state shall transfer all funds
+8 for VSTOP to the treasurer of state for deposit in the state general
+9 fund.
+10 (c) This subsection applies if the state has outstanding
+11 contractual obligations under VSTOP after June 30, 2026. When
+12 all contractual obligations under VSTOP are satisfied, the state
+13 may no longer conduct VSTOP.
+14 Sec. 11. (a) The following must be maintained in secure county
+15 owned facilities with restricted access:
+16 (1) Indiana election forms.
+17 (2) Ballots.
+18 (3) Paper pollbooks.
+19 (4) Audio and visual media from the hand counting process.
+20 (5) All other required election related materials.
+21 (b) Except as otherwise required by law, only the county clerk,
+22 together with a member of the opposing political party, may access
+23 ballots maintained under subsection (a).
+24 (c) The secretary of state shall randomly choose ten (10)
+25 counties for post-election hand recounts and inspections of secured
+26 storage facilities.
+27 Sec. 12. (a) All citizens of Indiana have the right to inspect and
+28 copy all election materials at the office of the county clerk,
+29 including the following:
+30 (1) Voter lists.
+31 (2) Pollbook signatures.
+32 (3) Voter history.
+33 (4) Absentee applications.
+34 (5) Absentee ballot signatures.
+35 (6) Chain of custody documentation.
+36 (7) All ballots, excluding the names and addresses of those
+37 participating in the confidential address program.
+38 (b) Inspection and copying under subsection (a) must be
+39 supervised, monitored, and controlled.
+40 Sec. 13. (a) The secretary of state shall establish and maintain
+41 a statewide voter registration data base administered by the
+42 election division and archived in the office of the secretary of state.
+2026 IN 1166—LS 6679/DI 144
+
+4
+1 (b) The data base described in subsection (a) must be made
+2 continuously available to the citizens of Indiana through the
+3 secretary of state's website without cost to the citizen.
+4 (c) The data base described in subsection (a) must be monthly
+5 reconciled against:
+6 (1) the National Change of Address system;
+7 (2) the United States Social Security death index;
+8 (3) noncitizen data bases, such as the Systematic Alien
+9 Verification for Entitlements (SAVE) program; and
+10 (4) any data base that the secretary of state deems useful in
+11 voter roll maintenance;
+12 to ensure all persons on the voter registration lists are eligible to
+13 vote in Indiana.
+14 (d) The secretary of state shall administer voter registration
+15 rolls. The secretary of state may not delegate this function.
+16 Sec. 14. (a) County clerks shall create and print the paper
+17 pollbook for each precinct using the county's official list of
+18 registered voters.
+19 (b) The county clerk shall send any new, edited, or removed
+20 voters from the county's official list by facsimile to the election
+21 division for updating.
+22 (c) The county shall maintain a back up paper copy of the
+23 county's official list, printed once each year. The county clerk shall
+24 also maintain an electronic back up copy of the county's official
+25 list, transferred once each month to a thumb drive that must be
+26 stored securely with the election materials.
+27 Sec. 15. The state's voter registration application must require
+28 an applicant to give permission to the state, if the application is
+29 approved, to inform any other state where the applicant is still
+30 registered to vote, for the purpose of removing the applicant from
+31 the voter registration rolls in the other state. The county clerk shall
+32 send a form to the voter to forward to the voter's former state to
+33 cancel the voter's registration.
+34 Sec. 16. Each day, the election division shall:
+35 (1) create a daily record of the election division's voter
+36 registration data base, as of 4 p.m.; and
+37 (2) transmit, in a secure manner, the daily record to the
+38 secretary of state for:
+39 (A) archive purposes; and
+40 (B) uploading online each day for citizens.
+41 Sec. 17. (a) An election in Indiana may be held only on election
+42 day.
+2026 IN 1166—LS 6679/DI 144
+
+5
+1 (b) Early in person voting is prohibited.
+2 (c) Vote centers are prohibited.
+3 (d) Internet voting is prohibited.
+4 Sec. 18. A precinct may contain not more than one thousand five
+5 hundred (1,500) registered active voters.
+6 Sec. 19. Mass mail-in voting is prohibited. Notwithstanding this
+7 section, a voter may vote by absentee ballot if the ballot is
+8 individually requested by the voter and the voter is permitted to
+9 vote by absentee ballot under section 26 of this chapter.
+10 Sec. 20. Ballot harvesting is prohibited. Only a voter or an
+11 immediate family member of a voter may return a completed
+12 absentee ballot to the county clerk.
+13 Sec. 21. Absentee voter boards may be used for all voters at
+14 extended care facilities. However, an employee at an extended care
+15 facility may not assist a voter in completing a ballot unless the
+16 voter is the employee's immediate family member.
+17 Sec. 22. (a) All voter registration applications must include
+18 proof of citizenship and a signature of the applicant.
+19 (b) A signature submitted under subsection (a) must be used to
+20 verify future voting:
+21 (1) at precinct check in; or
+22 (2) for a voter who votes:
+23 (A) by absentee mail-in ballot; or
+24 (B) as an absent uniformed services voter or overseas
+25 voter.
+26 The requirements under this subsection apply to, but are not
+27 limited to, an envelope containing an absentee ballot.
+28 Sec. 23. A third party organization may not:
+29 (1) request a voter registration;
+30 (2) fill out or mail a registration form for an applicant;
+31 (3) return a registration form to a county official or to the
+32 secretary of state by hand; or
+33 (4) offer any monetary or nonmonetary enticement to request,
+34 fill out, or return a registration form.
+35 Sec. 24. A digital identification is not acceptable for the
+36 purposes of registration or voting.
+37 Sec. 25. A ballot drop box, whether manned or unmanned, is
+38 prohibited in any location.
+39 Sec. 26. (a) An absentee ballot application may not be sent by
+40 mail unless the application is requested.
+41 (b) Absentee ballots must be received by noon on election day.
+42 All absentee ballots received after noon on election day are void
+2026 IN 1166—LS 6679/DI 144
+
+6
+1 and may not be counted.
+2 (c) An absentee ballot may be mailed only to an individual who
+3 requests an absentee ballot.
+4 (d) The following individuals qualify to receive an absentee
+5 ballot:
+6 (1) A member of the military.
+7 (2) An individual with a disability.
+8 (3) A voter who is required to work for the entire time the
+9 polls are open.
+10 (4) An absent uniformed services voter or overseas voter.
+11 (5) An elderly voter who is at least sixty-five (65) years of age.
+12 (e) Mailing an absentee ballot to an individual who is not
+13 described in subsection (d) is prohibited.
+14 (f) An absentee ballot must include a copy of:
+15 (1) the voter's proof of identification; or
+16 (2) the last four (4) digits of the voter's Social Security
+17 number.
+18 Information submitted under this subsection must be verified by
+19 the county clerk from the voter's original registration record and
+20 signature. This section also applies to an absent uniformed services
+21 voter or overseas voter.
+22 Sec. 27. (a) A person who violates this chapter commits voter
+23 fraud, a Class A misdemeanor.
+24 (b) Notwithstanding IC 3-7-13-4, IC 3-7-13-5, and IC 3-7-13-6,
+25 a person who violates this chapter is deprived of the right of
+26 suffrage by the general assembly for a period of ten (10) years
+27 following the date of conviction, pursuant to Article 2, Section 8 of
+28 the Constitution of the State of Indiana.
+29 (c) A person described in subsection (b) is not:
+30 (1) authorized to vote; or
+31 (2) eligible to register under this article;
+32 during the period within which the person is deprived of the right
+33 of suffrage, even if the person is no longer in prison or otherwise
+34 subject to lawful detention.
+35 (d) The reduction of a felony to a misdemeanor does not affect
+36 the operation of subsections (b) and (c).
+37 (e) A person described in subsection (b) who is otherwise
+38 qualified to register under IC 3-7 is eligible to register after the
+39 expiration of the period within which the person is deprived of the
+40 right of suffrage.
+41 SECTION 2. IC 3-7-13-4 IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE UPON PASSAGE]: Sec. 4. (a) A person who is:
+2026 IN 1166—LS 6679/DI 144
+
+7
+1 (1) convicted of a crime; and
+2 (2) imprisoned following conviction;
+3 is deprived of the right of suffrage by the general assembly pursuant to
+4 Article 2, Section 8 of the Constitution of the State of Indiana.
+5 (b) Except as provided in IC 3-5-2.5-27, a person described in
+6 subsection (a) is ineligible to register under this article during the
+7 period that the person is:
+8 (1) imprisoned; or
+9 (2) otherwise subject to lawful detention.
+10 SECTION 3. IC 3-7-13-6 IS AMENDED TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 6. (a) This section applies to a
+12 person who is:
+13 (1) otherwise qualified to register under this article; and
+14 (2) not imprisoned or subject to lawful detention.
+15 (b) Except as provided in IC 3-5-2.5-27, a person described in
+16 subsection (a) who is:
+17 (1) on probation;
+18 (2) on parole;
+19 (3) subject to home detention under IC 35-38-2.5; or
+20 (4) placed in a community corrections program under
+21 IC 35-38-2.6;
+22 is eligible to register and to vote.
+23 SECTION 4. IC 3-7-46-1, AS AMENDED BY P.L.128-2015,
+24 SECTION 140, IS AMENDED TO READ AS FOLLOWS
+25 [EFFECTIVE UPON PASSAGE]: Sec. 1. As permitted under 52
+26 U.S.C. 20507(a)(3)(B) and in the manner required under 52 U.S.C.
+27 21083, a county voter registration office shall remove from the official
+28 list of registered voters the name of a voter who is disfranchised under:
+29 (1) this chapter; or
+30 (2) IC 3-5-2.5-27;
+31 due to a criminal conviction.
+32 SECTION 5. IC 3-11-16-6 IS REPEALED [EFFECTIVE UPON
+33 PASSAGE]. Sec. 6. The inventory of voting systems and electronic poll
+34 books maintained by VSTOP under section 4 of this chapter is
+35 confidential.
+36 SECTION 6. IC 4-6-17 IS ADDED TO THE INDIANA CODE AS
+37 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+38 PASSAGE]:
+39 Chapter 17. Election Crimes Unit
+40 Sec. 1. As used in this chapter, "ECU" refers to the election
+41 crimes unit established under section 2 of this chapter.
+42 Sec. 2. The attorney general shall establish an election crimes
+2026 IN 1166—LS 6679/DI 144
+
+8
+1 unit.
+2 Sec. 3. The ECU shall receive, review, and investigate any notice
+3 or report of an election law violation.
+4 Sec. 4. The ECU may independently initiate an investigation
+5 concerning election law violations.
+6 Sec. 5. The ECU has jurisdiction throughout Indiana.
+7 Sec. 6. The secretary of state and the election division shall
+8 permit the ECU access to all data maintained by the secretary of
+9 state and the election division for the ECU's evaluation and review.
+10 Sec. 7. The attorney general shall appoint a director of the ECU.
+11 Sec. 8. The ECU shall create and oversee an Indiana voter fraud
+12 hotline.
+13 Sec. 9. The creation of the ECU does not limit the jurisdiction of
+14 any other office or agency to investigate voter fraud.
+15 Sec. 10. The ECU shall submit an annual report to the governor
+16 and the general assembly containing a summary of all of the ECU's
+17 investigations. The report must be made available to the public. A
+18 report to the general assembly under this section must be in an
+19 electronic format under IC 5-14-6.
+20 SECTION 7. IC 35-52-3-0.5 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+22 UPON PASSAGE]: Sec. 0.5. IC 3-5-2.5-27 defines a crime
+23 concerning elections.
+24 SECTION 8. An emergency is declared for this act.
+2026 IN 1166—LS 6679/DI 144
+
+[DELETED:  d s e p t h o v s e f w d S r f r s f c t v s t o c e d R t s o s 5 2 r f t a r t C o E a6I]
+[DELETED:  f a v a e c f R a v r o v S ( r f a f 1 y R a p t d a6I]
+[DELETED:  2 ( T w a s p b6I]
+[DELETED:  4 ( B m b c b t ( c i T v c r u s 3 o t h T v c s r e e b w p w p T6I]
+[DELETED:  9 ( B m n c c v T s a i t s h o T s o s s r c t ( a e m a t o o t c c I a c u s ( m b s v r d b a b t6I]
+[DELETED:  a t t c o I t t n d b s a t S A f e p u t c o l o c a d r o t e d v6I]
+[DELETED:  a v m v b a b i t b i a a a u v o o r u t s a b a n 2 A d i i n a f t6I]
+[DELETED:  M a a b t a i w i n t l f ( d o t v S S o t A p d i s ( w i o6I]
+[DELETED:  p i a c c p u 4 I 3 A A B P 1 I A T R A F U P S 1 A p u 5 m b V u s 4 o t c i6I]
+[DELETED:  A N S T R A F [ P S 0 I 3 d a c6I]

@@ -1,0 +1,557 @@
+Title: HOUSE BILL No. 1110
+Official Title: HOUSE BILL No. 1110
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 13-11-2; IC 13-18-28.
+Synopsis: PFAS chemicals. Requires the department of environmental
+management to adopt maximum contaminant levels for PFAS
+chemicals and effluent limitation standards for wastewater containing
+PFAS chemicals by July 1, 2027. Creates various compliance
+requirements for direct dischargers and indirect dischargers.
+Establishes various civil penalties. Establishes the PFAS chemical
+testing and remediation fund. Creates a PFAS chemical grant program.
+Effective: July 1, 2026.
+Cash
+January 5, 2026, read first time and referred to Committee on Environmental Affairs.
+2026 IN 1110—LS 6535/DI 150
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1110
+A BILL FOR AN ACT to amend the Indiana Code concerning
+environmental law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 13-11-2-54.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 54.5. "Direct dischargers", for
+4 purposes of IC 13-18-28, means a NPDES permit:
+5 (1) applicant; or
+6 (2) holder;
+7 seeking to discharge industrial wastewater containing PFAS
+8 chemicals directly into waters of the state.
+9 SECTION 2. IC 13-11-2-68.8 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE JULY 1, 2026]: Sec. 68.8. "Effluent limitation
+12 standard", for purposes of IC 13-18-28, means the maximum
+13 amount of PFAS chemicals a direct discharger or indirect
+14 discharger is allowed to discharge in its wastewater under the
+15 federal Clean Water Act (33 U.S.C. 1342).
+16 SECTION 3. IC 13-11-2-107.5 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2026 IN 1110—LS 6535/DI 150
+2
+1 [EFFECTIVE JULY 1, 2026]: Sec. 107.5. "Indirect discharger", for
+2 purposes of IC 13-18-28, means an entity that:
+3 (1) intentionally; or
+4 (2) unintentionally;
+5 introduces industrial wastewater containing PFAS chemicals into
+6 a publicly owned treatment works.
+7 SECTION 4. IC 13-11-2-128.1 IS ADDED TO THE INDIANA
+8 CODE AS A NEW SECTION TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2026]: Sec. 128.1. "Maximum contaminant
+10 level", for purposes of IC 13-18-28, means the maximum
+11 permissible level of PFAS chemical contamination in drinking
+12 water delivered to a user of a public water system.
+13 SECTION 5. IC 13-11-2-136.7 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 136.7. "National Pollutant
+16 Discharge Elimination System permit" or "NPDES permit", for
+17 purposes of IC 13-18-28, refers to a permit issued under the federal
+18 Clean Water Act (33 U.S.C. 1342).
+19 SECTION 6. IC 13-11-2-163.4 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 163.4. "PFAS chemicals", for
+22 purposes of IC 13-18-28, means any of the following perfluoroalkyl
+23 and polyfluoroalkyl substances that contains at least one (1) fully
+24 fluorinated carbon atom:
+25 (1) Perfluorooctanoic acid (PFOA).
+26 (2) Perfluorooctane sulfonic acid (PFOS).
+27 (3) Perfluorohexane sulfonic acid (PFHxS).
+28 (4) Perfluorononanoic acid (PFNA).
+29 (5) Perfluorobutanesulfonic acid (PFBS).
+30 (6) Hexafluoropropylene oxide dimer acid (HFPO-DA).
+31 SECTION 7. IC 13-11-2-177.5 IS AMENDED TO READ AS
+32 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 177.5. "Publicly owned
+33 treatment works", for purposes of IC 13-18-3 and IC 13-18-28, has the
+34 meaning set forth in 327 IAC 5-1.5-48.
+35 SECTION 8. IC 13-11-2-264.9 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 264.9. (a) "Waters of the state",
+38 for purposes of IC 13-18-28, means:
+39 (1) the accumulations of water, surface and underground,
+40 natural and artificial, and public and private; or
+41 (2) a part of the accumulations of water;
+42 that are wholly or partially within, flow through, or border upon
+2026 IN 1110—LS 6535/DI 150
+3
+1 Indiana.
+2 (b) The term includes all waters of the United States, as defined
+3 in Section 502(7) of the federal Clean Water Act (33 U.S.C.
+4 1362(7)), that are located in Indiana.
+5 SECTION 9. IC 13-18-28 IS ADDED TO THE INDIANA CODE
+6 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]:
+8 Chapter 28. Regulation of PFAS Chemicals
+9 Sec. 1. (a) Not later than July 1, 2027, the department shall
+10 establish the following:
+11 (1) Water quality standards for drinking water containing
+12 PFAS chemicals informed by the maximum contaminant
+13 levels established under the 2024 federal Safe Drinking Water
+14 Act.
+15 (2) Effluent limitation standards for wastewater containing
+16 PFAS chemicals produced by direct dischargers located in
+17 Indiana.
+18 (b) Subject to subsection (c), the department shall:
+19 (1) update the:
+20 (A) maximum contaminant levels for identified PFAS
+21 chemicals in Indiana drinking water; and
+22 (B) effluent limitation standards for wastewater containing
+23 PFAS chemicals produced by direct dischargers located in
+24 Indiana;
+25 every four (4) years; and
+26 (2) establish maximum contaminant levels and effluent
+27 limitation standards for new PFAS chemicals identified by the
+28 department.
+29 (c) Except in the case of establishing a maximum contaminant
+30 level for a new PFAS chemical, the department may not increase
+31 the maximum contaminant levels for PFAS chemicals beyond the
+32 maximum contaminant levels for PFAS chemicals established by
+33 the 2024 federal Safe Drinking Water Act.
+34 Sec. 2. Beginning July 1, 2029, the department shall incorporate
+35 the effluent limitation standards for wastewater established under
+36 section 1 of this chapter into the NPDES permits issued to direct
+37 dischargers.
+38 Sec. 3. Beginning July 1, 2029, the department shall require
+39 publicly owned treatment works (POTW) to:
+40 (1) regulate the discharge of PFAS chemicals into the waters
+41 of the state by indirect dischargers; and
+42 (2) establish control mechanisms to reduce the discharge of
+2026 IN 1110—LS 6535/DI 150
+4
+1 PFAS chemicals into the waters of the state.
+2 Sec. 4. (a) The department shall require all direct dischargers to
+3 conduct mandatory monitoring of industrial wastewater for PFAS
+4 chemicals as part of the direct discharger's NPDES permit
+5 obligations.
+6 (b) A direct discharger shall submit a monthly report describing
+7 the levels of PFAS chemicals detected in industrial wastewater to
+8 the:
+9 (1) department; and
+10 (2) United States Environmental Protection Agency.
+11 Sec. 5. (a) The department shall require indirect dischargers to
+12 implement mandatory monitoring procedures for industrial
+13 wastewater containing PFAS chemicals.
+14 (b) An indirect discharger shall implement monitoring methods,
+15 approved by the department, to track the levels of PFAS chemicals
+16 discharged in industrial wastewater.
+17 (c) An indirect discharger shall submit a monthly report
+18 describing the levels of PFAS chemicals detected in industrial
+19 wastewater to the:
+20 (1) department; and
+21 (2) United States Environmental Protection Agency.
+22 Sec. 6. (a) A direct discharger or indirect discharger shall
+23 achieve compliance with the effluent limitation standards
+24 established by the department not later than July 1, 2029.
+25 (b) The department shall notify a direct discharger or indirect
+26 discharger when the direct discharger or indirect discharger is
+27 violating this section.
+28 Sec. 7. (a) A direct discharger or indirect discharger that
+29 exceeds the effluent limitation standards after July 1, 2029, shall
+30 develop and implement:
+31 (1) a corrective action plan to remediate the existing levels of
+32 PFAS chemicals in industrial wastewater; and
+33 (2) a pollutant minimization program to prevent the future
+34 discharge of PFAS chemicals.
+35 (b) A direct discharger or indirect discharger shall share its
+36 corrective action plan or pollutant minimization program with the
+37 department within thirty (30) days of determining that the direct
+38 discharger or indirect discharger is violating the effluent limitation
+39 standards.
+40 (c) A direct discharger or indirect discharger has four (4)
+41 months to meet the effluent limitation standards.
+42 (d) The department shall publish the monthly monitoring results
+2026 IN 1110—LS 6535/DI 150
+5
+1 of:
+2 (1) a direct discharger; or
+3 (2) an indirect discharger;
+4 that violates section 6 of this chapter and fails to implement a
+5 corrective action plan or pollutant minimization program.
+6 (e) The department shall include in the report the following
+7 information:
+8 (1) The name of the direct discharger or indirect discharger.
+9 (2) The amount of PFAS chemicals discharged by the direct
+10 discharger or indirect discharger.
+11 (3) The name of every PFAS chemical discharged by the
+12 direct discharger or indirect discharger.
+13 (4) Any additional information determined by the
+14 department.
+15 Sec. 8. (a) A direct discharger or indirect discharger that
+16 violates the effluent limitation standards after July 1, 2029, is
+17 subject to a civil penalty not to exceed twenty-five thousand dollars
+18 ($25,000) per day of any violation.
+19 (b) The department may seek injunctive relief under this
+20 chapter.
+21 (c) If a direct discharger or indirect discharger continuously
+22 violates the effluent limitation standards for four (4) months, the
+23 department shall assess a civil penalty of not more than five
+24 hundred thousand dollars ($500,000).
+25 (d) The department shall deposit civil penalties collected under
+26 this chapter in the PFAS chemical testing and remediation fund
+27 established by section 9 of this chapter.
+28 Sec. 9. (a) The PFAS chemical testing and remediation fund is
+29 established.
+30 (b) Subject to subsections (c) and (d), funds from the PFAS
+31 chemical testing and remediation fund may be used to:
+32 (1) offset the costs incurred by entities establishing filtration
+33 and purification methods to reduce PFAS chemical levels;
+34 (2) provide funds for a tenant or landlord to test wells and
+35 biosoils for PFAS chemicals; and
+36 (3) provide funds to remediate extreme PFAS chemical
+37 exposure events and carry out blood testing for affected
+38 community members.
+39 (c) The department shall prioritize funding projects described
+40 in subsection (b)(1) and (b)(2). Only funds remaining after an
+41 application cycle for projects described in subsection (b)(1) and
+42 (b)(2) may then be used to fund projects described in subsection
+2026 IN 1110—LS 6535/DI 150
+6
+1 (b)(3).
+2 (d) The department shall only provide funds to a tenant or
+3 landlord to test wells and biosoils for PFAS chemicals:
+4 (1) one (1) time per year; or
+5 (2) within three (3) months of a remediation effort for an
+6 extreme PFAS chemical exposure event.
+7 (e) The fund shall be administered by the department.
+8 (f) The expenses of administering the fund shall be paid from
+9 the money in the fund.
+10 (g) The treasurer of state shall invest money in the fund not
+11 currently needed to meet the obligations of the fund in the same
+12 manner as other public money may be invested. Interest that
+13 accrues from these investments shall be deposited in the fund.
+14 (h) Money in the fund consists of appropriations, gifts, grants,
+15 donations from public or private sources, and civil penalties
+16 collected under section 8 of this chapter.
+17 (i) Money in the fund at the end of the state fiscal year does not
+18 revert to the state general fund.
+19 Sec. 10. (a) Not later than July 1, 2029, the department shall
+20 create a grant program to award:
+21 (1) water utilities (as defined in IC 8-1-30.8-4) and volunteer
+22 fire departments establishing filtration and purification
+23 methods to reduce PFAS chemical levels; and
+24 (2) individuals testing wells and biosoils for PFAS chemicals.
+25 (b) The department shall publish application requirements for
+26 the grant program on the department's website.
+27 Sec. 11. (a) A person may file a private action against a:
+28 (1) direct discharger; or
+29 (2) indirect discharger;
+30 that violates this chapter.
+31 (b) The person filing a private action for a violation under this
+32 chapter shall comply with IC 13-30-3.
+33 Sec. 12. The department shall adopt rules under IC 4-22-2 to
+34 implement this chapter.
+2026 IN 1110—LS 6535/DI 150
+[DELETED:  t a m c l f P c b J 1 2 C v c f d d a i d6I]
+[DELETED:  I A A N S T R A F t d i w c P A A N S T R A F J 1 2 S 6 " l f p o I 1 m t m o P c a d d o i A A N S T R A F6I]
+[DELETED:  A A N S T R A F f p o I 1 m t m A A N S T R A F J 1 2 S 1 " P A A N S T R A F 7 I 1 I A T R A A A N S T R A F6I]
+[DELETED:  S 5 o t f C W A ( U c i b t m c m c l f i P e m c l a e6I]
+[DELETED:  a p o t d d N p m m p f i A i d s s a m r 6 ( A d d o i d s c w t e l s 7 ( A d d o i d t A d d o i d h f (6I]
+[DELETED:  A a i d b t 8 ( A d d o i d t T d m s i r u t s a a c p o n m t f p f t r e P c e a c o b t f a6I]
+[DELETED:  a o p m m b i I f p o p s a c p d e f a p6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1110
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 13-11-2; IC 13-18-28.
+Synopsis: PFAS chemicals. Requires the department of environmental
+management to adopt maximum contaminant levels for PFAS
+chemicals and effluent limitation standards for wastewater containing
+PFAS chemicals by July 1, 2027. Creates various compliance
+requirements for direct dischargers and indirect dischargers.
+Establishes various civil penalties. Establishes the PFAS chemical
+testing and remediation fund. Creates a PFAS chemical grant program.
+Effective: July 1, 2026.
+Cash
+January 5, 2026, read first time and referred to Committee on Environmental Affairs.
+2026 IN 1110—LS 6535/DI 150
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1110
+A BILL FOR AN ACT to amend the Indiana Code concerning
+environmental law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 13-11-2-54.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 54.5. "Direct dischargers", for
+4 purposes of IC 13-18-28, means a NPDES permit:
+5 (1) applicant; or
+6 (2) holder;
+7 seeking to discharge industrial wastewater containing PFAS
+8 chemicals directly into waters of the state.
+9 SECTION 2. IC 13-11-2-68.8 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE JULY 1, 2026]: Sec. 68.8. "Effluent limitation
+12 standard", for purposes of IC 13-18-28, means the maximum
+13 amount of PFAS chemicals a direct discharger or indirect
+14 discharger is allowed to discharge in its wastewater under the
+15 federal Clean Water Act (33 U.S.C. 1342).
+16 SECTION 3. IC 13-11-2-107.5 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2026 IN 1110—LS 6535/DI 150
+
+2
+1 [EFFECTIVE JULY 1, 2026]: Sec. 107.5. "Indirect discharger", for
+2 purposes of IC 13-18-28, means an entity that:
+3 (1) intentionally; or
+4 (2) unintentionally;
+5 introduces industrial wastewater containing PFAS chemicals into
+6 a publicly owned treatment works.
+7 SECTION 4. IC 13-11-2-128.1 IS ADDED TO THE INDIANA
+8 CODE AS A NEW SECTION TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2026]: Sec. 128.1. "Maximum contaminant
+10 level", for purposes of IC 13-18-28, means the maximum
+11 permissible level of PFAS chemical contamination in drinking
+12 water delivered to a user of a public water system.
+13 SECTION 5. IC 13-11-2-136.7 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 136.7. "National Pollutant
+16 Discharge Elimination System permit" or "NPDES permit", for
+17 purposes of IC 13-18-28, refers to a permit issued under the federal
+18 Clean Water Act (33 U.S.C. 1342).
+19 SECTION 6. IC 13-11-2-163.4 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 163.4. "PFAS chemicals", for
+22 purposes of IC 13-18-28, means any of the following perfluoroalkyl
+23 and polyfluoroalkyl substances that contains at least one (1) fully
+24 fluorinated carbon atom:
+25 (1) Perfluorooctanoic acid (PFOA).
+26 (2) Perfluorooctane sulfonic acid (PFOS).
+27 (3) Perfluorohexane sulfonic acid (PFHxS).
+28 (4) Perfluorononanoic acid (PFNA).
+29 (5) Perfluorobutanesulfonic acid (PFBS).
+30 (6) Hexafluoropropylene oxide dimer acid (HFPO-DA).
+31 SECTION 7. IC 13-11-2-177.5 IS AMENDED TO READ AS
+32 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 177.5. "Publicly owned
+33 treatment works", for purposes of IC 13-18-3 and IC 13-18-28, has the
+34 meaning set forth in 327 IAC 5-1.5-48.
+35 SECTION 8. IC 13-11-2-264.9 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 264.9. (a) "Waters of the state",
+38 for purposes of IC 13-18-28, means:
+39 (1) the accumulations of water, surface and underground,
+40 natural and artificial, and public and private; or
+41 (2) a part of the accumulations of water;
+42 that are wholly or partially within, flow through, or border upon
+2026 IN 1110—LS 6535/DI 150
+
+3
+1 Indiana.
+2 (b) The term includes all waters of the United States, as defined
+3 in Section 502(7) of the federal Clean Water Act (33 U.S.C.
+4 1362(7)), that are located in Indiana.
+5 SECTION 9. IC 13-18-28 IS ADDED TO THE INDIANA CODE
+6 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]:
+8 Chapter 28. Regulation of PFAS Chemicals
+9 Sec. 1. (a) Not later than July 1, 2027, the department shall
+10 establish the following:
+11 (1) Water quality standards for drinking water containing
+12 PFAS chemicals informed by the maximum contaminant
+13 levels established under the 2024 federal Safe Drinking Water
+14 Act.
+15 (2) Effluent limitation standards for wastewater containing
+16 PFAS chemicals produced by direct dischargers located in
+17 Indiana.
+18 (b) Subject to subsection (c), the department shall:
+19 (1) update the:
+20 (A) maximum contaminant levels for identified PFAS
+21 chemicals in Indiana drinking water; and
+22 (B) effluent limitation standards for wastewater containing
+23 PFAS chemicals produced by direct dischargers located in
+24 Indiana;
+25 every four (4) years; and
+26 (2) establish maximum contaminant levels and effluent
+27 limitation standards for new PFAS chemicals identified by the
+28 department.
+29 (c) Except in the case of establishing a maximum contaminant
+30 level for a new PFAS chemical, the department may not increase
+31 the maximum contaminant levels for PFAS chemicals beyond the
+32 maximum contaminant levels for PFAS chemicals established by
+33 the 2024 federal Safe Drinking Water Act.
+34 Sec. 2. Beginning July 1, 2029, the department shall incorporate
+35 the effluent limitation standards for wastewater established under
+36 section 1 of this chapter into the NPDES permits issued to direct
+37 dischargers.
+38 Sec. 3. Beginning July 1, 2029, the department shall require
+39 publicly owned treatment works (POTW) to:
+40 (1) regulate the discharge of PFAS chemicals into the waters
+41 of the state by indirect dischargers; and
+42 (2) establish control mechanisms to reduce the discharge of
+2026 IN 1110—LS 6535/DI 150
+
+4
+1 PFAS chemicals into the waters of the state.
+2 Sec. 4. (a) The department shall require all direct dischargers to
+3 conduct mandatory monitoring of industrial wastewater for PFAS
+4 chemicals as part of the direct discharger's NPDES permit
+5 obligations.
+6 (b) A direct discharger shall submit a monthly report describing
+7 the levels of PFAS chemicals detected in industrial wastewater to
+8 the:
+9 (1) department; and
+10 (2) United States Environmental Protection Agency.
+11 Sec. 5. (a) The department shall require indirect dischargers to
+12 implement mandatory monitoring procedures for industrial
+13 wastewater containing PFAS chemicals.
+14 (b) An indirect discharger shall implement monitoring methods,
+15 approved by the department, to track the levels of PFAS chemicals
+16 discharged in industrial wastewater.
+17 (c) An indirect discharger shall submit a monthly report
+18 describing the levels of PFAS chemicals detected in industrial
+19 wastewater to the:
+20 (1) department; and
+21 (2) United States Environmental Protection Agency.
+22 Sec. 6. (a) A direct discharger or indirect discharger shall
+23 achieve compliance with the effluent limitation standards
+24 established by the department not later than July 1, 2029.
+25 (b) The department shall notify a direct discharger or indirect
+26 discharger when the direct discharger or indirect discharger is
+27 violating this section.
+28 Sec. 7. (a) A direct discharger or indirect discharger that
+29 exceeds the effluent limitation standards after July 1, 2029, shall
+30 develop and implement:
+31 (1) a corrective action plan to remediate the existing levels of
+32 PFAS chemicals in industrial wastewater; and
+33 (2) a pollutant minimization program to prevent the future
+34 discharge of PFAS chemicals.
+35 (b) A direct discharger or indirect discharger shall share its
+36 corrective action plan or pollutant minimization program with the
+37 department within thirty (30) days of determining that the direct
+38 discharger or indirect discharger is violating the effluent limitation
+39 standards.
+40 (c) A direct discharger or indirect discharger has four (4)
+41 months to meet the effluent limitation standards.
+42 (d) The department shall publish the monthly monitoring results
+2026 IN 1110—LS 6535/DI 150
+
+5
+1 of:
+2 (1) a direct discharger; or
+3 (2) an indirect discharger;
+4 that violates section 6 of this chapter and fails to implement a
+5 corrective action plan or pollutant minimization program.
+6 (e) The department shall include in the report the following
+7 information:
+8 (1) The name of the direct discharger or indirect discharger.
+9 (2) The amount of PFAS chemicals discharged by the direct
+10 discharger or indirect discharger.
+11 (3) The name of every PFAS chemical discharged by the
+12 direct discharger or indirect discharger.
+13 (4) Any additional information determined by the
+14 department.
+15 Sec. 8. (a) A direct discharger or indirect discharger that
+16 violates the effluent limitation standards after July 1, 2029, is
+17 subject to a civil penalty not to exceed twenty-five thousand dollars
+18 ($25,000) per day of any violation.
+19 (b) The department may seek injunctive relief under this
+20 chapter.
+21 (c) If a direct discharger or indirect discharger continuously
+22 violates the effluent limitation standards for four (4) months, the
+23 department shall assess a civil penalty of not more than five
+24 hundred thousand dollars ($500,000).
+25 (d) The department shall deposit civil penalties collected under
+26 this chapter in the PFAS chemical testing and remediation fund
+27 established by section 9 of this chapter.
+28 Sec. 9. (a) The PFAS chemical testing and remediation fund is
+29 established.
+30 (b) Subject to subsections (c) and (d), funds from the PFAS
+31 chemical testing and remediation fund may be used to:
+32 (1) offset the costs incurred by entities establishing filtration
+33 and purification methods to reduce PFAS chemical levels;
+34 (2) provide funds for a tenant or landlord to test wells and
+35 biosoils for PFAS chemicals; and
+36 (3) provide funds to remediate extreme PFAS chemical
+37 exposure events and carry out blood testing for affected
+38 community members.
+39 (c) The department shall prioritize funding projects described
+40 in subsection (b)(1) and (b)(2). Only funds remaining after an
+41 application cycle for projects described in subsection (b)(1) and
+42 (b)(2) may then be used to fund projects described in subsection
+2026 IN 1110—LS 6535/DI 150
+
+6
+1 (b)(3).
+2 (d) The department shall only provide funds to a tenant or
+3 landlord to test wells and biosoils for PFAS chemicals:
+4 (1) one (1) time per year; or
+5 (2) within three (3) months of a remediation effort for an
+6 extreme PFAS chemical exposure event.
+7 (e) The fund shall be administered by the department.
+8 (f) The expenses of administering the fund shall be paid from
+9 the money in the fund.
+10 (g) The treasurer of state shall invest money in the fund not
+11 currently needed to meet the obligations of the fund in the same
+12 manner as other public money may be invested. Interest that
+13 accrues from these investments shall be deposited in the fund.
+14 (h) Money in the fund consists of appropriations, gifts, grants,
+15 donations from public or private sources, and civil penalties
+16 collected under section 8 of this chapter.
+17 (i) Money in the fund at the end of the state fiscal year does not
+18 revert to the state general fund.
+19 Sec. 10. (a) Not later than July 1, 2029, the department shall
+20 create a grant program to award:
+21 (1) water utilities (as defined in IC 8-1-30.8-4) and volunteer
+22 fire departments establishing filtration and purification
+23 methods to reduce PFAS chemical levels; and
+24 (2) individuals testing wells and biosoils for PFAS chemicals.
+25 (b) The department shall publish application requirements for
+26 the grant program on the department's website.
+27 Sec. 11. (a) A person may file a private action against a:
+28 (1) direct discharger; or
+29 (2) indirect discharger;
+30 that violates this chapter.
+31 (b) The person filing a private action for a violation under this
+32 chapter shall comply with IC 13-30-3.
+33 Sec. 12. The department shall adopt rules under IC 4-22-2 to
+34 implement this chapter.
+2026 IN 1110—LS 6535/DI 150
+
+[DELETED:  t a m c l f P c b J 1 2 C v c f d d a i d6I]
+[DELETED:  I A A N S T R A F t d i w c P A A N S T R A F J 1 2 S 6 " l f p o I 1 m t m o P c a d d o i A A N S T R A F6I]
+[DELETED:  A A N S T R A F f p o I 1 m t m A A N S T R A F J 1 2 S 1 " P A A N S T R A F 7 I 1 I A T R A A A N S T R A F6I]
+[DELETED:  S 5 o t f C W A ( U c i b t m c m c l f i P e m c l a e6I]
+[DELETED:  a p o t d d N p m m p f i A i d s s a m r 6 ( A d d o i d s c w t e l s 7 ( A d d o i d t A d d o i d h f (6I]
+[DELETED:  A a i d b t 8 ( A d d o i d t T d m s i r u t s a a c p o n m t f p f t r e P c e a c o b t f a6I]
+[DELETED:  a o p m m b i I f p o p s a c p d e f a p6I]

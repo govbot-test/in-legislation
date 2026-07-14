@@ -1,0 +1,1423 @@
+Title: SENATE BILL No. 71
+Official Title: SENATE BILL No. 71
+Number of Sections: 1
+Source: versions - Engrossed Senate Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+*SB0071.2*
+Reprinted
+January 9, 2026
+_____
+DIGEST OF SB 71 (Updated January 8, 2026 2:00 pm - DI 149)
+Citations Affected: IC 2-5; IC 29-3; IC 30-2; IC 30-4; IC 30-5;
+IC 32-17; IC 32-28.
+Synopsis: Various probate matters. Establishes the guardianship code
+revision task force (task force) to study a recodification of the current
+guardianship code with any necessary changes. Sets forth the
+membership, and requires the task force to issue a report to the general
+assembly and the governor. Allows a person indebted to a minor or
+having possession of property belonging to a minor to pay the debt or
+deliver the property without a court order in an amount up to $25,000
+and to pay the debt or deliver the property to a custodian under the
+Indiana Uniform Transfers to Minors Act. Specifies that a court may do
+the following when issuing a protective order: (1) authorize delivery of
+property to a custodian under the Indiana Uniform Transfers to Minors
+Act; and (2) order a trustee, custodian, or other person to file periodic
+reports concerning certain property transactions of a minor. Allows a
+person having the care and custody of a minor with whom the minor
+resides to petition a court to compromise a claim on behalf of the
+minor. Requires a court to hold a hearing on certain petitions
+concerning a proposal to compromise a claim on behalf of a minor and
+allows a court to appoint a guardian ad litem, an attorney, or other
+representative to represent the best interest of the minor in the
+proceeding. Provides that, under the Indiana Uniform Transfers to
+Minors Act, a trustee or administrator of certain plans may transfer
+funds due under a plan to the custodian of a minor who is designated
+as a beneficiary. Allows a custodian to transfer part or all of the minor's
+(Continued next page)
+Effective: July 1, 2026.
+Carrasco, Koch, Randolph Lonnie M
+December 8, 2025, read first time and referred to Committee on Judiciary.
+December 10, 2025, reported favorably — Do Pass.
+January 8, 2026, read second time, amended, ordered engrossed.
+SB 71—LS 6102/DI 149
+Digest Continued
+custodial property out of the custodial form under the Indiana Uniform
+Transfers to Minors Act to certain types of trusts or accounts without
+a court order. Provides that when a power of appointment in a trust
+(earlier power) is exercised to create another power of appointment
+(subsequent power) or another nonvested property interest, then the
+subsequent power or nonvested property interest created through the
+exercise of the earlier power is considered to have been created at the
+time of the creation of the earlier power, unless: (1) the instrument
+creating the earlier power; or (2) the instrument exercising the earlier
+power; explicitly provides that the subsequent power or nonvested
+property interest is considered to have been created at the time of the
+irrevocable exercise of the earlier power. Specifies that language
+conferring general authority in a power of attorney with respect to
+personal or family maintenance authorizes an attorney in fact to take
+certain actions on behalf of the principal for the benefit of the principal
+and the principal's spouse, children, and other persons customarily
+supported by the principal. Removes the authorization to employ or
+contract with servants or companions from the description of health
+care powers. Provides that the application is only to a lifetime or inter
+vivos transfer of property to a trust or similar arrangement under which
+the spouse of the transferor is granted an earlier power that can be
+exercised during the spouse's lifetime or upon the spouse's death to
+create a subsequent limited power of appointment or another nonvested
+property interest. Provides that the exercise of the earlier power or
+another nonvested property interest is considered to have been created
+at the time of the creation of the earlier power by the transferor.
+Specifies that certain written agreements executed between an owner
+of residential real property and a family member, attorney in fact,
+health care representative, or guardian that provide for an ownership
+interest in the residential real property are not prohibited residential
+real estate service agreements. (The introduced version of this bill was
+prepared by the probate code study committee.)
+SSBB 7711——LLSS 66110022//DDII 114499
+Reprinted
+January 9, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 71
+A BILL FOR AN ACT to amend the Indiana Code concerning
+probate.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-5-56 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]:
+4 Chapter 56. Guardianship Code Revision Task Force
+5 Sec. 1. As used in this chapter, "task force" refers to the
+6 guardianship code revision task force established by section 2 of
+7 this chapter.
+8 Sec. 2. The guardianship code revision task force is established
+9 as a temporary task force serving the general assembly.
+10 Sec. 3. (a) The task force consists of the following eleven (11)
+11 voting members:
+12 (1) Two (2) members of the senate, appointed as follows:
+13 (A) One (1) member appointed by the president pro
+14 tempore.
+15 (B) One (1) member appointed by the minority leader of
+SB 71—LS 6102/DI 149
+2
+1 the senate.
+2 (2) Two (2) members of the house of representatives,
+3 appointed as follows:
+4 (A) One (1) member appointed by the speaker.
+5 (B) One (1) member appointed by the minority leader of
+6 the house of representatives.
+7 (3) A representative from an area agency on aging appointed
+8 by the governor.
+9 (4) A representative of the Indiana supreme court's adult
+10 guardianship office appointed by the chief justice of the
+11 supreme court.
+12 (5) Two (2) private attorneys who practice guardianship or
+13 elder law appointed by the governor.
+14 (6) A manager or trained volunteer from a volunteer
+15 advocates for seniors and incapacitated adults (VASIA)
+16 recipient program appointed by the governor.
+17 (7) One (1) probate court judge appointed by the governor.
+18 (8) A representative of Indiana Disability Rights appointed by
+19 the governor.
+20 (b) Not later than July 31, 2026, the:
+21 (1) chairperson of the legislative council shall select a member
+22 of the task force to serve as the chairperson of the task force;
+23 and
+24 (2) vice chairperson of the legislative council shall select a
+25 member of the task force to serve as the vice chairperson of
+26 the task force.
+27 The members selected under subdivisions (1) and (2) shall serve as
+28 chairperson and vice chairperson, respectively, for the duration of
+29 the task force.
+30 (c) A member of the task force serves for the duration of the
+31 task force.
+32 (d) If a vacancy occurs on the task force, the appointing
+33 authority that appointed the member whose position is vacant shall
+34 appoint an individual to fill the vacancy. An individual appointed
+35 to fill a vacancy must have the qualifications that the vacating
+36 member must have. An individual appointed to fill a vacancy
+37 serves for the remainder of the task force's duration.
+38 (e) Appointments to the task force under this section must be
+39 made not later than July 30, 2026.
+40 Sec. 4. (a) Six (6) members of the task force constitute a quorum.
+41 (b) The affirmative vote of at least a majority of the members at
+42 a meeting at which a quorum is present is necessary for the task
+SB 71—LS 6102/DI 149
+3
+1 force to take action on any measure, including final reports, other
+2 than to meet and take testimony.
+3 (c) The task force shall meet at the call of the chairperson.
+4 Sec. 5. All meetings of the task force shall be open to the public
+5 in accordance with and subject to IC 5-14-1.5. All records of the
+6 task force shall be subject to the requirements of IC 5-14-3.
+7 Sec. 6. The task force shall study the following:
+8 (1) Recodification of IC 29-3 (guardianships and protective
+9 proceedings) in a style that is clear, concise, and easy to
+10 interpret and apply.
+11 (2) Improvements to the guardianship code that:
+12 (A) increase procedural protections for minors and adults
+13 who are subject to a guardianship procedure, including
+14 enforcement mechanisms concerning supported decision
+15 making;
+16 (B) clearly distinguish between adult and minor
+17 guardianships; and
+18 (C) update terminology, including the use of people first
+19 and person centered language.
+20 Sec. 7. The task force shall make recommendations based upon
+21 the study conducted under section 6 of this chapter.
+22 Sec. 8. (a) The task force may, not later than November 1, 2026,
+23 prepare a status report describing the progress made under section
+24 6 of this chapter. The status report may also contain proposed
+25 legislation based on recommendations made under this chapter.
+26 (b) If the report submitted under subsection (a), does not
+27 contain proposed legislation, the task force shall, not later than
+28 November 1, 2027, submit a report of proposed legislation based on
+29 recommendations made under this chapter.
+30 (c) A report issued under this section must be submitted:
+31 (1) in an electronic format under IC 5-14-6 to the executive
+32 director of the legislative services agency for distribution to
+33 the members of the general assembly; and
+34 (2) to the governor.
+35 Sec. 9. The legislative services agency shall provide staff support
+36 to the task force.
+37 Sec. 10. (a) Each legislative member and each lay member of the
+38 task force is entitled to receive the same per diem, mileage, and
+39 travel allowances paid to individuals serving as legislative and lay
+40 members, respectively, on an interim study committee established
+41 by the legislative council.
+42 (b) A member of the task force who is a state employee is not
+SB 71—LS 6102/DI 149
+4
+1 entitled to a per diem. However, the member is entitled to receive
+2 the same travel allowances paid to members of the task force
+3 described in subsection (a).
+4 Sec. 11. The task force's expenses, including the payment of per
+5 diem, mileage, and travel allowances under section 10 of this
+6 chapter, are payable from amounts appropriated to the legislative
+7 council.
+8 Sec. 12. This chapter expires December 31, 2027.
+9 SECTION 2. IC 29-3-3-1 IS AMENDED TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) Any person indebted to a
+11 minor or having possession of property belonging to a minor in an
+12 amount not exceeding ten twenty-five thousand dollars ($10,000)
+13 ($25,000) may pay the debt or deliver the property without the
+14 appointment of a guardian, giving of bond, or other order of court
+15 directly to:
+16 (1) any person having the care and custody of the minor with
+17 whom the minor resides; or
+18 (2) a custodian for the benefit of the minor under IC 30-2-8.5.
+19 (b) Persons receiving property for a minor under this section are
+20 obligated to apply the property to the support, use, and benefit of the
+21 minor.
+22 (c) This section does not apply if the person paying or delivering the
+23 property knows that a guardian has been appointed for the minor or that
+24 proceedings for appointment of a guardian for the minor are pending.
+25 (d) A person who pays or delivers property in accordance with this
+26 section in good faith is not responsible for the proper application of that
+27 property.
+28 SECTION 3. IC 29-3-4-1, AS AMENDED BY P.L.6-2010,
+29 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 1. (a) Upon petition by any person and after a
+31 hearing under IC 29-3-5, the court may issue, without the appointment
+32 of a guardian, any protective order for the benefit of a person who has
+33 been adjudicated an incapacitated person or is a minor.
+34 (b) Notice of the filing of a petition under this chapter for the
+35 issuance of a protective order and the hearing on the petition shall be
+36 given under IC 29-3-6.
+37 (c) Incapacitated persons and minors have the same rights at the
+38 hearing on a petition filed under this chapter for the issuance of a
+39 protective order as they would have at a hearing for the appointment of
+40 a guardian.
+41 (d) The court may issue a protective order concerning an
+42 incapacitated person if the court finds that:
+SB 71—LS 6102/DI 149
+5
+1 (1) the incapacitated person:
+2 (A) owns property or has income requiring management or
+3 protection that cannot otherwise be provided;
+4 (B) has or may have financial or business affairs that may be
+5 jeopardized or impaired; or
+6 (C) has property that needs to be managed to provide for the
+7 support or protection of the incapacitated person;
+8 (2) the incapacitated person is unable to manage the incapacitated
+9 person's property and financial or business affairs effectively; and
+10 (3) the protection sought is necessary.
+11 The court shall make the orders that it considers proper and appropriate
+12 to protect the person, business affairs, and property of the incapacitated
+13 person.
+14 (e) The court may issue a protective order concerning a minor if the
+15 court finds that:
+16 (1) the minor:
+17 (A) owns property or has income requiring management or
+18 protection that cannot otherwise be provided;
+19 (B) has or may have financial or business affairs that may be
+20 jeopardized or impaired; or
+21 (C) has property that needs to be managed to provide for the
+22 support or protection of the minor; and
+23 (2) the protection sought is necessary.
+24 The court shall make the orders it considers proper and appropriate to
+25 protect the person, business affairs, and property of the minor.
+26 (f) If the court finds grounds for a protective order under subsection
+27 (d) or (e), it may, without appointing a guardian, declare the person to
+28 be a protected person and authorize or ratify any transaction necessary
+29 or desirable to meet the needs of the protected person. Protective
+30 arrangements include the following:
+31 (1) The payment, delivery, deposit, or retention of property,
+32 including delivery of property to a custodian under
+33 IC 30-2-8.5.
+34 (2) The sale, mortgage, lease, or other transfer of property.
+35 (3) The entry into an annuity contract, a contract for life care, a
+36 deposit contract, or a contract for training and educating a person.
+37 (4) The addition to or establishment of a suitable trust.
+38 A court may order a trustee, custodian, or other person to file
+39 periodic reports concerning a transaction involving property of a
+40 minor ordered under subdivisions (1) through (4).
+41 SECTION 4. IC 29-3-9-7, AS AMENDED BY P.L.56-2020,
+42 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SB 71—LS 6102/DI 149
+6
+1 JULY 1, 2026]: Sec. 7. (a) Whenever it is proposed to compromise any
+2 claim by or against a protected person or the protected person's
+3 property, the court, on petition of the guardian, may enter an order
+4 authorizing the compromise to be made if satisfied that the compromise
+5 will be in the best interest of the protected person.
+6 (b) Whenever a minor has a disputed claim against another person,
+7 whether arising in contract, tort, or otherwise, and a guardian for the
+8 minor and the minor's property has not been appointed:
+9 (1) the parents of the minor; or
+10 (2) any other person having the care and custody of the minor
+11 with whom the minor resides;
+12 may petition a court to compromise the claim. However, before the
+13 compromise is valid, it must be approved by the court upon filing of a
+14 petition requesting the court's approval. A petition filed under this
+15 subsection may be combined with a petition for a protective order
+16 filed under IC 29-3-4-1. The court must hold a hearing on a
+17 petition filed under this subsection before issuing an order to
+18 approve the compromise. A guardian ad litem, an attorney, or
+19 another representative may be appointed to represent the best
+20 interest of the minor in a proceeding held under this subsection.
+21 (c) If the court approves the compromise, it may direct that the
+22 settlement be paid in accordance with IC 29-3-3-1 or in accordance
+23 with a protective order entered under IC 29-3-4-1. If IC 29-3-3-1 is
+24 or IC 29-3-4-1 are not applicable, the court shall require that a
+25 guardian be appointed and that the settlement be delivered to the
+26 guardian upon the terms that the court directs.
+27 (c) (d) Any exhibit demonstrating a compromise on behalf of a
+28 protected person or a minor and any testimony related to such
+29 compromise that is offered or admitted into evidence in a legal
+30 proceeding commenced under this section shall be maintained by the
+31 court as a confidential court record. The confidential exhibits and
+32 record may not be used in any other proceeding or for any other person.
+33 (d) (e) Subsection (c) (d) does not prohibit the following persons
+34 from having access to the confidential exhibits and record for the
+35 purpose of learning, confirming, and enforcing the economic terms of
+36 the compromise, for the purpose of enforcing or modifying any trust
+37 that is funded under the compromise, or for the purpose of obtaining a
+38 qualified order with respect to a structured settlement under IC 34-50-2
+39 and 26 U.S.C. 5891(b):
+40 (1) The attorney of record for the incapacitated person or minor.
+41 (2) A guardian or guardian ad litem appointed for the
+42 incapacitated person or minor by a court of competent
+SB 71—LS 6102/DI 149
+7
+1 jurisdiction, and the attorney, if any, for the guardian or guardian
+2 ad litem.
+3 (3) Each current trustee or trust director that participates in the
+4 administration of a trust funded under the compromise and the
+5 attorneys of record for each current trustee or trust director.
+6 (4) A prospective successor trustee or successor trust director that
+7 is proposed to serve in the administration of a trust funded under
+8 the compromise.
+9 SECTION 5. IC 30-2-8.5-22 IS AMENDED TO READ AS
+10 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 22. (a) A person not
+11 subject to section 20 or 21 of this chapter that holds property of or owes
+12 a liquidated debt to a minor not having a guardian may make an
+13 irrevocable transfer to a custodian for the benefit of the minor under
+14 section 24 of this chapter.
+15 (b) If a person having the right to nominate a custodian under
+16 section 18 of this chapter has nominated a custodian under that section
+17 to receive the custodial property, the transfer shall be made to the
+18 custodian.
+19 (c) A trustee or administrator of a retirement plan, life
+20 insurance plan, or employee profit or stock sharing plan of which
+21 a minor is a designated beneficiary may transfer funds due under
+22 the plan to the minor under subsection (a).
+23 SECTION 6. IC 30-2-8.5-29, AS AMENDED BY P.L.95-2007,
+24 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 29. (a) A custodian may deliver or pay to the
+26 minor or expend for the minor's benefit so much of the custodial
+27 property as the custodian considers advisable for the use and benefit of
+28 the minor, without court order and without regard to:
+29 (1) the duty or ability of the custodian personally or of any other
+30 person to support the minor; or
+31 (2) any other income or property of the minor that may be
+32 applicable or available for the support of the minor.
+33 (b) At any time and without a court order, a custodian may transfer
+34 part or all of the custodial property to:
+35 (1) a trust, including a trust created by the custodian, in which:
+36 (1) (A) the minor is the sole beneficiary of the trust; and
+37 (2) (B) the terms of the trust satisfy the requirements of
+38 Section 2503(c) of the Internal Revenue Code and the
+39 regulations under that section;
+40 The transfer terminates the custodianship of the property to the extent
+41 of the transfer.
+42 (2) an account, including an account created by the custodian,
+SB 71—LS 6102/DI 149
+8
+1 in which:
+2 (A) the minor is the sole beneficiary of the account; and
+3 (B) the terms of the account satisfy the requirements of:
+4 (i) Section 529 of the Internal Revenue Code; or
+5 (ii) IC 21-9 (education savings programs);
+6 (3) a qualified disability trust, including a qualified disability
+7 trust created by the custodian, in which:
+8 (A) the minor, who has been determined to have a
+9 qualifying disability, is the sole beneficiary of the qualified
+10 disability trust; and
+11 (B) the terms of the qualified disability trust satisfy the
+12 requirements of Section 642(b)(2)(C)(ii) of the Internal
+13 Revenue Code;
+14 (4) an account established within a pooled trust managed by
+15 a nonprofit organization in which:
+16 (A) the minor, who has been determined to have a
+17 qualifying disability, is the sole beneficiary of the account;
+18 and
+19 (B) the pooled trust satisfies the requirements of 42 U.S.C.
+20 1396p(d)(4)(C); or
+21 (5) a qualified ABLE account, including an ABLE account
+22 created by a custodian, in which:
+23 (A) the minor is the exclusive designated beneficiary of the
+24 ABLE account; and
+25 (B) the ABLE account satisfies the requirements of:
+26 (i) Section 529A of the Internal Revenue Code; and
+27 (ii) IC 12-11-14 (Achieving a Better Life Experience
+28 (ABLE) program).
+29 A transfer made under this subsection terminates the
+30 custodianship of the property to the extent of the transfer.
+31 (c) On petition of an interested person or the minor if the minor is
+32 at least fourteen (14) years of age, the court may order the custodian to
+33 deliver or pay to the minor or expend for the minor's benefit as much
+34 of the custodial property as the court considers advisable for the use
+35 and benefit of the minor.
+36 (d) A delivery, payment, or expenditure under this section is in
+37 addition to, not in substitution for, and does not affect an obligation of
+38 a person to support the minor. A custodian may not use custodial
+39 property to satisfy any legal support obligation owed to the minor
+40 by the custodian.
+41 SECTION 7. IC 30-4-5-26, AS ADDED BY P.L.61-2024,
+42 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SB 71—LS 6102/DI 149
+9
+1 JULY 1, 2026]: Sec. 26. (a) If the trustee has the full, unrestricted
+2 power to alienate trust property and the trust expressly states that this
+3 exception applies to the trust, IC 32-17-8-3 shall apply to a nonvested
+4 property interest or power of appointment contained in the trust by
+5 substituting three hundred sixty (360) years instead of ninety (90) years
+6 in each place where the term appears in IC 32-17-8-3, unless the terms
+7 of the trust require that all beneficial interests in the trust vest or
+8 terminate within a lesser period.
+9 (b) When a power of appointment in a trust ("first power") ("earlier
+10 power") is exercised to create another power of appointment ("second
+11 power"), ("subsequent power") or another nonvested property
+12 interest, then a the subsequent power or nonvested property interest
+13 or second power created through the exercise of the first earlier power
+14 is considered to have been created at the time of irrevocable exercise
+15 the creation of the first earlier power, unless:
+16 (1) the instrument exercising creating the first earlier power; or
+17 (2) the instrument exercising the earlier power;
+18 explicitly provides that the second subsequent power was or
+19 nonvested property interest is considered to have been created at the
+20 time of creation the irrevocable exercise of the first earlier power.
+21 SECTION 8. IC 30-5-5-12 IS AMENDED TO READ AS
+22 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 12. (a) Language
+23 conferring general authority with respect to personal maintenance or
+24 family maintenance means the principal authorizes the attorney in fact
+25 to do the following:
+26 (1) Perform acts necessary for maintaining the customary standard
+27 of living of the principal and the principal's spouse, children,
+28 and other persons customarily supported by the principal,
+29 including the power to provide the following:
+30 (A) Living quarters by purchase, lease, or other contract, or by
+31 payment of operating costs, including interest, amortization
+32 payments, repairs, and taxes on premises owned by the
+33 principal and occupied by the principal or the principal's
+34 family, or dependents.
+35 (B) Normal domestic help for the operation of the household.
+36 (C) Usual vacation and travel expenses.
+37 (D) Usual educational facilities.
+38 (E) Funds for all the current living costs of the principal and
+39 the principal's spouse, children, and other dependents,
+40 including shelter, clothing, food, and incidentals.
+41 (2) Pay for necessary medical, dental, and surgical care,
+42 hospitalization and custodial care for the principal and the
+SB 71—LS 6102/DI 149
+10
+1 principal's spouse, children, and other dependents. of the
+2 principal.
+3 (3) Continue provisions made by the principal before or after the
+4 execution of the power of attorney for the principal and the
+5 principal's spouse, children, and other persons customarily
+6 supported by the principal with respect to automobiles or other
+7 means of transportation, including the power to license, insure,
+8 and replace automobiles owned by the principal and customarily
+9 used by the principal or the principal's spouse, children, or
+10 other persons customarily supported by the principal.
+11 (4) Continue charge accounts that have been operated by the
+12 principal before or after the execution of the power of attorney for
+13 the convenience of the principal or the principal's spouse,
+14 children, or other persons customarily supported by the principal,
+15 open new accounts the attorney in fact considers desirable to
+16 accomplish a purpose permitted under this section and pay the
+17 items charged on those accounts by a person authorized or
+18 permitted by the principal to make charges prior to the execution
+19 of the power of attorney.
+20 (5) Continue payments incidental to membership or affiliation of
+21 the principal in a church, a club, a society, an order, or other
+22 organization and continue contributions to those organizations.
+23 (6) Demand, receive, or obtain by action or proceeding money or
+24 other things of value to which the principal is or may become
+25 entitled as salary, wages, commission, or other remuneration for
+26 services performed, as a dividend or distribution on a stock, as
+27 interest or principal on an indebtedness, or as a periodic
+28 distribution of profits for a partnership or business in which the
+29 principal has or claims an interest and endorse, collect, or
+30 otherwise realize upon an instrument for the payment received.
+31 (7) Use an asset of the principal for the performance of a power
+32 permitted under this section, including the power to draw money
+33 by check or otherwise from a bank deposit of the principal, sell an
+34 interest in real property, a bond, a share, a commodity interest,
+35 tangible personal property, or other asset of the principal, borrow
+36 money and pledge as security for a loan an asset, including
+37 insurance, that belongs to the principal.
+38 (8) Execute, acknowledge, verify, seal, file, and deliver an
+39 application, a consent, a petition, a notice, a release, a waiver, an
+40 agreement, or other instrument that the attorney in fact considers
+41 useful to accomplish a purpose permitted under this section.
+42 (9) Hire, discharge, and compensate an attorney, accountant,
+SB 71—LS 6102/DI 149
+11
+1 expert witness, or other assistant when the attorney in fact
+2 considers the action to be desirable for the proper execution by
+3 the attorney in fact of a power described in this section and keep
+4 needed records.
+5 (10) Perform any other acts for the welfare of the spouse,
+6 children, or other persons customarily supported by the principal
+7 or for the preservation and maintenance of other personal
+8 relationships of the principal to parents, relatives, friends, and
+9 organizations as are appropriate.
+10 (b) The powers described in this section are exercisable equally
+11 whether the acts required for their execution relate to real or personal
+12 property owned by the principal at the time of the giving of the power
+13 of attorney or acquired after that time, whether located in Indiana or in
+14 another jurisdiction.
+15 SECTION 9. IC 30-5-5-16, AS AMENDED BY P.L.38-2023,
+16 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 16. (a) This section does not prohibit an individual
+18 capable of consenting to the individual's own health care or to the
+19 health care of another from consenting to health care administered in
+20 good faith under the religious tenets and practices of the individual
+21 requiring health care.
+22 (b) Language conferring general authority with respect to health
+23 care powers means the principal authorizes the attorney in fact to do
+24 the following:
+25 (1) Employ or contract with servants, companions, or health care
+26 providers to care for the principal.
+27 (2) Consent to or refuse health care for the principal who is an
+28 individual in accordance with IC 16-36-4 and IC 16-36-1 by
+29 properly executing and attaching to the power of attorney a
+30 declaration or appointment, or both.
+31 (3) Admit or release the principal from a hospital or health care
+32 facility.
+33 (4) Have access to records, including medical records, concerning
+34 the principal's condition.
+35 (5) Make anatomical gifts on the principal's behalf.
+36 (6) Request an autopsy.
+37 (7) Make plans for the disposition of the principal's body,
+38 including executing a funeral planning declaration on behalf of
+39 the principal in accordance with IC 29-2-19.
+40 (c) Except as provided in subsection (d), if an individual has
+41 executed both:
+42 (1) a power of attorney under this article that authorizes an
+SB 71—LS 6102/DI 149
+12
+1 attorney in fact to apply for public benefits on behalf of the
+2 individual; and
+3 (2) an advance directive under IC 16-36-7 that authorizes a health
+4 care representative to apply for public benefits on behalf of the
+5 individual under IC 16-36-7-36(a)(6);
+6 the authority of the attorney in fact described in subdivision (1) to
+7 apply for public benefits on behalf of the individual and to access the
+8 individual's assets, income, and banking and financial assets supersedes
+9 the authority of the health care representative described in subdivision
+10 (2).
+11 (d) The authority of a health care representative described in
+12 subsection (c)(2) supersedes the authority of an attorney in fact
+13 described in subsection (c)(1) to apply for public benefits on behalf of
+14 the individual if the individual has specifically granted the authority of
+15 the health care representative to supersede the authority of the attorney
+16 in fact in the executed power of attorney.
+17 (e) Notwithstanding any other law, a document granting health care
+18 powers to an attorney in fact for health care may not be executed under
+19 this chapter after December 31, 2022. However, if a power of attorney
+20 that is executed after December 31, 2022, is written to grant both:
+21 (1) health care powers; and
+22 (2) nonhealth care powers under this chapter;
+23 to an attorney in fact, the health care powers are void, but all other
+24 powers granted by the power of attorney will remain effective and
+25 enforceable under this article.
+26 SECTION 10. IC 32-17-8-3.5, AS ADDED BY P.L.61-2024,
+27 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 3.5. When the an initial power of appointment in
+29 a legacy trust is exercised to create a second subsequent power of
+30 appointment or nonvested property interest, the subsequent power
+31 of appointment or a nonvested property interest or the second power
+32 of appointment created through the exercise of the initial power of
+33 appointment is considered to have been created at the time of the
+34 irrevocable exercise creation of the initial power of appointment,
+35 unless:
+36 (1) the instrument exercising creating the initial power of
+37 appointment; or
+38 (2) the instrument exercising the initial power of
+39 appointment;
+40 explicitly provides that the second subsequent power of appointment
+41 was is considered to have been created at the time of the creation
+42 irrevocable exercise of the initial power of appointment.
+SB 71—LS 6102/DI 149
+13
+1 SECTION 11. IC 32-17-8-4.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 4.5. For all purposes under this
+4 chapter and IC 30-4-5-26, this section applies only to a lifetime or
+5 inter vivos transfer of property to a trust or similar arrangement
+6 under which the spouse of the transferor is granted a limited power
+7 of appointment ("earlier power") that can be exercised during the
+8 spouse's lifetime or upon the spouse's death to create a subsequent
+9 limited power of appointment or another nonvested property
+10 interest. The exercise of the earlier power or another nonvested
+11 property interest is considered to have been created at the time of
+12 the creation of the earlier power by the transferor.
+13 SECTION 12. IC 32-28-15-1, AS ADDED BY P.L.62-2024,
+14 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 1. (a) Except as otherwise provided in this
+16 chapter, this chapter does not apply to a residential real estate service
+17 agreement entered into before March 15, 2024.
+18 (b) This chapter does not apply to any of the following:
+19 (1) A home warranty or similar product that covers the cost of
+20 maintenance of a major home system, such as:
+21 (A) a plumbing system;
+22 (B) a heating, cooling, and ventilation system; or
+23 (C) electrical wiring;
+24 for a fixed period.
+25 (2) An insurance contract.
+26 (3) An option to purchase residential real estate or a right of
+27 refusal to purchase residential real estate.
+28 (4) A declaration that is created in the formation of:
+29 (A) an association of co-owners (as defined in IC 32-25-2-2)
+30 for a condominium (as defined in IC 32-25-2-7); or
+31 (B) a homeowners association (as defined in IC 32-25.5-2-4);
+32 including any amendment to the declaration.
+33 (5) A maintenance or repair agreement entered into by:
+34 (A) an association of co-owners (as defined in IC 32-25-2-2)
+35 for a condominium (as defined in IC 32-25-2-7); or
+36 (B) a homeowners association (as defined in IC 32-25.5-2-4).
+37 (6) A mortgage loan or a commitment to make or receive a
+38 mortgage loan.
+39 (7) A security agreement under IC 26-1 concerning the sale or
+40 rental of personal property or fixtures.
+41 (8) Providers of:
+42 (A) utility services, including water, sewer, gas, or electric
+SB 71—LS 6102/DI 149
+14
+1 service; or
+2 (B) communications service (as defined in IC 8-1-32.5-3).
+3 (9) A land contract (as defined in IC 24-9-2-9.5).
+4 (10) An attorney's lien authorized by IC 33-43-4.
+5 (11) A statutory lien authorized by this article, including:
+6 (A) the lien of a broker company (as defined in
+7 IC 32-28-12.5-0.5) upon commercial real estate under
+8 IC 32-28-12.5-5; or
+9 (B) a mechanic's or materialman's lien under IC 32-28-3.
+10 (12) A written agreement executed between an individual who
+11 owns residential real property and:
+12 (A) a family member of the individual;
+13 (B) the individual's attorney in fact through a power of
+14 attorney;
+15 (C) the individual's health care representative through a
+16 health care advanced directive; or
+17 (D) a guardian of the individual's person or estate;
+18 in which the person described in clauses (A) through (D)
+19 agrees to pay or provide for the maintenance, repair, costs, or
+20 upkeep of the residential real property. An agreement under
+21 this subdivision may grant or convey an interest in the
+22 residential real property to a person described in clauses (A)
+23 through (D) or the interest in the residential real property
+24 may be secured by a lien.
+SB 71—LS 6102/DI 149
+15
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Judiciary, to which was
+referred Senate Bill No. 71, has had the same under consideration and
+begs leave to report the same back to the Senate with the
+recommendation that said bill DO PASS.
+(Reference is to SB 71 as introduced.)
+BROWN L, Chairperson
+Committee Vote: Yeas 8, Nays 0
+_____
+SENATE MOTION
+Mr. President: I move that Senate Bill 71 be amended to read as
+follows:
+Page 2, line 10, delete "office." and insert "office appointed by the
+chief justice of the supreme court.".
+Page 2, line 17, delete "Rights." and insert "Rights appointed by
+the governor.".
+Page 7, line 37, delete "section." and insert "section;".
+(Reference is to SB 71 as printed December 11, 2025.)
+CARRASCO
+SB 71—LS 6102/DI 149
+[DELETED:  c w a n c S f t R a c t h a h o c p t r t b i o t m i t]
+[DELETED:  e o t e p S t l]
+[DELETED:  1 A u i t c " f r t t O ( m a b t p p]
+[DELETED:  T ( m o t h o r o a b t c j o t A m o t v f a v f s a i a ( I a v o o t t f t a]
+[DELETED:  i a s t i c c a t c d b a a m I t r s u s ( d n]
+[DELETED:  m a t a u s 1 o t m p t d o d t p w t 3 I 2 A A B P T c m i a p o c a]
+[DELETED:  T p d d o r o p d o p t a c u 4 I 2 A A B P]
+[DELETED:  b o a a p p o t p p u I 2 T c m h a h o  a I 2 a n a t c s r  p o a m a a t r t s t i o o a i e i a l A g o g a l a f t p o m b a c o c]
+[DELETED:  5 I 3 I A T R A A t o a o a r p l a o i o p o t m t m b ( t t o t t s t r o 2 o t I R C a t]
+[DELETED:  t m w h b d t h  t m w h b d t h  I 1 ( a B L E t m u t s t t 7 I 3 A A B P]
+[DELETED:  p t t s s p w o 8 I 3 I A T R A [ J 1 2 S 1 ( L o p c s b t p r a t o p o b t p s c a o d P f n m d a s c a c c f t p a t]
+[DELETED:  s c a o d o t s c a o p c c o t p o t p s c o t a b a p a o o p o a i o a a p h o c a i a e c o p a s f a l a a i E a v s f a d a c]
+[DELETED:  w o o a w t a i f P a o a f t w o t s f t p a m o o p 9 I 3 A A B P e a a t t p o a  M p f t d o t p b E a p i s ( i a i h a p o a u t a t a a]
+[DELETED:  T a o a h c r d i ( s t a o a a i f 1 I 3 A A B P t i e c t i p o t i e t i p o]
+[DELETED:  A A N S T R A F p o a o a n p 1 I 3 A A B P 1 2 S 1 E a o p i]
+[DELETED:  t l o a b c ( d i 3 u c r e u s m g o c a i i t]
+[DELETED:  l t r t s b t t S w t]
+
+
+================================================================================
+
+Raw Text:
+*SB0071.2*
+Reprinted
+January 9, 2026
+SENATE BILL No. 71
+_____
+DIGEST OF SB 71 (Updated January 8, 2026 2:00 pm - DI 149)
+Citations Affected: IC 2-5; IC 29-3; IC 30-2; IC 30-4; IC 30-5;
+IC 32-17; IC 32-28.
+Synopsis: Various probate matters. Establishes the guardianship code
+revision task force (task force) to study a recodification of the current
+guardianship code with any necessary changes. Sets forth the
+membership, and requires the task force to issue a report to the general
+assembly and the governor. Allows a person indebted to a minor or
+having possession of property belonging to a minor to pay the debt or
+deliver the property without a court order in an amount up to $25,000
+and to pay the debt or deliver the property to a custodian under the
+Indiana Uniform Transfers to Minors Act. Specifies that a court may do
+the following when issuing a protective order: (1) authorize delivery of
+property to a custodian under the Indiana Uniform Transfers to Minors
+Act; and (2) order a trustee, custodian, or other person to file periodic
+reports concerning certain property transactions of a minor. Allows a
+person having the care and custody of a minor with whom the minor
+resides to petition a court to compromise a claim on behalf of the
+minor. Requires a court to hold a hearing on certain petitions
+concerning a proposal to compromise a claim on behalf of a minor and
+allows a court to appoint a guardian ad litem, an attorney, or other
+representative to represent the best interest of the minor in the
+proceeding. Provides that, under the Indiana Uniform Transfers to
+Minors Act, a trustee or administrator of certain plans may transfer
+funds due under a plan to the custodian of a minor who is designated
+as a beneficiary. Allows a custodian to transfer part or all of the minor's
+(Continued next page)
+Effective: July 1, 2026.
+Carrasco, Koch, Randolph Lonnie M
+December 8, 2025, read first time and referred to Committee on Judiciary.
+December 10, 2025, reported favorably — Do Pass.
+January 8, 2026, read second time, amended, ordered engrossed.
+SB 71—LS 6102/DI 149
+
+Digest Continued
+custodial property out of the custodial form under the Indiana Uniform
+Transfers to Minors Act to certain types of trusts or accounts without
+a court order. Provides that when a power of appointment in a trust
+(earlier power) is exercised to create another power of appointment
+(subsequent power) or another nonvested property interest, then the
+subsequent power or nonvested property interest created through the
+exercise of the earlier power is considered to have been created at the
+time of the creation of the earlier power, unless: (1) the instrument
+creating the earlier power; or (2) the instrument exercising the earlier
+power; explicitly provides that the subsequent power or nonvested
+property interest is considered to have been created at the time of the
+irrevocable exercise of the earlier power. Specifies that language
+conferring general authority in a power of attorney with respect to
+personal or family maintenance authorizes an attorney in fact to take
+certain actions on behalf of the principal for the benefit of the principal
+and the principal's spouse, children, and other persons customarily
+supported by the principal. Removes the authorization to employ or
+contract with servants or companions from the description of health
+care powers. Provides that the application is only to a lifetime or inter
+vivos transfer of property to a trust or similar arrangement under which
+the spouse of the transferor is granted an earlier power that can be
+exercised during the spouse's lifetime or upon the spouse's death to
+create a subsequent limited power of appointment or another nonvested
+property interest. Provides that the exercise of the earlier power or
+another nonvested property interest is considered to have been created
+at the time of the creation of the earlier power by the transferor.
+Specifies that certain written agreements executed between an owner
+of residential real property and a family member, attorney in fact,
+health care representative, or guardian that provide for an ownership
+interest in the residential real property are not prohibited residential
+real estate service agreements. (The introduced version of this bill was
+prepared by the probate code study committee.)
+SSBB 7711——LLSS 66110022//DDII 114499
+
+Reprinted
+January 9, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 71
+A BILL FOR AN ACT to amend the Indiana Code concerning
+probate.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-5-56 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]:
+4 Chapter 56. Guardianship Code Revision Task Force
+5 Sec. 1. As used in this chapter, "task force" refers to the
+6 guardianship code revision task force established by section 2 of
+7 this chapter.
+8 Sec. 2. The guardianship code revision task force is established
+9 as a temporary task force serving the general assembly.
+10 Sec. 3. (a) The task force consists of the following eleven (11)
+11 voting members:
+12 (1) Two (2) members of the senate, appointed as follows:
+13 (A) One (1) member appointed by the president pro
+14 tempore.
+15 (B) One (1) member appointed by the minority leader of
+SB 71—LS 6102/DI 149
+
+2
+1 the senate.
+2 (2) Two (2) members of the house of representatives,
+3 appointed as follows:
+4 (A) One (1) member appointed by the speaker.
+5 (B) One (1) member appointed by the minority leader of
+6 the house of representatives.
+7 (3) A representative from an area agency on aging appointed
+8 by the governor.
+9 (4) A representative of the Indiana supreme court's adult
+10 guardianship office appointed by the chief justice of the
+11 supreme court.
+12 (5) Two (2) private attorneys who practice guardianship or
+13 elder law appointed by the governor.
+14 (6) A manager or trained volunteer from a volunteer
+15 advocates for seniors and incapacitated adults (VASIA)
+16 recipient program appointed by the governor.
+17 (7) One (1) probate court judge appointed by the governor.
+18 (8) A representative of Indiana Disability Rights appointed by
+19 the governor.
+20 (b) Not later than July 31, 2026, the:
+21 (1) chairperson of the legislative council shall select a member
+22 of the task force to serve as the chairperson of the task force;
+23 and
+24 (2) vice chairperson of the legislative council shall select a
+25 member of the task force to serve as the vice chairperson of
+26 the task force.
+27 The members selected under subdivisions (1) and (2) shall serve as
+28 chairperson and vice chairperson, respectively, for the duration of
+29 the task force.
+30 (c) A member of the task force serves for the duration of the
+31 task force.
+32 (d) If a vacancy occurs on the task force, the appointing
+33 authority that appointed the member whose position is vacant shall
+34 appoint an individual to fill the vacancy. An individual appointed
+35 to fill a vacancy must have the qualifications that the vacating
+36 member must have. An individual appointed to fill a vacancy
+37 serves for the remainder of the task force's duration.
+38 (e) Appointments to the task force under this section must be
+39 made not later than July 30, 2026.
+40 Sec. 4. (a) Six (6) members of the task force constitute a quorum.
+41 (b) The affirmative vote of at least a majority of the members at
+42 a meeting at which a quorum is present is necessary for the task
+SB 71—LS 6102/DI 149
+
+3
+1 force to take action on any measure, including final reports, other
+2 than to meet and take testimony.
+3 (c) The task force shall meet at the call of the chairperson.
+4 Sec. 5. All meetings of the task force shall be open to the public
+5 in accordance with and subject to IC 5-14-1.5. All records of the
+6 task force shall be subject to the requirements of IC 5-14-3.
+7 Sec. 6. The task force shall study the following:
+8 (1) Recodification of IC 29-3 (guardianships and protective
+9 proceedings) in a style that is clear, concise, and easy to
+10 interpret and apply.
+11 (2) Improvements to the guardianship code that:
+12 (A) increase procedural protections for minors and adults
+13 who are subject to a guardianship procedure, including
+14 enforcement mechanisms concerning supported decision
+15 making;
+16 (B) clearly distinguish between adult and minor
+17 guardianships; and
+18 (C) update terminology, including the use of people first
+19 and person centered language.
+20 Sec. 7. The task force shall make recommendations based upon
+21 the study conducted under section 6 of this chapter.
+22 Sec. 8. (a) The task force may, not later than November 1, 2026,
+23 prepare a status report describing the progress made under section
+24 6 of this chapter. The status report may also contain proposed
+25 legislation based on recommendations made under this chapter.
+26 (b) If the report submitted under subsection (a), does not
+27 contain proposed legislation, the task force shall, not later than
+28 November 1, 2027, submit a report of proposed legislation based on
+29 recommendations made under this chapter.
+30 (c) A report issued under this section must be submitted:
+31 (1) in an electronic format under IC 5-14-6 to the executive
+32 director of the legislative services agency for distribution to
+33 the members of the general assembly; and
+34 (2) to the governor.
+35 Sec. 9. The legislative services agency shall provide staff support
+36 to the task force.
+37 Sec. 10. (a) Each legislative member and each lay member of the
+38 task force is entitled to receive the same per diem, mileage, and
+39 travel allowances paid to individuals serving as legislative and lay
+40 members, respectively, on an interim study committee established
+41 by the legislative council.
+42 (b) A member of the task force who is a state employee is not
+SB 71—LS 6102/DI 149
+
+4
+1 entitled to a per diem. However, the member is entitled to receive
+2 the same travel allowances paid to members of the task force
+3 described in subsection (a).
+4 Sec. 11. The task force's expenses, including the payment of per
+5 diem, mileage, and travel allowances under section 10 of this
+6 chapter, are payable from amounts appropriated to the legislative
+7 council.
+8 Sec. 12. This chapter expires December 31, 2027.
+9 SECTION 2. IC 29-3-3-1 IS AMENDED TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) Any person indebted to a
+11 minor or having possession of property belonging to a minor in an
+12 amount not exceeding ten twenty-five thousand dollars ($10,000)
+13 ($25,000) may pay the debt or deliver the property without the
+14 appointment of a guardian, giving of bond, or other order of court
+15 directly to:
+16 (1) any person having the care and custody of the minor with
+17 whom the minor resides; or
+18 (2) a custodian for the benefit of the minor under IC 30-2-8.5.
+19 (b) Persons receiving property for a minor under this section are
+20 obligated to apply the property to the support, use, and benefit of the
+21 minor.
+22 (c) This section does not apply if the person paying or delivering the
+23 property knows that a guardian has been appointed for the minor or that
+24 proceedings for appointment of a guardian for the minor are pending.
+25 (d) A person who pays or delivers property in accordance with this
+26 section in good faith is not responsible for the proper application of that
+27 property.
+28 SECTION 3. IC 29-3-4-1, AS AMENDED BY P.L.6-2010,
+29 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 1. (a) Upon petition by any person and after a
+31 hearing under IC 29-3-5, the court may issue, without the appointment
+32 of a guardian, any protective order for the benefit of a person who has
+33 been adjudicated an incapacitated person or is a minor.
+34 (b) Notice of the filing of a petition under this chapter for the
+35 issuance of a protective order and the hearing on the petition shall be
+36 given under IC 29-3-6.
+37 (c) Incapacitated persons and minors have the same rights at the
+38 hearing on a petition filed under this chapter for the issuance of a
+39 protective order as they would have at a hearing for the appointment of
+40 a guardian.
+41 (d) The court may issue a protective order concerning an
+42 incapacitated person if the court finds that:
+SB 71—LS 6102/DI 149
+
+5
+1 (1) the incapacitated person:
+2 (A) owns property or has income requiring management or
+3 protection that cannot otherwise be provided;
+4 (B) has or may have financial or business affairs that may be
+5 jeopardized or impaired; or
+6 (C) has property that needs to be managed to provide for the
+7 support or protection of the incapacitated person;
+8 (2) the incapacitated person is unable to manage the incapacitated
+9 person's property and financial or business affairs effectively; and
+10 (3) the protection sought is necessary.
+11 The court shall make the orders that it considers proper and appropriate
+12 to protect the person, business affairs, and property of the incapacitated
+13 person.
+14 (e) The court may issue a protective order concerning a minor if the
+15 court finds that:
+16 (1) the minor:
+17 (A) owns property or has income requiring management or
+18 protection that cannot otherwise be provided;
+19 (B) has or may have financial or business affairs that may be
+20 jeopardized or impaired; or
+21 (C) has property that needs to be managed to provide for the
+22 support or protection of the minor; and
+23 (2) the protection sought is necessary.
+24 The court shall make the orders it considers proper and appropriate to
+25 protect the person, business affairs, and property of the minor.
+26 (f) If the court finds grounds for a protective order under subsection
+27 (d) or (e), it may, without appointing a guardian, declare the person to
+28 be a protected person and authorize or ratify any transaction necessary
+29 or desirable to meet the needs of the protected person. Protective
+30 arrangements include the following:
+31 (1) The payment, delivery, deposit, or retention of property,
+32 including delivery of property to a custodian under
+33 IC 30-2-8.5.
+34 (2) The sale, mortgage, lease, or other transfer of property.
+35 (3) The entry into an annuity contract, a contract for life care, a
+36 deposit contract, or a contract for training and educating a person.
+37 (4) The addition to or establishment of a suitable trust.
+38 A court may order a trustee, custodian, or other person to file
+39 periodic reports concerning a transaction involving property of a
+40 minor ordered under subdivisions (1) through (4).
+41 SECTION 4. IC 29-3-9-7, AS AMENDED BY P.L.56-2020,
+42 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SB 71—LS 6102/DI 149
+
+6
+1 JULY 1, 2026]: Sec. 7. (a) Whenever it is proposed to compromise any
+2 claim by or against a protected person or the protected person's
+3 property, the court, on petition of the guardian, may enter an order
+4 authorizing the compromise to be made if satisfied that the compromise
+5 will be in the best interest of the protected person.
+6 (b) Whenever a minor has a disputed claim against another person,
+7 whether arising in contract, tort, or otherwise, and a guardian for the
+8 minor and the minor's property has not been appointed:
+9 (1) the parents of the minor; or
+10 (2) any other person having the care and custody of the minor
+11 with whom the minor resides;
+12 may petition a court to compromise the claim. However, before the
+13 compromise is valid, it must be approved by the court upon filing of a
+14 petition requesting the court's approval. A petition filed under this
+15 subsection may be combined with a petition for a protective order
+16 filed under IC 29-3-4-1. The court must hold a hearing on a
+17 petition filed under this subsection before issuing an order to
+18 approve the compromise. A guardian ad litem, an attorney, or
+19 another representative may be appointed to represent the best
+20 interest of the minor in a proceeding held under this subsection.
+21 (c) If the court approves the compromise, it may direct that the
+22 settlement be paid in accordance with IC 29-3-3-1 or in accordance
+23 with a protective order entered under IC 29-3-4-1. If IC 29-3-3-1 is
+24 or IC 29-3-4-1 are not applicable, the court shall require that a
+25 guardian be appointed and that the settlement be delivered to the
+26 guardian upon the terms that the court directs.
+27 (c) (d) Any exhibit demonstrating a compromise on behalf of a
+28 protected person or a minor and any testimony related to such
+29 compromise that is offered or admitted into evidence in a legal
+30 proceeding commenced under this section shall be maintained by the
+31 court as a confidential court record. The confidential exhibits and
+32 record may not be used in any other proceeding or for any other person.
+33 (d) (e) Subsection (c) (d) does not prohibit the following persons
+34 from having access to the confidential exhibits and record for the
+35 purpose of learning, confirming, and enforcing the economic terms of
+36 the compromise, for the purpose of enforcing or modifying any trust
+37 that is funded under the compromise, or for the purpose of obtaining a
+38 qualified order with respect to a structured settlement under IC 34-50-2
+39 and 26 U.S.C. 5891(b):
+40 (1) The attorney of record for the incapacitated person or minor.
+41 (2) A guardian or guardian ad litem appointed for the
+42 incapacitated person or minor by a court of competent
+SB 71—LS 6102/DI 149
+
+7
+1 jurisdiction, and the attorney, if any, for the guardian or guardian
+2 ad litem.
+3 (3) Each current trustee or trust director that participates in the
+4 administration of a trust funded under the compromise and the
+5 attorneys of record for each current trustee or trust director.
+6 (4) A prospective successor trustee or successor trust director that
+7 is proposed to serve in the administration of a trust funded under
+8 the compromise.
+9 SECTION 5. IC 30-2-8.5-22 IS AMENDED TO READ AS
+10 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 22. (a) A person not
+11 subject to section 20 or 21 of this chapter that holds property of or owes
+12 a liquidated debt to a minor not having a guardian may make an
+13 irrevocable transfer to a custodian for the benefit of the minor under
+14 section 24 of this chapter.
+15 (b) If a person having the right to nominate a custodian under
+16 section 18 of this chapter has nominated a custodian under that section
+17 to receive the custodial property, the transfer shall be made to the
+18 custodian.
+19 (c) A trustee or administrator of a retirement plan, life
+20 insurance plan, or employee profit or stock sharing plan of which
+21 a minor is a designated beneficiary may transfer funds due under
+22 the plan to the minor under subsection (a).
+23 SECTION 6. IC 30-2-8.5-29, AS AMENDED BY P.L.95-2007,
+24 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 29. (a) A custodian may deliver or pay to the
+26 minor or expend for the minor's benefit so much of the custodial
+27 property as the custodian considers advisable for the use and benefit of
+28 the minor, without court order and without regard to:
+29 (1) the duty or ability of the custodian personally or of any other
+30 person to support the minor; or
+31 (2) any other income or property of the minor that may be
+32 applicable or available for the support of the minor.
+33 (b) At any time and without a court order, a custodian may transfer
+34 part or all of the custodial property to:
+35 (1) a trust, including a trust created by the custodian, in which:
+36 (1) (A) the minor is the sole beneficiary of the trust; and
+37 (2) (B) the terms of the trust satisfy the requirements of
+38 Section 2503(c) of the Internal Revenue Code and the
+39 regulations under that section;
+40 The transfer terminates the custodianship of the property to the extent
+41 of the transfer.
+42 (2) an account, including an account created by the custodian,
+SB 71—LS 6102/DI 149
+
+8
+1 in which:
+2 (A) the minor is the sole beneficiary of the account; and
+3 (B) the terms of the account satisfy the requirements of:
+4 (i) Section 529 of the Internal Revenue Code; or
+5 (ii) IC 21-9 (education savings programs);
+6 (3) a qualified disability trust, including a qualified disability
+7 trust created by the custodian, in which:
+8 (A) the minor, who has been determined to have a
+9 qualifying disability, is the sole beneficiary of the qualified
+10 disability trust; and
+11 (B) the terms of the qualified disability trust satisfy the
+12 requirements of Section 642(b)(2)(C)(ii) of the Internal
+13 Revenue Code;
+14 (4) an account established within a pooled trust managed by
+15 a nonprofit organization in which:
+16 (A) the minor, who has been determined to have a
+17 qualifying disability, is the sole beneficiary of the account;
+18 and
+19 (B) the pooled trust satisfies the requirements of 42 U.S.C.
+20 1396p(d)(4)(C); or
+21 (5) a qualified ABLE account, including an ABLE account
+22 created by a custodian, in which:
+23 (A) the minor is the exclusive designated beneficiary of the
+24 ABLE account; and
+25 (B) the ABLE account satisfies the requirements of:
+26 (i) Section 529A of the Internal Revenue Code; and
+27 (ii) IC 12-11-14 (Achieving a Better Life Experience
+28 (ABLE) program).
+29 A transfer made under this subsection terminates the
+30 custodianship of the property to the extent of the transfer.
+31 (c) On petition of an interested person or the minor if the minor is
+32 at least fourteen (14) years of age, the court may order the custodian to
+33 deliver or pay to the minor or expend for the minor's benefit as much
+34 of the custodial property as the court considers advisable for the use
+35 and benefit of the minor.
+36 (d) A delivery, payment, or expenditure under this section is in
+37 addition to, not in substitution for, and does not affect an obligation of
+38 a person to support the minor. A custodian may not use custodial
+39 property to satisfy any legal support obligation owed to the minor
+40 by the custodian.
+41 SECTION 7. IC 30-4-5-26, AS ADDED BY P.L.61-2024,
+42 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SB 71—LS 6102/DI 149
+
+9
+1 JULY 1, 2026]: Sec. 26. (a) If the trustee has the full, unrestricted
+2 power to alienate trust property and the trust expressly states that this
+3 exception applies to the trust, IC 32-17-8-3 shall apply to a nonvested
+4 property interest or power of appointment contained in the trust by
+5 substituting three hundred sixty (360) years instead of ninety (90) years
+6 in each place where the term appears in IC 32-17-8-3, unless the terms
+7 of the trust require that all beneficial interests in the trust vest or
+8 terminate within a lesser period.
+9 (b) When a power of appointment in a trust ("first power") ("earlier
+10 power") is exercised to create another power of appointment ("second
+11 power"), ("subsequent power") or another nonvested property
+12 interest, then a the subsequent power or nonvested property interest
+13 or second power created through the exercise of the first earlier power
+14 is considered to have been created at the time of irrevocable exercise
+15 the creation of the first earlier power, unless:
+16 (1) the instrument exercising creating the first earlier power; or
+17 (2) the instrument exercising the earlier power;
+18 explicitly provides that the second subsequent power was or
+19 nonvested property interest is considered to have been created at the
+20 time of creation the irrevocable exercise of the first earlier power.
+21 SECTION 8. IC 30-5-5-12 IS AMENDED TO READ AS
+22 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 12. (a) Language
+23 conferring general authority with respect to personal maintenance or
+24 family maintenance means the principal authorizes the attorney in fact
+25 to do the following:
+26 (1) Perform acts necessary for maintaining the customary standard
+27 of living of the principal and the principal's spouse, children,
+28 and other persons customarily supported by the principal,
+29 including the power to provide the following:
+30 (A) Living quarters by purchase, lease, or other contract, or by
+31 payment of operating costs, including interest, amortization
+32 payments, repairs, and taxes on premises owned by the
+33 principal and occupied by the principal or the principal's
+34 family, or dependents.
+35 (B) Normal domestic help for the operation of the household.
+36 (C) Usual vacation and travel expenses.
+37 (D) Usual educational facilities.
+38 (E) Funds for all the current living costs of the principal and
+39 the principal's spouse, children, and other dependents,
+40 including shelter, clothing, food, and incidentals.
+41 (2) Pay for necessary medical, dental, and surgical care,
+42 hospitalization and custodial care for the principal and the
+SB 71—LS 6102/DI 149
+
+10
+1 principal's spouse, children, and other dependents. of the
+2 principal.
+3 (3) Continue provisions made by the principal before or after the
+4 execution of the power of attorney for the principal and the
+5 principal's spouse, children, and other persons customarily
+6 supported by the principal with respect to automobiles or other
+7 means of transportation, including the power to license, insure,
+8 and replace automobiles owned by the principal and customarily
+9 used by the principal or the principal's spouse, children, or
+10 other persons customarily supported by the principal.
+11 (4) Continue charge accounts that have been operated by the
+12 principal before or after the execution of the power of attorney for
+13 the convenience of the principal or the principal's spouse,
+14 children, or other persons customarily supported by the principal,
+15 open new accounts the attorney in fact considers desirable to
+16 accomplish a purpose permitted under this section and pay the
+17 items charged on those accounts by a person authorized or
+18 permitted by the principal to make charges prior to the execution
+19 of the power of attorney.
+20 (5) Continue payments incidental to membership or affiliation of
+21 the principal in a church, a club, a society, an order, or other
+22 organization and continue contributions to those organizations.
+23 (6) Demand, receive, or obtain by action or proceeding money or
+24 other things of value to which the principal is or may become
+25 entitled as salary, wages, commission, or other remuneration for
+26 services performed, as a dividend or distribution on a stock, as
+27 interest or principal on an indebtedness, or as a periodic
+28 distribution of profits for a partnership or business in which the
+29 principal has or claims an interest and endorse, collect, or
+30 otherwise realize upon an instrument for the payment received.
+31 (7) Use an asset of the principal for the performance of a power
+32 permitted under this section, including the power to draw money
+33 by check or otherwise from a bank deposit of the principal, sell an
+34 interest in real property, a bond, a share, a commodity interest,
+35 tangible personal property, or other asset of the principal, borrow
+36 money and pledge as security for a loan an asset, including
+37 insurance, that belongs to the principal.
+38 (8) Execute, acknowledge, verify, seal, file, and deliver an
+39 application, a consent, a petition, a notice, a release, a waiver, an
+40 agreement, or other instrument that the attorney in fact considers
+41 useful to accomplish a purpose permitted under this section.
+42 (9) Hire, discharge, and compensate an attorney, accountant,
+SB 71—LS 6102/DI 149
+
+11
+1 expert witness, or other assistant when the attorney in fact
+2 considers the action to be desirable for the proper execution by
+3 the attorney in fact of a power described in this section and keep
+4 needed records.
+5 (10) Perform any other acts for the welfare of the spouse,
+6 children, or other persons customarily supported by the principal
+7 or for the preservation and maintenance of other personal
+8 relationships of the principal to parents, relatives, friends, and
+9 organizations as are appropriate.
+10 (b) The powers described in this section are exercisable equally
+11 whether the acts required for their execution relate to real or personal
+12 property owned by the principal at the time of the giving of the power
+13 of attorney or acquired after that time, whether located in Indiana or in
+14 another jurisdiction.
+15 SECTION 9. IC 30-5-5-16, AS AMENDED BY P.L.38-2023,
+16 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 16. (a) This section does not prohibit an individual
+18 capable of consenting to the individual's own health care or to the
+19 health care of another from consenting to health care administered in
+20 good faith under the religious tenets and practices of the individual
+21 requiring health care.
+22 (b) Language conferring general authority with respect to health
+23 care powers means the principal authorizes the attorney in fact to do
+24 the following:
+25 (1) Employ or contract with servants, companions, or health care
+26 providers to care for the principal.
+27 (2) Consent to or refuse health care for the principal who is an
+28 individual in accordance with IC 16-36-4 and IC 16-36-1 by
+29 properly executing and attaching to the power of attorney a
+30 declaration or appointment, or both.
+31 (3) Admit or release the principal from a hospital or health care
+32 facility.
+33 (4) Have access to records, including medical records, concerning
+34 the principal's condition.
+35 (5) Make anatomical gifts on the principal's behalf.
+36 (6) Request an autopsy.
+37 (7) Make plans for the disposition of the principal's body,
+38 including executing a funeral planning declaration on behalf of
+39 the principal in accordance with IC 29-2-19.
+40 (c) Except as provided in subsection (d), if an individual has
+41 executed both:
+42 (1) a power of attorney under this article that authorizes an
+SB 71—LS 6102/DI 149
+
+12
+1 attorney in fact to apply for public benefits on behalf of the
+2 individual; and
+3 (2) an advance directive under IC 16-36-7 that authorizes a health
+4 care representative to apply for public benefits on behalf of the
+5 individual under IC 16-36-7-36(a)(6);
+6 the authority of the attorney in fact described in subdivision (1) to
+7 apply for public benefits on behalf of the individual and to access the
+8 individual's assets, income, and banking and financial assets supersedes
+9 the authority of the health care representative described in subdivision
+10 (2).
+11 (d) The authority of a health care representative described in
+12 subsection (c)(2) supersedes the authority of an attorney in fact
+13 described in subsection (c)(1) to apply for public benefits on behalf of
+14 the individual if the individual has specifically granted the authority of
+15 the health care representative to supersede the authority of the attorney
+16 in fact in the executed power of attorney.
+17 (e) Notwithstanding any other law, a document granting health care
+18 powers to an attorney in fact for health care may not be executed under
+19 this chapter after December 31, 2022. However, if a power of attorney
+20 that is executed after December 31, 2022, is written to grant both:
+21 (1) health care powers; and
+22 (2) nonhealth care powers under this chapter;
+23 to an attorney in fact, the health care powers are void, but all other
+24 powers granted by the power of attorney will remain effective and
+25 enforceable under this article.
+26 SECTION 10. IC 32-17-8-3.5, AS ADDED BY P.L.61-2024,
+27 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 3.5. When the an initial power of appointment in
+29 a legacy trust is exercised to create a second subsequent power of
+30 appointment or nonvested property interest, the subsequent power
+31 of appointment or a nonvested property interest or the second power
+32 of appointment created through the exercise of the initial power of
+33 appointment is considered to have been created at the time of the
+34 irrevocable exercise creation of the initial power of appointment,
+35 unless:
+36 (1) the instrument exercising creating the initial power of
+37 appointment; or
+38 (2) the instrument exercising the initial power of
+39 appointment;
+40 explicitly provides that the second subsequent power of appointment
+41 was is considered to have been created at the time of the creation
+42 irrevocable exercise of the initial power of appointment.
+SB 71—LS 6102/DI 149
+
+13
+1 SECTION 11. IC 32-17-8-4.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 4.5. For all purposes under this
+4 chapter and IC 30-4-5-26, this section applies only to a lifetime or
+5 inter vivos transfer of property to a trust or similar arrangement
+6 under which the spouse of the transferor is granted a limited power
+7 of appointment ("earlier power") that can be exercised during the
+8 spouse's lifetime or upon the spouse's death to create a subsequent
+9 limited power of appointment or another nonvested property
+10 interest. The exercise of the earlier power or another nonvested
+11 property interest is considered to have been created at the time of
+12 the creation of the earlier power by the transferor.
+13 SECTION 12. IC 32-28-15-1, AS ADDED BY P.L.62-2024,
+14 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 1. (a) Except as otherwise provided in this
+16 chapter, this chapter does not apply to a residential real estate service
+17 agreement entered into before March 15, 2024.
+18 (b) This chapter does not apply to any of the following:
+19 (1) A home warranty or similar product that covers the cost of
+20 maintenance of a major home system, such as:
+21 (A) a plumbing system;
+22 (B) a heating, cooling, and ventilation system; or
+23 (C) electrical wiring;
+24 for a fixed period.
+25 (2) An insurance contract.
+26 (3) An option to purchase residential real estate or a right of
+27 refusal to purchase residential real estate.
+28 (4) A declaration that is created in the formation of:
+29 (A) an association of co-owners (as defined in IC 32-25-2-2)
+30 for a condominium (as defined in IC 32-25-2-7); or
+31 (B) a homeowners association (as defined in IC 32-25.5-2-4);
+32 including any amendment to the declaration.
+33 (5) A maintenance or repair agreement entered into by:
+34 (A) an association of co-owners (as defined in IC 32-25-2-2)
+35 for a condominium (as defined in IC 32-25-2-7); or
+36 (B) a homeowners association (as defined in IC 32-25.5-2-4).
+37 (6) A mortgage loan or a commitment to make or receive a
+38 mortgage loan.
+39 (7) A security agreement under IC 26-1 concerning the sale or
+40 rental of personal property or fixtures.
+41 (8) Providers of:
+42 (A) utility services, including water, sewer, gas, or electric
+SB 71—LS 6102/DI 149
+
+14
+1 service; or
+2 (B) communications service (as defined in IC 8-1-32.5-3).
+3 (9) A land contract (as defined in IC 24-9-2-9.5).
+4 (10) An attorney's lien authorized by IC 33-43-4.
+5 (11) A statutory lien authorized by this article, including:
+6 (A) the lien of a broker company (as defined in
+7 IC 32-28-12.5-0.5) upon commercial real estate under
+8 IC 32-28-12.5-5; or
+9 (B) a mechanic's or materialman's lien under IC 32-28-3.
+10 (12) A written agreement executed between an individual who
+11 owns residential real property and:
+12 (A) a family member of the individual;
+13 (B) the individual's attorney in fact through a power of
+14 attorney;
+15 (C) the individual's health care representative through a
+16 health care advanced directive; or
+17 (D) a guardian of the individual's person or estate;
+18 in which the person described in clauses (A) through (D)
+19 agrees to pay or provide for the maintenance, repair, costs, or
+20 upkeep of the residential real property. An agreement under
+21 this subdivision may grant or convey an interest in the
+22 residential real property to a person described in clauses (A)
+23 through (D) or the interest in the residential real property
+24 may be secured by a lien.
+SB 71—LS 6102/DI 149
+
+15
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Judiciary, to which was
+referred Senate Bill No. 71, has had the same under consideration and
+begs leave to report the same back to the Senate with the
+recommendation that said bill DO PASS.
+(Reference is to SB 71 as introduced.)
+BROWN L, Chairperson
+Committee Vote: Yeas 8, Nays 0
+_____
+SENATE MOTION
+Mr. President: I move that Senate Bill 71 be amended to read as
+follows:
+Page 2, line 10, delete "office." and insert "office appointed by the
+chief justice of the supreme court.".
+Page 2, line 17, delete "Rights." and insert "Rights appointed by
+the governor.".
+Page 7, line 37, delete "section." and insert "section;".
+(Reference is to SB 71 as printed December 11, 2025.)
+CARRASCO
+SB 71—LS 6102/DI 149
+
+[DELETED:  c w a n c S f t R a c t h a h o c p t r t b i o t m i t]
+[DELETED:  e o t e p S t l]
+[DELETED:  1 A u i t c " f r t t O ( m a b t p p]
+[DELETED:  T ( m o t h o r o a b t c j o t A m o t v f a v f s a i a ( I a v o o t t f t a]
+[DELETED:  i a s t i c c a t c d b a a m I t r s u s ( d n]
+[DELETED:  m a t a u s 1 o t m p t d o d t p w t 3 I 2 A A B P T c m i a p o c a]
+[DELETED:  T p d d o r o p d o p t a c u 4 I 2 A A B P]
+[DELETED:  b o a a p p o t p p u I 2 T c m h a h o  a I 2 a n a t c s r  p o a m a a t r t s t i o o a i e i a l A g o g a l a f t p o m b a c o c]
+[DELETED:  5 I 3 I A T R A A t o a o a r p l a o i o p o t m t m b ( t t o t t s t r o 2 o t I R C a t]
+[DELETED:  t m w h b d t h  t m w h b d t h  I 1 ( a B L E t m u t s t t 7 I 3 A A B P]
+[DELETED:  p t t s s p w o 8 I 3 I A T R A [ J 1 2 S 1 ( L o p c s b t p r a t o p o b t p s c a o d P f n m d a s c a c c f t p a t]
+[DELETED:  s c a o d o t s c a o p c c o t p o t p s c o t a b a p a o o p o a i o a a p h o c a i a e c o p a s f a l a a i E a v s f a d a c]
+[DELETED:  w o o a w t a i f P a o a f t w o t s f t p a m o o p 9 I 3 A A B P e a a t t p o a  M p f t d o t p b E a p i s ( i a i h a p o a u t a t a a]
+[DELETED:  T a o a h c r d i ( s t a o a a i f 1 I 3 A A B P t i e c t i p o t i e t i p o]
+[DELETED:  A A N S T R A F p o a o a n p 1 I 3 A A B P 1 2 S 1 E a o p i]
+[DELETED:  t l o a b c ( d i 3 u c r e u s m g o c a i i t]
+[DELETED:  l t r t s b t t S w t]

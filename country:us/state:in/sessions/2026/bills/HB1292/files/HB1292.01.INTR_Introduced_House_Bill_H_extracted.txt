@@ -1,0 +1,2339 @@
+Title: HOUSE BILL No. 1292
+Official Title: HOUSE BILL No. 1292
+Number of Sections: 1
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+Introduced Version
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 9-13-2; IC 9-14-13; IC 9-18.1-3-8.5;
+IC 9-19-13-1; IC 9-21; IC 9-30-3-14; IC 20-27-10-3.5; IC 27-1-22-29;
+IC 27-4-1-4; IC 34-6-2.1-129; IC 34-28-5-5; IC 36-1-6-3.
+Synopsis: Automated traffic enforcement safety devices. Authorizes
+a county or municipality to adopt and enforce an ordinance that
+regulates the use of an automated traffic enforcement safety device
+(device) to detect certain violations. Provides a civil penalty for a
+violation. Specifies that a civil penalty must first be applied to defray
+the cost of the installation, operation, and maintenance of the device.
+Specifies the manner in which the remaining money from the civil
+penalty must be distributed. Prohibits: (1) reporting a violation on a
+driving record; (2) using a violation to determine rates for motor
+vehicle insurance; (3) assessing points under the point system by the
+bureau of motor vehicles (bureau) for a violation; and (4) reselling data
+collected by an agent operating a device. Requires notification to the
+bureau, and the suspension of the registration of a motor vehicle if a
+violation is not paid. Makes conforming changes.
+Effective: July 1, 2026.
+Johnson B
+January 6, 2026, read first time and referred to Committee on Roads and Transportation.
+2026 IN 1292—LS 6313/DI 137
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1292
+A BILL FOR AN ACT to amend the Indiana Code concerning
+motor vehicles.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 9-13-2-2.1 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 2.1. "Agent", for purposes of IC 9-21-3.6, has the
+4 meaning set forth in IC 9-21-3.6-1.
+5 SECTION 2. IC 9-13-2-6.2 IS ADDED TO THE INDIANA CODE
+6 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2026]: Sec. 6.2. "Automated traffic enforcement safety device",
+8 for purposes of IC 9-21-3.6, has the meaning set forth in
+9 IC 9-21-3.6-2.
+10 SECTION 3. IC 9-13-2-110.6 IS ADDED TO THE INDIANA
+11 CODE AS A NEW SECTION TO READ AS FOLLOWS
+12 [EFFECTIVE JULY 1, 2026]: Sec. 110.6. "Municipality", for
+13 purposes of IC 9-21-3.6, has the meaning set forth in IC 36-1-2-11.
+14 SECTION 4. IC 9-13-2-121, AS AMENDED BY P.L.164-2020,
+15 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 121. (a) Except as otherwise provided in
+17 subsection subsections (b) and (c), "owner" means a person, other than
+2026 IN 1292—LS 6313/DI 137
+2
+1 a lienholder, that:
+2 (1) holds the property in or title to, as applicable, a vehicle,
+3 manufactured home, mobile home, off-road vehicle, snowmobile,
+4 or watercraft; or
+5 (2) is entitled to the use or possession of, as applicable, a vehicle,
+6 manufactured home, off-road vehicle, snowmobile, or watercraft,
+7 through a lease or other agreement intended to operate as a
+8 security.
+9 (b) "Owner" for purposes of IC 9-18.1-14.5, has the meaning set
+10 forth in 33 CFR 174.3.
+11 (c) "Owner", for purposes of IC 9-21-3.6, has the meaning set
+12 forth in IC 9-21-3.6-4.
+13 SECTION 5. IC 9-13-2-128.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 128.5. "Postsecondary
+16 educational institution", for purposes of IC 9-21-3.6, has the
+17 meaning set forth in IC 9-21-3.6-5.
+18 SECTION 6. IC 9-14-13-7, AS ADDED BY P.L.198-2016,
+19 SECTION 193, IS AMENDED TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 7. The bureau may disclose certain
+21 personal information that is not highly restricted personal information
+22 if the person requesting the information provides proof of identity and
+23 represents that the use of the personal information will be strictly
+24 limited to at least one (1) of the following:
+25 (1) For use by a government agency, including a court or law
+26 enforcement agency, in carrying out its functions, or a person
+27 acting on behalf of a government agency in carrying out its
+28 functions, including an agent in carrying out its
+29 responsibilities under IC 9-21-3.6.
+30 (2) For use in connection with matters concerning:
+31 (A) motor vehicle or driver safety and theft;
+32 (B) motor vehicle emissions;
+33 (C) motor vehicle product alterations, recalls, or advisories;
+34 (D) performance monitoring of motor vehicles, motor vehicle
+35 parts, and dealers;
+36 (E) motor vehicle market research activities, including survey
+37 research;
+38 (F) the removal of nonowner records from the original owner
+39 records of motor vehicle manufacturers; and
+40 (G) motor fuel theft under IC 24-4.6-5.
+41 (3) For use in the normal course of business by a business or its
+42 agents, employees, or contractors, but only:
+2026 IN 1292—LS 6313/DI 137
+3
+1 (A) to verify the accuracy of personal information submitted
+2 by an individual to the business or its agents, employees, or
+3 contractors; and
+4 (B) if information submitted to a business is not correct or is
+5 no longer correct, to obtain the correct information only for
+6 purposes of preventing fraud by pursuing legal remedies
+7 against, or recovering on a debt or security interest against, the
+8 individual.
+9 (4) For use in connection with a civil, a criminal, an
+10 administrative, or an arbitration proceeding in a court or
+11 government agency or before a self-regulatory body, including the
+12 service of process, investigation in anticipation of litigation, and
+13 the execution or enforcement of judgments and orders, or under
+14 an order of a court.
+15 (5) For use in research activities, and for use in producing
+16 statistical reports, as long as the personal information is not
+17 published, redisclosed, or used to contact the individuals who are
+18 the subject of the personal information.
+19 (6) For use by an insurer, an insurance support organization, or a
+20 self-insured entity, or the agents, employees, or contractors of an
+21 insurer, an insurance support organization, or a self-insured entity
+22 in connection with claims investigation activities, anti-fraud
+23 activities, rating, or underwriting.
+24 (7) For use in providing notice to the owners of towed or
+25 impounded vehicles.
+26 (8) For use by a licensed private investigative agency or licensed
+27 security service for a purpose allowed under this section.
+28 (9) For use by an employer or its agent or insurer to obtain or
+29 verify information relating to a holder of a commercial driver's
+30 license that is required under the Commercial Motor Vehicle
+31 Safety Act of 1986 (49 U.S.C. 31131 et seq.).
+32 (10) For use in connection with the operation of private toll
+33 transportation facilities.
+34 (11) For any use in response to requests for individual motor
+35 vehicle records when the bureau has obtained the written consent
+36 of the person to whom the personal information pertains.
+37 (12) For bulk distribution for surveys, marketing, or solicitations
+38 when the bureau has obtained the written consent of the person to
+39 whom the personal information pertains.
+40 (13) For use by any person, when the person demonstrates, in a
+41 form and manner prescribed by the bureau, that written consent
+42 has been obtained from the individual who is the subject of the
+2026 IN 1292—LS 6313/DI 137
+4
+1 information.
+2 (14) For any other use specifically authorized by law that is
+3 related to the operation of a motor vehicle or public safety.
+4 However, this section does not affect the use of anatomical gift
+5 information on a person's driver's license or identification document
+6 issued by the bureau, nor does this section affect the administration of
+7 anatomical gift initiatives in Indiana.
+8 SECTION 7. IC 9-14-13-10, AS ADDED BY P.L.198-2016,
+9 SECTION 193, IS AMENDED TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 10. (a) An authorized recipient of
+11 personal information, except a recipient under section 7(11) or 7(12)
+12 of this chapter, and except as provided in subsection (e), may resell
+13 or redisclose the information for any use allowed under section 7 of this
+14 chapter, except for a use under section 7(11) or 7(12) of this chapter.
+15 (b) An authorized recipient of a record under section 7(11) of this
+16 chapter may resell or redisclose personal information for any purpose.
+17 (c) An authorized recipient of personal information under
+18 IC 9-14-12-8 and section 7(12) of this chapter may resell or redisclose
+19 the personal information for use only in accordance with section 7(12)
+20 of this chapter.
+21 (d) Except for a recipient under section 7(11) of this chapter, a
+22 recipient who resells or rediscloses personal information is required to
+23 maintain and make available for inspection to the bureau, upon request,
+24 for at least five (5) years, records concerning:
+25 (1) each person that receives the information; and
+26 (2) the permitted use for which the information was obtained.
+27 (e) An agent who carries out responsibilities under IC 9-21-3.6
+28 and is a recipient of personal information under section 7(1) of this
+29 chapter may not resell or redisclose the personal information for
+30 any purpose.
+31 SECTION 8. IC 9-18.1-3-8.5 IS ADDED TO THE INDIANA
+32 CODE AS A NEW SECTION TO READ AS FOLLOWS
+33 [EFFECTIVE JULY 1, 2026]: Sec. 8.5. (a) If the bureau receives a
+34 referral to suspend the registration of a vehicle under IC 9-21-3.6,
+35 the bureau shall suspend the registration of the vehicle used in the
+36 ordinance violation until the owner pays the civil penalty and
+37 reinstatement fees under IC 9-21-3.6 and subsection (b).
+38 (b) The bureau may impose a fee to reinstate a registration
+39 suspended under this section.
+40 SECTION 9. IC 9-19-13-1, AS AMENDED BY P.L.1-2005,
+41 SECTION 101, IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) The state school bus
+2026 IN 1292—LS 6313/DI 137
+5
+1 committee established by IC 20-27-3-1 shall adopt and enforce rules
+2 under IC 4-22-2 not inconsistent with this chapter to govern the design
+3 and operation of all school buses used for the transportation of school
+4 children when owned and operated by a school corporation or privately
+5 owned and operated under contract with an Indiana school corporation.
+6 The rules must by reference be made a part of such a contract with a
+7 school corporation. Each school corporation, officer and employee of
+8 the school corporation, and person employed under contract by a
+9 school district is subject to those rules.
+10 (b) Notwithstanding subsection (a), a school corporation may
+11 use an automated traffic enforcement safety device on a school bus
+12 under IC 9-21-3.6.
+13 SECTION 10. IC 9-21-3.6 IS ADDED TO THE INDIANA CODE
+14 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]:
+16 Chapter 3.6. Automated Traffic Enforcement Safety Devices
+17 Sec. 1. As used in this chapter, "agent" means a person that:
+18 (1) provides services to a county or municipality;
+19 (2) operates, maintains, leases, or licenses automated traffic
+20 enforcement safety devices as authorized by a county or
+21 municipality; or
+22 (3) is authorized to review and assemble a recorded image
+23 captured by an automated traffic enforcement safety device
+24 for review by a police officer employed by a county or
+25 municipality.
+26 Sec. 2. As used in this chapter, "automated traffic enforcement
+27 safety device" means a photographic device, radar device, laser
+28 device, or other electrical or mechanical device or devices designed
+29 to:
+30 (1) record the speed of a motor vehicle;
+31 (2) obtain a clear recorded image of the rear of the motor
+32 vehicle and the license plate affixed to the motor vehicle at the
+33 time of a violation;
+34 (3) indicate on at least one (1) recorded image the date, time,
+35 and location of the violation; and
+36 (4) undergo an annual calibration check, the results of which
+37 are kept on file with the county or municipality that uses the
+38 automated traffic enforcement safety device.
+39 Sec. 3. As used in this chapter, "municipality" means a city or
+40 town.
+41 Sec. 4. As used in this chapter, "owner" means a person in
+42 whose name a motor vehicle is registered under any of the
+2026 IN 1292—LS 6313/DI 137
+6
+1 following:
+2 (1) IC 9-18.1.
+3 (2) The law of another state.
+4 (3) The law of a foreign country.
+5 (4) The International Registration Plan.
+6 Sec. 5. As used in this chapter, "postsecondary educational
+7 institution" means a postsecondary school that provides an
+8 organized program of collegiate study directly creditable toward
+9 a baccalaureate degree for at least two (2) years.
+10 Sec. 6.(a) Notwithstanding IC 36-1-3-8(a)(8), a county or
+11 municipality may adopt an ordinance to use an automated traffic
+12 enforcement safety device to enforce a violation of:
+13 (1) IC 9-21-12-1(a); or
+14 (2) a speed limit established under section 11 of this chapter.
+15 (b) An ordinance adopted under subsection (a) must be adopted
+16 as follows:
+17 (1) In a municipality, by the legislative body of the
+18 municipality.
+19 (2) In a county subject to IC 36-2-3.5 or IC 36-3-1, by the
+20 legislative body of the county.
+21 (3) In any other county, by the executive of the county.
+22 (c) An ordinance adopted under subsection (a) is subject to an
+23 interlocal agreement under IC 36-1-7.
+24 Sec. 7. A school corporation may enter into an interlocal
+25 agreement under IC 36-1-7 with a county or municipality for the
+26 installation, operation, notice processing, administration,
+27 maintenance, and enforcement of an automated traffic
+28 enforcement safety device on a school bus to enforce a violation
+29 under this chapter.
+30 Sec. 8.(a) A municipality, county, or school corporation that
+31 uses an automated traffic enforcement safety device may enter into
+32 a contract with an agent for the installation, operation, notice
+33 processing, administration, and maintenance of an automated
+34 traffic enforcement safety device.
+35 (b) An agent is not required to be licensed under IC 25-30-1.
+36 (c) The records, documents, and books kept by an agent are not
+37 considered public records (as defined in IC 5-14-3-2(r)).
+38 Sec. 9. (a) If a county or municipality adopts an ordinance under
+39 section 6 of this chapter, the ordinance must include the following
+40 regarding the automated traffic enforcement safety device:
+41 (1) That an automated traffic enforcement safety device must
+42 comply with an international standard for operating an
+2026 IN 1292—LS 6313/DI 137
+7
+1 automated traffic enforcement safety device.
+2 (2) That the automated traffic enforcement safety device is
+3 maintained in accordance with specified self-test performance
+4 standards.
+5 (3) That an ordinance adopted under this chapter may be
+6 challenged pursuant to the requirements of IC 34-13-6.
+7 (b) If a county or municipality adopts an ordinance under
+8 section 6 of this chapter, the ordinance must include the following
+9 regarding a violation:
+10 (1) That a police officer employed by the county or
+11 municipality:
+12 (A) must review and approve an image recorded by the
+13 automated traffic enforcement safety device before notice
+14 of an ordinance violation may be forwarded to the owner
+15 of the motor vehicle; and
+16 (B) may not forward notice of an ordinance violation to an
+17 owner under clause (A) if, in the opinion of the police
+18 officer, it was not possible for the operator of the motor
+19 vehicle to safely avoid committing the ordinance violation
+20 due to inclement weather conditions.
+21 (2) Except as otherwise provided under this chapter, that the
+22 owner of a motor vehicle identified through an automated
+23 traffic enforcement safety device is liable for the civil penalty
+24 for a violation under this chapter.
+25 (3) The defenses to a violation under section 14 of this
+26 chapter.
+27 (4) The civil penalty to be assessed for a violation under
+28 section 13 of this chapter.
+29 (5) That an owner may pay a civil penalty for a violation by
+30 electronic means.
+31 (6) That failure to pay the civil penalty for a violation under
+32 this chapter will result in the suspension of the registration of
+33 the owner's motor vehicle.
+34 (7) That a county or municipality may bring an action under
+35 IC 36-1-6 to enforce an ordinance or action taken under this
+36 chapter.
+37 (c) A county or municipality that adopts an ordinance under
+38 section 6 of this chapter shall publish notice of the location of each
+39 automated traffic enforcement safety device on the website of the
+40 county or municipality.
+41 Sec. 10. (a) A county or municipality that uses an automated
+42 traffic enforcement safety device to detect a violation under this
+2026 IN 1292—LS 6313/DI 137
+8
+1 chapter must install a sign at least five hundred (500) feet before
+2 the placement of the automated traffic enforcement safety device.
+3 (b) A sign installed under subsection (a) must:
+4 (1) notify a driver of the existence of the automated traffic
+5 enforcement safety device to enforce a violation under this
+6 chapter; and
+7 (2) conform to the Indiana Manual on Uniform Traffic
+8 Control Devices for Streets and Highways adopted under
+9 IC 9-21-2-1.
+10 Sec. 11. A county or municipality may adopt an ordinance to
+11 establish a speed limit that is enforced by an automated traffic
+12 enforcement safety device under this chapter if the following
+13 conditions are met:
+14 (1) The county or municipality, in consultation with the
+15 Indiana department of transportation, may establish a speed
+16 limit by ordinance on a state highway upon which an
+17 elementary school (as defined in IC 20-18-2-4), a high school
+18 (as defined in IC 20-18-2-7), or a postsecondary educational
+19 institution is located. However, a speed limit adopted by an
+20 ordinance under this subdivision is valid only if the following
+21 conditions exist:
+22 (A) The speed limit is not less than twenty (20) miles per
+23 hour.
+24 (B) The speed zone does not exceed two thousand five
+25 hundred (2,500) feet from the perimeter of the school or
+26 institution.
+27 (C) The speed zone is properly signed. There must be a
+28 sign located where the speed zone begins or as near as
+29 practical to the point where the speed zone begins
+30 indicating the speed limit.
+31 (D) The Indiana department of transportation has been
+32 notified by certified mail regarding the location and speed
+33 limit of the speed zone.
+34 (2) A county or municipality may establish a speed limit on a
+35 street or highway upon which an elementary school (as
+36 defined in IC 20-18-2-4), a high school (as defined in
+37 IC 20-18-2-7), or a postsecondary educational institution is
+38 located, if the street or highway is under the jurisdiction of
+39 the county or municipality, respectively. However, a speed
+40 limit adopted by an ordinance under this subdivision is valid
+41 only if the following conditions exist:
+42 (A) The speed limit is not less than twenty (20) miles per
+2026 IN 1292—LS 6313/DI 137
+9
+1 hour within an urban district and not less than thirty (30)
+2 miles per hour outside an urban district.
+3 (B) The speed zone does not exceed two thousand five
+4 hundred (2,500) feet from the perimeter of the school or
+5 institution.
+6 (C) The speed zone is properly signed. There must be a
+7 sign located where the speed zone begins or as near as
+8 practical to the point where the speed zone begins
+9 indicating the speed limit. If the school operates on a
+10 twelve (12) month schedule, there must be a sign indicating
+11 that the school is an all year school.
+12 Sec. 12. (a) A school corporation that uses an automated traffic
+13 enforcement safety device to enforce an ordinance adopted under
+14 this chapter must forward a recorded image produced by the
+15 automated traffic enforcement safety device to the law
+16 enforcement agency of the county or municipality in which the
+17 school corporation is located for review and approval by a police
+18 officer employed by the law enforcement agency before notice of
+19 the ordinance violation may be sent to the owner of the motor
+20 vehicle.
+21 (b) A police officer described in subsection (a) may not send
+22 notice of the ordinance violation to the owner of the motor vehicle
+23 if, in the opinion of the police officer, the operator of the motor
+24 vehicle could not have safely avoided committing the ordinance
+25 violation due to inclement weather conditions.
+26 Sec. 13. (a) Notwithstanding IC 36-1-3-8(a)(10)(B), a county or
+27 municipality may impose a civil penalty for an ordinance violation
+28 under this chapter in an amount not to exceed two hundred fifty
+29 dollars ($250).
+30 (b) A county or municipality may impose a fee associated with
+31 the electronic processing of the civil penalty imposed under
+32 subsection (a).
+33 (c) A county or municipality must apply at least fifty percent
+34 (50%) of the amount of the civil penalty imposed under subsection
+35 (a) to defray the cost to install, operate, and maintain an automated
+36 traffic enforcement safety device.
+37 (d) The remaining money from the civil penalty imposed under
+38 subsection (a) must be transferred to the general fund of the county
+39 or municipality to be used for public safety and infrastructure.
+40 Sec. 14. (a) It is a defense under this chapter if any of the
+41 following apply:
+42 (1) The owner provides an affidavit signed under the penalty
+2026 IN 1292—LS 6313/DI 137
+10
+1 of perjury stating:
+2 (A) the owner of the motor vehicle was engaged in the
+3 business of renting or leasing vehicles under written
+4 agreements;
+5 (B) the motor vehicle was in the care, custody, or control
+6 of an individual other than the owner or an employee of
+7 the owner under a written agreement for the rental or
+8 lease of the motor vehicle for a period of not more than
+9 sixty (60) days; and
+10 (C) the name and address of the individual who was
+11 renting or leasing the motor vehicle;
+12 at the time of the alleged violation.
+13 (2) The owner provides an affidavit signed under the penalty
+14 of perjury stating:
+15 (A) the dealer license plate displayed by the motor vehicle
+16 was issued to a person licensed under IC 9-32-6;
+17 (B) the motor vehicle was in the care, custody, or control
+18 of an individual other than the owner or an employee of
+19 the owner of the motor vehicle using the dealer license
+20 plate as authorized under IC 9-32-6-2 or IC 9-32-6-7; and
+21 (C) the name and address of the individual who was using
+22 the motor vehicle;
+23 at the time of the alleged violation.
+24 (3) If the owner provides an affidavit signed under the penalty
+25 of perjury stating the owner was not operating the motor
+26 vehicle at the time of the alleged violation and the name and
+27 address of the individual operating the motor vehicle at the
+28 time of the alleged violation.
+29 (4) If the owner provides an affidavit signed under the penalty
+30 of perjury stating that:
+31 (A) the motor vehicle; or
+32 (B) the license plate of the motor vehicle;
+33 was stolen before the alleged violation occurred and was not
+34 under the control or possession of the owner at the time of the
+35 alleged violation.
+36 (5) The owner was driving an authorized emergency vehicle
+37 and did not endanger life or property.
+38 (6) The owner was complying with a lawful order or direction
+39 of a police officer.
+40 (7) The owner yielded the right-of-way to an authorized
+41 emergency vehicle.
+42 (8) The owner was part of a funeral procession.
+2026 IN 1292—LS 6313/DI 137
+11
+1 (9) A traffic citation was issued to the operator of the motor
+2 vehicle, who was not the owner of the motor vehicle, for the
+3 ordinance violation by a police officer.
+4 (b) If the owner of a motor vehicle submits the evidence
+5 required under subsection (a)(1) through (a)(3), the court shall
+6 send by first class mail notice of the violation to the individual
+7 identified as the operator of the motor vehicle at the time of the
+8 violation.
+9 (c) Proof provided under subsection (a)(1) through (a)(3) creates
+10 a rebuttable presumption that the individual identified by the
+11 owner as the operator of the motor vehicle at the time of the
+12 violation was the individual operating the motor vehicle at the time
+13 of the violation.
+14 (d) In addition to an affidavit described in subsection (a)(4), the
+15 owner must submit proof that a police report was filed concerning
+16 the stolen motor vehicle or stolen license plate.
+17 Sec. 15. (a) Subject to the requirements under IC 36-1-6, a
+18 county or municipality shall send by first class mail a notice to the
+19 owner of the motor vehicle that the owner failed to contest the
+20 violation or pay the civil penalty under this chapter.
+21 (b) A notice under subsection (a) must inform an owner of the
+22 following:
+23 (1) That a referral to suspend the registration of the motor
+24 vehicle under section 16 of this chapter will be sent to the
+25 bureau not later than thirty (30) days after the notice under
+26 subsection (a) is mailed if the violation is not paid.
+27 (2) That a referral under section 16 of this chapter will result
+28 in the suspension of the registration of the motor vehicle.
+29 Sec. 16. (a) A county or municipality shall give a written referral
+30 to suspend the registration of a motor vehicle to the bureau not
+31 later than thirty (30) days after the notice under section 15 of this
+32 chapter is mailed to the owner of the motor vehicle if the owner has
+33 not:
+34 (1) contested the ordinance violation; or
+35 (2) paid the civil penalty.
+36 (b) A referral under subsection (a) must include:
+37 (1) information regarding the name of the owner of the motor
+38 vehicle, the license plate number, and registration year;
+39 (2) the date, time, and location of the violation;
+40 (3) the date when the notice required under section 15 of this
+41 chapter was mailed; and
+42 (4) the seal of the local authority.
+2026 IN 1292—LS 6313/DI 137
+12
+1 Sec. 17. (a) If the bureau receives a referral under section 16 of
+2 this chapter, the bureau shall immediately suspend the registration
+3 of the motor vehicle.
+4 (b) The bureau shall send by first class mail a written notice to
+5 the owner not later than thirty (30) days after receiving a referral
+6 under section 16 of this chapter that informs the owner of the
+7 motor vehicle of:
+8 (1) the suspension of the registration of the motor vehicle;
+9 (2) the reason for the suspension; and
+10 (3) the process by which to have the registration of the motor
+11 vehicle reinstated.
+12 Sec. 18. The bureau shall reinstate the registration of a motor
+13 vehicle that is suspended under this chapter if the owner presents
+14 the bureau with proof that:
+15 (1) the civil penalty; and
+16 (2) the reinstatement fee under IC 9-18.1-3-8.5(b);
+17 is paid.
+18 Sec. 19. (a) A recorded image produced by an automated traffic
+19 enforcement safety device that does not show an alleged violation
+20 must be destroyed not later than thirty (30) days after the image is
+21 recorded, unless otherwise determined by a court order.
+22 (b) A recorded image produced by an automated traffic
+23 enforcement safety device that shows an alleged violation must be
+24 destroyed not more than ninety (90) days after the final disposition
+25 of the proceeding or payment of the civil penalty, unless otherwise
+26 determined by a court order.
+27 Sec. 20. (a) The bureau may not assess points under the point
+28 system for a violation under this chapter.
+29 (b) A violation under this chapter is not considered to be a
+30 traffic offense (as defined in IC 9-13-2-183).
+31 (c) Information concerning a violation under this chapter may
+32 not be included on a driving record established and maintained by
+33 the bureau.
+34 (d) A violation under this chapter may not be used to determine
+35 rates for motor vehicle insurance.
+36 SECTION 11. IC 9-21-5-6, AS AMENDED BY P.L.49-2024,
+37 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 6. (a) Except as provided in subsections (e) and
+39 (f), whenever a local authority in the authority's jurisdiction determines
+40 that the maximum speed permitted under this chapter is greater or less
+41 than reasonable and safe under the conditions found to exist on a
+42 highway or part of a highway, the local authority may determine and
+2026 IN 1292—LS 6313/DI 137
+13
+1 declare a reasonable and safe maximum limit on the highway. The
+2 maximum limit declared under this section may do any of the
+3 following:
+4 (1) Decrease the limit within urban districts, but not to less than
+5 twenty (20) miles per hour.
+6 (2) Increase the limit within an urban district, but not to more than
+7 fifty-five (55) miles per hour during daytime and fifty (50) miles
+8 per hour during nighttime.
+9 (3) Decrease the limit outside an urban district, but not to less
+10 than thirty (30) miles per hour.
+11 (4) Decrease the limit in an alley, but to not less than five (5)
+12 miles per hour.
+13 (5) Increase the limit in an alley, but to not more than twenty (20)
+14 miles per hour.
+15 The local authority must perform an engineering and traffic
+16 investigation before a determination may be made to change a speed
+17 limit under subdivision (2), (3), (4), or (5) or before the speed limit on
+18 a highway with a functional classification of arterial or major collector
+19 within an urban district may be decreased to less than twenty-five (25)
+20 miles per hour under subdivision (1). An engineering and traffic
+21 investigation is not required to decrease the speed limit to twenty (20)
+22 miles per hour on a highway with a functional classification of minor
+23 collector or local road in an urban district.
+24 (b) Except as provided in subsection (f), a local authority in the
+25 authority's jurisdiction shall determine by an engineering and traffic
+26 investigation the proper maximum speed for all local streets and shall
+27 declare a reasonable and safe maximum speed permitted under this
+28 chapter for an urban district. However, an engineering and traffic study
+29 is not required to be performed for the local streets in an urban district
+30 under this subsection if the local authority determines that the proper
+31 maximum speed in the urban district is not less than twenty-five (25)
+32 miles per hour.
+33 (c) An altered limit established under this section is effective at all
+34 times or during hours of darkness or at other times as may be
+35 determined when appropriate signs giving notice of the altered limit are
+36 erected on the street or highway.
+37 (d) Except as provided in this subsection and notwithstanding
+38 IC 9-21-3.6 or IC 36-1-3-8(a), a local authority may not alter a speed
+39 limit on a highway or extension of a highway in the state highway
+40 system. A city or town may establish speed limits on state highways
+41 upon which a school is located. However, a speed limit established
+42 under this subsection is valid only if the following conditions exist:
+2026 IN 1292—LS 6313/DI 137
+14
+1 (1) The limit is not less than twenty (20) miles per hour.
+2 (2) The limit is imposed only in the immediate vicinity of the
+3 school.
+4 (3) Children are present.
+5 (4) The speed zone is properly signed. There must be:
+6 (A) a sign located:
+7 (i) where the reduced speed zone begins; or
+8 (ii) as near as practical to the point where the reduced speed
+9 zone begins;
+10 indicating the reduced speed limit; and
+11 (B) a sign located at the end of the reduced speed zone
+12 indicating:
+13 (i) the speed limit for the section of highway that follows; or
+14 (ii) the end of the reduced speed zone.
+15 (5) The Indiana department of transportation has been notified of
+16 the limit imposed by certified mail.
+17 (e) A local authority may decrease a limit on a street to not less than
+18 fifteen (15) miles per hour if the following conditions exist:
+19 (1) The street is located within a park or playground established
+20 under IC 36-10.
+21 (2) The:
+22 (A) board established under IC 36-10-3;
+23 (B) board established under IC 36-10-4; or
+24 (C) park authority established under IC 36-10-5;
+25 requests the local authority to decrease the limit.
+26 (3) The speed zone is properly signed.
+27 (f) A city, town, or county may establish speed limits on a street or
+28 highway upon which a school is located if the street or highway is
+29 under the jurisdiction of the city, town, or county, respectively.
+30 However, a speed limit established under this subsection is valid only
+31 if the following conditions exist:
+32 (1) The limit is not less than twenty (20) miles per hour.
+33 (2) The limit is imposed only in the immediate vicinity of the
+34 school.
+35 (3) Children are present.
+36 (4) The speed zone is properly signed. There must be:
+37 (A) a sign located where the reduced speed zone begins or as
+38 near as practical to the point where the reduced speed zone
+39 begins indicating the reduced speed limit and a sign located at
+40 the end of the reduced speed zone indicating the end of the
+41 reduced speed zone; and
+42 (B) if the school operates on a twelve (12) month schedule, a
+2026 IN 1292—LS 6313/DI 137
+15
+1 sign indicating that the school is an all year school.
+2 Notwithstanding IC 36-1-3-8(a), a city, town, or county may
+3 establish speed limits on a street or highway upon which a school
+4 is located if the street or highway is under the jurisdiction of the
+5 city, town, or county, respectively, under IC 9-21-3.6.
+6 (g) Except as provided in subsection (h), a person who exceeds a
+7 speed limit established by a local authority under this section commits
+8 a Class C infraction.
+9 (h) A person who exceeds a speed limit that is established under
+10 subsection (d) or (f) commits a Class B infraction.
+11 SECTION 12. IC 9-21-12-1, AS AMENDED BY P.L.144-2019,
+12 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 1. (a) A person who drives a vehicle that:
+14 (1) meets or overtakes from any direction a school bus stopped on
+15 a roadway or a private road and is not stopped before reaching the
+16 school bus when the arm signal device specified in IC 9-21-12-13
+17 is in the device's extended position; or
+18 (2) proceeds before the arm signal device is no longer extended;
+19 commits a Class A infraction.
+20 (b) In addition to any other penalty imposed under this section, the
+21 court may suspend the person's driving privileges:
+22 (1) for ninety (90) days; or
+23 (2) if the person has committed at least one (1) previous offense
+24 under this section or IC 9-21-8-52(b), for one (1) year.
+25 (c) This section is applicable only if the school bus is in substantial
+26 compliance with the markings required by the state school bus
+27 committee.
+28 (d) There is a rebuttable presumption that the owner of the vehicle
+29 involved in the violation of this section committed the violation. This
+30 presumption does not apply to the owner of a vehicle involved in the
+31 violation of this section if the owner routinely engages in the business
+32 of renting the vehicle for periods of thirty (30) days or less.
+33 (e) A violation of subsection (a) may be enforced under
+34 IC 9-21-3.6.
+35 SECTION 13. IC 9-30-3-14, AS AMENDED BY P.L.111-2021,
+36 SECTION 87, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 14. This section does not apply to a violation of
+38 an ordinance adopted under IC 9-21-3.6. If a court convicts a person
+39 for a moving traffic offense and the person is known or believed by the
+40 court not to be the owner of the motor vehicle, the court shall, within
+41 seven (7) days after entering the conviction, deposit with the United
+42 States Postal Service, first class postage prepaid, notice addressed to
+2026 IN 1292—LS 6313/DI 137
+16
+1 the owner of the motor vehicle giving the owner the following
+2 information:
+3 (1) The name and address of the person convicted.
+4 (2) The name and address of the owner of the motor vehicle.
+5 (3) The offense upon which the conviction was made.
+6 (4) The date of arrest of the person convicted and the location of
+7 the place of the offense.
+8 (5) The license plate number of the motor vehicle.
+9 (6) The driver's or chauffeur's license number of the person
+10 convicted.
+11 (7) The date of the conviction and the name of the court making
+12 the conviction.
+13 SECTION 14. IC 20-27-10-3.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. A school corporation may use
+16 an automated traffic enforcement safety device on a school bus in
+17 accordance with IC 9-21-3.6.
+18 SECTION 15. IC 27-1-22-29 IS ADDED TO THE INDIANA
+19 CODE AS A NEW SECTION TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 29. (a) As used in this section,
+21 "motor vehicle insurance" means any type of insurance described
+22 in IC 27-1-5-1, Class 2(f).
+23 (b) As used in this section, "rating plan" means the rating
+24 schedule or rating plan of an insurer concerning premium rates for
+25 motor vehicle insurance that has been filed with the commissioner
+26 and is in effect under section 4 of this chapter.
+27 (c) An insurer may not set the premium rate for a policy of
+28 motor vehicle insurance for an individual who has committed a
+29 violation under:
+30 (1) IC 9-21-3.6; or
+31 (2) IC 9-21-12-1(a) enforced under IC 9-21-3.6;
+32 at an amount higher than the applicable rate set forth in the rating
+33 plan due to the fact that the individual has committed a violation
+34 of an ordinance adopted under IC 9-21-3.6, or of IC 9-21-12-1(a)
+35 enforced under IC 9-21-3.6.
+36 (d) A violation of this section is an unfair and deceptive act or
+37 practice in the business of insurance under IC 27-4-1-4.
+38 SECTION 16. IC 27-4-1-4, AS AMENDED BY P.L.158-2024,
+39 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+40 JULY 1, 2026]: Sec. 4. (a) The following are hereby defined as unfair
+41 methods of competition and unfair and deceptive acts and practices in
+42 the business of insurance:
+2026 IN 1292—LS 6313/DI 137
+17
+1 (1) Making, issuing, circulating, or causing to be made, issued, or
+2 circulated, any estimate, illustration, circular, or statement:
+3 (A) misrepresenting the terms of any policy issued or to be
+4 issued or the benefits or advantages promised thereby or the
+5 dividends or share of the surplus to be received thereon;
+6 (B) making any false or misleading statement as to the
+7 dividends or share of surplus previously paid on similar
+8 policies;
+9 (C) making any misleading representation or any
+10 misrepresentation as to the financial condition of any insurer,
+11 or as to the legal reserve system upon which any life insurer
+12 operates;
+13 (D) using any name or title of any policy or class of policies
+14 misrepresenting the true nature thereof; or
+15 (E) making any misrepresentation to any policyholder insured
+16 in any company for the purpose of inducing or tending to
+17 induce such policyholder to lapse, forfeit, or surrender the
+18 policyholder's insurance.
+19 (2) Making, publishing, disseminating, circulating, or placing
+20 before the public, or causing, directly or indirectly, to be made,
+21 published, disseminated, circulated, or placed before the public,
+22 in a newspaper, magazine, or other publication, or in the form of
+23 a notice, circular, pamphlet, letter, or poster, or over any radio or
+24 television station, or in any other way, an advertisement,
+25 announcement, or statement containing any assertion,
+26 representation, or statement with respect to any person in the
+27 conduct of the person's insurance business, which is untrue,
+28 deceptive, or misleading.
+29 (3) Making, publishing, disseminating, or circulating, directly or
+30 indirectly, or aiding, abetting, or encouraging the making,
+31 publishing, disseminating, or circulating of any oral or written
+32 statement or any pamphlet, circular, article, or literature which is
+33 false, or maliciously critical of or derogatory to the financial
+34 condition of an insurer, and which is calculated to injure any
+35 person engaged in the business of insurance.
+36 (4) Entering into any agreement to commit, or individually or by
+37 a concerted action committing any act of boycott, coercion, or
+38 intimidation resulting or tending to result in unreasonable
+39 restraint of, or a monopoly in, the business of insurance.
+40 (5) Filing with any supervisory or other public official, or making,
+41 publishing, disseminating, circulating, or delivering to any person,
+42 or placing before the public, or causing directly or indirectly, to
+2026 IN 1292—LS 6313/DI 137
+18
+1 be made, published, disseminated, circulated, delivered to any
+2 person, or placed before the public, any false statement of
+3 financial condition of an insurer with intent to deceive. Making
+4 any false entry in any book, report, or statement of any insurer
+5 with intent to deceive any agent or examiner lawfully appointed
+6 to examine into its condition or into any of its affairs, or any
+7 public official to which such insurer is required by law to report,
+8 or which has authority by law to examine into its condition or into
+9 any of its affairs, or, with like intent, willfully omitting to make a
+10 true entry of any material fact pertaining to the business of such
+11 insurer in any book, report, or statement of such insurer.
+12 (6) Issuing or delivering or permitting agents, officers, or
+13 employees to issue or deliver, agency company stock or other
+14 capital stock, or benefit certificates or shares in any common law
+15 corporation, or securities or any special or advisory board
+16 contracts or other contracts of any kind promising returns and
+17 profits as an inducement to insurance.
+18 (7) Making or permitting any of the following:
+19 (A) Unfair discrimination between individuals of the same
+20 class and equal expectation of life in the rates or assessments
+21 charged for any contract of life insurance or of life annuity or
+22 in the dividends or other benefits payable thereon, or in any
+23 other of the terms and conditions of such contract. However,
+24 in determining the class, consideration may be given to the
+25 nature of the risk, plan of insurance, the actual or expected
+26 expense of conducting the business, or any other relevant
+27 factor.
+28 (B) Unfair discrimination between individuals of the same
+29 class involving essentially the same hazards in the amount of
+30 premium, policy fees, assessments, or rates charged or made
+31 for any policy or contract of accident or health insurance or in
+32 the benefits payable thereunder, or in any of the terms or
+33 conditions of such contract, or in any other manner whatever.
+34 However, in determining the class, consideration may be given
+35 to the nature of the risk, the plan of insurance, the actual or
+36 expected expense of conducting the business, or any other
+37 relevant factor.
+38 (C) Excessive or inadequate charges for premiums, policy
+39 fees, assessments, or rates, or making or permitting any unfair
+40 discrimination between persons of the same class involving
+41 essentially the same hazards, in the amount of premiums,
+42 policy fees, assessments, or rates charged or made for:
+2026 IN 1292—LS 6313/DI 137
+19
+1 (i) policies or contracts of reinsurance or joint reinsurance,
+2 or abstract and title insurance;
+3 (ii) policies or contracts of insurance against loss or damage
+4 to aircraft, or against liability arising out of the ownership,
+5 maintenance, or use of any aircraft, or of vessels or craft,
+6 their cargoes, marine builders' risks, marine protection and
+7 indemnity, or other risks commonly insured under marine,
+8 as distinguished from inland marine, insurance; or
+9 (iii) policies or contracts of any other kind or kinds of
+10 insurance whatsoever.
+11 However, nothing contained in clause (C) shall be construed to
+12 apply to any of the kinds of insurance referred to in clauses (A)
+13 and (B) nor to reinsurance in relation to such kinds of insurance.
+14 Nothing in clause (A), (B), or (C) shall be construed as making or
+15 permitting any excessive, inadequate, or unfairly discriminatory
+16 charge or rate or any charge or rate determined by the department
+17 or commissioner to meet the requirements of any other insurance
+18 rate regulatory law of this state.
+19 (8) Except as otherwise expressly provided by IC 27-1-47 or
+20 another law, knowingly permitting or offering to make or making
+21 any contract or policy of insurance of any kind or kinds
+22 whatsoever, including but not in limitation, life annuities, or
+23 agreement as to such contract or policy other than as plainly
+24 expressed in such contract or policy issued thereon, or paying or
+25 allowing, or giving or offering to pay, allow, or give, directly or
+26 indirectly, as inducement to such insurance, or annuity, any rebate
+27 of premiums payable on the contract, or any special favor or
+28 advantage in the dividends, savings, or other benefits thereon, or
+29 any valuable consideration or inducement whatever not specified
+30 in the contract or policy; or giving, or selling, or purchasing or
+31 offering to give, sell, or purchase as inducement to such insurance
+32 or annuity or in connection therewith, any stocks, bonds, or other
+33 securities of any insurance company or other corporation,
+34 association, limited liability company, or partnership, or any
+35 dividends, savings, or profits accrued thereon, or anything of
+36 value whatsoever not specified in the contract. Nothing in this
+37 subdivision and subdivision (7) shall be construed as including
+38 within the definition of discrimination or rebates any of the
+39 following practices:
+40 (A) Paying bonuses to policyholders or otherwise abating their
+41 premiums in whole or in part out of surplus accumulated from
+42 nonparticipating insurance, so long as any such bonuses or
+2026 IN 1292—LS 6313/DI 137
+20
+1 abatement of premiums are fair and equitable to policyholders
+2 and for the best interests of the company and its policyholders.
+3 (B) In the case of life insurance policies issued on the
+4 industrial debit plan, making allowance to policyholders who
+5 have continuously for a specified period made premium
+6 payments directly to an office of the insurer in an amount
+7 which fairly represents the saving in collection expense.
+8 (C) Readjustment of the rate of premium for a group insurance
+9 policy based on the loss or expense experience thereunder, at
+10 the end of the first year or of any subsequent year of insurance
+11 thereunder, which may be made retroactive only for such
+12 policy year.
+13 (D) Paying by an insurer or insurance producer thereof duly
+14 licensed as such under the laws of this state of money,
+15 commission, or brokerage, or giving or allowing by an insurer
+16 or such licensed insurance producer thereof anything of value,
+17 for or on account of the solicitation or negotiation of policies
+18 or other contracts of any kind or kinds, to a broker, an
+19 insurance producer, or a solicitor duly licensed under the laws
+20 of this state, but such broker, insurance producer, or solicitor
+21 receiving such consideration shall not pay, give, or allow
+22 credit for such consideration as received in whole or in part,
+23 directly or indirectly, to the insured by way of rebate.
+24 (9) Requiring, as a condition precedent to loaning money upon the
+25 security of a mortgage upon real property, that the owner of the
+26 property to whom the money is to be loaned negotiate any policy
+27 of insurance covering such real property through a particular
+28 insurance producer or broker or brokers. However, this
+29 subdivision shall not prevent the exercise by any lender of the
+30 lender's right to approve or disapprove of the insurance company
+31 selected by the borrower to underwrite the insurance.
+32 (10) Entering into any contract, combination in the form of a trust
+33 or otherwise, or conspiracy in restraint of commerce in the
+34 business of insurance.
+35 (11) Monopolizing or attempting to monopolize or combining or
+36 conspiring with any other person or persons to monopolize any
+37 part of commerce in the business of insurance. However,
+38 participation as a member, director, or officer in the activities of
+39 any nonprofit organization of insurance producers or other
+40 workers in the insurance business shall not be interpreted, in
+41 itself, to constitute a combination in restraint of trade or as
+42 combining to create a monopoly as provided in this subdivision
+2026 IN 1292—LS 6313/DI 137
+21
+1 and subdivision (10). The enumeration in this chapter of specific
+2 unfair methods of competition and unfair or deceptive acts and
+3 practices in the business of insurance is not exclusive or
+4 restrictive or intended to limit the powers of the commissioner or
+5 department or of any court of review under section 8 of this
+6 chapter.
+7 (12) Requiring as a condition precedent to the sale of real or
+8 personal property under any contract of sale, conditional sales
+9 contract, or other similar instrument or upon the security of a
+10 chattel mortgage, that the buyer of such property negotiate any
+11 policy of insurance covering such property through a particular
+12 insurance company, insurance producer, or broker or brokers.
+13 However, this subdivision shall not prevent the exercise by any
+14 seller of such property or the one making a loan thereon of the
+15 right to approve or disapprove of the insurance company selected
+16 by the buyer to underwrite the insurance.
+17 (13) Issuing, offering, or participating in a plan to issue or offer,
+18 any policy or certificate of insurance of any kind or character as
+19 an inducement to the purchase of any property, real, personal, or
+20 mixed, or services of any kind, where a charge to the insured is
+21 not made for and on account of such policy or certificate of
+22 insurance. However, this subdivision shall not apply to any of the
+23 following:
+24 (A) Insurance issued to credit unions or members of credit
+25 unions in connection with the purchase of shares in such credit
+26 unions.
+27 (B) Insurance employed as a means of guaranteeing the
+28 performance of goods and designed to benefit the purchasers
+29 or users of such goods.
+30 (C) Title insurance.
+31 (D) Insurance written in connection with an indebtedness and
+32 intended as a means of repaying such indebtedness in the
+33 event of the death or disability of the insured.
+34 (E) Insurance provided by or through motorists service clubs
+35 or associations.
+36 (F) Insurance that is provided to the purchaser or holder of an
+37 air transportation ticket and that:
+38 (i) insures against death or nonfatal injury that occurs during
+39 the flight to which the ticket relates;
+40 (ii) insures against personal injury or property damage that
+41 occurs during travel to or from the airport in a common
+42 carrier immediately before or after the flight;
+2026 IN 1292—LS 6313/DI 137
+22
+1 (iii) insures against baggage loss during the flight to which
+2 the ticket relates; or
+3 (iv) insures against a flight cancellation to which the ticket
+4 relates.
+5 (14) Refusing, because of the for-profit status of a hospital or
+6 medical facility, to make payments otherwise required to be made
+7 under a contract or policy of insurance for charges incurred by an
+8 insured in such a for-profit hospital or other for-profit medical
+9 facility licensed by the Indiana department of health.
+10 (15) Refusing to insure an individual, refusing to continue to issue
+11 insurance to an individual, limiting the amount, extent, or kind of
+12 coverage available to an individual, or charging an individual a
+13 different rate for the same coverage, solely because of that
+14 individual's blindness or partial blindness, except where the
+15 refusal, limitation, or rate differential is based on sound actuarial
+16 principles or is related to actual or reasonably anticipated
+17 experience.
+18 (16) Committing or performing, with such frequency as to
+19 indicate a general practice, unfair claim settlement practices (as
+20 defined in section 4.5 of this chapter).
+21 (17) Between policy renewal dates, unilaterally canceling an
+22 individual's coverage under an individual or group health
+23 insurance policy solely because of the individual's medical or
+24 physical condition.
+25 (18) Using a policy form or rider that would permit a cancellation
+26 of coverage as described in subdivision (17).
+27 (19) Violating IC 27-1-22-25, IC 27-1-22-26, or IC 27-1-22-26.1
+28 concerning motor vehicle insurance rates.
+29 (20) Violating IC 27-8-21-2 concerning advertisements referring
+30 to interest rate guarantees.
+31 (21) Violating IC 27-8-24.3 concerning insurance and health plan
+32 coverage for victims of abuse.
+33 (22) Violating IC 27-8-26 concerning genetic screening or testing.
+34 (23) Violating IC 27-1-15.6-3(b) concerning licensure of
+35 insurance producers.
+36 (24) Violating IC 27-1-38 concerning depository institutions.
+37 (25) Violating IC 27-8-28-17(c) or IC 27-13-10-8(c) concerning
+38 the resolution of an appealed grievance decision.
+39 (26) Violating IC 27-8-5-2.5(e) through IC 27-8-5-2.5(j) (expired
+40 July 1, 2007, and removed) or IC 27-8-5-19.2 (expired July 1,
+41 2007, and repealed).
+42 (27) Violating IC 27-2-21 concerning use of credit information.
+2026 IN 1292—LS 6313/DI 137
+23
+1 (28) Violating IC 27-4-9-3 concerning recommendations to
+2 consumers.
+3 (29) Engaging in dishonest or predatory insurance practices in
+4 marketing or sales of insurance to members of the United States
+5 Armed Forces as:
+6 (A) described in the federal Military Personnel Financial
+7 Services Protection Act, P.L.109-290; or
+8 (B) defined in rules adopted under subsection (b).
+9 (30) Violating IC 27-8-19.8-20.1 concerning stranger originated
+10 life insurance.
+11 (31) Violating IC 27-2-22 concerning retained asset accounts.
+12 (32) Violating IC 27-8-5-29 concerning health plans offered
+13 through a health benefit exchange (as defined in IC 27-19-2-8).
+14 (33) Violating a requirement of the federal Patient Protection and
+15 Affordable Care Act (P.L. 111-148), as amended by the federal
+16 Health Care and Education Reconciliation Act of 2010 (P.L.
+17 111-152), that is enforceable by the state.
+18 (34) After June 30, 2015, violating IC 27-2-23 concerning
+19 unclaimed life insurance, annuity, or retained asset account
+20 benefits.
+21 (35) Willfully violating IC 27-1-12-46 concerning a life insurance
+22 policy or certificate described in IC 27-1-12-46(a).
+23 (36) Violating IC 27-1-37-7 concerning prohibiting the disclosure
+24 of health care service claims data.
+25 (37) Violating IC 27-4-10-10 concerning virtual claims payments.
+26 (38) Violating IC 27-1-24.5 concerning pharmacy benefit
+27 managers.
+28 (39) Violating IC 27-7-17-16 or IC 27-7-17-17 concerning the
+29 marketing of travel insurance policies.
+30 (40) Violating IC 27-1-49 concerning individual prescription drug
+31 rebates.
+32 (41) Violating IC 27-1-50 concerning group prescription drug
+33 rebates.
+34 (42) Violating IC 27-1-22-29 concerning the premium rate for
+35 a policy of motor vehicle insurance if an individual has
+36 committed a violation under IC 9-21-3.6 or enforced under
+37 IC 9-21-3.6.
+38 (b) Except with respect to federal insurance programs under
+39 Subchapter III of Chapter 19 of Title 38 of the United States Code, the
+40 commissioner may, consistent with the federal Military Personnel
+41 Financial Services Protection Act (10 U.S.C. 992 note), adopt rules
+42 under IC 4-22-2 to:
+2026 IN 1292—LS 6313/DI 137
+24
+1 (1) define; and
+2 (2) while the members are on a United States military installation
+3 or elsewhere in Indiana, protect members of the United States
+4 Armed Forces from;
+5 dishonest or predatory insurance practices.
+6 SECTION 17. IC 34-6-2.1-129, AS ADDED BY P.L.186-2025,
+7 SECTION 176, IS AMENDED TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 129. "Moving traffic violation", for
+9 purposes of IC 34-28-5, means a violation of:
+10 (1) a statute defining an infraction; or
+11 (2) an ordinance, other than a violation under IC 9-21-3.6;
+12 that applies when a motor vehicle is in motion.
+13 SECTION 18. IC 34-28-5-5, AS AMENDED BY P.L.173-2025,
+14 SECTION 34, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 5. (a) A defendant against whom a judgment is
+16 entered is liable for costs. Costs are part of the judgment and may not
+17 be suspended except under IC 9-30-3-12. Whenever a judgment is
+18 entered against a person for the commission of two (2) or more civil
+19 violations (infractions or ordinance violations), the court may waive the
+20 person's liability for costs for all but one (1) of the violations. This
+21 subsection does not apply to judgments entered for violations
+22 constituting:
+23 (1) Class D infractions; or
+24 (2) Class C infractions for unlawfully parking in a space reserved
+25 for a person with a physical disability under IC 5-16-9-5 or
+26 IC 5-16-9-8.
+27 (b) If a judgment is entered:
+28 (1) for a violation constituting:
+29 (A) a Class D infraction; or
+30 (B) a Class C infraction for unlawfully parking in a space
+31 reserved for a person with a physical disability under
+32 IC 5-16-9-5 or IC 5-16-9-8; or
+33 (2) in favor of the defendant in any case;
+34 the defendant is not liable for costs.
+35 (c) Except for costs, and except as provided in subsections (e), and
+36 (f), and (g), and IC 9-21-5-11(e), the funds collected as judgments for
+37 violations of statutes defining infractions shall be deposited in the state
+38 general fund.
+39 (d) A judgment may be entered against a defendant under this
+40 section or section 4 of this chapter upon a finding by the court that the
+41 defendant:
+42 (1) violated:
+2026 IN 1292—LS 6313/DI 137
+25
+1 (A) a statute defining an infraction; or
+2 (B) an ordinance; or
+3 (2) consents to entry of judgment for the plaintiff upon a pleading
+4 of nolo contendere for a moving traffic violation.
+5 (e) The funds collected for an infraction judgment described in
+6 section 4(h) of this chapter shall be transferred to a dedicated county
+7 fund. The money in the dedicated county fund does not revert to the
+8 county general fund or state general fund and may be used, after
+9 appropriation by the county fiscal body, only for the following
+10 purposes:
+11 (1) To pay compensation of commissioners appointed under
+12 IC 33-33-49.
+13 (2) To pay costs of the county's guardian ad litem program.
+14 (f) The funds collected for an infraction judgment described in
+15 section 4(i) of this chapter shall be transferred to a dedicated toll
+16 revenue fund created as part of a project that is located within a
+17 metropolitan planning area (as defined by 23 U.S.C. 134) and that
+18 connects the state of Indiana with the commonwealth of Kentucky. The
+19 money in the fund does not revert to the county general fund or state
+20 general fund and may be used only to pay the cost of operating,
+21 maintaining, and repairing the tolling system for a project that is
+22 located within a metropolitan planning area (as defined by 23 U.S.C.
+23 134) and that connects the state of Indiana with the commonwealth of
+24 Kentucky, including major repairs, replacements, and improvements.
+25 (g) This subsection applies only to a violation of IC 9-21-12-1(a)
+26 that is enforced through IC 9-21-3.6. Notwithstanding subsection
+27 (c), a civil penalty collected for a violation of IC 9-21-12-1(a) as a
+28 judgment against a person to whom this subsection applies shall be
+29 transferred in accordance with IC 9-21-3.6. To the extent a person
+30 to whom this subsection applies is liable for costs for a violation of
+31 IC 9-21-12-1(a), the costs may be deducted only from the judgment
+32 and may not cause the person to be liable for an amount greater
+33 than the civil penalty under IC 9-21-3.6.
+34 SECTION 19. IC 36-1-6-3 IS AMENDED TO READ AS
+35 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) Certain
+36 ordinances may be enforced by a municipal corporation without
+37 proceeding in court through:
+38 (1) an admission of violation before the violations clerk under
+39 IC 33-36; or
+40 (2) administrative enforcement under section 9 of this chapter.
+41 (b) Except as provided in subsection (a), a proceeding to enforce an
+42 ordinance must be brought in accordance with IC 34-28-5, section 4 of
+2026 IN 1292—LS 6313/DI 137
+26
+1 this chapter, or both.
+2 (c) An ordinance defining a moving traffic violation may not be
+3 enforced under IC 33-36 and must be enforced in accordance with
+4 IC 34-28-5.
+5 (d) An ordinance adopted under IC 9-21-3.6 may be enforced
+6 under IC 33-36 or IC 34-28-5.
+2026 IN 1292—LS 6313/DI 137
+[DELETED:  A  I 9 I 9 I 9 c o m t a a e a o t6I]
+[DELETED:  p o I 9 h t m s f i I A A N S T R A F J 1 2 S 1 " f 1 2 S 1 ( E a o p i6I]
+[DELETED:  i A A N S T R A F J 1 2 S 1 " i f p o I 9 h t 6 I 9 A A B P 1 I A T R A F b i a a i c o i6I]
+[DELETED:  o p f b p l r F u i c w a c a c a o a a p i a c o F u i r a a f u i p n c w c i a a F u i p n t t o o t o6I]
+[DELETED:  t s d n a t u o a g 7 I 9 A A B P 1 I A T R A F A a r o p i u 8 I 9 I A T T I A A N S T R A F 9 I 9 A A B P 1 I A T R A F J 1 2 S 1 ( T s s b6I]
+[DELETED:  b s d a a b a c o r b a p o e b a c o n a m v i r u a o t6I]
+[DELETED:  m a p s t p a.( N I 3 a c I a m b t l b o t 7 A s c m e i a i o n p a a e o a a t.( a a m o a a w a i s f o a6I]
+[DELETED:  I a o m a a o u T a p o e b t c o T d t a v u s 1 o t6I]
+[DELETED:  c t t I M o U T s d u t c i t f T c o m i c w t b o o a s h u w a t t p w t s z b o h u w a e s ( i I 2 a h s ( d i6I]
+[DELETED:  t t p w t s z b t s l I t s o o  t e s d t t l e p o t c p i u6I]
+[DELETED:  o r o l v u w t n a a o t i w w T o y t r t a a6I]
+[DELETED:  I t o o a m v s t e6I]
+[DELETED:  A r i p b a a t 1 I 9 A A B P6I]
+[DELETED:  l d u t s m d a o t l a m p a e a t p h u s ( A e a t o d h o d o a o t a m b6I]
+[DELETED:  a s l a t e o t r s z t j o t c t o c r6I]
+[DELETED:  I 3 a c t o c m w t m r b t s s b A v o s ( m b e u6I]
+[DELETED:  o o t m v g t o t f T o c l o t p A A N S T R A F 1 I 2 I A T T I A A N S T R A F6I]
+[DELETED:  m a f o m s a t t o s o s p p o s m a m r o a s o i a o w a a o s c a a o t p i b w i u o a a o e t m r o t t r i u6I]
+[DELETED:  o p b t p a f s o I o d o p a o o o s o a s o a b6I]
+[DELETED:  p o c o a o k o k o c o p o i o a k o k o a i c o o c l l c o p o a t d o d o r a o t6I]
+[DELETED:  I t c o l i p i o t c f a s p m p a s u t l o t s o m o c o a k o k t a b a p o b o b H t o o c i r o c i t o c i t b o i H n o o i p o o t c a c i r o t o a6I]
+[DELETED:  i t b o i i n e o I e a a m o g t6I]
+[DELETED:  r f t s c s b o t b o p b e w t o i r t a o r a C o p w s f a t d c u a i o g h V I 2 c l o6I]
+[DELETED:  V I 2 c r t d i t f M P F V I 2 c h p o A J 3 2 v I 2 c l i a o r a a V I 2 c p b p o m v i i a i h E w r t f i p u f6I]
+[DELETED:  1 I A T R A F d n a t j e f v a p o f a p w a p d u6I]
+[DELETED:  b t c f b o f t f T p c o c a u f c t 1 I 3 I A T R A [ J 1 2 S 3 ( C m b e b a m c w6I]
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+Introduced Version
+HOUSE BILL No. 1292
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 9-13-2; IC 9-14-13; IC 9-18.1-3-8.5;
+IC 9-19-13-1; IC 9-21; IC 9-30-3-14; IC 20-27-10-3.5; IC 27-1-22-29;
+IC 27-4-1-4; IC 34-6-2.1-129; IC 34-28-5-5; IC 36-1-6-3.
+Synopsis: Automated traffic enforcement safety devices. Authorizes
+a county or municipality to adopt and enforce an ordinance that
+regulates the use of an automated traffic enforcement safety device
+(device) to detect certain violations. Provides a civil penalty for a
+violation. Specifies that a civil penalty must first be applied to defray
+the cost of the installation, operation, and maintenance of the device.
+Specifies the manner in which the remaining money from the civil
+penalty must be distributed. Prohibits: (1) reporting a violation on a
+driving record; (2) using a violation to determine rates for motor
+vehicle insurance; (3) assessing points under the point system by the
+bureau of motor vehicles (bureau) for a violation; and (4) reselling data
+collected by an agent operating a device. Requires notification to the
+bureau, and the suspension of the registration of a motor vehicle if a
+violation is not paid. Makes conforming changes.
+Effective: July 1, 2026.
+Johnson B
+January 6, 2026, read first time and referred to Committee on Roads and Transportation.
+2026 IN 1292—LS 6313/DI 137
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1292
+A BILL FOR AN ACT to amend the Indiana Code concerning
+motor vehicles.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 9-13-2-2.1 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 2.1. "Agent", for purposes of IC 9-21-3.6, has the
+4 meaning set forth in IC 9-21-3.6-1.
+5 SECTION 2. IC 9-13-2-6.2 IS ADDED TO THE INDIANA CODE
+6 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2026]: Sec. 6.2. "Automated traffic enforcement safety device",
+8 for purposes of IC 9-21-3.6, has the meaning set forth in
+9 IC 9-21-3.6-2.
+10 SECTION 3. IC 9-13-2-110.6 IS ADDED TO THE INDIANA
+11 CODE AS A NEW SECTION TO READ AS FOLLOWS
+12 [EFFECTIVE JULY 1, 2026]: Sec. 110.6. "Municipality", for
+13 purposes of IC 9-21-3.6, has the meaning set forth in IC 36-1-2-11.
+14 SECTION 4. IC 9-13-2-121, AS AMENDED BY P.L.164-2020,
+15 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 121. (a) Except as otherwise provided in
+17 subsection subsections (b) and (c), "owner" means a person, other than
+2026 IN 1292—LS 6313/DI 137
+
+2
+1 a lienholder, that:
+2 (1) holds the property in or title to, as applicable, a vehicle,
+3 manufactured home, mobile home, off-road vehicle, snowmobile,
+4 or watercraft; or
+5 (2) is entitled to the use or possession of, as applicable, a vehicle,
+6 manufactured home, off-road vehicle, snowmobile, or watercraft,
+7 through a lease or other agreement intended to operate as a
+8 security.
+9 (b) "Owner" for purposes of IC 9-18.1-14.5, has the meaning set
+10 forth in 33 CFR 174.3.
+11 (c) "Owner", for purposes of IC 9-21-3.6, has the meaning set
+12 forth in IC 9-21-3.6-4.
+13 SECTION 5. IC 9-13-2-128.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 128.5. "Postsecondary
+16 educational institution", for purposes of IC 9-21-3.6, has the
+17 meaning set forth in IC 9-21-3.6-5.
+18 SECTION 6. IC 9-14-13-7, AS ADDED BY P.L.198-2016,
+19 SECTION 193, IS AMENDED TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 7. The bureau may disclose certain
+21 personal information that is not highly restricted personal information
+22 if the person requesting the information provides proof of identity and
+23 represents that the use of the personal information will be strictly
+24 limited to at least one (1) of the following:
+25 (1) For use by a government agency, including a court or law
+26 enforcement agency, in carrying out its functions, or a person
+27 acting on behalf of a government agency in carrying out its
+28 functions, including an agent in carrying out its
+29 responsibilities under IC 9-21-3.6.
+30 (2) For use in connection with matters concerning:
+31 (A) motor vehicle or driver safety and theft;
+32 (B) motor vehicle emissions;
+33 (C) motor vehicle product alterations, recalls, or advisories;
+34 (D) performance monitoring of motor vehicles, motor vehicle
+35 parts, and dealers;
+36 (E) motor vehicle market research activities, including survey
+37 research;
+38 (F) the removal of nonowner records from the original owner
+39 records of motor vehicle manufacturers; and
+40 (G) motor fuel theft under IC 24-4.6-5.
+41 (3) For use in the normal course of business by a business or its
+42 agents, employees, or contractors, but only:
+2026 IN 1292—LS 6313/DI 137
+
+3
+1 (A) to verify the accuracy of personal information submitted
+2 by an individual to the business or its agents, employees, or
+3 contractors; and
+4 (B) if information submitted to a business is not correct or is
+5 no longer correct, to obtain the correct information only for
+6 purposes of preventing fraud by pursuing legal remedies
+7 against, or recovering on a debt or security interest against, the
+8 individual.
+9 (4) For use in connection with a civil, a criminal, an
+10 administrative, or an arbitration proceeding in a court or
+11 government agency or before a self-regulatory body, including the
+12 service of process, investigation in anticipation of litigation, and
+13 the execution or enforcement of judgments and orders, or under
+14 an order of a court.
+15 (5) For use in research activities, and for use in producing
+16 statistical reports, as long as the personal information is not
+17 published, redisclosed, or used to contact the individuals who are
+18 the subject of the personal information.
+19 (6) For use by an insurer, an insurance support organization, or a
+20 self-insured entity, or the agents, employees, or contractors of an
+21 insurer, an insurance support organization, or a self-insured entity
+22 in connection with claims investigation activities, anti-fraud
+23 activities, rating, or underwriting.
+24 (7) For use in providing notice to the owners of towed or
+25 impounded vehicles.
+26 (8) For use by a licensed private investigative agency or licensed
+27 security service for a purpose allowed under this section.
+28 (9) For use by an employer or its agent or insurer to obtain or
+29 verify information relating to a holder of a commercial driver's
+30 license that is required under the Commercial Motor Vehicle
+31 Safety Act of 1986 (49 U.S.C. 31131 et seq.).
+32 (10) For use in connection with the operation of private toll
+33 transportation facilities.
+34 (11) For any use in response to requests for individual motor
+35 vehicle records when the bureau has obtained the written consent
+36 of the person to whom the personal information pertains.
+37 (12) For bulk distribution for surveys, marketing, or solicitations
+38 when the bureau has obtained the written consent of the person to
+39 whom the personal information pertains.
+40 (13) For use by any person, when the person demonstrates, in a
+41 form and manner prescribed by the bureau, that written consent
+42 has been obtained from the individual who is the subject of the
+2026 IN 1292—LS 6313/DI 137
+
+4
+1 information.
+2 (14) For any other use specifically authorized by law that is
+3 related to the operation of a motor vehicle or public safety.
+4 However, this section does not affect the use of anatomical gift
+5 information on a person's driver's license or identification document
+6 issued by the bureau, nor does this section affect the administration of
+7 anatomical gift initiatives in Indiana.
+8 SECTION 7. IC 9-14-13-10, AS ADDED BY P.L.198-2016,
+9 SECTION 193, IS AMENDED TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 10. (a) An authorized recipient of
+11 personal information, except a recipient under section 7(11) or 7(12)
+12 of this chapter, and except as provided in subsection (e), may resell
+13 or redisclose the information for any use allowed under section 7 of this
+14 chapter, except for a use under section 7(11) or 7(12) of this chapter.
+15 (b) An authorized recipient of a record under section 7(11) of this
+16 chapter may resell or redisclose personal information for any purpose.
+17 (c) An authorized recipient of personal information under
+18 IC 9-14-12-8 and section 7(12) of this chapter may resell or redisclose
+19 the personal information for use only in accordance with section 7(12)
+20 of this chapter.
+21 (d) Except for a recipient under section 7(11) of this chapter, a
+22 recipient who resells or rediscloses personal information is required to
+23 maintain and make available for inspection to the bureau, upon request,
+24 for at least five (5) years, records concerning:
+25 (1) each person that receives the information; and
+26 (2) the permitted use for which the information was obtained.
+27 (e) An agent who carries out responsibilities under IC 9-21-3.6
+28 and is a recipient of personal information under section 7(1) of this
+29 chapter may not resell or redisclose the personal information for
+30 any purpose.
+31 SECTION 8. IC 9-18.1-3-8.5 IS ADDED TO THE INDIANA
+32 CODE AS A NEW SECTION TO READ AS FOLLOWS
+33 [EFFECTIVE JULY 1, 2026]: Sec. 8.5. (a) If the bureau receives a
+34 referral to suspend the registration of a vehicle under IC 9-21-3.6,
+35 the bureau shall suspend the registration of the vehicle used in the
+36 ordinance violation until the owner pays the civil penalty and
+37 reinstatement fees under IC 9-21-3.6 and subsection (b).
+38 (b) The bureau may impose a fee to reinstate a registration
+39 suspended under this section.
+40 SECTION 9. IC 9-19-13-1, AS AMENDED BY P.L.1-2005,
+41 SECTION 101, IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) The state school bus
+2026 IN 1292—LS 6313/DI 137
+
+5
+1 committee established by IC 20-27-3-1 shall adopt and enforce rules
+2 under IC 4-22-2 not inconsistent with this chapter to govern the design
+3 and operation of all school buses used for the transportation of school
+4 children when owned and operated by a school corporation or privately
+5 owned and operated under contract with an Indiana school corporation.
+6 The rules must by reference be made a part of such a contract with a
+7 school corporation. Each school corporation, officer and employee of
+8 the school corporation, and person employed under contract by a
+9 school district is subject to those rules.
+10 (b) Notwithstanding subsection (a), a school corporation may
+11 use an automated traffic enforcement safety device on a school bus
+12 under IC 9-21-3.6.
+13 SECTION 10. IC 9-21-3.6 IS ADDED TO THE INDIANA CODE
+14 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]:
+16 Chapter 3.6. Automated Traffic Enforcement Safety Devices
+17 Sec. 1. As used in this chapter, "agent" means a person that:
+18 (1) provides services to a county or municipality;
+19 (2) operates, maintains, leases, or licenses automated traffic
+20 enforcement safety devices as authorized by a county or
+21 municipality; or
+22 (3) is authorized to review and assemble a recorded image
+23 captured by an automated traffic enforcement safety device
+24 for review by a police officer employed by a county or
+25 municipality.
+26 Sec. 2. As used in this chapter, "automated traffic enforcement
+27 safety device" means a photographic device, radar device, laser
+28 device, or other electrical or mechanical device or devices designed
+29 to:
+30 (1) record the speed of a motor vehicle;
+31 (2) obtain a clear recorded image of the rear of the motor
+32 vehicle and the license plate affixed to the motor vehicle at the
+33 time of a violation;
+34 (3) indicate on at least one (1) recorded image the date, time,
+35 and location of the violation; and
+36 (4) undergo an annual calibration check, the results of which
+37 are kept on file with the county or municipality that uses the
+38 automated traffic enforcement safety device.
+39 Sec. 3. As used in this chapter, "municipality" means a city or
+40 town.
+41 Sec. 4. As used in this chapter, "owner" means a person in
+42 whose name a motor vehicle is registered under any of the
+2026 IN 1292—LS 6313/DI 137
+
+6
+1 following:
+2 (1) IC 9-18.1.
+3 (2) The law of another state.
+4 (3) The law of a foreign country.
+5 (4) The International Registration Plan.
+6 Sec. 5. As used in this chapter, "postsecondary educational
+7 institution" means a postsecondary school that provides an
+8 organized program of collegiate study directly creditable toward
+9 a baccalaureate degree for at least two (2) years.
+10 Sec. 6.(a) Notwithstanding IC 36-1-3-8(a)(8), a county or
+11 municipality may adopt an ordinance to use an automated traffic
+12 enforcement safety device to enforce a violation of:
+13 (1) IC 9-21-12-1(a); or
+14 (2) a speed limit established under section 11 of this chapter.
+15 (b) An ordinance adopted under subsection (a) must be adopted
+16 as follows:
+17 (1) In a municipality, by the legislative body of the
+18 municipality.
+19 (2) In a county subject to IC 36-2-3.5 or IC 36-3-1, by the
+20 legislative body of the county.
+21 (3) In any other county, by the executive of the county.
+22 (c) An ordinance adopted under subsection (a) is subject to an
+23 interlocal agreement under IC 36-1-7.
+24 Sec. 7. A school corporation may enter into an interlocal
+25 agreement under IC 36-1-7 with a county or municipality for the
+26 installation, operation, notice processing, administration,
+27 maintenance, and enforcement of an automated traffic
+28 enforcement safety device on a school bus to enforce a violation
+29 under this chapter.
+30 Sec. 8.(a) A municipality, county, or school corporation that
+31 uses an automated traffic enforcement safety device may enter into
+32 a contract with an agent for the installation, operation, notice
+33 processing, administration, and maintenance of an automated
+34 traffic enforcement safety device.
+35 (b) An agent is not required to be licensed under IC 25-30-1.
+36 (c) The records, documents, and books kept by an agent are not
+37 considered public records (as defined in IC 5-14-3-2(r)).
+38 Sec. 9. (a) If a county or municipality adopts an ordinance under
+39 section 6 of this chapter, the ordinance must include the following
+40 regarding the automated traffic enforcement safety device:
+41 (1) That an automated traffic enforcement safety device must
+42 comply with an international standard for operating an
+2026 IN 1292—LS 6313/DI 137
+
+7
+1 automated traffic enforcement safety device.
+2 (2) That the automated traffic enforcement safety device is
+3 maintained in accordance with specified self-test performance
+4 standards.
+5 (3) That an ordinance adopted under this chapter may be
+6 challenged pursuant to the requirements of IC 34-13-6.
+7 (b) If a county or municipality adopts an ordinance under
+8 section 6 of this chapter, the ordinance must include the following
+9 regarding a violation:
+10 (1) That a police officer employed by the county or
+11 municipality:
+12 (A) must review and approve an image recorded by the
+13 automated traffic enforcement safety device before notice
+14 of an ordinance violation may be forwarded to the owner
+15 of the motor vehicle; and
+16 (B) may not forward notice of an ordinance violation to an
+17 owner under clause (A) if, in the opinion of the police
+18 officer, it was not possible for the operator of the motor
+19 vehicle to safely avoid committing the ordinance violation
+20 due to inclement weather conditions.
+21 (2) Except as otherwise provided under this chapter, that the
+22 owner of a motor vehicle identified through an automated
+23 traffic enforcement safety device is liable for the civil penalty
+24 for a violation under this chapter.
+25 (3) The defenses to a violation under section 14 of this
+26 chapter.
+27 (4) The civil penalty to be assessed for a violation under
+28 section 13 of this chapter.
+29 (5) That an owner may pay a civil penalty for a violation by
+30 electronic means.
+31 (6) That failure to pay the civil penalty for a violation under
+32 this chapter will result in the suspension of the registration of
+33 the owner's motor vehicle.
+34 (7) That a county or municipality may bring an action under
+35 IC 36-1-6 to enforce an ordinance or action taken under this
+36 chapter.
+37 (c) A county or municipality that adopts an ordinance under
+38 section 6 of this chapter shall publish notice of the location of each
+39 automated traffic enforcement safety device on the website of the
+40 county or municipality.
+41 Sec. 10. (a) A county or municipality that uses an automated
+42 traffic enforcement safety device to detect a violation under this
+2026 IN 1292—LS 6313/DI 137
+
+8
+1 chapter must install a sign at least five hundred (500) feet before
+2 the placement of the automated traffic enforcement safety device.
+3 (b) A sign installed under subsection (a) must:
+4 (1) notify a driver of the existence of the automated traffic
+5 enforcement safety device to enforce a violation under this
+6 chapter; and
+7 (2) conform to the Indiana Manual on Uniform Traffic
+8 Control Devices for Streets and Highways adopted under
+9 IC 9-21-2-1.
+10 Sec. 11. A county or municipality may adopt an ordinance to
+11 establish a speed limit that is enforced by an automated traffic
+12 enforcement safety device under this chapter if the following
+13 conditions are met:
+14 (1) The county or municipality, in consultation with the
+15 Indiana department of transportation, may establish a speed
+16 limit by ordinance on a state highway upon which an
+17 elementary school (as defined in IC 20-18-2-4), a high school
+18 (as defined in IC 20-18-2-7), or a postsecondary educational
+19 institution is located. However, a speed limit adopted by an
+20 ordinance under this subdivision is valid only if the following
+21 conditions exist:
+22 (A) The speed limit is not less than twenty (20) miles per
+23 hour.
+24 (B) The speed zone does not exceed two thousand five
+25 hundred (2,500) feet from the perimeter of the school or
+26 institution.
+27 (C) The speed zone is properly signed. There must be a
+28 sign located where the speed zone begins or as near as
+29 practical to the point where the speed zone begins
+30 indicating the speed limit.
+31 (D) The Indiana department of transportation has been
+32 notified by certified mail regarding the location and speed
+33 limit of the speed zone.
+34 (2) A county or municipality may establish a speed limit on a
+35 street or highway upon which an elementary school (as
+36 defined in IC 20-18-2-4), a high school (as defined in
+37 IC 20-18-2-7), or a postsecondary educational institution is
+38 located, if the street or highway is under the jurisdiction of
+39 the county or municipality, respectively. However, a speed
+40 limit adopted by an ordinance under this subdivision is valid
+41 only if the following conditions exist:
+42 (A) The speed limit is not less than twenty (20) miles per
+2026 IN 1292—LS 6313/DI 137
+
+9
+1 hour within an urban district and not less than thirty (30)
+2 miles per hour outside an urban district.
+3 (B) The speed zone does not exceed two thousand five
+4 hundred (2,500) feet from the perimeter of the school or
+5 institution.
+6 (C) The speed zone is properly signed. There must be a
+7 sign located where the speed zone begins or as near as
+8 practical to the point where the speed zone begins
+9 indicating the speed limit. If the school operates on a
+10 twelve (12) month schedule, there must be a sign indicating
+11 that the school is an all year school.
+12 Sec. 12. (a) A school corporation that uses an automated traffic
+13 enforcement safety device to enforce an ordinance adopted under
+14 this chapter must forward a recorded image produced by the
+15 automated traffic enforcement safety device to the law
+16 enforcement agency of the county or municipality in which the
+17 school corporation is located for review and approval by a police
+18 officer employed by the law enforcement agency before notice of
+19 the ordinance violation may be sent to the owner of the motor
+20 vehicle.
+21 (b) A police officer described in subsection (a) may not send
+22 notice of the ordinance violation to the owner of the motor vehicle
+23 if, in the opinion of the police officer, the operator of the motor
+24 vehicle could not have safely avoided committing the ordinance
+25 violation due to inclement weather conditions.
+26 Sec. 13. (a) Notwithstanding IC 36-1-3-8(a)(10)(B), a county or
+27 municipality may impose a civil penalty for an ordinance violation
+28 under this chapter in an amount not to exceed two hundred fifty
+29 dollars ($250).
+30 (b) A county or municipality may impose a fee associated with
+31 the electronic processing of the civil penalty imposed under
+32 subsection (a).
+33 (c) A county or municipality must apply at least fifty percent
+34 (50%) of the amount of the civil penalty imposed under subsection
+35 (a) to defray the cost to install, operate, and maintain an automated
+36 traffic enforcement safety device.
+37 (d) The remaining money from the civil penalty imposed under
+38 subsection (a) must be transferred to the general fund of the county
+39 or municipality to be used for public safety and infrastructure.
+40 Sec. 14. (a) It is a defense under this chapter if any of the
+41 following apply:
+42 (1) The owner provides an affidavit signed under the penalty
+2026 IN 1292—LS 6313/DI 137
+
+10
+1 of perjury stating:
+2 (A) the owner of the motor vehicle was engaged in the
+3 business of renting or leasing vehicles under written
+4 agreements;
+5 (B) the motor vehicle was in the care, custody, or control
+6 of an individual other than the owner or an employee of
+7 the owner under a written agreement for the rental or
+8 lease of the motor vehicle for a period of not more than
+9 sixty (60) days; and
+10 (C) the name and address of the individual who was
+11 renting or leasing the motor vehicle;
+12 at the time of the alleged violation.
+13 (2) The owner provides an affidavit signed under the penalty
+14 of perjury stating:
+15 (A) the dealer license plate displayed by the motor vehicle
+16 was issued to a person licensed under IC 9-32-6;
+17 (B) the motor vehicle was in the care, custody, or control
+18 of an individual other than the owner or an employee of
+19 the owner of the motor vehicle using the dealer license
+20 plate as authorized under IC 9-32-6-2 or IC 9-32-6-7; and
+21 (C) the name and address of the individual who was using
+22 the motor vehicle;
+23 at the time of the alleged violation.
+24 (3) If the owner provides an affidavit signed under the penalty
+25 of perjury stating the owner was not operating the motor
+26 vehicle at the time of the alleged violation and the name and
+27 address of the individual operating the motor vehicle at the
+28 time of the alleged violation.
+29 (4) If the owner provides an affidavit signed under the penalty
+30 of perjury stating that:
+31 (A) the motor vehicle; or
+32 (B) the license plate of the motor vehicle;
+33 was stolen before the alleged violation occurred and was not
+34 under the control or possession of the owner at the time of the
+35 alleged violation.
+36 (5) The owner was driving an authorized emergency vehicle
+37 and did not endanger life or property.
+38 (6) The owner was complying with a lawful order or direction
+39 of a police officer.
+40 (7) The owner yielded the right-of-way to an authorized
+41 emergency vehicle.
+42 (8) The owner was part of a funeral procession.
+2026 IN 1292—LS 6313/DI 137
+
+11
+1 (9) A traffic citation was issued to the operator of the motor
+2 vehicle, who was not the owner of the motor vehicle, for the
+3 ordinance violation by a police officer.
+4 (b) If the owner of a motor vehicle submits the evidence
+5 required under subsection (a)(1) through (a)(3), the court shall
+6 send by first class mail notice of the violation to the individual
+7 identified as the operator of the motor vehicle at the time of the
+8 violation.
+9 (c) Proof provided under subsection (a)(1) through (a)(3) creates
+10 a rebuttable presumption that the individual identified by the
+11 owner as the operator of the motor vehicle at the time of the
+12 violation was the individual operating the motor vehicle at the time
+13 of the violation.
+14 (d) In addition to an affidavit described in subsection (a)(4), the
+15 owner must submit proof that a police report was filed concerning
+16 the stolen motor vehicle or stolen license plate.
+17 Sec. 15. (a) Subject to the requirements under IC 36-1-6, a
+18 county or municipality shall send by first class mail a notice to the
+19 owner of the motor vehicle that the owner failed to contest the
+20 violation or pay the civil penalty under this chapter.
+21 (b) A notice under subsection (a) must inform an owner of the
+22 following:
+23 (1) That a referral to suspend the registration of the motor
+24 vehicle under section 16 of this chapter will be sent to the
+25 bureau not later than thirty (30) days after the notice under
+26 subsection (a) is mailed if the violation is not paid.
+27 (2) That a referral under section 16 of this chapter will result
+28 in the suspension of the registration of the motor vehicle.
+29 Sec. 16. (a) A county or municipality shall give a written referral
+30 to suspend the registration of a motor vehicle to the bureau not
+31 later than thirty (30) days after the notice under section 15 of this
+32 chapter is mailed to the owner of the motor vehicle if the owner has
+33 not:
+34 (1) contested the ordinance violation; or
+35 (2) paid the civil penalty.
+36 (b) A referral under subsection (a) must include:
+37 (1) information regarding the name of the owner of the motor
+38 vehicle, the license plate number, and registration year;
+39 (2) the date, time, and location of the violation;
+40 (3) the date when the notice required under section 15 of this
+41 chapter was mailed; and
+42 (4) the seal of the local authority.
+2026 IN 1292—LS 6313/DI 137
+
+12
+1 Sec. 17. (a) If the bureau receives a referral under section 16 of
+2 this chapter, the bureau shall immediately suspend the registration
+3 of the motor vehicle.
+4 (b) The bureau shall send by first class mail a written notice to
+5 the owner not later than thirty (30) days after receiving a referral
+6 under section 16 of this chapter that informs the owner of the
+7 motor vehicle of:
+8 (1) the suspension of the registration of the motor vehicle;
+9 (2) the reason for the suspension; and
+10 (3) the process by which to have the registration of the motor
+11 vehicle reinstated.
+12 Sec. 18. The bureau shall reinstate the registration of a motor
+13 vehicle that is suspended under this chapter if the owner presents
+14 the bureau with proof that:
+15 (1) the civil penalty; and
+16 (2) the reinstatement fee under IC 9-18.1-3-8.5(b);
+17 is paid.
+18 Sec. 19. (a) A recorded image produced by an automated traffic
+19 enforcement safety device that does not show an alleged violation
+20 must be destroyed not later than thirty (30) days after the image is
+21 recorded, unless otherwise determined by a court order.
+22 (b) A recorded image produced by an automated traffic
+23 enforcement safety device that shows an alleged violation must be
+24 destroyed not more than ninety (90) days after the final disposition
+25 of the proceeding or payment of the civil penalty, unless otherwise
+26 determined by a court order.
+27 Sec. 20. (a) The bureau may not assess points under the point
+28 system for a violation under this chapter.
+29 (b) A violation under this chapter is not considered to be a
+30 traffic offense (as defined in IC 9-13-2-183).
+31 (c) Information concerning a violation under this chapter may
+32 not be included on a driving record established and maintained by
+33 the bureau.
+34 (d) A violation under this chapter may not be used to determine
+35 rates for motor vehicle insurance.
+36 SECTION 11. IC 9-21-5-6, AS AMENDED BY P.L.49-2024,
+37 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 6. (a) Except as provided in subsections (e) and
+39 (f), whenever a local authority in the authority's jurisdiction determines
+40 that the maximum speed permitted under this chapter is greater or less
+41 than reasonable and safe under the conditions found to exist on a
+42 highway or part of a highway, the local authority may determine and
+2026 IN 1292—LS 6313/DI 137
+
+13
+1 declare a reasonable and safe maximum limit on the highway. The
+2 maximum limit declared under this section may do any of the
+3 following:
+4 (1) Decrease the limit within urban districts, but not to less than
+5 twenty (20) miles per hour.
+6 (2) Increase the limit within an urban district, but not to more than
+7 fifty-five (55) miles per hour during daytime and fifty (50) miles
+8 per hour during nighttime.
+9 (3) Decrease the limit outside an urban district, but not to less
+10 than thirty (30) miles per hour.
+11 (4) Decrease the limit in an alley, but to not less than five (5)
+12 miles per hour.
+13 (5) Increase the limit in an alley, but to not more than twenty (20)
+14 miles per hour.
+15 The local authority must perform an engineering and traffic
+16 investigation before a determination may be made to change a speed
+17 limit under subdivision (2), (3), (4), or (5) or before the speed limit on
+18 a highway with a functional classification of arterial or major collector
+19 within an urban district may be decreased to less than twenty-five (25)
+20 miles per hour under subdivision (1). An engineering and traffic
+21 investigation is not required to decrease the speed limit to twenty (20)
+22 miles per hour on a highway with a functional classification of minor
+23 collector or local road in an urban district.
+24 (b) Except as provided in subsection (f), a local authority in the
+25 authority's jurisdiction shall determine by an engineering and traffic
+26 investigation the proper maximum speed for all local streets and shall
+27 declare a reasonable and safe maximum speed permitted under this
+28 chapter for an urban district. However, an engineering and traffic study
+29 is not required to be performed for the local streets in an urban district
+30 under this subsection if the local authority determines that the proper
+31 maximum speed in the urban district is not less than twenty-five (25)
+32 miles per hour.
+33 (c) An altered limit established under this section is effective at all
+34 times or during hours of darkness or at other times as may be
+35 determined when appropriate signs giving notice of the altered limit are
+36 erected on the street or highway.
+37 (d) Except as provided in this subsection and notwithstanding
+38 IC 9-21-3.6 or IC 36-1-3-8(a), a local authority may not alter a speed
+39 limit on a highway or extension of a highway in the state highway
+40 system. A city or town may establish speed limits on state highways
+41 upon which a school is located. However, a speed limit established
+42 under this subsection is valid only if the following conditions exist:
+2026 IN 1292—LS 6313/DI 137
+
+14
+1 (1) The limit is not less than twenty (20) miles per hour.
+2 (2) The limit is imposed only in the immediate vicinity of the
+3 school.
+4 (3) Children are present.
+5 (4) The speed zone is properly signed. There must be:
+6 (A) a sign located:
+7 (i) where the reduced speed zone begins; or
+8 (ii) as near as practical to the point where the reduced speed
+9 zone begins;
+10 indicating the reduced speed limit; and
+11 (B) a sign located at the end of the reduced speed zone
+12 indicating:
+13 (i) the speed limit for the section of highway that follows; or
+14 (ii) the end of the reduced speed zone.
+15 (5) The Indiana department of transportation has been notified of
+16 the limit imposed by certified mail.
+17 (e) A local authority may decrease a limit on a street to not less than
+18 fifteen (15) miles per hour if the following conditions exist:
+19 (1) The street is located within a park or playground established
+20 under IC 36-10.
+21 (2) The:
+22 (A) board established under IC 36-10-3;
+23 (B) board established under IC 36-10-4; or
+24 (C) park authority established under IC 36-10-5;
+25 requests the local authority to decrease the limit.
+26 (3) The speed zone is properly signed.
+27 (f) A city, town, or county may establish speed limits on a street or
+28 highway upon which a school is located if the street or highway is
+29 under the jurisdiction of the city, town, or county, respectively.
+30 However, a speed limit established under this subsection is valid only
+31 if the following conditions exist:
+32 (1) The limit is not less than twenty (20) miles per hour.
+33 (2) The limit is imposed only in the immediate vicinity of the
+34 school.
+35 (3) Children are present.
+36 (4) The speed zone is properly signed. There must be:
+37 (A) a sign located where the reduced speed zone begins or as
+38 near as practical to the point where the reduced speed zone
+39 begins indicating the reduced speed limit and a sign located at
+40 the end of the reduced speed zone indicating the end of the
+41 reduced speed zone; and
+42 (B) if the school operates on a twelve (12) month schedule, a
+2026 IN 1292—LS 6313/DI 137
+
+15
+1 sign indicating that the school is an all year school.
+2 Notwithstanding IC 36-1-3-8(a), a city, town, or county may
+3 establish speed limits on a street or highway upon which a school
+4 is located if the street or highway is under the jurisdiction of the
+5 city, town, or county, respectively, under IC 9-21-3.6.
+6 (g) Except as provided in subsection (h), a person who exceeds a
+7 speed limit established by a local authority under this section commits
+8 a Class C infraction.
+9 (h) A person who exceeds a speed limit that is established under
+10 subsection (d) or (f) commits a Class B infraction.
+11 SECTION 12. IC 9-21-12-1, AS AMENDED BY P.L.144-2019,
+12 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 1. (a) A person who drives a vehicle that:
+14 (1) meets or overtakes from any direction a school bus stopped on
+15 a roadway or a private road and is not stopped before reaching the
+16 school bus when the arm signal device specified in IC 9-21-12-13
+17 is in the device's extended position; or
+18 (2) proceeds before the arm signal device is no longer extended;
+19 commits a Class A infraction.
+20 (b) In addition to any other penalty imposed under this section, the
+21 court may suspend the person's driving privileges:
+22 (1) for ninety (90) days; or
+23 (2) if the person has committed at least one (1) previous offense
+24 under this section or IC 9-21-8-52(b), for one (1) year.
+25 (c) This section is applicable only if the school bus is in substantial
+26 compliance with the markings required by the state school bus
+27 committee.
+28 (d) There is a rebuttable presumption that the owner of the vehicle
+29 involved in the violation of this section committed the violation. This
+30 presumption does not apply to the owner of a vehicle involved in the
+31 violation of this section if the owner routinely engages in the business
+32 of renting the vehicle for periods of thirty (30) days or less.
+33 (e) A violation of subsection (a) may be enforced under
+34 IC 9-21-3.6.
+35 SECTION 13. IC 9-30-3-14, AS AMENDED BY P.L.111-2021,
+36 SECTION 87, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 14. This section does not apply to a violation of
+38 an ordinance adopted under IC 9-21-3.6. If a court convicts a person
+39 for a moving traffic offense and the person is known or believed by the
+40 court not to be the owner of the motor vehicle, the court shall, within
+41 seven (7) days after entering the conviction, deposit with the United
+42 States Postal Service, first class postage prepaid, notice addressed to
+2026 IN 1292—LS 6313/DI 137
+
+16
+1 the owner of the motor vehicle giving the owner the following
+2 information:
+3 (1) The name and address of the person convicted.
+4 (2) The name and address of the owner of the motor vehicle.
+5 (3) The offense upon which the conviction was made.
+6 (4) The date of arrest of the person convicted and the location of
+7 the place of the offense.
+8 (5) The license plate number of the motor vehicle.
+9 (6) The driver's or chauffeur's license number of the person
+10 convicted.
+11 (7) The date of the conviction and the name of the court making
+12 the conviction.
+13 SECTION 14. IC 20-27-10-3.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. A school corporation may use
+16 an automated traffic enforcement safety device on a school bus in
+17 accordance with IC 9-21-3.6.
+18 SECTION 15. IC 27-1-22-29 IS ADDED TO THE INDIANA
+19 CODE AS A NEW SECTION TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 29. (a) As used in this section,
+21 "motor vehicle insurance" means any type of insurance described
+22 in IC 27-1-5-1, Class 2(f).
+23 (b) As used in this section, "rating plan" means the rating
+24 schedule or rating plan of an insurer concerning premium rates for
+25 motor vehicle insurance that has been filed with the commissioner
+26 and is in effect under section 4 of this chapter.
+27 (c) An insurer may not set the premium rate for a policy of
+28 motor vehicle insurance for an individual who has committed a
+29 violation under:
+30 (1) IC 9-21-3.6; or
+31 (2) IC 9-21-12-1(a) enforced under IC 9-21-3.6;
+32 at an amount higher than the applicable rate set forth in the rating
+33 plan due to the fact that the individual has committed a violation
+34 of an ordinance adopted under IC 9-21-3.6, or of IC 9-21-12-1(a)
+35 enforced under IC 9-21-3.6.
+36 (d) A violation of this section is an unfair and deceptive act or
+37 practice in the business of insurance under IC 27-4-1-4.
+38 SECTION 16. IC 27-4-1-4, AS AMENDED BY P.L.158-2024,
+39 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+40 JULY 1, 2026]: Sec. 4. (a) The following are hereby defined as unfair
+41 methods of competition and unfair and deceptive acts and practices in
+42 the business of insurance:
+2026 IN 1292—LS 6313/DI 137
+
+17
+1 (1) Making, issuing, circulating, or causing to be made, issued, or
+2 circulated, any estimate, illustration, circular, or statement:
+3 (A) misrepresenting the terms of any policy issued or to be
+4 issued or the benefits or advantages promised thereby or the
+5 dividends or share of the surplus to be received thereon;
+6 (B) making any false or misleading statement as to the
+7 dividends or share of surplus previously paid on similar
+8 policies;
+9 (C) making any misleading representation or any
+10 misrepresentation as to the financial condition of any insurer,
+11 or as to the legal reserve system upon which any life insurer
+12 operates;
+13 (D) using any name or title of any policy or class of policies
+14 misrepresenting the true nature thereof; or
+15 (E) making any misrepresentation to any policyholder insured
+16 in any company for the purpose of inducing or tending to
+17 induce such policyholder to lapse, forfeit, or surrender the
+18 policyholder's insurance.
+19 (2) Making, publishing, disseminating, circulating, or placing
+20 before the public, or causing, directly or indirectly, to be made,
+21 published, disseminated, circulated, or placed before the public,
+22 in a newspaper, magazine, or other publication, or in the form of
+23 a notice, circular, pamphlet, letter, or poster, or over any radio or
+24 television station, or in any other way, an advertisement,
+25 announcement, or statement containing any assertion,
+26 representation, or statement with respect to any person in the
+27 conduct of the person's insurance business, which is untrue,
+28 deceptive, or misleading.
+29 (3) Making, publishing, disseminating, or circulating, directly or
+30 indirectly, or aiding, abetting, or encouraging the making,
+31 publishing, disseminating, or circulating of any oral or written
+32 statement or any pamphlet, circular, article, or literature which is
+33 false, or maliciously critical of or derogatory to the financial
+34 condition of an insurer, and which is calculated to injure any
+35 person engaged in the business of insurance.
+36 (4) Entering into any agreement to commit, or individually or by
+37 a concerted action committing any act of boycott, coercion, or
+38 intimidation resulting or tending to result in unreasonable
+39 restraint of, or a monopoly in, the business of insurance.
+40 (5) Filing with any supervisory or other public official, or making,
+41 publishing, disseminating, circulating, or delivering to any person,
+42 or placing before the public, or causing directly or indirectly, to
+2026 IN 1292—LS 6313/DI 137
+
+18
+1 be made, published, disseminated, circulated, delivered to any
+2 person, or placed before the public, any false statement of
+3 financial condition of an insurer with intent to deceive. Making
+4 any false entry in any book, report, or statement of any insurer
+5 with intent to deceive any agent or examiner lawfully appointed
+6 to examine into its condition or into any of its affairs, or any
+7 public official to which such insurer is required by law to report,
+8 or which has authority by law to examine into its condition or into
+9 any of its affairs, or, with like intent, willfully omitting to make a
+10 true entry of any material fact pertaining to the business of such
+11 insurer in any book, report, or statement of such insurer.
+12 (6) Issuing or delivering or permitting agents, officers, or
+13 employees to issue or deliver, agency company stock or other
+14 capital stock, or benefit certificates or shares in any common law
+15 corporation, or securities or any special or advisory board
+16 contracts or other contracts of any kind promising returns and
+17 profits as an inducement to insurance.
+18 (7) Making or permitting any of the following:
+19 (A) Unfair discrimination between individuals of the same
+20 class and equal expectation of life in the rates or assessments
+21 charged for any contract of life insurance or of life annuity or
+22 in the dividends or other benefits payable thereon, or in any
+23 other of the terms and conditions of such contract. However,
+24 in determining the class, consideration may be given to the
+25 nature of the risk, plan of insurance, the actual or expected
+26 expense of conducting the business, or any other relevant
+27 factor.
+28 (B) Unfair discrimination between individuals of the same
+29 class involving essentially the same hazards in the amount of
+30 premium, policy fees, assessments, or rates charged or made
+31 for any policy or contract of accident or health insurance or in
+32 the benefits payable thereunder, or in any of the terms or
+33 conditions of such contract, or in any other manner whatever.
+34 However, in determining the class, consideration may be given
+35 to the nature of the risk, the plan of insurance, the actual or
+36 expected expense of conducting the business, or any other
+37 relevant factor.
+38 (C) Excessive or inadequate charges for premiums, policy
+39 fees, assessments, or rates, or making or permitting any unfair
+40 discrimination between persons of the same class involving
+41 essentially the same hazards, in the amount of premiums,
+42 policy fees, assessments, or rates charged or made for:
+2026 IN 1292—LS 6313/DI 137
+
+19
+1 (i) policies or contracts of reinsurance or joint reinsurance,
+2 or abstract and title insurance;
+3 (ii) policies or contracts of insurance against loss or damage
+4 to aircraft, or against liability arising out of the ownership,
+5 maintenance, or use of any aircraft, or of vessels or craft,
+6 their cargoes, marine builders' risks, marine protection and
+7 indemnity, or other risks commonly insured under marine,
+8 as distinguished from inland marine, insurance; or
+9 (iii) policies or contracts of any other kind or kinds of
+10 insurance whatsoever.
+11 However, nothing contained in clause (C) shall be construed to
+12 apply to any of the kinds of insurance referred to in clauses (A)
+13 and (B) nor to reinsurance in relation to such kinds of insurance.
+14 Nothing in clause (A), (B), or (C) shall be construed as making or
+15 permitting any excessive, inadequate, or unfairly discriminatory
+16 charge or rate or any charge or rate determined by the department
+17 or commissioner to meet the requirements of any other insurance
+18 rate regulatory law of this state.
+19 (8) Except as otherwise expressly provided by IC 27-1-47 or
+20 another law, knowingly permitting or offering to make or making
+21 any contract or policy of insurance of any kind or kinds
+22 whatsoever, including but not in limitation, life annuities, or
+23 agreement as to such contract or policy other than as plainly
+24 expressed in such contract or policy issued thereon, or paying or
+25 allowing, or giving or offering to pay, allow, or give, directly or
+26 indirectly, as inducement to such insurance, or annuity, any rebate
+27 of premiums payable on the contract, or any special favor or
+28 advantage in the dividends, savings, or other benefits thereon, or
+29 any valuable consideration or inducement whatever not specified
+30 in the contract or policy; or giving, or selling, or purchasing or
+31 offering to give, sell, or purchase as inducement to such insurance
+32 or annuity or in connection therewith, any stocks, bonds, or other
+33 securities of any insurance company or other corporation,
+34 association, limited liability company, or partnership, or any
+35 dividends, savings, or profits accrued thereon, or anything of
+36 value whatsoever not specified in the contract. Nothing in this
+37 subdivision and subdivision (7) shall be construed as including
+38 within the definition of discrimination or rebates any of the
+39 following practices:
+40 (A) Paying bonuses to policyholders or otherwise abating their
+41 premiums in whole or in part out of surplus accumulated from
+42 nonparticipating insurance, so long as any such bonuses or
+2026 IN 1292—LS 6313/DI 137
+
+20
+1 abatement of premiums are fair and equitable to policyholders
+2 and for the best interests of the company and its policyholders.
+3 (B) In the case of life insurance policies issued on the
+4 industrial debit plan, making allowance to policyholders who
+5 have continuously for a specified period made premium
+6 payments directly to an office of the insurer in an amount
+7 which fairly represents the saving in collection expense.
+8 (C) Readjustment of the rate of premium for a group insurance
+9 policy based on the loss or expense experience thereunder, at
+10 the end of the first year or of any subsequent year of insurance
+11 thereunder, which may be made retroactive only for such
+12 policy year.
+13 (D) Paying by an insurer or insurance producer thereof duly
+14 licensed as such under the laws of this state of money,
+15 commission, or brokerage, or giving or allowing by an insurer
+16 or such licensed insurance producer thereof anything of value,
+17 for or on account of the solicitation or negotiation of policies
+18 or other contracts of any kind or kinds, to a broker, an
+19 insurance producer, or a solicitor duly licensed under the laws
+20 of this state, but such broker, insurance producer, or solicitor
+21 receiving such consideration shall not pay, give, or allow
+22 credit for such consideration as received in whole or in part,
+23 directly or indirectly, to the insured by way of rebate.
+24 (9) Requiring, as a condition precedent to loaning money upon the
+25 security of a mortgage upon real property, that the owner of the
+26 property to whom the money is to be loaned negotiate any policy
+27 of insurance covering such real property through a particular
+28 insurance producer or broker or brokers. However, this
+29 subdivision shall not prevent the exercise by any lender of the
+30 lender's right to approve or disapprove of the insurance company
+31 selected by the borrower to underwrite the insurance.
+32 (10) Entering into any contract, combination in the form of a trust
+33 or otherwise, or conspiracy in restraint of commerce in the
+34 business of insurance.
+35 (11) Monopolizing or attempting to monopolize or combining or
+36 conspiring with any other person or persons to monopolize any
+37 part of commerce in the business of insurance. However,
+38 participation as a member, director, or officer in the activities of
+39 any nonprofit organization of insurance producers or other
+40 workers in the insurance business shall not be interpreted, in
+41 itself, to constitute a combination in restraint of trade or as
+42 combining to create a monopoly as provided in this subdivision
+2026 IN 1292—LS 6313/DI 137
+
+21
+1 and subdivision (10). The enumeration in this chapter of specific
+2 unfair methods of competition and unfair or deceptive acts and
+3 practices in the business of insurance is not exclusive or
+4 restrictive or intended to limit the powers of the commissioner or
+5 department or of any court of review under section 8 of this
+6 chapter.
+7 (12) Requiring as a condition precedent to the sale of real or
+8 personal property under any contract of sale, conditional sales
+9 contract, or other similar instrument or upon the security of a
+10 chattel mortgage, that the buyer of such property negotiate any
+11 policy of insurance covering such property through a particular
+12 insurance company, insurance producer, or broker or brokers.
+13 However, this subdivision shall not prevent the exercise by any
+14 seller of such property or the one making a loan thereon of the
+15 right to approve or disapprove of the insurance company selected
+16 by the buyer to underwrite the insurance.
+17 (13) Issuing, offering, or participating in a plan to issue or offer,
+18 any policy or certificate of insurance of any kind or character as
+19 an inducement to the purchase of any property, real, personal, or
+20 mixed, or services of any kind, where a charge to the insured is
+21 not made for and on account of such policy or certificate of
+22 insurance. However, this subdivision shall not apply to any of the
+23 following:
+24 (A) Insurance issued to credit unions or members of credit
+25 unions in connection with the purchase of shares in such credit
+26 unions.
+27 (B) Insurance employed as a means of guaranteeing the
+28 performance of goods and designed to benefit the purchasers
+29 or users of such goods.
+30 (C) Title insurance.
+31 (D) Insurance written in connection with an indebtedness and
+32 intended as a means of repaying such indebtedness in the
+33 event of the death or disability of the insured.
+34 (E) Insurance provided by or through motorists service clubs
+35 or associations.
+36 (F) Insurance that is provided to the purchaser or holder of an
+37 air transportation ticket and that:
+38 (i) insures against death or nonfatal injury that occurs during
+39 the flight to which the ticket relates;
+40 (ii) insures against personal injury or property damage that
+41 occurs during travel to or from the airport in a common
+42 carrier immediately before or after the flight;
+2026 IN 1292—LS 6313/DI 137
+
+22
+1 (iii) insures against baggage loss during the flight to which
+2 the ticket relates; or
+3 (iv) insures against a flight cancellation to which the ticket
+4 relates.
+5 (14) Refusing, because of the for-profit status of a hospital or
+6 medical facility, to make payments otherwise required to be made
+7 under a contract or policy of insurance for charges incurred by an
+8 insured in such a for-profit hospital or other for-profit medical
+9 facility licensed by the Indiana department of health.
+10 (15) Refusing to insure an individual, refusing to continue to issue
+11 insurance to an individual, limiting the amount, extent, or kind of
+12 coverage available to an individual, or charging an individual a
+13 different rate for the same coverage, solely because of that
+14 individual's blindness or partial blindness, except where the
+15 refusal, limitation, or rate differential is based on sound actuarial
+16 principles or is related to actual or reasonably anticipated
+17 experience.
+18 (16) Committing or performing, with such frequency as to
+19 indicate a general practice, unfair claim settlement practices (as
+20 defined in section 4.5 of this chapter).
+21 (17) Between policy renewal dates, unilaterally canceling an
+22 individual's coverage under an individual or group health
+23 insurance policy solely because of the individual's medical or
+24 physical condition.
+25 (18) Using a policy form or rider that would permit a cancellation
+26 of coverage as described in subdivision (17).
+27 (19) Violating IC 27-1-22-25, IC 27-1-22-26, or IC 27-1-22-26.1
+28 concerning motor vehicle insurance rates.
+29 (20) Violating IC 27-8-21-2 concerning advertisements referring
+30 to interest rate guarantees.
+31 (21) Violating IC 27-8-24.3 concerning insurance and health plan
+32 coverage for victims of abuse.
+33 (22) Violating IC 27-8-26 concerning genetic screening or testing.
+34 (23) Violating IC 27-1-15.6-3(b) concerning licensure of
+35 insurance producers.
+36 (24) Violating IC 27-1-38 concerning depository institutions.
+37 (25) Violating IC 27-8-28-17(c) or IC 27-13-10-8(c) concerning
+38 the resolution of an appealed grievance decision.
+39 (26) Violating IC 27-8-5-2.5(e) through IC 27-8-5-2.5(j) (expired
+40 July 1, 2007, and removed) or IC 27-8-5-19.2 (expired July 1,
+41 2007, and repealed).
+42 (27) Violating IC 27-2-21 concerning use of credit information.
+2026 IN 1292—LS 6313/DI 137
+
+23
+1 (28) Violating IC 27-4-9-3 concerning recommendations to
+2 consumers.
+3 (29) Engaging in dishonest or predatory insurance practices in
+4 marketing or sales of insurance to members of the United States
+5 Armed Forces as:
+6 (A) described in the federal Military Personnel Financial
+7 Services Protection Act, P.L.109-290; or
+8 (B) defined in rules adopted under subsection (b).
+9 (30) Violating IC 27-8-19.8-20.1 concerning stranger originated
+10 life insurance.
+11 (31) Violating IC 27-2-22 concerning retained asset accounts.
+12 (32) Violating IC 27-8-5-29 concerning health plans offered
+13 through a health benefit exchange (as defined in IC 27-19-2-8).
+14 (33) Violating a requirement of the federal Patient Protection and
+15 Affordable Care Act (P.L. 111-148), as amended by the federal
+16 Health Care and Education Reconciliation Act of 2010 (P.L.
+17 111-152), that is enforceable by the state.
+18 (34) After June 30, 2015, violating IC 27-2-23 concerning
+19 unclaimed life insurance, annuity, or retained asset account
+20 benefits.
+21 (35) Willfully violating IC 27-1-12-46 concerning a life insurance
+22 policy or certificate described in IC 27-1-12-46(a).
+23 (36) Violating IC 27-1-37-7 concerning prohibiting the disclosure
+24 of health care service claims data.
+25 (37) Violating IC 27-4-10-10 concerning virtual claims payments.
+26 (38) Violating IC 27-1-24.5 concerning pharmacy benefit
+27 managers.
+28 (39) Violating IC 27-7-17-16 or IC 27-7-17-17 concerning the
+29 marketing of travel insurance policies.
+30 (40) Violating IC 27-1-49 concerning individual prescription drug
+31 rebates.
+32 (41) Violating IC 27-1-50 concerning group prescription drug
+33 rebates.
+34 (42) Violating IC 27-1-22-29 concerning the premium rate for
+35 a policy of motor vehicle insurance if an individual has
+36 committed a violation under IC 9-21-3.6 or enforced under
+37 IC 9-21-3.6.
+38 (b) Except with respect to federal insurance programs under
+39 Subchapter III of Chapter 19 of Title 38 of the United States Code, the
+40 commissioner may, consistent with the federal Military Personnel
+41 Financial Services Protection Act (10 U.S.C. 992 note), adopt rules
+42 under IC 4-22-2 to:
+2026 IN 1292—LS 6313/DI 137
+
+24
+1 (1) define; and
+2 (2) while the members are on a United States military installation
+3 or elsewhere in Indiana, protect members of the United States
+4 Armed Forces from;
+5 dishonest or predatory insurance practices.
+6 SECTION 17. IC 34-6-2.1-129, AS ADDED BY P.L.186-2025,
+7 SECTION 176, IS AMENDED TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 129. "Moving traffic violation", for
+9 purposes of IC 34-28-5, means a violation of:
+10 (1) a statute defining an infraction; or
+11 (2) an ordinance, other than a violation under IC 9-21-3.6;
+12 that applies when a motor vehicle is in motion.
+13 SECTION 18. IC 34-28-5-5, AS AMENDED BY P.L.173-2025,
+14 SECTION 34, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 5. (a) A defendant against whom a judgment is
+16 entered is liable for costs. Costs are part of the judgment and may not
+17 be suspended except under IC 9-30-3-12. Whenever a judgment is
+18 entered against a person for the commission of two (2) or more civil
+19 violations (infractions or ordinance violations), the court may waive the
+20 person's liability for costs for all but one (1) of the violations. This
+21 subsection does not apply to judgments entered for violations
+22 constituting:
+23 (1) Class D infractions; or
+24 (2) Class C infractions for unlawfully parking in a space reserved
+25 for a person with a physical disability under IC 5-16-9-5 or
+26 IC 5-16-9-8.
+27 (b) If a judgment is entered:
+28 (1) for a violation constituting:
+29 (A) a Class D infraction; or
+30 (B) a Class C infraction for unlawfully parking in a space
+31 reserved for a person with a physical disability under
+32 IC 5-16-9-5 or IC 5-16-9-8; or
+33 (2) in favor of the defendant in any case;
+34 the defendant is not liable for costs.
+35 (c) Except for costs, and except as provided in subsections (e), and
+36 (f), and (g), and IC 9-21-5-11(e), the funds collected as judgments for
+37 violations of statutes defining infractions shall be deposited in the state
+38 general fund.
+39 (d) A judgment may be entered against a defendant under this
+40 section or section 4 of this chapter upon a finding by the court that the
+41 defendant:
+42 (1) violated:
+2026 IN 1292—LS 6313/DI 137
+
+25
+1 (A) a statute defining an infraction; or
+2 (B) an ordinance; or
+3 (2) consents to entry of judgment for the plaintiff upon a pleading
+4 of nolo contendere for a moving traffic violation.
+5 (e) The funds collected for an infraction judgment described in
+6 section 4(h) of this chapter shall be transferred to a dedicated county
+7 fund. The money in the dedicated county fund does not revert to the
+8 county general fund or state general fund and may be used, after
+9 appropriation by the county fiscal body, only for the following
+10 purposes:
+11 (1) To pay compensation of commissioners appointed under
+12 IC 33-33-49.
+13 (2) To pay costs of the county's guardian ad litem program.
+14 (f) The funds collected for an infraction judgment described in
+15 section 4(i) of this chapter shall be transferred to a dedicated toll
+16 revenue fund created as part of a project that is located within a
+17 metropolitan planning area (as defined by 23 U.S.C. 134) and that
+18 connects the state of Indiana with the commonwealth of Kentucky. The
+19 money in the fund does not revert to the county general fund or state
+20 general fund and may be used only to pay the cost of operating,
+21 maintaining, and repairing the tolling system for a project that is
+22 located within a metropolitan planning area (as defined by 23 U.S.C.
+23 134) and that connects the state of Indiana with the commonwealth of
+24 Kentucky, including major repairs, replacements, and improvements.
+25 (g) This subsection applies only to a violation of IC 9-21-12-1(a)
+26 that is enforced through IC 9-21-3.6. Notwithstanding subsection
+27 (c), a civil penalty collected for a violation of IC 9-21-12-1(a) as a
+28 judgment against a person to whom this subsection applies shall be
+29 transferred in accordance with IC 9-21-3.6. To the extent a person
+30 to whom this subsection applies is liable for costs for a violation of
+31 IC 9-21-12-1(a), the costs may be deducted only from the judgment
+32 and may not cause the person to be liable for an amount greater
+33 than the civil penalty under IC 9-21-3.6.
+34 SECTION 19. IC 36-1-6-3 IS AMENDED TO READ AS
+35 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) Certain
+36 ordinances may be enforced by a municipal corporation without
+37 proceeding in court through:
+38 (1) an admission of violation before the violations clerk under
+39 IC 33-36; or
+40 (2) administrative enforcement under section 9 of this chapter.
+41 (b) Except as provided in subsection (a), a proceeding to enforce an
+42 ordinance must be brought in accordance with IC 34-28-5, section 4 of
+2026 IN 1292—LS 6313/DI 137
+
+26
+1 this chapter, or both.
+2 (c) An ordinance defining a moving traffic violation may not be
+3 enforced under IC 33-36 and must be enforced in accordance with
+4 IC 34-28-5.
+5 (d) An ordinance adopted under IC 9-21-3.6 may be enforced
+6 under IC 33-36 or IC 34-28-5.
+2026 IN 1292—LS 6313/DI 137
+
+[DELETED:  A  I 9 I 9 I 9 c o m t a a e a o t6I]
+[DELETED:  p o I 9 h t m s f i I A A N S T R A F J 1 2 S 1 " f 1 2 S 1 ( E a o p i6I]
+[DELETED:  i A A N S T R A F J 1 2 S 1 " i f p o I 9 h t 6 I 9 A A B P 1 I A T R A F b i a a i c o i6I]
+[DELETED:  o p f b p l r F u i c w a c a c a o a a p i a c o F u i r a a f u i p n c w c i a a F u i p n t t o o t o6I]
+[DELETED:  t s d n a t u o a g 7 I 9 A A B P 1 I A T R A F A a r o p i u 8 I 9 I A T T I A A N S T R A F 9 I 9 A A B P 1 I A T R A F J 1 2 S 1 ( T s s b6I]
+[DELETED:  b s d a a b a c o r b a p o e b a c o n a m v i r u a o t6I]
+[DELETED:  m a p s t p a.( N I 3 a c I a m b t l b o t 7 A s c m e i a i o n p a a e o a a t.( a a m o a a w a i s f o a6I]
+[DELETED:  I a o m a a o u T a p o e b t c o T d t a v u s 1 o t6I]
+[DELETED:  c t t I M o U T s d u t c i t f T c o m i c w t b o o a s h u w a t t p w t s z b o h u w a e s ( i I 2 a h s ( d i6I]
+[DELETED:  t t p w t s z b t s l I t s o o  t e s d t t l e p o t c p i u6I]
+[DELETED:  o r o l v u w t n a a o t i w w T o y t r t a a6I]
+[DELETED:  I t o o a m v s t e6I]
+[DELETED:  A r i p b a a t 1 I 9 A A B P6I]
+[DELETED:  l d u t s m d a o t l a m p a e a t p h u s ( A e a t o d h o d o a o t a m b6I]
+[DELETED:  a s l a t e o t r s z t j o t c t o c r6I]
+[DELETED:  I 3 a c t o c m w t m r b t s s b A v o s ( m b e u6I]
+[DELETED:  o o t m v g t o t f T o c l o t p A A N S T R A F 1 I 2 I A T T I A A N S T R A F6I]
+[DELETED:  m a f o m s a t t o s o s p p o s m a m r o a s o i a o w a a o s c a a o t p i b w i u o a a o e t m r o t t r i u6I]
+[DELETED:  o p b t p a f s o I o d o p a o o o s o a s o a b6I]
+[DELETED:  p o c o a o k o k o c o p o i o a k o k o a i c o o c l l c o p o a t d o d o r a o t6I]
+[DELETED:  I t c o l i p i o t c f a s p m p a s u t l o t s o m o c o a k o k t a b a p o b o b H t o o c i r o c i t o c i t b o i H n o o i p o o t c a c i r o t o a6I]
+[DELETED:  i t b o i i n e o I e a a m o g t6I]
+[DELETED:  r f t s c s b o t b o p b e w t o i r t a o r a C o p w s f a t d c u a i o g h V I 2 c l o6I]
+[DELETED:  V I 2 c r t d i t f M P F V I 2 c h p o A J 3 2 v I 2 c l i a o r a a V I 2 c p b p o m v i i a i h E w r t f i p u f6I]
+[DELETED:  1 I A T R A F d n a t j e f v a p o f a p w a p d u6I]
+[DELETED:  b t c f b o f t f T p c o c a u f c t 1 I 3 I A T R A [ J 1 2 S 3 ( C m b e b a m c w6I]
+[DELETED: 6I]
