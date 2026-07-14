@@ -1,0 +1,1842 @@
+Title: SENATE BILL No. 171
+Official Title: SENATE BILL No. 171
+Number of Sections: 9
+Source: versions - Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+*ES0171.1*
+February 16, 2026
+ENGROSSED
+_____
+DIGEST OF SB 171 (Updated February 16, 2026 12:46 pm - DI 151)
+Citations Affected: IC 31-19; IC 31-34; IC 31-35.
+Synopsis: Family and children matters. Requires the local office of the
+department of child services to provide notice of an adoption petition
+to the court in which a CHINS proceeding is open or pending. Provides
+that the consent to adoption may be executed or acknowledged at any
+time after the birth of the child in the presence of an attorney, in
+person, or by video conferencing. Provides that a court may grant
+postadoption contact privileges if the child is at least 12 months of age.
+(Current law requires the child to be at least two years of age.) Provides
+certain exceptions to confidentiality requirements. Requires the
+department of child services (department) to consider certain factors
+when evaluating an out-of-home placement for a child in a child in
+need of services (CHINS) case. Provides that a placement with whom
+a child has resided with for at least 12 months, consecutively or
+nonconsecutively, is presumed to be an individual who has a significant
+(Continued next page)
+Effective: Upon passage.
+Johnson T, Walker G, Brown L,
+Ford J.D., Donato,
+Randolph Lonnie M
+(HOUSE SPONSOR — MCGUIRE)
+January 5, 2026, read first time and referred to Committee on Family and Children
+Services.
+January 12, 2026, amended, reported favorably — Do Pass.
+January 20, 2026, read second time, amended, ordered engrossed.
+January 21, 2026, engrossed.
+January 22, 2026, read third time, passed. Yeas 43, nays 0.
+HOUSE ACTION
+January 28, 2026, read first time and referred to Committee on Judiciary.
+February 16, 2026, amended, reported — Do Pass.
+ES 171—LS 6404/DI 148
+Digest Continued
+relationship with the child. Requires a court to write a formal order in
+certain circumstances and include specific information in the order.
+Provides that the objectives of the dispositional decree are not
+considered met solely because a court is prohibited from changing a
+child's placement under IC 31-34-23-6(g) and prohibits the court from
+considering certain information when deciding whether the objectives
+of the dispositional decree are met. Requires any party seeking a
+change in placement for certain children to file a motion with the court,
+provide notice to all persons affected, and inform all persons affected
+of the right to file a written objection within 15 days. (Current law only
+allows the department to file the motion for a change of placement.)
+Allows a court to rule on a party's motion for the change in placement
+without delay if exigent circumstances are alleged in the party's motion.
+Provides that, with certain exceptions, if a child is the subject of an
+adoption petition, the adoption petitioner is the child's current
+placement, and the adoption petitioner has been the child's placement
+for at least 12 months, the court shall not change the child's placement
+until the adoption petition has been ruled on. Provides that if the party
+seeking a change of placement is a parent, guardian ad litem, or a court
+appointed special advocate, the party must provide notice to the
+department of child services, and the department shall then provide
+notice of the motion to the child's out-of-home placement.
+EESS 117711——LLSS 66440044//DDII 114488
+February 16, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+SENATE BILL No. 171
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 31-19-2.5-3, AS AMENDED BY P.L.203-2021,
+2 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 3. (a) Except as provided in section 4 of this
+4 chapter, notice must be given to:
+5 (1) a person whose consent to adoption is required under
+6 IC 31-19-9-1;
+7 (2) a putative father who is entitled to notice under IC 31-19-4;
+8 (3) a grandparent described in IC 31-19-4.5-1(3) of a child sought
+9 to be adopted;
+10 (4) a licensed child placing agency of which the child is a ward;
+11 (5) if the child is the subject of an open or pending child in need
+12 of services proceeding under IC 31-34, the local office of the
+13 department of child services in the county in which the child in
+14 need of services proceeding was filed; and
+15 (6) if the child is a subject of an open or pending juvenile
+16 delinquency proceeding under IC 31-37, the entity, facility, or
+17 individual of which the child is a ward.
+ES 171—LS 6404/DI 148
+2
+1 (b) Proof of notice to those under subsection (a) shall be filed with
+2 the court in the adoption proceeding before the final adoption hearing
+3 can be scheduled.
+4 (c) Failure to provide notice under this section shall require setting
+5 aside the adoption decree if challenged by an entity or individual who
+6 did not receive notice as required by this section. An adoption decree
+7 may be challenged under this subsection for a period of not more than
+8 forty-five (45) days after the date the adoption decree is entered.
+9 (d) If notice is provided to the local office of the department of
+10 child services under subsection (a)(5), the local office of the
+11 department of child services shall provide notice to the court in
+12 which the child in need of services proceeding is open or pending.
+13 Notice under this subsection:
+14 (1) is solely for the purpose of allowing the court to notify the
+15 parties:
+16 (A) that an adoption petition has been filed; and
+17 (B) of the cause number and name of the petitioner for the
+18 adoption petition; and
+19 (2) must be provided to the court not later than seven (7)
+20 business days after the local office of the department of child
+21 services receives notice under subsection (a)(5).
+22 SECTION 2. IC 31-19-9-2, AS AMENDED BY P.L.89-2023,
+23 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 UPON PASSAGE]: Sec. 2. (a) The consent to adoption may be
+25 executed or acknowledged at any time after the birth of the child, either
+26 in the presence of:
+27 (1) the court, in person or by video conferencing;
+28 (2) an attorney, in person or by video conferencing;
+29 (2) (3) a notary public or other person authorized to take
+30 acknowledgments; or
+31 (3) (4) an authorized agent of:
+32 (A) the department; or
+33 (B) a licensed child placing agency.
+34 (b) The child's mother may not execute a consent to adoption before
+35 the birth of the child.
+36 (c) The child's father may execute a consent to adoption before the
+37 birth of the child if the consent to adoption:
+38 (1) is in writing;
+39 (2) is signed by the child's father in the presence of a notary
+40 public; and
+41 (3) contains an acknowledgment that:
+42 (A) the consent to adoption is irrevocable; and
+ES 171—LS 6404/DI 148
+3
+1 (B) the child's father will not receive notice of the adoption
+2 proceedings.
+3 (d) A child's father who consents to the adoption of the child under
+4 subsection (c) may not challenge or contest the child's adoption.
+5 (e) Except as provided in subsection (f) or (g), a person who
+6 executes a written consent to the adoption of a child may not execute
+7 a second or subsequent written consent to have another person adopt
+8 the child unless one (1) or more of the following apply:
+9 (1) Each original petitioner provides a written statement that the
+10 petitioner is not adopting the child.
+11 (2) The person consenting to the adoption has been permitted to
+12 withdraw the first consent to adoption under IC 31-19-10.
+13 (3) The court dismisses the petition for adoption filed by the
+14 original petitioner or petitioners for adoption based upon a
+15 showing, by clear and convincing evidence, that it is not in the
+16 best interests of the child that the petition for adoption be granted.
+17 (4) The court denies the petition to adopt the child filed by the
+18 original petitioner or petitioners for adoption.
+19 (f) The department may execute more than one (1) written consent
+20 to the adoption of a child if the department determines that the
+21 execution of more than one (1) written consent is in the best interests
+22 of the child.
+23 (g) The parents of a child who is a ward of the department may
+24 execute a second or subsequent consent if:
+25 (1) the court with jurisdiction over the child in need of services
+26 determines that adoption by the person to whom consents were
+27 originally signed is not in the child's best interest; or
+28 (2) if the child's placement with the person who has petitioned or
+29 intends to petition to adopt the child is disrupted.
+30 SECTION 3. IC 31-19-16-2, AS AMENDED BY P.L.128-2012,
+31 SECTION 57, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 UPON PASSAGE]: Sec. 2. A court may grant postadoption contact
+33 privileges if:
+34 (1) the court determines that the best interests of the child would
+35 be served by granting postadoption contact privileges;
+36 (2) the child is at least two (2) years twelve (12) months of age
+37 and the court finds that there is a significant emotional attachment
+38 between the child and the birth parent;
+39 (3) each adoptive parent consents to the granting of postadoption
+40 contact privileges;
+41 (4) the adoptive parents and the birth parents:
+42 (A) execute a postadoption contact agreement; and
+ES 171—LS 6404/DI 148
+4
+1 (B) file the agreement with the court;
+2 (5) the licensed child placing agency sponsoring the adoption and
+3 the child's court appointed special advocate or guardian ad litem
+4 appointed under IC 31-32-3 recommends to the court the
+5 postadoption contact agreement, or if there is no licensed child
+6 placing agency sponsoring the adoption, the local office or other
+7 agency that prepared an adoption report under IC 31-19-8-5 is
+8 informed of the contents of the postadoption contact agreement
+9 and comments on the agreement in the agency's report to the
+10 court;
+11 (6) consent to postadoption contact is obtained from the child if
+12 the child is at least twelve (12) years of age; and
+13 (7) the postadoption contact agreement is approved by the court.
+14 SECTION 4. IC 31-19-16-9, AS AMENDED BY P.L.113-2017,
+15 SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 UPON PASSAGE]: Sec. 9. Postadoption contact privileges are
+17 permissible without court approval in an adoption of a child who is less
+18 than two (2) years twelve (12) months of age upon the agreement of
+19 the adoptive parents and a birth parent. However, postadoption contact
+20 privileges under this section may not include visitation. A postadoption
+21 contact agreement under this section:
+22 (1) is not enforceable;
+23 (2) may include contact through photographs, written and verbal
+24 updates, and other forms of communication;
+25 (3) does not have to be in writing; and
+26 (4) does not affect the:
+27 (A) validity of a:
+28 (i) consent to an adoption; or
+29 (ii) waiver of notice; or
+30 (B) finality of the adoption.
+31 SECTION 5. IC 31-19-19-4, AS AMENDED BY P.L.186-2025,
+32 SECTION 152, IS AMENDED TO READ AS FOLLOWS
+33 [EFFECTIVE UPON PASSAGE]: Sec. 4. All papers, records, and
+34 information pertaining to the adoption, whether part of:
+35 (1) the permanent record of the court; or
+36 (2) a file in:
+37 (A) the division of vital records;
+38 (B) the department or local office;
+39 (C) a licensed child placing agency; or
+40 (D) a professional health care provider (as defined in
+41 IC 34-6-2.1-165);
+42 are confidential and may be disclosed only in accordance with
+ES 171—LS 6404/DI 148
+5
+1 IC 31-19-2.5-3, IC 31-19-17, this chapter, or IC 31-19-20 through
+2 IC 31-19-25.5.
+3 SECTION 6. IC 31-34-4-2, AS AMENDED BY P.L.186-2025,
+4 SECTION 159, IS AMENDED TO READ AS FOLLOWS
+5 [EFFECTIVE UPON PASSAGE]: Sec. 2. (a) If a child alleged to be a
+6 child in need of services is taken into custody under an order of the
+7 court under this chapter and the court orders out-of-home placement,
+8 the department is responsible for that placement and care and must
+9 consider placing the child with a:
+10 (1) suitable and willing relative; or
+11 (2) de facto custodian;
+12 before considering any other out-of-home placement.
+13 (b) The department shall consider placing a child described in
+14 subsection (a) with a relative related by blood, marriage, or adoption
+15 before considering any other placement of the child.
+16 (c) Before the department places a child in need of services with a
+17 relative or a de facto custodian, the department shall complete an
+18 evaluation based on a home visit of the relative's home.
+19 (d) Except as provided in subsection (f), before placing a child in
+20 need of services in an out-of-home placement, the department shall
+21 conduct a criminal history check of each person who is currently
+22 residing in the location designated as the out-of-home placement.
+23 (e) Except as provided in subsection (g), the department may not
+24 make an out-of-home placement if a person described in subsection (d)
+25 has:
+26 (1) committed an act resulting in a substantiated report of child
+27 abuse or neglect; or
+28 (2) been convicted of a nonwaivable offense, as defined in
+29 IC 31-9-2-84.8 or had a juvenile adjudication for an act that
+30 would be a nonwaivable offense, as defined in IC 31-9-2-84.8 if
+31 committed by an adult.
+32 (f) The department is not required to conduct a criminal history
+33 check under subsection (d) if the department makes an out-of-home
+34 placement to an entity or a facility that is not a residence (as defined in
+35 IC 3-5-2.1-90) or that is licensed by the state.
+36 (g) A court may order or the department may approve an
+37 out-of-home placement if:
+38 (1) a person described in subsection (d) has:
+39 (A) committed an act resulting in a substantiated report of
+40 child abuse or neglect;
+41 (B) been convicted of:
+42 (i) battery (IC 35-42-2-1);
+ES 171—LS 6404/DI 148
+6
+1 (ii) criminal recklessness (IC 35-42-2-2) as a felony;
+2 (iii) criminal confinement (IC 35-42-3-3) as a felony;
+3 (iv) arson (IC 35-43-1-1) as a felony;
+4 (v) nonsupport of a dependent child (IC 35-46-1-5);
+5 (vi) operating a motorboat while intoxicated (IC 35-46-9-6)
+6 as a felony;
+7 (vii) a felony involving a weapon under IC 35-47;
+8 (viii) a felony relating to controlled substances under
+9 IC 35-48-4; or
+10 (ix) a felony under IC 9-30-5;
+11 if the conviction did not occur within the past five (5) years; or
+12 (C) had a juvenile adjudication for a nonwaivable offense, as
+13 defined in IC 31-9-2-84.8 that, if committed by an adult,
+14 would be a felony; and
+15 (2) the person's commission of the offense, delinquent act, or act
+16 of abuse or neglect described in subdivision (1) is not relevant to
+17 the person's present ability to care for a child, and the placement
+18 is in the best interest of the child.
+19 However, a court or the department shall not make an out-of-home
+20 placement if the person has been convicted of a nonwaivable offense,
+21 as defined in IC 31-9-2-84.8 that is not specifically excluded under
+22 subdivision (1)(B).
+23 (h) In considering the placement under subsection (g), the court or
+24 the department shall consider the following:
+25 (1) The length of time since the person committed the offense,
+26 delinquent act, or abuse or neglect.
+27 (2) The severity of the offense, delinquent act, or abuse or neglect.
+28 (3) Evidence of the person's rehabilitation, including the person's
+29 cooperation with a treatment plan, if applicable.
+30 (i) In considering any out-of-home placement, the department
+31 shall consider the following to determine whether a particular
+32 out-of-home placement is in the child's best interest:
+33 (1) The caregiver is interested in providing permanence for
+34 the child if reunification efforts ultimately fail.
+35 (2) The expressed wishes of the child's birth parent and the
+36 child, if applicable, unless the wishes are contrary to law,
+37 child safety, or stability.
+38 (3) The relationship of the caregiver with the child and the
+39 child's family.
+40 (4) The proximity of the placement home to the birth parents'
+41 home and the child's current school or school district.
+42 (5) The strengths and parenting style of the caregiver in
+ES 171—LS 6404/DI 148
+7
+1 relation to the child's behavior and needs.
+2 (6) The caregiver's willingness to interact with the birth
+3 family, unless the caregiver has safety concerns.
+4 (7) The caregiver's ability and willingness to accept placement
+5 of the child and any of the child's siblings.
+6 (8) If any sibling will be placed separately, the caregiver's
+7 ability and willingness to provide or assist in maintaining
+8 frequent visitation or other ongoing contact between the child
+9 and the child's siblings.
+10 (9) The child's fit with the family with regard to age, gender,
+11 and sibling relationships.
+12 (10) If the child has chronic behavioral health needs:
+13 (A) whether the child's behavior will place other children
+14 in the home at risk; and
+15 (B) the caregiver's ability to provide the necessary level of
+16 supervision to prevent harm to the child or others by the
+17 child.
+18 (11) Whether placement in the home would comply with the
+19 placement preferences prescribed by federal law.
+20 SECTION 7. IC 31-34-6-2, AS AMENDED BY P.L.123-2014,
+21 SECTION 22, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 UPON PASSAGE]: Sec. 2. (a) A juvenile court or the department shall
+23 consider placing a child alleged to be a child in need of services with
+24 a suitable and willing relative or de facto custodian of the child before
+25 considering any other placement for the child.
+26 (b) A juvenile court or the department shall consider placing a child
+27 described in subsection (a) with a relative related by blood, marriage,
+28 or adoption before considering any other placement of the child.
+29 (c) Before a child is placed with a relative or de facto custodian, a
+30 home evaluation and background checks described in IC 31-34-4-2 are
+31 required.
+32 (d) A placement with whom a child has resided for at least
+33 twelve (12) months, consecutively or nonconsecutively, is presumed
+34 to be an individual who has a significant relationship with the
+35 child.
+36 SECTION 8. IC 31-34-18-2, AS AMENDED BY P.L.210-2019,
+37 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 UPON PASSAGE]: Sec. 2. (a) In addition to providing the court with
+39 a recommendation for the care, treatment, or rehabilitation of the child,
+40 the person preparing the report shall consider the necessity, nature, and
+41 extent of the participation by a parent, guardian, or custodian in a
+42 program of care, treatment, or rehabilitation for the child.
+ES 171—LS 6404/DI 148
+8
+1 (b) If the department or caseworker believes that an out-of-home
+2 placement would be appropriate for a child in need of services, the
+3 department or caseworker shall:
+4 (1) exercise due diligence to identify all adult relatives of the
+5 child and adult siblings; and
+6 (2) consider whether the child should be placed with the child's
+7 suitable and willing blood or adoptive relative caretaker,
+8 including a grandparent, an aunt, an uncle, or an adult sibling,
+9 before considering other out-of-home placements for the child.
+10 (c) In considering any out-of-home placement, the department
+11 shall consider the following to determine whether a particular
+12 out-of-home placement is in the child's best interest:
+13 (1) The caregiver is interested in providing permanence for
+14 the child if reunification efforts ultimately fail.
+15 (2) The expressed wishes of the child's birth parent and the
+16 child, if applicable, unless the wishes are contrary to law,
+17 child safety, or stability.
+18 (3) The relationship of the caregiver with the child and the
+19 child's family.
+20 (4) The proximity of the placement home to the birth parents'
+21 home and the child's current school or school district.
+22 (5) The strengths and parenting style of the caregiver in
+23 relation to the child's behavior and needs.
+24 (6) The caregiver's willingness to interact with the birth
+25 family, unless the caregiver has safety concerns.
+26 (7) The caregiver's ability and willingness to accept placement
+27 of the child and any of the child's siblings.
+28 (8) If any sibling will be placed separately, the caregiver's
+29 ability and willingness to provide or assist in maintaining
+30 frequent visitation or other ongoing contact between the child
+31 and the child's siblings.
+32 (9) The child's fit with the family with regard to age, gender,
+33 and sibling relationships.
+34 (10) If the child has chronic behavioral health needs:
+35 (A) whether the child's behavior will place other children
+36 in the home at risk; and
+37 (B) the caregiver's ability to provide the necessary level of
+38 supervision to prevent harm to the child or others by the
+39 child.
+40 (11) Whether placement in the home would comply with the
+41 placement preferences prescribed by federal law.
+42 SECTION 9. IC 31-34-19-6, AS AMENDED BY P.L.65-2023,
+ES 171—LS 6404/DI 148
+9
+1 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 UPON PASSAGE]: Sec. 6. (a) If consistent with the safety of the
+3 community and the best interest of the child, the juvenile court shall
+4 enter a dispositional decree that:
+5 (1) is:
+6 (A) in the least restrictive (most family like) and most
+7 appropriate setting available; and
+8 (B) close to the parents' home, consistent with the best interest
+9 and special needs of the child;
+10 (2) least interferes with family autonomy;
+11 (3) is least disruptive of family life;
+12 (4) imposes the least restraint on the freedom of the child and the
+13 child's parent, guardian, or custodian;
+14 (5) provides a reasonable opportunity for participation by the
+15 child's parent, guardian, or custodian; and
+16 (6) provides a reasonable opportunity for the child's parent who:
+17 (A) is incarcerated; and
+18 (B) has maintained a meaningful role in the child's life;
+19 to maintain a relationship with the child.
+20 (b) In determining whether reunification of a child with a parent,
+21 guardian, or custodian from whom the child has been removed is in the
+22 child's best interest, a court shall do the following:
+23 (1) The court shall determine whether reunifying the child with
+24 the parent, guardian, or custodian will result in separation of the
+25 child from a sibling of the child.
+26 (2) If the court determines under subdivision (1) that reunifying
+27 the child with the parent, guardian, or custodian will result in
+28 separation of the child from a sibling of the child, the court shall
+29 consider whether separating the child from the child's sibling is in
+30 the child's best interest.
+31 (c) If a dispositional decree is entered under this section, the
+32 court shall write a formal order with the court's findings and
+33 conclusions, including any specific factors used to determine the
+34 child's best interest.
+35 SECTION 10. IC 31-34-19-10, AS AMENDED BY P.L.66-2015,
+36 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 UPON PASSAGE]: Sec. 10. (a) The juvenile court shall accompany the
+38 court's dispositional decree with written findings and conclusions upon
+39 the record concerning the following:
+40 (1) The needs of the child for care, treatment, rehabilitation, or
+41 placement, including any specific factors used to determine the
+42 child's best interest.
+ES 171—LS 6404/DI 148
+10
+1 (2) The need for participation by the parent, guardian, or
+2 custodian in the plan of care for the child.
+3 (3) Efforts made, if the child is a child in need of services, to:
+4 (A) prevent the child's removal from; or
+5 (B) reunite the child with;
+6 the child's parent, guardian, or custodian in accordance with
+7 federal law.
+8 (4) Family services that were offered and provided to:
+9 (A) a child in need of services; or
+10 (B) the child's parent, guardian, or custodian;
+11 in accordance with federal law.
+12 (5) The court's reasons for the disposition.
+13 (6) Whether the child is a dual status child under IC 31-41.
+14 (b) The juvenile court may incorporate a finding or conclusion from
+15 a predispositional report as a written finding or conclusion upon the
+16 record in the court's dispositional decree.
+17 SECTION 11. IC 31-34-21-11 IS AMENDED TO READ AS
+18 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 11. (a) When the
+19 juvenile court finds that the objectives of the dispositional decree have
+20 been met, the court shall discharge the child and the child's parent,
+21 guardian, or custodian.
+22 (b) The objectives of the dispositional decree are not considered
+23 met solely because a court is prohibited from changing a child's
+24 placement under IC 31-34-23-6(g).
+25 (c) If a child's placement has been stayed under
+26 IC 31-34-23-6(g), the court may not consider:
+27 (1) the existence of a pending adoption; or
+28 (2) any pending matters or hearings in the adoption;
+29 to determine whether the objectives of the dispositional decree
+30 have been met under subsection (a).
+31 SECTION 12. IC 31-34-23-6, AS AMENDED BY P.L.105-2022,
+32 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 UPON PASSAGE]: Sec. 6. (a) Except as provided in section 3 of this
+34 chapter, before changing a child's out-of-home placement, the
+35 department or any other party seeking a change in placement shall
+36 file a motion requesting a change in placement if the child:
+37 (1) has been in the same out-of-home placement for at least one
+38 (1) year; twelve (12) months, consecutively or
+39 nonconsecutively; and
+40 (2) is in:
+41 (A) a foster family home; or
+42 (B) the care of a relative.
+ES 171—LS 6404/DI 148
+11
+1 (b) The person with whom the child is placed may:
+2 (1) indicate in writing that the person:
+3 (A) does not intend to contest the change of placement under
+4 subsection (a); and
+5 (B) waives the right to request a hearing under subsection (f);
+6 and
+7 (2) provide the writing to:
+8 (A) the department; or
+9 (B) the court.
+10 (c) Except as provided in subsection (i), if the department any
+11 party files the motion described in subsection (a), the department
+12 party shall give notice to all persons affected. The department's
+13 party's notice must state that the person affected may file a written
+14 objection not later than ten (10) fifteen (15) days after service of the
+15 department's notice.
+16 (d) If a writing described in subsection (b)(1) is provided to the
+17 department before the department files the motion described in
+18 subsection (a), the department may file the writing with the motion
+19 requesting a change in placement.
+20 (e) If the court receives the writing described in subsection (b), the
+21 court may rule on the department's motion without delay. If the motion
+22 filed by a party alleges substantiated exigent circumstances (as
+23 defined in IC 31-9-2-44.1) or the court receives the writing
+24 described in subsection (b), the court may rule on the party's
+25 motion without delay.
+26 (f) If the person affected files a timely objection to the department's
+27 party's motion requesting a change in out-of-home placement, the
+28 juvenile court shall hold a hearing on the question.
+29 (g) Except as provided in subsection (e), if:
+30 (1) a child is the subject of an adoption petition filed under
+31 IC 31-19-2;
+32 (2) the adoption petitioner is the current placement for the
+33 child; and
+34 (3) the adoption petitioner has been the child's placement for
+35 at least twelve (12) months, consecutively or
+36 nonconsecutively;
+37 the court shall not change the child's placement until the adoption
+38 petition under IC 31-19-2 has been ruled on.
+39 (g) (h) The department party must show that the change in
+40 out-of-home placement is in the best interests of the child.
+41 (i) If the party seeking a change of placement is a:
+42 (1) parent (as defined in IC 31-9-2-88(a));
+ES 171—LS 6404/DI 148
+12
+1 (2) guardian ad litem (as defined in IC 31-9-2-50); or
+2 (3) court appointed special advocate;
+3 the party must provide notice under subsection (c) to the
+4 department. The department shall provide notice of the motion
+5 requesting a change of placement to the child's out-of-home
+6 placement. The department's notice must state that the person
+7 affected may file a written objection not later than fifteen (15) days
+8 after service of the department's notice.
+9 SECTION 13. IC 31-35-2-8, AS AMENDED BY P.L.128-2012,
+10 SECTION 173, IS AMENDED TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 8. (a) Except as provided in
+12 section 4.5(d) of this chapter, if the court finds that the allegations in
+13 a petition described in section 4 of this chapter are true, the court shall
+14 terminate the parent-child relationship.
+15 (b) If the court does not find that the allegations in the petition are
+16 true, the court shall dismiss the petition.
+17 (c) The court shall enter write a formal order with:
+18 (1) findings of fact that support the entry of the conclusions
+19 required by subsections (a) and (b); and
+20 (2) any specific factors used to determine the child's best
+21 interest.
+22 SECTION 14. An emergency is declared for this act.
+ES 171—LS 6404/DI 148
+13
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Family and Children
+Services, to which was referred Senate Bill No. 171, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 8, delete lines 24 through 29.
+and when so amended that said bill do pass.
+(Reference is to SB 171 as introduced.)
+WALKER G, Chairperson
+Committee Vote: Yeas 8, Nays 0.
+_____
+SENATE MOTION
+Mr. President: I move that Senate Bill 171 be amended to read as
+follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 31-19-2-13, AS AMENDED BY P.L.81-2014,
+
+Section 2:
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 13. (a) Except for a child who is under the care
+and supervision of the department, A petitioner for adoption may file
+a separate, ex parte, verified petition requesting temporary custody of
+a child sought to be adopted at the time of or any time after the filing
+of a petition for adoption. The petition for temporary custody must be
+signed by each petitioner for adoption.
+(b) A court may grant a petition for temporary custody filed
+under subsection (a) for a child who is under the care and
+supervision of the department if the court finds that:
+(1) the petition for adoption is in proper form;
+(2) the department:
+(A) is a party to the adoption; or
+(B) has been served with notice of the petition for adoption
+and the petition for temporary custody;
+(3) the petitioner is the current placement for the child at the
+time the petition for temporary custody is filed;
+(4) the petitioner has been the child's placement for at least
+ES 171—LS 6404/DI 148
+14
+twelve (12) months, consecutively or nonconsecutively; and
+(5) the act of granting the petition filed under subsection (a)
+is in the best interests of the child.
+(b) (c) For a child who is not under the care and supervision of
+the department, a court may grant a petition for temporary custody
+filed under subsection (a) if the court finds that:
+(1) the petition for adoption is in proper form; and
+(2) the act of placing the child with the petitioner or petitioners
+for adoption pending the hearing on the petition for adoption is in
+the best interests of the child; and
+(3) the petitioner for adoption is legally and financially
+responsible for the child until otherwise ordered by the court.
+(c) If temporary custody is granted under this section, the petitioner
+or petitioners for adoption are legally and financially responsible for
+the child until otherwise ordered by the court.
+(d) To the extent that a temporary custody order issued under this
+
+Section 3:
+section conflicts with a custody order issued by any other court except
+a court having appellate jurisdiction over the child, a temporary order
+under this section controls.
+(e) A:
+(1) party to the adoption; or
+(2) person who had:
+(A) custody of; or
+(B) parenting time or visitation with;
+the child before a temporary custody order was issued under this
+
+Section 4:
+section;
+may file a petition to suspend, modify, or revoke the temporary custody
+order granted under this section.
+(f) Upon receipt of a petition described in subsection (e), the court
+shall set the matter for hearing.
+(g) The court may suspend, modify, or revoke the temporary custody
+order if the court determines suspension, modification, or revocation
+of the temporary custody order is in the best interests of the child.
+(h) If the court declines to enter an ex-parte order granting the
+petitioner temporary custody, the court shall set the matter for a
+hearing not more than fifteen (15) days after the petitioner files the
+petition for temporary custody under subsection (a).".
+Page 4, line 18, delete "law." and insert "law, child safety, or
+stability.".
+Page 4, line 26, delete "to support visitation and the reunification
+process." and insert ", unless the caregiver has safety concerns.".
+Page 5, line 13, delete "relative who" and insert "placement with
+ES 171—LS 6404/DI 148
+15
+whom".
+Page 5, line 13, after "resided" delete "with".
+Page 5, line 14, delete "months" and insert "months, consecutively
+or nonconsecutively,".
+Page 5, line 38, delete "law." and insert "law, child safety, or
+stability.".
+Page 6, line 4, delete "to support visitation and the reunification
+process." and insert ", unless the caregiver has safety concerns.".
+Page 7, line 11, delete "opinion" and insert "order".
+Page 7, delete lines 38 through 42, begin a new paragraph and
+insert:
+"SECTION 8. IC 31-34-23-6, AS AMENDED BY P.L.105-2022,
+
+Section 5:
+SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 6. (a) Except as provided in section 3 of this
+chapter, before changing a child's out-of-home placement, the
+department or any other party seeking a change in placement shall
+file a motion requesting a change in placement if the child:
+(1) has been in the same out-of-home placement for at least one
+(1) year; twelve (12) months, consecutively or
+nonconsecutively; and
+(2) is in:
+(A) a foster family home; or
+(B) the care of a relative.
+(b) The person with whom the child is placed may:
+(1) indicate in writing that the person:
+(A) does not intend to contest the change of placement under
+subsection (a); and
+(B) waives the right to request a hearing under subsection (f);
+and
+(2) provide the writing to:
+(A) the department; or
+(B) the court.
+(c) If the department any party files the motion described in
+subsection (a), the department party shall give notice to all persons
+affected. The department's party's notice must state that the person
+affected may file a written objection not later than ten (10) fifteen (15)
+days after service of the department's notice.
+(d) If a writing described in subsection (b)(1) is provided to the
+department before the department files the motion described in
+subsection (a), the department may file the writing with the motion
+requesting a change in placement.
+(e) If the court receives the writing described in subsection (b), the
+ES 171—LS 6404/DI 148
+16
+court may rule on the department's motion without delay. If the motion
+filed by a party alleges substantiated exigent circumstances (as
+defined in IC 31-9-2-44.1) or the court receives the writing
+described in subsection (b), the court may rule on the party's
+motion without delay.
+(f) If the person affected files a timely objection to the department's
+party's motion requesting a change in out-of-home placement, the
+juvenile court shall hold a hearing on the question.
+(g) If a petition has been filed under IC 31-19-2-13, the court
+shall not change the child's placement until the petition under
+IC 31-19-2-13 has been ruled on.
+(g) (h) The department party must show that the change in
+out-of-home placement is in the best interests of the child.".
+Page 8, delete lines 1 through 10.
+Renumber all SECTIONS consecutively.
+(Reference is to SB 171 as printed January 13, 2026.)
+JOHNSON T
+_____
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Judiciary, to which was referred
+Senate Bill 171, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Replace the effective dates in SECTIONS 2 through 10 with
+"[EFFECTIVE UPON PASSAGE]".
+Page 1, delete lines 1 through 17, begin a new paragraph and insert:
+"SECTION 1. IC 31-19-2.5-3, AS AMENDED BY P.L.203-2021,
+
+Section 6:
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 3. (a) Except as provided in section 4 of this
+chapter, notice must be given to:
+(1) a person whose consent to adoption is required under
+IC 31-19-9-1;
+(2) a putative father who is entitled to notice under IC 31-19-4;
+(3) a grandparent described in IC 31-19-4.5-1(3) of a child sought
+to be adopted;
+(4) a licensed child placing agency of which the child is a ward;
+(5) if the child is the subject of an open or pending child in need
+of services proceeding under IC 31-34, the local office of the
+ES 171—LS 6404/DI 148
+17
+department of child services in the county in which the child in
+need of services proceeding was filed; and
+(6) if the child is a subject of an open or pending juvenile
+delinquency proceeding under IC 31-37, the entity, facility, or
+individual of which the child is a ward.
+(b) Proof of notice to those under subsection (a) shall be filed with
+the court in the adoption proceeding before the final adoption hearing
+can be scheduled.
+(c) Failure to provide notice under this section shall require setting
+aside the adoption decree if challenged by an entity or individual who
+did not receive notice as required by this section. An adoption decree
+may be challenged under this subsection for a period of not more than
+forty-five (45) days after the date the adoption decree is entered.
+(d) If notice is provided to the local office of the department of
+child services under subsection (a)(5), the local office of the
+department of child services shall provide notice to the court in
+which the child in need of services proceeding is open or pending.
+Notice under this subsection:
+(1) is solely for the purpose of allowing the court to notify the
+parties:
+(A) that an adoption petition has been filed; and
+(B) of the cause number and name of the petitioner for the
+adoption petition; and
+(2) must be provided to the court not later than seven (7)
+business days after the local office of the department of child
+services receives notice under subsection (a)(5).
+
+Section 7:
+SECTION 2. IC 31-19-9-2, AS AMENDED BY P.L.89-2023,
+
+Section 8:
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 2. (a) The consent to adoption may be
+executed or acknowledged at any time after the birth of the child, either
+in the presence of:
+(1) the court, in person or by video conferencing;
+(2) an attorney, in person or by video conferencing;
+(2) (3) a notary public or other person authorized to take
+acknowledgments; or
+(3) (4) an authorized agent of:
+(A) the department; or
+(B) a licensed child placing agency.
+(b) The child's mother may not execute a consent to adoption before
+the birth of the child.
+(c) The child's father may execute a consent to adoption before the
+birth of the child if the consent to adoption:
+ES 171—LS 6404/DI 148
+18
+(1) is in writing;
+(2) is signed by the child's father in the presence of a notary
+public; and
+(3) contains an acknowledgment that:
+(A) the consent to adoption is irrevocable; and
+(B) the child's father will not receive notice of the adoption
+proceedings.
+(d) A child's father who consents to the adoption of the child under
+subsection (c) may not challenge or contest the child's adoption.
+(e) Except as provided in subsection (f) or (g), a person who
+executes a written consent to the adoption of a child may not execute
+a second or subsequent written consent to have another person adopt
+the child unless one (1) or more of the following apply:
+(1) Each original petitioner provides a written statement that the
+petitioner is not adopting the child.
+(2) The person consenting to the adoption has been permitted to
+withdraw the first consent to adoption under IC 31-19-10.
+(3) The court dismisses the petition for adoption filed by the
+original petitioner or petitioners for adoption based upon a
+showing, by clear and convincing evidence, that it is not in the
+best interests of the child that the petition for adoption be granted.
+(4) The court denies the petition to adopt the child filed by the
+original petitioner or petitioners for adoption.
+(f) The department may execute more than one (1) written consent
+to the adoption of a child if the department determines that the
+execution of more than one (1) written consent is in the best interests
+of the child.
+(g) The parents of a child who is a ward of the department may
+execute a second or subsequent consent if:
+(1) the court with jurisdiction over the child in need of services
+determines that adoption by the person to whom consents were
+originally signed is not in the child's best interest; or
+(2) if the child's placement with the person who has petitioned or
+intends to petition to adopt the child is disrupted.".
+Page 2, delete lines 1 through 39.
+Page 3, between lines 40 and 41, begin a new paragraph and insert:
+"SECTION 5. IC 31-19-19-4, AS AMENDED BY P.L.186-2025,
+
+Section 9:
+SECTION 152, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 4. All papers, records, and
+information pertaining to the adoption, whether part of:
+(1) the permanent record of the court; or
+(2) a file in:
+ES 171—LS 6404/DI 148
+19
+(A) the division of vital records;
+(B) the department or local office;
+(C) a licensed child placing agency; or
+(D) a professional health care provider (as defined in
+IC 34-6-2.1-165);
+are confidential and may be disclosed only in accordance with
+IC 31-19-2.5-3, IC 31-19-17, this chapter, or IC 31-19-20 through
+IC 31-19-25.5.".
+Page 9, between lines 12 and 13, begin a new paragraph and insert:
+"SECTION 11. IC 31-34-21-11 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 11. (a) When the
+juvenile court finds that the objectives of the dispositional decree have
+been met, the court shall discharge the child and the child's parent,
+guardian, or custodian.
+(b) The objectives of the dispositional decree are not considered
+met solely because a court is prohibited from changing a child's
+placement under IC 31-34-23-6(g).
+(c) If a child's placement has been stayed under
+IC 31-34-23-6(g), the court may not consider:
+(1) the existence of a pending adoption; or
+(2) any pending matters or hearings in the adoption;
+to determine whether the objectives of the dispositional decree
+have been met under subsection (a).".
+Page 9, line 34, delete "If" and insert "Except as provided in
+subsection (i), if".
+Page 10, delete lines 10 through 12, begin a new paragraph and
+insert:
+"(g) Except as provided in subsection (e), if:
+(1) a child is the subject of an adoption petition filed under
+IC 31-19-2;
+(2) the adoption petitioner is the current placement for the
+child; and
+(3) the adoption petitioner has been the child's placement for
+at least twelve (12) months, consecutively or
+nonconsecutively;
+the court shall not change the child's placement until the adoption
+petition under IC 31-19-2 has been ruled on.".
+Page 10, between lines 14 and 15, begin a new paragraph and insert:
+"(i) If the party seeking a change of placement is a:
+(1) parent (as defined in IC 31-9-2-88(a));
+(2) guardian ad litem (as defined in IC 31-9-2-50); or
+(3) court appointed special advocate;
+ES 171—LS 6404/DI 148
+20
+the party must provide notice under subsection (c) to the
+department. The department shall provide notice of the motion
+requesting a change of placement to the child's out-of-home
+placement. The department's notice must state that the person
+affected may file a written objection not later than fifteen (15) days
+after service of the department's notice.".
+Page 10, line 23, delete "opinion" and insert "order".
+Page 10, after line 27, begin a new paragraph and insert:
+"SECTION 11. An emergency is declared for this act.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 171 as reprinted January 21, 2026.)
+JETER
+Committee Vote: yeas 12, nays 0.
+ES 171—LS 6404/DI 148
+[DELETED:  e t c r R t c h r w f a l 1 m o]
+[DELETED:  t t o o t d d a n a p t a p i t c c s a t p m p n t t]
+[DELETED:  a p w c t a i r u i t c i a s o a o o p j]
+[DELETED:  s u s ( t l o o t 2 I 3 A A B P P S 2 ( T c t a m b ( a n p o o p a t t]
+[DELETED:  E a p i s ( o ( a p w p o p f a b u  t a o a c i t d d t t]
+[DELETED:  u I 3 r t t c t P S 9 P c p a 1 I A T R A F a p h c p ( d i c a m b d o i a w]
+[DELETED:  1 I A T R A F b c o a n o a d i A c m o o t d m a a]
+[DELETED:  a f r t c s u i I T s a p s o t c i]
+[DELETED:  T c w t i w t b]
+[DELETED:  a w b o a r c T s a p s o t c i T c w t i w t b]
+[DELETED:  i t l r ( f l a m]
+[DELETED:  T n f p b t p g o w 1 I 3 I A T R A I a c p h b s u b c a c o p t y t ( m c o]
+[DELETED:  s g n t a p a T d b t d f t m d i i I 3 o t c r t w l t ( m c o ( T d p m s t t c i]
+[DELETED:  p m p n u s ( t t a c o p t t c o 1 I A T R A F]
+[DELETED:  o w t r t s A a 1 b t e c a l 1 b a n s ( f a c w i u t c a]
+[DELETED:  t p f a i l a f]
+[DELETED:  b c a c o p t y t ( m c o I t d a p f t m d i b t d f t m d i]
+[DELETED:  i I 3 o t c r t w ( T d p m s t t c i t e d i S 2 t 1 w a p w c t a i r u]
+[DELETED:  i t c i a s o a o o p j s u s ( t l o o t 2 I 3 A A B P P S 2 ( T c t a m b ( a n p o o p a t t]
+[DELETED:  E a p i s ( o ( a p w p o p f a b u  t a o a c i t d d t t 1 I A T R A F]
+[DELETED:  a p h c p ( d i c a m b d o i a w I a c p h b s u l t ( m c o]
+[DELETED:  p m p n u s ( t t a c o p t t c o]
+
+
+================================================================================
+
+Raw Text:
+*ES0171.1*
+February 16, 2026
+ENGROSSED
+SENATE BILL No. 171
+_____
+DIGEST OF SB 171 (Updated February 16, 2026 12:46 pm - DI 151)
+Citations Affected: IC 31-19; IC 31-34; IC 31-35.
+Synopsis: Family and children matters. Requires the local office of the
+department of child services to provide notice of an adoption petition
+to the court in which a CHINS proceeding is open or pending. Provides
+that the consent to adoption may be executed or acknowledged at any
+time after the birth of the child in the presence of an attorney, in
+person, or by video conferencing. Provides that a court may grant
+postadoption contact privileges if the child is at least 12 months of age.
+(Current law requires the child to be at least two years of age.) Provides
+certain exceptions to confidentiality requirements. Requires the
+department of child services (department) to consider certain factors
+when evaluating an out-of-home placement for a child in a child in
+need of services (CHINS) case. Provides that a placement with whom
+a child has resided with for at least 12 months, consecutively or
+nonconsecutively, is presumed to be an individual who has a significant
+(Continued next page)
+Effective: Upon passage.
+Johnson T, Walker G, Brown L,
+Ford J.D., Donato,
+Randolph Lonnie M
+(HOUSE SPONSOR — MCGUIRE)
+January 5, 2026, read first time and referred to Committee on Family and Children
+Services.
+January 12, 2026, amended, reported favorably — Do Pass.
+January 20, 2026, read second time, amended, ordered engrossed.
+January 21, 2026, engrossed.
+January 22, 2026, read third time, passed. Yeas 43, nays 0.
+HOUSE ACTION
+January 28, 2026, read first time and referred to Committee on Judiciary.
+February 16, 2026, amended, reported — Do Pass.
+ES 171—LS 6404/DI 148
+
+Digest Continued
+relationship with the child. Requires a court to write a formal order in
+certain circumstances and include specific information in the order.
+Provides that the objectives of the dispositional decree are not
+considered met solely because a court is prohibited from changing a
+child's placement under IC 31-34-23-6(g) and prohibits the court from
+considering certain information when deciding whether the objectives
+of the dispositional decree are met. Requires any party seeking a
+change in placement for certain children to file a motion with the court,
+provide notice to all persons affected, and inform all persons affected
+of the right to file a written objection within 15 days. (Current law only
+allows the department to file the motion for a change of placement.)
+Allows a court to rule on a party's motion for the change in placement
+without delay if exigent circumstances are alleged in the party's motion.
+Provides that, with certain exceptions, if a child is the subject of an
+adoption petition, the adoption petitioner is the child's current
+placement, and the adoption petitioner has been the child's placement
+for at least 12 months, the court shall not change the child's placement
+until the adoption petition has been ruled on. Provides that if the party
+seeking a change of placement is a parent, guardian ad litem, or a court
+appointed special advocate, the party must provide notice to the
+department of child services, and the department shall then provide
+notice of the motion to the child's out-of-home placement.
+EESS 117711——LLSS 66440044//DDII 114488
+
+February 16, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+SENATE BILL No. 171
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 31-19-2.5-3, AS AMENDED BY P.L.203-2021,
+2 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 3. (a) Except as provided in section 4 of this
+4 chapter, notice must be given to:
+5 (1) a person whose consent to adoption is required under
+6 IC 31-19-9-1;
+7 (2) a putative father who is entitled to notice under IC 31-19-4;
+8 (3) a grandparent described in IC 31-19-4.5-1(3) of a child sought
+9 to be adopted;
+10 (4) a licensed child placing agency of which the child is a ward;
+11 (5) if the child is the subject of an open or pending child in need
+12 of services proceeding under IC 31-34, the local office of the
+13 department of child services in the county in which the child in
+14 need of services proceeding was filed; and
+15 (6) if the child is a subject of an open or pending juvenile
+16 delinquency proceeding under IC 31-37, the entity, facility, or
+17 individual of which the child is a ward.
+ES 171—LS 6404/DI 148
+
+2
+1 (b) Proof of notice to those under subsection (a) shall be filed with
+2 the court in the adoption proceeding before the final adoption hearing
+3 can be scheduled.
+4 (c) Failure to provide notice under this section shall require setting
+5 aside the adoption decree if challenged by an entity or individual who
+6 did not receive notice as required by this section. An adoption decree
+7 may be challenged under this subsection for a period of not more than
+8 forty-five (45) days after the date the adoption decree is entered.
+9 (d) If notice is provided to the local office of the department of
+10 child services under subsection (a)(5), the local office of the
+11 department of child services shall provide notice to the court in
+12 which the child in need of services proceeding is open or pending.
+13 Notice under this subsection:
+14 (1) is solely for the purpose of allowing the court to notify the
+15 parties:
+16 (A) that an adoption petition has been filed; and
+17 (B) of the cause number and name of the petitioner for the
+18 adoption petition; and
+19 (2) must be provided to the court not later than seven (7)
+20 business days after the local office of the department of child
+21 services receives notice under subsection (a)(5).
+22 SECTION 2. IC 31-19-9-2, AS AMENDED BY P.L.89-2023,
+23 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 UPON PASSAGE]: Sec. 2. (a) The consent to adoption may be
+25 executed or acknowledged at any time after the birth of the child, either
+26 in the presence of:
+27 (1) the court, in person or by video conferencing;
+28 (2) an attorney, in person or by video conferencing;
+29 (2) (3) a notary public or other person authorized to take
+30 acknowledgments; or
+31 (3) (4) an authorized agent of:
+32 (A) the department; or
+33 (B) a licensed child placing agency.
+34 (b) The child's mother may not execute a consent to adoption before
+35 the birth of the child.
+36 (c) The child's father may execute a consent to adoption before the
+37 birth of the child if the consent to adoption:
+38 (1) is in writing;
+39 (2) is signed by the child's father in the presence of a notary
+40 public; and
+41 (3) contains an acknowledgment that:
+42 (A) the consent to adoption is irrevocable; and
+ES 171—LS 6404/DI 148
+
+3
+1 (B) the child's father will not receive notice of the adoption
+2 proceedings.
+3 (d) A child's father who consents to the adoption of the child under
+4 subsection (c) may not challenge or contest the child's adoption.
+5 (e) Except as provided in subsection (f) or (g), a person who
+6 executes a written consent to the adoption of a child may not execute
+7 a second or subsequent written consent to have another person adopt
+8 the child unless one (1) or more of the following apply:
+9 (1) Each original petitioner provides a written statement that the
+10 petitioner is not adopting the child.
+11 (2) The person consenting to the adoption has been permitted to
+12 withdraw the first consent to adoption under IC 31-19-10.
+13 (3) The court dismisses the petition for adoption filed by the
+14 original petitioner or petitioners for adoption based upon a
+15 showing, by clear and convincing evidence, that it is not in the
+16 best interests of the child that the petition for adoption be granted.
+17 (4) The court denies the petition to adopt the child filed by the
+18 original petitioner or petitioners for adoption.
+19 (f) The department may execute more than one (1) written consent
+20 to the adoption of a child if the department determines that the
+21 execution of more than one (1) written consent is in the best interests
+22 of the child.
+23 (g) The parents of a child who is a ward of the department may
+24 execute a second or subsequent consent if:
+25 (1) the court with jurisdiction over the child in need of services
+26 determines that adoption by the person to whom consents were
+27 originally signed is not in the child's best interest; or
+28 (2) if the child's placement with the person who has petitioned or
+29 intends to petition to adopt the child is disrupted.
+30 SECTION 3. IC 31-19-16-2, AS AMENDED BY P.L.128-2012,
+31 SECTION 57, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 UPON PASSAGE]: Sec. 2. A court may grant postadoption contact
+33 privileges if:
+34 (1) the court determines that the best interests of the child would
+35 be served by granting postadoption contact privileges;
+36 (2) the child is at least two (2) years twelve (12) months of age
+37 and the court finds that there is a significant emotional attachment
+38 between the child and the birth parent;
+39 (3) each adoptive parent consents to the granting of postadoption
+40 contact privileges;
+41 (4) the adoptive parents and the birth parents:
+42 (A) execute a postadoption contact agreement; and
+ES 171—LS 6404/DI 148
+
+4
+1 (B) file the agreement with the court;
+2 (5) the licensed child placing agency sponsoring the adoption and
+3 the child's court appointed special advocate or guardian ad litem
+4 appointed under IC 31-32-3 recommends to the court the
+5 postadoption contact agreement, or if there is no licensed child
+6 placing agency sponsoring the adoption, the local office or other
+7 agency that prepared an adoption report under IC 31-19-8-5 is
+8 informed of the contents of the postadoption contact agreement
+9 and comments on the agreement in the agency's report to the
+10 court;
+11 (6) consent to postadoption contact is obtained from the child if
+12 the child is at least twelve (12) years of age; and
+13 (7) the postadoption contact agreement is approved by the court.
+14 SECTION 4. IC 31-19-16-9, AS AMENDED BY P.L.113-2017,
+15 SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 UPON PASSAGE]: Sec. 9. Postadoption contact privileges are
+17 permissible without court approval in an adoption of a child who is less
+18 than two (2) years twelve (12) months of age upon the agreement of
+19 the adoptive parents and a birth parent. However, postadoption contact
+20 privileges under this section may not include visitation. A postadoption
+21 contact agreement under this section:
+22 (1) is not enforceable;
+23 (2) may include contact through photographs, written and verbal
+24 updates, and other forms of communication;
+25 (3) does not have to be in writing; and
+26 (4) does not affect the:
+27 (A) validity of a:
+28 (i) consent to an adoption; or
+29 (ii) waiver of notice; or
+30 (B) finality of the adoption.
+31 SECTION 5. IC 31-19-19-4, AS AMENDED BY P.L.186-2025,
+32 SECTION 152, IS AMENDED TO READ AS FOLLOWS
+33 [EFFECTIVE UPON PASSAGE]: Sec. 4. All papers, records, and
+34 information pertaining to the adoption, whether part of:
+35 (1) the permanent record of the court; or
+36 (2) a file in:
+37 (A) the division of vital records;
+38 (B) the department or local office;
+39 (C) a licensed child placing agency; or
+40 (D) a professional health care provider (as defined in
+41 IC 34-6-2.1-165);
+42 are confidential and may be disclosed only in accordance with
+ES 171—LS 6404/DI 148
+
+5
+1 IC 31-19-2.5-3, IC 31-19-17, this chapter, or IC 31-19-20 through
+2 IC 31-19-25.5.
+3 SECTION 6. IC 31-34-4-2, AS AMENDED BY P.L.186-2025,
+4 SECTION 159, IS AMENDED TO READ AS FOLLOWS
+5 [EFFECTIVE UPON PASSAGE]: Sec. 2. (a) If a child alleged to be a
+6 child in need of services is taken into custody under an order of the
+7 court under this chapter and the court orders out-of-home placement,
+8 the department is responsible for that placement and care and must
+9 consider placing the child with a:
+10 (1) suitable and willing relative; or
+11 (2) de facto custodian;
+12 before considering any other out-of-home placement.
+13 (b) The department shall consider placing a child described in
+14 subsection (a) with a relative related by blood, marriage, or adoption
+15 before considering any other placement of the child.
+16 (c) Before the department places a child in need of services with a
+17 relative or a de facto custodian, the department shall complete an
+18 evaluation based on a home visit of the relative's home.
+19 (d) Except as provided in subsection (f), before placing a child in
+20 need of services in an out-of-home placement, the department shall
+21 conduct a criminal history check of each person who is currently
+22 residing in the location designated as the out-of-home placement.
+23 (e) Except as provided in subsection (g), the department may not
+24 make an out-of-home placement if a person described in subsection (d)
+25 has:
+26 (1) committed an act resulting in a substantiated report of child
+27 abuse or neglect; or
+28 (2) been convicted of a nonwaivable offense, as defined in
+29 IC 31-9-2-84.8 or had a juvenile adjudication for an act that
+30 would be a nonwaivable offense, as defined in IC 31-9-2-84.8 if
+31 committed by an adult.
+32 (f) The department is not required to conduct a criminal history
+33 check under subsection (d) if the department makes an out-of-home
+34 placement to an entity or a facility that is not a residence (as defined in
+35 IC 3-5-2.1-90) or that is licensed by the state.
+36 (g) A court may order or the department may approve an
+37 out-of-home placement if:
+38 (1) a person described in subsection (d) has:
+39 (A) committed an act resulting in a substantiated report of
+40 child abuse or neglect;
+41 (B) been convicted of:
+42 (i) battery (IC 35-42-2-1);
+ES 171—LS 6404/DI 148
+
+6
+1 (ii) criminal recklessness (IC 35-42-2-2) as a felony;
+2 (iii) criminal confinement (IC 35-42-3-3) as a felony;
+3 (iv) arson (IC 35-43-1-1) as a felony;
+4 (v) nonsupport of a dependent child (IC 35-46-1-5);
+5 (vi) operating a motorboat while intoxicated (IC 35-46-9-6)
+6 as a felony;
+7 (vii) a felony involving a weapon under IC 35-47;
+8 (viii) a felony relating to controlled substances under
+9 IC 35-48-4; or
+10 (ix) a felony under IC 9-30-5;
+11 if the conviction did not occur within the past five (5) years; or
+12 (C) had a juvenile adjudication for a nonwaivable offense, as
+13 defined in IC 31-9-2-84.8 that, if committed by an adult,
+14 would be a felony; and
+15 (2) the person's commission of the offense, delinquent act, or act
+16 of abuse or neglect described in subdivision (1) is not relevant to
+17 the person's present ability to care for a child, and the placement
+18 is in the best interest of the child.
+19 However, a court or the department shall not make an out-of-home
+20 placement if the person has been convicted of a nonwaivable offense,
+21 as defined in IC 31-9-2-84.8 that is not specifically excluded under
+22 subdivision (1)(B).
+23 (h) In considering the placement under subsection (g), the court or
+24 the department shall consider the following:
+25 (1) The length of time since the person committed the offense,
+26 delinquent act, or abuse or neglect.
+27 (2) The severity of the offense, delinquent act, or abuse or neglect.
+28 (3) Evidence of the person's rehabilitation, including the person's
+29 cooperation with a treatment plan, if applicable.
+30 (i) In considering any out-of-home placement, the department
+31 shall consider the following to determine whether a particular
+32 out-of-home placement is in the child's best interest:
+33 (1) The caregiver is interested in providing permanence for
+34 the child if reunification efforts ultimately fail.
+35 (2) The expressed wishes of the child's birth parent and the
+36 child, if applicable, unless the wishes are contrary to law,
+37 child safety, or stability.
+38 (3) The relationship of the caregiver with the child and the
+39 child's family.
+40 (4) The proximity of the placement home to the birth parents'
+41 home and the child's current school or school district.
+42 (5) The strengths and parenting style of the caregiver in
+ES 171—LS 6404/DI 148
+
+7
+1 relation to the child's behavior and needs.
+2 (6) The caregiver's willingness to interact with the birth
+3 family, unless the caregiver has safety concerns.
+4 (7) The caregiver's ability and willingness to accept placement
+5 of the child and any of the child's siblings.
+6 (8) If any sibling will be placed separately, the caregiver's
+7 ability and willingness to provide or assist in maintaining
+8 frequent visitation or other ongoing contact between the child
+9 and the child's siblings.
+10 (9) The child's fit with the family with regard to age, gender,
+11 and sibling relationships.
+12 (10) If the child has chronic behavioral health needs:
+13 (A) whether the child's behavior will place other children
+14 in the home at risk; and
+15 (B) the caregiver's ability to provide the necessary level of
+16 supervision to prevent harm to the child or others by the
+17 child.
+18 (11) Whether placement in the home would comply with the
+19 placement preferences prescribed by federal law.
+20 SECTION 7. IC 31-34-6-2, AS AMENDED BY P.L.123-2014,
+21 SECTION 22, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 UPON PASSAGE]: Sec. 2. (a) A juvenile court or the department shall
+23 consider placing a child alleged to be a child in need of services with
+24 a suitable and willing relative or de facto custodian of the child before
+25 considering any other placement for the child.
+26 (b) A juvenile court or the department shall consider placing a child
+27 described in subsection (a) with a relative related by blood, marriage,
+28 or adoption before considering any other placement of the child.
+29 (c) Before a child is placed with a relative or de facto custodian, a
+30 home evaluation and background checks described in IC 31-34-4-2 are
+31 required.
+32 (d) A placement with whom a child has resided for at least
+33 twelve (12) months, consecutively or nonconsecutively, is presumed
+34 to be an individual who has a significant relationship with the
+35 child.
+36 SECTION 8. IC 31-34-18-2, AS AMENDED BY P.L.210-2019,
+37 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 UPON PASSAGE]: Sec. 2. (a) In addition to providing the court with
+39 a recommendation for the care, treatment, or rehabilitation of the child,
+40 the person preparing the report shall consider the necessity, nature, and
+41 extent of the participation by a parent, guardian, or custodian in a
+42 program of care, treatment, or rehabilitation for the child.
+ES 171—LS 6404/DI 148
+
+8
+1 (b) If the department or caseworker believes that an out-of-home
+2 placement would be appropriate for a child in need of services, the
+3 department or caseworker shall:
+4 (1) exercise due diligence to identify all adult relatives of the
+5 child and adult siblings; and
+6 (2) consider whether the child should be placed with the child's
+7 suitable and willing blood or adoptive relative caretaker,
+8 including a grandparent, an aunt, an uncle, or an adult sibling,
+9 before considering other out-of-home placements for the child.
+10 (c) In considering any out-of-home placement, the department
+11 shall consider the following to determine whether a particular
+12 out-of-home placement is in the child's best interest:
+13 (1) The caregiver is interested in providing permanence for
+14 the child if reunification efforts ultimately fail.
+15 (2) The expressed wishes of the child's birth parent and the
+16 child, if applicable, unless the wishes are contrary to law,
+17 child safety, or stability.
+18 (3) The relationship of the caregiver with the child and the
+19 child's family.
+20 (4) The proximity of the placement home to the birth parents'
+21 home and the child's current school or school district.
+22 (5) The strengths and parenting style of the caregiver in
+23 relation to the child's behavior and needs.
+24 (6) The caregiver's willingness to interact with the birth
+25 family, unless the caregiver has safety concerns.
+26 (7) The caregiver's ability and willingness to accept placement
+27 of the child and any of the child's siblings.
+28 (8) If any sibling will be placed separately, the caregiver's
+29 ability and willingness to provide or assist in maintaining
+30 frequent visitation or other ongoing contact between the child
+31 and the child's siblings.
+32 (9) The child's fit with the family with regard to age, gender,
+33 and sibling relationships.
+34 (10) If the child has chronic behavioral health needs:
+35 (A) whether the child's behavior will place other children
+36 in the home at risk; and
+37 (B) the caregiver's ability to provide the necessary level of
+38 supervision to prevent harm to the child or others by the
+39 child.
+40 (11) Whether placement in the home would comply with the
+41 placement preferences prescribed by federal law.
+42 SECTION 9. IC 31-34-19-6, AS AMENDED BY P.L.65-2023,
+ES 171—LS 6404/DI 148
+
+9
+1 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 UPON PASSAGE]: Sec. 6. (a) If consistent with the safety of the
+3 community and the best interest of the child, the juvenile court shall
+4 enter a dispositional decree that:
+5 (1) is:
+6 (A) in the least restrictive (most family like) and most
+7 appropriate setting available; and
+8 (B) close to the parents' home, consistent with the best interest
+9 and special needs of the child;
+10 (2) least interferes with family autonomy;
+11 (3) is least disruptive of family life;
+12 (4) imposes the least restraint on the freedom of the child and the
+13 child's parent, guardian, or custodian;
+14 (5) provides a reasonable opportunity for participation by the
+15 child's parent, guardian, or custodian; and
+16 (6) provides a reasonable opportunity for the child's parent who:
+17 (A) is incarcerated; and
+18 (B) has maintained a meaningful role in the child's life;
+19 to maintain a relationship with the child.
+20 (b) In determining whether reunification of a child with a parent,
+21 guardian, or custodian from whom the child has been removed is in the
+22 child's best interest, a court shall do the following:
+23 (1) The court shall determine whether reunifying the child with
+24 the parent, guardian, or custodian will result in separation of the
+25 child from a sibling of the child.
+26 (2) If the court determines under subdivision (1) that reunifying
+27 the child with the parent, guardian, or custodian will result in
+28 separation of the child from a sibling of the child, the court shall
+29 consider whether separating the child from the child's sibling is in
+30 the child's best interest.
+31 (c) If a dispositional decree is entered under this section, the
+32 court shall write a formal order with the court's findings and
+33 conclusions, including any specific factors used to determine the
+34 child's best interest.
+35 SECTION 10. IC 31-34-19-10, AS AMENDED BY P.L.66-2015,
+36 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 UPON PASSAGE]: Sec. 10. (a) The juvenile court shall accompany the
+38 court's dispositional decree with written findings and conclusions upon
+39 the record concerning the following:
+40 (1) The needs of the child for care, treatment, rehabilitation, or
+41 placement, including any specific factors used to determine the
+42 child's best interest.
+ES 171—LS 6404/DI 148
+
+10
+1 (2) The need for participation by the parent, guardian, or
+2 custodian in the plan of care for the child.
+3 (3) Efforts made, if the child is a child in need of services, to:
+4 (A) prevent the child's removal from; or
+5 (B) reunite the child with;
+6 the child's parent, guardian, or custodian in accordance with
+7 federal law.
+8 (4) Family services that were offered and provided to:
+9 (A) a child in need of services; or
+10 (B) the child's parent, guardian, or custodian;
+11 in accordance with federal law.
+12 (5) The court's reasons for the disposition.
+13 (6) Whether the child is a dual status child under IC 31-41.
+14 (b) The juvenile court may incorporate a finding or conclusion from
+15 a predispositional report as a written finding or conclusion upon the
+16 record in the court's dispositional decree.
+17 SECTION 11. IC 31-34-21-11 IS AMENDED TO READ AS
+18 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 11. (a) When the
+19 juvenile court finds that the objectives of the dispositional decree have
+20 been met, the court shall discharge the child and the child's parent,
+21 guardian, or custodian.
+22 (b) The objectives of the dispositional decree are not considered
+23 met solely because a court is prohibited from changing a child's
+24 placement under IC 31-34-23-6(g).
+25 (c) If a child's placement has been stayed under
+26 IC 31-34-23-6(g), the court may not consider:
+27 (1) the existence of a pending adoption; or
+28 (2) any pending matters or hearings in the adoption;
+29 to determine whether the objectives of the dispositional decree
+30 have been met under subsection (a).
+31 SECTION 12. IC 31-34-23-6, AS AMENDED BY P.L.105-2022,
+32 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 UPON PASSAGE]: Sec. 6. (a) Except as provided in section 3 of this
+34 chapter, before changing a child's out-of-home placement, the
+35 department or any other party seeking a change in placement shall
+36 file a motion requesting a change in placement if the child:
+37 (1) has been in the same out-of-home placement for at least one
+38 (1) year; twelve (12) months, consecutively or
+39 nonconsecutively; and
+40 (2) is in:
+41 (A) a foster family home; or
+42 (B) the care of a relative.
+ES 171—LS 6404/DI 148
+
+11
+1 (b) The person with whom the child is placed may:
+2 (1) indicate in writing that the person:
+3 (A) does not intend to contest the change of placement under
+4 subsection (a); and
+5 (B) waives the right to request a hearing under subsection (f);
+6 and
+7 (2) provide the writing to:
+8 (A) the department; or
+9 (B) the court.
+10 (c) Except as provided in subsection (i), if the department any
+11 party files the motion described in subsection (a), the department
+12 party shall give notice to all persons affected. The department's
+13 party's notice must state that the person affected may file a written
+14 objection not later than ten (10) fifteen (15) days after service of the
+15 department's notice.
+16 (d) If a writing described in subsection (b)(1) is provided to the
+17 department before the department files the motion described in
+18 subsection (a), the department may file the writing with the motion
+19 requesting a change in placement.
+20 (e) If the court receives the writing described in subsection (b), the
+21 court may rule on the department's motion without delay. If the motion
+22 filed by a party alleges substantiated exigent circumstances (as
+23 defined in IC 31-9-2-44.1) or the court receives the writing
+24 described in subsection (b), the court may rule on the party's
+25 motion without delay.
+26 (f) If the person affected files a timely objection to the department's
+27 party's motion requesting a change in out-of-home placement, the
+28 juvenile court shall hold a hearing on the question.
+29 (g) Except as provided in subsection (e), if:
+30 (1) a child is the subject of an adoption petition filed under
+31 IC 31-19-2;
+32 (2) the adoption petitioner is the current placement for the
+33 child; and
+34 (3) the adoption petitioner has been the child's placement for
+35 at least twelve (12) months, consecutively or
+36 nonconsecutively;
+37 the court shall not change the child's placement until the adoption
+38 petition under IC 31-19-2 has been ruled on.
+39 (g) (h) The department party must show that the change in
+40 out-of-home placement is in the best interests of the child.
+41 (i) If the party seeking a change of placement is a:
+42 (1) parent (as defined in IC 31-9-2-88(a));
+ES 171—LS 6404/DI 148
+
+12
+1 (2) guardian ad litem (as defined in IC 31-9-2-50); or
+2 (3) court appointed special advocate;
+3 the party must provide notice under subsection (c) to the
+4 department. The department shall provide notice of the motion
+5 requesting a change of placement to the child's out-of-home
+6 placement. The department's notice must state that the person
+7 affected may file a written objection not later than fifteen (15) days
+8 after service of the department's notice.
+9 SECTION 13. IC 31-35-2-8, AS AMENDED BY P.L.128-2012,
+10 SECTION 173, IS AMENDED TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 8. (a) Except as provided in
+12 section 4.5(d) of this chapter, if the court finds that the allegations in
+13 a petition described in section 4 of this chapter are true, the court shall
+14 terminate the parent-child relationship.
+15 (b) If the court does not find that the allegations in the petition are
+16 true, the court shall dismiss the petition.
+17 (c) The court shall enter write a formal order with:
+18 (1) findings of fact that support the entry of the conclusions
+19 required by subsections (a) and (b); and
+20 (2) any specific factors used to determine the child's best
+21 interest.
+22 SECTION 14. An emergency is declared for this act.
+ES 171—LS 6404/DI 148
+
+13
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Family and Children
+Services, to which was referred Senate Bill No. 171, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 8, delete lines 24 through 29.
+and when so amended that said bill do pass.
+(Reference is to SB 171 as introduced.)
+WALKER G, Chairperson
+Committee Vote: Yeas 8, Nays 0.
+_____
+SENATE MOTION
+Mr. President: I move that Senate Bill 171 be amended to read as
+follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 31-19-2-13, AS AMENDED BY P.L.81-2014,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 13. (a) Except for a child who is under the care
+and supervision of the department, A petitioner for adoption may file
+a separate, ex parte, verified petition requesting temporary custody of
+a child sought to be adopted at the time of or any time after the filing
+of a petition for adoption. The petition for temporary custody must be
+signed by each petitioner for adoption.
+(b) A court may grant a petition for temporary custody filed
+under subsection (a) for a child who is under the care and
+supervision of the department if the court finds that:
+(1) the petition for adoption is in proper form;
+(2) the department:
+(A) is a party to the adoption; or
+(B) has been served with notice of the petition for adoption
+and the petition for temporary custody;
+(3) the petitioner is the current placement for the child at the
+time the petition for temporary custody is filed;
+(4) the petitioner has been the child's placement for at least
+ES 171—LS 6404/DI 148
+
+14
+twelve (12) months, consecutively or nonconsecutively; and
+(5) the act of granting the petition filed under subsection (a)
+is in the best interests of the child.
+(b) (c) For a child who is not under the care and supervision of
+the department, a court may grant a petition for temporary custody
+filed under subsection (a) if the court finds that:
+(1) the petition for adoption is in proper form; and
+(2) the act of placing the child with the petitioner or petitioners
+for adoption pending the hearing on the petition for adoption is in
+the best interests of the child; and
+(3) the petitioner for adoption is legally and financially
+responsible for the child until otherwise ordered by the court.
+(c) If temporary custody is granted under this section, the petitioner
+or petitioners for adoption are legally and financially responsible for
+the child until otherwise ordered by the court.
+(d) To the extent that a temporary custody order issued under this
+section conflicts with a custody order issued by any other court except
+a court having appellate jurisdiction over the child, a temporary order
+under this section controls.
+(e) A:
+(1) party to the adoption; or
+(2) person who had:
+(A) custody of; or
+(B) parenting time or visitation with;
+the child before a temporary custody order was issued under this
+section;
+may file a petition to suspend, modify, or revoke the temporary custody
+order granted under this section.
+(f) Upon receipt of a petition described in subsection (e), the court
+shall set the matter for hearing.
+(g) The court may suspend, modify, or revoke the temporary custody
+order if the court determines suspension, modification, or revocation
+of the temporary custody order is in the best interests of the child.
+(h) If the court declines to enter an ex-parte order granting the
+petitioner temporary custody, the court shall set the matter for a
+hearing not more than fifteen (15) days after the petitioner files the
+petition for temporary custody under subsection (a).".
+Page 4, line 18, delete "law." and insert "law, child safety, or
+stability.".
+Page 4, line 26, delete "to support visitation and the reunification
+process." and insert ", unless the caregiver has safety concerns.".
+Page 5, line 13, delete "relative who" and insert "placement with
+ES 171—LS 6404/DI 148
+
+15
+whom".
+Page 5, line 13, after "resided" delete "with".
+Page 5, line 14, delete "months" and insert "months, consecutively
+or nonconsecutively,".
+Page 5, line 38, delete "law." and insert "law, child safety, or
+stability.".
+Page 6, line 4, delete "to support visitation and the reunification
+process." and insert ", unless the caregiver has safety concerns.".
+Page 7, line 11, delete "opinion" and insert "order".
+Page 7, delete lines 38 through 42, begin a new paragraph and
+insert:
+"SECTION 8. IC 31-34-23-6, AS AMENDED BY P.L.105-2022,
+SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 6. (a) Except as provided in section 3 of this
+chapter, before changing a child's out-of-home placement, the
+department or any other party seeking a change in placement shall
+file a motion requesting a change in placement if the child:
+(1) has been in the same out-of-home placement for at least one
+(1) year; twelve (12) months, consecutively or
+nonconsecutively; and
+(2) is in:
+(A) a foster family home; or
+(B) the care of a relative.
+(b) The person with whom the child is placed may:
+(1) indicate in writing that the person:
+(A) does not intend to contest the change of placement under
+subsection (a); and
+(B) waives the right to request a hearing under subsection (f);
+and
+(2) provide the writing to:
+(A) the department; or
+(B) the court.
+(c) If the department any party files the motion described in
+subsection (a), the department party shall give notice to all persons
+affected. The department's party's notice must state that the person
+affected may file a written objection not later than ten (10) fifteen (15)
+days after service of the department's notice.
+(d) If a writing described in subsection (b)(1) is provided to the
+department before the department files the motion described in
+subsection (a), the department may file the writing with the motion
+requesting a change in placement.
+(e) If the court receives the writing described in subsection (b), the
+ES 171—LS 6404/DI 148
+
+16
+court may rule on the department's motion without delay. If the motion
+filed by a party alleges substantiated exigent circumstances (as
+defined in IC 31-9-2-44.1) or the court receives the writing
+described in subsection (b), the court may rule on the party's
+motion without delay.
+(f) If the person affected files a timely objection to the department's
+party's motion requesting a change in out-of-home placement, the
+juvenile court shall hold a hearing on the question.
+(g) If a petition has been filed under IC 31-19-2-13, the court
+shall not change the child's placement until the petition under
+IC 31-19-2-13 has been ruled on.
+(g) (h) The department party must show that the change in
+out-of-home placement is in the best interests of the child.".
+Page 8, delete lines 1 through 10.
+Renumber all SECTIONS consecutively.
+(Reference is to SB 171 as printed January 13, 2026.)
+JOHNSON T
+_____
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Judiciary, to which was referred
+Senate Bill 171, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Replace the effective dates in SECTIONS 2 through 10 with
+"[EFFECTIVE UPON PASSAGE]".
+Page 1, delete lines 1 through 17, begin a new paragraph and insert:
+"SECTION 1. IC 31-19-2.5-3, AS AMENDED BY P.L.203-2021,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 3. (a) Except as provided in section 4 of this
+chapter, notice must be given to:
+(1) a person whose consent to adoption is required under
+IC 31-19-9-1;
+(2) a putative father who is entitled to notice under IC 31-19-4;
+(3) a grandparent described in IC 31-19-4.5-1(3) of a child sought
+to be adopted;
+(4) a licensed child placing agency of which the child is a ward;
+(5) if the child is the subject of an open or pending child in need
+of services proceeding under IC 31-34, the local office of the
+ES 171—LS 6404/DI 148
+
+17
+department of child services in the county in which the child in
+need of services proceeding was filed; and
+(6) if the child is a subject of an open or pending juvenile
+delinquency proceeding under IC 31-37, the entity, facility, or
+individual of which the child is a ward.
+(b) Proof of notice to those under subsection (a) shall be filed with
+the court in the adoption proceeding before the final adoption hearing
+can be scheduled.
+(c) Failure to provide notice under this section shall require setting
+aside the adoption decree if challenged by an entity or individual who
+did not receive notice as required by this section. An adoption decree
+may be challenged under this subsection for a period of not more than
+forty-five (45) days after the date the adoption decree is entered.
+(d) If notice is provided to the local office of the department of
+child services under subsection (a)(5), the local office of the
+department of child services shall provide notice to the court in
+which the child in need of services proceeding is open or pending.
+Notice under this subsection:
+(1) is solely for the purpose of allowing the court to notify the
+parties:
+(A) that an adoption petition has been filed; and
+(B) of the cause number and name of the petitioner for the
+adoption petition; and
+(2) must be provided to the court not later than seven (7)
+business days after the local office of the department of child
+services receives notice under subsection (a)(5).
+SECTION 2. IC 31-19-9-2, AS AMENDED BY P.L.89-2023,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 2. (a) The consent to adoption may be
+executed or acknowledged at any time after the birth of the child, either
+in the presence of:
+(1) the court, in person or by video conferencing;
+(2) an attorney, in person or by video conferencing;
+(2) (3) a notary public or other person authorized to take
+acknowledgments; or
+(3) (4) an authorized agent of:
+(A) the department; or
+(B) a licensed child placing agency.
+(b) The child's mother may not execute a consent to adoption before
+the birth of the child.
+(c) The child's father may execute a consent to adoption before the
+birth of the child if the consent to adoption:
+ES 171—LS 6404/DI 148
+
+18
+(1) is in writing;
+(2) is signed by the child's father in the presence of a notary
+public; and
+(3) contains an acknowledgment that:
+(A) the consent to adoption is irrevocable; and
+(B) the child's father will not receive notice of the adoption
+proceedings.
+(d) A child's father who consents to the adoption of the child under
+subsection (c) may not challenge or contest the child's adoption.
+(e) Except as provided in subsection (f) or (g), a person who
+executes a written consent to the adoption of a child may not execute
+a second or subsequent written consent to have another person adopt
+the child unless one (1) or more of the following apply:
+(1) Each original petitioner provides a written statement that the
+petitioner is not adopting the child.
+(2) The person consenting to the adoption has been permitted to
+withdraw the first consent to adoption under IC 31-19-10.
+(3) The court dismisses the petition for adoption filed by the
+original petitioner or petitioners for adoption based upon a
+showing, by clear and convincing evidence, that it is not in the
+best interests of the child that the petition for adoption be granted.
+(4) The court denies the petition to adopt the child filed by the
+original petitioner or petitioners for adoption.
+(f) The department may execute more than one (1) written consent
+to the adoption of a child if the department determines that the
+execution of more than one (1) written consent is in the best interests
+of the child.
+(g) The parents of a child who is a ward of the department may
+execute a second or subsequent consent if:
+(1) the court with jurisdiction over the child in need of services
+determines that adoption by the person to whom consents were
+originally signed is not in the child's best interest; or
+(2) if the child's placement with the person who has petitioned or
+intends to petition to adopt the child is disrupted.".
+Page 2, delete lines 1 through 39.
+Page 3, between lines 40 and 41, begin a new paragraph and insert:
+"SECTION 5. IC 31-19-19-4, AS AMENDED BY P.L.186-2025,
+SECTION 152, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 4. All papers, records, and
+information pertaining to the adoption, whether part of:
+(1) the permanent record of the court; or
+(2) a file in:
+ES 171—LS 6404/DI 148
+
+19
+(A) the division of vital records;
+(B) the department or local office;
+(C) a licensed child placing agency; or
+(D) a professional health care provider (as defined in
+IC 34-6-2.1-165);
+are confidential and may be disclosed only in accordance with
+IC 31-19-2.5-3, IC 31-19-17, this chapter, or IC 31-19-20 through
+IC 31-19-25.5.".
+Page 9, between lines 12 and 13, begin a new paragraph and insert:
+"SECTION 11. IC 31-34-21-11 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 11. (a) When the
+juvenile court finds that the objectives of the dispositional decree have
+been met, the court shall discharge the child and the child's parent,
+guardian, or custodian.
+(b) The objectives of the dispositional decree are not considered
+met solely because a court is prohibited from changing a child's
+placement under IC 31-34-23-6(g).
+(c) If a child's placement has been stayed under
+IC 31-34-23-6(g), the court may not consider:
+(1) the existence of a pending adoption; or
+(2) any pending matters or hearings in the adoption;
+to determine whether the objectives of the dispositional decree
+have been met under subsection (a).".
+Page 9, line 34, delete "If" and insert "Except as provided in
+subsection (i), if".
+Page 10, delete lines 10 through 12, begin a new paragraph and
+insert:
+"(g) Except as provided in subsection (e), if:
+(1) a child is the subject of an adoption petition filed under
+IC 31-19-2;
+(2) the adoption petitioner is the current placement for the
+child; and
+(3) the adoption petitioner has been the child's placement for
+at least twelve (12) months, consecutively or
+nonconsecutively;
+the court shall not change the child's placement until the adoption
+petition under IC 31-19-2 has been ruled on.".
+Page 10, between lines 14 and 15, begin a new paragraph and insert:
+"(i) If the party seeking a change of placement is a:
+(1) parent (as defined in IC 31-9-2-88(a));
+(2) guardian ad litem (as defined in IC 31-9-2-50); or
+(3) court appointed special advocate;
+ES 171—LS 6404/DI 148
+
+20
+the party must provide notice under subsection (c) to the
+department. The department shall provide notice of the motion
+requesting a change of placement to the child's out-of-home
+placement. The department's notice must state that the person
+affected may file a written objection not later than fifteen (15) days
+after service of the department's notice.".
+Page 10, line 23, delete "opinion" and insert "order".
+Page 10, after line 27, begin a new paragraph and insert:
+"SECTION 11. An emergency is declared for this act.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 171 as reprinted January 21, 2026.)
+JETER
+Committee Vote: yeas 12, nays 0.
+ES 171—LS 6404/DI 148
+
+[DELETED:  e t c r R t c h r w f a l 1 m o]
+[DELETED:  t t o o t d d a n a p t a p i t c c s a t p m p n t t]
+[DELETED:  a p w c t a i r u i t c i a s o a o o p j]
+[DELETED:  s u s ( t l o o t 2 I 3 A A B P P S 2 ( T c t a m b ( a n p o o p a t t]
+[DELETED:  E a p i s ( o ( a p w p o p f a b u  t a o a c i t d d t t]
+[DELETED:  u I 3 r t t c t P S 9 P c p a 1 I A T R A F a p h c p ( d i c a m b d o i a w]
+[DELETED:  1 I A T R A F b c o a n o a d i A c m o o t d m a a]
+[DELETED:  a f r t c s u i I T s a p s o t c i]
+[DELETED:  T c w t i w t b]
+[DELETED:  a w b o a r c T s a p s o t c i T c w t i w t b]
+[DELETED:  i t l r ( f l a m]
+[DELETED:  T n f p b t p g o w 1 I 3 I A T R A I a c p h b s u b c a c o p t y t ( m c o]
+[DELETED:  s g n t a p a T d b t d f t m d i i I 3 o t c r t w l t ( m c o ( T d p m s t t c i]
+[DELETED:  p m p n u s ( t t a c o p t t c o 1 I A T R A F]
+[DELETED:  o w t r t s A a 1 b t e c a l 1 b a n s ( f a c w i u t c a]
+[DELETED:  t p f a i l a f]
+[DELETED:  b c a c o p t y t ( m c o I t d a p f t m d i b t d f t m d i]
+[DELETED:  i I 3 o t c r t w ( T d p m s t t c i t e d i S 2 t 1 w a p w c t a i r u]
+[DELETED:  i t c i a s o a o o p j s u s ( t l o o t 2 I 3 A A B P P S 2 ( T c t a m b ( a n p o o p a t t]
+[DELETED:  E a p i s ( o ( a p w p o p f a b u  t a o a c i t d d t t 1 I A T R A F]
+[DELETED:  a p h c p ( d i c a m b d o i a w I a c p h b s u l t ( m c o]
+[DELETED:  p m p n u s ( t t a c o p t t c o]

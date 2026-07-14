@@ -1,0 +1,3294 @@
+Title: HOUSE BILL No. 1116
+Official Title: HOUSE BILL No. 1116
+Number of Sections: 2
+Source: versions - House Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 37 sections found
+
+================================================================================
+
+Section 1:
+*HB1116.2*
+January 22, 2026
+_____
+DIGEST OF HB 1116 (Updated January 21, 2026 5:01 pm - DI 125)
+Citations Affected: IC 24-5; IC 28-8.
+Synopsis: Virtual currency kiosks. Requires an operator of a virtual
+currency kiosk (operator) operated in Indiana to be licensed in Indiana
+as a money transmitter. Makes a corresponding amendment to a
+definition in the statute governing licensure of money transmitters.
+Provides that a person may not install, or cause to be installed, a virtual
+currency kiosk in Indiana unless the person is licensed as a money
+transmitter and obtains authorization for the installation from the
+department of financial institutions (department). Requires an operator
+to: (1) report specified information to the department quarterly and
+annually; and (2) provide specified information to the department upon
+request; and requires the department to prepare and make available to
+the public an annual report summarizing operators' reported
+information in composite form. Requires: (1) an operator to display
+notice of specified information on, or in readable proximity to, a virtual
+currency kiosk; and (2) the owner of the premises on which the virtual
+currency kiosk is located to ensure that the notice remains clearly and
+prominently displayed on, or in readable proximity to, the virtual
+currency kiosk. Requires an operator to provide a user of a virtual
+currency kiosk with specified information on the display of the virtual
+currency kiosk before the user may initiate a virtual currency
+(Continued next page)
+Effective: Upon passage.
+McNamara, Meltzer, Teshka,
+Steuerwald
+January 5, 2026, read first time and referred to Committee on Financial Institutions.
+January 15, 2026, amended, reported — Do Pass. Referred to Committee on Ways and
+Means pursuant to Rule 126.3.
+January 22, 2026, amended, reported — Do Pass.
+HB 1116—LS 6503/DI 119
+Digest Continued
+transaction through the virtual currency kiosk. Requires an operator to:
+(1) verify a user's identity by requiring the user to submit a copy of a
+government issued identification card that identifies the user; and (2)
+require the user to submit the user's name, date of birth, telephone
+number, address, and electronic mail address; before accepting
+payment from the user through a virtual currency kiosk. Requires an
+operator, in addition to any fee associated with obtaining a license, to
+pay $500 to the department of financial institutions before February 1
+of each year for each virtual currency kiosk that the operator operated
+in Indiana in the previous calendar year. Requires a virtual currency
+kiosk to provide a user, upon completion of a virtual currency
+transaction, with a receipt that includes specified information. Provides
+that if an individual is fraudulently induced to make a payment or
+transfer through a virtual currency kiosk, the operator of the virtual
+currency kiosk shall refund to the individual: (1) the full amount of the
+payment or transfer; and (2) the amount of any charges assessed to the
+individual by the operator for the virtual currency transaction; upon
+receipt of specified information from the individual within specified
+deadlines. Provides that an operator may not allow a new user to
+conduct one or more virtual currency transactions that, in combination
+with any purchases or transfers by the new user through any other
+product or service offered by the operator, total: (1) more than $2,000
+in a single 24 hour period; or (2) more than $10,000 in a single 30 day
+period. Provides that an operator may not allow an existing user to
+conduct one or more virtual currency transactions that, in combination
+with any purchases or transfers by the individual through any other
+product or service offered by the operator, total: (1) more than $4,000
+in a single 24 hour period; or (2) more than $15,000 in a single 30 day
+period. Provides that a new user may not: (1) conduct a virtual currency
+transaction through the operator's virtual currency kiosk or kiosks
+located in Indiana; or (2) purchase or transfer any other product or
+service offered by the operator; unless the new user's profile with the
+operator has been activated for at least seven business days. Prohibits
+an operator from collecting charges with respect to a single virtual
+currency transaction in an amount that exceeds 10% of the value of the
+transaction. Requires an operator to provide live, telephone based
+customer service to users of a virtual currency kiosk 24 hours a day, 7
+days a week. Requires an operator to take specified actions to detect
+and prevent the commission of fraud and money laundering through the
+operator's virtual currency kiosks. Provides that the operator of a virtual
+currency kiosk that is located on the premises of a business in Indiana:
+(1) shall annually provide the staff of the business with specified
+training materials; and (2) may not prohibit or prevent staff at the
+business from advising users of the virtual currency kiosk regarding
+fraud and scams. Prescribes responsibilities for operators with regard
+to cooperation with state and federal law enforcement and regulatory
+agencies. Provides exemption from these provisions for specified types
+of financial institutions. Requires the department of financial
+institutions to submit a report to the executive director of the legislative
+services agency for distribution to the members of the general assembly
+that provides certain information by December 31, 2027. Provides that:
+(1) a person that violates these provisions commits an act that is
+actionable by the attorney general under law regarding deceptive
+consumer sales; and (2) in addition to the penalties prescribed for
+deceptive consumer sales, a person that knowingly or intentionally
+violates these provisions may be ordered to forfeit one or both of: (A)
+the amount of the charges assessed to users of the person's virtual
+currency kiosks in Indiana during the period of the violation; and (B)
+any virtual currency kiosk operated by the operator in Indiana. Provides
+that the attorney general may bring an enforcement action against: (1)
+the operator of a virtual currency kiosk that gives rise to a violation;
+and (2) the owner of the premises on which the virtual currency kiosk
+(Continued next page)
+HHBB 11111166——LLSS 66550033//DDII 111199
+Digest Continued
+is located if the owner knowingly or intentionally permitted the
+violation.
+HHBB 11111166——LLSS 66550033//DDII 111199
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1116
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-5-0.5-3, AS AMENDED BY P.L.104-2024,
+2 SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 3. (a) A supplier may not commit an unfair,
+4 abusive, or deceptive act, omission, or practice in connection with a
+5 consumer transaction. Such an act, omission, or practice by a supplier
+6 is a violation of this chapter whether it occurs before, during, or after
+7 the transaction. An act, omission, or practice prohibited by this section
+8 includes both implicit and explicit misrepresentations.
+9 (b) Without limiting the scope of subsection (a), the following acts,
+10 and the following representations as to the subject matter of a
+11 consumer transaction, made orally, in writing, or by electronic
+12 communication, by a supplier, are deceptive acts:
+13 (1) That such subject of a consumer transaction has sponsorship,
+14 approval, performance, characteristics, accessories, uses, or
+15 benefits it does not have which the supplier knows or should
+HB 1116—LS 6503/DI 119
+2
+1 reasonably know it does not have.
+2 (2) That such subject of a consumer transaction is of a particular
+3 standard, quality, grade, style, or model, if it is not and if the
+4 supplier knows or should reasonably know that it is not.
+5 (3) That such subject of a consumer transaction is new or unused,
+6 if it is not and if the supplier knows or should reasonably know
+7 that it is not.
+8 (4) That such subject of a consumer transaction will be supplied
+9 to the public in greater quantity than the supplier intends or
+10 reasonably expects.
+11 (5) That replacement or repair constituting the subject of a
+12 consumer transaction is needed, if it is not and if the supplier
+13 knows or should reasonably know that it is not.
+14 (6) That a specific price advantage exists as to such subject of a
+15 consumer transaction, if it does not and if the supplier knows or
+16 should reasonably know that it does not.
+17 (7) That the supplier has a sponsorship, approval, or affiliation in
+18 such consumer transaction the supplier does not have, and which
+19 the supplier knows or should reasonably know that the supplier
+20 does not have.
+21 (8) That such consumer transaction involves or does not involve
+22 a warranty, a disclaimer of warranties, or other rights, remedies,
+23 or obligations, if the representation is false and if the supplier
+24 knows or should reasonably know that the representation is false.
+25 (9) That the consumer will receive a rebate, discount, or other
+26 benefit as an inducement for entering into a sale or lease in return
+27 for giving the supplier the names of prospective consumers or
+28 otherwise helping the supplier to enter into other consumer
+29 transactions, if earning the benefit, rebate, or discount is
+30 contingent upon the occurrence of an event subsequent to the time
+31 the consumer agrees to the purchase or lease.
+32 (10) That the supplier is able to deliver or complete the subject of
+33 the consumer transaction within a stated period of time, when the
+34 supplier knows or should reasonably know the supplier could not.
+35 If no time period has been stated by the supplier, there is a
+36 presumption that the supplier has represented that the supplier
+37 will deliver or complete the subject of the consumer transaction
+38 within a reasonable time, according to the course of dealing or the
+39 usage of the trade.
+40 (11) That the consumer will be able to purchase the subject of the
+41 consumer transaction as advertised by the supplier, if the supplier
+42 does not intend to sell it.
+HB 1116—LS 6503/DI 119
+3
+1 (12) That the replacement or repair constituting the subject of a
+2 consumer transaction can be made by the supplier for the estimate
+3 the supplier gives a customer for the replacement or repair, if the
+4 specified work is completed and:
+5 (A) the cost exceeds the estimate by an amount equal to or
+6 greater than ten percent (10%) of the estimate;
+7 (B) the supplier did not obtain written permission from the
+8 customer to authorize the supplier to complete the work even
+9 if the cost would exceed the amounts specified in clause (A);
+10 (C) the total cost for services and parts for a single transaction
+11 is more than seven hundred fifty dollars ($750); and
+12 (D) the supplier knew or reasonably should have known that
+13 the cost would exceed the estimate in the amounts specified in
+14 clause (A).
+15 (13) That the replacement or repair constituting the subject of a
+16 consumer transaction is needed, and that the supplier disposes of
+17 the part repaired or replaced earlier than seventy-two (72) hours
+18 after both:
+19 (A) the customer has been notified that the work has been
+20 completed; and
+21 (B) the part repaired or replaced has been made available for
+22 examination upon the request of the customer.
+23 (14) Engaging in the replacement or repair of the subject of a
+24 consumer transaction if the consumer has not authorized the
+25 replacement or repair, and if the supplier knows or should
+26 reasonably know that it is not authorized.
+27 (15) The act of misrepresenting the geographic location of the
+28 supplier by listing an alternate business name or an assumed
+29 business name (as described in IC 23-0.5-3-4) in a local telephone
+30 directory if:
+31 (A) the name misrepresents the supplier's geographic location;
+32 (B) the listing fails to identify the locality and state of the
+33 supplier's business;
+34 (C) calls to the local telephone number are routinely forwarded
+35 or otherwise transferred to a supplier's business location that
+36 is outside the calling area covered by the local telephone
+37 directory; and
+38 (D) the supplier's business location is located in a county that
+39 is not contiguous to a county in the calling area covered by the
+40 local telephone directory.
+41 (16) The act of listing an alternate business name or assumed
+42 business name (as described in IC 23-0.5-3-4) in a directory
+HB 1116—LS 6503/DI 119
+4
+1 assistance data base if:
+2 (A) the name misrepresents the supplier's geographic location;
+3 (B) calls to the local telephone number are routinely forwarded
+4 or otherwise transferred to a supplier's business location that
+5 is outside the local calling area; and
+6 (C) the supplier's business location is located in a county that
+7 is not contiguous to a county in the local calling area.
+8 (17) The violation by a supplier of IC 24-3-4 concerning
+9 cigarettes for import or export.
+10 (18) The act of a supplier in knowingly selling or reselling a
+11 product to a consumer if the product has been recalled, whether
+12 by the order of a court or a regulatory body, or voluntarily by the
+13 manufacturer, distributor, or retailer, unless the product has been
+14 repaired or modified to correct the defect that was the subject of
+15 the recall.
+16 (19) The violation by a supplier of 47 U.S.C. 227, including any
+17 rules or regulations issued under 47 U.S.C. 227.
+18 (20) The violation by a supplier of the federal Fair Debt
+19 Collection Practices Act (15 U.S.C. 1692 et seq.), including any
+20 rules or regulations issued under the federal Fair Debt Collection
+21 Practices Act (15 U.S.C. 1692 et seq.).
+22 (21) A violation of IC 24-5-7 (concerning health spa services), as
+23 set forth in IC 24-5-7-17.
+24 (22) A violation of IC 24-5-8 (concerning business opportunity
+25 transactions), as set forth in IC 24-5-8-20.
+26 (23) A violation of IC 24-5-10 (concerning home consumer
+27 transactions), as set forth in IC 24-5-10-18.
+28 (24) A violation of IC 24-5-11 (concerning real property
+29 improvement contracts), as set forth in IC 24-5-11-14.
+30 (25) A violation of IC 24-5-12 (concerning telephone
+31 solicitations), as set forth in IC 24-5-12-23.
+32 (26) A violation of IC 24-5-13.5 (concerning buyback motor
+33 vehicles), as set forth in IC 24-5-13.5-14.
+34 (27) A violation of IC 24-5-14 (concerning automatic
+35 dialing-announcing devices), as set forth in IC 24-5-14-13.
+36 (28) A violation of IC 24-5-15 (concerning credit services
+37 organizations), as set forth in IC 24-5-15-11.
+38 (29) A violation of IC 24-5-16 (concerning unlawful motor
+39 vehicle subleasing), as set forth in IC 24-5-16-18.
+40 (30) A violation of IC 24-5-17 (concerning environmental
+41 marketing claims), as set forth in IC 24-5-17-14.
+42 (31) A violation of IC 24-5-19 (concerning deceptive commercial
+HB 1116—LS 6503/DI 119
+5
+1 solicitation), as set forth in IC 24-5-19-11.
+2 (32) A violation of IC 24-5-21 (concerning prescription drug
+3 discount cards), as set forth in IC 24-5-21-7.
+4 (33) A violation of IC 24-5-23.5-7 (concerning real estate
+5 appraisals), as set forth in IC 24-5-23.5-9.
+6 (34) A violation of IC 24-5-26 (concerning identity theft), as set
+7 forth in IC 24-5-26-3.
+8 (35) A violation of IC 24-5.5 (concerning mortgage rescue fraud),
+9 as set forth in IC 24-5.5-6-1.
+10 (36) A violation of IC 24-8 (concerning promotional gifts and
+11 contests), as set forth in IC 24-8-6-3.
+12 (37) A violation of IC 21-18.5-6 (concerning representations
+13 made by a postsecondary credit bearing proprietary educational
+14 institution), as set forth in IC 21-18.5-6-22.5.
+15 (38) A violation of IC 24-5-15.5 (concerning collection actions of
+16 a plaintiff debt buyer), as set forth in IC 24-5-15.5-6.
+17 (39) A violation of IC 24-14 (concerning towing services), as set
+18 forth in IC 24-14-10-1.
+19 (40) A violation of IC 24-5-14.5 (concerning misleading or
+20 inaccurate caller identification information), as set forth in
+21 IC 24-5-14.5-12.
+22 (41) A violation of IC 24-5-27 (concerning intrastate inmate
+23 calling services), as set forth in IC 24-5-27-27.
+24 (42) A violation of IC 15-21 (concerning sales of dogs by retail
+25 pet stores), as set forth in IC 15-21-7-4.
+26 (43) A violation of IC 24-4-23 (concerning the security of
+27 information collected and transmitted by an adult oriented website
+28 operator), as set forth in IC 24-4-23-14.
+29 (44) A violation of IC 28-8-7 (concerning virtual currency
+30 kiosk operators), as set forth in IC 28-8-7-28.
+31 (c) Any representations on or within a product or its packaging or
+32 in advertising or promotional materials which would constitute a
+33 deceptive act shall be the deceptive act both of the supplier who places
+34 such representation thereon or therein, or who authored such materials,
+35 and such other suppliers who shall state orally or in writing that such
+36 representation is true if such other supplier shall know or have reason
+37 to know that such representation was false.
+38 (d) If a supplier shows by a preponderance of the evidence that an
+39 act resulted from a bona fide error notwithstanding the maintenance of
+40 procedures reasonably adopted to avoid the error, such act shall not be
+41 deceptive within the meaning of this chapter.
+42 (e) It shall be a defense to any action brought under this chapter that
+HB 1116—LS 6503/DI 119
+6
+1 the representation constituting an alleged deceptive act was one made
+2 in good faith by the supplier without knowledge of its falsity and in
+3 reliance upon the oral or written representations of the manufacturer,
+4 the person from whom the supplier acquired the product, any testing
+5 organization, or any other person provided that the source thereof is
+6 disclosed to the consumer.
+7 (f) For purposes of subsection (b)(12), a supplier that provides
+8 estimates before performing repair or replacement work for a customer
+9 shall give the customer a written estimate itemizing as closely as
+10 possible the price for labor and parts necessary for the specific job
+11 before commencing the work.
+12 (g) For purposes of subsection (b)(15) and (b)(16), a telephone
+13 company or other provider of a telephone directory or directory
+14 assistance service or its officer or agent is immune from liability for
+15 publishing the listing of an alternate business name or assumed
+16 business name of a supplier in its directory or directory assistance data
+17 base unless the telephone company or other provider of a telephone
+18 directory or directory assistance service is the same person as the
+19 supplier who has committed the deceptive act.
+20 (h) For purposes of subsection (b)(18), it is an affirmative defense
+21 to any action brought under this chapter that the product has been
+22 altered by a person other than the defendant to render the product
+23 completely incapable of serving its original purpose.
+24 SECTION 2. IC 28-8-4.1-201, AS ADDED BY P.L.198-2023,
+25 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 UPON PASSAGE]: Sec. 201. The following definitions apply
+27 throughout this chapter:
+28 (1) "Acting in concert" means persons knowingly acting together
+29 with a common goal of jointly acquiring control of a licensee
+30 whether or not pursuant to an express agreement.
+31 (2) "Authorized delegate" means a person a licensee designates to
+32 engage in money transmission on behalf of the licensee.
+33 (3) "Average daily money transmission liability", with respect to
+34 a calendar quarter, means:
+35 (A) the sum of the amounts of a licensee's outstanding money
+36 transmission obligations in Indiana at the end of each day in
+37 the calendar quarter; divided by
+38 (B) the total number of days in that calendar quarter.
+39 For purposes of this subdivision, a "calendar quarter" is a quarter
+40 ending on March 31, June 30, September 30, or December 31.
+41 (4) "Bank Secrecy Act" means:
+42 (A) the Bank Secrecy Act (31 U.S.C. 5311 et seq.); and
+HB 1116—LS 6503/DI 119
+7
+1 (B) regulations adopted under the Bank Secrecy Act (31
+2 U.S.C. 5311 et seq.).
+3 (5) "Closed loop stored value" means stored value that is
+4 redeemable by the issuer only for goods or services provided by
+5 the issuer or the issuer's affiliate or by franchisees of the issuer or
+6 the issuer's affiliate, except to the extent required by applicable
+7 law to be redeemable in cash for its cash value.
+8 (6) "Control" means any of the following:
+9 (A) The power to vote, directly or indirectly, at least
+10 twenty-five percent (25%) of the outstanding voting shares or
+11 voting interests of a licensee or of a person in control of a
+12 licensee.
+13 (B) The power to elect or appoint a majority of key individuals
+14 or executive officers, managers, directors, trustees, or other
+15 persons exercising managerial authority of a person in control
+16 of a licensee.
+17 (C) The power to exercise, directly or indirectly, a controlling
+18 influence over the management or policies of a licensee or of
+19 a person in control of a licensee. For purposes of this clause,
+20 a person is presumed to exercise a controlling influence if the
+21 person holds the power to vote, directly or indirectly, at least
+22 ten percent (10%) of the outstanding voting shares or voting
+23 interests of a licensee or of a person in control of a licensee.
+24 However, a person presumed to exercise a controlling
+25 influence under this clause may rebut the presumption of
+26 control if the person is a passive investor.
+27 For purposes of this subdivision, the percentage of a person
+28 controlled by any other person is determined by aggregating the
+29 other person's interest with the interest of any other immediate
+30 family member of that person, including the person's spouse,
+31 parents, children, siblings, mothers-in-law and fathers-in-law,
+32 sons-in-law and daughters-in-law, and any other person who
+33 shares the person's home.
+34 (7) "Department" refers to the members of the department of
+35 financial institutions.
+36 (8) "Director" refers to the director of the department appointed
+37 under IC 28-11-2-1.
+38 (9) "Eligible rating" means a credit rating of any of the three (3)
+39 highest rating categories provided by an eligible rating service,
+40 including any rating category modifiers, such as "plus" or "minus"
+41 for S&P Global, or an equivalent modifier for any other eligible
+42 rating service. The term includes the following:
+HB 1116—LS 6503/DI 119
+8
+1 (A) A long term credit rating equal to at least A- by S&P
+2 Global, or an equivalent long term credit rating for any other
+3 eligible rating service.
+4 (B) A short term credit rating equal to at least A-2 by S&P
+5 Global, or an equivalent short term credit rating for any other
+6 eligible rating service.
+7 In any case in which the credit ratings differ among eligible rating
+8 services, the highest rating applies in determining whether the
+9 credit rating is an "eligible rating" as defined in this subdivision.
+10 (10) "Eligible rating service" means:
+11 (A) a nationally recognized statistical rating organization, as
+12 defined by the United States Securities and Exchange
+13 Commission; or
+14 (B) any other organization designated as such by the director.
+15 (11) "Federally insured depository financial institution" means:
+16 (A) a bank;
+17 (B) a credit union;
+18 (C) a savings and loan association;
+19 (D) a trust company;
+20 (E) a corporate fiduciary;
+21 (F) a savings association;
+22 (G) a savings bank;
+23 (H) an industrial bank; or
+24 (I) an industrial loan company;
+25 that is organized under the law of the United States or any state of
+26 the United States and that has federally or privately insured
+27 deposits as permitted by state or federal law.
+28 (12) "In Indiana", with respect to the location of a transaction,
+29 means the following:
+30 (A) At a physical location in Indiana, for a transaction
+31 requested in person.
+32 (B) For a transaction requested electronically or by telephone,
+33 a determination made by the provider of money transmission,
+34 by relying on the following, that the person requesting the
+35 transaction is in Indiana:
+36 (i) Information, provided by the person, regarding the
+37 location of the individual's residential address or the
+38 business entity's principal place of business or other physical
+39 address location, as applicable.
+40 (ii) Any records associated with the person that the provider
+41 of money transmission may have that indicate the person's
+42 location, including an address associated with an account.
+HB 1116—LS 6503/DI 119
+9
+1 (13) "Individual" means a natural person.
+2 (14) "Key individual" means an individual ultimately responsible
+3 for establishing or directing policies and procedures of a licensee,
+4 such as an executive officer, manager, director, or trustee.
+5 (15) "Licensee" means a person licensed under this chapter.
+6 (16) "Material litigation" means litigation that, according to
+7 United States generally accepted accounting principles, is
+8 significant to a person's financial health and would be required to
+9 be disclosed in the person's annual audited financial statements,
+10 report to shareholders, or similar records.
+11 (17) "Money" means a medium of exchange that is issued by the
+12 United States government or by a foreign government. The term
+13 includes a monetary unit of account established by an
+14 intergovernmental organization or by agreement between two (2)
+15 or more governments.
+16 (18) "Monetary value" means a medium of exchange, whether or
+17 not redeemable in money.
+18 (19) "Money transmission" means any of the following:
+19 (A) Selling or issuing payment instruments to a person located
+20 in Indiana.
+21 (B) Selling or issuing stored value to a person located in
+22 Indiana.
+23 (C) Receiving money for transmission from a person located
+24 in Indiana.
+25 (D) After December 31, 2026, conducting or facilitating a
+26 virtual currency transaction (as defined in IC 28-8-7-12).
+27 The term does not include the provision of solely online or
+28 telecommunications services or network access.
+29 (20) "MSB accredited state" means a state agency that is
+30 accredited by the Conference of State Bank Supervisors and
+31 Money Transmitter Regulators Association for money
+32 transmission licensing and supervision.
+33 (21) "Multistate licensing process" means an agreement entered
+34 into by and among state regulators related to:
+35 (A) coordinated processing of applications for money
+36 transmission licenses;
+37 (B) applications for the acquisition and control of a licensee;
+38 (C) control determinations; or
+39 (D) notice and information requirements for a change of key
+40 individuals.
+41 (22) "NMLS" means the Nationwide Multistate Licensing System
+42 and Registry:
+HB 1116—LS 6503/DI 119
+10
+1 (A) developed by the Conference of State Bank Supervisors
+2 and the American Association of Residential Mortgage
+3 Regulators; and
+4 (B) owned and operated by the State Regulatory Registry,
+5 LLC, or by any successor or affiliated entity;
+6 for the licensing and registry of persons in financial services
+7 industries.
+8 (23) "Outstanding money transmission obligation", as established
+9 and extinguished in accordance with applicable state law, means:
+10 (A) any payment instrument or stored value that:
+11 (i) is issued or sold by a licensee to a person located in the
+12 United States, or reported as sold by an authorized delegate
+13 of the licensee to a person located in the United States; and
+14 (ii) has not yet been paid or refunded by or for the licensee,
+15 or escheated in accordance with applicable abandoned
+16 property laws; or
+17 (B) any money that:
+18 (i) is received for transmission by a licensee, or by an
+19 authorized delegate of the licensee, from a person located in
+20 the United States; and
+21 (ii) has not been received by the payee or refunded to the
+22 seller, or escheated in accordance with applicable
+23 abandoned property laws.
+24 For purposes of this subdivision, a person is located "in the
+25 United States" if the person is located in any state, territory, or
+26 possession of the United States or in the District of Columbia, the
+27 Commonwealth of Puerto Rico, or a United States military
+28 installation located in a foreign country.
+29 (24) "Passive investor" means a person that:
+30 (A) does not have the power to elect a majority of key
+31 individuals or executive officers, managers, directors, trustees,
+32 or other persons exercising managerial authority over a person
+33 in control of a licensee;
+34 (B) is not employed by and does not have any managerial
+35 duties with respect to the licensee or a person in control of the
+36 licensee;
+37 (C) does not have the power to exercise, directly or indirectly,
+38 a controlling influence over the management or policies of the
+39 licensee or a person in control of the licensee; and
+40 (D) either:
+41 (i) attests to as facts the characteristics of passivity set forth
+42 in clauses (A) through (C), in a form and by a medium
+HB 1116—LS 6503/DI 119
+11
+1 prescribed by the director; or
+2 (ii) commits to the characteristics of passivity set forth in
+3 clauses (A) through (C) in a written document.
+4 (25) "Payment instrument" means a written or electronic check,
+5 draft, money order, traveler's check, or other written or electronic
+6 instrument for the transmission or payment of money or monetary
+7 value, whether or not negotiable. The term does not include:
+8 (A) stored value; or
+9 (B) any instrument that:
+10 (i) is redeemable by the issuer only for goods or services
+11 provided by the issuer or its affiliate, or franchisees of the
+12 issuer or its affiliate, except to the extent required by
+13 applicable law to be redeemable in cash for its cash value;
+14 or
+15 (ii) is not sold to the public but is issued and distributed as
+16 part of a loyalty, rewards, or promotional program.
+17 (26) "Person" means any individual, general partnership, limited
+18 partnership, limited liability company, corporation, trust,
+19 association, joint stock corporation, or other corporate entity, as
+20 so identified by the director.
+21 (27) "Receiving money for transmission" means receiving money
+22 or monetary value in the United States for transmission within or
+23 outside the United States by electronic or other means. The term
+24 "money received for transmission" has a corresponding meaning.
+25 (28) "Stored value" means monetary value representing a claim,
+26 against the issuer, that is evidenced by an electronic or digital
+27 record and that is intended and accepted for use as a means of
+28 redemption for money or monetary value, or payment for goods
+29 or services. The term includes "prepaid access" as defined in 31
+30 CFR 1010.100. The term does not include:
+31 (A) a payment instrument;
+32 (B) closed loop stored value; or
+33 (C) stored value not sold to the public but issued and
+34 distributed as part of a loyalty, rewards, or promotional
+35 program.
+36 (29) "Tangible net worth" means the aggregate assets of a
+37 licensee, excluding all intangible assets, less liabilities, as
+38 determined in accordance with United States generally accepted
+39 accounting principles.
+40 SECTION 3. IC 28-8-7 IS ADDED TO THE INDIANA CODE AS
+41 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+42 PASSAGE]:
+HB 1116—LS 6503/DI 119
+12
+1 Chapter 7. Virtual Currency Kiosks
+2 Sec. 1. This chapter does not apply to the following:
+3 (1) A federally insured depository financial institution (as
+4 defined in IC 28-8-4.1-201(11)).
+5 (2) A bank holding company.
+6 (3) An office of an international banking corporation.
+7 (4) A foreign bank that establishes a federal branch under the
+8 International Banking Act of 1978 (12 U.S.C. 3101 et seq.).
+9 (5) A corporation organized under the Bank Service Company
+10 Act (12 U.S.C. 1861 et seq.).
+11 (6) A corporation organized under the Edge Act (12 U.S.C.
+12 611 et seq.).
+13 Sec. 2. As used in this chapter, "blockchain" means data that is:
+14 (1) shared across a network to create a ledger of verified
+15 transactions or information among network participants; and
+16 (2) linked using cryptography to maintain the integrity of the
+17 ledger and to execute other functions.
+18 Sec. 3. As used in this chapter, "blockchain analytics" means the
+19 examination and interpretation of data extracted from public
+20 records of transactions on blockchains or on similar publicly
+21 distributed electronic ledgers.
+22 Sec. 4. As used in this chapter, "blockchain analytics and
+23 tracing software" means a software service that uses blockchain
+24 analytics to provide:
+25 (1) risk specific information regarding blockchain
+26 transactions; and
+27 (2) tracing of virtual currency addresses.
+28 Sec. 5. As used in this chapter, "charges", with respect to a
+29 virtual currency transaction, means:
+30 (1) fees or expenses paid by a user to the operator of a virtual
+31 currency kiosk as compensation for the operator's facilitation
+32 of the virtual currency transaction; and
+33 (2) the difference between:
+34 (A) the market price of a virtual currency purchased, sold,
+35 transferred, or exchanged by the user in the virtual
+36 currency transaction; and
+37 (B) the price of the virtual currency charged to the user by
+38 the operator of the virtual currency kiosk.
+39 Sec. 6. As used in this chapter, "operate", with regard to a
+40 virtual currency kiosk, means to use the virtual currency kiosk to
+41 remotely conduct or facilitate virtual currency transactions
+42 through the virtual currency kiosk:
+HB 1116—LS 6503/DI 119
+13
+1 (1) on behalf of users of the virtual currency kiosk; and
+2 (2) for compensation by a user of the virtual currency kiosk
+3 in the form of charges assessed to the user.
+4 Sec. 7. As used in this chapter, "operator", with regard to a
+5 virtual currency kiosk, means a person that:
+6 (1) owns; or
+7 (2) engages in the business of operating;
+8 the virtual currency kiosk, regardless of whether the person
+9 provides custodial or noncustodial services with regard to virtual
+10 currency.
+11 Sec. 8. As used in this chapter, "user" means an individual that
+12 initiates a virtual currency transaction through a virtual currency
+13 kiosk for the purpose of the individual's purchase, sale, transfer, or
+14 exchange of virtual currency.
+15 Sec. 9. As used in this chapter, "virtual currency" means a
+16 natively electronic asset that:
+17 (1) confers economic, proprietary, or access rights or powers;
+18 and
+19 (2) is recorded using cryptographically secured distributed
+20 ledger technology, or an analogous technology.
+21 Sec. 10. As used in this chapter, "virtual currency address"
+22 means an alphanumeric identifier that is associated with a virtual
+23 currency wallet and that identifies the location to which a virtual
+24 currency transaction can be sent.
+25 Sec. 11. As used in this chapter, "virtual currency kiosk" means
+26 an electronic terminal through which the operator of the electronic
+27 terminal is able to conduct or facilitate a virtual currency
+28 transaction on behalf of a third party, including by:
+29 (1) connecting to a separate virtual currency exchange that
+30 performs the transaction; or
+31 (2) drawing on virtual currency in the possession of the
+32 operator.
+33 Sec. 12. As used in this chapter, "virtual currency transaction"
+34 means:
+35 (1) an exchange of virtual currency for:
+36 (A) money;
+37 (B) bank credit; or
+38 (C) another form of virtual currency; or
+39 (2) an exchange of:
+40 (A) money; or
+41 (B) bank credit;
+42 for virtual currency;
+HB 1116—LS 6503/DI 119
+14
+1 conducted through a virtual currency kiosk.
+2 Sec. 13. As used in this chapter, "virtual currency transaction
+3 hash" means a unique, alphanumeric identifier that:
+4 (1) is assigned to a transaction on a blockchain; and
+5 (2) confirms that the transaction has been validated and
+6 added to the blockchain.
+7 Sec. 14. As used in this chapter, "virtual currency wallet" means
+8 a software application or other mechanism providing a means to
+9 hold the electronic keys necessary to access and transfer virtual
+10 currency.
+11 Sec. 15. After December 31, 2026, a person may not operate a
+12 virtual currency kiosk that is located in Indiana unless the person
+13 is licensed under IC 28-8-4.1.
+14 Sec. 16. A person may not install, or cause a third party to
+15 install, a virtual currency kiosk in Indiana unless the person:
+16 (1) is licensed under IC 28-8-4.1, after December 31, 2026;
+17 and
+18 (2) obtains authorization for the installation from the
+19 department.
+20 Sec. 17. (a) Not later than forty-five (45) days after the end of
+21 each calendar quarter, an operator that operates a virtual
+22 currency kiosk that is located in Indiana shall submit to the
+23 department a report that includes the following information:
+24 (1) The following information regarding the operator:
+25 (A) The legal name of the operator.
+26 (B) Any fictitious or trade name used by the operator.
+27 (C) The physical address of the operator.
+28 (D) The virtual currency address or addresses used by the
+29 operator in conducting virtual currency transactions on
+30 behalf of users in Indiana.
+31 (2) The following information regarding each of the
+32 operator's virtual currency kiosks that is located in Indiana:
+33 (A) The street address at which the virtual currency kiosk
+34 is located.
+35 (B) The following information regarding the owner of the
+36 premises on which the virtual currency kiosk is located:
+37 (i) The legal name of the owner.
+38 (ii) Any fictitious or assumed trade name used by the
+39 owner.
+40 (iii) The primary address of the owner.
+41 (iv) The registered agent of the owner.
+42 (C) The start date of the virtual currency kiosk's
+HB 1116—LS 6503/DI 119
+15
+1 operation.
+2 (D) The end date of the virtual currency kiosk's operation,
+3 if the operator is no longer operating the virtual currency
+4 kiosk.
+5 (E) The number of virtual currency transactions that were
+6 initiated at the virtual currency kiosk but declined by the
+7 operator due to suspicion of illicit activity.
+8 The report required under this section is in addition to the report
+9 required to be submitted to the department under IC 28-8-4.1-701.
+10 (b) Not later than March 31 of each year, an operator that
+11 operates a virtual currency kiosk that is located in Indiana shall
+12 submit to the department an annual report, in a form prescribed
+13 by the department, that includes the following information
+14 regarding the operator's business conducted during the
+15 immediately preceding calendar year through the operator's
+16 virtual currency kiosk or kiosks located in Indiana:
+17 (1) The operator's gross revenue attributable to virtual
+18 currency transactions conducted through the operator's
+19 virtual currency kiosks located in Indiana.
+20 (2) The total number and value of virtual currency
+21 transactions conducted through the operator's virtual
+22 currency kiosks located in Indiana.
+23 (3) Copies of each complaint filed against the operator with:
+24 (A) the Better Business Bureau; or
+25 (B) a state or federal agency other than the department;
+26 with regard to use of the operator's virtual currency kiosks
+27 located in Indiana, and a description of the resolution, if any,
+28 of each complaint.
+29 (4) The:
+30 (A) total number of refunds requested by users in
+31 connection with virtual currency transactions conducted
+32 through the operator's virtual currency kiosks located in
+33 Indiana;
+34 (B) number and total dollar amount of refunds that were
+35 granted by the operator in response to requests described
+36 in clause (A); and
+37 (C) number of requests described in clause (A) that were
+38 denied by the operator.
+39 (5) Contact information for the operator's compliance officer.
+40 (6) The total number of the operator's virtual currency
+41 corresponding locations.
+42 (7) The:
+HB 1116—LS 6503/DI 119
+16
+1 (A) total number of suspicious activity reports filed by the
+2 operator under 31 U.S.C. 5311 et seq. with regard to
+3 virtual currency transactions conducted through the
+4 operator's virtual currency kiosks located in Indiana; and
+5 (B) total value of the transactions reported as suspicious by
+6 the operator under clause (A).
+7 The report required under this section is in addition to the
+8 information required to be filed with the department under
+9 IC 28-8-4.1-702.
+10 (c) Upon request by the department, an operator shall provide
+11 to the department any virtual currency transaction and user
+12 information requested by the department with regard to the
+13 operator's virtual currency kiosks located in Indiana, including
+14 information related to virtual currency transactions that were
+15 initiated by a user but denied by the operator.
+16 (d) Information received by the department under this section
+17 is confidential under IC 28-8-4.1-402 and may be released only in
+18 composite form, except as otherwise provided by law.
+19 (e) The department shall prepare and make available to the
+20 public an annual report summarizing the information, in composite
+21 form as described in subsection (d), received by the department
+22 under this section in the immediately preceding calendar year.
+23 Sec. 18. (a) The operator of a virtual currency kiosk that is
+24 located in Indiana shall provide the following information in a
+25 notice that is clearly and prominently displayed on, or in readable
+26 proximity to, the virtual currency kiosk:
+27 (1) Notice that criminals may direct victims of fraud or scams
+28 to send money via virtual currency kiosks.
+29 (2) The:
+30 (A) name and address of the virtual currency kiosk's
+31 operator;
+32 (B) toll free telephone number at which the operator's
+33 customer service can be reached; and
+34 (C) days and times during which a user can contact the
+35 operator for assistance.
+36 (3) Contact information for any state or local law enforcement
+37 or government agency with jurisdiction in the virtual
+38 currency kiosk's location to investigate allegations of fraud
+39 regarding financial transactions.
+40 (b) After a user initiates use of a virtual currency kiosk that is
+41 located in Indiana, but before the virtual currency kiosk allows the
+42 user to initiate a virtual currency transaction through the virtual
+HB 1116—LS 6503/DI 119
+17
+1 currency kiosk, the operator of the virtual currency kiosk shall
+2 provide the user with the following information on the electronic
+3 display of the virtual currency kiosk in a clear, conspicuous, and
+4 easily readable manner, and in the preferred language of the user:
+5 (1) The following information, which must be displayed
+6 immediately after the user's initiation of use of the virtual
+7 currency kiosk and choice of the user's preferred language:
+8 (A) The:
+9 (i) name and address of the virtual currency kiosk's
+10 operator;
+11 (ii) toll free telephone number at which the operator's
+12 customer service can be reached; and
+13 (iii) days and times during which a user can contact the
+14 operator for assistance.
+15 (B) Contact information for any state or local law
+16 enforcement or government agency with jurisdiction in the
+17 virtual currency kiosk's location to investigate allegations
+18 of fraud regarding financial transactions.
+19 (2) All terms and conditions associated with virtual currency
+20 transactions that can be conducted through the virtual
+21 currency kiosk, including:
+22 (A) the charges collected; and
+23 (B) exchange rates used;
+24 by the operator for virtual currency transactions conducted
+25 through the virtual currency kiosk.
+26 (3) A warning, written prominently and in bold type, and
+27 provided separately from the other information required to
+28 be displayed under this subsection, in the following or a
+29 substantially similar form:
+30 "WARNING: This technology can be used to defraud you.
+31 If someone asked you to deposit money in this machine
+32 and/or is on the phone with you and claims to be a:
+33 (1) friend or family member;
+34 (2) government agent;
+35 (3) computer software representative;
+36 (4) bill collector; or
+37 (5) law enforcement officer;
+38 or is anyone you do not know personally, STOP THIS
+39 TRANSACTION IMMEDIATELY and contact your local
+40 law enforcement agency and the kiosk operator. This
+41 transaction may be a scam.
+42 NEVER SEND MONEY to someone you don't know.".
+HB 1116—LS 6503/DI 119
+18
+1 (4) Notice regarding the material risks associated with virtual
+2 currency and virtual currency transactions, in the following
+3 or a substantially similar form:
+4 "Virtual currency is not issued or backed by the United
+5 States government and is not legal tender in the United
+6 States. Virtual currency is not subject to protections by the
+7 Federal Deposit Insurance Corporation, National Credit
+8 Union Administration, or Securities Investor Protection
+9 Corporation, and its value relative to the U.S. dollar may
+10 fluctuate significantly.".
+11 (5) Any additional information the department requires.
+12 (c) The operator of a virtual currency kiosk that is located in
+13 Indiana shall:
+14 (1) require a user of the virtual currency kiosk, as a condition
+15 of the user's continued use of the virtual currency kiosk after
+16 the user is provided with the information described in
+17 subsection (b), to affirmatively acknowledge:
+18 (A) that the user has received and understood the
+19 information described in subsection (b); and
+20 (B) that the user consents to continue using the virtual
+21 currency kiosk after the user's receipt of the information
+22 described in subsection (b); and
+23 (2) preserve the user's acknowledgments under subdivision
+24 (1)(A) and (1)(B) as part of the operator's record of the
+25 transaction.
+26 (d) The:
+27 (1) provision of the information described in subsections (a)
+28 and (b) to a user of a virtual currency kiosk; or
+29 (2) receipt by a virtual currency kiosk operator of a user's
+30 acknowledgments under subsection (c);
+31 does not affect the user's eligibility for a refund under section 21 of
+32 this chapter.
+33 (e) The owner of the premises on which a virtual currency kiosk
+34 is located shall ensure that the notice provided by a virtual
+35 currency kiosk's operator under subsection (a) remains clearly and
+36 prominently displayed on, or in readable proximity to, the virtual
+37 currency kiosk.
+38 Sec. 19. (a) Before accepting payment from a user through a
+39 virtual currency kiosk that is located in Indiana, the operator of
+40 the virtual currency kiosk shall:
+41 (1) verify the identity of the user by:
+42 (A) requiring the user to submit to the operator a copy of
+HB 1116—LS 6503/DI 119
+19
+1 a government issued identification card that identifies the
+2 user; or
+3 (B) obtaining verification of the identity of the user
+4 through an agent of the operator that requires the user to
+5 submit to the agent a copy of a government issued
+6 identification card that identifies the user; and
+7 (2) require the user to submit to the operator the user's name,
+8 date of birth, telephone number, address, and electronic mail
+9 address. The information submitted by the user under this
+10 subdivision must match the information on the government
+11 issued identification card described in subdivision (1).
+12 (b) The operator of a virtual currency kiosk that is located in
+13 Indiana may not allow a user to engage in a virtual currency
+14 transaction through the virtual currency kiosk under a name or
+15 identity that is not verified as the user's name and identity under
+16 subsection (a).
+17 Sec. 20. Upon a user's completion of a virtual currency
+18 transaction through a virtual currency kiosk that is located in
+19 Indiana, the operator of the virtual currency kiosk must provide
+20 the user with a receipt, in both paper form and a retainable
+21 electronic form, that includes the following information:
+22 (1) The name of the operator and the toll free telephone
+23 number at which the operator's customer service can be
+24 reached.
+25 (2) The type, value, date, and precise time of the transaction.
+26 (3) Each virtual currency address and transaction hash
+27 associated with the transaction, if available.
+28 (4) All charges assessed to the user with respect to the
+29 transaction.
+30 (5) The exchange rate that was used for purposes of the
+31 transaction, expressed in United States dollars to the virtual
+32 currency that was the subject of the virtual currency
+33 transaction.
+34 (6) A statement of the operator's refund policy.
+35 (7) Contact information for any state or local law enforcement
+36 or government agency with jurisdiction in the virtual
+37 currency kiosk's location to investigate allegations of fraud
+38 regarding financial transactions.
+39 (8) Any additional information the department requires.
+40 Sec. 21. (a) If an individual is fraudulently induced to make a
+41 payment or transfer through a virtual currency transaction
+42 conducted through a virtual currency kiosk that is located in
+HB 1116—LS 6503/DI 119
+20
+1 Indiana, the operator of the virtual currency kiosk shall, subject to
+2 subsection (b), refund to the individual:
+3 (1) the full amount of the payment or transfer; and
+4 (2) the amount of any charges assessed to the individual by the
+5 operator with respect to the virtual currency transaction;
+6 regardless of any acknowledgment or affirmation of consent to the
+7 virtual currency transaction that is made by the individual, and
+8 regardless of whether the virtual currency transaction is
+9 authorized or unauthorized.
+10 (b) To receive a refund under subsection (a), an individual who
+11 is fraudulently induced to make a payment or transfer through a
+12 virtual currency transaction conducted through a virtual currency
+13 kiosk that is located in Indiana must:
+14 (1) not later than ninety (90) days after:
+15 (A) the date of the virtual currency transaction; or
+16 (B) the date on which the individual reasonably becomes
+17 aware of the fraud;
+18 provide notice of the fraudulent nature of the transaction to
+19 the operator of the virtual currency kiosk; and
+20 (2) not later than one hundred twenty (120) days after
+21 contacting the virtual currency kiosk operator under
+22 subdivision (1), submit to the operator a:
+23 (A) police report;
+24 (B) government agency report; or
+25 (C) sworn statement;
+26 detailing the fraudulent nature of the transaction.
+27 (c) If an individual meets the conditions for a refund under
+28 subsection (b), the operator shall issue a refund to the individual
+29 under subsection (a) not later than seventy-two (72) hours after
+30 receiving from the individual the notice required under subsection
+31 (b)(1) and the police report, government agency report, or a sworn
+32 statement required under subsection (b)(2).
+33 (d) A virtual currency kiosk operator shall make a refund under
+34 this section in the originating currency used by the individual to
+35 make the payment or transfer.
+36 (e) A virtual currency kiosk operator:
+37 (1) shall provide any notice sent to a user for purposes of this
+38 section in both English and Spanish; and
+39 (2) when communicating directly with a user for purposes of
+40 this section, shall communicate with the user in the user's
+41 preferred language through:
+42 (A) the virtual currency kiosk operator's staff;
+HB 1116—LS 6503/DI 119
+21
+1 (B) oral interpretation services; or
+2 (C) auxiliary aids and services.
+3 Sec. 22. (a) As used in this section, "existing user" means an
+4 individual who has had a profile with a virtual currency kiosk
+5 operator for at least forty-five (45) days.
+6 (b) As used in this section, "new user" means an individual who
+7 has had a profile with a virtual currency kiosk operator for less
+8 than forty-five (45) days.
+9 (c) Subject to subsection (g), an operator may not allow a new
+10 user to conduct any combination of:
+11 (1) one (1) or more virtual currency transactions through the
+12 operator's virtual currency kiosk or kiosks located in Indiana;
+13 and
+14 (2) one (1) or more purchases or transfers through any other
+15 product or service offered by the operator;
+16 in a single twenty-four (24) hour period the total value of which is
+17 more than two thousand dollars ($2,000).
+18 (d) An operator may not allow an existing user to conduct any
+19 combination of:
+20 (1) one (1) or more virtual currency transactions through the
+21 operator's virtual currency kiosk or kiosks located in Indiana;
+22 and
+23 (2) one (1) or more purchases or transfers through any other
+24 product or service offered by the operator;
+25 in a single twenty-four (24) hour period the total value of which is
+26 more than four thousand dollars ($4,000).
+27 (e) Subject to subsection (g), an operator may not allow a new
+28 user to conduct any combination of:
+29 (1) one (1) or more virtual currency transactions through the
+30 operator's virtual currency kiosk or kiosks located in Indiana;
+31 and
+32 (2) one (1) or more purchases or transfers through any other
+33 product or service offered by the operator;
+34 in a single thirty (30) day period the total value of which is more
+35 than ten thousand dollars ($10,000).
+36 (f) An operator may not allow an existing user to conduct any
+37 combination of:
+38 (1) one (1) or more virtual currency transactions through the
+39 operator's virtual currency kiosk or kiosks located in Indiana;
+40 and
+41 (2) one (1) or more purchases or transfers through any other
+42 product or service offered by the operator;
+HB 1116—LS 6503/DI 119
+22
+1 in a single thirty (30) day period the total value of which is more
+2 than fifteen thousand dollars ($15,000).
+3 (g) A new user may not:
+4 (1) conduct a virtual currency transaction through the
+5 operator's virtual currency kiosk or kiosks located in Indiana;
+6 or
+7 (2) purchase or transfer any other product or service offered
+8 by the operator;
+9 unless the new user's profile with the operator has been activated
+10 for at least seven (7) business days.
+11 Sec. 23. After December 31, 2026, a virtual currency kiosk
+12 operator that operates a virtual currency kiosk that is located in
+13 Indiana may not collect charges, directly or indirectly, with respect
+14 to a single virtual currency transaction conducted through the
+15 virtual currency kiosk in an amount that exceeds ten percent
+16 (10%) of the value of the transaction in United States dollars.
+17 Sec. 24. A virtual currency kiosk operator that operates a
+18 virtual currency kiosk that is located in Indiana shall make
+19 customer service that:
+20 (1) can be accessed by telephone; and
+21 (2) is provided by an individual located in the United States in
+22 real time;
+23 available to users of the virtual currency kiosk twenty-four (24)
+24 hours a day, seven (7) days a week.
+25 Sec. 25. (a) An operator that operates a virtual currency kiosk
+26 that is located in Indiana shall take reasonable steps to detect and
+27 prevent the commission of fraud and money laundering through
+28 the virtual currency kiosk, including by establishing and
+29 maintaining a written anti-fraud and anti-money-laundering policy
+30 that includes:
+31 (1) identification and assessment of risks for the commission
+32 of fraud and money laundering through the operator's virtual
+33 currency kiosk or kiosks;
+34 (2) procedures and controls to protect against the risks
+35 identified under subdivision (1);
+36 (3) allocation of responsibility within the operator's
+37 organization for monitoring the risks identified under
+38 subdivision (1); and
+39 (4) procedures for periodic evaluation and revision of the
+40 policy, procedures, controls, and monitoring described in this
+41 subsection.
+42 (b) An operator that operates a virtual currency kiosk that is
+HB 1116—LS 6503/DI 119
+23
+1 located in Indiana shall:
+2 (1) use blockchain analytics and tracing software to:
+3 (A) assist in preventing the use of the virtual currency
+4 kiosk to transfer virtual currency to a virtual currency
+5 wallet that is, at the time of the virtual currency
+6 transaction, known or likely to be associated with
+7 fraudulent activity; and
+8 (B) detect virtual currency transaction patterns indicative
+9 of fraud or other illicit activities; and
+10 (2) upon request by the department, provide to the
+11 department evidence of the operator's use of blockchain
+12 analytics as required by this subsection.
+13 (c) An operator that operates a virtual currency kiosk that is
+14 located in Indiana may not allow a virtual currency transaction
+15 between:
+16 (1) a user; and
+17 (2) a virtual currency wallet that is associated with an
+18 overseas exchange that is not accessible to United States
+19 users;
+20 to be completed through the virtual currency kiosk.
+21 Sec. 26. The operator of a virtual currency kiosk that is located
+22 on the premises of a business in Indiana:
+23 (1) shall annually provide the staff of the business with
+24 training materials that are approved by the department and
+25 that describe:
+26 (A) the manner in which virtual currency kiosks can be
+27 used in furtherance of illicit activity;
+28 (B) indicators that a virtual currency kiosk is being used in
+29 furtherance of illicit activity; and
+30 (C) indicators that a user of a virtual currency kiosk may:
+31 (i) have been induced to use the virtual currency kiosk by
+32 fraud or by a scam; or
+33 (ii) be a victim of financial abuse or exploitation; and
+34 (2) may not prohibit or prevent staff at the business from
+35 advising users of the virtual currency kiosk regarding fraud
+36 and scams.
+37 Sec. 27. (a) An operator that operates a virtual currency kiosk
+38 that is located in Indiana shall:
+39 (1) maintain a dedicated:
+40 (A) United States telephone number; or
+41 (B) electronic mail address;
+42 by which a federal or state regulatory agency can contact the
+HB 1116—LS 6503/DI 119
+24
+1 operator regarding reported fraud committed via one (1) or
+2 more of the operator's virtual currency kiosks located in
+3 Indiana; and
+4 (2) respond within a reasonable time to reports received by
+5 the operator through the telephone number or electronic mail
+6 address.
+7 (b) An operator that operates a virtual currency kiosk that is
+8 located in Indiana shall, as required by a subpoena or civil
+9 investigative demand served on the virtual kiosk operator by a law
+10 enforcement agency, a regulatory agency, or the attorney general,
+11 or as required by a court order:
+12 (1) provide the law enforcement agency, regulatory agency, or
+13 attorney general with data obtained by the operator through
+14 the operator's blockchain analytics and tracing software; and
+15 (2) assist the law enforcement agency, regulatory agency, or
+16 attorney general in performing blockchain analytics;
+17 to assist in any investigative matter related to potential fraud or
+18 unfair, deceptive, or abusive acts.
+19 Sec. 28. (a) A person that violates this chapter commits a
+20 deceptive act that is actionable by the attorney general under
+21 IC 24-5-0.5 and is subject to the remedies and penalties under
+22 IC 24-5-0.5.
+23 (b) The attorney general may bring an action under subsection
+24 (a) against the following:
+25 (1) The operator of a virtual currency kiosk that gives rise to
+26 a violation of this chapter.
+27 (2) The owner of the premises on which the virtual currency
+28 kiosk is located, if the owner knowingly or intentionally
+29 permitted the violation described in subdivision (1).
+30 (c) If a court finds that a person has knowingly or intentionally
+31 operated one (1) or more virtual currency kiosks in Indiana in
+32 violation of this chapter, the court may, in addition to any other
+33 penalty imposed under IC 24-5-0.5, order one (1) or more of the
+34 following:
+35 (1) That the person forfeit and pay to the state the amount of
+36 any charges that were collected by the person from users of
+37 the virtual currency kiosk or kiosks during the period in
+38 which the person operated the virtual currency kiosk or
+39 kiosks in violation of this chapter.
+40 (2) That the person forfeit to the state any virtual currency
+41 kiosk that is owned by the person and located in Indiana.
+42 (3) That the person pay to the attorney general all costs
+HB 1116—LS 6503/DI 119
+25
+1 associated with the investigation of the violation.
+2 (d) The remedies and penalties under this section are not
+3 exclusive and are cumulative to any other remedy or penalty to
+4 which a person may be liable for conduct that violates this chapter.
+5 Sec. 29. (a) Except as provided in subsection (b), a political
+6 subdivision may not adopt or enforce an ordinance, resolution,
+7 regulation, or rule that:
+8 (1) conflicts with this chapter;
+9 (2) restricts, conditions, or regulates a matter governed by
+10 this chapter in a manner less restrictive than this chapter; or
+11 (3) diminishes any duty, prohibition, or protection established
+12 by this chapter.
+13 (b) A political subdivision may adopt or enforce an ordinance,
+14 resolution, regulation, or rule that provides more protection for
+15 users of virtual currency kiosks than is provided by this chapter,
+16 to the extent the ordinance, resolution, regulation, or rule is not
+17 inconsistent with this chapter.
+18 Sec. 30. In addition to any fee associated with obtaining a license
+19 under IC 28-8-4.1, an operator shall pay to the department before
+20 February 1 of each year an amount of five hundred dollars ($500)
+21 for each virtual currency kiosk that the operator operated in
+22 Indiana in the previous calendar year.
+23 Sec. 31. Not later than December 31, 2027, the department shall
+24 submit to the executive director of the legislative services agency
+25 for distribution to the members of the general assembly a report in
+26 an electronic format under IC 5-14-6 that does the following:
+27 (1) Compares the limit on charges described in section 23 of
+28 this chapter with any limit on charges associated with a
+29 virtual currency transaction conducted through a virtual
+30 currency kiosk established by other states.
+31 (2) Calculates the total number of complaints received by the
+32 attorney general's office and the department concerning
+33 fraudulently induced virtual currency transactions conducted
+34 through virtual currency kiosks in the previous calendar year.
+35 (3) Provides a detailed breakdown concerning the complaints
+36 described in subdivision (2), including detailing the number of
+37 complaints per county in Indiana and specifying whether the
+38 complaint involved a virtual currency kiosk operated by an
+39 operator licensed under IC 28-8-4.1.
+40 (4) Specifies the number of complaints described in
+41 subdivision (2) that were submitted by individuals who had
+42 not completed a virtual currency transaction conducted
+HB 1116—LS 6503/DI 119
+26
+1 through a virtual currency kiosk with the virtual currency
+2 kiosk operator that operated the virtual currency kiosk
+3 involved in the fraudulently induced virtual currency
+4 transaction prior to the fraudulently induced virtual currency
+5 transaction.
+6 Sec. 32. The department may adopt rules under IC 4-22-2
+7 necessary to administer this chapter.
+8 SECTION 4. An emergency is declared for this act.
+HB 1116—LS 6503/DI 119
+27
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Financial Institutions, to which
+was referred House Bill 1116, has had the same under consideration
+and begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 6, delete lines 24 through 42, begin a new paragraph and
+insert:
+"SECTION 2. IC 28-8-4.1-201, AS ADDED BY P.L.198-2023,
+
+Section 2:
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 201. The following definitions apply
+throughout this chapter:
+(1) "Acting in concert" means persons knowingly acting together
+with a common goal of jointly acquiring control of a licensee
+whether or not pursuant to an express agreement.
+(2) "Authorized delegate" means a person a licensee designates to
+engage in money transmission on behalf of the licensee.
+(3) "Average daily money transmission liability", with respect to
+a calendar quarter, means:
+(A) the sum of the amounts of a licensee's outstanding money
+transmission obligations in Indiana at the end of each day in
+the calendar quarter; divided by
+(B) the total number of days in that calendar quarter.
+For purposes of this subdivision, a "calendar quarter" is a quarter
+ending on March 31, June 30, September 30, or December 31.
+(4) "Bank Secrecy Act" means:
+(A) the Bank Secrecy Act (31 U.S.C. 5311 et seq.); and
+(B) regulations adopted under the Bank Secrecy Act (31
+U.S.C. 5311 et seq.).
+(5) "Closed loop stored value" means stored value that is
+redeemable by the issuer only for goods or services provided by
+the issuer or the issuer's affiliate or by franchisees of the issuer or
+the issuer's affiliate, except to the extent required by applicable
+law to be redeemable in cash for its cash value.
+(6) "Control" means any of the following:
+(A) The power to vote, directly or indirectly, at least
+twenty-five percent (25%) of the outstanding voting shares or
+voting interests of a licensee or of a person in control of a
+licensee.
+(B) The power to elect or appoint a majority of key individuals
+or executive officers, managers, directors, trustees, or other
+persons exercising managerial authority of a person in control
+HB 1116—LS 6503/DI 119
+28
+of a licensee.
+(C) The power to exercise, directly or indirectly, a controlling
+influence over the management or policies of a licensee or of
+a person in control of a licensee. For purposes of this clause,
+a person is presumed to exercise a controlling influence if the
+person holds the power to vote, directly or indirectly, at least
+ten percent (10%) of the outstanding voting shares or voting
+interests of a licensee or of a person in control of a licensee.
+However, a person presumed to exercise a controlling
+influence under this clause may rebut the presumption of
+control if the person is a passive investor.
+For purposes of this subdivision, the percentage of a person
+controlled by any other person is determined by aggregating the
+other person's interest with the interest of any other immediate
+family member of that person, including the person's spouse,
+parents, children, siblings, mothers-in-law and fathers-in-law,
+sons-in-law and daughters-in-law, and any other person who
+shares the person's home.
+(7) "Department" refers to the members of the department of
+financial institutions.
+(8) "Director" refers to the director of the department appointed
+under IC 28-11-2-1.
+(9) "Eligible rating" means a credit rating of any of the three (3)
+highest rating categories provided by an eligible rating service,
+including any rating category modifiers, such as "plus" or "minus"
+for S&P Global, or an equivalent modifier for any other eligible
+rating service. The term includes the following:
+(A) A long term credit rating equal to at least A- by S&P
+Global, or an equivalent long term credit rating for any other
+eligible rating service.
+(B) A short term credit rating equal to at least A-2 by S&P
+Global, or an equivalent short term credit rating for any other
+eligible rating service.
+In any case in which the credit ratings differ among eligible rating
+services, the highest rating applies in determining whether the
+credit rating is an "eligible rating" as defined in this subdivision.
+(10) "Eligible rating service" means:
+(A) a nationally recognized statistical rating organization, as
+defined by the United States Securities and Exchange
+Commission; or
+(B) any other organization designated as such by the director.
+(11) "Federally insured depository financial institution" means:
+HB 1116—LS 6503/DI 119
+29
+(A) a bank;
+(B) a credit union;
+(C) a savings and loan association;
+(D) a trust company;
+(E) a corporate fiduciary;
+(F) a savings association;
+(G) a savings bank;
+(H) an industrial bank; or
+(I) an industrial loan company;
+that is organized under the law of the United States or any state of
+the United States and that has federally or privately insured
+deposits as permitted by state or federal law.
+(12) "In Indiana", with respect to the location of a transaction,
+means the following:
+(A) At a physical location in Indiana, for a transaction
+requested in person.
+(B) For a transaction requested electronically or by telephone,
+a determination made by the provider of money transmission,
+by relying on the following, that the person requesting the
+transaction is in Indiana:
+(i) Information, provided by the person, regarding the
+location of the individual's residential address or the
+business entity's principal place of business or other physical
+address location, as applicable.
+(ii) Any records associated with the person that the provider
+of money transmission may have that indicate the person's
+location, including an address associated with an account.
+(13) "Individual" means a natural person.
+(14) "Key individual" means an individual ultimately responsible
+for establishing or directing policies and procedures of a licensee,
+such as an executive officer, manager, director, or trustee.
+(15) "Licensee" means a person licensed under this chapter.
+(16) "Material litigation" means litigation that, according to
+United States generally accepted accounting principles, is
+significant to a person's financial health and would be required to
+be disclosed in the person's annual audited financial statements,
+report to shareholders, or similar records.
+(17) "Money" means a medium of exchange that is issued by the
+United States government or by a foreign government. The term
+includes a monetary unit of account established by an
+intergovernmental organization or by agreement between two (2)
+or more governments.
+HB 1116—LS 6503/DI 119
+30
+(18) "Monetary value" means a medium of exchange, whether or
+not redeemable in money.
+(19) "Money transmission" means any of the following:
+(A) Selling or issuing payment instruments to a person located
+in Indiana.
+(B) Selling or issuing stored value to a person located in
+Indiana.
+(C) Receiving money for transmission from a person located
+in Indiana.
+(D) After December 31, 2026, conducting or facilitating a
+virtual currency transaction (as defined in IC 28-8-7-12).
+The term does not include the provision of solely online or
+telecommunications services or network access.
+(20) "MSB accredited state" means a state agency that is
+accredited by the Conference of State Bank Supervisors and
+Money Transmitter Regulators Association for money
+transmission licensing and supervision.
+(21) "Multistate licensing process" means an agreement entered
+into by and among state regulators related to:
+(A) coordinated processing of applications for money
+transmission licenses;
+(B) applications for the acquisition and control of a licensee;
+(C) control determinations; or
+(D) notice and information requirements for a change of key
+individuals.
+(22) "NMLS" means the Nationwide Multistate Licensing System
+and Registry:
+(A) developed by the Conference of State Bank Supervisors
+and the American Association of Residential Mortgage
+Regulators; and
+(B) owned and operated by the State Regulatory Registry,
+LLC, or by any successor or affiliated entity;
+for the licensing and registry of persons in financial services
+industries.
+(23) "Outstanding money transmission obligation", as established
+and extinguished in accordance with applicable state law, means:
+(A) any payment instrument or stored value that:
+(i) is issued or sold by a licensee to a person located in the
+United States, or reported as sold by an authorized delegate
+of the licensee to a person located in the United States; and
+(ii) has not yet been paid or refunded by or for the licensee,
+or escheated in accordance with applicable abandoned
+HB 1116—LS 6503/DI 119
+31
+property laws; or
+(B) any money that:
+(i) is received for transmission by a licensee, or by an
+authorized delegate of the licensee, from a person located in
+the United States; and
+(ii) has not been received by the payee or refunded to the
+seller, or escheated in accordance with applicable
+abandoned property laws.
+For purposes of this subdivision, a person is located "in the
+United States" if the person is located in any state, territory, or
+possession of the United States or in the District of Columbia, the
+Commonwealth of Puerto Rico, or a United States military
+installation located in a foreign country.
+(24) "Passive investor" means a person that:
+(A) does not have the power to elect a majority of key
+individuals or executive officers, managers, directors, trustees,
+or other persons exercising managerial authority over a person
+in control of a licensee;
+(B) is not employed by and does not have any managerial
+duties with respect to the licensee or a person in control of the
+licensee;
+(C) does not have the power to exercise, directly or indirectly,
+a controlling influence over the management or policies of the
+licensee or a person in control of the licensee; and
+(D) either:
+(i) attests to as facts the characteristics of passivity set forth
+in clauses (A) through (C), in a form and by a medium
+prescribed by the director; or
+(ii) commits to the characteristics of passivity set forth in
+clauses (A) through (C) in a written document.
+(25) "Payment instrument" means a written or electronic check,
+draft, money order, traveler's check, or other written or electronic
+instrument for the transmission or payment of money or monetary
+value, whether or not negotiable. The term does not include:
+(A) stored value; or
+(B) any instrument that:
+(i) is redeemable by the issuer only for goods or services
+provided by the issuer or its affiliate, or franchisees of the
+issuer or its affiliate, except to the extent required by
+applicable law to be redeemable in cash for its cash value;
+or
+(ii) is not sold to the public but is issued and distributed as
+HB 1116—LS 6503/DI 119
+32
+part of a loyalty, rewards, or promotional program.
+(26) "Person" means any individual, general partnership, limited
+partnership, limited liability company, corporation, trust,
+association, joint stock corporation, or other corporate entity, as
+so identified by the director.
+(27) "Receiving money for transmission" means receiving money
+or monetary value in the United States for transmission within or
+outside the United States by electronic or other means. The term
+"money received for transmission" has a corresponding meaning.
+(28) "Stored value" means monetary value representing a claim,
+against the issuer, that is evidenced by an electronic or digital
+record and that is intended and accepted for use as a means of
+redemption for money or monetary value, or payment for goods
+or services. The term includes "prepaid access" as defined in 31
+CFR 1010.100. The term does not include:
+(A) a payment instrument;
+(B) closed loop stored value; or
+(C) stored value not sold to the public but issued and
+distributed as part of a loyalty, rewards, or promotional
+program.
+(29) "Tangible net worth" means the aggregate assets of a
+licensee, excluding all intangible assets, less liabilities, as
+determined in accordance with United States generally accepted
+accounting principles.".
+Delete pages 7 through 10.
+Page 11, delete lines 1 through 41.
+Page 14, line 13, delete "A person" and insert "After December 31,
+2026, a person".
+Page 14, line 18, delete "IC 28-8-4.1;" and insert "IC 28-8-4.1, after
+December 31, 2026;".
+Page 21, delete lines 2 through 19, begin a new paragraph and
+insert:
+"Sec. 22. (a) As used in this section, "existing user" means an
+individual who has had a profile with a virtual currency kiosk
+operator for at least forty-five (45) days.
+(b) As used in this section, "new user" means an individual who
+has had a profile with a virtual currency kiosk operator for less
+than forty-five (45) days.
+(c) Subject to subsection (g), an operator may not allow a new
+user to conduct any combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+HB 1116—LS 6503/DI 119
+33
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single twenty-four (24) hour period the total value of which is
+more than two thousand dollars ($2,000).
+(d) An operator may not allow an existing user to conduct any
+combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single twenty-four (24) hour period the total value of which is
+more than four thousand dollars ($4,000).
+(e) Subject to subsection (g), an operator may not allow a new
+user to conduct any combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single thirty (30) day period the total value of which is more
+than ten thousand dollars ($10,000).
+(f) An operator may not allow an existing user to conduct any
+combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single thirty (30) day period the total value of which is more
+than fifteen thousand dollars ($15,000).
+(g) A new user may not:
+(1) conduct a virtual currency transaction through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+or
+(2) purchase or transfer any other product or service offered
+by the operator;
+unless the new user's profile with the operator has been activated
+for at least seven (7) business days.".
+Page 21, line 20, delete "A virtual" and insert "After December 31,
+2026, a virtual".
+HB 1116—LS 6503/DI 119
+34
+Page 21, line 24, delete "three percent (3%)" and insert "fifteen
+percent (15%)".
+Page 21, line 30, after "individual" insert "located in the United
+States".
+Page 21, line 31, delete "from 8 a.m. to 10" and insert "twenty-four
+(24) hours a day, seven (7) days a week.".
+Page 21, delete line 32.
+Page 24, between lines 25 and 26, begin a new paragraph and insert:
+"Sec. 30. Not later than December 31, 2027, the department shall
+submit to the executive director of the legislative services agency
+for distribution to the members of the general assembly a report in
+an electronic format under IC 5-14-6 that does the following:
+(1) Compares the limit on charges described in section 23 of
+this chapter with any limit on charges associated with a
+virtual currency transaction conducted through a virtual
+currency kiosk established by other states.
+(2) Calculates the total number of complaints received by the
+attorney general's office and the department concerning
+fraudulently induced virtual currency transactions conducted
+through virtual currency kiosks in the previous calendar year.
+(3) Provides a detailed breakdown concerning the complaints
+described in subdivision (2), including detailing the number of
+complaints per county in Indiana and specifying whether the
+complaint involved a virtual currency kiosk operated by an
+operator licensed under IC 28-8-4.1.
+(4) Specifies the number of complaints described in
+subdivision (2) that were submitted by individuals who had
+not completed a virtual currency transaction conducted
+through a virtual currency kiosk with the virtual currency
+kiosk operator that operated the virtual currency kiosk
+involved in the fraudulently induced virtual currency
+transaction prior to the fraudulently induced virtual currency
+transaction.".
+Page 24, line 26, delete "Sec. 30." and insert "Sec. 31.".
+and when so amended that said bill do pass.
+(Reference is to HB 1116 as introduced.)
+TESHKA
+Committee Vote: yeas 12, nays 0.
+HB 1116—LS 6503/DI 119
+35
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Ways and Means, to which was
+referred House Bill 1116, has had the same under consideration and
+begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 19, line 9, after "address." insert "The information submitted
+by the user under this subdivision must match the information on
+the government issued identification card described in subdivision
+(1).".
+Page 22, line 13, delete "fifteen percent" and insert "ten percent".
+Page 22, line 14, delete "(15%)" and insert "(10%)".
+Page 24, delete lines 21 through 27, begin a new paragraph and
+insert:
+"(b) The attorney general may bring an action under subsection
+(a) against the following:
+(1) The operator of a virtual currency kiosk that gives rise to
+a violation of this chapter.
+(2) The owner of the premises on which the virtual currency
+kiosk is located, if the owner knowingly or intentionally
+permitted the violation described in subdivision (1).".
+Page 25, between lines 15 and 16, begin a new paragraph and insert:
+"Sec. 30. In addition to any fee associated with obtaining a
+license under IC 28-8-4.1, an operator shall pay to the department
+before February 1 of each year an amount of five hundred dollars
+($500) for each virtual currency kiosk that the operator operated
+in Indiana in the previous calendar year.".
+Page 25, line 16, delete "Sec. 30." and insert "Sec. 31.".
+Page 25, line 41, delete "Sec. 31." and insert "Sec. 32.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1116 as printed January 15, 2026.)
+THOMPSON
+Committee Vote: yeas 22, nays 0.
+HB 1116—LS 6503/DI 119
+[DELETED:  a m t M a c a t  a o a f t i f t p a a r s o r k b t u m i a v c]
+[DELETED:  a a e m a b a t p a u u c o a v c f i R t d o f b t a g u l r d]
+[DELETED:  l i t o k o i p t]
+[DELETED:  t f r a t t s m o  t m o i w o b e p c a u o]
+[DELETED:  T r o r c t s o  h t s t e i o c i e t b r o d i]
+[DELETED:  o r a i t s k o s]
+[DELETED:  T v b a s o I 2 c T v b a s o t f F D A v o I 2 ( h c A v o I 2 ( r p A v o I 2 ( t A v o I 2 ( a A v o I 2 ( c s A v o I 2 ( u m A v o I 2 ( e]
+[DELETED:  A v o I 2 ( r e A v o I 2 ( m o c i i a s f i A v o I 2 ( t s o a o p m w w c ]
+[DELETED:  o o p o a t d o d t l o a a b n o a 2 I 2 A A B P P S 2 T f d a]
+[DELETED:  r a u t B S A ( " l s v m s v t i T p t v d o i a l a p p t e a c t d a a p w]
+[DELETED:  b t U S S a E U S a t h o p i A a p l i I f a t I p b t p r t o t i r a o t]
+[DELETED:  " l m l t a t S g a a p i a m u o a e b a t d n i t p o s o o " a s m a s a t i o T R A f m c p o a f m]
+[DELETED:  t A A o R M e i a w a a i r f t b a l o a o e i a w a o P R o a U S m d n h t p t e a m o k]
+[DELETED:  o i a e t t e r b l l c c t s v n s t t p b i a a p o a l r o p " n w m t a a o  e a i a l l a]
+[DELETED:  a i o d e f p o t o b o o s p 4 A u i t c " a a r s i r b o e b t u i t v c o f v c t]
+[DELETED:  v c k r o w t p i a t c o f a v c d o v c i t p o t]
+[DELETED:  c t t t h b v a o a f t i f t c q a o t o a v k t i l i I s s t t T f i r e o t T s d o t v c k]
+[DELETED:  t d t i t f i t o b c d t p c y t t o T o g r a t v t c t t o T t n a v o v c c t t o v t n o r r b u i T t n o t o v c]
+[DELETED:  u 3 U 5 e s w r t c t c t t r r u t s i i a t t r t b f w t d u t d a v c t a u r b t d w r t t n a a o t v c k g a w j i t v]
+[DELETED:  T f i w m b d C i f a s o l l t c b c t t v d u t s i t f o  e a a t k o T]
+[DELETED:  u i p w t i d i t t u h r a u t a ( a p o t o r o t l s e t t n p b a v]
+[DELETED:  o v o t i o t u t t a a c o a g i 2 U a u c o a v c u w a r i b p f a a r a a w t o c s c b E v c a a t h A c a t t u w r t t T r t w u f p o t t w t s o t v c g a w j i t v o t t a v c t t a v c k t i l i]
+[DELETED:  o w t v c t i n l t o h t ( d a t v c k o u]
+[DELETED:  c a v c t t t c k i a a e t p 2 A v c k o t o  c k t i l i I s m v c k i b e a p a c t p a t r a o r w t o f m t r i u]
+[DELETED:  t i a t t o t v c k o l t b a w u r b t d p t t e o t o u o b a v c w t i a w a e t i n a t U S s a p t s o t b w]
+[DELETED:  i I s a r b a s o c 2 ( A p t v t c c  i l i t o k o i t p o t v c k o T t p p t a g a c]
+[DELETED:  T r a p u t s a n e v c k t o o i c w a l o c a w  c t c t a v g o a t d c S t n o c d i c a v c t c]
+[DELETED:  o t o t v c k i t f i v c 3 T d m r u 4]
+[DELETED:  b l t r t s b t t H w t P S 2 T f d a r a u t B S A ( " l s v m s v t i T p t v d o i a l]
+[DELETED:  a p p t e a c o d a a p w b t U S S a E]
+[DELETED:  U S a t h o p i A a p l i I f a t I p b t p r t o t i r a o t " l m l t a t S g a a p i a m u o a e b a]
+[DELETED:  t d n i t p o s o o " a s m a s a t i T R A f m c p o a f m t A A o R M e i a w a a]
+[DELETED:  i r f t b l o b a o e i a w a s o P R o a U S m d n h t p t e a m o k o i a e t t e r b]
+[DELETED:  l l c c t s v n s t t p b i a a p o a l r o p " n w m t a a o  e a i a l l a]
+[DELETED:  c a v c t t t]
+[DELETED:  c w a l o c a w  c t c t a v g o a t d c S t n o c d i c a v c t c o t o t v c k i t f i v c]
+[DELETED:  l t r t s b t t H w t i l i t o k o i]
+
+
+================================================================================
+
+Raw Text:
+*HB1116.2*
+January 22, 2026
+HOUSE BILL No. 1116
+_____
+DIGEST OF HB 1116 (Updated January 21, 2026 5:01 pm - DI 125)
+Citations Affected: IC 24-5; IC 28-8.
+Synopsis: Virtual currency kiosks. Requires an operator of a virtual
+currency kiosk (operator) operated in Indiana to be licensed in Indiana
+as a money transmitter. Makes a corresponding amendment to a
+definition in the statute governing licensure of money transmitters.
+Provides that a person may not install, or cause to be installed, a virtual
+currency kiosk in Indiana unless the person is licensed as a money
+transmitter and obtains authorization for the installation from the
+department of financial institutions (department). Requires an operator
+to: (1) report specified information to the department quarterly and
+annually; and (2) provide specified information to the department upon
+request; and requires the department to prepare and make available to
+the public an annual report summarizing operators' reported
+information in composite form. Requires: (1) an operator to display
+notice of specified information on, or in readable proximity to, a virtual
+currency kiosk; and (2) the owner of the premises on which the virtual
+currency kiosk is located to ensure that the notice remains clearly and
+prominently displayed on, or in readable proximity to, the virtual
+currency kiosk. Requires an operator to provide a user of a virtual
+currency kiosk with specified information on the display of the virtual
+currency kiosk before the user may initiate a virtual currency
+(Continued next page)
+Effective: Upon passage.
+McNamara, Meltzer, Teshka,
+Steuerwald
+January 5, 2026, read first time and referred to Committee on Financial Institutions.
+January 15, 2026, amended, reported — Do Pass. Referred to Committee on Ways and
+Means pursuant to Rule 126.3.
+January 22, 2026, amended, reported — Do Pass.
+HB 1116—LS 6503/DI 119
+
+Digest Continued
+transaction through the virtual currency kiosk. Requires an operator to:
+(1) verify a user's identity by requiring the user to submit a copy of a
+government issued identification card that identifies the user; and (2)
+require the user to submit the user's name, date of birth, telephone
+number, address, and electronic mail address; before accepting
+payment from the user through a virtual currency kiosk. Requires an
+operator, in addition to any fee associated with obtaining a license, to
+pay $500 to the department of financial institutions before February 1
+of each year for each virtual currency kiosk that the operator operated
+in Indiana in the previous calendar year. Requires a virtual currency
+kiosk to provide a user, upon completion of a virtual currency
+transaction, with a receipt that includes specified information. Provides
+that if an individual is fraudulently induced to make a payment or
+transfer through a virtual currency kiosk, the operator of the virtual
+currency kiosk shall refund to the individual: (1) the full amount of the
+payment or transfer; and (2) the amount of any charges assessed to the
+individual by the operator for the virtual currency transaction; upon
+receipt of specified information from the individual within specified
+deadlines. Provides that an operator may not allow a new user to
+conduct one or more virtual currency transactions that, in combination
+with any purchases or transfers by the new user through any other
+product or service offered by the operator, total: (1) more than $2,000
+in a single 24 hour period; or (2) more than $10,000 in a single 30 day
+period. Provides that an operator may not allow an existing user to
+conduct one or more virtual currency transactions that, in combination
+with any purchases or transfers by the individual through any other
+product or service offered by the operator, total: (1) more than $4,000
+in a single 24 hour period; or (2) more than $15,000 in a single 30 day
+period. Provides that a new user may not: (1) conduct a virtual currency
+transaction through the operator's virtual currency kiosk or kiosks
+located in Indiana; or (2) purchase or transfer any other product or
+service offered by the operator; unless the new user's profile with the
+operator has been activated for at least seven business days. Prohibits
+an operator from collecting charges with respect to a single virtual
+currency transaction in an amount that exceeds 10% of the value of the
+transaction. Requires an operator to provide live, telephone based
+customer service to users of a virtual currency kiosk 24 hours a day, 7
+days a week. Requires an operator to take specified actions to detect
+and prevent the commission of fraud and money laundering through the
+operator's virtual currency kiosks. Provides that the operator of a virtual
+currency kiosk that is located on the premises of a business in Indiana:
+(1) shall annually provide the staff of the business with specified
+training materials; and (2) may not prohibit or prevent staff at the
+business from advising users of the virtual currency kiosk regarding
+fraud and scams. Prescribes responsibilities for operators with regard
+to cooperation with state and federal law enforcement and regulatory
+agencies. Provides exemption from these provisions for specified types
+of financial institutions. Requires the department of financial
+institutions to submit a report to the executive director of the legislative
+services agency for distribution to the members of the general assembly
+that provides certain information by December 31, 2027. Provides that:
+(1) a person that violates these provisions commits an act that is
+actionable by the attorney general under law regarding deceptive
+consumer sales; and (2) in addition to the penalties prescribed for
+deceptive consumer sales, a person that knowingly or intentionally
+violates these provisions may be ordered to forfeit one or both of: (A)
+the amount of the charges assessed to users of the person's virtual
+currency kiosks in Indiana during the period of the violation; and (B)
+any virtual currency kiosk operated by the operator in Indiana. Provides
+that the attorney general may bring an enforcement action against: (1)
+the operator of a virtual currency kiosk that gives rise to a violation;
+and (2) the owner of the premises on which the virtual currency kiosk
+(Continued next page)
+HHBB 11111166——LLSS 66550033//DDII 111199
+
+Digest Continued
+is located if the owner knowingly or intentionally permitted the
+violation.
+HHBB 11111166——LLSS 66550033//DDII 111199
+
+January 22, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1116
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 24-5-0.5-3, AS AMENDED BY P.L.104-2024,
+2 SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 3. (a) A supplier may not commit an unfair,
+4 abusive, or deceptive act, omission, or practice in connection with a
+5 consumer transaction. Such an act, omission, or practice by a supplier
+6 is a violation of this chapter whether it occurs before, during, or after
+7 the transaction. An act, omission, or practice prohibited by this section
+8 includes both implicit and explicit misrepresentations.
+9 (b) Without limiting the scope of subsection (a), the following acts,
+10 and the following representations as to the subject matter of a
+11 consumer transaction, made orally, in writing, or by electronic
+12 communication, by a supplier, are deceptive acts:
+13 (1) That such subject of a consumer transaction has sponsorship,
+14 approval, performance, characteristics, accessories, uses, or
+15 benefits it does not have which the supplier knows or should
+HB 1116—LS 6503/DI 119
+
+2
+1 reasonably know it does not have.
+2 (2) That such subject of a consumer transaction is of a particular
+3 standard, quality, grade, style, or model, if it is not and if the
+4 supplier knows or should reasonably know that it is not.
+5 (3) That such subject of a consumer transaction is new or unused,
+6 if it is not and if the supplier knows or should reasonably know
+7 that it is not.
+8 (4) That such subject of a consumer transaction will be supplied
+9 to the public in greater quantity than the supplier intends or
+10 reasonably expects.
+11 (5) That replacement or repair constituting the subject of a
+12 consumer transaction is needed, if it is not and if the supplier
+13 knows or should reasonably know that it is not.
+14 (6) That a specific price advantage exists as to such subject of a
+15 consumer transaction, if it does not and if the supplier knows or
+16 should reasonably know that it does not.
+17 (7) That the supplier has a sponsorship, approval, or affiliation in
+18 such consumer transaction the supplier does not have, and which
+19 the supplier knows or should reasonably know that the supplier
+20 does not have.
+21 (8) That such consumer transaction involves or does not involve
+22 a warranty, a disclaimer of warranties, or other rights, remedies,
+23 or obligations, if the representation is false and if the supplier
+24 knows or should reasonably know that the representation is false.
+25 (9) That the consumer will receive a rebate, discount, or other
+26 benefit as an inducement for entering into a sale or lease in return
+27 for giving the supplier the names of prospective consumers or
+28 otherwise helping the supplier to enter into other consumer
+29 transactions, if earning the benefit, rebate, or discount is
+30 contingent upon the occurrence of an event subsequent to the time
+31 the consumer agrees to the purchase or lease.
+32 (10) That the supplier is able to deliver or complete the subject of
+33 the consumer transaction within a stated period of time, when the
+34 supplier knows or should reasonably know the supplier could not.
+35 If no time period has been stated by the supplier, there is a
+36 presumption that the supplier has represented that the supplier
+37 will deliver or complete the subject of the consumer transaction
+38 within a reasonable time, according to the course of dealing or the
+39 usage of the trade.
+40 (11) That the consumer will be able to purchase the subject of the
+41 consumer transaction as advertised by the supplier, if the supplier
+42 does not intend to sell it.
+HB 1116—LS 6503/DI 119
+
+3
+1 (12) That the replacement or repair constituting the subject of a
+2 consumer transaction can be made by the supplier for the estimate
+3 the supplier gives a customer for the replacement or repair, if the
+4 specified work is completed and:
+5 (A) the cost exceeds the estimate by an amount equal to or
+6 greater than ten percent (10%) of the estimate;
+7 (B) the supplier did not obtain written permission from the
+8 customer to authorize the supplier to complete the work even
+9 if the cost would exceed the amounts specified in clause (A);
+10 (C) the total cost for services and parts for a single transaction
+11 is more than seven hundred fifty dollars ($750); and
+12 (D) the supplier knew or reasonably should have known that
+13 the cost would exceed the estimate in the amounts specified in
+14 clause (A).
+15 (13) That the replacement or repair constituting the subject of a
+16 consumer transaction is needed, and that the supplier disposes of
+17 the part repaired or replaced earlier than seventy-two (72) hours
+18 after both:
+19 (A) the customer has been notified that the work has been
+20 completed; and
+21 (B) the part repaired or replaced has been made available for
+22 examination upon the request of the customer.
+23 (14) Engaging in the replacement or repair of the subject of a
+24 consumer transaction if the consumer has not authorized the
+25 replacement or repair, and if the supplier knows or should
+26 reasonably know that it is not authorized.
+27 (15) The act of misrepresenting the geographic location of the
+28 supplier by listing an alternate business name or an assumed
+29 business name (as described in IC 23-0.5-3-4) in a local telephone
+30 directory if:
+31 (A) the name misrepresents the supplier's geographic location;
+32 (B) the listing fails to identify the locality and state of the
+33 supplier's business;
+34 (C) calls to the local telephone number are routinely forwarded
+35 or otherwise transferred to a supplier's business location that
+36 is outside the calling area covered by the local telephone
+37 directory; and
+38 (D) the supplier's business location is located in a county that
+39 is not contiguous to a county in the calling area covered by the
+40 local telephone directory.
+41 (16) The act of listing an alternate business name or assumed
+42 business name (as described in IC 23-0.5-3-4) in a directory
+HB 1116—LS 6503/DI 119
+
+4
+1 assistance data base if:
+2 (A) the name misrepresents the supplier's geographic location;
+3 (B) calls to the local telephone number are routinely forwarded
+4 or otherwise transferred to a supplier's business location that
+5 is outside the local calling area; and
+6 (C) the supplier's business location is located in a county that
+7 is not contiguous to a county in the local calling area.
+8 (17) The violation by a supplier of IC 24-3-4 concerning
+9 cigarettes for import or export.
+10 (18) The act of a supplier in knowingly selling or reselling a
+11 product to a consumer if the product has been recalled, whether
+12 by the order of a court or a regulatory body, or voluntarily by the
+13 manufacturer, distributor, or retailer, unless the product has been
+14 repaired or modified to correct the defect that was the subject of
+15 the recall.
+16 (19) The violation by a supplier of 47 U.S.C. 227, including any
+17 rules or regulations issued under 47 U.S.C. 227.
+18 (20) The violation by a supplier of the federal Fair Debt
+19 Collection Practices Act (15 U.S.C. 1692 et seq.), including any
+20 rules or regulations issued under the federal Fair Debt Collection
+21 Practices Act (15 U.S.C. 1692 et seq.).
+22 (21) A violation of IC 24-5-7 (concerning health spa services), as
+23 set forth in IC 24-5-7-17.
+24 (22) A violation of IC 24-5-8 (concerning business opportunity
+25 transactions), as set forth in IC 24-5-8-20.
+26 (23) A violation of IC 24-5-10 (concerning home consumer
+27 transactions), as set forth in IC 24-5-10-18.
+28 (24) A violation of IC 24-5-11 (concerning real property
+29 improvement contracts), as set forth in IC 24-5-11-14.
+30 (25) A violation of IC 24-5-12 (concerning telephone
+31 solicitations), as set forth in IC 24-5-12-23.
+32 (26) A violation of IC 24-5-13.5 (concerning buyback motor
+33 vehicles), as set forth in IC 24-5-13.5-14.
+34 (27) A violation of IC 24-5-14 (concerning automatic
+35 dialing-announcing devices), as set forth in IC 24-5-14-13.
+36 (28) A violation of IC 24-5-15 (concerning credit services
+37 organizations), as set forth in IC 24-5-15-11.
+38 (29) A violation of IC 24-5-16 (concerning unlawful motor
+39 vehicle subleasing), as set forth in IC 24-5-16-18.
+40 (30) A violation of IC 24-5-17 (concerning environmental
+41 marketing claims), as set forth in IC 24-5-17-14.
+42 (31) A violation of IC 24-5-19 (concerning deceptive commercial
+HB 1116—LS 6503/DI 119
+
+5
+1 solicitation), as set forth in IC 24-5-19-11.
+2 (32) A violation of IC 24-5-21 (concerning prescription drug
+3 discount cards), as set forth in IC 24-5-21-7.
+4 (33) A violation of IC 24-5-23.5-7 (concerning real estate
+5 appraisals), as set forth in IC 24-5-23.5-9.
+6 (34) A violation of IC 24-5-26 (concerning identity theft), as set
+7 forth in IC 24-5-26-3.
+8 (35) A violation of IC 24-5.5 (concerning mortgage rescue fraud),
+9 as set forth in IC 24-5.5-6-1.
+10 (36) A violation of IC 24-8 (concerning promotional gifts and
+11 contests), as set forth in IC 24-8-6-3.
+12 (37) A violation of IC 21-18.5-6 (concerning representations
+13 made by a postsecondary credit bearing proprietary educational
+14 institution), as set forth in IC 21-18.5-6-22.5.
+15 (38) A violation of IC 24-5-15.5 (concerning collection actions of
+16 a plaintiff debt buyer), as set forth in IC 24-5-15.5-6.
+17 (39) A violation of IC 24-14 (concerning towing services), as set
+18 forth in IC 24-14-10-1.
+19 (40) A violation of IC 24-5-14.5 (concerning misleading or
+20 inaccurate caller identification information), as set forth in
+21 IC 24-5-14.5-12.
+22 (41) A violation of IC 24-5-27 (concerning intrastate inmate
+23 calling services), as set forth in IC 24-5-27-27.
+24 (42) A violation of IC 15-21 (concerning sales of dogs by retail
+25 pet stores), as set forth in IC 15-21-7-4.
+26 (43) A violation of IC 24-4-23 (concerning the security of
+27 information collected and transmitted by an adult oriented website
+28 operator), as set forth in IC 24-4-23-14.
+29 (44) A violation of IC 28-8-7 (concerning virtual currency
+30 kiosk operators), as set forth in IC 28-8-7-28.
+31 (c) Any representations on or within a product or its packaging or
+32 in advertising or promotional materials which would constitute a
+33 deceptive act shall be the deceptive act both of the supplier who places
+34 such representation thereon or therein, or who authored such materials,
+35 and such other suppliers who shall state orally or in writing that such
+36 representation is true if such other supplier shall know or have reason
+37 to know that such representation was false.
+38 (d) If a supplier shows by a preponderance of the evidence that an
+39 act resulted from a bona fide error notwithstanding the maintenance of
+40 procedures reasonably adopted to avoid the error, such act shall not be
+41 deceptive within the meaning of this chapter.
+42 (e) It shall be a defense to any action brought under this chapter that
+HB 1116—LS 6503/DI 119
+
+6
+1 the representation constituting an alleged deceptive act was one made
+2 in good faith by the supplier without knowledge of its falsity and in
+3 reliance upon the oral or written representations of the manufacturer,
+4 the person from whom the supplier acquired the product, any testing
+5 organization, or any other person provided that the source thereof is
+6 disclosed to the consumer.
+7 (f) For purposes of subsection (b)(12), a supplier that provides
+8 estimates before performing repair or replacement work for a customer
+9 shall give the customer a written estimate itemizing as closely as
+10 possible the price for labor and parts necessary for the specific job
+11 before commencing the work.
+12 (g) For purposes of subsection (b)(15) and (b)(16), a telephone
+13 company or other provider of a telephone directory or directory
+14 assistance service or its officer or agent is immune from liability for
+15 publishing the listing of an alternate business name or assumed
+16 business name of a supplier in its directory or directory assistance data
+17 base unless the telephone company or other provider of a telephone
+18 directory or directory assistance service is the same person as the
+19 supplier who has committed the deceptive act.
+20 (h) For purposes of subsection (b)(18), it is an affirmative defense
+21 to any action brought under this chapter that the product has been
+22 altered by a person other than the defendant to render the product
+23 completely incapable of serving its original purpose.
+24 SECTION 2. IC 28-8-4.1-201, AS ADDED BY P.L.198-2023,
+25 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 UPON PASSAGE]: Sec. 201. The following definitions apply
+27 throughout this chapter:
+28 (1) "Acting in concert" means persons knowingly acting together
+29 with a common goal of jointly acquiring control of a licensee
+30 whether or not pursuant to an express agreement.
+31 (2) "Authorized delegate" means a person a licensee designates to
+32 engage in money transmission on behalf of the licensee.
+33 (3) "Average daily money transmission liability", with respect to
+34 a calendar quarter, means:
+35 (A) the sum of the amounts of a licensee's outstanding money
+36 transmission obligations in Indiana at the end of each day in
+37 the calendar quarter; divided by
+38 (B) the total number of days in that calendar quarter.
+39 For purposes of this subdivision, a "calendar quarter" is a quarter
+40 ending on March 31, June 30, September 30, or December 31.
+41 (4) "Bank Secrecy Act" means:
+42 (A) the Bank Secrecy Act (31 U.S.C. 5311 et seq.); and
+HB 1116—LS 6503/DI 119
+
+7
+1 (B) regulations adopted under the Bank Secrecy Act (31
+2 U.S.C. 5311 et seq.).
+3 (5) "Closed loop stored value" means stored value that is
+4 redeemable by the issuer only for goods or services provided by
+5 the issuer or the issuer's affiliate or by franchisees of the issuer or
+6 the issuer's affiliate, except to the extent required by applicable
+7 law to be redeemable in cash for its cash value.
+8 (6) "Control" means any of the following:
+9 (A) The power to vote, directly or indirectly, at least
+10 twenty-five percent (25%) of the outstanding voting shares or
+11 voting interests of a licensee or of a person in control of a
+12 licensee.
+13 (B) The power to elect or appoint a majority of key individuals
+14 or executive officers, managers, directors, trustees, or other
+15 persons exercising managerial authority of a person in control
+16 of a licensee.
+17 (C) The power to exercise, directly or indirectly, a controlling
+18 influence over the management or policies of a licensee or of
+19 a person in control of a licensee. For purposes of this clause,
+20 a person is presumed to exercise a controlling influence if the
+21 person holds the power to vote, directly or indirectly, at least
+22 ten percent (10%) of the outstanding voting shares or voting
+23 interests of a licensee or of a person in control of a licensee.
+24 However, a person presumed to exercise a controlling
+25 influence under this clause may rebut the presumption of
+26 control if the person is a passive investor.
+27 For purposes of this subdivision, the percentage of a person
+28 controlled by any other person is determined by aggregating the
+29 other person's interest with the interest of any other immediate
+30 family member of that person, including the person's spouse,
+31 parents, children, siblings, mothers-in-law and fathers-in-law,
+32 sons-in-law and daughters-in-law, and any other person who
+33 shares the person's home.
+34 (7) "Department" refers to the members of the department of
+35 financial institutions.
+36 (8) "Director" refers to the director of the department appointed
+37 under IC 28-11-2-1.
+38 (9) "Eligible rating" means a credit rating of any of the three (3)
+39 highest rating categories provided by an eligible rating service,
+40 including any rating category modifiers, such as "plus" or "minus"
+41 for S&P Global, or an equivalent modifier for any other eligible
+42 rating service. The term includes the following:
+HB 1116—LS 6503/DI 119
+
+8
+1 (A) A long term credit rating equal to at least A- by S&P
+2 Global, or an equivalent long term credit rating for any other
+3 eligible rating service.
+4 (B) A short term credit rating equal to at least A-2 by S&P
+5 Global, or an equivalent short term credit rating for any other
+6 eligible rating service.
+7 In any case in which the credit ratings differ among eligible rating
+8 services, the highest rating applies in determining whether the
+9 credit rating is an "eligible rating" as defined in this subdivision.
+10 (10) "Eligible rating service" means:
+11 (A) a nationally recognized statistical rating organization, as
+12 defined by the United States Securities and Exchange
+13 Commission; or
+14 (B) any other organization designated as such by the director.
+15 (11) "Federally insured depository financial institution" means:
+16 (A) a bank;
+17 (B) a credit union;
+18 (C) a savings and loan association;
+19 (D) a trust company;
+20 (E) a corporate fiduciary;
+21 (F) a savings association;
+22 (G) a savings bank;
+23 (H) an industrial bank; or
+24 (I) an industrial loan company;
+25 that is organized under the law of the United States or any state of
+26 the United States and that has federally or privately insured
+27 deposits as permitted by state or federal law.
+28 (12) "In Indiana", with respect to the location of a transaction,
+29 means the following:
+30 (A) At a physical location in Indiana, for a transaction
+31 requested in person.
+32 (B) For a transaction requested electronically or by telephone,
+33 a determination made by the provider of money transmission,
+34 by relying on the following, that the person requesting the
+35 transaction is in Indiana:
+36 (i) Information, provided by the person, regarding the
+37 location of the individual's residential address or the
+38 business entity's principal place of business or other physical
+39 address location, as applicable.
+40 (ii) Any records associated with the person that the provider
+41 of money transmission may have that indicate the person's
+42 location, including an address associated with an account.
+HB 1116—LS 6503/DI 119
+
+9
+1 (13) "Individual" means a natural person.
+2 (14) "Key individual" means an individual ultimately responsible
+3 for establishing or directing policies and procedures of a licensee,
+4 such as an executive officer, manager, director, or trustee.
+5 (15) "Licensee" means a person licensed under this chapter.
+6 (16) "Material litigation" means litigation that, according to
+7 United States generally accepted accounting principles, is
+8 significant to a person's financial health and would be required to
+9 be disclosed in the person's annual audited financial statements,
+10 report to shareholders, or similar records.
+11 (17) "Money" means a medium of exchange that is issued by the
+12 United States government or by a foreign government. The term
+13 includes a monetary unit of account established by an
+14 intergovernmental organization or by agreement between two (2)
+15 or more governments.
+16 (18) "Monetary value" means a medium of exchange, whether or
+17 not redeemable in money.
+18 (19) "Money transmission" means any of the following:
+19 (A) Selling or issuing payment instruments to a person located
+20 in Indiana.
+21 (B) Selling or issuing stored value to a person located in
+22 Indiana.
+23 (C) Receiving money for transmission from a person located
+24 in Indiana.
+25 (D) After December 31, 2026, conducting or facilitating a
+26 virtual currency transaction (as defined in IC 28-8-7-12).
+27 The term does not include the provision of solely online or
+28 telecommunications services or network access.
+29 (20) "MSB accredited state" means a state agency that is
+30 accredited by the Conference of State Bank Supervisors and
+31 Money Transmitter Regulators Association for money
+32 transmission licensing and supervision.
+33 (21) "Multistate licensing process" means an agreement entered
+34 into by and among state regulators related to:
+35 (A) coordinated processing of applications for money
+36 transmission licenses;
+37 (B) applications for the acquisition and control of a licensee;
+38 (C) control determinations; or
+39 (D) notice and information requirements for a change of key
+40 individuals.
+41 (22) "NMLS" means the Nationwide Multistate Licensing System
+42 and Registry:
+HB 1116—LS 6503/DI 119
+
+10
+1 (A) developed by the Conference of State Bank Supervisors
+2 and the American Association of Residential Mortgage
+3 Regulators; and
+4 (B) owned and operated by the State Regulatory Registry,
+5 LLC, or by any successor or affiliated entity;
+6 for the licensing and registry of persons in financial services
+7 industries.
+8 (23) "Outstanding money transmission obligation", as established
+9 and extinguished in accordance with applicable state law, means:
+10 (A) any payment instrument or stored value that:
+11 (i) is issued or sold by a licensee to a person located in the
+12 United States, or reported as sold by an authorized delegate
+13 of the licensee to a person located in the United States; and
+14 (ii) has not yet been paid or refunded by or for the licensee,
+15 or escheated in accordance with applicable abandoned
+16 property laws; or
+17 (B) any money that:
+18 (i) is received for transmission by a licensee, or by an
+19 authorized delegate of the licensee, from a person located in
+20 the United States; and
+21 (ii) has not been received by the payee or refunded to the
+22 seller, or escheated in accordance with applicable
+23 abandoned property laws.
+24 For purposes of this subdivision, a person is located "in the
+25 United States" if the person is located in any state, territory, or
+26 possession of the United States or in the District of Columbia, the
+27 Commonwealth of Puerto Rico, or a United States military
+28 installation located in a foreign country.
+29 (24) "Passive investor" means a person that:
+30 (A) does not have the power to elect a majority of key
+31 individuals or executive officers, managers, directors, trustees,
+32 or other persons exercising managerial authority over a person
+33 in control of a licensee;
+34 (B) is not employed by and does not have any managerial
+35 duties with respect to the licensee or a person in control of the
+36 licensee;
+37 (C) does not have the power to exercise, directly or indirectly,
+38 a controlling influence over the management or policies of the
+39 licensee or a person in control of the licensee; and
+40 (D) either:
+41 (i) attests to as facts the characteristics of passivity set forth
+42 in clauses (A) through (C), in a form and by a medium
+HB 1116—LS 6503/DI 119
+
+11
+1 prescribed by the director; or
+2 (ii) commits to the characteristics of passivity set forth in
+3 clauses (A) through (C) in a written document.
+4 (25) "Payment instrument" means a written or electronic check,
+5 draft, money order, traveler's check, or other written or electronic
+6 instrument for the transmission or payment of money or monetary
+7 value, whether or not negotiable. The term does not include:
+8 (A) stored value; or
+9 (B) any instrument that:
+10 (i) is redeemable by the issuer only for goods or services
+11 provided by the issuer or its affiliate, or franchisees of the
+12 issuer or its affiliate, except to the extent required by
+13 applicable law to be redeemable in cash for its cash value;
+14 or
+15 (ii) is not sold to the public but is issued and distributed as
+16 part of a loyalty, rewards, or promotional program.
+17 (26) "Person" means any individual, general partnership, limited
+18 partnership, limited liability company, corporation, trust,
+19 association, joint stock corporation, or other corporate entity, as
+20 so identified by the director.
+21 (27) "Receiving money for transmission" means receiving money
+22 or monetary value in the United States for transmission within or
+23 outside the United States by electronic or other means. The term
+24 "money received for transmission" has a corresponding meaning.
+25 (28) "Stored value" means monetary value representing a claim,
+26 against the issuer, that is evidenced by an electronic or digital
+27 record and that is intended and accepted for use as a means of
+28 redemption for money or monetary value, or payment for goods
+29 or services. The term includes "prepaid access" as defined in 31
+30 CFR 1010.100. The term does not include:
+31 (A) a payment instrument;
+32 (B) closed loop stored value; or
+33 (C) stored value not sold to the public but issued and
+34 distributed as part of a loyalty, rewards, or promotional
+35 program.
+36 (29) "Tangible net worth" means the aggregate assets of a
+37 licensee, excluding all intangible assets, less liabilities, as
+38 determined in accordance with United States generally accepted
+39 accounting principles.
+40 SECTION 3. IC 28-8-7 IS ADDED TO THE INDIANA CODE AS
+41 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+42 PASSAGE]:
+HB 1116—LS 6503/DI 119
+
+12
+1 Chapter 7. Virtual Currency Kiosks
+2 Sec. 1. This chapter does not apply to the following:
+3 (1) A federally insured depository financial institution (as
+4 defined in IC 28-8-4.1-201(11)).
+5 (2) A bank holding company.
+6 (3) An office of an international banking corporation.
+7 (4) A foreign bank that establishes a federal branch under the
+8 International Banking Act of 1978 (12 U.S.C. 3101 et seq.).
+9 (5) A corporation organized under the Bank Service Company
+10 Act (12 U.S.C. 1861 et seq.).
+11 (6) A corporation organized under the Edge Act (12 U.S.C.
+12 611 et seq.).
+13 Sec. 2. As used in this chapter, "blockchain" means data that is:
+14 (1) shared across a network to create a ledger of verified
+15 transactions or information among network participants; and
+16 (2) linked using cryptography to maintain the integrity of the
+17 ledger and to execute other functions.
+18 Sec. 3. As used in this chapter, "blockchain analytics" means the
+19 examination and interpretation of data extracted from public
+20 records of transactions on blockchains or on similar publicly
+21 distributed electronic ledgers.
+22 Sec. 4. As used in this chapter, "blockchain analytics and
+23 tracing software" means a software service that uses blockchain
+24 analytics to provide:
+25 (1) risk specific information regarding blockchain
+26 transactions; and
+27 (2) tracing of virtual currency addresses.
+28 Sec. 5. As used in this chapter, "charges", with respect to a
+29 virtual currency transaction, means:
+30 (1) fees or expenses paid by a user to the operator of a virtual
+31 currency kiosk as compensation for the operator's facilitation
+32 of the virtual currency transaction; and
+33 (2) the difference between:
+34 (A) the market price of a virtual currency purchased, sold,
+35 transferred, or exchanged by the user in the virtual
+36 currency transaction; and
+37 (B) the price of the virtual currency charged to the user by
+38 the operator of the virtual currency kiosk.
+39 Sec. 6. As used in this chapter, "operate", with regard to a
+40 virtual currency kiosk, means to use the virtual currency kiosk to
+41 remotely conduct or facilitate virtual currency transactions
+42 through the virtual currency kiosk:
+HB 1116—LS 6503/DI 119
+
+13
+1 (1) on behalf of users of the virtual currency kiosk; and
+2 (2) for compensation by a user of the virtual currency kiosk
+3 in the form of charges assessed to the user.
+4 Sec. 7. As used in this chapter, "operator", with regard to a
+5 virtual currency kiosk, means a person that:
+6 (1) owns; or
+7 (2) engages in the business of operating;
+8 the virtual currency kiosk, regardless of whether the person
+9 provides custodial or noncustodial services with regard to virtual
+10 currency.
+11 Sec. 8. As used in this chapter, "user" means an individual that
+12 initiates a virtual currency transaction through a virtual currency
+13 kiosk for the purpose of the individual's purchase, sale, transfer, or
+14 exchange of virtual currency.
+15 Sec. 9. As used in this chapter, "virtual currency" means a
+16 natively electronic asset that:
+17 (1) confers economic, proprietary, or access rights or powers;
+18 and
+19 (2) is recorded using cryptographically secured distributed
+20 ledger technology, or an analogous technology.
+21 Sec. 10. As used in this chapter, "virtual currency address"
+22 means an alphanumeric identifier that is associated with a virtual
+23 currency wallet and that identifies the location to which a virtual
+24 currency transaction can be sent.
+25 Sec. 11. As used in this chapter, "virtual currency kiosk" means
+26 an electronic terminal through which the operator of the electronic
+27 terminal is able to conduct or facilitate a virtual currency
+28 transaction on behalf of a third party, including by:
+29 (1) connecting to a separate virtual currency exchange that
+30 performs the transaction; or
+31 (2) drawing on virtual currency in the possession of the
+32 operator.
+33 Sec. 12. As used in this chapter, "virtual currency transaction"
+34 means:
+35 (1) an exchange of virtual currency for:
+36 (A) money;
+37 (B) bank credit; or
+38 (C) another form of virtual currency; or
+39 (2) an exchange of:
+40 (A) money; or
+41 (B) bank credit;
+42 for virtual currency;
+HB 1116—LS 6503/DI 119
+
+14
+1 conducted through a virtual currency kiosk.
+2 Sec. 13. As used in this chapter, "virtual currency transaction
+3 hash" means a unique, alphanumeric identifier that:
+4 (1) is assigned to a transaction on a blockchain; and
+5 (2) confirms that the transaction has been validated and
+6 added to the blockchain.
+7 Sec. 14. As used in this chapter, "virtual currency wallet" means
+8 a software application or other mechanism providing a means to
+9 hold the electronic keys necessary to access and transfer virtual
+10 currency.
+11 Sec. 15. After December 31, 2026, a person may not operate a
+12 virtual currency kiosk that is located in Indiana unless the person
+13 is licensed under IC 28-8-4.1.
+14 Sec. 16. A person may not install, or cause a third party to
+15 install, a virtual currency kiosk in Indiana unless the person:
+16 (1) is licensed under IC 28-8-4.1, after December 31, 2026;
+17 and
+18 (2) obtains authorization for the installation from the
+19 department.
+20 Sec. 17. (a) Not later than forty-five (45) days after the end of
+21 each calendar quarter, an operator that operates a virtual
+22 currency kiosk that is located in Indiana shall submit to the
+23 department a report that includes the following information:
+24 (1) The following information regarding the operator:
+25 (A) The legal name of the operator.
+26 (B) Any fictitious or trade name used by the operator.
+27 (C) The physical address of the operator.
+28 (D) The virtual currency address or addresses used by the
+29 operator in conducting virtual currency transactions on
+30 behalf of users in Indiana.
+31 (2) The following information regarding each of the
+32 operator's virtual currency kiosks that is located in Indiana:
+33 (A) The street address at which the virtual currency kiosk
+34 is located.
+35 (B) The following information regarding the owner of the
+36 premises on which the virtual currency kiosk is located:
+37 (i) The legal name of the owner.
+38 (ii) Any fictitious or assumed trade name used by the
+39 owner.
+40 (iii) The primary address of the owner.
+41 (iv) The registered agent of the owner.
+42 (C) The start date of the virtual currency kiosk's
+HB 1116—LS 6503/DI 119
+
+15
+1 operation.
+2 (D) The end date of the virtual currency kiosk's operation,
+3 if the operator is no longer operating the virtual currency
+4 kiosk.
+5 (E) The number of virtual currency transactions that were
+6 initiated at the virtual currency kiosk but declined by the
+7 operator due to suspicion of illicit activity.
+8 The report required under this section is in addition to the report
+9 required to be submitted to the department under IC 28-8-4.1-701.
+10 (b) Not later than March 31 of each year, an operator that
+11 operates a virtual currency kiosk that is located in Indiana shall
+12 submit to the department an annual report, in a form prescribed
+13 by the department, that includes the following information
+14 regarding the operator's business conducted during the
+15 immediately preceding calendar year through the operator's
+16 virtual currency kiosk or kiosks located in Indiana:
+17 (1) The operator's gross revenue attributable to virtual
+18 currency transactions conducted through the operator's
+19 virtual currency kiosks located in Indiana.
+20 (2) The total number and value of virtual currency
+21 transactions conducted through the operator's virtual
+22 currency kiosks located in Indiana.
+23 (3) Copies of each complaint filed against the operator with:
+24 (A) the Better Business Bureau; or
+25 (B) a state or federal agency other than the department;
+26 with regard to use of the operator's virtual currency kiosks
+27 located in Indiana, and a description of the resolution, if any,
+28 of each complaint.
+29 (4) The:
+30 (A) total number of refunds requested by users in
+31 connection with virtual currency transactions conducted
+32 through the operator's virtual currency kiosks located in
+33 Indiana;
+34 (B) number and total dollar amount of refunds that were
+35 granted by the operator in response to requests described
+36 in clause (A); and
+37 (C) number of requests described in clause (A) that were
+38 denied by the operator.
+39 (5) Contact information for the operator's compliance officer.
+40 (6) The total number of the operator's virtual currency
+41 corresponding locations.
+42 (7) The:
+HB 1116—LS 6503/DI 119
+
+16
+1 (A) total number of suspicious activity reports filed by the
+2 operator under 31 U.S.C. 5311 et seq. with regard to
+3 virtual currency transactions conducted through the
+4 operator's virtual currency kiosks located in Indiana; and
+5 (B) total value of the transactions reported as suspicious by
+6 the operator under clause (A).
+7 The report required under this section is in addition to the
+8 information required to be filed with the department under
+9 IC 28-8-4.1-702.
+10 (c) Upon request by the department, an operator shall provide
+11 to the department any virtual currency transaction and user
+12 information requested by the department with regard to the
+13 operator's virtual currency kiosks located in Indiana, including
+14 information related to virtual currency transactions that were
+15 initiated by a user but denied by the operator.
+16 (d) Information received by the department under this section
+17 is confidential under IC 28-8-4.1-402 and may be released only in
+18 composite form, except as otherwise provided by law.
+19 (e) The department shall prepare and make available to the
+20 public an annual report summarizing the information, in composite
+21 form as described in subsection (d), received by the department
+22 under this section in the immediately preceding calendar year.
+23 Sec. 18. (a) The operator of a virtual currency kiosk that is
+24 located in Indiana shall provide the following information in a
+25 notice that is clearly and prominently displayed on, or in readable
+26 proximity to, the virtual currency kiosk:
+27 (1) Notice that criminals may direct victims of fraud or scams
+28 to send money via virtual currency kiosks.
+29 (2) The:
+30 (A) name and address of the virtual currency kiosk's
+31 operator;
+32 (B) toll free telephone number at which the operator's
+33 customer service can be reached; and
+34 (C) days and times during which a user can contact the
+35 operator for assistance.
+36 (3) Contact information for any state or local law enforcement
+37 or government agency with jurisdiction in the virtual
+38 currency kiosk's location to investigate allegations of fraud
+39 regarding financial transactions.
+40 (b) After a user initiates use of a virtual currency kiosk that is
+41 located in Indiana, but before the virtual currency kiosk allows the
+42 user to initiate a virtual currency transaction through the virtual
+HB 1116—LS 6503/DI 119
+
+17
+1 currency kiosk, the operator of the virtual currency kiosk shall
+2 provide the user with the following information on the electronic
+3 display of the virtual currency kiosk in a clear, conspicuous, and
+4 easily readable manner, and in the preferred language of the user:
+5 (1) The following information, which must be displayed
+6 immediately after the user's initiation of use of the virtual
+7 currency kiosk and choice of the user's preferred language:
+8 (A) The:
+9 (i) name and address of the virtual currency kiosk's
+10 operator;
+11 (ii) toll free telephone number at which the operator's
+12 customer service can be reached; and
+13 (iii) days and times during which a user can contact the
+14 operator for assistance.
+15 (B) Contact information for any state or local law
+16 enforcement or government agency with jurisdiction in the
+17 virtual currency kiosk's location to investigate allegations
+18 of fraud regarding financial transactions.
+19 (2) All terms and conditions associated with virtual currency
+20 transactions that can be conducted through the virtual
+21 currency kiosk, including:
+22 (A) the charges collected; and
+23 (B) exchange rates used;
+24 by the operator for virtual currency transactions conducted
+25 through the virtual currency kiosk.
+26 (3) A warning, written prominently and in bold type, and
+27 provided separately from the other information required to
+28 be displayed under this subsection, in the following or a
+29 substantially similar form:
+30 "WARNING: This technology can be used to defraud you.
+31 If someone asked you to deposit money in this machine
+32 and/or is on the phone with you and claims to be a:
+33 (1) friend or family member;
+34 (2) government agent;
+35 (3) computer software representative;
+36 (4) bill collector; or
+37 (5) law enforcement officer;
+38 or is anyone you do not know personally, STOP THIS
+39 TRANSACTION IMMEDIATELY and contact your local
+40 law enforcement agency and the kiosk operator. This
+41 transaction may be a scam.
+42 NEVER SEND MONEY to someone you don't know.".
+HB 1116—LS 6503/DI 119
+
+18
+1 (4) Notice regarding the material risks associated with virtual
+2 currency and virtual currency transactions, in the following
+3 or a substantially similar form:
+4 "Virtual currency is not issued or backed by the United
+5 States government and is not legal tender in the United
+6 States. Virtual currency is not subject to protections by the
+7 Federal Deposit Insurance Corporation, National Credit
+8 Union Administration, or Securities Investor Protection
+9 Corporation, and its value relative to the U.S. dollar may
+10 fluctuate significantly.".
+11 (5) Any additional information the department requires.
+12 (c) The operator of a virtual currency kiosk that is located in
+13 Indiana shall:
+14 (1) require a user of the virtual currency kiosk, as a condition
+15 of the user's continued use of the virtual currency kiosk after
+16 the user is provided with the information described in
+17 subsection (b), to affirmatively acknowledge:
+18 (A) that the user has received and understood the
+19 information described in subsection (b); and
+20 (B) that the user consents to continue using the virtual
+21 currency kiosk after the user's receipt of the information
+22 described in subsection (b); and
+23 (2) preserve the user's acknowledgments under subdivision
+24 (1)(A) and (1)(B) as part of the operator's record of the
+25 transaction.
+26 (d) The:
+27 (1) provision of the information described in subsections (a)
+28 and (b) to a user of a virtual currency kiosk; or
+29 (2) receipt by a virtual currency kiosk operator of a user's
+30 acknowledgments under subsection (c);
+31 does not affect the user's eligibility for a refund under section 21 of
+32 this chapter.
+33 (e) The owner of the premises on which a virtual currency kiosk
+34 is located shall ensure that the notice provided by a virtual
+35 currency kiosk's operator under subsection (a) remains clearly and
+36 prominently displayed on, or in readable proximity to, the virtual
+37 currency kiosk.
+38 Sec. 19. (a) Before accepting payment from a user through a
+39 virtual currency kiosk that is located in Indiana, the operator of
+40 the virtual currency kiosk shall:
+41 (1) verify the identity of the user by:
+42 (A) requiring the user to submit to the operator a copy of
+HB 1116—LS 6503/DI 119
+
+19
+1 a government issued identification card that identifies the
+2 user; or
+3 (B) obtaining verification of the identity of the user
+4 through an agent of the operator that requires the user to
+5 submit to the agent a copy of a government issued
+6 identification card that identifies the user; and
+7 (2) require the user to submit to the operator the user's name,
+8 date of birth, telephone number, address, and electronic mail
+9 address. The information submitted by the user under this
+10 subdivision must match the information on the government
+11 issued identification card described in subdivision (1).
+12 (b) The operator of a virtual currency kiosk that is located in
+13 Indiana may not allow a user to engage in a virtual currency
+14 transaction through the virtual currency kiosk under a name or
+15 identity that is not verified as the user's name and identity under
+16 subsection (a).
+17 Sec. 20. Upon a user's completion of a virtual currency
+18 transaction through a virtual currency kiosk that is located in
+19 Indiana, the operator of the virtual currency kiosk must provide
+20 the user with a receipt, in both paper form and a retainable
+21 electronic form, that includes the following information:
+22 (1) The name of the operator and the toll free telephone
+23 number at which the operator's customer service can be
+24 reached.
+25 (2) The type, value, date, and precise time of the transaction.
+26 (3) Each virtual currency address and transaction hash
+27 associated with the transaction, if available.
+28 (4) All charges assessed to the user with respect to the
+29 transaction.
+30 (5) The exchange rate that was used for purposes of the
+31 transaction, expressed in United States dollars to the virtual
+32 currency that was the subject of the virtual currency
+33 transaction.
+34 (6) A statement of the operator's refund policy.
+35 (7) Contact information for any state or local law enforcement
+36 or government agency with jurisdiction in the virtual
+37 currency kiosk's location to investigate allegations of fraud
+38 regarding financial transactions.
+39 (8) Any additional information the department requires.
+40 Sec. 21. (a) If an individual is fraudulently induced to make a
+41 payment or transfer through a virtual currency transaction
+42 conducted through a virtual currency kiosk that is located in
+HB 1116—LS 6503/DI 119
+
+20
+1 Indiana, the operator of the virtual currency kiosk shall, subject to
+2 subsection (b), refund to the individual:
+3 (1) the full amount of the payment or transfer; and
+4 (2) the amount of any charges assessed to the individual by the
+5 operator with respect to the virtual currency transaction;
+6 regardless of any acknowledgment or affirmation of consent to the
+7 virtual currency transaction that is made by the individual, and
+8 regardless of whether the virtual currency transaction is
+9 authorized or unauthorized.
+10 (b) To receive a refund under subsection (a), an individual who
+11 is fraudulently induced to make a payment or transfer through a
+12 virtual currency transaction conducted through a virtual currency
+13 kiosk that is located in Indiana must:
+14 (1) not later than ninety (90) days after:
+15 (A) the date of the virtual currency transaction; or
+16 (B) the date on which the individual reasonably becomes
+17 aware of the fraud;
+18 provide notice of the fraudulent nature of the transaction to
+19 the operator of the virtual currency kiosk; and
+20 (2) not later than one hundred twenty (120) days after
+21 contacting the virtual currency kiosk operator under
+22 subdivision (1), submit to the operator a:
+23 (A) police report;
+24 (B) government agency report; or
+25 (C) sworn statement;
+26 detailing the fraudulent nature of the transaction.
+27 (c) If an individual meets the conditions for a refund under
+28 subsection (b), the operator shall issue a refund to the individual
+29 under subsection (a) not later than seventy-two (72) hours after
+30 receiving from the individual the notice required under subsection
+31 (b)(1) and the police report, government agency report, or a sworn
+32 statement required under subsection (b)(2).
+33 (d) A virtual currency kiosk operator shall make a refund under
+34 this section in the originating currency used by the individual to
+35 make the payment or transfer.
+36 (e) A virtual currency kiosk operator:
+37 (1) shall provide any notice sent to a user for purposes of this
+38 section in both English and Spanish; and
+39 (2) when communicating directly with a user for purposes of
+40 this section, shall communicate with the user in the user's
+41 preferred language through:
+42 (A) the virtual currency kiosk operator's staff;
+HB 1116—LS 6503/DI 119
+
+21
+1 (B) oral interpretation services; or
+2 (C) auxiliary aids and services.
+3 Sec. 22. (a) As used in this section, "existing user" means an
+4 individual who has had a profile with a virtual currency kiosk
+5 operator for at least forty-five (45) days.
+6 (b) As used in this section, "new user" means an individual who
+7 has had a profile with a virtual currency kiosk operator for less
+8 than forty-five (45) days.
+9 (c) Subject to subsection (g), an operator may not allow a new
+10 user to conduct any combination of:
+11 (1) one (1) or more virtual currency transactions through the
+12 operator's virtual currency kiosk or kiosks located in Indiana;
+13 and
+14 (2) one (1) or more purchases or transfers through any other
+15 product or service offered by the operator;
+16 in a single twenty-four (24) hour period the total value of which is
+17 more than two thousand dollars ($2,000).
+18 (d) An operator may not allow an existing user to conduct any
+19 combination of:
+20 (1) one (1) or more virtual currency transactions through the
+21 operator's virtual currency kiosk or kiosks located in Indiana;
+22 and
+23 (2) one (1) or more purchases or transfers through any other
+24 product or service offered by the operator;
+25 in a single twenty-four (24) hour period the total value of which is
+26 more than four thousand dollars ($4,000).
+27 (e) Subject to subsection (g), an operator may not allow a new
+28 user to conduct any combination of:
+29 (1) one (1) or more virtual currency transactions through the
+30 operator's virtual currency kiosk or kiosks located in Indiana;
+31 and
+32 (2) one (1) or more purchases or transfers through any other
+33 product or service offered by the operator;
+34 in a single thirty (30) day period the total value of which is more
+35 than ten thousand dollars ($10,000).
+36 (f) An operator may not allow an existing user to conduct any
+37 combination of:
+38 (1) one (1) or more virtual currency transactions through the
+39 operator's virtual currency kiosk or kiosks located in Indiana;
+40 and
+41 (2) one (1) or more purchases or transfers through any other
+42 product or service offered by the operator;
+HB 1116—LS 6503/DI 119
+
+22
+1 in a single thirty (30) day period the total value of which is more
+2 than fifteen thousand dollars ($15,000).
+3 (g) A new user may not:
+4 (1) conduct a virtual currency transaction through the
+5 operator's virtual currency kiosk or kiosks located in Indiana;
+6 or
+7 (2) purchase or transfer any other product or service offered
+8 by the operator;
+9 unless the new user's profile with the operator has been activated
+10 for at least seven (7) business days.
+11 Sec. 23. After December 31, 2026, a virtual currency kiosk
+12 operator that operates a virtual currency kiosk that is located in
+13 Indiana may not collect charges, directly or indirectly, with respect
+14 to a single virtual currency transaction conducted through the
+15 virtual currency kiosk in an amount that exceeds ten percent
+16 (10%) of the value of the transaction in United States dollars.
+17 Sec. 24. A virtual currency kiosk operator that operates a
+18 virtual currency kiosk that is located in Indiana shall make
+19 customer service that:
+20 (1) can be accessed by telephone; and
+21 (2) is provided by an individual located in the United States in
+22 real time;
+23 available to users of the virtual currency kiosk twenty-four (24)
+24 hours a day, seven (7) days a week.
+25 Sec. 25. (a) An operator that operates a virtual currency kiosk
+26 that is located in Indiana shall take reasonable steps to detect and
+27 prevent the commission of fraud and money laundering through
+28 the virtual currency kiosk, including by establishing and
+29 maintaining a written anti-fraud and anti-money-laundering policy
+30 that includes:
+31 (1) identification and assessment of risks for the commission
+32 of fraud and money laundering through the operator's virtual
+33 currency kiosk or kiosks;
+34 (2) procedures and controls to protect against the risks
+35 identified under subdivision (1);
+36 (3) allocation of responsibility within the operator's
+37 organization for monitoring the risks identified under
+38 subdivision (1); and
+39 (4) procedures for periodic evaluation and revision of the
+40 policy, procedures, controls, and monitoring described in this
+41 subsection.
+42 (b) An operator that operates a virtual currency kiosk that is
+HB 1116—LS 6503/DI 119
+
+23
+1 located in Indiana shall:
+2 (1) use blockchain analytics and tracing software to:
+3 (A) assist in preventing the use of the virtual currency
+4 kiosk to transfer virtual currency to a virtual currency
+5 wallet that is, at the time of the virtual currency
+6 transaction, known or likely to be associated with
+7 fraudulent activity; and
+8 (B) detect virtual currency transaction patterns indicative
+9 of fraud or other illicit activities; and
+10 (2) upon request by the department, provide to the
+11 department evidence of the operator's use of blockchain
+12 analytics as required by this subsection.
+13 (c) An operator that operates a virtual currency kiosk that is
+14 located in Indiana may not allow a virtual currency transaction
+15 between:
+16 (1) a user; and
+17 (2) a virtual currency wallet that is associated with an
+18 overseas exchange that is not accessible to United States
+19 users;
+20 to be completed through the virtual currency kiosk.
+21 Sec. 26. The operator of a virtual currency kiosk that is located
+22 on the premises of a business in Indiana:
+23 (1) shall annually provide the staff of the business with
+24 training materials that are approved by the department and
+25 that describe:
+26 (A) the manner in which virtual currency kiosks can be
+27 used in furtherance of illicit activity;
+28 (B) indicators that a virtual currency kiosk is being used in
+29 furtherance of illicit activity; and
+30 (C) indicators that a user of a virtual currency kiosk may:
+31 (i) have been induced to use the virtual currency kiosk by
+32 fraud or by a scam; or
+33 (ii) be a victim of financial abuse or exploitation; and
+34 (2) may not prohibit or prevent staff at the business from
+35 advising users of the virtual currency kiosk regarding fraud
+36 and scams.
+37 Sec. 27. (a) An operator that operates a virtual currency kiosk
+38 that is located in Indiana shall:
+39 (1) maintain a dedicated:
+40 (A) United States telephone number; or
+41 (B) electronic mail address;
+42 by which a federal or state regulatory agency can contact the
+HB 1116—LS 6503/DI 119
+
+24
+1 operator regarding reported fraud committed via one (1) or
+2 more of the operator's virtual currency kiosks located in
+3 Indiana; and
+4 (2) respond within a reasonable time to reports received by
+5 the operator through the telephone number or electronic mail
+6 address.
+7 (b) An operator that operates a virtual currency kiosk that is
+8 located in Indiana shall, as required by a subpoena or civil
+9 investigative demand served on the virtual kiosk operator by a law
+10 enforcement agency, a regulatory agency, or the attorney general,
+11 or as required by a court order:
+12 (1) provide the law enforcement agency, regulatory agency, or
+13 attorney general with data obtained by the operator through
+14 the operator's blockchain analytics and tracing software; and
+15 (2) assist the law enforcement agency, regulatory agency, or
+16 attorney general in performing blockchain analytics;
+17 to assist in any investigative matter related to potential fraud or
+18 unfair, deceptive, or abusive acts.
+19 Sec. 28. (a) A person that violates this chapter commits a
+20 deceptive act that is actionable by the attorney general under
+21 IC 24-5-0.5 and is subject to the remedies and penalties under
+22 IC 24-5-0.5.
+23 (b) The attorney general may bring an action under subsection
+24 (a) against the following:
+25 (1) The operator of a virtual currency kiosk that gives rise to
+26 a violation of this chapter.
+27 (2) The owner of the premises on which the virtual currency
+28 kiosk is located, if the owner knowingly or intentionally
+29 permitted the violation described in subdivision (1).
+30 (c) If a court finds that a person has knowingly or intentionally
+31 operated one (1) or more virtual currency kiosks in Indiana in
+32 violation of this chapter, the court may, in addition to any other
+33 penalty imposed under IC 24-5-0.5, order one (1) or more of the
+34 following:
+35 (1) That the person forfeit and pay to the state the amount of
+36 any charges that were collected by the person from users of
+37 the virtual currency kiosk or kiosks during the period in
+38 which the person operated the virtual currency kiosk or
+39 kiosks in violation of this chapter.
+40 (2) That the person forfeit to the state any virtual currency
+41 kiosk that is owned by the person and located in Indiana.
+42 (3) That the person pay to the attorney general all costs
+HB 1116—LS 6503/DI 119
+
+25
+1 associated with the investigation of the violation.
+2 (d) The remedies and penalties under this section are not
+3 exclusive and are cumulative to any other remedy or penalty to
+4 which a person may be liable for conduct that violates this chapter.
+5 Sec. 29. (a) Except as provided in subsection (b), a political
+6 subdivision may not adopt or enforce an ordinance, resolution,
+7 regulation, or rule that:
+8 (1) conflicts with this chapter;
+9 (2) restricts, conditions, or regulates a matter governed by
+10 this chapter in a manner less restrictive than this chapter; or
+11 (3) diminishes any duty, prohibition, or protection established
+12 by this chapter.
+13 (b) A political subdivision may adopt or enforce an ordinance,
+14 resolution, regulation, or rule that provides more protection for
+15 users of virtual currency kiosks than is provided by this chapter,
+16 to the extent the ordinance, resolution, regulation, or rule is not
+17 inconsistent with this chapter.
+18 Sec. 30. In addition to any fee associated with obtaining a license
+19 under IC 28-8-4.1, an operator shall pay to the department before
+20 February 1 of each year an amount of five hundred dollars ($500)
+21 for each virtual currency kiosk that the operator operated in
+22 Indiana in the previous calendar year.
+23 Sec. 31. Not later than December 31, 2027, the department shall
+24 submit to the executive director of the legislative services agency
+25 for distribution to the members of the general assembly a report in
+26 an electronic format under IC 5-14-6 that does the following:
+27 (1) Compares the limit on charges described in section 23 of
+28 this chapter with any limit on charges associated with a
+29 virtual currency transaction conducted through a virtual
+30 currency kiosk established by other states.
+31 (2) Calculates the total number of complaints received by the
+32 attorney general's office and the department concerning
+33 fraudulently induced virtual currency transactions conducted
+34 through virtual currency kiosks in the previous calendar year.
+35 (3) Provides a detailed breakdown concerning the complaints
+36 described in subdivision (2), including detailing the number of
+37 complaints per county in Indiana and specifying whether the
+38 complaint involved a virtual currency kiosk operated by an
+39 operator licensed under IC 28-8-4.1.
+40 (4) Specifies the number of complaints described in
+41 subdivision (2) that were submitted by individuals who had
+42 not completed a virtual currency transaction conducted
+HB 1116—LS 6503/DI 119
+
+26
+1 through a virtual currency kiosk with the virtual currency
+2 kiosk operator that operated the virtual currency kiosk
+3 involved in the fraudulently induced virtual currency
+4 transaction prior to the fraudulently induced virtual currency
+5 transaction.
+6 Sec. 32. The department may adopt rules under IC 4-22-2
+7 necessary to administer this chapter.
+8 SECTION 4. An emergency is declared for this act.
+HB 1116—LS 6503/DI 119
+
+27
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Financial Institutions, to which
+was referred House Bill 1116, has had the same under consideration
+and begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 6, delete lines 24 through 42, begin a new paragraph and
+insert:
+"SECTION 2. IC 28-8-4.1-201, AS ADDED BY P.L.198-2023,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 201. The following definitions apply
+throughout this chapter:
+(1) "Acting in concert" means persons knowingly acting together
+with a common goal of jointly acquiring control of a licensee
+whether or not pursuant to an express agreement.
+(2) "Authorized delegate" means a person a licensee designates to
+engage in money transmission on behalf of the licensee.
+(3) "Average daily money transmission liability", with respect to
+a calendar quarter, means:
+(A) the sum of the amounts of a licensee's outstanding money
+transmission obligations in Indiana at the end of each day in
+the calendar quarter; divided by
+(B) the total number of days in that calendar quarter.
+For purposes of this subdivision, a "calendar quarter" is a quarter
+ending on March 31, June 30, September 30, or December 31.
+(4) "Bank Secrecy Act" means:
+(A) the Bank Secrecy Act (31 U.S.C. 5311 et seq.); and
+(B) regulations adopted under the Bank Secrecy Act (31
+U.S.C. 5311 et seq.).
+(5) "Closed loop stored value" means stored value that is
+redeemable by the issuer only for goods or services provided by
+the issuer or the issuer's affiliate or by franchisees of the issuer or
+the issuer's affiliate, except to the extent required by applicable
+law to be redeemable in cash for its cash value.
+(6) "Control" means any of the following:
+(A) The power to vote, directly or indirectly, at least
+twenty-five percent (25%) of the outstanding voting shares or
+voting interests of a licensee or of a person in control of a
+licensee.
+(B) The power to elect or appoint a majority of key individuals
+or executive officers, managers, directors, trustees, or other
+persons exercising managerial authority of a person in control
+HB 1116—LS 6503/DI 119
+
+28
+of a licensee.
+(C) The power to exercise, directly or indirectly, a controlling
+influence over the management or policies of a licensee or of
+a person in control of a licensee. For purposes of this clause,
+a person is presumed to exercise a controlling influence if the
+person holds the power to vote, directly or indirectly, at least
+ten percent (10%) of the outstanding voting shares or voting
+interests of a licensee or of a person in control of a licensee.
+However, a person presumed to exercise a controlling
+influence under this clause may rebut the presumption of
+control if the person is a passive investor.
+For purposes of this subdivision, the percentage of a person
+controlled by any other person is determined by aggregating the
+other person's interest with the interest of any other immediate
+family member of that person, including the person's spouse,
+parents, children, siblings, mothers-in-law and fathers-in-law,
+sons-in-law and daughters-in-law, and any other person who
+shares the person's home.
+(7) "Department" refers to the members of the department of
+financial institutions.
+(8) "Director" refers to the director of the department appointed
+under IC 28-11-2-1.
+(9) "Eligible rating" means a credit rating of any of the three (3)
+highest rating categories provided by an eligible rating service,
+including any rating category modifiers, such as "plus" or "minus"
+for S&P Global, or an equivalent modifier for any other eligible
+rating service. The term includes the following:
+(A) A long term credit rating equal to at least A- by S&P
+Global, or an equivalent long term credit rating for any other
+eligible rating service.
+(B) A short term credit rating equal to at least A-2 by S&P
+Global, or an equivalent short term credit rating for any other
+eligible rating service.
+In any case in which the credit ratings differ among eligible rating
+services, the highest rating applies in determining whether the
+credit rating is an "eligible rating" as defined in this subdivision.
+(10) "Eligible rating service" means:
+(A) a nationally recognized statistical rating organization, as
+defined by the United States Securities and Exchange
+Commission; or
+(B) any other organization designated as such by the director.
+(11) "Federally insured depository financial institution" means:
+HB 1116—LS 6503/DI 119
+
+29
+(A) a bank;
+(B) a credit union;
+(C) a savings and loan association;
+(D) a trust company;
+(E) a corporate fiduciary;
+(F) a savings association;
+(G) a savings bank;
+(H) an industrial bank; or
+(I) an industrial loan company;
+that is organized under the law of the United States or any state of
+the United States and that has federally or privately insured
+deposits as permitted by state or federal law.
+(12) "In Indiana", with respect to the location of a transaction,
+means the following:
+(A) At a physical location in Indiana, for a transaction
+requested in person.
+(B) For a transaction requested electronically or by telephone,
+a determination made by the provider of money transmission,
+by relying on the following, that the person requesting the
+transaction is in Indiana:
+(i) Information, provided by the person, regarding the
+location of the individual's residential address or the
+business entity's principal place of business or other physical
+address location, as applicable.
+(ii) Any records associated with the person that the provider
+of money transmission may have that indicate the person's
+location, including an address associated with an account.
+(13) "Individual" means a natural person.
+(14) "Key individual" means an individual ultimately responsible
+for establishing or directing policies and procedures of a licensee,
+such as an executive officer, manager, director, or trustee.
+(15) "Licensee" means a person licensed under this chapter.
+(16) "Material litigation" means litigation that, according to
+United States generally accepted accounting principles, is
+significant to a person's financial health and would be required to
+be disclosed in the person's annual audited financial statements,
+report to shareholders, or similar records.
+(17) "Money" means a medium of exchange that is issued by the
+United States government or by a foreign government. The term
+includes a monetary unit of account established by an
+intergovernmental organization or by agreement between two (2)
+or more governments.
+HB 1116—LS 6503/DI 119
+
+30
+(18) "Monetary value" means a medium of exchange, whether or
+not redeemable in money.
+(19) "Money transmission" means any of the following:
+(A) Selling or issuing payment instruments to a person located
+in Indiana.
+(B) Selling or issuing stored value to a person located in
+Indiana.
+(C) Receiving money for transmission from a person located
+in Indiana.
+(D) After December 31, 2026, conducting or facilitating a
+virtual currency transaction (as defined in IC 28-8-7-12).
+The term does not include the provision of solely online or
+telecommunications services or network access.
+(20) "MSB accredited state" means a state agency that is
+accredited by the Conference of State Bank Supervisors and
+Money Transmitter Regulators Association for money
+transmission licensing and supervision.
+(21) "Multistate licensing process" means an agreement entered
+into by and among state regulators related to:
+(A) coordinated processing of applications for money
+transmission licenses;
+(B) applications for the acquisition and control of a licensee;
+(C) control determinations; or
+(D) notice and information requirements for a change of key
+individuals.
+(22) "NMLS" means the Nationwide Multistate Licensing System
+and Registry:
+(A) developed by the Conference of State Bank Supervisors
+and the American Association of Residential Mortgage
+Regulators; and
+(B) owned and operated by the State Regulatory Registry,
+LLC, or by any successor or affiliated entity;
+for the licensing and registry of persons in financial services
+industries.
+(23) "Outstanding money transmission obligation", as established
+and extinguished in accordance with applicable state law, means:
+(A) any payment instrument or stored value that:
+(i) is issued or sold by a licensee to a person located in the
+United States, or reported as sold by an authorized delegate
+of the licensee to a person located in the United States; and
+(ii) has not yet been paid or refunded by or for the licensee,
+or escheated in accordance with applicable abandoned
+HB 1116—LS 6503/DI 119
+
+31
+property laws; or
+(B) any money that:
+(i) is received for transmission by a licensee, or by an
+authorized delegate of the licensee, from a person located in
+the United States; and
+(ii) has not been received by the payee or refunded to the
+seller, or escheated in accordance with applicable
+abandoned property laws.
+For purposes of this subdivision, a person is located "in the
+United States" if the person is located in any state, territory, or
+possession of the United States or in the District of Columbia, the
+Commonwealth of Puerto Rico, or a United States military
+installation located in a foreign country.
+(24) "Passive investor" means a person that:
+(A) does not have the power to elect a majority of key
+individuals or executive officers, managers, directors, trustees,
+or other persons exercising managerial authority over a person
+in control of a licensee;
+(B) is not employed by and does not have any managerial
+duties with respect to the licensee or a person in control of the
+licensee;
+(C) does not have the power to exercise, directly or indirectly,
+a controlling influence over the management or policies of the
+licensee or a person in control of the licensee; and
+(D) either:
+(i) attests to as facts the characteristics of passivity set forth
+in clauses (A) through (C), in a form and by a medium
+prescribed by the director; or
+(ii) commits to the characteristics of passivity set forth in
+clauses (A) through (C) in a written document.
+(25) "Payment instrument" means a written or electronic check,
+draft, money order, traveler's check, or other written or electronic
+instrument for the transmission or payment of money or monetary
+value, whether or not negotiable. The term does not include:
+(A) stored value; or
+(B) any instrument that:
+(i) is redeemable by the issuer only for goods or services
+provided by the issuer or its affiliate, or franchisees of the
+issuer or its affiliate, except to the extent required by
+applicable law to be redeemable in cash for its cash value;
+or
+(ii) is not sold to the public but is issued and distributed as
+HB 1116—LS 6503/DI 119
+
+32
+part of a loyalty, rewards, or promotional program.
+(26) "Person" means any individual, general partnership, limited
+partnership, limited liability company, corporation, trust,
+association, joint stock corporation, or other corporate entity, as
+so identified by the director.
+(27) "Receiving money for transmission" means receiving money
+or monetary value in the United States for transmission within or
+outside the United States by electronic or other means. The term
+"money received for transmission" has a corresponding meaning.
+(28) "Stored value" means monetary value representing a claim,
+against the issuer, that is evidenced by an electronic or digital
+record and that is intended and accepted for use as a means of
+redemption for money or monetary value, or payment for goods
+or services. The term includes "prepaid access" as defined in 31
+CFR 1010.100. The term does not include:
+(A) a payment instrument;
+(B) closed loop stored value; or
+(C) stored value not sold to the public but issued and
+distributed as part of a loyalty, rewards, or promotional
+program.
+(29) "Tangible net worth" means the aggregate assets of a
+licensee, excluding all intangible assets, less liabilities, as
+determined in accordance with United States generally accepted
+accounting principles.".
+Delete pages 7 through 10.
+Page 11, delete lines 1 through 41.
+Page 14, line 13, delete "A person" and insert "After December 31,
+2026, a person".
+Page 14, line 18, delete "IC 28-8-4.1;" and insert "IC 28-8-4.1, after
+December 31, 2026;".
+Page 21, delete lines 2 through 19, begin a new paragraph and
+insert:
+"Sec. 22. (a) As used in this section, "existing user" means an
+individual who has had a profile with a virtual currency kiosk
+operator for at least forty-five (45) days.
+(b) As used in this section, "new user" means an individual who
+has had a profile with a virtual currency kiosk operator for less
+than forty-five (45) days.
+(c) Subject to subsection (g), an operator may not allow a new
+user to conduct any combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+HB 1116—LS 6503/DI 119
+
+33
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single twenty-four (24) hour period the total value of which is
+more than two thousand dollars ($2,000).
+(d) An operator may not allow an existing user to conduct any
+combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single twenty-four (24) hour period the total value of which is
+more than four thousand dollars ($4,000).
+(e) Subject to subsection (g), an operator may not allow a new
+user to conduct any combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single thirty (30) day period the total value of which is more
+than ten thousand dollars ($10,000).
+(f) An operator may not allow an existing user to conduct any
+combination of:
+(1) one (1) or more virtual currency transactions through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+and
+(2) one (1) or more purchases or transfers through any other
+product or service offered by the operator;
+in a single thirty (30) day period the total value of which is more
+than fifteen thousand dollars ($15,000).
+(g) A new user may not:
+(1) conduct a virtual currency transaction through the
+operator's virtual currency kiosk or kiosks located in Indiana;
+or
+(2) purchase or transfer any other product or service offered
+by the operator;
+unless the new user's profile with the operator has been activated
+for at least seven (7) business days.".
+Page 21, line 20, delete "A virtual" and insert "After December 31,
+2026, a virtual".
+HB 1116—LS 6503/DI 119
+
+34
+Page 21, line 24, delete "three percent (3%)" and insert "fifteen
+percent (15%)".
+Page 21, line 30, after "individual" insert "located in the United
+States".
+Page 21, line 31, delete "from 8 a.m. to 10" and insert "twenty-four
+(24) hours a day, seven (7) days a week.".
+Page 21, delete line 32.
+Page 24, between lines 25 and 26, begin a new paragraph and insert:
+"Sec. 30. Not later than December 31, 2027, the department shall
+submit to the executive director of the legislative services agency
+for distribution to the members of the general assembly a report in
+an electronic format under IC 5-14-6 that does the following:
+(1) Compares the limit on charges described in section 23 of
+this chapter with any limit on charges associated with a
+virtual currency transaction conducted through a virtual
+currency kiosk established by other states.
+(2) Calculates the total number of complaints received by the
+attorney general's office and the department concerning
+fraudulently induced virtual currency transactions conducted
+through virtual currency kiosks in the previous calendar year.
+(3) Provides a detailed breakdown concerning the complaints
+described in subdivision (2), including detailing the number of
+complaints per county in Indiana and specifying whether the
+complaint involved a virtual currency kiosk operated by an
+operator licensed under IC 28-8-4.1.
+(4) Specifies the number of complaints described in
+subdivision (2) that were submitted by individuals who had
+not completed a virtual currency transaction conducted
+through a virtual currency kiosk with the virtual currency
+kiosk operator that operated the virtual currency kiosk
+involved in the fraudulently induced virtual currency
+transaction prior to the fraudulently induced virtual currency
+transaction.".
+Page 24, line 26, delete "Sec. 30." and insert "Sec. 31.".
+and when so amended that said bill do pass.
+(Reference is to HB 1116 as introduced.)
+TESHKA
+Committee Vote: yeas 12, nays 0.
+HB 1116—LS 6503/DI 119
+
+35
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Ways and Means, to which was
+referred House Bill 1116, has had the same under consideration and
+begs leave to report the same back to the House with the
+recommendation that said bill be amended as follows:
+Page 19, line 9, after "address." insert "The information submitted
+by the user under this subdivision must match the information on
+the government issued identification card described in subdivision
+(1).".
+Page 22, line 13, delete "fifteen percent" and insert "ten percent".
+Page 22, line 14, delete "(15%)" and insert "(10%)".
+Page 24, delete lines 21 through 27, begin a new paragraph and
+insert:
+"(b) The attorney general may bring an action under subsection
+(a) against the following:
+(1) The operator of a virtual currency kiosk that gives rise to
+a violation of this chapter.
+(2) The owner of the premises on which the virtual currency
+kiosk is located, if the owner knowingly or intentionally
+permitted the violation described in subdivision (1).".
+Page 25, between lines 15 and 16, begin a new paragraph and insert:
+"Sec. 30. In addition to any fee associated with obtaining a
+license under IC 28-8-4.1, an operator shall pay to the department
+before February 1 of each year an amount of five hundred dollars
+($500) for each virtual currency kiosk that the operator operated
+in Indiana in the previous calendar year.".
+Page 25, line 16, delete "Sec. 30." and insert "Sec. 31.".
+Page 25, line 41, delete "Sec. 31." and insert "Sec. 32.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1116 as printed January 15, 2026.)
+THOMPSON
+Committee Vote: yeas 22, nays 0.
+HB 1116—LS 6503/DI 119
+
+[DELETED:  a m t M a c a t  a o a f t i f t p a a r s o r k b t u m i a v c]
+[DELETED:  a a e m a b a t p a u u c o a v c f i R t d o f b t a g u l r d]
+[DELETED:  l i t o k o i p t]
+[DELETED:  t f r a t t s m o  t m o i w o b e p c a u o]
+[DELETED:  T r o r c t s o  h t s t e i o c i e t b r o d i]
+[DELETED:  o r a i t s k o s]
+[DELETED:  T v b a s o I 2 c T v b a s o t f F D A v o I 2 ( h c A v o I 2 ( r p A v o I 2 ( t A v o I 2 ( a A v o I 2 ( c s A v o I 2 ( u m A v o I 2 ( e]
+[DELETED:  A v o I 2 ( r e A v o I 2 ( m o c i i a s f i A v o I 2 ( t s o a o p m w w c ]
+[DELETED:  o o p o a t d o d t l o a a b n o a 2 I 2 A A B P P S 2 T f d a]
+[DELETED:  r a u t B S A ( " l s v m s v t i T p t v d o i a l a p p t e a c t d a a p w]
+[DELETED:  b t U S S a E U S a t h o p i A a p l i I f a t I p b t p r t o t i r a o t]
+[DELETED:  " l m l t a t S g a a p i a m u o a e b a t d n i t p o s o o " a s m a s a t i o T R A f m c p o a f m]
+[DELETED:  t A A o R M e i a w a a i r f t b a l o a o e i a w a o P R o a U S m d n h t p t e a m o k]
+[DELETED:  o i a e t t e r b l l c c t s v n s t t p b i a a p o a l r o p " n w m t a a o  e a i a l l a]
+[DELETED:  a i o d e f p o t o b o o s p 4 A u i t c " a a r s i r b o e b t u i t v c o f v c t]
+[DELETED:  v c k r o w t p i a t c o f a v c d o v c i t p o t]
+[DELETED:  c t t t h b v a o a f t i f t c q a o t o a v k t i l i I s s t t T f i r e o t T s d o t v c k]
+[DELETED:  t d t i t f i t o b c d t p c y t t o T o g r a t v t c t t o T t n a v o v c c t t o v t n o r r b u i T t n o t o v c]
+[DELETED:  u 3 U 5 e s w r t c t c t t r r u t s i i a t t r t b f w t d u t d a v c t a u r b t d w r t t n a a o t v c k g a w j i t v]
+[DELETED:  T f i w m b d C i f a s o l l t c b c t t v d u t s i t f o  e a a t k o T]
+[DELETED:  u i p w t i d i t t u h r a u t a ( a p o t o r o t l s e t t n p b a v]
+[DELETED:  o v o t i o t u t t a a c o a g i 2 U a u c o a v c u w a r i b p f a a r a a w t o c s c b E v c a a t h A c a t t u w r t t T r t w u f p o t t w t s o t v c g a w j i t v o t t a v c t t a v c k t i l i]
+[DELETED:  o w t v c t i n l t o h t ( d a t v c k o u]
+[DELETED:  c a v c t t t c k i a a e t p 2 A v c k o t o  c k t i l i I s m v c k i b e a p a c t p a t r a o r w t o f m t r i u]
+[DELETED:  t i a t t o t v c k o l t b a w u r b t d p t t e o t o u o b a v c w t i a w a e t i n a t U S s a p t s o t b w]
+[DELETED:  i I s a r b a s o c 2 ( A p t v t c c  i l i t o k o i t p o t v c k o T t p p t a g a c]
+[DELETED:  T r a p u t s a n e v c k t o o i c w a l o c a w  c t c t a v g o a t d c S t n o c d i c a v c t c]
+[DELETED:  o t o t v c k i t f i v c 3 T d m r u 4]
+[DELETED:  b l t r t s b t t H w t P S 2 T f d a r a u t B S A ( " l s v m s v t i T p t v d o i a l]
+[DELETED:  a p p t e a c o d a a p w b t U S S a E]
+[DELETED:  U S a t h o p i A a p l i I f a t I p b t p r t o t i r a o t " l m l t a t S g a a p i a m u o a e b a]
+[DELETED:  t d n i t p o s o o " a s m a s a t i T R A f m c p o a f m t A A o R M e i a w a a]
+[DELETED:  i r f t b l o b a o e i a w a s o P R o a U S m d n h t p t e a m o k o i a e t t e r b]
+[DELETED:  l l c c t s v n s t t p b i a a p o a l r o p " n w m t a a o  e a i a l l a]
+[DELETED:  c a v c t t t]
+[DELETED:  c w a l o c a w  c t c t a v g o a t d c S t n o c d i c a v c t c o t o t v c k i t f i v c]
+[DELETED:  l t r t s b t t H w t i l i t o k o i]

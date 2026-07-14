@@ -1,0 +1,1309 @@
+Title: SENATE BILL No. 282
+Official Title: SENATE BILL No. 282
+Number of Sections: 2
+Source: versions - Senate Bill (S)
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+*SB0282.1*
+January 23, 2026
+_____
+DIGEST OF SB 282 (Updated January 21, 2026 1:20 pm - DI 104)
+Citations Affected: IC 16-18; IC 16-42; IC 25-22.5.
+Synopsis: Compounding drugs; registration of medical spas. Restricts
+compounding of a glucagon-like-peptide-1 substance unless certain
+requirements are met. Requires persons selling, transferring, or
+distributing the compounded drug to maintain specified records.
+Requires the Indiana department of health to prepare a report
+concerning the oversight of drug compounding. Beginning January 1,
+2027, requires the registration of medical spas under the medical
+licensing board of Indiana (board). Requires the board to establish and
+maintain a public data base concerning registered medical spas.
+Requires a medical spa to designate a responsible practitioner that
+meets certain requirements and specifies duties of the responsible
+practitioner. Requires a medical spa to notify the board after a serious
+adverse event. Prohibits a medical spa from providing health care
+services and cosmetic and lifestyle treatments in a location other than
+the medical spa, a physician's office, or other health care facility.
+Allows the board to take disciplinary action, including the suspension
+of a medical spa registration.
+Effective: July 1, 2026.
+Charbonneau, Busch
+January 12, 2026, read first time and referred to Committee on Health and Provider
+Services.
+January 22, 2026, amended, reported favorably — Do Pass.
+SB 282—LS 7068/DI 104
+January 23, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 282
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-41.2 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 41.2. "Bulk drug substance", for
+4 purposes of IC 16-42-22.5, has the meaning set forth in
+5 IC 16-42-22.5-2.
+6 SECTION 2. IC 16-18-2-41.3 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 41.3. "Bulk drug substance
+9 manufacturing establishment", for purposes of IC 16-42-22.5, has
+10 the meaning set forth in IC 16-42-22.5-3.
+11 SECTION 3. IC 16-18-2-66.8 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JULY 1, 2026]: Sec. 66.8. "Compounding", for
+14 purposes of IC 16-42-22.5, has the meaning set forth in
+15 IC 16-42-22.5-4.
+16 SECTION 4. IC 16-18-2-373.5 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+SB 282—LS 7068/DI 104
+2
+1 [EFFECTIVE JULY 1, 2026]: Sec. 373.5. "Wholesale drug
+2 distributor", for purposes of IC 16-42-22.5, has the meaning set
+3 forth in IC 16-42-22.5-5.
+4 SECTION 5. IC 16-42-22.5 IS ADDED TO THE INDIANA CODE
+5 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2026]:
+7 Chapter 22.5. Drugs: Restrictions on Certain Bulk Drug
+8 Substances
+9 Sec. 1. (a) This chapter applies to compounding concerning a
+10 glucagon-like-peptide-1 substance used for weight management.
+11 (b) This chapter does not apply to the following:
+12 (1) An entity licensed under IC 16-21.
+13 (2) A pharmacy regulated by the board that holds a Category
+14 II permit as set forth in IC 25-26-13-17.
+15 (3) The compounding of the drug for animal use.
+16 (4) The compounding of the drug described in subsection (a)
+17 for a specific individual due to an allergy or required dosage
+18 specification.
+19 Sec. 2. (a) As used in this chapter, "bulk drug substance" has
+20 the meaning set forth in 21 CFR 207.3 for the drug specified in
+21 section 1(a) of this chapter.
+22 (b) The term does not include inactive ingredients, including
+23 flavoring agents.
+24 Sec. 3. (a) As used in this chapter, "bulk drug substance
+25 manufacturing establishment" means a facility that originally
+26 created the bulk drug substance through chemical, physical,
+27 biological, or other procedures or manipulations.
+28 (b) The term does not include a wholesaler, relabeler, repacker,
+29 or similar entity.
+30 Sec. 4. (a) As used in this chapter, "compounding" means the
+31 combining, admixing, mixing, diluting, pooling, reconstituting, or
+32 otherwise altering of a drug or bulk drug substance to create a
+33 compounded preparation.
+34 (b) The term does not include the mixing, reconstituting, or
+35 other acts that are performed in accordance with the directions
+36 contained in the labeling approved by the federal Food and Drug
+37 Administration provided by the product's manufacturer and other
+38 manufacturer directions consistent with the labeling.
+39 Sec. 5. As used in this chapter, "wholesale drug distributor" has
+40 the meaning set forth in IC 25-26-14-12.
+41 Sec. 6. (a) A person may not engage in compounding for human
+42 use under 21 U.S.C. 353a unless the following requirements are
+SB 282—LS 7068/DI 104
+3
+1 met:
+2 (1) The bulk drug substance used may be used in
+3 compounding under 21 U.S.C. 353a(b)(1).
+4 (2) Any bulk drug substance used under 21 U.S.C.
+5 353a(b)(1)(A)(i)(II) has been reviewed as part of a new drug
+6 application that has been approved by the federal Food and
+7 Drug Administration under 21 U.S.C. 355.
+8 (3) The bulk drug substance is a pharmaceutical grade
+9 product for human use.
+10 (4) The bulk drug substance is accompanied by a valid
+11 certificate of analysis that includes any information that the
+12 board requires through the adoption of rules under IC 4-22-2.
+13 (5) Either of the following requirements for documentation of
+14 quality control testing before use of the bulk drug substance
+15 in a compounded drug:
+16 (A) A person engaged in compounding conducts and
+17 documents, or obtains documentation of, quality control
+18 testing of any bulk drug substance not used under 21
+19 U.S.C. 353a(b)(1)(A)(i)(I) that includes the following:
+20 (i) Confirming the identity of the bulk drug substance.
+21 (ii) Reporting, identifying, characterizing, and
+22 quantifying each impurity present in the bulk drug
+23 substance in an amount exceeding one-tenth percent
+24 (0.1%).
+25 (iii) Meeting any requirements of the board set forth
+26 through the adoption of rules under IC 4-22-2.
+27 (B) The certificate of analysis contains the information set
+28 forth in clause (A)(i) through (A)(iii).
+29 (6) The bulk drug substance is accompanied with written
+30 verification that the bulk drug substance was manufactured
+31 at a bulk drug substance manufacturing establishment that:
+32 (A) is registered as a human drug establishment with the
+33 federal Food and Drug Administration under 21 U.S.C.
+34 360;
+35 (B) has been inspected by the federal Food and Drug
+36 Administration as a human drug establishment;
+37 (C) is not currently subject to an federal Food and Drug
+38 Administration Import Alert; and
+39 (D) is not currently subject to:
+40 (i) an unresolved federal Food and Drug Administration
+41 Warning Letter; or
+42 (ii) federal Food and Drug Administration inspection
+SB 282—LS 7068/DI 104
+4
+1 that is classified as Official Action Indicated.
+2 The verification under this subdivision must include the
+3 country in which the bulk drug substance manufacturing
+4 establishment is located.
+5 (7) The compounding complies with the federal Food, Drug,
+6 and Cosmetic Act an all other applicable requirements under
+7 Indiana law.
+8 (b) Any person engaging in the sale, transfer, or distribution of
+9 compounded drugs shall do the following:
+10 (1) Maintain all records related to the acquisition,
+11 examination, and testing of the bulk drug substance for at
+12 least two (2) years after the expiration date of the last lot of
+13 drug containing the bulk drug substance.
+14 (2) Furnish, upon request by the board, the records described
+15 in subdivision (1) not later than one (1) business day after
+16 receipt of the request unless a reasonable alternative time
+17 frame is indicated by the board based on the circumstances of
+18 the request.
+19 (c) Upon the request of the Indiana board of pharmacy during
+20 an inspection or as part of the review of a license application for
+21 records described in subsection (b), a person that engages in
+22 compounding shall provide the records to the board not later than
+23 either:
+24 (1) one (1) business day after receipt of the request; or
+25 (2) within a reasonable time, as determined by the Indiana
+26 board of pharmacy given the circumstances of the request.
+27 (d) A wholesale drug distributor distributing bulk drug
+28 substances in Indiana for use in compounding shall provide to the
+29 purchaser of a bulk drug substance with the following:
+30 (1) The valid certificate of analysis described in subsection
+31 (a)(4).
+32 (2) The documentation of quality control testing described in
+33 subsection (a)(5), if the testing is not conducted by the
+34 purchaser of the bulk drug substance.
+35 (3) The written verification set forth in subsection (a)(6).
+36 Sec. 7. (a) The state department, in consultation with the
+37 Indiana board of pharmacy, the medical licensing board of
+38 Indiana, the Indiana state board of nursing, and the office of the
+39 attorney general shall develop and publish a report not later than
+40 November 15 of each year concerning the oversight of drug
+41 compounding during the preceding fiscal year.
+42 (b) The report must include the following:
+SB 282—LS 7068/DI 104
+5
+1 (1) A general assessment of the public health impact drug
+2 compounding, including the benefits and risks presented by
+3 compounding.
+4 (2) The following data and information from the preceding
+5 fiscal year:
+6 (A) The number and type of professional licenses issued, by
+7 license type, under which the license holder may engage in
+8 drug compounding, and whether any of the licenses issued
+9 include sterile compounding.
+10 (B) The number of licensed facilities and practices that
+11 have been inspected in the previous year and the previous
+12 three (3) years, categorized by license type.
+13 (C) The number of inspections conducted on a licensed
+14 facility or practice that:
+15 (i) conducts drug compounding; or
+16 (ii) handles, stores, administers, dispenses, distributes, or
+17 uses compounded drugs in a retail or outpatient setting,
+18 including a 503A pharmacy (as described in 21 U.S.C.
+19 353a), a 503B outsourcing facility (as described in 21
+20 U.S.C. 353b), and a medical spa under IC 25-22.5-12.5.
+21 (D) The nature and severity of any deficiency or violation
+22 found by the regulating board in an investigation of a
+23 person or facility specified in this subsection.
+24 (E) The number of investigations conducted concerning
+25 drug compounding.
+26 (F) The number and type of disciplinary actions taken by
+27 each board that related to drug compounding.
+28 (G) The number and type of disciplinary actions taken by
+29 each board or state agency concerning the improper
+30 marketing, advertising, or promotion of compounding
+31 drugs or related services.
+32 (H) An assessment of the staffing and resources of each
+33 regulating board concerning compounding drugs.
+34 (c) The report required by this section must be posted on the
+35 state department's website and the Indiana board of pharmacy's
+36 website. The state department shall submit the report to the
+37 legislative council in an electronic format under IC 5-14-6.
+38 (d) This section expires December 31, 2030.
+39 SECTION 6. IC 25-22.5-12.5 IS ADDED TO THE INDIANA
+40 CODE AS A NEW CHAPTER TO READ AS FOLLOWS
+41 [EFFECTIVE JULY 1, 2026]:
+42 Chapter 12.5. Medical Spas
+SB 282—LS 7068/DI 104
+6
+1 Sec. 1. (a) As used in this chapter, "medical spa" means a
+2 facility or practice that:
+3 (1) offers or provides medical health care services;
+4 (2) engages in the preparation, administration, or dispensing
+5 of prescription drugs or otherwise uses prescription drugs for
+6 intravenous, intramuscular, or subcutaneous delivery; and
+7 (3) holds itself out as a facility or practice focused on cosmetic
+8 or lifestyle treatments, including any of the following:
+9 (A) Weight loss.
+10 (B) Wellness.
+11 (C) Longevity.
+12 (D) Cosmetic or aesthetic health services and treatments,
+13 including the preparation, administration, or dispensing of
+14 prescription drugs for:
+15 (i) weight loss;
+16 (ii) botulinum toxin injections and dermal fillers;
+17 (iii) hair loss;
+18 (iv) hormone therapies; or
+19 (v) parenteral nutrient therapies.
+20 (b) The term does not apply to a facility or practice that is
+21 otherwise licensed by the state.
+22 Sec. 2. As used in this chapter, "practitioner" means any of the
+23 following:
+24 (1) A physician licensed under IC 25-22.5.
+25 (2) An advanced practice registered nurse who meets the
+26 requirements of IC 25-23-1-19.5.
+27 (3) A physician assistant licensed under IC 25-27.5 who is
+28 delegated prescriptive authority under IC 25-27.5-5-6.
+29 Sec. 3. (a) Beginning January 1, 2027, a medical spa is required
+30 to be registered under this chapter in order to do business in
+31 Indiana.
+32 (b) The board shall establish a registration procedure for
+33 medical spas for implementation not later than January 1, 2027.
+34 An application for registration for a medical spa must include the
+35 following:
+36 (1) The name of the medical spa.
+37 (2) The address of the medical spa.
+38 (3) The medical health care services intended to be provided
+39 at the medical spa.
+40 (4) The prescription drugs that are intended to be prepared,
+41 administered, dispensed, or otherwise used at the medical spa,
+42 including whether the prescription drug is compounded.
+SB 282—LS 7068/DI 104
+7
+1 (5) The name and license number of the medical spa's licensed
+2 responsible practitioner described in section 5 of this chapter.
+3 (6) The name and license number of the individuals and
+4 practitioners operating in the medical spa.
+5 (c) The board may fine a person that operates an unregistered
+6 medical spa in an amount not to exceed five thousand dollars
+7 ($5,000) and require that the person obtain registration under this
+8 chapter in order to do business in Indiana.
+9 Sec. 4. (a) The board shall establish and maintain a public data
+10 base that contains:
+11 (1) the information specified in section 3(b) of this chapter for
+12 each registered medical spa; and
+13 (2) any disciplinary action taken by the board for a violation
+14 of this chapter.
+15 (b) The board shall redact any personally identifying health
+16 information as confidential before including any information on
+17 the data base.
+18 Sec. 5. (a) A medical spa registered under this chapter must
+19 designate a responsible practitioner who meets the following:
+20 (1) Has prescriptive authority.
+21 (2) Has education and training in the health care services and
+22 treatments being performed and medications being dispensed
+23 or administered in the medical spa.
+24 (b) A responsible practitioner shall be physically present at the
+25 medical spa location for a sufficient amount of time to comply with
+26 the responsibility of ensuring that the medical spa complies with
+27 the requirements of this chapter. The board may require a medical
+28 spa to receive the board's approval before a medical spa may
+29 designate a responsible practitioner to be responsible for more
+30 than one (1) location.
+31 (c) A responsible practitioner shall ensure that each individual
+32 working at the medical spa meets the following:
+33 (1) Is licensed to perform the health care services and
+34 treatments the individual is to perform and that the health
+35 care services and treatments are within the individual's scope
+36 of practice.
+37 (2) Is properly trained in the performance of the health care
+38 services and treatments being provided by the individual.
+39 Sec. 6. (a) As used in this section, "serious adverse event" means
+40 any negative medical occurrence associated with the use of a
+41 prescription medication or treatment provided that results in,
+42 based on a reasonable medical judgment, jeopardy to an
+SB 282—LS 7068/DI 104
+8
+1 individual's health resulting in medical or surgical intervention or
+2 any of the following outcomes:
+3 (1) Death.
+4 (2) A life threatening medical occurrence.
+5 (3) Inpatient hospitalization or prolonging of an existing
+6 hospitalization.
+7 (4) Persistent or significant incapacity or substantial
+8 disruption of the ability to conduct normal life functions.
+9 (5) Congenital anomaly or birth defect.
+10 (b) A medical spa shall notify the board in the manner
+11 prescribed by the board not later than five (5) days after the
+12 occurrence of a patient's serious adverse event. The notice must
+13 include, to the extent that the information may be obtained or
+14 reasonably available from the source, the following:
+15 (1) The name of the patient, the prescription medication
+16 treatment involved, and the date of the serious adverse event.
+17 (2) The nature and location of the serious adverse event.
+18 (3) The medical records for the patient concerning the serious
+19 adverse event.
+20 Sec. 7. (a) The board, or a person contracting with the board,
+21 may inspect a medical spa that:
+22 (1) has applied for registration; or
+23 (2) is registered;
+24 under this chapter. A person that denies access to the facility for an
+25 inspection violates this chapter.
+26 (b) The board shall investigate any claim of a violation of this
+27 chapter and take any necessary enforcement action.
+28 Sec. 8. (a) The board may take disciplinary action under
+29 IC 25-1-9 against a medical spa registered under this chapter for
+30 failure to comply with this chapter or IC 16-42-22.5.
+31 (b) The board may suspend a registration under this chapter
+32 pursuant to the requirements set forth in IC 25-1-9-10.
+33 Sec. 9. A medical spa may not provide health care services and
+34 cosmetic and lifestyle treatments to a consumer at a location other
+35 than the medical spa office, a physician's office, or other licensed
+36 health care facility.
+37 Sec. 10. The board may adopt rules under IC 4-22-2 that are
+38 necessary to implement this chapter.
+SB 282—LS 7068/DI 104
+9
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Health and Provider
+Services, to which was referred Senate Bill No. 282, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 1, delete lines 1 through 4.
+Page 2, between lines 2 and 3, begin a new paragraph and insert:
+"SECTION 4. IC 16-18-2-373.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 373.5. "Wholesale drug
+distributor", for purposes of IC 16-42-22.5, has the meaning set
+forth in IC 16-42-22.5-5.".
+Page 2, line 6, after "on" insert "Certain".
+Page 2, delete lines 7 through 42, begin a new paragraph and insert:
+"Sec. 1. (a) This chapter applies to compounding concerning a
+glucagon-like-peptide-1 substance used for weight management.
+(b) This chapter does not apply to the following:
+(1) An entity licensed under IC 16-21.
+(2) A pharmacy regulated by the board that holds a Category
+II permit as set forth in IC 25-26-13-17.
+(3) The compounding of the drug for animal use.
+(4) The compounding of the drug described in subsection (a)
+for a specific individual due to an allergy or required dosage
+specification.
+Sec. 2. (a) As used in this chapter, "bulk drug substance" has
+the meaning set forth in 21 CFR 207.3 for the drug specified in
+
+Section 2:
+section 1(a) of this chapter.
+(b) The term does not include inactive ingredients, including
+flavoring agents.
+Sec. 3. (a) As used in this chapter, "bulk drug substance
+manufacturing establishment" means a facility that originally
+created the bulk drug substance through chemical, physical,
+biological, or other procedures or manipulations.
+(b) The term does not include a wholesaler, relabeler, repacker,
+or similar entity.
+Sec. 4. (a) As used in this chapter, "compounding" means the
+combining, admixing, mixing, diluting, pooling, reconstituting, or
+otherwise altering of a drug or bulk drug substance to create a
+compounded preparation.
+(b) The term does not include the mixing, reconstituting, or
+other acts that are performed in accordance with the directions
+SB 282—LS 7068/DI 104
+10
+contained in the labeling approved by the federal Food and Drug
+Administration provided by the product's manufacturer and other
+manufacturer directions consistent with the labeling.
+Sec. 5. As used in this chapter, "wholesale drug distributor" has
+the meaning set forth in IC 25-26-14-12.
+Sec. 6. (a) A person may not engage in compounding for human
+use under 21 U.S.C. 353a unless the following requirements are
+met:
+(1) The bulk drug substance used may be used in
+compounding under 21 U.S.C. 353a(b)(1).
+(2) Any bulk drug substance used under 21 U.S.C.
+353a(b)(1)(A)(i)(II) has been reviewed as part of a new drug
+application that has been approved by the federal Food and
+Drug Administration under 21 U.S.C. 355.
+(3) The bulk drug substance is a pharmaceutical grade
+product for human use.
+(4) The bulk drug substance is accompanied by a valid
+certificate of analysis that includes any information that the
+board requires through the adoption of rules under IC 4-22-2.
+(5) Either of the following requirements for documentation of
+quality control testing before use of the bulk drug substance
+in a compounded drug:
+(A) A person engaged in compounding conducts and
+documents, or obtains documentation of, quality control
+testing of any bulk drug substance not used under 21
+U.S.C. 353a(b)(1)(A)(i)(I) that includes the following:
+(i) Confirming the identity of the bulk drug substance.
+(ii) Reporting, identifying, characterizing, and
+quantifying each impurity present in the bulk drug
+substance in an amount exceeding one-tenth percent
+(0.1%).
+(iii) Meeting any requirements of the board set forth
+through the adoption of rules under IC 4-22-2.
+(B) The certificate of analysis contains the information set
+forth in clause (A)(i) through (A)(iii).
+(6) The bulk drug substance is accompanied with written
+verification that the bulk drug substance was manufactured
+at a bulk drug substance manufacturing establishment that:
+(A) is registered as a human drug establishment with the
+federal Food and Drug Administration under 21 U.S.C.
+360;
+(B) has been inspected by the federal Food and Drug
+SB 282—LS 7068/DI 104
+11
+Administration as a human drug establishment;
+(C) is not currently subject to an federal Food and Drug
+Administration Import Alert; and
+(D) is not currently subject to:
+(i) an unresolved federal Food and Drug Administration
+Warning Letter; or
+(ii) federal Food and Drug Administration inspection
+that is classified as Official Action Indicated.
+The verification under this subdivision must include the
+country in which the bulk drug substance manufacturing
+establishment is located.
+(7) The compounding complies with the federal Food, Drug,
+and Cosmetic Act an all other applicable requirements under
+Indiana law.
+(b) Any person engaging in the sale, transfer, or distribution of
+compounded drugs shall do the following:
+(1) Maintain all records related to the acquisition,
+examination, and testing of the bulk drug substance for at
+least two (2) years after the expiration date of the last lot of
+drug containing the bulk drug substance.
+(2) Furnish, upon request by the board, the records described
+in subdivision (1) not later than one (1) business day after
+receipt of the request unless a reasonable alternative time
+frame is indicated by the board based on the circumstances of
+the request.
+(c) Upon the request of the Indiana board of pharmacy during
+an inspection or as part of the review of a license application for
+records described in subsection (b), a person that engages in
+compounding shall provide the records to the board not later than
+either:
+(1) one (1) business day after receipt of the request; or
+(2) within a reasonable time, as determined by the Indiana
+board of pharmacy given the circumstances of the request.
+(d) A wholesale drug distributor distributing bulk drug
+substances in Indiana for use in compounding shall provide to the
+purchaser of a bulk drug substance with the following:
+(1) The valid certificate of analysis described in subsection
+(a)(4).
+(2) The documentation of quality control testing described in
+subsection (a)(5), if the testing is not conducted by the
+purchaser of the bulk drug substance.
+(3) The written verification set forth in subsection (a)(6).
+SB 282—LS 7068/DI 104
+12
+Sec. 7. (a) The state department, in consultation with the
+Indiana board of pharmacy, the medical licensing board of
+Indiana, the Indiana state board of nursing, and the office of the
+attorney general shall develop and publish a report not later than
+November 15 of each year concerning the oversight of drug
+compounding during the preceding fiscal year.
+(b) The report must include the following:
+(1) A general assessment of the public health impact drug
+compounding, including the benefits and risks presented by
+compounding.
+(2) The following data and information from the preceding
+fiscal year:
+(A) The number and type of professional licenses issued, by
+license type, under which the license holder may engage in
+drug compounding, and whether any of the licenses issued
+include sterile compounding.
+(B) The number of licensed facilities and practices that
+have been inspected in the previous year and the previous
+three (3) years, categorized by license type.
+(C) The number of inspections conducted on a licensed
+facility or practice that:
+(i) conducts drug compounding; or
+(ii) handles, stores, administers, dispenses, distributes, or
+uses compounded drugs in a retail or outpatient setting,
+including a 503A pharmacy (as described in 21 U.S.C.
+353a), a 503B outsourcing facility (as described in 21
+U.S.C. 353b), and a medical spa under IC 25-22.5-12.5.
+(D) The nature and severity of any deficiency or violation
+found by the regulating board in an investigation of a
+person or facility specified in this subsection.
+(E) The number of investigations conducted concerning
+drug compounding.
+(F) The number and type of disciplinary actions taken by
+each board that related to drug compounding.
+(G) The number and type of disciplinary actions taken by
+each board or state agency concerning the improper
+marketing, advertising, or promotion of compounding
+drugs or related services.
+(H) An assessment of the staffing and resources of each
+regulating board concerning compounding drugs.
+(c) The report required by this section must be posted on the
+state department's website and the Indiana board of pharmacy's
+SB 282—LS 7068/DI 104
+13
+website. The state department shall submit the report to the
+legislative council in an electronic format under IC 5-14-6.
+(d) This section expires December 31, 2030.".
+Delete pages 3 through 4.
+Page 5, delete lines 1 through 30.
+Page 5, line 31, delete "IC 25-26-13.7" and insert "IC 25-22.5-12.5".
+Page 5, line 34, delete "13.7." and insert "12.5.".
+Page 6, line 4, delete "service," and insert "services and
+treatments,".
+Page 6, line 8, delete ";" and insert "and dermal fillers;
+(iii) hair loss;".
+Page 6, line 9, delete "(iii)" and insert "(iv)".
+Page 6, line 10, delete "(iv)" and insert "(v)".
+Page 6, line 13, after "2." insert "As used in this chapter,
+"practitioner" means any of the following:
+(1) A physician licensed under IC 25-22.5.
+(2) An advanced practice registered nurse who meets the
+requirements of IC 25-23-1-19.5.
+(3) A physician assistant licensed under IC 25-27.5 who is
+delegated prescriptive authority under IC 25-27.5-5-6.
+Sec. 3.".
+Page 6, delete lines 22 through 24, begin a new line block indented
+and insert:
+"(3) The medical health care services intended to be provided
+at the medical spa.
+(4) The prescription drugs that are intended to be prepared,
+administered, dispensed, or otherwise used at the medical spa,
+including whether the prescription drug is compounded.
+(5) The name and license number of the medical spa's licensed
+responsible practitioner described in section 5 of this chapter.
+(6) The name and license number of the individuals and
+practitioners operating in the medical spa.".
+Page 6, line 26, after "spa" insert "in an amount not to exceed five
+thousand dollars ($5,000)".
+Page 6, line 28, delete "3." and insert "4.".
+Page 6, line 30, delete "2(b)" and insert "3(b)".
+Page 6, delete lines 37 through 42, begin a new paragraph and
+insert:
+"Sec. 5. (a) A medical spa registered under this chapter must
+designate a responsible practitioner who meets the following:
+(1) Has prescriptive authority.
+(2) Has education and training in the health care services and
+SB 282—LS 7068/DI 104
+14
+treatments being performed and medications being dispensed
+or administered in the medical spa.
+(b) A responsible practitioner shall be physically present at the
+medical spa location for a sufficient amount of time to comply with
+the responsibility of ensuring that the medical spa complies with
+the requirements of this chapter. The board may require a medical
+spa to receive the board's approval before a medical spa may
+designate a responsible practitioner to be responsible for more
+than one (1) location.
+(c) A responsible practitioner shall ensure that each individual
+working at the medical spa meets the following:
+(1) Is licensed to perform the health care services and
+treatments the individual is to perform and that the health
+care services and treatments are within the individual's scope
+of practice.
+(2) Is properly trained in the performance of the health care
+services and treatments being provided by the individual.".
+Page 7, delete lines 1 through 3.
+Page 7, line 4, delete "5." and insert "6.".
+Page 7, line 6, after "medication" insert "or treatment provided".
+Page 7, line 21, after "medication" insert "treatment".
+Page 7, line 26, delete "6." and insert "7.".
+Page 7, line 34, delete "7." and insert "8.".
+Page 7, line 37, delete "if" and insert "pursuant to the
+requirements set forth in IC 25-1-9-10.".
+Page 7, delete line 38.
+Page 7, line 39, delete "8." and insert "9. A medical spa may not
+provide health care services and cosmetic and lifestyle treatments
+to a consumer at a location other than the medical spa office, a
+physician's office, or other licensed health care facility.
+Sec. 10.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 282 as introduced.)
+CHARBONNEAU, Chairperson
+Committee Vote: Yeas 11, Nays 0.
+SB 282—LS 7068/DI 104
+[DELETED:  a m R p s t o t c d t m s r t I d o h t p a r a p d b c r m s]
+[DELETED:  A A N S T R A F o I 1 h t m s f i I A A N S T R A F J 1 2 S 4 " d s A A N S T R A F J 1 2 S 6 " f o I 1 h t m s f i A A N S T R A F]
+[DELETED:  J 1 2 S 3 " d 2 D R o C B D 3 ( A u i t c " d s e m a f t o t b d s t c p]
+[DELETED:  T b d s u m b u i A b d s u u 2 U T b d s i a p g T b d s i a b a v A p e i c c a o a b d s n u u 2 R i c a e i p i t b d i a a e o p h b i b t f F a D]
+[DELETED:  v u t s m i t M a r r t t a d i s ( a p t e i A w d d d b d ( i t t i n c b t 7 ( T s d i c w t b o p t m l b o 1 o e y c t o o d]
+[DELETED:  b o s a c t i a o p o c T s d s s t r t t 6 I 2 I A T T I A A N C T R A F]
+[DELETED:  T b s e a r p f]
+[DELETED:  T n a l n o t i a I l t p t h c s a( n m o a w t u o  o a r m j j t a]
+[DELETED:  I h o p o a e P o s i o s A m s s n t b i t m T n o t p t p m 8 ( T b m t d a u]
+[DELETED:  P T S C o H a P w t r t s A a A A N S T R A F J 1 2 S 3 " d 3 ( A u i t c " d s e m a f t o t b d s t c p]
+[DELETED:  T b d s u m b u i A b d s u u 2 U T b d s i a p g T b d s i a b a v A p e i c c a o a b d s n u u 2 R i c a e i p i t b d i a a e o p h b i b t f F a D]
+[DELETED:  v u t s m i t M a r r t t a d i s ( a p t e i A w d d d b d ( i t t i n c b t]
+[DELETED:  7 ( T s d i c w t b o p t m l b o 1 o e y c t o o d b o s a c t i a o p o c]
+[DELETED:  T s d s s t r t t 6 l 4 d " a i " a 6 l 1 a " i " u i t c T n a l n o t i a]
+[DELETED:  I l t p t h c s a( 7 l 3 d " a i " t t]
+
+
+================================================================================
+
+Raw Text:
+*SB0282.1*
+January 23, 2026
+SENATE BILL No. 282
+_____
+DIGEST OF SB 282 (Updated January 21, 2026 1:20 pm - DI 104)
+Citations Affected: IC 16-18; IC 16-42; IC 25-22.5.
+Synopsis: Compounding drugs; registration of medical spas. Restricts
+compounding of a glucagon-like-peptide-1 substance unless certain
+requirements are met. Requires persons selling, transferring, or
+distributing the compounded drug to maintain specified records.
+Requires the Indiana department of health to prepare a report
+concerning the oversight of drug compounding. Beginning January 1,
+2027, requires the registration of medical spas under the medical
+licensing board of Indiana (board). Requires the board to establish and
+maintain a public data base concerning registered medical spas.
+Requires a medical spa to designate a responsible practitioner that
+meets certain requirements and specifies duties of the responsible
+practitioner. Requires a medical spa to notify the board after a serious
+adverse event. Prohibits a medical spa from providing health care
+services and cosmetic and lifestyle treatments in a location other than
+the medical spa, a physician's office, or other health care facility.
+Allows the board to take disciplinary action, including the suspension
+of a medical spa registration.
+Effective: July 1, 2026.
+Charbonneau, Busch
+January 12, 2026, read first time and referred to Committee on Health and Provider
+Services.
+January 22, 2026, amended, reported favorably — Do Pass.
+SB 282—LS 7068/DI 104
+
+January 23, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 282
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-41.2 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 41.2. "Bulk drug substance", for
+4 purposes of IC 16-42-22.5, has the meaning set forth in
+5 IC 16-42-22.5-2.
+6 SECTION 2. IC 16-18-2-41.3 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 41.3. "Bulk drug substance
+9 manufacturing establishment", for purposes of IC 16-42-22.5, has
+10 the meaning set forth in IC 16-42-22.5-3.
+11 SECTION 3. IC 16-18-2-66.8 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JULY 1, 2026]: Sec. 66.8. "Compounding", for
+14 purposes of IC 16-42-22.5, has the meaning set forth in
+15 IC 16-42-22.5-4.
+16 SECTION 4. IC 16-18-2-373.5 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+SB 282—LS 7068/DI 104
+
+2
+1 [EFFECTIVE JULY 1, 2026]: Sec. 373.5. "Wholesale drug
+2 distributor", for purposes of IC 16-42-22.5, has the meaning set
+3 forth in IC 16-42-22.5-5.
+4 SECTION 5. IC 16-42-22.5 IS ADDED TO THE INDIANA CODE
+5 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2026]:
+7 Chapter 22.5. Drugs: Restrictions on Certain Bulk Drug
+8 Substances
+9 Sec. 1. (a) This chapter applies to compounding concerning a
+10 glucagon-like-peptide-1 substance used for weight management.
+11 (b) This chapter does not apply to the following:
+12 (1) An entity licensed under IC 16-21.
+13 (2) A pharmacy regulated by the board that holds a Category
+14 II permit as set forth in IC 25-26-13-17.
+15 (3) The compounding of the drug for animal use.
+16 (4) The compounding of the drug described in subsection (a)
+17 for a specific individual due to an allergy or required dosage
+18 specification.
+19 Sec. 2. (a) As used in this chapter, "bulk drug substance" has
+20 the meaning set forth in 21 CFR 207.3 for the drug specified in
+21 section 1(a) of this chapter.
+22 (b) The term does not include inactive ingredients, including
+23 flavoring agents.
+24 Sec. 3. (a) As used in this chapter, "bulk drug substance
+25 manufacturing establishment" means a facility that originally
+26 created the bulk drug substance through chemical, physical,
+27 biological, or other procedures or manipulations.
+28 (b) The term does not include a wholesaler, relabeler, repacker,
+29 or similar entity.
+30 Sec. 4. (a) As used in this chapter, "compounding" means the
+31 combining, admixing, mixing, diluting, pooling, reconstituting, or
+32 otherwise altering of a drug or bulk drug substance to create a
+33 compounded preparation.
+34 (b) The term does not include the mixing, reconstituting, or
+35 other acts that are performed in accordance with the directions
+36 contained in the labeling approved by the federal Food and Drug
+37 Administration provided by the product's manufacturer and other
+38 manufacturer directions consistent with the labeling.
+39 Sec. 5. As used in this chapter, "wholesale drug distributor" has
+40 the meaning set forth in IC 25-26-14-12.
+41 Sec. 6. (a) A person may not engage in compounding for human
+42 use under 21 U.S.C. 353a unless the following requirements are
+SB 282—LS 7068/DI 104
+
+3
+1 met:
+2 (1) The bulk drug substance used may be used in
+3 compounding under 21 U.S.C. 353a(b)(1).
+4 (2) Any bulk drug substance used under 21 U.S.C.
+5 353a(b)(1)(A)(i)(II) has been reviewed as part of a new drug
+6 application that has been approved by the federal Food and
+7 Drug Administration under 21 U.S.C. 355.
+8 (3) The bulk drug substance is a pharmaceutical grade
+9 product for human use.
+10 (4) The bulk drug substance is accompanied by a valid
+11 certificate of analysis that includes any information that the
+12 board requires through the adoption of rules under IC 4-22-2.
+13 (5) Either of the following requirements for documentation of
+14 quality control testing before use of the bulk drug substance
+15 in a compounded drug:
+16 (A) A person engaged in compounding conducts and
+17 documents, or obtains documentation of, quality control
+18 testing of any bulk drug substance not used under 21
+19 U.S.C. 353a(b)(1)(A)(i)(I) that includes the following:
+20 (i) Confirming the identity of the bulk drug substance.
+21 (ii) Reporting, identifying, characterizing, and
+22 quantifying each impurity present in the bulk drug
+23 substance in an amount exceeding one-tenth percent
+24 (0.1%).
+25 (iii) Meeting any requirements of the board set forth
+26 through the adoption of rules under IC 4-22-2.
+27 (B) The certificate of analysis contains the information set
+28 forth in clause (A)(i) through (A)(iii).
+29 (6) The bulk drug substance is accompanied with written
+30 verification that the bulk drug substance was manufactured
+31 at a bulk drug substance manufacturing establishment that:
+32 (A) is registered as a human drug establishment with the
+33 federal Food and Drug Administration under 21 U.S.C.
+34 360;
+35 (B) has been inspected by the federal Food and Drug
+36 Administration as a human drug establishment;
+37 (C) is not currently subject to an federal Food and Drug
+38 Administration Import Alert; and
+39 (D) is not currently subject to:
+40 (i) an unresolved federal Food and Drug Administration
+41 Warning Letter; or
+42 (ii) federal Food and Drug Administration inspection
+SB 282—LS 7068/DI 104
+
+4
+1 that is classified as Official Action Indicated.
+2 The verification under this subdivision must include the
+3 country in which the bulk drug substance manufacturing
+4 establishment is located.
+5 (7) The compounding complies with the federal Food, Drug,
+6 and Cosmetic Act an all other applicable requirements under
+7 Indiana law.
+8 (b) Any person engaging in the sale, transfer, or distribution of
+9 compounded drugs shall do the following:
+10 (1) Maintain all records related to the acquisition,
+11 examination, and testing of the bulk drug substance for at
+12 least two (2) years after the expiration date of the last lot of
+13 drug containing the bulk drug substance.
+14 (2) Furnish, upon request by the board, the records described
+15 in subdivision (1) not later than one (1) business day after
+16 receipt of the request unless a reasonable alternative time
+17 frame is indicated by the board based on the circumstances of
+18 the request.
+19 (c) Upon the request of the Indiana board of pharmacy during
+20 an inspection or as part of the review of a license application for
+21 records described in subsection (b), a person that engages in
+22 compounding shall provide the records to the board not later than
+23 either:
+24 (1) one (1) business day after receipt of the request; or
+25 (2) within a reasonable time, as determined by the Indiana
+26 board of pharmacy given the circumstances of the request.
+27 (d) A wholesale drug distributor distributing bulk drug
+28 substances in Indiana for use in compounding shall provide to the
+29 purchaser of a bulk drug substance with the following:
+30 (1) The valid certificate of analysis described in subsection
+31 (a)(4).
+32 (2) The documentation of quality control testing described in
+33 subsection (a)(5), if the testing is not conducted by the
+34 purchaser of the bulk drug substance.
+35 (3) The written verification set forth in subsection (a)(6).
+36 Sec. 7. (a) The state department, in consultation with the
+37 Indiana board of pharmacy, the medical licensing board of
+38 Indiana, the Indiana state board of nursing, and the office of the
+39 attorney general shall develop and publish a report not later than
+40 November 15 of each year concerning the oversight of drug
+41 compounding during the preceding fiscal year.
+42 (b) The report must include the following:
+SB 282—LS 7068/DI 104
+
+5
+1 (1) A general assessment of the public health impact drug
+2 compounding, including the benefits and risks presented by
+3 compounding.
+4 (2) The following data and information from the preceding
+5 fiscal year:
+6 (A) The number and type of professional licenses issued, by
+7 license type, under which the license holder may engage in
+8 drug compounding, and whether any of the licenses issued
+9 include sterile compounding.
+10 (B) The number of licensed facilities and practices that
+11 have been inspected in the previous year and the previous
+12 three (3) years, categorized by license type.
+13 (C) The number of inspections conducted on a licensed
+14 facility or practice that:
+15 (i) conducts drug compounding; or
+16 (ii) handles, stores, administers, dispenses, distributes, or
+17 uses compounded drugs in a retail or outpatient setting,
+18 including a 503A pharmacy (as described in 21 U.S.C.
+19 353a), a 503B outsourcing facility (as described in 21
+20 U.S.C. 353b), and a medical spa under IC 25-22.5-12.5.
+21 (D) The nature and severity of any deficiency or violation
+22 found by the regulating board in an investigation of a
+23 person or facility specified in this subsection.
+24 (E) The number of investigations conducted concerning
+25 drug compounding.
+26 (F) The number and type of disciplinary actions taken by
+27 each board that related to drug compounding.
+28 (G) The number and type of disciplinary actions taken by
+29 each board or state agency concerning the improper
+30 marketing, advertising, or promotion of compounding
+31 drugs or related services.
+32 (H) An assessment of the staffing and resources of each
+33 regulating board concerning compounding drugs.
+34 (c) The report required by this section must be posted on the
+35 state department's website and the Indiana board of pharmacy's
+36 website. The state department shall submit the report to the
+37 legislative council in an electronic format under IC 5-14-6.
+38 (d) This section expires December 31, 2030.
+39 SECTION 6. IC 25-22.5-12.5 IS ADDED TO THE INDIANA
+40 CODE AS A NEW CHAPTER TO READ AS FOLLOWS
+41 [EFFECTIVE JULY 1, 2026]:
+42 Chapter 12.5. Medical Spas
+SB 282—LS 7068/DI 104
+
+6
+1 Sec. 1. (a) As used in this chapter, "medical spa" means a
+2 facility or practice that:
+3 (1) offers or provides medical health care services;
+4 (2) engages in the preparation, administration, or dispensing
+5 of prescription drugs or otherwise uses prescription drugs for
+6 intravenous, intramuscular, or subcutaneous delivery; and
+7 (3) holds itself out as a facility or practice focused on cosmetic
+8 or lifestyle treatments, including any of the following:
+9 (A) Weight loss.
+10 (B) Wellness.
+11 (C) Longevity.
+12 (D) Cosmetic or aesthetic health services and treatments,
+13 including the preparation, administration, or dispensing of
+14 prescription drugs for:
+15 (i) weight loss;
+16 (ii) botulinum toxin injections and dermal fillers;
+17 (iii) hair loss;
+18 (iv) hormone therapies; or
+19 (v) parenteral nutrient therapies.
+20 (b) The term does not apply to a facility or practice that is
+21 otherwise licensed by the state.
+22 Sec. 2. As used in this chapter, "practitioner" means any of the
+23 following:
+24 (1) A physician licensed under IC 25-22.5.
+25 (2) An advanced practice registered nurse who meets the
+26 requirements of IC 25-23-1-19.5.
+27 (3) A physician assistant licensed under IC 25-27.5 who is
+28 delegated prescriptive authority under IC 25-27.5-5-6.
+29 Sec. 3. (a) Beginning January 1, 2027, a medical spa is required
+30 to be registered under this chapter in order to do business in
+31 Indiana.
+32 (b) The board shall establish a registration procedure for
+33 medical spas for implementation not later than January 1, 2027.
+34 An application for registration for a medical spa must include the
+35 following:
+36 (1) The name of the medical spa.
+37 (2) The address of the medical spa.
+38 (3) The medical health care services intended to be provided
+39 at the medical spa.
+40 (4) The prescription drugs that are intended to be prepared,
+41 administered, dispensed, or otherwise used at the medical spa,
+42 including whether the prescription drug is compounded.
+SB 282—LS 7068/DI 104
+
+7
+1 (5) The name and license number of the medical spa's licensed
+2 responsible practitioner described in section 5 of this chapter.
+3 (6) The name and license number of the individuals and
+4 practitioners operating in the medical spa.
+5 (c) The board may fine a person that operates an unregistered
+6 medical spa in an amount not to exceed five thousand dollars
+7 ($5,000) and require that the person obtain registration under this
+8 chapter in order to do business in Indiana.
+9 Sec. 4. (a) The board shall establish and maintain a public data
+10 base that contains:
+11 (1) the information specified in section 3(b) of this chapter for
+12 each registered medical spa; and
+13 (2) any disciplinary action taken by the board for a violation
+14 of this chapter.
+15 (b) The board shall redact any personally identifying health
+16 information as confidential before including any information on
+17 the data base.
+18 Sec. 5. (a) A medical spa registered under this chapter must
+19 designate a responsible practitioner who meets the following:
+20 (1) Has prescriptive authority.
+21 (2) Has education and training in the health care services and
+22 treatments being performed and medications being dispensed
+23 or administered in the medical spa.
+24 (b) A responsible practitioner shall be physically present at the
+25 medical spa location for a sufficient amount of time to comply with
+26 the responsibility of ensuring that the medical spa complies with
+27 the requirements of this chapter. The board may require a medical
+28 spa to receive the board's approval before a medical spa may
+29 designate a responsible practitioner to be responsible for more
+30 than one (1) location.
+31 (c) A responsible practitioner shall ensure that each individual
+32 working at the medical spa meets the following:
+33 (1) Is licensed to perform the health care services and
+34 treatments the individual is to perform and that the health
+35 care services and treatments are within the individual's scope
+36 of practice.
+37 (2) Is properly trained in the performance of the health care
+38 services and treatments being provided by the individual.
+39 Sec. 6. (a) As used in this section, "serious adverse event" means
+40 any negative medical occurrence associated with the use of a
+41 prescription medication or treatment provided that results in,
+42 based on a reasonable medical judgment, jeopardy to an
+SB 282—LS 7068/DI 104
+
+8
+1 individual's health resulting in medical or surgical intervention or
+2 any of the following outcomes:
+3 (1) Death.
+4 (2) A life threatening medical occurrence.
+5 (3) Inpatient hospitalization or prolonging of an existing
+6 hospitalization.
+7 (4) Persistent or significant incapacity or substantial
+8 disruption of the ability to conduct normal life functions.
+9 (5) Congenital anomaly or birth defect.
+10 (b) A medical spa shall notify the board in the manner
+11 prescribed by the board not later than five (5) days after the
+12 occurrence of a patient's serious adverse event. The notice must
+13 include, to the extent that the information may be obtained or
+14 reasonably available from the source, the following:
+15 (1) The name of the patient, the prescription medication
+16 treatment involved, and the date of the serious adverse event.
+17 (2) The nature and location of the serious adverse event.
+18 (3) The medical records for the patient concerning the serious
+19 adverse event.
+20 Sec. 7. (a) The board, or a person contracting with the board,
+21 may inspect a medical spa that:
+22 (1) has applied for registration; or
+23 (2) is registered;
+24 under this chapter. A person that denies access to the facility for an
+25 inspection violates this chapter.
+26 (b) The board shall investigate any claim of a violation of this
+27 chapter and take any necessary enforcement action.
+28 Sec. 8. (a) The board may take disciplinary action under
+29 IC 25-1-9 against a medical spa registered under this chapter for
+30 failure to comply with this chapter or IC 16-42-22.5.
+31 (b) The board may suspend a registration under this chapter
+32 pursuant to the requirements set forth in IC 25-1-9-10.
+33 Sec. 9. A medical spa may not provide health care services and
+34 cosmetic and lifestyle treatments to a consumer at a location other
+35 than the medical spa office, a physician's office, or other licensed
+36 health care facility.
+37 Sec. 10. The board may adopt rules under IC 4-22-2 that are
+38 necessary to implement this chapter.
+SB 282—LS 7068/DI 104
+
+9
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Health and Provider
+Services, to which was referred Senate Bill No. 282, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 1, delete lines 1 through 4.
+Page 2, between lines 2 and 3, begin a new paragraph and insert:
+"SECTION 4. IC 16-18-2-373.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2026]: Sec. 373.5. "Wholesale drug
+distributor", for purposes of IC 16-42-22.5, has the meaning set
+forth in IC 16-42-22.5-5.".
+Page 2, line 6, after "on" insert "Certain".
+Page 2, delete lines 7 through 42, begin a new paragraph and insert:
+"Sec. 1. (a) This chapter applies to compounding concerning a
+glucagon-like-peptide-1 substance used for weight management.
+(b) This chapter does not apply to the following:
+(1) An entity licensed under IC 16-21.
+(2) A pharmacy regulated by the board that holds a Category
+II permit as set forth in IC 25-26-13-17.
+(3) The compounding of the drug for animal use.
+(4) The compounding of the drug described in subsection (a)
+for a specific individual due to an allergy or required dosage
+specification.
+Sec. 2. (a) As used in this chapter, "bulk drug substance" has
+the meaning set forth in 21 CFR 207.3 for the drug specified in
+section 1(a) of this chapter.
+(b) The term does not include inactive ingredients, including
+flavoring agents.
+Sec. 3. (a) As used in this chapter, "bulk drug substance
+manufacturing establishment" means a facility that originally
+created the bulk drug substance through chemical, physical,
+biological, or other procedures or manipulations.
+(b) The term does not include a wholesaler, relabeler, repacker,
+or similar entity.
+Sec. 4. (a) As used in this chapter, "compounding" means the
+combining, admixing, mixing, diluting, pooling, reconstituting, or
+otherwise altering of a drug or bulk drug substance to create a
+compounded preparation.
+(b) The term does not include the mixing, reconstituting, or
+other acts that are performed in accordance with the directions
+SB 282—LS 7068/DI 104
+
+10
+contained in the labeling approved by the federal Food and Drug
+Administration provided by the product's manufacturer and other
+manufacturer directions consistent with the labeling.
+Sec. 5. As used in this chapter, "wholesale drug distributor" has
+the meaning set forth in IC 25-26-14-12.
+Sec. 6. (a) A person may not engage in compounding for human
+use under 21 U.S.C. 353a unless the following requirements are
+met:
+(1) The bulk drug substance used may be used in
+compounding under 21 U.S.C. 353a(b)(1).
+(2) Any bulk drug substance used under 21 U.S.C.
+353a(b)(1)(A)(i)(II) has been reviewed as part of a new drug
+application that has been approved by the federal Food and
+Drug Administration under 21 U.S.C. 355.
+(3) The bulk drug substance is a pharmaceutical grade
+product for human use.
+(4) The bulk drug substance is accompanied by a valid
+certificate of analysis that includes any information that the
+board requires through the adoption of rules under IC 4-22-2.
+(5) Either of the following requirements for documentation of
+quality control testing before use of the bulk drug substance
+in a compounded drug:
+(A) A person engaged in compounding conducts and
+documents, or obtains documentation of, quality control
+testing of any bulk drug substance not used under 21
+U.S.C. 353a(b)(1)(A)(i)(I) that includes the following:
+(i) Confirming the identity of the bulk drug substance.
+(ii) Reporting, identifying, characterizing, and
+quantifying each impurity present in the bulk drug
+substance in an amount exceeding one-tenth percent
+(0.1%).
+(iii) Meeting any requirements of the board set forth
+through the adoption of rules under IC 4-22-2.
+(B) The certificate of analysis contains the information set
+forth in clause (A)(i) through (A)(iii).
+(6) The bulk drug substance is accompanied with written
+verification that the bulk drug substance was manufactured
+at a bulk drug substance manufacturing establishment that:
+(A) is registered as a human drug establishment with the
+federal Food and Drug Administration under 21 U.S.C.
+360;
+(B) has been inspected by the federal Food and Drug
+SB 282—LS 7068/DI 104
+
+11
+Administration as a human drug establishment;
+(C) is not currently subject to an federal Food and Drug
+Administration Import Alert; and
+(D) is not currently subject to:
+(i) an unresolved federal Food and Drug Administration
+Warning Letter; or
+(ii) federal Food and Drug Administration inspection
+that is classified as Official Action Indicated.
+The verification under this subdivision must include the
+country in which the bulk drug substance manufacturing
+establishment is located.
+(7) The compounding complies with the federal Food, Drug,
+and Cosmetic Act an all other applicable requirements under
+Indiana law.
+(b) Any person engaging in the sale, transfer, or distribution of
+compounded drugs shall do the following:
+(1) Maintain all records related to the acquisition,
+examination, and testing of the bulk drug substance for at
+least two (2) years after the expiration date of the last lot of
+drug containing the bulk drug substance.
+(2) Furnish, upon request by the board, the records described
+in subdivision (1) not later than one (1) business day after
+receipt of the request unless a reasonable alternative time
+frame is indicated by the board based on the circumstances of
+the request.
+(c) Upon the request of the Indiana board of pharmacy during
+an inspection or as part of the review of a license application for
+records described in subsection (b), a person that engages in
+compounding shall provide the records to the board not later than
+either:
+(1) one (1) business day after receipt of the request; or
+(2) within a reasonable time, as determined by the Indiana
+board of pharmacy given the circumstances of the request.
+(d) A wholesale drug distributor distributing bulk drug
+substances in Indiana for use in compounding shall provide to the
+purchaser of a bulk drug substance with the following:
+(1) The valid certificate of analysis described in subsection
+(a)(4).
+(2) The documentation of quality control testing described in
+subsection (a)(5), if the testing is not conducted by the
+purchaser of the bulk drug substance.
+(3) The written verification set forth in subsection (a)(6).
+SB 282—LS 7068/DI 104
+
+12
+Sec. 7. (a) The state department, in consultation with the
+Indiana board of pharmacy, the medical licensing board of
+Indiana, the Indiana state board of nursing, and the office of the
+attorney general shall develop and publish a report not later than
+November 15 of each year concerning the oversight of drug
+compounding during the preceding fiscal year.
+(b) The report must include the following:
+(1) A general assessment of the public health impact drug
+compounding, including the benefits and risks presented by
+compounding.
+(2) The following data and information from the preceding
+fiscal year:
+(A) The number and type of professional licenses issued, by
+license type, under which the license holder may engage in
+drug compounding, and whether any of the licenses issued
+include sterile compounding.
+(B) The number of licensed facilities and practices that
+have been inspected in the previous year and the previous
+three (3) years, categorized by license type.
+(C) The number of inspections conducted on a licensed
+facility or practice that:
+(i) conducts drug compounding; or
+(ii) handles, stores, administers, dispenses, distributes, or
+uses compounded drugs in a retail or outpatient setting,
+including a 503A pharmacy (as described in 21 U.S.C.
+353a), a 503B outsourcing facility (as described in 21
+U.S.C. 353b), and a medical spa under IC 25-22.5-12.5.
+(D) The nature and severity of any deficiency or violation
+found by the regulating board in an investigation of a
+person or facility specified in this subsection.
+(E) The number of investigations conducted concerning
+drug compounding.
+(F) The number and type of disciplinary actions taken by
+each board that related to drug compounding.
+(G) The number and type of disciplinary actions taken by
+each board or state agency concerning the improper
+marketing, advertising, or promotion of compounding
+drugs or related services.
+(H) An assessment of the staffing and resources of each
+regulating board concerning compounding drugs.
+(c) The report required by this section must be posted on the
+state department's website and the Indiana board of pharmacy's
+SB 282—LS 7068/DI 104
+
+13
+website. The state department shall submit the report to the
+legislative council in an electronic format under IC 5-14-6.
+(d) This section expires December 31, 2030.".
+Delete pages 3 through 4.
+Page 5, delete lines 1 through 30.
+Page 5, line 31, delete "IC 25-26-13.7" and insert "IC 25-22.5-12.5".
+Page 5, line 34, delete "13.7." and insert "12.5.".
+Page 6, line 4, delete "service," and insert "services and
+treatments,".
+Page 6, line 8, delete ";" and insert "and dermal fillers;
+(iii) hair loss;".
+Page 6, line 9, delete "(iii)" and insert "(iv)".
+Page 6, line 10, delete "(iv)" and insert "(v)".
+Page 6, line 13, after "2." insert "As used in this chapter,
+"practitioner" means any of the following:
+(1) A physician licensed under IC 25-22.5.
+(2) An advanced practice registered nurse who meets the
+requirements of IC 25-23-1-19.5.
+(3) A physician assistant licensed under IC 25-27.5 who is
+delegated prescriptive authority under IC 25-27.5-5-6.
+Sec. 3.".
+Page 6, delete lines 22 through 24, begin a new line block indented
+and insert:
+"(3) The medical health care services intended to be provided
+at the medical spa.
+(4) The prescription drugs that are intended to be prepared,
+administered, dispensed, or otherwise used at the medical spa,
+including whether the prescription drug is compounded.
+(5) The name and license number of the medical spa's licensed
+responsible practitioner described in section 5 of this chapter.
+(6) The name and license number of the individuals and
+practitioners operating in the medical spa.".
+Page 6, line 26, after "spa" insert "in an amount not to exceed five
+thousand dollars ($5,000)".
+Page 6, line 28, delete "3." and insert "4.".
+Page 6, line 30, delete "2(b)" and insert "3(b)".
+Page 6, delete lines 37 through 42, begin a new paragraph and
+insert:
+"Sec. 5. (a) A medical spa registered under this chapter must
+designate a responsible practitioner who meets the following:
+(1) Has prescriptive authority.
+(2) Has education and training in the health care services and
+SB 282—LS 7068/DI 104
+
+14
+treatments being performed and medications being dispensed
+or administered in the medical spa.
+(b) A responsible practitioner shall be physically present at the
+medical spa location for a sufficient amount of time to comply with
+the responsibility of ensuring that the medical spa complies with
+the requirements of this chapter. The board may require a medical
+spa to receive the board's approval before a medical spa may
+designate a responsible practitioner to be responsible for more
+than one (1) location.
+(c) A responsible practitioner shall ensure that each individual
+working at the medical spa meets the following:
+(1) Is licensed to perform the health care services and
+treatments the individual is to perform and that the health
+care services and treatments are within the individual's scope
+of practice.
+(2) Is properly trained in the performance of the health care
+services and treatments being provided by the individual.".
+Page 7, delete lines 1 through 3.
+Page 7, line 4, delete "5." and insert "6.".
+Page 7, line 6, after "medication" insert "or treatment provided".
+Page 7, line 21, after "medication" insert "treatment".
+Page 7, line 26, delete "6." and insert "7.".
+Page 7, line 34, delete "7." and insert "8.".
+Page 7, line 37, delete "if" and insert "pursuant to the
+requirements set forth in IC 25-1-9-10.".
+Page 7, delete line 38.
+Page 7, line 39, delete "8." and insert "9. A medical spa may not
+provide health care services and cosmetic and lifestyle treatments
+to a consumer at a location other than the medical spa office, a
+physician's office, or other licensed health care facility.
+Sec. 10.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 282 as introduced.)
+CHARBONNEAU, Chairperson
+Committee Vote: Yeas 11, Nays 0.
+SB 282—LS 7068/DI 104
+
+[DELETED:  a m R p s t o t c d t m s r t I d o h t p a r a p d b c r m s]
+[DELETED:  A A N S T R A F o I 1 h t m s f i I A A N S T R A F J 1 2 S 4 " d s A A N S T R A F J 1 2 S 6 " f o I 1 h t m s f i A A N S T R A F]
+[DELETED:  J 1 2 S 3 " d 2 D R o C B D 3 ( A u i t c " d s e m a f t o t b d s t c p]
+[DELETED:  T b d s u m b u i A b d s u u 2 U T b d s i a p g T b d s i a b a v A p e i c c a o a b d s n u u 2 R i c a e i p i t b d i a a e o p h b i b t f F a D]
+[DELETED:  v u t s m i t M a r r t t a d i s ( a p t e i A w d d d b d ( i t t i n c b t 7 ( T s d i c w t b o p t m l b o 1 o e y c t o o d]
+[DELETED:  b o s a c t i a o p o c T s d s s t r t t 6 I 2 I A T T I A A N C T R A F]
+[DELETED:  T b s e a r p f]
+[DELETED:  T n a l n o t i a I l t p t h c s a( n m o a w t u o  o a r m j j t a]
+[DELETED:  I h o p o a e P o s i o s A m s s n t b i t m T n o t p t p m 8 ( T b m t d a u]
+[DELETED:  P T S C o H a P w t r t s A a A A N S T R A F J 1 2 S 3 " d 3 ( A u i t c " d s e m a f t o t b d s t c p]
+[DELETED:  T b d s u m b u i A b d s u u 2 U T b d s i a p g T b d s i a b a v A p e i c c a o a b d s n u u 2 R i c a e i p i t b d i a a e o p h b i b t f F a D]
+[DELETED:  v u t s m i t M a r r t t a d i s ( a p t e i A w d d d b d ( i t t i n c b t]
+[DELETED:  7 ( T s d i c w t b o p t m l b o 1 o e y c t o o d b o s a c t i a o p o c]
+[DELETED:  T s d s s t r t t 6 l 4 d " a i " a 6 l 1 a " i " u i t c T n a l n o t i a]
+[DELETED:  I l t p t h c s a( 7 l 3 d " a i " t t]
