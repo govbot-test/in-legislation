@@ -1,0 +1,703 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1333
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 5-1.2-12-4; IC 6-2.5-15-0.2; IC 8-1-8.2;
+IC 34-13-3-3; IC 36-7-4.
+Synopsis: Land use and development. Requires a development that is
+sited on land: (1) in an area zoned agricultural; and (2) comprised of
+certain capability classes of soils; to be a permitted use. Extends
+governmental immunity to a private entity or nonprofit entity that has
+executed certain agreements under the Indiana brownfields program.
+Provides that the Indiana economic development corporation may not
+issue a specific transaction award certificate to exempt purchases made
+by certain data centers from sales and use tax exemption after June 30,
+2026. For purposes of the statute concerning energy production zones:
+(1) redesignates the term "electric generation facility" as "electric
+generation or storage facility"; and (2) provides that the term includes
+a utility scale battery energy storage system (BESS). Defines, for
+purposes of the statute, an "onsite energy offtake development" (OEO
+development) as a commercial or industrial development: (1) that will
+be located on a premise of land in an energy production zone on which
+an electric generation or storage facility that is not subject to the
+jurisdiction of the Indiana utility regulatory commission will be
+located; (2) that will be equipped with or use water saving
+technologies; and (3) with respect to which the development owner has
+committed through an offtake agreement to purchase a specified
+amount of energy or capacity from the energy generation or storage
+facility; under the terms of an economic development agreement with
+a unit. Provides that if a planned electric generation or storage facility
+will include a BESS, the project owner must include in the required
+statutory notice to the local planning authority: (1) the emergency
+response plan required under the statute governing the approval of a
+(Continued next page)
+Effective: July 1, 2026.
+Culp
+January 6, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+2026 IN 1333—LS 7025/DI 87
+
+Digest Continued
+BESS by the department of homeland security (department); and (2)
+documentation of the department's approval of the BESS. Provides that
+a development owner is not required to obtain a permit, or any other
+land use or zoning approval, from a local authority for the construction
+of an OEO development if the development owner: (1) provides notice
+containing specified information about the OEO development to the
+local authority before commencing construction; and (2) holds a public
+hearing in the unit in which the OEO development will be located; in
+the same manner provided under current law for planned electric
+generation or storage facilities. Makes conforming changes. Allows a
+plan commission, board of zoning appeals, or county or municipal
+legislative body (body) to require a person to provide their name and
+address in writing in order to speak at a public hearing regarding
+certain matters. Allows the body's presiding officer to give
+consideration to whether a person is a county resident or has an interest
+as an owner, lessor, lessee, or life tenant in real property within the
+county in deciding: (1) the order of speakers; and (2) the amount of
+time allotted to speakers; at a hearing.
+22002266 IINN 11333333——LLSS 77002255//DDII 8877
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1333
+A BILL FOR AN ACT to amend the Indiana Code concerning local
+government.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-1.2-12-4, AS AMENDED BY P.L.166-2021,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 4. (a) The authority shall do the following under
+4 this chapter:
+5 (1) Be responsible for the management of all aspects of the
+6 Indiana brownfields program.
+7 (2) Prepare and provide program information.
+8 (3) Negotiate the negotiable aspects of each financial assistance
+9 agreement.
+10 (4) Sign each financial assistance agreement.
+11 (5) Review each proposed project and financial assistance
+12 agreement to determine if the project meets the credit, economic,
+13 or fiscal criteria established by guidelines of the authority.
+14 (6) Periodically inspect or cause to be inspected projects to
+15 determine compliance with this chapter.
+2026 IN 1333—LS 7025/DI 87
+
+2
+1 (7) Conduct or cause to be conducted an evaluation concerning
+2 the financial ability of a private individual or entity, nonprofit
+3 entity, or political subdivision to:
+4 (A) pay a loan or other financial assistance and other
+5 obligations evidencing loans or other financial assistance, if
+6 required to be paid; and
+7 (B) otherwise comply with terms of the financial assistance
+8 agreement.
+9 (8) Evaluate or cause to be evaluated the technical aspects of the
+10 private individual or entity, nonprofit entity, or political
+11 subdivision's:
+12 (A) environmental assessment of potential brownfield
+13 properties;
+14 (B) proposed remediation; and
+15 (C) remediation activities conducted on brownfield properties.
+16 (9) Inspect or cause to be inspected remediation activities
+17 conducted under this chapter.
+18 (10) Act as a liaison to the United States Environmental
+19 Protection Agency regarding the Indiana brownfields program.
+20 (11) Be a point of contact for private entities, nonprofit entities,
+21 and political subdivisions concerning questions about the Indiana
+22 brownfields program.
+23 (12) Enter into memoranda of understanding, as necessary, with
+24 the department of environmental management and the budget
+25 agency concerning the administration and management of the
+26 Indiana brownfields fund and the Indiana brownfields program.
+27 (b) The authority may do the following under this chapter:
+28 (1) Undertake activities to make private environmental insurance
+29 products available to encourage and facilitate the cleanup and
+30 redevelopment of brownfield properties.
+31 (2) Enter into agreements with private entities, nonprofit entities,
+32 and political subdivisions to manage any of the following
+33 conducted on brownfield properties:
+34 (A) Environmental assessment activities.
+35 (B) Environmental remediation activities.
+36 (C) Demolition and clearance activities.
+37 (c) The authority may:
+38 (1) negotiate with;
+39 (2) select; and
+40 (3) contract with;
+41 one (1) or more insurers to provide insurance products as described in
+42 subsection (b)(1).
+2026 IN 1333—LS 7025/DI 87
+
+3
+1 (d) The authority may:
+2 (1) negotiate with;
+3 (2) select; and
+4 (3) contract with;
+5 one (1) or more environmental consultants to undertake the activities
+6 described in subsection (b)(2) for the benefit of private entities,
+7 nonprofit entities, and political subdivisions.
+8 (e) Notwithstanding IC 13-23, IC 13-24-1, and IC 13-25-4, the
+9 authority is not liable for any contamination addressed by the authority
+10 under an agreement under subsection (b)(2) unless existing
+11 contamination on the brownfield is exacerbated due to gross negligence
+12 or intentional misconduct by the authority.
+13 (f) For purposes of subsection (e), reckless, willful, or wanton
+14 misconduct constitutes gross negligence.
+15 (g) The authority is and a private entity or nonprofit entity that
+16 have executed an agreement under subsection (b)(2) are entitled to
+17 the same governmental immunity afforded a political subdivision under
+18 IC 34-13-3-3(a)(22) for any act taken to investigate or remediate
+19 hazardous substances, petroleum, or other pollutants associated with a
+20 brownfield under an the agreement under subsection (b)(2).
+21 (h) This chapter does not require the authority to provide a loan or
+22 other financial assistance to any private individual or entity, nonprofit
+23 entity, or political subdivision to the extent the authority determines
+24 that providing the loan or other financial assistance is not in the best
+25 interests of the Indiana brownfields program and the authority.
+26 SECTION 2. IC 6-2.5-15-0.2 IS ADDED TO THE INDIANA
+27 CODE AS A NEW SECTION TO READ AS FOLLOWS
+28 [EFFECTIVE JULY 1, 2026]: Sec. 0.2. (a) Notwithstanding any
+29 other provision in this chapter, the corporation may not issue a
+30 new specific transaction award certificate under this chapter after
+31 June 30, 2026.
+32 (b) Subsection (a) may not be construed to affect the terms of a
+33 specific transaction award certificate issued under this chapter
+34 before July 1, 2026.
+35 SECTION 3. IC 8-1-8.2-0.5 IS ADDED TO THE INDIANA CODE
+36 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+37 1, 2026]: Sec. 0.5. As used in this chapter, "development owner"
+38 means a person that proposes to construct an onsite energy offtake
+39 development.
+40 SECTION 4. IC 8-1-8.2-1, AS ADDED BY P.L.202-2025,
+41 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]: Sec. 1. (a) As used in this chapter, "electric generation
+2026 IN 1333—LS 7025/DI 87
+
+4
+1 or storage facility" means:
+2 (1) a facility; or
+3 (2) infrastructure associated with a facility;
+4 for the generation or storage of electricity.
+5 (b) The term includes a utility scale battery energy storage
+6 system that is:
+7 (1) co-located on the same premises as a facility for the
+8 generation of electricity; or
+9 (2) installed as a standalone system with an independent
+10 connection to the electrical grid.
+11 (b) (c) The term does not include the following:
+12 (1) A wind power device (as defined in IC 8-1-41-7).
+13 (2) A commercial solar energy system (as defined in IC 8-1-42-2).
+14 SECTION 5. IC 8-1-8.2-3.5 IS ADDED TO THE INDIANA CODE
+15 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+16 1, 2026]: Sec. 3.5. As used in this chapter, "onsite energy offtake
+17 development", or "OEO development", means a commercial or
+18 industrial development:
+19 (1) that will be located on a premise of land in an energy
+20 production zone on which will be also be located an energy
+21 generation or storage facility with respect to which the
+22 commission has declined jurisdiction under IC 8-1-8.5-5;
+23 (2) that will be equipped with, or make use of, water saving
+24 technologies that will significantly reduce the development's
+25 water consumption; and
+26 (3) with respect to which the development owner has
+27 committed through:
+28 (A) an offtake agreement;
+29 (B) a power purchase agreement; or
+30 (C) a similar contractual arrangement;
+31 to purchase a specified amount of energy or capacity from the
+32 energy generation or storage facility;
+33 under the terms of an economic development agreement executed
+34 with a unit.
+35 SECTION 6. IC 8-1-8.2-5, AS ADDED BY P.L.202-2025,
+36 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 5. As used in this chapter, "premise of land"
+38 means property comprising a tract of land on which a project owner
+39 proposes to construct an electric generation or storage facility,
+40 including land within the perimeter of the tract of land that was not
+41 owned by the project owner as of January 1, 2025.
+42 SECTION 7. IC 8-1-8.2-6, AS ADDED BY P.L.202-2025,
+2026 IN 1333—LS 7025/DI 87
+
+5
+1 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 6. As used in this chapter, "project owner" means
+3 a person that proposes to construct an electric generation or storage
+4 facility.
+5 SECTION 8. IC 8-1-8.2-8.2 IS ADDED TO THE INDIANA CODE
+6 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2026]: Sec. 8.2. As used in this chapter, "utility scale battery
+8 energy storage system" has the meaning set forth in IC 22-14-8-3.
+9 SECTION 9. IC 8-1-8.2-10, AS ADDED BY P.L.202-2025,
+10 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]: Sec. 10. (a) A project owner is not required to obtain
+12 a permit, or any other land use or zoning approval, from a local
+13 authority for the construction of an electric generation or storage
+14 facility if:
+15 (1) the commission:
+16 (A) grants the project owner a certificate under IC 8-1-8.5-2
+17 for the construction; or
+18 (B) declines jurisdiction over the construction under
+19 IC 8-1-2.5-5;
+20 (2) the electric generating or storage facility will be located on
+21 a premise of land that is an energy production zone; and
+22 (3) the project owner complies with subsections (b) and (c).
+23 (b) Not later than two hundred seventy (270) days before beginning
+24 construction to which subsection (a) applies, a project owner shall
+25 provide notice of the construction to the local authority with planning
+26 authority under IC 36-7 for the premise of land on which the
+27 construction will occur. The notice must include the following
+28 information with regard to the construction and the electric generation
+29 or storage facility to be constructed:
+30 (1) A comprehensive description of the electric generation or
+31 storage facility, including the following:
+32 (A) The planned generation or storage capacity of the electric
+33 generation or storage facility, expressed in megawatts.
+34 (B) The energy source or technology that will be used by the
+35 electric generation or storage facility to generate or store
+36 electricity.
+37 (C) The expected operational lifespan of the electric
+38 generation or storage facility.
+39 (2) The expected date on which the construction will begin.
+40 (3) The expected date on which the electric generation or storage
+41 facility will begin operation.
+42 (4) Whether the electric generation or storage facility will be
+2026 IN 1333—LS 7025/DI 87
+
+6
+1 used to provide retail electric service, wholesale electric service,
+2 or both.
+3 (5) The project owner's plan for eventual decommissioning of the
+4 planned electric generation or storage facility.
+5 (6) If construction of the electric generation or storage facility
+6 will entail decommissioning an existing electric generation
+7 facility that is located on the premise of land on which the electric
+8 generation or storage facility will be located, the project owner's
+9 plan for decommissioning the existing electric generation facility,
+10 including financial assurances for the decommissioning.
+11 (7) A detailed site plan that includes the location of the following
+12 within or adjacent to the premise of land on which the electric
+13 generation or storage facility will be constructed:
+14 (A) The structures associated with the electric generation or
+15 storage facility.
+16 (B) The:
+17 (i) existing electric generation facility, and any structures
+18 associated with the existing electric generation facility; or
+19 (ii) surface or underground mine, and any structures
+20 associated with the surface or underground mine;
+21 located on the premise of land on which the electric generation
+22 or storage facility will be located.
+23 (C) Existing and proposed access roads.
+24 (D) Regulated drains or ditches.
+25 (E) Flood plains.
+26 (F) Wetlands.
+27 (G) Historic sites or other areas of cultural or environmental
+28 significance.
+29 (H) An OEO development, if applicable.
+30 (8) An economic development plan detailing the expected
+31 economic effect of the electric generation or storage facility on
+32 the unit within which the electric generation or storage facility
+33 will be located, including the following:
+34 (A) The anticipated number and types of jobs to be created:
+35 (i) during the construction of the electric generation or
+36 storage facility; and
+37 (ii) in the operation of the electric generation or storage
+38 facility.
+39 (B) The estimated property tax revenue the electric generation
+40 or storage facility will produce for the unit.
+41 (C) An estimate of the overall:
+42 (i) cost to the unit; and
+2026 IN 1333—LS 7025/DI 87
+
+7
+1 (ii) effect on the unit's revenue;
+2 associated with the electric generation or storage facility.
+3 (9) A safety, security, and emergency response plan describing
+4 measures to ensure:
+5 (A) site security and safety;
+6 (B) coordination with the unit's services; and
+7 (C) safeguarding of the public;
+8 with regard to the construction and operation of the electric
+9 generation or storage facility. If the electric generation or
+10 storage facility will include a utility scale battery energy
+11 storage system, the response plan provided under this
+12 subdivision must include the emergency response plan
+13 required by IC 22-14-8-4(b)(4).
+14 (10) If the electric generation or storage facility will include
+15 a utility scale battery energy storage system, documentation
+16 that the project owner has received approval for the
+17 installation of the utility scale battery energy storage system
+18 from the department of homeland security under
+19 IC 22-14-8-4(d).
+20 (c) Not later than sixty (60) days after a project owner's provision of
+21 the notice under subsection (b), the project owner shall hold a public
+22 hearing in the unit in which the electric generation or storage facility
+23 will be located, during which the project owner shall:
+24 (1) provide information to the public; and
+25 (2) receive public comment;
+26 regarding the electric generation or storage facility and the
+27 construction of the electric generation or storage facility. If an OEO
+28 development will be located on the same premise of land as the
+29 electric generation or storage facility, the project owner and the
+30 development owner may conduct the hearing required by this
+31 subsection as a joint public hearing at which information
+32 concerning both the electric generation or storage facility and the
+33 OEO development is provided to the public, with opportunity for
+34 the public to comment on each proposal. The project owner shall
+35 publish notice of the date, time, location, and subject of the public
+36 hearing in accordance with IC 5-3-1-2(b).
+37 (d) After providing notice to a local authority under subsection (b),
+38 a project owner shall notify the local authority regarding any
+39 substantive changes in the information provided by the project owner
+40 under subsection (b) that occur before construction begins on the
+41 electric generation or storage facility to which the notice pertains.
+42 SECTION 10. IC 8-1-8.2-10.5 IS ADDED TO THE INDIANA
+2026 IN 1333—LS 7025/DI 87
+
+8
+1 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2 [EFFECTIVE JULY 1, 2026]: Sec. 10.5. (a) A development owner is
+3 not required to obtain a permit, or any other land use or zoning
+4 approval, from a local authority for the construction of an OEO
+5 development if the development owner complies with subsections
+6 (b) and (c).
+7 (b) Not later than two hundred seventy (270) days before
+8 beginning construction of the OEO development, the development
+9 owner shall provide notice of the construction to the local authority
+10 with planning authority under IC 36-7 for the premise of land on
+11 which the construction will occur. The notice must include the
+12 following information with regard to the construction and the OEO
+13 development to be constructed:
+14 (1) A comprehensive description of the OEO development,
+15 including the following:
+16 (A) A description of the water saving technologies
+17 described in section 3.5(2) of this chapter that the OEO
+18 development will be equipped with, or make use of,
+19 including an estimate of the amount of water that will be
+20 saved as a result of the technology.
+21 (B) The anticipated electricity demand of the OEO
+22 development upon its full commercial operation, including
+23 the amount of that demand that will be supplied by:
+24 (i) the electric generation or storage facility that will be
+25 located on the same premise of land, in accordance with
+26 the agreement or arrangement described in section 3.5(3)
+27 of this chapter; and
+28 (ii) the incumbent electricity supplier whose assigned
+29 service area under IC 8-1-2.3 includes the premise of
+30 land on which the OEO development will be located, as
+31 applicable.
+32 If any amount of the OEO development's anticipated
+33 electricity demand will be supplied by the incumbent
+34 electricity supplier described in item (ii), the development
+35 owner shall indicate whether the development owner has
+36 entered into a service contract with the electricity supplier
+37 or otherwise received confirmation from the electricity
+38 supplier that the electricity supplier will be able to supply
+39 the amount of the OEO development's anticipated
+40 electricity demand set forth in item (ii).
+41 (2) The expected date on which the construction of the OEO
+42 development will begin.
+2026 IN 1333—LS 7025/DI 87
+
+9
+1 (3) The expected date on which the OEO development will
+2 begin commercial operation.
+3 (4) A summary of the economic development agreement
+4 described in section 3.5 of this chapter, including information
+5 as to the expected economic effect of the OEO development on
+6 the unit within which the OEO development will be located,
+7 including the following, as applicable:
+8 (A) The anticipated number and types of jobs to be
+9 created:
+10 (i) during the construction of the OEO development; and
+11 (ii) in the operation of the OEO development.
+12 (B) The estimated property tax revenue the OEO
+13 development will produce for the unit.
+14 (C) An estimate of the overall:
+15 (i) cost to the unit; and
+16 (ii) effect on the unit's revenue;
+17 associated with the OEO development.
+18 (c) Not later than sixty (60) days after a development owner's
+19 provision of the notice under subsection (b), the development
+20 owner shall hold a public hearing in the unit in which the OEO
+21 development will be located, during which the project owner shall:
+22 (1) provide information to the public; and
+23 (2) receive public comment;
+24 regarding the OEO development and the construction of the OEO
+25 development. The development owner and the project owner for
+26 the electric generation or storage facility that will supply all or
+27 part of the OEO development's anticipated electricity demand may
+28 conduct the hearing required by this subsection as a joint public
+29 hearing at which information concerning both the OEO
+30 development and the electric generation or storage facility is
+31 provided to the public, with opportunity for the public to comment
+32 on both proposals. The development owner, or the project owner
+33 in the case of a joint public hearing, shall publish notice of the date,
+34 time, location, and subject of the public hearing in accordance with
+35 IC 5-3-1-2(b).
+36 (d) After providing notice to a local authority under subsection
+37 (b), a development owner shall notify the local authority regarding
+38 any substantive changes in the information provided by the
+39 development owner under subsection (b) that occur before
+40 construction begins on the OEO development to which the notice
+41 pertains.
+42 SECTION 11. IC 8-1-8.2-11, AS ADDED BY P.L.202-2025,
+2026 IN 1333—LS 7025/DI 87
+
+10
+1 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 11. This chapter may not be construed to increase
+3 or modify the authority of a local authority or a unit to regulate the
+4 siting, construction, or deployment of an electric generation or storage
+5 facility that is not located in an energy production zone.
+6 SECTION 12. IC 34-13-3-3, AS AMENDED BY P.L.186-2025,
+7 SECTION 182, IS AMENDED TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) A governmental entity or an
+9 employee acting within the scope of the employee's employment is not
+10 liable if a loss results from the following:
+11 (1) The natural condition of unimproved property.
+12 (2) The condition of a reservoir, dam, canal, conduit, drain, or
+13 similar structure when used by a person for a purpose that is not
+14 foreseeable.
+15 (3) The temporary condition of a public thoroughfare or extreme
+16 sport area that results from weather.
+17 (4) The condition of an unpaved road, trail, or footpath, the
+18 purpose of which is to provide access to a recreation or scenic
+19 area.
+20 (5) The design, construction, control, operation, or normal
+21 condition of an extreme sport area, if all entrances to the extreme
+22 sport area are marked with:
+23 (A) a set of rules governing the use of the extreme sport area;
+24 (B) a warning concerning the hazards and dangers associated
+25 with the use of the extreme sport area; and
+26 (C) a statement that the extreme sport area may be used only
+27 by persons operating extreme sport equipment.
+28 This subdivision shall not be construed to relieve a governmental
+29 entity from liability for the continuing duty to maintain extreme
+30 sports areas in a reasonably safe condition.
+31 (6) The initiation of a judicial or an administrative proceeding.
+32 (7) The performance of a discretionary function; however, the
+33 provision of medical or optical care as provided in IC 34-6-2.1-54
+34 shall be considered as a ministerial act.
+35 (8) The adoption and enforcement of or failure to adopt or
+36 enforce:
+37 (A) a law (including rules and regulations); or
+38 (B) in the case of a public school or charter school, a policy;
+39 unless the act of enforcement constitutes false arrest or false
+40 imprisonment.
+41 (9) An act or omission performed in good faith and without
+42 malice under the apparent authority of a statute which is invalid
+2026 IN 1333—LS 7025/DI 87
+
+11
+1 if the employee would not have been liable had the statute been
+2 valid.
+3 (10) The act or omission of anyone other than the governmental
+4 entity or the governmental entity's employee.
+5 (11) The issuance, denial, suspension, or revocation of, or failure
+6 or refusal to issue, deny, suspend, or revoke any permit, license,
+7 certificate, approval, order, or similar authorization, where the
+8 authority is discretionary under the law.
+9 (12) Failure to make an inspection, or making an inadequate or
+10 negligent inspection, of any property, other than the property of
+11 a governmental entity, to determine whether the property
+12 complied with or violates any law or contains a hazard to health
+13 or safety.
+14 (13) Entry upon any property where the entry is expressly or
+15 impliedly authorized by law.
+16 (14) Misrepresentation if unintentional.
+17 (15) Theft by another person of money in the employee's official
+18 custody, unless the loss was sustained because of the employee's
+19 own negligent or wrongful act or omission.
+20 (16) Injury to the property of a person under the jurisdiction and
+21 control of the department of correction if the person has not
+22 exhausted the administrative remedies and procedures provided
+23 by section 7 of this chapter.
+24 (17) Injury to the person or property of a person under supervision
+25 of a governmental entity and who is:
+26 (A) on probation;
+27 (B) assigned to an alcohol and drug services program under
+28 IC 12-23, a minimum security release program under
+29 IC 11-10-8, a pretrial conditional release program under
+30 IC 35-33-8, or a community corrections program under
+31 IC 11-12; or
+32 (C) subject to a court order requiring the person to be escorted
+33 by a county police officer while on or in a government
+34 building (as defined in IC 36-9-13-3) owned by a county
+35 building authority under IC 36-9-13, unless the injury is the
+36 result of an act or omission amounting to:
+37 (i) gross negligence;
+38 (ii) willful or wanton misconduct; or
+39 (iii) intentional misconduct.
+40 (18) Design of a highway (as defined in IC 9-13-2-73), toll road
+41 project (as defined in IC 8-15-2-4(4)), tollway (as defined in
+42 IC 8-15-3-7), or project (as defined in IC 8-15.7-2-14) if the
+2026 IN 1333—LS 7025/DI 87
+
+12
+1 claimed loss occurs at least twenty (20) years after the public
+2 highway, toll road project, tollway, or project was designed or
+3 substantially redesigned; except that this subdivision shall not be
+4 construed to relieve a responsible governmental entity from the
+5 continuing duty to provide and maintain public highways in a
+6 reasonably safe condition.
+7 (19) Development, adoption, implementation, operation,
+8 maintenance, or use of an enhanced emergency communication
+9 system.
+10 (20) Injury to a student or a student's property by an employee of
+11 a school corporation if the employee is acting reasonably under a:
+12 (A) discipline policy adopted under IC 20-33-8-12; or
+13 (B) restraint and seclusion plan adopted under IC 20-20-40-14.
+14 (21) An act or omission performed in good faith under the
+15 apparent authority of a court order described in IC 35-46-1-15.1
+16 or IC 35-46-1-15.3 that is invalid, including an arrest or
+17 imprisonment related to the enforcement of the court order, if the
+18 governmental entity or employee would not have been liable had
+19 the court order been valid.
+20 (22) An act taken to investigate or remediate hazardous
+21 substances, petroleum, or other pollutants associated with a
+22 brownfield (as defined in IC 13-11-2-19.3) unless:
+23 (A) the loss is a result of reckless conduct; or
+24 (B) the governmental entity or the private or nonprofit
+25 entity described in IC 5-1.2-12-4(g) was responsible for the
+26 initial placement of the hazardous substances, petroleum, or
+27 other pollutants on the brownfield.
+28 (23) The operation of an off-road vehicle (as defined in
+29 IC 14-8-2-185) by a nongovernmental employee, or by a
+30 governmental employee not acting within the scope of the
+31 employment of the employee, on a public highway in a county
+32 road system outside the corporate limits of a city or town, unless
+33 the loss is the result of an act or omission amounting to:
+34 (A) gross negligence;
+35 (B) willful or wanton misconduct; or
+36 (C) intentional misconduct.
+37 This subdivision shall not be construed to relieve a governmental
+38 entity from liability for the continuing duty to maintain highways
+39 in a reasonably safe condition for the operation of motor vehicles
+40 licensed by the bureau of motor vehicles for operation on public
+41 highways.
+42 (24) Any act or omission rendered in connection with a request,
+2026 IN 1333—LS 7025/DI 87
+
+13
+1 investigation, assessment, or opinion provided under
+2 IC 36-9-28.7.
+3 (b) This subsection applies to a cause of action that accrues during
+4 a period of a state disaster emergency declared under IC 10-14-3-12 to
+5 respond to COVID-19, if the state of disaster emergency was declared
+6 after February 29, 2020, and before April 1, 2022. A governmental
+7 entity or an employee acting within the scope of the employee's
+8 employment is not liable for an act or omission arising from COVID-19
+9 unless the act or omission constitutes gross negligence, willful or
+10 wanton misconduct, or intentional misrepresentation. If a claim
+11 described in this subsection is:
+12 (1) a claim for injury or death resulting from medical malpractice;
+13 and
+14 (2) not barred by the immunity provided under this subsection;
+15 the claimant is required to comply with all of the provisions of
+16 IC 34-18 (medical malpractice act).
+17 SECTION 13. IC 36-7-4-201.5 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2026]: Sec. 201.5. (a) As used in this section,
+20 "permitted use" means a use that is approved in a zoning district
+21 without requiring a:
+22 (1) public hearing;
+23 (2) variance, special exception, contingent use, or conditional
+24 use; or
+25 (3) discretionary zoning action, other than a determination
+26 that a site plan conforms with applicable zoning regulations.
+27 (b) Notwithstanding any ordinance or regulation to the
+28 contrary, a project or development is a permitted use if the project
+29 or development is sited on land:
+30 (1) zoned for agricultural use; and
+31 (2) comprised of soil in capability classes IV, V, VI, VII, or
+32 VIII as identified in the land capability classification system
+33 of the United States Department of Agriculture Natural
+34 Resources Conservation Service.
+35 SECTION 14. IC 36-7-4-305.5 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 305.5. (a) As used in this section,
+38 "petition" has the meaning set forth in section 400.5 of this
+39 chapter.
+40 (b) Any person wishing to speak at a plan commission hearing
+41 regarding a petition may be required, as a condition of speaking,
+42 to provide the person's name and address in writing.
+2026 IN 1333—LS 7025/DI 87
+
+14
+1 (c) The presiding officer of the plan commission may, in
+2 managing the conduct of a hearing, give consideration to whether
+3 a person:
+4 (1) is a resident of the county; or
+5 (2) has an interest as an owner, lessor, lessee, or life tenant in
+6 real property located within the county;
+7 in deciding the order in which persons may speak and the amount
+8 of time allotted to each speaker.
+9 (d) A presiding officer may allot persons who are described in
+10 subsection (c) more time to speak at the hearing than persons who
+11 are not described in subsection (c).
+12 SECTION 15. IC 36-7-4-400.5 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 400.5. (a) As used in this section,
+15 "petition" means a petition concerning any of the following:
+16 (1) A plat, including the vacation of a plat.
+17 (2) A development plan.
+18 (3) A variance, contingent use, conditional use, special
+19 exception, or special use.
+20 (4) A planned unit development.
+21 (5) A comprehensive plan.
+22 (6) A zoning ordinance.
+23 The term includes an administrative appeal of a decision regarding
+24 a petition.
+25 (b) Any person wishing to speak at a public hearing of the
+26 legislative body regarding a petition may be required, as a
+27 condition of speaking, to provide the person's name and address in
+28 writing.
+29 (c) The presiding officer of the legislative body may, in
+30 managing the conduct of a public hearing, give consideration to
+31 whether a person:
+32 (1) is a resident of the county; or
+33 (2) has an interest as an owner, lessor, lessee, or life tenant in
+34 real property located within the county;
+35 in deciding the order in which persons may speak and the amount
+36 of time allotted to each speaker.
+37 (d) A presiding officer may allot persons who are described in
+38 subsection (c) more time to speak at the public hearing than
+39 persons who are not described in subsection (c).
+40 SECTION 16. IC 36-7-4-920.5 IS ADDED TO THE INDIANA
+41 CODE AS A NEW SECTION TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 920.5. (a) As used in this section,
+2026 IN 1333—LS 7025/DI 87
+
+15
+1 "petition" has the meaning set forth in section 400.5 of this
+2 chapter.
+3 (b) Any person wishing to speak at a public hearing of the board
+4 of zoning appeals regarding a petition may be required, as a
+5 condition of speaking, to provide the person's name and address in
+6 writing.
+7 (c) The presiding officer of the board of zoning appeals may, in
+8 managing the conduct of a public hearing, give consideration to
+9 whether a person:
+10 (1) is a resident of the county; or
+11 (2) has an interest as an owner, lessor, lessee, or life tenant in
+12 real property located within the county;
+13 in deciding the order in which persons may speak and the amount
+14 of time allotted to each speaker.
+15 (d) A presiding officer may allot persons who are described in
+16 subsection (c) more time to speak at the public hearing than
+17 persons who are not described in subsection (c).
+2026 IN 1333—LS 7025/DI 87
