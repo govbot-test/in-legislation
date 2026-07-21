@@ -1,0 +1,475 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1217
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 28-16; IC 35-52-28-15.
+Synopsis: Regulation of stablecoin. Provides that: (1) a payment
+stablecoin may be issued in Indiana only by a licensed payment
+stablecoin issuer; and (2) beginning July 1, 2028, subject to specified
+exceptions, a digital asset service provider may not offer or sell a
+payment stablecoin in Indiana that is not issued by a licensed payment
+stablecoin issuer. Requires the department of financial institutions
+(department) to: (1) administer licensure of persons to act as payment
+stablecoin issuers; and (2) regulate and supervise licensed payment
+stablecoin issuers. Establishes requirements for licensure as a payment
+stablecoin issuer and a process by which an applicant for licensure may
+appeal denial of the applicant's application. Imposes reporting
+requirements for licensed payment stablecoin issuers. Specifies powers
+of the department in regulating and supervising licensed payment
+stablecoin issuers. Specifies civil and criminal penalties for violations.
+Provides for priority of claims in an insolvency action regarding a
+licensed payment stablecoin issuer.
+Effective: July 1, 2026.
+Pierce K
+January 5, 2026, read first time and referred to Committee on Financial Institutions.
+2026 IN 1217—LS 7003/DI 119
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1217
+A BILL FOR AN ACT to amend the Indiana Code concerning
+financial institutions.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 28-16 IS ADDED TO THE INDIANA CODE AS
+2 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+3 2026]:
+4 ARTICLE 16. DIGITAL ASSETS
+5 Chapter 1. Definitions
+6 Sec. 1. The definitions in:
+7 (1) this chapter; and
+8 (2) 12 U.S.C. 5901;
+9 apply throughout this article.
+10 Sec. 2. "Department" means the department of financial
+11 institutions.
+12 Sec. 3. "Hardware wallet" means:
+13 (1) a physical device that:
+14 (A) is not continuously connected to the Internet; and
+15 (B) enables an individual to secure and transfer digital
+16 assets; or
+17 (2) a physical device that enables the owner of digital assets to
+2026 IN 1217—LS 7003/DI 119
+
+2
+1 retain independent control over the digital assets.
+2 Sec. 4. "Licensed payment stablecoin issuer", or "licensee"
+3 means a person that is licensed under IC 28-16-2-4.
+4 Sec. 5. "Software wallet" means a software application that:
+5 (1) enables an individual to secure and transfer digital assets;
+6 or
+7 (2) enables the owner of digital assets to retain independent
+8 control over the digital assets.
+9 Chapter 2. Regulation of Stablecoin
+10 Sec. 1. This chapter does not apply to a licensed payment
+11 stablecoin issuer to the extent that federal law precludes or
+12 preempts the application of this chapter to a permitted payment
+13 stablecoin issuer.
+14 Sec. 2. A payment stablecoin may be issued in Indiana only by
+15 a licensed payment stablecoin issuer.
+16 Sec. 3. (a) This section does not apply to any of the following:
+17 (1) A direct transfer of a digital asset between two (2)
+18 individuals acting on the individuals' own behalf and for the
+19 individuals' own lawful purposes, without the involvement of
+20 an intermediary.
+21 (2) A transaction involving transfer of a digital asset by an
+22 individual between:
+23 (A) an account in the United States; and
+24 (B) an account outside the United States;
+25 that are held by the individual and that are administered by
+26 the same entity.
+27 (3) A transaction conducted by means of a hardware wallet or
+28 software wallet that facilitates an individual's custody of
+29 digital assets.
+30 (b) Except as provided in subsection (a), beginning July 1, 2028,
+31 a digital asset service provider may not offer or sell in Indiana a
+32 payment stablecoin that is not issued by a licensed payment
+33 stablecoin issuer.
+34 Sec. 4. (a) The department shall:
+35 (1) establish standards and processes for:
+36 (A) licensure of persons to act as permitted payment
+37 stablecoin issuers in Indiana, including examination and
+38 qualification standards and processes; and
+39 (B) regulation and supervision of licensed payment
+40 stablecoin issuers in Indiana;
+41 that prioritize the financial soundness of licensed payment
+42 stablecoin issuers; and
+2026 IN 1217—LS 7003/DI 119
+
+3
+1 (2) receive and evaluate applications submitted by applicants
+2 to the department for licensure as a permitted payment
+3 stablecoin issuer in Indiana.
+4 (b) A person that wishes to be licensed as a permitted payment
+5 stablecoin issuer in Indiana must submit an application for
+6 licensure to the department in the form and manner prescribed by
+7 the department.
+8 (c) The department shall evaluate an application for licensure
+9 submitted under subsection (b) as follows:
+10 (1) The department shall determine whether the application
+11 is substantially complete. An application is substantially
+12 complete for purposes of this subdivision if the application
+13 contains sufficient information for the department to render
+14 a decision regarding the factors set forth in subdivision (2).
+15 (2) If the department finds an application to be substantially
+16 complete under subdivision (1), the department shall evaluate
+17 the application based on the following criteria:
+18 (A) The ability of the applicant, based on the applicant's
+19 financial condition and resources, to meet the
+20 requirements set forth under 12 U.S.C. 5903.
+21 (B) Whether an officer or director of the applicant has
+22 been convicted of a felony offense involving insider
+23 trading, embezzlement, cybercrime, money laundering,
+24 financing of terrorism, or financial fraud.
+25 (C) The competence, experience, and integrity of the
+26 officers, directors, and principal shareholders of the
+27 applicant, of any subsidiaries of the applicant, and of any
+28 parent company of the applicant, including:
+29 (i) the record of the officers', directors', and principal
+30 shareholders' compliance with state and federal laws and
+31 regulations; and
+32 (ii) the ability of the officers, directors, and principal
+33 shareholders to fulfill any commitments to, and any
+34 conditions imposed by, the department in connection
+35 with licensure as a permitted payment stablecoin issuer
+36 in Indiana.
+37 (D) Whether the redemption policy of the applicant meets
+38 the standards set forth under 12 U.S.C. 5903.
+39 (E) Any other factors established under federal regulations
+40 or by the department that are necessary to ensure the
+41 applicant's financial soundness as a permitted payment
+42 stablecoin issuer.
+2026 IN 1217—LS 7003/DI 119
+
+4
+1 (d) Not later than thirty (30) days after receiving an application
+2 for licensure under subsection (b), the department shall notify the
+3 applicant as to:
+4 (1) whether the department considers the application to be
+5 substantially complete under subsection (c)(1); and
+6 (2) if the application is not substantially complete, the
+7 additional information the applicant must provide in order
+8 for the application to be considered substantially complete.
+9 (e) If the department finds an application for licensure under
+10 subsection (b) to be substantially complete, the department shall
+11 consider the application to no longer be substantially complete only
+12 if there is a material change in circumstances sufficient to require
+13 the department to treat the application as a new application.
+14 (f) Not later than one hundred twenty (120) days after receiving
+15 a substantially complete application for licensure under subsection
+16 (b), the department shall:
+17 (1) either approve or deny the application; and
+18 (2) notify the applicant of the department's approval or denial
+19 of the application.
+20 (g) The department shall deny a substantially complete
+21 application for licensure under subsection (b) only if the
+22 department finds, based on the factors under subsection (c)(2), that
+23 the operations of the applicant as a permitted payment stablecoin
+24 issuer would be financially unsound. The department shall not
+25 consider issuance of payment stablecoins on an open, public, or
+26 decentralized network to be a ground for finding that the
+27 operations of an applicant as a permitted payment stablecoin issuer
+28 would be financially unsound.
+29 (h) Not later than thirty (30) days after the date on which the
+30 department notifies an applicant of the department's denial of the
+31 applicant's application for licensure under subsection (g), the
+32 department shall provide the applicant with written notice
+33 explaining the reasons for the denial with specificity, including:
+34 (1) all findings made by the department with respect to all
+35 identified material shortcomings in the application; and
+36 (2) actionable recommendations as to how the applicant can
+37 address the identified material shortcomings.
+38 (i) Not later than thirty (30) days after an applicant receives a
+39 notice under subsection (h), the applicant may request, in writing,
+40 an opportunity to appeal the denial in an oral hearing before the
+41 department.
+42 (j) Upon the department's receipt of an applicant's timely
+2026 IN 1217—LS 7003/DI 119
+
+5
+1 request under subsection (i), the department shall provide the
+2 applicant notice of the time, which may not be later than thirty (30)
+3 days after the date on which the department receives the request,
+4 and place at which the applicant may appear, personally or
+5 through counsel, to submit written materials or provide oral
+6 testimony and oral argument in appeal of the denial.
+7 (k) Not later than sixty (60) days after the date of an applicant's
+8 hearing under subsection (j), the department shall provide the
+9 applicant with notice of the department's final determination,
+10 which must contain a statement of the basis for the department's
+11 determination, including the department's specific findings.
+12 (l) If an applicant does not make a timely request for a hearing
+13 under subsection (i), the department shall notify the applicant in
+14 writing, not later than ten (10) days after the date by which the
+15 applicant's request for a hearing must be made under subsection
+16 (i), that the denial of the applicant's application is the final
+17 determination of the department.
+18 (m) If the department fails to notify an applicant of the
+19 department's approval or denial of the applicant's substantially
+20 complete application within the time period specified in subsection
+21 (f), the application is considered approved.
+22 (n) The denial of an applicant's application under this section
+23 does not prohibit the applicant from filing a subsequent application
+24 for licensure under this section.
+25 (o) The department shall:
+26 (1) notify the governor when the department begins
+27 processing applications under this chapter; and
+28 (2) not later than January 1 of each year, report to the general
+29 assembly, in an electronic format under IC 5-14-6, regarding
+30 any application for licensure under this chapter:
+31 (A) that, as of December 31 of the immediately preceding
+32 year, has been pending for one hundred eighty (180) days
+33 or more since the date on which the application was
+34 initially submitted; and
+35 (B) for which the applicant has been informed that the
+36 application is not substantially complete;
+37 including documentation on the status of the application and
+38 why the application has not yet been approved.
+39 (p) A person licensed as a permitted payment stablecoin issuer
+40 under this chapter is not required to obtain any other license or
+41 charter to act as a permitted payment stablecoin issuer in Indiana.
+42 Sec. 5. (a) Not later than one hundred eighty (180) days after the
+2026 IN 1217—LS 7003/DI 119
+
+6
+1 date on which a licensed payment stablecoin issuer's application
+2 for licensure is approved under section 4 of this chapter, and not
+3 later than one hundred eighty (180) days after that date in each
+4 year thereafter, the licensed payment stablecoin issuer shall file
+5 with the department a certification that the licensed payment
+6 stablecoin issuer has implemented anti-money laundering and
+7 economic sanctions compliance programs that are reasonably
+8 designed to prevent the licensed payment stablecoin issuer from
+9 facilitating:
+10 (1) money laundering, particularly with regard to money
+11 laundering for cartels and organizations designated as foreign
+12 terrorist organizations under 8 U.S.C. 1189; and
+13 (2) the financing of terrorist activities;
+14 in accordance with the requirements of 12 U.S.C. 5901 et seq.
+15 (b) The department shall make certifications filed under
+16 subsection (a) available to the United States Department of the
+17 Treasury upon request by the United States Department of the
+18 Treasury.
+19 (c) The department may revoke the department's approval of a
+20 person's application for licensure under section 4 of this chapter if
+21 the person fails to file the certification required under subsection
+22 (a) not later than one hundred eighty (180) days after the date on
+23 which the department approves the person's application.
+24 Sec. 6. (a) The department shall adopt rules under IC 4-22-2 to
+25 implement this chapter, including for the purpose of recovering the
+26 cost of administering and enforcing this chapter by imposing and
+27 collecting proportionate and equitable fees and costs associated
+28 with receiving and evaluating applications, conducting
+29 examinations, conducting investigations, and other actions
+30 required to achieve the purposes of this chapter.
+31 (b) The department may conduct an examination or
+32 investigation of a licensed payment stablecoin issuer or otherwise
+33 take independent action authorized by this chapter as reasonably
+34 necessary or appropriate to administer and enforce this chapter,
+35 the department's rules implementing this chapter, and other state
+36 and federal law applicable to this chapter.
+37 (c) To carry out the purposes of this chapter, the department
+38 may do any of the following:
+39 (1) Enter into agreements or relationships with other state
+40 and federal government officials, regulatory agencies, and
+41 regulatory associations for the purpose of regulatory
+42 efficiency through standardization of methods and procedures
+2026 IN 1217—LS 7003/DI 119
+
+7
+1 and sharing of resources, records, or related information
+2 obtained under this chapter.
+3 (2) Conduct examinations in conjunction with other state or
+4 federal government agencies.
+5 (3) Use, hire, contract for, or employ analytical personnel,
+6 systems, methods, and software to examine or investigate
+7 licensed payment stablecoin issuers.
+8 (4) Incorporate:
+9 (A) licensing, examination, and investigation reports from
+10 other state or federal government agencies and officials;
+11 and
+12 (B) audit reports regarding licensees and applicants for
+13 licensure under this chapter from independent certified
+14 public accountants and other qualified third-party
+15 auditors;
+16 into the department's examination or investigation reports.
+17 (5) Summon and examine an individual under oath and
+18 require the individual to produce records regarding any
+19 matter related to the condition and business of a licensed
+20 payment stablecoin issuer or authorized delegate of a licensed
+21 payment stablecoin issuer.
+22 (d) Rules adopted by the department to regulate licensed
+23 payment stablecoin issuers must, at minimum, ensure that licensed
+24 payment stablecoin issuers are in compliance with federal laws and
+25 regulations applicable to permitted payment stablecoin issuers.
+26 (e) The department shall provide notice to licensed payment
+27 stablecoin issuers of any changes in federal laws and regulations
+28 applicable to permitted payment stablecoin issuers.
+29 Sec. 7. (a) A licensed payment stablecoin issuer shall provide to
+30 the department, at the department's request, and at the location
+31 and in the format specified by the department, any record the
+32 department reasonably requires to conduct a complete
+33 examination for purposes of this chapter. The department may
+34 utilize multistate record production standards and examination
+35 procedures if the standards will reasonably achieve the
+36 requirements of this chapter.
+37 (b) Unless otherwise directed by the department, a licensed
+38 payment stablecoin issuer shall pay all costs reasonably incurred
+39 in connection with an examination of the licensed payment
+40 stablecoin issuer, or of an authorized delegate of the licensed
+41 payment stablecoin issuer, under this chapter.
+42 Sec. 8. (a) The department may suspend or revoke a license
+2026 IN 1217—LS 7003/DI 119
+
+8
+1 issued under this chapter if:
+2 (1) the licensee violates this chapter or a rule adopted or order
+3 issued under this chapter;
+4 (2) the licensee does not cooperate with an examination or
+5 investigation by the department;
+6 (3) the licensee engages in fraud, intentional
+7 misrepresentation, or gross negligence;
+8 (4) the competence, experience, character, or general fitness
+9 of:
+10 (A) the licensee; or
+11 (B) a:
+12 (i) person in control;
+13 (ii) key individual; or
+14 (iii) responsible person;
+15 of the licensee or of an authorized delegate of the licensee;
+16 indicates that it is not in the public interest to permit the
+17 person to issue payment stablecoins;
+18 (5) the licensee engages in an unsafe or unsound practice; or
+19 (6) the licensee is insolvent, suspends payment of the licensee's
+20 obligations, or makes a general assignment for the benefit of
+21 the licensee's creditors.
+22 (b) In determining whether a licensee is engaging in an unsafe
+23 or unsound practice for purposes of subsection (a)(5), the
+24 department may consider the size and condition of the licensee's
+25 payment stablecoin issuance, the magnitude of a loss, the severity
+26 of a violation of this chapter, and the previous conduct of the
+27 licensee or other person responsible for the violation.
+28 (c) If the department determines that a violation of this chapter,
+29 or of a rule adopted or order issued under this chapter, by a
+30 licensee is likely to:
+31 (1) cause immediate and irreparable harm to:
+32 (A) the licensee;
+33 (B) the licensee's customers; or
+34 (C) the public; or
+35 (2) cause insolvency or significant dissipation of assets of the
+36 licensee;
+37 the department may issue an order requiring the licensee to cease
+38 and desist from the violation.
+39 (d) If the department has reason to believe that a person who is
+40 not licensed under this chapter is engaging in an activity for which
+41 a license is required under this chapter:
+42 (1) the department may issue an order to the person to show
+2026 IN 1217—LS 7003/DI 119
+
+9
+1 cause as to why the department should not issue an order
+2 requiring the person to cease and desist from the activity; or
+3 (2) if the department determines that the person's activity is
+4 likely to cause immediate and irreparable harm, the
+5 department may petition a court for ex parte issuance of an
+6 order temporarily enjoining the person from engaging in the
+7 activity.
+8 (e) An order issued by the department with regard to a person
+9 under subsection (c) or (d):
+10 (1) is effective upon service of the order on the person;
+11 (2) expires ten (10) days after the order is issued unless the
+12 department commences an administrative review of the order
+13 under IC 4-21.5; and
+14 (3) remains effective and enforceable pending the completion
+15 of an administrative review under subdivision (2).
+16 (f) A person that is served with an order to cease and desist
+17 under this section may petition a court for a judicial order setting
+18 aside, limiting, or suspending the enforcement, operation, or
+19 effectiveness of the order pending the completion of an
+20 administrative proceeding under subsection (e)(2).
+21 Sec. 9. The department may enter into a consent order with a
+22 person at any time to resolve a matter arising under this chapter
+23 or under a rule adopted or order issued under this chapter. A
+24 consent order under this section:
+25 (1) must be signed by the person to whom the consent order
+26 is issued or by the person's authorized representative;
+27 (2) must indicate the person's agreement with the terms set
+28 forth in the consent order; and
+29 (3) may provide that the consent order does not constitute an
+30 admission by the person of a violation of this chapter or of a
+31 rule adopted or order issued under this chapter.
+32 Sec. 10. (a) A person that intentionally:
+33 (1) makes a false statement, misrepresentation, or false
+34 certification; or
+35 (2) makes a false entry or omits a material entry;
+36 in a record filed or required to be maintained under this chapter,
+37 including a certification filed under section 5 of this chapter,
+38 commits a Class A misdemeanor.
+39 (b) A person that:
+40 (1) is not licensed under this chapter;
+41 (2) knowingly engages in an activity for which a license is
+42 required under this chapter; and
+2026 IN 1217—LS 7003/DI 119
+
+10
+1 (3) receives not more than seven hundred fifty dollars ($750)
+2 within a thirty (30) day period as a result of the activity under
+3 subdivision (2);
+4 commits a Class A misdemeanor.
+5 (c) A person that:
+6 (1) is not licensed under this chapter;
+7 (2) knowingly engages in an activity for which a license is
+8 required under this chapter; and
+9 (3) receives more than seven hundred fifty dollars ($750)
+10 within a thirty (30) day period as a result of the activity under
+11 subdivision (2);
+12 commits a Level 6 felony.
+13 (d) If the department determines, after notice to the person and
+14 an opportunity for the person to be heard, that a person has
+15 violated this chapter, the department may, in addition to or instead
+16 of all other remedies available under this chapter, impose upon the
+17 person a civil penalty in an amount equal to:
+18 (1) not more than ten thousand dollars ($10,000) per
+19 violation; plus
+20 (2) the department's cost of investigating and prosecuting the
+21 violation, including the department's reasonable attorney's
+22 fees.
+23 Sec. 11. The following apply to an insolvency proceeding
+24 regarding a licensed payment stablecoin issuer:
+25 (1) Subject to subdivision (3), the claim of a person holding
+26 payment stablecoins issued by the licensed payment stablecoin
+27 issuer has priority, in ratable proportion to the claims of
+28 other persons holding payment stablecoins issued by the
+29 licensed payment stablecoin issuer, over the claims of the
+30 licensed payment stablecoin issuer and any other claimant
+31 against the licensed payment stablecoin issuer, with respect to
+32 the licensed payment stablecoin issuer's required reserves
+33 under 12 U.S.C. 5903.
+34 (2) Notwithstanding any other provision of law, a person
+35 holding a payment stablecoin issued by the licensed payment
+36 stablecoin issuer has a valid claim against the licensed
+37 payment stablecoin issuer.
+38 (3) Subdivision (1) does not apply to claims other than those
+39 arising directly from the holding of payment stablecoins.
+40 SECTION 2. IC 35-52-28-15 IS ADDED TO THE INDIANA
+41 CODE AS A NEW SECTION TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 15. IC 28-16-2-10 defines a crime
+2026 IN 1217—LS 7003/DI 119
+
+11
+1 concerning payment stablecoin.
+2026 IN 1217—LS 7003/DI 119
