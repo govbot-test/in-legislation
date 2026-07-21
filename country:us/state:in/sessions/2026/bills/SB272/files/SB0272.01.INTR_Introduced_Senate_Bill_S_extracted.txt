@@ -1,0 +1,636 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 272
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1-40.2.
+Synopsis: Competitive electric supply service. Provides that beginning
+July 1, 2027, an eligible customer of an incumbent electricity supplier
+may elect to receive: (1) electric supply service directly from a
+competitive electricity supplier; and (2) transmission and distribution
+service from the incumbent electricity supplier. Defines for these
+purposes an "eligible customer" as a new or existing nonresidential
+customer of the incumbent electricity supplier, or an aggregation of two
+or more such customers, whose aggregate electricity demand during the
+most recently concluded calendar year exceeded one megawatt.
+Defines for these purposes an "incumbent electricity supplier", with
+respect to an eligible customer, as an investor owned utility that is
+under the jurisdiction of the Indiana utility regulatory commission
+(IURC) and whose assigned service area includes the eligible customer.
+Requires the IURC to establish by rule the following: (1) A system for
+establishing and periodically adjusting a cap on an incumbent
+electricity supplier's eligible customers receiving electric supply
+service from a competitive electricity supplier. (2) A queue process by
+which eligible customers of an incumbent electricity supplier that elect
+to receive electric supply service from a competitive electricity supplier
+are authorized to begin receiving that service as the incumbent
+electricity supplier's cap allows. Specifies the methods by which the
+IURC must establish and adjust an incumbent electricity supplier's cap.
+Sets forth requirements for advance notice that an eligible customer
+must provide to an incumbent electricity supplier before: (1) receiving
+electric supply service from a competitive electricity supplier; or (2)
+resuming electric supply service under the incumbent electricity
+(Continued next page)
+Effective: Upon passage.
+Donato
+January 8, 2026, read first time and referred to Committee on Utilities.
+2026 IN 272—LS 7078/DI 101
+
+Digest Continued
+supplier's applicable tariff upon discontinuing electric supply service
+from a competitive electricity supplier. Provides that on any customer
+bill issued by an incumbent electricity supplier after June 30, 2027, the
+incumbent electricity supplier must include a breakdown of the charges
+and fees that make up the total amount owed, including a description
+of the service or cost associated with each charge or fee. Sets forth
+certain charges and fees that must be delineated as specific line items
+on each customer bill. Requires the IURC to establish by rule
+requirements for an incumbent electricity supplier to provide to a
+competitive electricity supplier historical usage data for an eligible
+customer that seeks to receive electric supply service from the
+competitive electricity supplier. Sets forth certain metrics that the
+customer usage data must include. Requires the IURC to establish by
+rule a licensing process for competitive electricity suppliers that seek
+to provide electric supply service to eligible customers of incumbent
+electricity suppliers in Indiana. Sets forth certain requirements that a
+competitive electricity supplier must meet as a condition of receiving
+and maintaining a license. Provides that an incumbent electricity
+supplier that seeks to provide electric supply service outside its
+assigned service area must do so through a functionally separate,
+nonutility affiliate that is subject to the bill's licensing requirements.
+Requires the IURC to establish by rule a procedure by which a: (1)
+municipally owned utility; or (2) rural electric corporation; may elect
+to become subject to the bill's provisions so as to enable its eligible
+customers to receive electric supply service from a competitive
+electricity supplier. Provides that in any base rate case for an
+incumbent electricity supplier, the IURC shall: (1) ensure that electric
+supply service received by eligible customers from a competitive
+electricity supplier will not result in unreasonable cost shifting to other
+nonparticipating eligible customers or to other customer classes; and
+(2) consider the avoided generation and purchased power costs inuring
+to the benefit of the incumbent electricity supplier's ratepayers as a
+result of eligible customers receiving electric supply service from
+competitive electricity suppliers. Beginning in 2028, requires the IURC
+to include each year in its annual report specified information
+concerning the provision of electric supply service by competitive
+electricity suppliers to eligible customers of incumbent electricity
+suppliers. Requires the IURC to adopt rules to implement the bill's
+provisions.
+22002266 IINN 227722——LLSS 77007788//DDII 110011
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 272
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-40.2 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]:
+4 Chapter 40.2. Competitive Electric Supply Service for
+5 Nonresidential Customers
+6 Sec. 1. As used in this chapter, "commission" refers to the
+7 Indiana utility regulatory commission created by IC 8-1-1-2.
+8 Sec. 2. (a) As used in this chapter, "competitive electricity
+9 supplier" means a person that is licensed by the commission under
+10 this chapter to provide competitive electric supply service at retail
+11 to eligible customers.
+12 (b) The term does not include a person that:
+13 (1) owns or operates:
+14 (A) a cogeneration facility (as defined in IC 8-1-2.4-2(c));
+15 (B) a private generation project (as defined in
+2026 IN 272—LS 7078/DI 101
+
+2
+1 IC 8-1-2.4-2(g)); or
+2 (C) a generator or other device that is located on the
+3 person's premises;
+4 for the purpose of generating electricity to meet or offset all
+5 or part of the person's need for electricity on or near the
+6 location of the facility, project, generator, or device; and
+7 (2) does not otherwise provide electric supply service at retail.
+8 Sec. 3. (a) As used in this chapter, "customer", with respect to
+9 an incumbent electricity supplier, means a metered electrical
+10 service point that is located in the incumbent electricity supplier's
+11 assigned service area under IC 8-1-2.3.
+12 (b) As the context requires, the term includes a person of record
+13 who is:
+14 (1) associated with a billing account established by the
+15 incumbent electricity supplier for the service point described
+16 in subsection (a); or
+17 (2) otherwise associated with the service point described in
+18 subsection (a).
+19 Sec. 4. (a) As used in this chapter, "electric supply service"
+20 means the generation or procurement of electricity for sale to an
+21 eligible customer by:
+22 (1) a competitive electricity supplier; or
+23 (2) an incumbent electricity supplier under a retail tariff
+24 approved by the commission.
+25 (b) The term does not include transmission and distribution
+26 service.
+27 Sec. 5. As used in this chapter, "eligible customer", with respect
+28 to an incumbent electricity supplier, means a new or existing
+29 nonresidential customer of the incumbent electricity supplier, or
+30 an aggregation of two (2) or more new or existing nonresidential
+31 customers of the incumbent electricity supplier, whose aggregate
+32 electricity demand during the most recently concluded calendar
+33 year exceeded one (1) megawatt.
+34 Sec. 6. As used in this chapter, "incumbent electricity supplier",
+35 with respect to an eligible customer, means any of the following
+36 that is under the jurisdiction of the commission for the approval of
+37 rates and charges and whose assigned service area under
+38 IC 8-1-2.3 includes the eligible customer:
+39 (1) A public utility (as defined in IC 8-1-2-1(a)).
+40 (2) Any of the following that elects to become subject to this
+41 chapter in accordance with the procedure set forth in rules
+42 adopted by the commission under section 18 of this chapter:
+2026 IN 272—LS 7078/DI 101
+
+3
+1 (A) A municipally owned utility (as defined in
+2 IC 8-1-2-1(h)).
+3 (B) A corporation organized under IC 8-1-13.
+4 (C) A corporation organized under IC 23-17 that is an
+5 electric cooperative and that has at least one (1) member
+6 that is a corporation organized under IC 8-1-13.
+7 Sec. 7. (a) As used in this chapter, "transmission and
+8 distribution service" means the delivery of electricity to an eligible
+9 customer by an incumbent electricity supplier over the incumbent
+10 electricity supplier's transmission and distribution systems.
+11 (b) The term does not include electric supply service.
+12 Sec. 8. (a) Beginning July 1, 2027, an eligible customer of an
+13 incumbent electricity supplier may elect to receive:
+14 (1) electric supply service directly from a competitive
+15 electricity supplier; and
+16 (2) transmission and distribution service from the incumbent
+17 electricity supplier;
+18 as set forth in this chapter and in rules adopted by the commission
+19 under section 18 of this chapter.
+20 (b) This chapter does not require a person described in section
+21 2(b) of this chapter to:
+22 (1) discontinue; or
+23 (2) otherwise limit;
+24 the use of a facility, project, generator, or device described in
+25 section 2(b) of this chapter.
+26 (c) An incumbent electricity supplier may not impose:
+27 (1) a transition fee;
+28 (2) an exit fee; or
+29 (3) any similar fee or charge, however denominated;
+30 on an eligible customer that elects to receive electric supply service
+31 from a competitive electricity supplier under this chapter.
+32 Sec. 9. (a) The commission shall, in rules adopted under section
+33 18 of this chapter, establish the following:
+34 (1) A system for establishing and periodically adjusting a cap
+35 on an incumbent electricity supplier's eligible customers
+36 receiving electric supply service from a competitive electricity
+37 supplier.
+38 (2) A queue process by which eligible customers of an
+39 incumbent electricity supplier that elect to receive electric
+40 supply service from a competitive electricity supplier are
+41 authorized to begin receiving that service as the cap described
+42 in subdivision (1) allows.
+2026 IN 272—LS 7078/DI 101
+
+4
+1 (b) The commission's rules concerning the establishment and
+2 adjustment of the cap described in subsection (a)(1) and the queue
+3 process described in subsection (a)(2) must provide for the
+4 following:
+5 (1) The cap described in subsection (a)(1) must, as of the time
+6 it is established or adjusted:
+7 (A) reflect existing loads served by competitive electricity
+8 suppliers providing electric supply service to an incumbent
+9 electricity supplier's eligible customers;
+10 (B) represent a percentage of the incumbent electricity
+11 supplier's total retail sales, normalized for weather, for the
+12 most recently concluded calendar year; and
+13 (C) account for any incremental demand growth
+14 experienced by the incumbent electricity supplier during
+15 the most recently concluded calendar year.
+16 (2) The commission shall issue a general administrative order
+17 establishing the first cap described in subsection (a)(1) not
+18 later than July 1, 2027. The first cap:
+19 (A) must represent at least twenty percent (20%) of the
+20 incumbent electricity supplier's total retail sales,
+21 normalized for weather, for the most recently concluded
+22 calendar year, excluding sales to eligible customers whose
+23 demand exceeded seventy-five (75) megawatts at one (1)
+24 site; and
+25 (B) remains in effect until the commission issues a
+26 subsequent general administrative order adjusting the cap.
+27 (3) In each subsequent general administrative order that the
+28 commission issues to adjust the cap after the commission's
+29 first general administrative order under subdivision (2), the
+30 percentage described in subdivision (2)(A) may only be
+31 adjusted upward from the percentage in effect at the time of
+32 the adjustment.
+33 (4) If an existing eligible customer of an incumbent electricity
+34 supplier elects to receive electric supply service from a
+35 competitive electricity supplier after the incumbent electricity
+36 supplier's then current cap has been met, the eligible
+37 customer shall be placed in the queue described in subdivision
+38 (6). However, an eligible customer that requires additional
+39 electric supply service for an existing facility owned or
+40 operated by the eligible customer shall be permitted to receive
+41 electric supply service from a competitive electricity supplier
+42 for:
+2026 IN 272—LS 7078/DI 101
+
+5
+1 (A) both the current and additional load at the existing
+2 facility; and
+3 (B) new load at any additional facility that is:
+4 (i) constructed or acquired by the eligible customer; and
+5 (ii) similar in nature to the existing facility;
+6 if the customer has an ownership interest of at least fifty
+7 percent (50%) in the new facility;
+8 even though the sale of electric supply service from the
+9 competitive electricity supplier will exceed the incumbent
+10 electricity supplier's then current cap, as long as the load
+11 described in clauses (A) and (B) is considered in the
+12 calculation of subsequent adjustments to the incumbent
+13 electricity supplier's cap.
+14 (5) If a new eligible customer of an incumbent electricity
+15 supplier that has not yet received electric supply service from
+16 the incumbent electricity supplier seeks to receive electric
+17 supply service from a competitive electricity supplier after the
+18 incumbent electricity supplier's then current cap has been
+19 met, the new eligible customer shall be permitted to receive
+20 electric supply service from a competitive electricity supplier,
+21 even though the sale of electric supply service from the
+22 competitive electricity supplier will exceed the incumbent
+23 electricity supplier's then current cap. However, if the new
+24 eligible customer subsequently seeks to discontinue receiving
+25 electric supply service from the competitive electricity
+26 supplier and begin receiving electric supply service from the
+27 incumbent electricity supplier, the new eligible customer must
+28 provide to the incumbent electricity supplier the notice
+29 required under section 10(b) of this chapter. The new eligible
+30 customer must provide the notice within the time prescribed
+31 in section 10(b) of this chapter unless the new eligible
+32 customer elects to receive electric supply service from the
+33 incumbent electricity supplier at the marginal price of
+34 electricity (as defined in IC 8-1-40-6) until the expiration of
+35 applicable notice period, as permitted under section 10(b) of
+36 this chapter. Upon the new eligible customer's establishment
+37 of electric supply service with the incumbent electricity
+38 supplier, the new eligible customer's load shall be considered
+39 in the calculation of subsequent adjustments to the incumbent
+40 electricity supplier's cap.
+41 (6) Subject to subsection (c), on an annual basis, according to
+42 a schedule established by the commission in rules adopted
+2026 IN 272—LS 7078/DI 101
+
+6
+1 under section 18 of this chapter, the commission shall, for
+2 each incumbent electricity supplier, publish on the
+3 commission's website a rank ordered queue of all eligible
+4 customers of the incumbent electricity supplier that are
+5 waiting to receive electric supply service from a competitive
+6 electricity supplier. The published queue must include the
+7 estimated amount of electric supply service that will be
+8 required from a competitive electricity supplier for each
+9 eligible customer listed in the queue.
+10 (7) If an incumbent electricity supplier's existing cap has
+11 remained at capacity for two (2) consecutive years from the
+12 date on which the cap took effect, the commission shall, on its
+13 own motion or upon the request of one (1) or more eligible
+14 customers of the incumbent electricity supplier, conduct a
+15 proceeding to review the incumbent electricity supplier's cap
+16 and may increase the cap if:
+17 (A) one (1) or more eligible customers of the incumbent
+18 electricity supplier are in the queue described in
+19 subdivision (6) as of the expiration of the two (2) year
+20 period described in this subdivision; or
+21 (B) there exists evidence of sustained or accelerated load
+22 growth for the incumbent electricity supplier over the
+23 course of the two (2) year period described in this
+24 subdivision.
+25 If the commission determines that clause (A) or (B) applies,
+26 the commission shall issue a general administrative order
+27 increasing the incumbent electricity supplier's cap. The
+28 commission shall issue a general administrative order under
+29 this subdivision not later than twelve (12) months after the
+30 date on which the commission initiated a proceeding under
+31 this subdivision or the date on which the commission first
+32 received a request to initiate a proceeding under this
+33 subdivision, whichever occurred first.
+34 (8) Every two (2) years after the commission issues a general
+35 administrative order under subdivision (7), the commission
+36 shall conduct a proceeding to review the incumbent electricity
+37 supplier's then current cap and consider whether the cap
+38 should be increased or removed based on:
+39 (A) the total load comprising the incumbent electricity
+40 supplier's queue under subdivision (6);
+41 (B) the projected load growth of the incumbent electricity
+42 supplier; and
+2026 IN 272—LS 7078/DI 101
+
+7
+1 (C) other market factors the commission considers
+2 relevant.
+3 (c) Upon request by an incumbent electricity supplier or an
+4 eligible customer of an incumbent electricity supplier, the
+5 commission shall determine whether any information required to
+6 be published on the commission's website under subsection (b)(6):
+7 (1) is confidential under IC 5-14-3-4;
+8 (2) is exempt from public access and disclosure by Indiana
+9 law; and
+10 (3) must be treated as confidential and protected from public
+11 access and disclosure by the commission.
+12 Sec. 10. (a) At any time during which there is available capacity
+13 under an incumbent electricity supplier's cap, an eligible customer
+14 of the incumbent electricity supplier may elect to receive electric
+15 supply service from a competitive electricity supplier by providing
+16 advance written notice to the incumbent electricity supplier at least
+17 thirty (30) days before the date on which the eligible customer
+18 requests termination of electric supply service from the incumbent
+19 electricity supplier.
+20 (b) An eligible customer that has elected to receive electric
+21 supply service from a competitive electricity supplier under
+22 subsection (a) may subsequently discontinue receiving electric
+23 supply service from the competitive electricity supplier and resume
+24 receiving electric supply service from the incumbent electricity
+25 supplier if the incumbent electricity supplier has sufficient
+26 available capacity under its then current cap. An eligible customer
+27 that seeks to resume electric supply service under the incumbent
+28 electricity supplier's applicable tariff must provide to the
+29 incumbent electricity supplier advance written notice of the eligible
+30 customer's requested service date as follows:
+31 (1) If the eligible customer's peak demand did not exceed
+32 twenty-five (25) megawatts during the most recently
+33 concluded calendar year, the eligible customer must provide
+34 notice to the incumbent electricity supplier at least thirty (30)
+35 days before the requested service date.
+36 (2) If the eligible customer's peak demand exceeded
+37 twenty-five (25) megawatts during the most recently
+38 concluded calendar year, the eligible customer must provide
+39 notice to the incumbent electricity supplier at least one
+40 hundred eighty (180) days before the requested service date.
+41 However, an eligible customer that seeks to resume electric supply
+42 service under the incumbent electricity supplier's applicable tariff
+2026 IN 272—LS 7078/DI 101
+
+8
+1 before the expiration of the applicable notice period under this
+2 subsection shall be permitted to receive electric supply service
+3 from the incumbent electricity supplier at the marginal price of
+4 electricity (as defined in IC 8-1-40-6) until the expiration of
+5 applicable notice period.
+6 Sec. 11. (a) On any customer bill issued by an incumbent
+7 electricity supplier after June 30, 2027, the incumbent electricity
+8 supplier must include a breakdown of the charges and fees that
+9 make up the total amount owed for the billing cycle, including a
+10 description of the service or cost associated with each charge or
+11 fee, if not apparent on its face. To the extent applicable, the
+12 following must be delineated as specific line items on each
+13 customer bill:
+14 (1) Distribution and delivery charges.
+15 (2) Transmission charges.
+16 (3) Generation and supply charges, including the cost per unit
+17 consumed.
+18 (4) Individual program charges, separately stated for each
+19 program for which the customer is charged, including energy
+20 efficiency programs, low income assistance programs,
+21 demand response programs, and any other programs outside
+22 the provision of basic service.
+23 (5) Account or program credits.
+24 (6) Taxes.
+25 (7) Account management and billing fees.
+26 (8) Any other applicable charges or fees.
+27 (b) Before July 1, 2027, an incumbent electricity supplier shall:
+28 (1) take appropriate internal operational measures to
+29 separate the incumbent electricity supplier's costs so as to
+30 accurately reflect those costs in associated charges and fees
+31 charged to customers and itemized in customer bills issued
+32 after June 30, 2027, under subsection (a);
+33 (2) amend all existing approved retail tariffs to reflect these
+34 itemized charges and fees and post the tariffs, as amended, on
+35 the incumbent electricity supplier's website; and
+36 (3) file the amended tariffs with the commission.
+37 Upon receiving an incumbent electricity supplier's amended retail
+38 tariffs under subdivision (3), the commission shall post the
+39 amended tariffs on the commission's website. The commission may
+40 not approve any new retail tariff filed with the commission by an
+41 incumbent electricity supplier after June 30, 2027, unless the tariff
+42 includes an itemization of the charges and fees set forth in
+2026 IN 272—LS 7078/DI 101
+
+9
+1 subsection (a).
+2 Sec. 12. (a) An incumbent electricity supplier may not:
+3 (1) impose any charges for electric supply service on an
+4 eligible customer receiving electric supply service from a
+5 competitive electricity supplier; or
+6 (2) allocate to an eligible customer receiving electric supply
+7 service from a competitive electricity supplier costs that are
+8 incurred by the incumbent electricity supplier in providing
+9 electric supply service.
+10 (b) The commission shall establish, in rules adopted under
+11 section 18 of this chapter, requirements for an incumbent
+12 electricity supplier to provide to a competitive electricity supplier
+13 historical usage data for an eligible customer that seeks to receive
+14 electric supply service from the competitive electricity supplier.
+15 The commission's rules must provide for the following:
+16 (1) Historical usage data for the eligible customer must
+17 include:
+18 (A) at least twenty-four (24) months of customer usage or
+19 metering data; and
+20 (B) other customer information necessary to facilitate
+21 electric supply service transactions, including customer
+22 class details such as capacity and transmission allocations
+23 and loss factors.
+24 If the eligible customer has received electric supply service
+25 from the incumbent electricity supplier for less than
+26 twenty-four (24) months, the incumbent electricity supplier
+27 shall provide customer usage or metering data for the length
+28 of time the eligible customer has received electric supply
+29 service from the incumbent electricity supplier.
+30 (2) Historical usage data must include both:
+31 (A) monthly usage totals; and
+32 (B) interval usage data, to the extent available;
+33 delineated in terms of both kilowatt hour energy consumed
+34 and kilowatt demand.
+35 (3) For the duration of the time that an eligible customer
+36 receives electric supply service from a competitive electricity
+37 supplier, the incumbent electricity supplier shall make
+38 available to the competitive electricity supplier such customer
+39 usage data as is necessary to facilitate invoicing by the
+40 competitive electricity supplier in a timely manner.
+41 (c) The requirements established by the commission under
+42 subsection (b) must include a process by which a competitive
+2026 IN 272—LS 7078/DI 101
+
+10
+1 electricity supplier may confirm and document an eligible
+2 customer's consent to release to the competitive electricity supplier
+3 the customer usage data described in subsection (b). The
+4 requirements must provide that an electronic signature or another
+5 similar technology may be used in confirming an eligible
+6 customer's consent.
+7 (d) An eligible customer of an incumbent electricity supplier
+8 that receives electric supply service from a competitive electricity
+9 supplier shall be billed through a dual billing arrangement in
+10 which the eligible customer receives for the applicable billing cycle:
+11 (1) a bill from the competitive electricity supplier for electric
+12 supply service; and
+13 (2) a bill from the incumbent electricity supplier for
+14 transmission and distribution service.
+15 Sec. 13. (a) The commission shall establish, in rules adopted
+16 under section 18 of this chapter, a licensing process for competitive
+17 electricity suppliers that seek to provide electric supply service to
+18 eligible customers of incumbent electricity suppliers in Indiana.
+19 The commission's rules establishing a licensing process must
+20 provide for the following:
+21 (1) Before issuing a competitive electricity supplier a license
+22 to provide electric supply service, the commission must find
+23 that the competitive electricity supplier has the financial,
+24 managerial, and technical ability necessary to provide
+25 adequate electric supply service to eligible customers of an
+26 incumbent electricity supplier.
+27 (2) As a condition of receiving and maintaining a license, a
+28 competitive electricity supplier must do the following:
+29 (A) Pay to the commission an annual licensing fee of ten
+30 thousand dollars ($10,000).
+31 (B) Execute and maintain a surety bond, or an equivalent
+32 financial security instrument, that is:
+33 (i) issued by a qualified surety, insurance company, or
+34 other financial institution authorized to do business in
+35 Indiana;
+36 (ii) in the amount of not less than one million dollars
+37 ($1,000,000); and
+38 (iii) paid by the competitive electricity supplier.
+39 In submitting an application for a license to the
+40 commission, the competitive electricity supplier shall
+41 include a copy of the required surety bond or financial
+42 security instrument, including a notarized verification
+2026 IN 272—LS 7078/DI 101
+
+11
+1 from the issuer.
+2 (C) Provide electric supply service to an eligible customer
+3 in accordance with a written contract, agreement, or
+4 arrangement executed by the competitive electricity
+5 supplier and the eligible customer.
+6 (D) Pay all applicable state taxes.
+7 (b) The commission must issue an order approving or denying
+8 a competitive electricity supplier's application for a license not
+9 later than ninety (90) days after the filing date of the application.
+10 If the commission denies the application, the competitive electricity
+11 supplier may resubmit the application without prejudice after
+12 curing any defects in the application identified by the commission.
+13 If the commission does not issue an order approving or denying a
+14 competitive electricity supplier's application for a license within
+15 the ninety (90) day period prescribed by this subsection, the
+16 application is considered approved.
+17 (c) The commission may investigate consumer complaints
+18 against a competitive electricity supplier. If, after such
+19 investigation, the commission determines that the competitive
+20 electricity supplier has violated any provision of this chapter or of
+21 any rules adopted by the commission under section 18 this chapter,
+22 the commission may, after giving notice and an opportunity for
+23 hearing to the competitive electricity supplier:
+24 (1) revoke or suspend the competitive electricity supplier's
+25 license under this section; or
+26 (2) place the competitive electricity supplier on probationary
+27 status, which may include:
+28 (A) enhanced oversight;
+29 (B) additional reporting requirements; or
+30 (C) submission to the commission of a plan for corrective
+31 action.
+32 (d) An incumbent electricity supplier that seeks to provide
+33 electric supply service outside its assigned service area under
+34 IC 8-1-2.3 must do so through a functionally separate, nonutility
+35 affiliate that is subject to the licensing requirements set forth in
+36 this section.
+37 (e) Except for the license required under this section to provide
+38 competitive electric supply service to eligible customers of an
+39 incumbent electricity supplier, a competitive electricity supplier is
+40 not required to obtain any other license, certificate, or
+41 authorization from the commission.
+42 Sec. 14. In rules adopted under section 18 of this chapter, the
+2026 IN 272—LS 7078/DI 101
+
+12
+1 commission shall establish a procedure by which any of the
+2 following may elect to become subject to this chapter so as to
+3 enable its customers who meet the criteria set forth in section 5 of
+4 this chapter to receive electric supply service from a competitive
+5 electricity supplier:
+6 (1) A municipally owned utility (as defined in IC 8-1-2-1(h)).
+7 (2) A corporation organized under IC 8-1-13.
+8 (3) A corporation organized under IC 23-17 that is an electric
+9 cooperative and that has at least one (1) member that is a
+10 corporation organized under IC 8-1-13.
+11 Sec. 15. In any proceeding for a change in the basic rates and
+12 charges of an incumbent electricity supplier, the commission shall
+13 do the following:
+14 (1) Ensure that the receipt of electric supply service by eligible
+15 customers from a competitive electricity supplier, as
+16 permitted under the incumbent electricity supplier's
+17 applicable cap, will not result in an unreasonable shifting of
+18 costs to other nonparticipating eligible customers or to other
+19 customer classes of the incumbent electricity supplier.
+20 (2) Consider the avoided generation and purchased power
+21 costs inuring to the benefit of the incumbent electricity
+22 supplier's ratepayers as a result of any reduction in the
+23 incumbent electricity supplier's:
+24 (A) electric supply service obligations; or
+25 (B) planning reserve margin requirement with the
+26 appropriate regional transmission organization (as defined
+27 in IC 8-1-8.5-13(b));
+28 as a result of eligible customers receiving electric supply
+29 service from competitive electricity suppliers.
+30 Sec. 16. In any integrated resource plan filed with the
+31 commission under 170 IAC 4-7 after June 30, 2027, an incumbent
+32 electricity supplier shall not incorporate into the incumbent
+33 electricity supplier's forecasts or load projections the loads of
+34 eligible customers receiving electric supply service from a
+35 competitive electricity supplier at the time of filing.
+36 Sec. 17. Beginning in 2028, the commission shall include in the
+37 annual report that the commission is required to submit under
+38 IC 8-1-1-14 before October 1 of each year the following
+39 information as of the last day of the most recently concluded state
+40 fiscal year:
+41 (1) The total amount of licensing fees collected from
+42 competitive electricity suppliers during the most recently
+2026 IN 272—LS 7078/DI 101
+
+13
+1 concluded state fiscal year.
+2 (2) The current cap for each incumbent electricity supplier.
+3 (3) For each incumbent electricity supplier:
+4 (A) the total number of eligible customers receiving
+5 electric supply service from a competitive electricity
+6 supplier; and
+7 (B) the total load in megawatt hours associated with those
+8 eligible customers.
+9 (4) Subject to section 9(c) of this chapter, for each incumbent
+10 electricity supplier, the rank ordered queue of eligible
+11 customers of the incumbent electricity supplier that are
+12 waiting to receive electric supply service from a competitive
+13 electricity supplier, as of the last day of the most recently
+14 concluded state fiscal year. The information provided under
+15 this subdivision must include the estimated amount of electric
+16 supply service that will be required from a competitive
+17 electricity supplier for each eligible customer listed in the
+18 queue.
+19 Sec. 18. The commission shall adopt rules under IC 4-22-2 to
+20 implement this chapter.
+21 SECTION 2. An emergency is declared for this act.
+2026 IN 272—LS 7078/DI 101

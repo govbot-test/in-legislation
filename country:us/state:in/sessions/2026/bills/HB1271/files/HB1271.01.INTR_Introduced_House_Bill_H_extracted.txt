@@ -1,0 +1,398 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1271
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 16-18-2; IC 16-21-9.5; IC 27-1; IC 27-8-5.7;
+IC 27-13-36.2.
+Synopsis: Payment of health claims. Requires a hospital to: (1)
+disclose information concerning payment assistance programs; (2) post
+signs concerning the programs in specified locations of the hospital;
+and (3) make information concerning the programs available to
+individuals through the hospital's patient portal system. Requires a
+hospital to notify individuals of available payment assistance programs
+before beginning a collection action against the individual. Requires
+the department of insurance to initiate rulemaking to effectuate the
+provisions regarding out-of-pocket expense credits not later than July
+1, 2026. Prohibits an insurer that issues a policy of accident and
+sickness insurance (insurer) and a health maintenance organization
+from using downcoding in a specified manner. Prohibits an insurer and
+a health maintenance organization from retroactively reducing the
+reimbursement rate for any CPT code. Sets forth limitations on an
+insurer and a health maintenance organization retroactively auditing a
+paid claim or seeking recoupment or a refund of a paid claim.
+Effective: Upon passage; July 1, 2026.
+McGuire
+January 6, 2026, read first time and referred to Committee on Insurance.
+2026 IN 1271—LS 7085/DI 141
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1271
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-52.5, AS AMENDED BY P.L.188-2025,
+2 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 52.5. (a) "Charity care", for purposes of
+4 IC 16-21-6, IC 16-21-9, IC 16-21-9.5, and IC 16-40-6, means the
+5 unreimbursed cost to a hospital of providing, funding, or otherwise
+6 financially supporting health care services:
+7 (1) to a person classified by the hospital as financially indigent or
+8 medically indigent on an inpatient or outpatient basis; and
+9 (2) to financially indigent patients through other nonprofit or
+10 public outpatient clinics, hospitals, or health care organizations.
+11 (b) As used in this section, "financially indigent" means an
+12 uninsured or underinsured person who is accepted for care with no
+13 obligation or a discounted obligation to pay for the services rendered
+14 based on the hospital's financial criteria and procedure used to
+15 determine if a patient is eligible for charity care. The criteria and
+16 procedure must include income levels and means testing indexed to the
+17 federal poverty guidelines. A hospital may determine that a person is
+2026 IN 1271—LS 7085/DI 141
+
+2
+1 financially or medically indigent under the hospital's eligibility system
+2 after health care services are provided.
+3 (c) As used in this section, "medically indigent" means a person
+4 whose medical or hospital bills after payment by third party payors
+5 exceed a specified percentage of the patient's annual gross income as
+6 determined in accordance with the hospital's eligibility system, and
+7 who is financially unable to pay the remaining bill.
+8 SECTION 2. IC 16-18-2-251 IS AMENDED TO READ AS
+9 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 251. "Nonprofit
+10 hospital", for purposes of IC 16-21-9 and IC 16-21-9.5, has the
+11 meaning set forth in IC 16-21-9-3.
+12 SECTION 3. IC 16-18-2-272.4 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 272.4. "Payment assistance
+15 program", for purposes of IC 16-21-9.5, has the meaning set forth
+16 in IC 16-21-9.5-1.
+17 SECTION 4. IC 16-21-9.5 IS ADDED TO THE INDIANA CODE
+18 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2026]:
+20 Chapter 9.5. Notice of Payment Assistance Programs
+21 Sec. 1. As used in this chapter, "payment assistance program"
+22 refers to any of the following:
+23 (1) Charity care.
+24 (2) Financial assistance.
+25 (3) Discounted care.
+26 (4) Assistance programs offered as part of a nonprofit
+27 hospital's community benefits plan.
+28 Sec. 2. (a) A hospital shall provide written notice of the
+29 hospital's payment assistance program to a patient or the patient's
+30 representative at the following times:
+31 (1) During registration or intake for inpatient or outpatient
+32 services.
+33 (2) At discharge, either in a written format or electronically
+34 through a patient portal system.
+35 (3) With the initial billing statement for the provided services.
+36 (b) The written notice required under subsection (a) must
+37 include the following:
+38 (1) A description of available payment assistance programs.
+39 (2) Eligibility criteria.
+40 (3) Application instructions.
+41 (4) Contact information for a hospital representative when
+42 assistance is needed to complete the application.
+2026 IN 1271—LS 7085/DI 141
+
+3
+1 (c) A hospital may provide notice to a patient or the patient's
+2 representative under subsection (a):
+3 (1) in a writing delivered to the patient or the patient's
+4 representative;
+5 (2) by electronic mail; or
+6 (3) through a mobile application or another Internet based
+7 method, if available;
+8 according to the preference for communication expressed by the
+9 patient or patient's representative.
+10 Sec. 3. A hospital shall post conspicuous signage notifying
+11 patients of the availability of payment assistance programs in the
+12 following locations:
+13 (1) Inpatient and outpatient registration areas.
+14 (2) Financial counseling offices.
+15 (3) Emergency departments.
+16 The signs must be printed in at least the five (5) most used
+17 languages spoken in the county based on the most recent United
+18 States Census Bureau American Community Survey.
+19 Sec. 4. A hospital shall make payment assistance program
+20 information available electronically through any patient portal
+21 maintained by the hospital.
+22 Sec. 5. Before beginning a collection action, a hospital shall do
+23 the following:
+24 (1) Determine whether the individual is eligible for a payment
+25 assistance program.
+26 (2) Make a reasonable effort to notify the individual of
+27 available payment assistance programs and provide the
+28 individual with an application form.
+29 Sec. 6. A nonprofit hospital shall annually report compliance
+30 with this chapter as part of the nonprofit hospital's community
+31 benefit plan report under IC 16-21-9-7.
+32 Sec. 7. The state department may adopt rules under IC 4-22-2
+33 to administer and enforce this chapter.
+34 Sec. 8. The state department may assess a hospital a civil
+35 penalty of not more than one thousand dollars ($1,000) per
+36 violation for failure to comply with this chapter. A penalty
+37 collected under this section shall be deposited into the state general
+38 fund.
+39 SECTION 5. IC 27-1-48.5-10, AS ADDED BY P.L.237-2025,
+40 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 UPON PASSAGE]: Sec. 10. (a) The department shall adopt rules under
+42 IC 4-22-2 to effectuate the provisions of this chapter.
+2026 IN 1271—LS 7085/DI 141
+
+4
+1 (b) The department shall initiate rulemaking to effectuate the
+2 provisions of this chapter not later than July 1, 2026.
+3 SECTION 6. IC 27-1-52 IS ADDED TO THE INDIANA CODE AS
+4 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+5 1, 2026]:
+6 Chapter 52. Downcoding of Health Benefits Claims
+7 Sec. 1. As used in this chapter, "covered individual" means an
+8 individual who is entitled to coverage under a health plan.
+9 Sec. 2. As used in this chapter, "downcoding" means the
+10 adjustment of a health benefits claim by an insurer to a less
+11 complex or lower price service for reimbursement to a provider in
+12 an amount less than the amount noted in the fully executed
+13 provider contract. The term includes the use of remittance advice
+14 remark codes.
+15 Sec. 3. As used in this chapter, "health benefits claim" means a
+16 claim submitted by a provider for payment under a health plan for
+17 health care services provided to a covered individual.
+18 Sec. 4. As used in this chapter, "health care service" means a
+19 service or good furnished for the purpose of preventing,
+20 alleviating, curing, or healing:
+21 (1) human illness;
+22 (2) physical disability; or
+23 (3) injury.
+24 Sec. 5. As used in this chapter, "health plan" means the
+25 following:
+26 (1) A policy of accident and sickness insurance (as defined in
+27 IC 27-8-5-1), but not including the coverages described in
+28 IC 27-8-5-2.5(a).
+29 (2) An individual contract (as defined in IC 27-13-1-21) or a
+30 group contract (as defined in IC 27-13-1-16) with a health
+31 maintenance organization (as defined in IC 27-13-1-19) that
+32 provides coverage for basic health care services (as defined in
+33 IC 27-13-1-4).
+34 Sec. 6. As used in this chapter, "insurer" means the following:
+35 (1) An insurer (as defined in IC 27-1-2-3(x)) that issues a
+36 policy of accident and sickness insurance (as defined in
+37 IC 27-8-5-1), but not including the coverages described in
+38 IC 27-8-5-2.5(a).
+39 (2) A health maintenance organization (as defined in
+40 IC 27-13-1-19) that provides coverage for basic health care
+41 services (as defined in IC 27-13-1-4) under an individual
+42 contract (as defined in IC 27-13-1-21) or a group contract (as
+2026 IN 1271—LS 7085/DI 141
+
+5
+1 defined in IC 27-13-1-16).
+2 Sec. 7. As used in this chapter, "provider" means an individual
+3 or entity licensed or legally authorized to provide health care
+4 services.
+5 Sec. 8. Notwithstanding any other law or regulation to the
+6 contrary, an insurer may not use downcoding in a manner that
+7 prevents a provider from:
+8 (1) submitting a health benefits claim for the actual health
+9 care service performed; and
+10 (2) collecting reimbursement from the insurer for the actual
+11 health care service performed.
+12 Sec. 9. The department shall adopt rules under IC 4-22-2 to
+13 carry out this chapter.
+14 SECTION 7. IC 27-8-5.7-0.5 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE JULY 1, 2026]: Sec. 0.5. Sections 6.7, 9.5, and 9.7 of
+17 this chapter, as added in the 2026 session of the general assembly,
+18 and section 10 of this chapter, as amended in the 2026 session of
+19 the general assembly, apply to an accident and sickness insurance
+20 policy that is issued, delivered, amended, or renewed after June 30,
+21 2026.
+22 SECTION 8. IC 27-8-5.7-2.7 IS ADDED TO THE INDIANA
+23 CODE AS A NEW SECTION TO READ AS FOLLOWS
+24 [EFFECTIVE JULY 1, 2026]: Sec. 2.7. As used in this chapter,
+25 "health provider facility" has the meaning set forth in
+26 IC 27-1-37-3.2.
+27 SECTION 9. IC 27-8-5.7-6.7 IS ADDED TO THE INDIANA
+28 CODE AS A NEW SECTION TO READ AS FOLLOWS
+29 [EFFECTIVE JULY 1, 2026]: Sec. 6.7. (a) An insurer may not
+30 retroactively reduce the reimbursement rate for any CPT code.
+31 (b) An insurer shall provide at least sixty (60) days written
+32 notice by:
+33 (1) mail or electronic mail to a provider; and
+34 (2) posting on the insurer's website;
+35 before implementing a rate reduction for any CPT code.
+36 SECTION 10. IC 27-8-5.7-9.5 IS ADDED TO THE INDIANA
+37 CODE AS A NEW SECTION TO READ AS FOLLOWS
+38 [EFFECTIVE JULY 1, 2026]: Sec. 9.5. (a) This section does not
+39 apply to the recoupment or refund of a payment made by an
+40 insurer to a health provider facility when an individual was
+41 transferred from one (1) health provider facility to another health
+42 provider facility.
+2026 IN 1271—LS 7085/DI 141
+
+6
+1 (b) Subject to section 10 of this chapter, an insurer may not seek
+2 recoupment or a refund of a payment made to a provider unless
+3 the recoupment or refund is for an overpayment that was caused
+4 by:
+5 (1) fraud;
+6 (2) an error in the coordination of benefits; or
+7 (3) duplicate payments.
+8 SECTION 11. IC 27-8-5.7-9.7 IS ADDED TO THE INDIANA
+9 CODE AS A NEW SECTION TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 9.7. (a) Subject to section 10 of
+11 this chapter, an insurer may not seek recoupment or a refund of a
+12 payment made to a health provider facility that provided initial
+13 health care services to an individual who was subsequently
+14 transferred to another health provider facility unless:
+15 (1) the insurer determines that the claim was submitted
+16 fraudulently; or
+17 (2) the:
+18 (A) individual was not entitled to coverage; or
+19 (B) health care services provided to the individual were not
+20 covered;
+21 at the time the health care services were rendered.
+22 (b) The limitation on seeking recoupment or refund of a
+23 payment made to a health provider facility under subsection (a)
+24 applies regardless of:
+25 (1) the reason for the transfer;
+26 (2) the type of facility receiving the individual; or
+27 (3) the acuity, age, or diagnosis of the individual.
+28 (c) Any recoupment or refund attempted in violation of this
+29 section is void and unenforceable.
+30 SECTION 12. IC 27-8-5.7-10, AS ADDED BY P.L.55-2006,
+31 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]: Sec. 10. (a) An insurer may not, more than two (2)
+33 years after the date on which an overpayment on a provider claim was
+34 made to the provider by the insurer:
+35 (1) request that the provider repay the overpayment; or
+36 (2) adjust a subsequent claim filed by the provider as a method of
+37 obtaining reimbursement of the overpayment from the provider.
+38 (a) An insurer may not retroactively audit a paid claim or seek
+39 recoupment or a refund of a paid claim more than:
+40 (1) one hundred eighty (180) days after the date on which the
+41 claim was initially paid; or
+42 (2) the same number of days that a provider is required to
+2026 IN 1271—LS 7085/DI 141
+
+7
+1 submit a claim to the insurer;
+2 whichever occurs first.
+3 (b) An insurer may not be required to correct a payment error to a
+4 provider more than two (2) years after the date on which a payment on
+5 a provider claim was made to the provider by the insurer. period
+6 described in subsection (a).
+7 (c) This section does not apply in cases of fraud by the provider, the
+8 insured, or the insurer with respect to the health benefits claim on
+9 which the overpayment or underpayment was made.
+10 SECTION 13. IC 27-13-36.2-0.5 IS ADDED TO THE INDIANA
+11 CODE AS A NEW SECTION TO READ AS FOLLOWS
+12 [EFFECTIVE JULY 1, 2026]: Sec. 0.5. Sections 4.7, 7.5, and 7.7 of
+13 this chapter, as added in the 2026 session of the general assembly,
+14 and section 8 of this chapter, as amended in the 2026 session of the
+15 general assembly, apply to an individual contract and a group
+16 contract that is entered into, delivered, amended, or renewed after
+17 June 30, 2026.
+18 SECTION 14. IC 27-13-36.2-2.3 IS ADDED TO THE INDIANA
+19 CODE AS A NEW SECTION TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 2.3. As used in this chapter,
+21 "health provider facility" has the meaning set forth in
+22 IC 27-1-37-3.2.
+23 SECTION 15. IC 27-13-36.2-4.7 IS ADDED TO THE INDIANA
+24 CODE AS A NEW SECTION TO READ AS FOLLOWS
+25 [EFFECTIVE JULY 1, 2026]: Sec. 4.7. (a) A health maintenance
+26 organization may not retroactively reduce the reimbursement rate
+27 for any CPT code (as defined in IC 27-1-37.5-3).
+28 (b) A health maintenance organization shall provide at least
+29 sixty (60) days notice by:
+30 (1) mail or electronic mail to a provider; and
+31 (2) posting on the health maintenance organization's website;
+32 before reducing the reimbursement rate for any CPT code (as
+33 defined in IC 27-1-37.5-3).
+34 SECTION 16. IC 27-13-36.2-7.5 IS ADDED TO THE INDIANA
+35 CODE AS A NEW SECTION TO READ AS FOLLOWS
+36 [EFFECTIVE JULY 1, 2026]: Sec. 7.5. (a) This section does not
+37 apply to the recoupment or refund of a payment made by a health
+38 maintenance organization to a health provider facility when an
+39 individual was transferred from one (1) health provider facility to
+40 another health provider facility.
+41 (b) Subject to section 10 of this chapter, a health maintenance
+42 organization may not seek recoupment or a refund of a payment
+2026 IN 1271—LS 7085/DI 141
+
+8
+1 made to a provider unless the recoupment or refund is for an
+2 overpayment that was caused by:
+3 (1) fraud;
+4 (2) an error in the coordination of benefits; or
+5 (3) duplicate payments.
+6 SECTION 17. IC 27-13-36.2-7.7 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 7.7. (a) Subject to section 10 of
+9 this chapter, a health maintenance organization may not seek
+10 recoupment or a refund of a payment made to a health provider
+11 facility that provided initial health care services to an individual
+12 who was subsequently transferred to another health provider
+13 facility unless:
+14 (1) the health maintenance organization determines that the
+15 claim was submitted fraudulently; or
+16 (2) the:
+17 (A) individual was not entitled to coverage; or
+18 (B) health care services provided to the individual were not
+19 covered;
+20 at the time the health care services were rendered.
+21 (b) The limitation on seeking recoupment or refund of a
+22 payment made to a health provider facility under subsection (a)
+23 applies regardless of:
+24 (1) the reason for the transfer;
+25 (2) the type of facility receiving the individual; or
+26 (3) the acuity, age, or diagnosis of the individual.
+27 (c) Any recoupment or refund attempted in violation of this
+28 section is void and unenforceable.
+29 SECTION 18. IC 27-13-36.2-8, AS ADDED BY P.L.55-2006,
+30 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 8. (a) A health maintenance organization may not,
+32 more than two (2) years after the date on which an overpayment on a
+33 provider claim was made to the provider by the health maintenance
+34 organization:
+35 (1) request that the provider repay the overpayment; or
+36 (2) adjust a subsequent claim filed by the provider as a method of
+37 obtaining reimbursement of the overpayment from the provider.
+38 (a) A health maintenance organization may not retroactively
+39 audit a paid claim or seek recoupment or a refund of a paid claim
+40 more than:
+41 (1) one hundred eighty (180) days after the date on which the
+42 claim was initially paid; or
+2026 IN 1271—LS 7085/DI 141
+
+9
+1 (2) the same number of days that a provider is required to
+2 submit a claim to the health maintenance organization;
+3 whichever occurs first.
+4 (b) A health maintenance organization may not be required to
+5 correct a payment error to a provider more than two (2) years after the
+6 date on which a payment on a provider claim was made to the provider
+7 by the health maintenance organization. period described in
+8 subsection (a).
+9 (c) This section does not apply in cases of fraud by the provider, the
+10 enrollee, or the health maintenance organization with respect to the
+11 health benefits claim on which the overpayment or underpayment was
+12 made.
+13 SECTION 19. An emergency is declared for this act.
+2026 IN 1271—LS 7085/DI 141
