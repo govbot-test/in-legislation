@@ -1,0 +1,486 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1201
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 25-1-23.5; IC 27-1; IC 27-8; IC 27-13.
+Synopsis: Various mental health and insurance matters. Prohibits the
+use of an artificial intelligence system to impersonate or act as a
+substitute for a licensed mental health professional. Requires the
+department of insurance to contract with an objective third party to
+verify that health carriers are in compliance with network adequacy
+standards. Sets forth notice requirements for an amendment to a health
+provider contract. Prohibits the use of downcoding in a specified
+manner. Requires an insurer and a health maintenance organization to
+reimburse providers of mental illness or substance abuse services at
+rates that are at least as favorable relative to Medicare rates as
+reimbursement rates are for providers of medical or surgical services
+relative to Medicare rates. Prohibits an insurer and a health
+maintenance organization from retroactively auditing a paid claim or
+seeking recoupment or a refund of a paid claim after a certain time
+frame. Sets forth a limitation on the amount that an insured or enrollee
+may be charged for receiving mental and behavioral care services from
+an out of network provider under certain circumstances.
+Effective: July 1, 2026.
+Rowray
+January 5, 2026, read first time and referred to Committee on Insurance.
+2026 IN 1201—LS 6817/DI 141
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1201
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 25-1-23.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 23.5. Use of Artificial Intelligence Systems
+5 Sec. 1. As used in this chapter, "artificial intelligence system"
+6 means a machine based system that, for explicit or implicit
+7 objectives, infers from the input it receives how to generate
+8 outputs, including:
+9 (1) predictions;
+10 (2) content;
+11 (3) recommendations; or
+12 (4) decisions;
+13 that can influence physical or virtual environments. The term
+14 includes generative artificial intelligence.
+15 Sec. 2. As used in this chapter, "board" means any of the
+16 following:
+17 (1) The behavioral health and human services licensing board.
+2026 IN 1201—LS 6817/DI 141
+
+2
+1 (2) The state psychology board.
+2 Sec. 3. As used in this chapter, "generative artificial
+3 intelligence" means an automated computing system that, when
+4 prompted with human prompts, descriptions, or queries, can
+5 produce outputs that simulate human product content, including:
+6 (1) textual outputs, such as short answers, essays, poetry, or
+7 longer compositions or answers;
+8 (2) image outputs, such as fine art, photographs, conceptual
+9 art, diagrams, and other images;
+10 (3) multimedia outputs, such as audio or video in the form of
+11 compositions, songs, or short-form or long-form audio or
+12 video; and
+13 (4) other content that would otherwise be produced by human
+14 means.
+15 Sec. 4. As used in this chapter, "licensed mental health
+16 professional" means an individual who holds an unlimited license
+17 to practice as any of the following in Indiana:
+18 (1) Any behavioral health and human services professional
+19 licensed under IC 25-23.6.
+20 (2) A psychologist licensed under IC 25-33.
+21 Sec. 5. A person or entity may not use an artificial intelligence
+22 system to:
+23 (1) impersonate; or
+24 (2) act as a substitute for;
+25 a licensed mental health professional during any interaction that
+26 is required to be performed by the licensed mental health
+27 professional.
+28 Sec. 6. A licensed mental health professional who violates this
+29 chapter is subject to disciplinary action under IC 25-1-9.
+30 Sec. 7. If a board finds that a person or an entity violates section
+31 5 of this chapter, the board may impose a civil penalty of not more
+32 than five thousand dollars ($5,000) per violation. Penalties
+33 collected under this section must be deposited in the state general
+34 fund.
+35 SECTION 2. IC 27-1-37-11, AS ADDED BY P.L.215-2025,
+36 SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 11. The department shall do the following:
+38 (1) Require health carriers to meet network adequacy standards
+39 that are no less stringent than the network adequacy standards
+40 established by the Centers for Medicare and Medicaid Services.
+41 (2) When assessing whether a health carrier has met the network
+42 adequacy standards, consider the availability and variety of
+2026 IN 1201—LS 6817/DI 141
+
+3
+1 independent specialty providers that provide services within in
+2 network provider facilities in the health carrier's network.
+3 (3) Contract with an objective third party to verify that health
+4 carriers are in compliance with the network adequacy
+5 standards.
+6 SECTION 3. IC 27-1-37.1-5 IS AMENDED TO READ AS
+7 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. A person who enters
+8 into a health provider contract with a provider shall provide written
+9 notice to the provider of any amendment to the health provider contract
+10 not less than forty-five (45) sixty (60) days before the proposed
+11 effective date of the amendment.
+12 SECTION 4. IC 27-1-37.1-5.5 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 5.5. Before an amendment to a
+15 health provider contract that:
+16 (1) makes a material change; or
+17 (2) reduces the reimbursement rate for any CPT code (as
+18 defined in IC 27-8-5.7-2.5);
+19 goes into effect, a person shall obtain the provider's approval of the
+20 amendment and the provider's signature.
+21 SECTION 5. IC 27-1-52.1 IS ADDED TO THE INDIANA CODE
+22 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2026]:
+24 Chapter 52.1. Downcoding of Health Benefits Claims
+25 Sec. 1. As used in this chapter, "covered individual" means an
+26 individual who is entitled to coverage under a health plan.
+27 Sec. 2. As used in this chapter, "downcoding" means the
+28 adjustment of a health benefits claim by an insurer to a less
+29 complex or lower cost service to reimburse a provider in an
+30 amount less than the required amount under the provider contract.
+31 The term includes the use of remark codes.
+32 Sec. 3. As used in this chapter, "health benefits claim" means a
+33 claim submitted by a provider for payment under a health plan for
+34 health care services provided to a covered individual.
+35 Sec. 4. As used in this chapter, "health plan" means the
+36 following:
+37 (1) A policy of accident and sickness insurance (as defined in
+38 IC 27-8-5-1), but not including the coverages described in
+39 IC 27-8-5-2.5(a).
+40 (2) An individual contract (as defined in IC 27-13-1-21) or a
+41 group contract (as defined in IC 27-13-1-16) with a health
+42 maintenance organization (as defined in IC 27-13-1-19) that
+2026 IN 1201—LS 6817/DI 141
+
+4
+1 provides coverage for basic health care services (as defined in
+2 IC 27-13-1-4).
+3 Sec. 5. As used in this chapter, "insurer" means the following:
+4 (1) An insurer (as defined in IC 27-1-2-3(x)) that issues a
+5 policy of accident and sickness insurance (as defined in
+6 IC 27-8-5-1), but not including the coverages described in
+7 IC 27-8-5-2.5(a).
+8 (2) A health maintenance organization (as defined in
+9 IC 27-13-1-19) that provides coverage for basic health care
+10 services (as defined in IC 27-13-1-4) under an individual
+11 contract (as defined in IC 27-13-1-21) or a group contract (as
+12 defined in IC 27-13-1-16).
+13 Sec. 6. As used in this chapter, "provider" means an individual
+14 or entity licensed or legally authorized to provide health care
+15 services.
+16 Sec. 7. Notwithstanding any other law or regulation to the
+17 contrary, an insurer may not use downcoding in a manner that
+18 prevents a provider from:
+19 (1) submitting a health benefits claim for the actual service
+20 performed; and
+21 (2) collecting reimbursement from the insurer for the actual
+22 service performed.
+23 Sec. 8. The department shall adopt rules under IC 4-22-2 to
+24 carry out this chapter.
+25 SECTION 6. IC 27-8-5-15.8, AS ADDED BY P.L.103-2020,
+26 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2026]: Sec. 15.8. (a) As used in this section, "treatment of a
+28 mental illness or substance abuse" means:
+29 (1) treatment for a mental illness, as defined in IC 12-7-2-130(1);
+30 and
+31 (2) treatment for drug abuse or alcohol abuse.
+32 (b) As used in this section, "act" refers to the Paul Wellstone and
+33 Pete Domenici Mental Health Parity and Addiction Act of 2008 and
+34 any amendments thereto, plus any federal guidance or regulations
+35 relevant to that act, including 45 CFR 146.136, 45 CFR 147.136, 45
+36 CFR 147.160, and 45 CFR 156.115(a)(3).
+37 (c) As used in this section, "nonquantitative treatment limitations"
+38 refers to those limitations described in 26 CFR 54.9812-1, 29 CFR
+39 2590.712, and 45 CFR 146.136.
+40 (d) An insurer that issues a policy of accident and sickness
+41 insurance that provides coverage of services for treatment of a mental
+42 illness or substance abuse shall submit a report to the department not
+2026 IN 1201—LS 6817/DI 141
+
+5
+1 later than December 31 of each year that contains the following
+2 information:
+3 (1) A description of the processes:
+4 (A) used to develop or select the medical necessity criteria for
+5 coverage of services for treatment of a mental illness or
+6 substance abuse; and
+7 (B) used to develop or select the medical necessity criteria for
+8 coverage of services for treatment of other medical or surgical
+9 conditions.
+10 (2) Identification of all nonquantitative treatment limitations that
+11 are applied to:
+12 (A) coverage of services for treatment of a mental illness or
+13 substance abuse; and
+14 (B) coverage of services for treatment of other medical or
+15 surgical conditions;
+16 within each classification of benefits.
+17 (3) The reimbursement rates for providers of mental illness or
+18 substance abuse services relative to Medicare rates and the
+19 reimbursement rates for providers of medical or surgical
+20 services relative to Medicare rates in the respective
+21 classification of benefits.
+22 (e) There may be no separate nonquantitative treatment limitations
+23 that apply to coverage of services for treatment of a mental illness or
+24 substance abuse that do not apply to coverage of services for treatment
+25 of other medical or surgical conditions within any classification of
+26 benefits.
+27 (f) An insurer that issues a policy of accident and sickness insurance
+28 that provides coverage of services for treatment of a mental illness or
+29 substance abuse shall also submit an analysis showing the insurer's
+30 compliance with this section and the act to the department not later
+31 than December 31 of each year. The analysis must do the following:
+32 (1) Identify the factors used to determine that a nonquantitative
+33 treatment limitation will apply to a benefit, including factors that
+34 were considered but rejected.
+35 (2) Identify and define the specific evidentiary standards used to
+36 define the factors and any other evidence relied upon in designing
+37 each nonquantitative treatment limitation.
+38 (3) Provide the comparative analyses, including the results of the
+39 analyses, performed to determine the following:
+40 (A) That the processes and strategies used to design each
+41 nonquantitative treatment limitation for coverage of services
+42 for treatment of a mental illness or substance abuse are
+2026 IN 1201—LS 6817/DI 141
+
+6
+1 comparable to, and applied no more stringently than, the
+2 processes and strategies used to design each nonquantitative
+3 treatment limitation for coverage of services for treatment of
+4 other medical or surgical conditions.
+5 (B) That the processes and strategies used to apply each
+6 nonquantitative treatment limitation for treatment of a mental
+7 illness or substance abuse are comparable to, and applied no
+8 more stringently than, the processes and strategies used to
+9 apply each nonquantitative limitation for treatment of other
+10 medical or surgical conditions.
+11 (g) This subsection applies to a policy of accident and sickness
+12 insurance that is issued, delivered, amended, or renewed after June
+13 30, 2026. An insurer that issues a policy of accident and sickness
+14 insurance that provides coverage of services for treatment of a
+15 mental illness or substance abuse shall reimburse providers of
+16 mental illness or substance abuse services at rates that are at least
+17 as favorable relative to Medicare rates as reimbursement rates are
+18 for providers of medical or surgical services relative to Medicare
+19 rates in the respective classification of benefits.
+20 (g) (h) The department shall adopt rules to ensure compliance with
+21 this section and the applicable provisions of the act.
+22 SECTION 7. IC 27-8-5.7-0.5 IS ADDED TO THE INDIANA
+23 CODE AS A NEW SECTION TO READ AS FOLLOWS
+24 [EFFECTIVE JULY 1, 2026]: Sec. 0.5. Section 6.7 of this chapter, as
+25 added in the 2026 session of the general assembly, and section 10
+26 of this chapter, as amended in the 2026 session of the general
+27 assembly, apply to an accident and sickness insurance policy that
+28 is issued, delivered, amended, or renewed after June 30, 2026.
+29 SECTION 8. IC 27-8-5.7-6.7 IS ADDED TO THE INDIANA
+30 CODE AS A NEW SECTION TO READ AS FOLLOWS
+31 [EFFECTIVE JULY 1, 2026]: Sec. 6.7. (a) An insurer may not
+32 retroactively reduce the reimbursement rate for any CPT code.
+33 (b) An insurer:
+34 (1) shall provide at least sixty (60) days notice to a provider;
+35 and
+36 (2) must obtain the approval and signature of a provider in
+37 accordance with IC 27-1-37.1-5.5;
+38 before implementing a rate reduction for any CPT code.
+39 SECTION 9. IC 27-8-5.7-10, AS ADDED BY P.L.55-2006,
+40 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2026]: Sec. 10. (a) An insurer may not, more than two (2)
+42 years after the date on which an overpayment on a provider claim was
+2026 IN 1201—LS 6817/DI 141
+
+7
+1 made to the provider by the insurer:
+2 (1) request that the provider repay the overpayment; or
+3 (2) adjust a subsequent claim filed by the provider as a method of
+4 obtaining reimbursement of the overpayment from the provider.
+5 (a) An insurer may not retroactively audit a paid claim or seek
+6 recoupment or a refund of a paid claim more than:
+7 (1) one hundred eighty (180) days after the date on which the
+8 claim was initially paid; or
+9 (2) the same number of days that a provider is required to
+10 submit a claim to the insurer;
+11 whichever occurs first.
+12 (b) An insurer may not be required to correct a payment error to a
+13 provider more than two (2) years after the date on which a payment on
+14 a provider claim was made to the provider by the insurer. period
+15 described in subsection (a).
+16 (c) This section does not apply in cases of fraud by the provider, the
+17 insured, or the insurer with respect to the claim on which the
+18 overpayment or underpayment was made.
+19 SECTION 10. IC 27-8-11-15 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE JULY 1, 2026]: Sec. 15. (a) This section applies if:
+22 (1) an insurer provides coverage for mental and behavioral
+23 care services;
+24 (2) network access to the mental and behavioral care services
+25 does not meet reasonable appointment wait time standards;
+26 and
+27 (3) the insured receives care from an out of network provider.
+28 (b) The insured's treating provider may collect from the insured
+29 only the deductible or copayment, if any, that the insured would be
+30 responsible to pay if the mental and behavioral care services had
+31 been provided by a provider with which the insurer has entered
+32 into an agreement under section 3 of this chapter.
+33 (c) The insured may not be billed by the insurer or by the out of
+34 network provider for any difference between the out of network
+35 provider's charge and the amount paid by the insurer to the out of
+36 network provider.
+37 SECTION 11. IC 27-13-7-14.2, AS ADDED BY P.L.103-2020,
+38 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 14.2. (a) As used in this section, "treatment of a
+40 mental illness or substance abuse" means:
+41 (1) treatment for a mental illness, as defined in IC 12-7-2-130(1);
+42 and
+2026 IN 1201—LS 6817/DI 141
+
+8
+1 (2) treatment for drug abuse or alcohol abuse.
+2 (b) As used in this section, "act" refers to the Paul Wellstone and
+3 Pete Domenici Mental Health Parity and Addiction Act of 2008 and
+4 any amendments thereto, plus any federal guidance or regulations
+5 relevant to that act, including 45 CFR 146.136, 45 CFR 147.136, 45
+6 CFR 147.160, and 45 CFR 156.115(a)(3).
+7 (c) As used in this section, "nonquantitative treatment limitations"
+8 refers to those limitations described in 26 CFR 54.9812-1, 29 CFR
+9 2590.712, and 45 CFR 146.136.
+10 (d) An individual contract or a group contract that provides
+11 coverage of services for treatment of a mental illness or substance
+12 abuse shall submit a report to the department not later than December
+13 31 of each year that contains the following information:
+14 (1) A description of the processes:
+15 (A) used to develop or select the medical necessity criteria for
+16 coverage of services for treatment of a mental illness or
+17 substance abuse; and
+18 (B) used to develop or select the medical necessity criteria for
+19 coverage of services for treatment of other medical or surgical
+20 conditions.
+21 (2) Identification of all nonquantitative treatment limitations that
+22 are applied to:
+23 (A) coverage of services for treatment of a mental illness or
+24 substance abuse; and
+25 (B) coverage of services for treatment of other medical or
+26 surgical conditions;
+27 within each classification of benefits.
+28 (3) The reimbursement rates for providers of mental illness or
+29 substance abuse services relative to Medicare rates and the
+30 reimbursement rates for providers of medical or surgical
+31 services relative to Medicare rates in the respective
+32 classification of benefits.
+33 (e) There may be no separate nonquantitative treatment limitations
+34 that apply to coverage of services for treatment of a mental illness or
+35 substance abuse that do not apply to coverage of services for treatment
+36 of other medical or surgical conditions within any classification of
+37 benefits.
+38 (f) An individual contract or a group contract that provides coverage
+39 of services for treatment of a mental illness or substance abuse shall
+40 also submit an analysis showing the insurer's compliance with this
+41 section and the act to the department not later than December 31 of
+42 each year. The analysis must do the following:
+2026 IN 1201—LS 6817/DI 141
+
+9
+1 (1) Identify the factors used to determine that a nonquantitative
+2 treatment limitation will apply to a benefit, including factors that
+3 were considered but rejected.
+4 (2) Identify and define the specific evidentiary standards used to
+5 define the factors and any other evidence relied upon in designing
+6 each nonquantitative treatment limitation.
+7 (3) Provide the comparative analyses, including the results of the
+8 analyses, performed to determine the following:
+9 (A) That the processes and strategies used to design each
+10 nonquantitative treatment limitation for coverage of services
+11 for treatment of a mental illness or substance abuse are
+12 comparable to, and applied no more stringently than, the
+13 processes and strategies used to design each nonquantitative
+14 treatment limitation for coverage of services for treatment of
+15 other medical or surgical conditions.
+16 (B) That the processes and strategies used to apply each
+17 nonquantitative treatment limitation for treatment of a mental
+18 illness or substance abuse are comparable to, and applied no
+19 more stringently than, the processes and strategies used to
+20 apply each nonquantitative limitation for treatment of other
+21 medical or surgical conditions.
+22 (g) This subsection applies to an individual contract or a group
+23 contract that is entered into, delivered, amended, or renewed after
+24 June 30, 2026. An individual contract or a group contract that
+25 provides coverage of services for treatment of a mental illness or
+26 substance abuse shall reimburse providers of mental illness or
+27 substance abuse services at rates that are at least as favorable
+28 relative to Medicare rates as reimbursement rates are for
+29 providers of medical or surgical services relative to Medicare rates
+30 in the respective classification of benefits.
+31 (g) (h) The department shall adopt rules to ensure compliance with
+32 this section and the applicable provisions of the act.
+33 SECTION 12. IC 27-13-36-5.5 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 5.5. (a) This section applies if:
+36 (1) a health maintenance organization provides coverage for
+37 mental and behavioral care services;
+38 (2) network access to the mental and behavioral care services
+39 does not meet reasonable appointment wait time standards;
+40 and
+41 (3) the enrollee receives care from an out of network provider.
+42 (b) The enrollee's treating provider may collect from the
+2026 IN 1201—LS 6817/DI 141
+
+10
+1 enrollee only the deductible or copayment, if any, that the enrollee
+2 would be responsible to pay if the mental and behavioral care
+3 services had been provided by a participating provider.
+4 (c) The enrollee may not be billed by the health maintenance
+5 organization or by the out of network provider for any difference
+6 between the out of network provider's charge and the amount paid
+7 by the health maintenance organization to the out of network
+8 provider.
+9 SECTION 13. IC 27-13-36.2-0.5 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE JULY 1, 2026]: Sec. 0.5. Section 4.7 of this chapter, as
+12 added in the 2026 session of the general assembly, and section 8 of
+13 this chapter, as amended in the 2026 session of the general
+14 assembly, apply to an individual contract and a group contract that
+15 is entered into, delivered, amended, or renewed after June 30,
+16 2026.
+17 SECTION 14. IC 27-13-36.2-4.7 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2026]: Sec. 4.7. (a) A health maintenance
+20 organization may not retroactively reduce the reimbursement rate
+21 for any CPT code (as defined in IC 27-1-37.5-3).
+22 (b) A health maintenance organization:
+23 (1) shall provide at least sixty (60) days notice to a provider;
+24 and
+25 (2) must obtain the approval and signature of a provider in
+26 accordance with IC 27-1-37.1-5.5;
+27 before reducing the reimbursement rate for any CPT code (as
+28 defined in IC 27-1-37.5-3).
+29 SECTION 15. IC 27-13-36.2-8, AS ADDED BY P.L.55-2006,
+30 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 8. (a) A health maintenance organization may not,
+32 more than two (2) years after the date on which an overpayment on a
+33 provider claim was made to the provider by the health maintenance
+34 organization:
+35 (1) request that the provider repay the overpayment; or
+36 (2) adjust a subsequent claim filed by the provider as a method of
+37 obtaining reimbursement of the overpayment from the provider.
+38 (a) A health maintenance organization may not retroactively
+39 audit a paid claim or seek recoupment or a refund of a paid claim
+40 more than:
+41 (1) one hundred eighty (180) days after the date on which the
+42 claim was initially paid; or
+2026 IN 1201—LS 6817/DI 141
+
+11
+1 (2) the same number of days that a provider is required to
+2 submit a claim to the health maintenance organization;
+3 whichever occurs first.
+4 (b) A health maintenance organization may not be required to
+5 correct a payment error to a provider more than two (2) years after the
+6 date on which a payment on a provider claim was made to the provider
+7 by the health maintenance organization. period described in
+8 subsection (a).
+9 (c) This section does not apply in cases of fraud by the provider, the
+10 enrollee, or the health maintenance organization with respect to the
+11 claim on which the overpayment or underpayment was made.
+2026 IN 1201—LS 6817/DI 141

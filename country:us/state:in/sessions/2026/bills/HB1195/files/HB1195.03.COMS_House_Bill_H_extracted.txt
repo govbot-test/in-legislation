@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+*EH1195.1*
+February 13, 2026
+ENGROSSED
+HOUSE BILL No. 1195
+_____
+DIGEST OF HB 1195 (Updated February 11, 2026 3:59 pm - DI 140)
+Citations Affected: IC 20-26; IC 20-30; IC 22-4.1.
+Synopsis: High school equivalency programs. Amends Indiana high
+school equivalency diploma program eligibility requirements for
+individuals under 18 years of age. Changes the expiration date of the
+high school equivalency pilot program from June 30, 2026, to June 30,
+2028. Makes conforming changes.
+Effective: June 29, 2026; July 1, 2026.
+Davis, Ireland, Smith H, Cash
+(SENATE SPONSORS — RAATZ, BYRNE)
+January 5, 2026, read first time and referred to Committee on Education.
+January 15, 2026, reported — Do Pass.
+January 20, 2026, read second time, ordered engrossed.
+January 21, 2026, engrossed.
+January 22, 2026, read third time, passed. Yeas 90, nays 0.
+SENATE ACTION
+January 27, 2026, read first time and referred to Committee on Education and Career
+Development.
+February 12, 2026, reported favorably — Do Pass.
+EH 1195—LS 6589/DI 110
+
+February 13, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1195
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 20-26-13-10, AS AMENDED BY P.L.1-2025,
+2 SECTION 190, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JUNE 29, 2026]: Sec. 10. (a) Except as provided in
+4 section 11 of this chapter and subject to IC 20-31-8-4.6 and
+5 IC 20-32-4-14, the four (4) year graduation rate for a cohort in a high
+6 school is the percentage determined under STEP FIVE of the following
+7 formula:
+8 STEP ONE: Determine the grade 9 enrollment at the beginning of
+9 the reporting year three (3) years before the reporting year for
+10 which the graduation rate is being determined.
+11 STEP TWO: Add:
+12 (A) the number determined under STEP ONE; and
+13 (B) the number of students who:
+14 (i) have enrolled in the high school after the date on which
+15 the number determined under STEP ONE was determined;
+16 and
+17 (ii) have the same expected graduation year as the cohort.
+EH 1195—LS 6589/DI 110
+
+2
+1 STEP THREE: Subtract from the sum determined under STEP
+2 TWO the number of students who have left the cohort for any of
+3 the following reasons:
+4 (A) Transfer to another public or nonpublic school.
+5 (B) Except as provided in IC 20-33-2-28.6 and subsection (b),
+6 removal by the student's parents under IC 20-33-2-28 to
+7 provide instruction equivalent to that given in the public
+8 schools.
+9 (C) Withdrawal because of a long term medical condition or
+10 death.
+11 (D) Detention by a law enforcement agency or the department
+12 of correction.
+13 (E) Placement by a court order or the department of child
+14 services.
+15 (F) Enrollment in a virtual school.
+16 (G) Leaving school, if the student attended school in Indiana
+17 for less than one (1) school year and the location of the student
+18 cannot be determined.
+19 (H) Leaving school, if the location of the student cannot be
+20 determined and the student has been reported to the Indiana
+21 clearinghouse for information on missing children, missing
+22 veterans at risk, and missing endangered adults.
+23 (I) Withdrawing from school before graduation, if the student
+24 is a high ability student (as defined in IC 20-36-1-3) who is a
+25 full-time student at an accredited institution of higher
+26 education during the semester in which the cohort graduates.
+27 (J) Withdrawing from school before graduation pursuant to
+28 providing notice of withdrawal under section 17 of this
+29 chapter.
+30 (K) Participating in the high school equivalency pilot program
+31 under IC 20-30-8.5, unless the student fails to successfully
+32 complete the high school equivalency pilot program in the two
+33 (2) year period. This clause expires June 30, 2026. 2028.
+34 STEP FOUR: Determine the result of:
+35 (A) the total number of students determined under STEP TWO
+36 who have graduated during the current reporting year or a
+37 previous reporting year; minus
+38 (B) the amount by which the number of students who
+39 graduated through a waiver process required under IC 20-32-3
+40 through IC 20-32-5.1 exceeds:
+41 (i) nine percent (9%) of the total number of students
+42 determined under clause (A) for the 2023-2024 school year;
+EH 1195—LS 6589/DI 110
+
+3
+1 (ii) six percent (6%) of the total number of students
+2 determined under clause (A) for the 2024-2025 school year;
+3 or
+4 (iii) three percent (3%) of the total number of students
+5 determined under clause (A) for each school year after June
+6 30, 2025.
+7 STEP FIVE: Divide:
+8 (A) the number determined under STEP FOUR; by
+9 (B) the remainder determined under STEP THREE.
+10 (b) This subsection applies to a high school in which:
+11 (1) for a:
+12 (A) cohort of one hundred (100) students or less, at least ten
+13 percent (10%) of the students left a particular cohort for a
+14 reason described in subsection (a) STEP THREE clause (B);
+15 or
+16 (B) cohort of more than one hundred (100) students, at least
+17 five percent (5%) of the students left a particular cohort for a
+18 reason described in subsection (a) STEP THREE clause (B);
+19 and
+20 (2) the students described in subdivision (1)(A) or (1)(B) are not
+21 on track to graduate with their cohort.
+22 A high school must submit a request to the state board in a manner
+23 prescribed by the state board requesting that the students described in
+24 this subsection be included in the subsection (a) STEP THREE
+25 calculation. The state board shall review the request and may grant or
+26 deny the request. The state board shall deny the request unless the high
+27 school demonstrates good cause to justify that the students described
+28 in this subsection should be included in the subsection (a) STEP
+29 THREE calculation. If the state board denies the request the high
+30 school may not subtract the students described in this subsection under
+31 subsection (a) STEP THREE.
+32 SECTION 2. IC 20-26-13-16.5, AS AMENDED BY P.L.150-2024,
+33 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JUNE 29, 2026]: Sec. 16.5. (a) A student must be subtracted under
+35 clause (K) of STEP THREE of section 10(a) of this chapter when a
+36 student transitions from a traditional high school to the high school
+37 equivalency pilot program under IC 20-30-8.5.
+38 (b) This section expires June 30, 2026. 2028.
+39 SECTION 3. IC 20-30-8.5-13, AS AMENDED BY P.L.150-2024,
+40 SECTION 34, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JUNE 29, 2026]: Sec. 13. This chapter expires June 30, 2026. 2028.
+42 SECTION 4. IC 22-4.1-18-1, AS AMENDED BY P.L.150-2024,
+EH 1195—LS 6589/DI 110
+
+4
+1 SECTION 79, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 1. This chapter applies to an individual who is:
+3 (1) at least eighteen (18) years of age; or
+4 (2) less than eighteen (18) years of age and meets the following
+5 requirements:
+6 (A) The individual has completed:
+7 (i) the Indiana career explorer program; and
+8 (ii) an assessment approved by the department that
+9 measures Indiana high school equivalency test readiness.
+10 (B) The individual has received a written recommendation
+11 from at least one (1) of the following, as applicable:
+12 (A) (i) The individual's parent if the individual attends a
+13 nonaccredited nonpublic school that has less than one (1)
+14 employee.
+15 (B) (ii) The superintendent (as defined in IC 20-18-2-21),
+16 principal, or head of the school the individual attends, or the
+17 appropriate designee, if the individual attends a school that
+18 employs more than one (1) employee.
+19 (C) (iii) A judge (as defined in IC 31-9-2-68).
+20 SECTION 5. An emergency is declared for this act.
+EH 1195—LS 6589/DI 110
+
+5
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Education, to which was referred
+House Bill 1195, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill do pass.
+(Reference is to HB 1195 as introduced.)
+BEHNING
+Committee Vote: Yeas 11, Nays 0
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Education and Career
+Development, to which was referred House Bill No. 1195, has had the
+same under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill DO PASS.
+(Reference is to HB 1195 as printed January 15, 2026.)
+RAATZ, Chairperson
+Committee Vote: Yeas 13, Nays 0
+EH 1195—LS 6589/DI 110

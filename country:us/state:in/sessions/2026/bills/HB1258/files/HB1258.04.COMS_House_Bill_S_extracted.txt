@@ -1,0 +1,1894 @@
+Title: 
+Official Title: 
+Source: versions - House Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+*EH1258.1*
+February 13, 2026
+ENGROSSED
+HOUSE BILL No. 1258
+_____
+DIGEST OF HB 1258 (Updated February 10, 2026 1:15 pm - DI 106)
+Citations Affected: IC 1-1; IC 2-8.2; IC 11-13; IC 16-27; IC 16-28;
+IC 16-31; IC 25-1; IC 25-23.6; IC 27-10; IC 33-23; IC 35-31.5;
+IC 35-33; IC 35-38; IC 35-40; IC 35-50; IC 36-1; IC 36-8.
+Synopsis: Crimes of violence. Revises and consolidates the definition
+of "crime of violence". Amends the definition of violent offender to
+mean a person who is convicted of an offense or attempted offense that
+is a crime of violence or a person who is charged with an offense or
+attempted offense that is a crime of violence. Amends the definition of
+"violent arrestee" to mean a person arrested for or charged with a crime
+of violence that is a Level 1 felony, Level 2 felony, Level 3 felony,
+Level 4 felony, or a Level 5 felony. Removes provisions concerning
+repeat violent arrestees. Amends the definition of "violent criminal" to
+mean a person convicted of a crime of violence. Adds: (1) dangerous
+possession of a firearm by a child with two priors; and (2) unlawful
+carrying of a handgun with two priors; to the crimes of violence list.
+Makes a technical correction and conforming changes.
+Effective: July 1, 2026.
+Jeter, King, Carbaugh, Porter
+(SENATE SPONSOR — FREEMAN)
+January 5, 2026, read first time and referred to Committee on Courts and Criminal Code.
+January 14, 2026, reported — Do Pass.
+January 22, 2026, read second time, amended, ordered engrossed.
+January 23, 2026, engrossed.
+January 28, 2026, read third time, passed. Yeas 91, nays 0.
+SENATE ACTION
+February 2, 2026, read first time and referred to Committee on Corrections and Criminal
+Law.
+February 12, 2026, amended, reported favorably — Do Pass.
+EH 1258—LS 6822/DI 151
+
+February 13, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1258
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 1-1-2-2.5, AS ADDED BY P.L.142-2020,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 2.5. (a) This section applies to every crime in
+4 which proof that a person has a prior conviction or judgment for an
+5 infraction increases:
+6 (1) the class or level of the crime;
+7 (2) the penalty for the crime from a misdemeanor to a felony; or
+8 (3) the penalty for an infraction to a misdemeanor or felony.
+9 (b) This section does not apply to a sentencing provision that
+10 increases the penalty that may be imposed for an infraction or crime
+11 but does not increase:
+12 (1) the class or level of the crime;
+13 (2) the penalty for the crime from a misdemeanor to a felony; or
+14 (3) the penalty for an infraction to a misdemeanor or felony;
+15 including IC 35-50-2-8 (habitual offenders), IC 35-50-2-9 (death
+16 penalty sentencing), IC 9-30-15.5 (habitual vehicular substance
+17 offender), and IC 35-50-2-14 (repeat sexual offender).
+EH 1258—LS 6822/DI 151
+
+2
+1 (c) This section does not apply to a crime that contains a specific
+2 lookback period for a prior conviction or judgment for an infraction.
+3 (d) Subject to subsection (e), and except as provided in subsection
+4 (f), a prior conviction or a prior judgment for an infraction increases the
+5 class or level of the crime, the penalty for the crime from a
+6 misdemeanor to a felony, or the penalty for an infraction to a
+7 misdemeanor or felony only if the current crime was committed not
+8 later than twelve (12) years from the date the defendant was:
+9 (1) convicted of the prior crime, if the defendant was not
+10 sentenced to a term of incarceration or probation;
+11 (2) adjudicated to have committed the infraction; or
+12 (3) released from a term of incarceration, probation, or parole
+13 (whichever occurs later) imposed for the prior conviction;
+14 whichever occurred last.
+15 (e) If a crime described in subsection (a) requires proof of more than
+16 one (1) criminal conviction or judgment for an infraction, the increased
+17 penalty applies only if the current crime was committed not later than
+18 twelve (12) years from the date the defendant was:
+19 (1) convicted of one (1) of the prior crimes, if the person was not
+20 sentenced to a term of incarceration or probation;
+21 (2) adjudicated to have committed one (1) of the infractions; or
+22 (3) released from a term of incarceration, probation, or parole
+23 (whichever occurs later) imposed for one (1) of the prior
+24 convictions;
+25 whichever occurred last.
+26 (f) This section does not apply if the crime described in subsection
+27 (a) is one (1) or more of the following:
+28 (1) A crime of violence (as defined by IC 35-50-1-2).
+29 IC 35-31.5-2-79).
+30 (2) A crime that results in bodily injury or death to a victim.
+31 (3) A sex offense (as defined by IC 11-8-8-5.2).
+32 (4) Domestic battery (IC 35-42-2-1.3).
+33 (5) Strangulation (IC 35-42-2-9).
+34 (6) Operating while intoxicated with a prior conviction for
+35 operating while intoxicated that resulted in death, serious bodily
+36 injury, or catastrophic injury (IC 9-30-5-3(b)).
+37 (7) Dealing in cocaine or a narcotic drug (IC 35-48-4-1).
+38 (8) Dealing in methamphetamine (IC 35-48-4-1.1).
+39 (9) Manufacturing methamphetamine (IC 35-48-4-1.2).
+40 (10) Dealing in a schedule I, II, or III controlled substance
+41 (IC 35-48-4-2).
+42 (g) If there is a conflict between a provision in this section and
+EH 1258—LS 6822/DI 151
+
+3
+1 another provision of the Indiana Code, this section controls.
+2 SECTION 2. IC 2-8.2-2-5.5, AS ADDED BY P.L.41-2025,
+3 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+4 JULY 1, 2026]: Sec. 5.5. "Crime of moral turpitude" means the
+5 following:
+6 (1) A crime of violence as defined in IC 35-50-1-2.
+7 IC 35-31.5-2-79.
+8 (2) A sex offense as defined in IC 11-8-8-5.2.
+9 (3) A crime involving fraud or a false statement.
+10 SECTION 3. IC 11-13-3-3, AS AMENDED BY P.L.55-2017,
+11 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 3. (a) A person sentenced under IC 35-50 shall be
+13 released on parole or discharged from the person's term of
+14 imprisonment under IC 35-50 without a parole release hearing.
+15 (b) A person sentenced for an offense under laws other than
+16 IC 35-50 who is eligible for release on parole, or a person whose parole
+17 is revoked and is eligible for reinstatement on parole under rules
+18 adopted by the parole board shall, before the date of the person's parole
+19 eligibility, be granted a parole release hearing to determine whether
+20 parole will be granted or denied. The hearing shall be conducted by one
+21 (1) or more of the parole board members. If one (1) or more of the
+22 members conduct the hearing on behalf of the parole board, the final
+23 decision shall be rendered by the full parole board based upon the
+24 record of the proceeding and the hearing conductor's findings. Before
+25 the hearing, the parole board shall order an investigation to include the
+26 collection and consideration of:
+27 (1) reports regarding the person's medical, psychological,
+28 educational, vocational, employment, economic, and social
+29 condition and history;
+30 (2) official reports of the person's history of criminality;
+31 (3) reports of earlier parole or probation experiences;
+32 (4) reports concerning the person's present commitment that are
+33 relevant to the parole release determination;
+34 (5) any relevant information submitted by or on behalf of the
+35 person being considered; and
+36 (6) such other relevant information concerning the person as may
+37 be reasonably available.
+38 (c) Unless the victim has requested in writing not to be notified, the
+39 department shall notify a victim of a felony (or the next of kin of the
+40 victim if the felony resulted in the death of the victim) or any witness
+41 involved in the prosecution of an offender imprisoned for the
+42 commission of a felony when the offender is:
+EH 1258—LS 6822/DI 151
+
+4
+1 (1) to be discharged from imprisonment;
+2 (2) to be released on parole under IC 35-50-6-1;
+3 (3) to have a parole release hearing under this chapter;
+4 (4) to have a parole violation hearing;
+5 (5) an escaped committed offender; or
+6 (6) to be released from departmental custody under any temporary
+7 release program administered by the department, including the
+8 following:
+9 (A) Placement on minimum security assignment to a program
+10 authorized by IC 11-10-1-3 or IC 35-38-3-6 and requiring
+11 periodic reporting to a designated official, including a
+12 regulated community assignment program.
+13 (B) Assignment to a minimum security work release program.
+14 (d) The department shall make the notification required under
+15 subsection (c):
+16 (1) not later than twenty-four (24) hours after the escape of a
+17 committed offender;
+18 (2) at least forty (40) days before:
+19 (A) the discharge or release of a committed offender; or
+20 (B) the date of a hearing concerning a committed offender's
+21 possible discharge or release; and
+22 (3) if the date of a committed offender's discharge or release as
+23 referred to in subdivision (2)(A) is changed during the forty (40)
+24 day notification period referred to in subdivision (2), as soon as
+25 possible but not more than forty-eight (48) hours after the change
+26 in the discharge or release date.
+27 The department shall supply the information to a victim (or a next of
+28 kin of a victim in the appropriate case) and a witness at the address
+29 supplied to the department by the victim (or next of kin) or witness. A
+30 victim (or next of kin) is responsible for supplying the department with
+31 any change of address or telephone number of the victim (or next of
+32 kin).
+33 (e) The probation officer conducting the presentence investigation
+34 shall inform the victim and witness described in subsection (c), at the
+35 time of the interview with the victim or witness, of the right of the
+36 victim or witness to receive notification from the department under
+37 subsection (c). The probation department for the sentencing court shall
+38 forward the most recent list of the addresses or telephone numbers, or
+39 both, of victims to the department of correction. The probation
+40 department shall supply the department with the information required
+41 by this section as soon as possible but not later than five (5) days from
+42 the receipt of the information from the victim. A victim (or next of kin)
+EH 1258—LS 6822/DI 151
+
+5
+1 is responsible for supplying the department with the correct address
+2 and telephone number of the victim (or next of kin).
+3 (f) Notwithstanding IC 11-8-5-2 and IC 4-1-6, an inmate may not
+4 have access to the name and address of a victim and a witness. Upon
+5 the filing of a motion by any person requesting or objecting to the
+6 release of victim information, witness information, or both that is
+7 retained by the department, the court shall review the information that
+8 is the subject of the motion in camera before ruling on the motion.
+9 (g) The notice required under subsection (c) must specify whether
+10 the prisoner is being discharged, is being released on parole, is being
+11 released on lifetime parole, is having a parole release hearing, is having
+12 a parole violation hearing, or has escaped. The notice must contain the
+13 following information:
+14 (1) The name of the prisoner.
+15 (2) The date of the offense.
+16 (3) The date of the conviction.
+17 (4) The felony of which the prisoner was convicted.
+18 (5) The sentence imposed.
+19 (6) The amount of time served.
+20 (7) The date and location of the interview (if applicable).
+21 (h) The parole board shall adopt rules under IC 4-22-2 and make
+22 available to offenders the criteria considered in making parole release
+23 determinations. The criteria must include the:
+24 (1) nature and circumstances of the crime for which the offender
+25 is committed;
+26 (2) offender's prior criminal record;
+27 (3) offender's conduct and attitude during the commitment; and
+28 (4) offender's parole plan.
+29 (i) The hearing prescribed by this section may be conducted in an
+30 informal manner without regard to rules of evidence. In connection
+31 with the hearing, however:
+32 (1) reasonable, advance written notice, including the date, time,
+33 and place of the hearing shall be provided to the person being
+34 considered;
+35 (2) the person being considered shall be given access, in accord
+36 with IC 11-8-5, to records and reports considered by the parole
+37 board in making its parole release decision;
+38 (3) the person being considered may appear, speak in the person's
+39 own behalf, and present documentary evidence;
+40 (4) irrelevant, immaterial, or unduly repetitious evidence shall be
+41 excluded; and
+42 (5) a record of the proceeding, to include the results of the parole
+EH 1258—LS 6822/DI 151
+
+6
+1 board's investigation, notice of the hearing, and evidence adduced
+2 at the hearing, shall be made and preserved.
+3 (j) If parole is denied, the parole board shall give the person written
+4 notice of the denial and the reasons for the denial. The parole board
+5 may not parole a person if it determines that there is substantial reason
+6 to believe that the person:
+7 (1) will engage in further specified criminal activity; or
+8 (2) will not conform to appropriate specified conditions of parole.
+9 (k) If parole is denied, the parole board shall conduct another parole
+10 release hearing not earlier than five (5) years after the date of the
+11 hearing at which parole was denied. However, the board may conduct
+12 a hearing earlier than five (5) years after denial of parole if the board:
+13 (1) finds that special circumstances exist for the holding of a
+14 hearing; and
+15 (2) gives reasonable notice to the person being considered for
+16 parole.
+17 (l) The parole board may parole a person who is outside Indiana on
+18 a record made by the appropriate authorities of the jurisdiction in
+19 which that person is imprisoned.
+20 (m) If the board is considering the release on parole of an offender
+21 who is serving a sentence of life in prison, a determinate term of
+22 imprisonment of at least ten (10) years, or an indeterminate term of
+23 imprisonment with a minimum term of at least ten (10) years, in
+24 addition to the investigation required under subsection (b), except as
+25 provided in subsection (n), the board may order and consider a
+26 community investigation, which may include an investigation and
+27 report that substantially reflects the attitudes and opinions of:
+28 (1) the community in which the crime committed by the offender
+29 occurred;
+30 (2) law enforcement officers who have jurisdiction in the
+31 community in which the crime occurred;
+32 (3) the victim of the crime committed by the offender, or if the
+33 victim is deceased or incompetent for any reason, the victim's
+34 relatives or friends; and
+35 (4) friends or relatives of the offender.
+36 If the board reconsiders for release on parole an offender who was
+37 previously released on parole and whose parole was revoked under
+38 section 10 of this chapter, the board may use a community investigation
+39 prepared for an earlier parole hearing to comply with this subsection.
+40 However, the board shall accept and consider any supplements or
+41 amendments to any previous statements from the victim or the victim's
+42 relatives or friends.
+EH 1258—LS 6822/DI 151
+
+7
+1 (n) The board shall conduct the community investigation described
+2 in subsection (m) if:
+3 (1) the person was convicted of a crime of violence (as defined in
+4 IC 35-50-1-2); IC 35-31.5-2-79); or
+5 (2) the person is a sex offender (as defined in IC 11-8-8-4.5).
+6 (o) As used in this section, "victim" means a person who has
+7 suffered direct harm as a result of a violent crime (as defined in
+8 IC 5-2-6.1-8).
+9 SECTION 4. IC 11-13-9-1, AS ADDED BY P.L.119-2008,
+10 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]: Sec. 1. This chapter does not apply to the following:
+12 (1) An inmate who receives a sentence of death or life without
+13 parole under IC 35-50-2.
+14 (2) An inmate who has committed an offense described in
+15 IC 11-8-8-4.5.
+16 (3) A person convicted of a crime of violence (as defined in
+17 IC 35-50-1-2). IC 35-31.5-2-79).
+18 SECTION 5. IC 16-27-2-3, AS AMENDED BY P.L.171-2025,
+19 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 3. (a) Except as provided in subsection (c), a
+21 person may not operate a home health agency or a personal services
+22 agency if the person has been convicted of any of the following:
+23 (1) A sex crime (IC 35-42-4).
+24 (2) Exploitation of an endangered adult (IC 35-46-1-12).
+25 (3) Failure to report battery, neglect, or exploitation of an
+26 endangered adult (IC 35-46-1-13).
+27 (4) Theft, conversion, or receiving stolen property (IC 35-43-4),
+28 if the conviction is a:
+29 (A) felony conviction that occurred less than ten (10) years; or
+30 (B) misdemeanor conviction that occurred less than five (5)
+31 years;
+32 before the date of submission by the person of an application for
+33 licensure as a home health agency under IC 16-27-1 or as a
+34 personal services agency under IC 16-27-4.
+35 (5) Identity deception (IC 35-43-5-3.5), if the conviction is a:
+36 (A) felony conviction that occurred less than ten (10) years; or
+37 (B) misdemeanor conviction that occurred less than five (5)
+38 years;
+39 before the person's employment application date.
+40 (6) Fraud (IC 35-43-5-4), if the conviction is a:
+41 (A) felony conviction that occurred less than ten (10) years; or
+42 (B) misdemeanor conviction that occurred less than five (5)
+EH 1258—LS 6822/DI 151
+
+8
+1 years;
+2 before the person's employment application date.
+3 (7) Murder (IC 35-42-1-1).
+4 (8) Voluntary manslaughter (IC 35-42-1-3).
+5 (9) Except as provided in this section, a crime of violence (as
+6 defined in IC 35-50-1-2), IC 35-31.5-2-79), if the person's
+7 conviction occurred less than ten (10) years before the person's
+8 employment application date.
+9 (10) Felony battery within the previous five (5) years.
+10 (11) A felony offense relating to controlled substances within the
+11 previous five (5) years.
+12 (b) A person who knowingly or intentionally violates this section
+13 commits a Class A misdemeanor.
+14 (c) A person who:
+15 (1) was operating a home health agency or a personal services
+16 agency before July 1, 2025; and
+17 (2) has a misdemeanor conviction under subsection (a)(4)(B) or
+18 (a)(5)(B);
+19 may continue to operate the home health agency or personal services
+20 agency.
+21 SECTION 6. IC 16-27-2-5, AS AMENDED BY P.L.171-2025,
+22 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2026]: Sec. 5. (a) Except as provided in subsections (c) and
+24 (d), a person who operates a home health agency under IC 16-27-1 or
+25 a personal services agency under IC 16-27-4 may not employ a person
+26 to provide services in a patient's or client's temporary or permanent
+27 residence if one (1) or more of the following conditions exist:
+28 (1) The person's national criminal history background check or
+29 expanded criminal history check indicates that the person has
+30 been convicted of any of the following:
+31 (A) A sex crime (IC 35-42-4).
+32 (B) Exploitation of an endangered adult (IC 35-46-1-12).
+33 (C) Failure to report battery, neglect, or exploitation of an
+34 endangered adult (IC 35-46-1-13).
+35 (D) Theft, conversion, or receiving stolen property
+36 (IC 35-43-4), if the conviction is a:
+37 (i) felony conviction that occurred less than ten (10) years;
+38 or
+39 (ii) misdemeanor conviction that occurred less than five (5)
+40 years;
+41 before the person's employment application date.
+42 (E) Identity deception (IC 35-43-5-3.5), if the conviction is a:
+EH 1258—LS 6822/DI 151
+
+9
+1 (i) felony conviction that occurred less than ten (10) years;
+2 or
+3 (ii) misdemeanor conviction that occurred less than five (5)
+4 years;
+5 before the person's employment application date.
+6 (F) Fraud (IC 35-43-5-4), if the conviction is a:
+7 (i) felony conviction that occurred less than ten (10) years;
+8 or
+9 (ii) misdemeanor conviction that occurred less than five (5)
+10 years;
+11 before the person's employment application date.
+12 (G) Murder (IC 35-42-1-1).
+13 (H) Voluntary manslaughter (IC 35-42-1-3).
+14 (I) Except as provided in this section, a crime of violence (as
+15 defined in IC 35-50-1-2), IC 35-31.5-2-79), if the person's
+16 conviction occurred less than ten (10) years before the person's
+17 employment application date.
+18 (J) Felony battery within the previous five (5) years.
+19 (K) A felony offense relating to controlled substances within
+20 the previous five (5) years.
+21 (2) The person:
+22 (A) has abused, neglected, or mistreated a patient or
+23 misappropriated a patient's property; and
+24 (B) had a finding entered into the state nurse aide registry.
+25 (b) A person who knowingly or intentionally applies for a job as a
+26 home health aide or other unlicensed employee at:
+27 (1) a home health agency;
+28 (2) a health care facility; or
+29 (3) an entity in the business of contracting to provide home health
+30 aides or other unlicensed employees for a health care facility;
+31 after a conviction of one (1) or more of the offenses listed in subsection
+32 (a)(1) commits a Class A infraction.
+33 (c) A home health agency or personal services agency may not
+34 employ a person to provide services in a patient's or client's temporary
+35 or permanent residence for more than twenty-one (21) calendar days
+36 without receipt of that person's national criminal history background
+37 check or expanded criminal history check required by section 4 of this
+38 chapter, unless the state police department, the Federal Bureau of
+39 Investigation under IC 10-13-3-39, or the private agency providing the
+40 expanded criminal history check is responsible for failing to provide
+41 the person's national criminal history background check or expanded
+42 criminal history check to the home health agency or personal services
+EH 1258—LS 6822/DI 151
+
+10
+1 agency within the time required under this subsection.
+2 (d) A home health agency or personal services agency may continue
+3 to employ a person to provide services in a patient's or client's
+4 temporary or permanent residence if the person:
+5 (1) has a misdemeanor conviction under subsection (a)(1)(D)(ii)
+6 or (a)(1)(E)(ii); and
+7 (2) was employed by the home health agency or personal services
+8 agency to provide services described in this subsection before
+9 July 1, 2025.
+10 SECTION 7. IC 16-28-13-3, AS AMENDED BY THE
+11 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+12 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 3. (a) A health care facility or an entity in the
+14 business of contracting to provide nurse aides or other unlicensed
+15 employees for a health care facility may not knowingly employ a
+16 person as a nurse aide or other unlicensed employee if one (1) or more
+17 of the following conditions exist:
+18 (1) The person has been convicted of any of the following:
+19 (A) A sex crime (IC 35-42-4).
+20 (B) Exploitation of an endangered adult (IC 35-46-1-12).
+21 (C) Failure to report battery, neglect, or exploitation of an
+22 endangered adult (IC 35-46-1-13).
+23 (D) A felony offense relating to theft, conversion, or receiving
+24 stolen property (IC 35-43-4), if the person's conviction for
+25 theft, conversion, or receiving stolen property occurred less
+26 than five (5) years before the individual's employment
+27 application date.
+28 (E) Identity deception (IC 35-43-5-3.5), if the conviction is a
+29 felony conviction that occurred less than five (5) years before
+30 the person's employment application date.
+31 (F) Fraud (IC 35-43-5-4), if the conviction is a felony
+32 conviction that occurred less than five (5) years before the
+33 person's employment application date.
+34 (G) Murder (IC 35-42-1-1).
+35 (H) Voluntary manslaughter (IC 35-42-1-3).
+36 (I) Except as otherwise specified in this section, a crime of
+37 violence (as defined in IC 35-50-1-2), IC 35-31.5-2-79), if the
+38 person's conviction occurred less than ten (10) years before the
+39 person's employment application date.
+40 (J) Felony battery within the previous five (5) years.
+41 (K) A felony offense relating to controlled substances within
+42 the previous five (5) years, unless:
+EH 1258—LS 6822/DI 151
+
+11
+1 (i) the person is certified as a peer recovery coach through
+2 a credential recognized by the division of mental health and
+3 addiction;
+4 (ii) the person has not been convicted of a felony offense
+5 relating to controlled substances after the issuance of a peer
+6 recovery coach credential; and
+7 (iii) there are no felony charges relating to controlled
+8 substances pending against the person.
+9 (2) The person:
+10 (A) has abused, neglected, or mistreated a patient or
+11 misappropriated a patient's property; and
+12 (B) had a finding entered into the state nurse aide registry.
+13 under IC 25-23-2.
+14 (b) A person who knowingly or intentionally applies for a job as a
+15 nurse aide or other unlicensed employee at:
+16 (1) a health care facility; or
+17 (2) an entity in the business of contracting to provide nurse aides
+18 or other unlicensed employees for a health care facility;
+19 after a conviction of one (1) or more of the offenses listed in subsection
+20 (a)(1) commits a Class A infraction.
+21 SECTION 8. IC 16-31-3-14.5, AS AMENDED BY P.L.186-2025,
+22 SECTION 110, IS AMENDED TO READ AS FOLLOWS
+23 [EFFECTIVE JULY 1, 2026]: Sec. 14.5. The department of homeland
+24 security may issue an order under IC 4-21.5-3-6 to deny an applicant's
+25 request for certification or licensure or permanently revoke a certificate
+26 or license under procedures provided by section 14 of this chapter if the
+27 individual who holds the certificate or license issued under this title is
+28 convicted of any of the following:
+29 (1) Dealing in a controlled substance resulting in death under
+30 IC 35-42-1-1.5.
+31 (2) Dealing in or manufacturing cocaine or a narcotic drug under
+32 IC 35-48-4-1.
+33 (3) Dealing in methamphetamine under IC 35-48-4-1.1.
+34 (4) Manufacturing methamphetamine under IC 35-48-4-1.2.
+35 (5) Dealing in a schedule I, II, or III controlled substance under
+36 IC 35-48-4-2.
+37 (6) Dealing in a schedule IV controlled substance under
+38 IC 35-48-4-3.
+39 (7) Dealing in a schedule V controlled substance under
+40 IC 35-48-4-4.
+41 (8) Dealing in a substance represented to be a controlled
+42 substance under IC 35-48-4-4.5 (repealed).
+EH 1258—LS 6822/DI 151
+
+12
+1 (9) Knowingly or intentionally manufacturing, advertising,
+2 distributing, or possessing with intent to manufacture, advertise,
+3 or distribute a substance represented to be a controlled substance
+4 under IC 35-48-4-4.6.
+5 (10) Dealing in a counterfeit substance under IC 35-48-4-5.
+6 (11) Dealing in marijuana, hash oil, hashish, or salvia as a felony
+7 under IC 35-48-4-10.
+8 (12) An offense under IC 35-48-4 involving the manufacture or
+9 sale of a synthetic drug (as defined in IC 35-31.5-2-321), a
+10 synthetic drug lookalike substance (as defined in
+11 IC 35-31.5-2-321.5 (before its repeal on July 1, 2019)) under
+12 IC 35-48-4-10.5 (before its repeal on July 1, 2019), a controlled
+13 substance analog (as defined in IC 35-48-1.1-8), or a substance
+14 represented to be a controlled substance (as described in
+15 IC 35-48-4-4.6).
+16 (13) A crime of violence (as defined in IC 35-50-1-2(a)).
+17 IC 35-31.5-2-79).
+18 SECTION 9. IC 25-1-1.1-6, AS AMENDED BY P.L.93-2024,
+19 SECTION 177, IS AMENDED TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 6. (a) This section applies to a
+21 license or certificate under this title that is in effect on July 1, 2018, or
+22 created on or established after that date.
+23 (b) As used in this section, "crime" has the meaning set forth in
+24 IC 33-23-1-4.
+25 (c) As used in this section, "criminal history information" has the
+26 meaning set forth in IC 5-2-4-1.
+27 (d) Not later than November 1, 2018, a board, commission, or
+28 committee shall revise its licensing or certification requirements to the
+29 extent necessary to explicitly list the crimes that may disqualify an
+30 individual from receiving a license or certificate under this title. The
+31 board, commission, or committee may not:
+32 (1) use nonspecific terms, such as moral turpitude or good
+33 character, as a licensing or certification requirement; or
+34 (2) consider an arrest that does not result in a conviction.
+35 (e) A board's, commission's, or committee's use of an individual's
+36 conviction of a crime as a conviction of concern is limited to a crime
+37 directly related to the duties and responsibilities of the occupation or
+38 profession for which the individual is applying for or holds a license or
+39 certification.
+40 (f) If an individual has a conviction of concern, the period of
+41 disqualification may not exceed five (5) years after the date of the
+42 conviction, unless the individual:
+EH 1258—LS 6822/DI 151
+
+13
+1 (1) was convicted of a crime of violence (as defined by
+2 IC 35-50-1-2(a)); IC 35-31.5-2-79);
+3 (2) was convicted of an offense relating to a criminal sexual act
+4 (as defined by IC 35-31.5-2-216); or
+5 (3) is convicted of a second or subsequent crime during the
+6 disqualification period.
+7 (g) An individual having a conviction of concern may at any time
+8 petition a board, commission, or committee requiring a license or
+9 certificate for a determination as to whether the individual's conviction
+10 of concern will disqualify the individual from receiving the license or
+11 certification. An individual filing a petition under this subsection shall
+12 submit the following:
+13 (1) At no expense to the state, a national criminal background
+14 check by the Federal Bureau of Investigation.
+15 (2) Any additional information requested by the board,
+16 commission, or committee to assist the board, commission, or
+17 committee in its review of the individual's petition.
+18 (h) If an individual has a conviction of concern, the board,
+19 commission, or committee shall consider the following in determining
+20 whether to deny a license or certification to the individual based on the
+21 following factors:
+22 (1) The nature and seriousness of the crime for which the
+23 individual was convicted.
+24 (2) The passage of time since the commission of the crime.
+25 (3) The relationship of the crime to the ability, capacity, and
+26 fitness required to perform the duties and discharge the
+27 responsibilities of the occupation.
+28 (4) Evidence of rehabilitation or treatment undertaken by the
+29 individual that might mitigate against a direct relation to the
+30 ability, capacity, and fitness required to perform the duties and
+31 discharge the responsibilities of the occupation.
+32 (i) If a board, commission, or committee determines an individual's
+33 conviction of concern disqualifies the individual from receiving a
+34 license or certification solely or in part because of the individual's
+35 criminal history, the board, commission, or committee shall notify the
+36 individual in writing of the following:
+37 (1) The grounds and reasons for the denial or disqualification.
+38 (2) The individual has the right to a hearing to challenge the
+39 licensing authority's decision.
+40 (3) The earliest date the individual may reapply for a license or
+41 certification or the earliest date the individual can petition the
+42 board, commission, or committee for a review.
+EH 1258—LS 6822/DI 151
+
+14
+1 (4) Evidence of rehabilitation may be considered upon
+2 reapplication.
+3 (5) Findings for each of the factors specified in subdivisions (1)
+4 through (4).
+5 Any written determination that an individual's criminal history contains
+6 a conviction of concern that merits the denial of a license must be
+7 documented in written findings under subdivision (1) by clear and
+8 convincing evidence sufficient for review by a court. In an
+9 administrative hearing or a civil action reviewing the denial of a
+10 license, a board, commission, or committee has the burden of proof on
+11 the question of whether the individual's criminal history, based on the
+12 standards provided in subsection (h), should lead to the denial of a
+13 license.
+14 (j) The board, commission, or committee shall inform the individual
+15 of its determination concerning the individual's petition not later than
+16 sixty (60) days after the petition, criminal history information, and any
+17 other information requested under subsection (g) is received by the
+18 board, commission, or committee.
+19 (k) The board, commission, or committee may charge a fee
+20 established under IC 25-1-8 that does not exceed twenty-five dollars
+21 ($25) to pay its costs of reviewing a petition filed under subsection (g).
+22 (l) A board, commission, or committee may adopt rules under
+23 IC 4-22-2 to implement this section.
+24 SECTION 10. IC 25-23.6-1-5.7, AS AMENDED BY P.L.142-2020,
+25 SECTION 27, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 5.7. (a) "Practice of addiction counseling" means
+27 the providing of professional services that are delivered by a licensed
+28 addiction counselor, that are designed to change substance use or
+29 addictive behavior, and that involve specialized knowledge and skill
+30 related to addictions and addictive behaviors, including understanding
+31 addiction, knowledge of the treatment process, application to practice,
+32 and professional readiness. The term includes:
+33 (1) gathering information through structured interview screens
+34 using routine protocols;
+35 (2) reviewing assessment findings to assist in the development of
+36 a plan individualized for treatment services and to coordinate
+37 services;
+38 (3) referring for assessment, diagnosis, evaluation, and mental
+39 health therapy;
+40 (4) providing client and family education related to addictions;
+41 (5) providing information on social networks and community
+42 systems for referrals and discharge planning;
+EH 1258—LS 6822/DI 151
+
+15
+1 (6) participating in multidisciplinary treatment team meetings or
+2 consulting with clinical addiction professionals;
+3 (7) counseling, through individual and group counseling, as well
+4 as group and family education, to treat addiction and substance
+5 abuse in a variety of settings, including:
+6 (A) mental and physical health facilities; and
+7 (B) child and family service agencies; and
+8 (8) maintaining the highest level of professionalism and ethical
+9 responsibility.
+10 (b) The term does not include the use of psychotherapy or diagnosis
+11 (as defined in IC 25-22.5-1-1.1(c) or as defined as the practice of
+12 psychology under IC 25-33-1-2(a)).
+13 (c) For an individual who obtains a license as an addiction counselor
+14 by:
+15 (1) holding a valid:
+16 (A) level II or higher certification or the equivalent
+17 certification from a credentialing agency approved by the
+18 division of mental health and addiction; or
+19 (B) certification as an addiction counselor or addiction
+20 therapist from a credentialing agency that is approved by the
+21 board;
+22 (2) having at least ten (10) years of experience in addiction
+23 counseling;
+24 (3) furnishing satisfactory evidence to the board that the
+25 individual does not have:
+26 (A) a conviction for a crime of violence (as defined in
+27 IC 35-50-1-2); IC 35-31.5-2-79); or
+28 (B) a conviction in the previous two (2) years that has a direct
+29 bearing on the individual's ability to practice competently; and
+30 (4) filing an initial application with the board before July 1, 2010;
+31 the term includes the provision of addiction counseling services in
+32 private practice in consultation with other licensed professionals as
+33 required by the client's individualized treatment plan.
+34 SECTION 11. IC 25-23.6-10.5-1, AS AMENDED BY
+35 P.L.142-2020, SECTION 28, IS AMENDED TO READ AS
+36 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. An individual who
+37 applies for a license as an addiction counselor must meet the following
+38 requirements:
+39 (1) Furnish satisfactory evidence to the board that the individual
+40 has:
+41 (A) received a baccalaureate or higher degree in addiction
+42 counseling or in a related area as determined by the board
+EH 1258—LS 6822/DI 151
+
+16
+1 from:
+2 (i) an eligible postsecondary educational institution that
+3 meets the requirements under section 3(1) of this chapter; or
+4 (ii) a foreign school that has a program of study that meets
+5 the requirements under section 3(2) or 3(3) of this chapter;
+6 (B) completed the educational requirements under section 5 of
+7 this chapter; and
+8 (C) completed the experience requirements under section 7 of
+9 this chapter.
+10 (2) Furnish satisfactory evidence to the board that the individual
+11 does not have a:
+12 (A) conviction for a crime of violence (as defined in
+13 IC 35-50-1-2); IC 35-31.5-2-79); or
+14 (B) conviction in the previous two (2) years that has a direct
+15 bearing on the individual's ability to practice competently.
+16 (3) Furnish satisfactory evidence to the board that the individual
+17 has not been the subject of a disciplinary action by a licensing or
+18 certification agency of another state or jurisdiction on the grounds
+19 that the individual was not able to practice as an addiction
+20 counselor without endangering the public.
+21 (4) Pass an examination established by the board.
+22 (5) Pay the fee established by the board.
+23 SECTION 12. IC 25-23.6-10.5-1.5, AS AMENDED BY
+24 P.L.142-2020, SECTION 29, IS AMENDED TO READ AS
+25 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1.5. (a) An individual
+26 who applies for a license as an addiction counselor associate must meet
+27 the following requirements:
+28 (1) Furnish satisfactory evidence to the board that the individual
+29 has:
+30 (A) received a baccalaureate or higher degree in addiction
+31 counseling, or in a related area as determined by the board
+32 from:
+33 (i) an eligible postsecondary educational institution that
+34 meets the requirement under section 3(1) of this chapter; or
+35 (ii) a foreign school that has a program of study that meets
+36 the requirement under section 3(2) or 3(3) of this chapter;
+37 and
+38 (B) completed the educational requirements under section 5 of
+39 this chapter.
+40 (2) Furnish satisfactory evidence to the board that the individual
+41 does not have a:
+42 (A) conviction for a crime of violence (as defined in
+EH 1258—LS 6822/DI 151
+
+17
+1 IC 35-50-1-2); IC 35-31.5-2-79); or
+2 (B) conviction in the previous two (2) years that has a direct
+3 bearing on the individual's ability to practice competently.
+4 (3) Furnish satisfactory evidence to the board that the individual
+5 has not been the subject of a disciplinary action by a licensing or
+6 certification agency of another state or jurisdiction on the grounds
+7 that the individual was not able to practice as an addiction
+8 counselor associate without endangering the public.
+9 (4) Pass an examination established by the board.
+10 (5) Pay the fee established by the board.
+11 (b) The board shall issue an associate temporary permit to practice
+12 addiction counseling or clinical addiction counseling to an individual
+13 who:
+14 (1) meets the educational requirements for a license as an
+15 addiction counselor or clinical addiction counselor;
+16 (2) is pursuing the required clinical supervisory hours for a
+17 license as an addiction counselor or clinical addiction counselor;
+18 and
+19 (3) pays a fee for the temporary permit set by the board.
+20 An associate temporary permit issued under this subsection expires one
+21 (1) year after the date the permit is issued, without regard to the
+22 number of times the individual passes or fails the required examination
+23 to become a licensed addiction counselor or clinical addiction
+24 counselor. The temporary permit may not be renewed.
+25 SECTION 13. IC 25-23.6-10.5-2, AS AMENDED BY
+26 P.L.142-2020, SECTION 30, IS AMENDED TO READ AS
+27 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2. An individual who
+28 applies for a license as a clinical addiction counselor must meet the
+29 following requirements:
+30 (1) Furnish satisfactory evidence to the board that the individual
+31 has:
+32 (A) received a master's or doctor's degree in addiction
+33 counseling, addiction therapy, or a related area as determined
+34 by the board from an eligible postsecondary educational
+35 institution that meets the requirements under section 4(a)(1) of
+36 this chapter or from a foreign school that has a program of
+37 study that meets the requirements under section 4(a)(2) or
+38 4(a)(3) of this chapter;
+39 (B) completed the educational requirements under section 6 of
+40 this chapter; and
+41 (C) completed the experience requirements under section 8 of
+42 this chapter.
+EH 1258—LS 6822/DI 151
+
+18
+1 (2) Furnish satisfactory evidence to the board that the individual
+2 does not have a:
+3 (A) conviction for a crime of violence (as defined in
+4 IC 35-50-1-2); IC 35-31.5-2-79); or
+5 (B) conviction in the previous two (2) years that has a direct
+6 bearing on the individual's ability to practice competently.
+7 (3) Furnish satisfactory evidence to the board that the individual
+8 has not been the subject of a disciplinary action by a licensing or
+9 certification agency of another state or jurisdiction on the grounds
+10 that the individual was not able to practice as a clinical addiction
+11 counselor without endangering the public.
+12 (4) Pass an examination established by the board.
+13 (5) Pay the fee established by the board.
+14 SECTION 14. IC 25-23.6-10.5-2.5, AS AMENDED BY
+15 P.L.142-2020, SECTION 31, IS AMENDED TO READ AS
+16 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2.5. An individual who
+17 applies for a license as a clinical addiction counselor associate must
+18 meet the following requirements:
+19 (1) Furnish satisfactory evidence to the board that the individual
+20 has:
+21 (A) received a master's or doctor's degree in addiction
+22 counseling, or in a related area as determined by the board
+23 from:
+24 (i) an eligible postsecondary educational institution that
+25 meets the requirements under section 4(a)(1) of this chapter;
+26 or
+27 (ii) a foreign school that has a program of study that meets
+28 the requirements under section 4(a)(2) or 4(a)(3) of this
+29 chapter; and
+30 (B) completed the education requirements under section 6 of
+31 this chapter.
+32 (2) Furnish satisfactory evidence to the board that the individual
+33 does not have a:
+34 (A) conviction for a crime of violence (as defined in
+35 IC 35-50-1-2); IC 35-31.5-2-79); or
+36 (B) conviction in the previous two (2) years that has a direct
+37 bearing on the individual's ability to practice competently.
+38 (3) Furnish satisfactory evidence to the board that the individual
+39 has not been the subject of a disciplinary action by a licensing or
+40 certification agency of another state or jurisdiction on the grounds
+41 that the individual was not able to practice as a clinical addiction
+42 counselor associate without endangering the public.
+EH 1258—LS 6822/DI 151
+
+19
+1 (4) Pass an examination established by the board.
+2 (5) Pay the fee established by the board.
+3 SECTION 15. IC 27-10-2-4.5, AS ADDED BY P.L.147-2022,
+4 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]: Sec. 4.5. (a) The following definitions apply
+6 throughout this section:
+7 (1) "Charitable bail organization" means a business entity, or a
+8 nonprofit organization under:
+9 (A) the Internal Revenue Code; or
+10 (B) Indiana law;
+11 that exists for the purpose of paying cash bail for another person.
+12 However, the term does not include a person who pays cash bail
+13 for three (3) or fewer defendants in any one hundred eighty (180)
+14 day period, or a person who pays bail for a relative (as defined in
+15 IC 35-42-2-1(b)).
+16 (2) "Crime of violence" has the meaning set forth in
+17 IC 35-50-1-2(a). IC 35-31.5-2-79.
+18 (b) The commissioner may certify a charitable bail organization if
+19 the charitable bail organization:
+20 (1) is a business entity, or a nonprofit organization under:
+21 (A) the Internal Revenue Code; or
+22 (B) Indiana law;
+23 (2) is currently registered to do business in Indiana;
+24 (3) is located in Indiana; and
+25 (4) exists for the purpose of depositing cash bail for an indigent
+26 defendant who:
+27 (A) is not charged with a crime of violence; or
+28 (B) if charged with a felony, does not have a prior conviction
+29 for a crime of violence.
+30 (c) A person may apply for certification under this section in
+31 accordance with rules adopted under this section.
+32 (d) The commissioner shall certify a person as a charitable bail
+33 organization if the:
+34 (1) person pays an application fee of three hundred dollars
+35 ($300);
+36 (2) person meets the requirements of this section; and
+37 (3) person, including an officer or director of the person, has not
+38 engaged in conduct that:
+39 (A) constitutes fraud, dishonesty, or deception;
+40 (B) constitutes malfeasance, misfeasance, or nonfeasance in
+41 dealing with money; or
+42 (C) resulted in the suspension or revocation of a previous
+EH 1258—LS 6822/DI 151
+
+20
+1 certification.
+2 (e) A charitable bail certification is valid for two (2) years from the
+3 date of issuance and may be renewed upon payment of a renewal fee
+4 of three hundred dollars ($300). If a person applies for renewal before
+5 the expiration of the existing certification, the existing certification
+6 remains valid until the commissioner renews the certification, or until
+7 five (5) days after the commissioner denies the application for renewal.
+8 A person is entitled to renewal unless the commissioner denies the
+9 application for renewal under subsection (f).
+10 (f) The commissioner shall deny, suspend, revoke, or refuse to
+11 renew certification for any of the following causes:
+12 (1) Any cause for which issuance of the certification could have
+13 been refused had it then existed and been known to the
+14 commissioner.
+15 (2) Violation of any laws of this state in the course of dealings
+16 under the certification.
+17 (3) Material misstatement, misrepresentation, or fraud in
+18 obtaining the certification.
+19 (4) Misappropriation, conversion, or unlawful withholding of
+20 money belonging to donors or others and received in the conduct
+21 of business under the certification.
+22 (5) Fraudulent or dishonest practices in the conduct of business
+23 under the certification.
+24 (6) Willful failure to comply with or willful violation of any
+25 proper order or rule of the commissioner.
+26 (7) When, in the judgment of the commissioner, the certificate
+27 holder has, in the conduct of affairs under the certification,
+28 demonstrated:
+29 (A) incompetency or untrustworthiness;
+30 (B) conduct or practices rendering the certificate holder unfit
+31 to carry on charitable bail activities or making the certificate
+32 holder's continuance detrimental to the public interest; or
+33 (C) that the certificate holder is no longer in good faith
+34 carrying on as a charitable bail organization;
+35 and for these reasons is found by the commissioner to be a source
+36 of detriment, injury, or loss to the public.
+37 (8) The listing of the name of the applicant or certificate holder on
+38 the most recent tax warrant list supplied to the commissioner by
+39 the department of state revenue.
+40 (g) A charitable bail organization must comply with all of the
+41 following:
+42 (1) If the charitable bail organization pays, or intends to pay, bail
+EH 1258—LS 6822/DI 151
+
+21
+1 for more than three (3) individuals in any one hundred eighty
+2 (180) day period, the charitable bail organization must be certified
+3 by the commissioner under this section before soliciting or
+4 accepting donations for bail for another person, and before
+5 depositing money for bail for another person.
+6 (2) A charitable bail organization may not pay bail for a defendant
+7 who:
+8 (A) is charged with a crime of violence; or
+9 (B) is charged with a felony and has a prior conviction for a
+10 crime of violence.
+11 (3) A charitable bail organization may not execute a surety bond
+12 for a defendant.
+13 (4) A charitable bail organization shall, before paying bail for an
+14 individual, execute an agreement described in IC 35-33-8-3.2
+15 allowing the court to retain all or a part of the bail to pay publicly
+16 paid costs of representation and fines, costs, fees, and restitution
+17 that the court may order the defendant to pay if the defendant is
+18 convicted.
+19 (5) A charitable bail organization may not charge a premium or
+20 receive any consideration for acting as a charitable bail
+21 organization.
+22 (h) All fees collected under this section must be deposited in the
+23 bail bond enforcement and administration fund created by
+24 IC 27-10-5-1.
+25 (i) Any authorized employee of a charitable bail organization may
+26 only deposit cash bail to the court.
+27 (j) If an individual fails to appear, the bail shall be forfeited in the
+28 manner described in IC 35-33-8-7 and the court shall take the steps
+29 described in IC 35-33-8-8.
+30 SECTION 16. IC 33-23-18-1, AS ADDED BY P.L.205-2023,
+31 SECTION 27, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]: Sec. 1. The following definitions apply throughout this
+33 chapter:
+34 (1) "Assessor" means a physician licensed under IC 25-22.5 or a
+35 psychologist licensed under IC 25-33, if the physician or
+36 psychologist is registered with the division to conduct an
+37 assessment under this chapter.
+38 (2) "Council" means a local or regional justice reinvestment
+39 advisory council established by IC 33-38-9.5-4.
+40 (3) "Crime of violence" has the meaning set forth in
+41 IC 35-50-1-2(a). IC 35-31.5-2-79.
+42 (4) "Division" means the division of mental health and addiction.
+EH 1258—LS 6822/DI 151
+
+22
+1 (5) "Qualified adult" means an adult whom a referral program is
+2 designed to assist.
+3 (6) "Referral program" means a program established under
+4 section 2 of this chapter designed to provide an adult an
+5 opportunity to receive voluntary community treatment addressing
+6 mental health, and other services as a condition of pretrial release.
+7 The term includes a regional referral program.
+8 SECTION 17. IC 35-31.5-2-79, AS ADDED BY P.L.114-2012,
+9 SECTION 67, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2026]: Sec. 79. "Crime of violence", for purposes of
+11 IC 35-50-1-2, has the meaning set forth in IC 35-50-1-2(a). means the
+12 following:
+13 (1) Murder (IC 35-42-1-1).
+14 (2) Attempted murder (IC 35-41-5-1).
+15 (3) Voluntary manslaughter (IC 35-42-1-3).
+16 (4) Involuntary manslaughter (IC 35-42-1-4).
+17 (5) Reckless homicide (IC 35-42-1-5).
+18 (6) Battery (IC 35-42-2-1) as a felony.
+19 (7) Domestic battery (IC 35-42-2-1.3) as a felony.
+20 (8) Aggravated battery (IC 35-42-2-1.5).
+21 (9) Strangulation (IC 35-42-2-9) as a Level 5 felony.
+22 (10) Kidnapping (IC 35-42-3-2).
+23 (11) Rape (IC 35-42-4-1).
+24 (12) Criminal deviate conduct (IC 35-42-4-2) (before its
+25 repeal).
+26 (13) Child molesting (IC 35-42-4-3).
+27 (14) Child exploitation as a Level 5 felony under
+28 IC 35-42-4-4(b) or a Level 4 felony under IC 35-42-4-4(c).
+29 (15) Sexual misconduct with a minor as a:
+30 (A) Class A felony under IC 35-42-4-9(a)(2) (for a crime
+31 committed before July 1, 2014);
+32 (B) Class B felony under IC 35-42-4-9(b)(2) (for a crime
+33 committed before July 1, 2014);
+34 (C) Level 1 felony under IC 35-42-4-9(a)(2) (for a crime
+35 committed after June 30, 2014); or
+36 (D) Level 2 felony under IC 35-42-4-9(b)(2) (for a crime
+37 committed after June 30, 2014).
+38 (16) Robbery as a:
+39 (A) Class A felony or Class B felony under IC 35-42-5-1
+40 (for a crime committed before July 1, 2014); or
+41 (B) Level 2 felony or Level 3 felony under IC 35-42-5-1 (for
+42 a crime committed after June 30, 2014).
+EH 1258—LS 6822/DI 151
+
+23
+1 (17) Arson as a:
+2 (A) Class A felony or Class B felony under IC 35-43-1-1
+3 (for a crime committed before July 1, 2014); or
+4 (B) Level 2 felony, Level 3 felony, or Level 4 felony under
+5 IC 35-43-1-1 (for a crime committed after June 30, 2014).
+6 (18) Burglary as a:
+7 (A) Class A felony or Class B felony under IC 35-43-2-1
+8 (for a crime committed before July 1, 2014); or
+9 (B) Level 1 felony, Level 2 felony, Level 3 felony, or Level
+10 4 felony under IC 35-43-2-1 (for a crime committed after
+11 June 30, 2014).
+12 (19) Escape (IC 35-44.1-3-4) as a Level 5 or higher felony.
+13 (20) Criminal stalking (IC 35-45-10-5) as a Level 5 or higher
+14 felony.
+15 (21) Offenses relating to regulated explosives (IC 35-47.5-5).
+16 (22) Operating a vehicle while intoxicated causing death or
+17 catastrophic injury (IC 9-30-5-5).
+18 (23) Operating a vehicle while intoxicated causing serious
+19 bodily injury to another person (IC 9-30-5-4).
+20 (24) Resisting law enforcement as a felony (IC 35-44.1-3-1).
+21 (25) Unlawful possession of a firearm by a serious violent
+22 felon (IC 35-47-4-5).
+23 (26) Dangerous possession of a firearm by a child
+24 (IC 35-47-10-5), if:
+25 (A) the child has at least two (2) unrelated prior
+26 convictions under IC 35-47-10-5 or IC 35-47-2-1.5
+27 (unlawful carrying of a handgun);
+28 (B) the child has at least two (2) unrelated prior
+29 delinquency adjudications for an act that would be an
+30 offense under IC 35-47-10-5 or IC 35-47-2-1.5 (unlawful
+31 carrying of a handgun); or
+32 (C) the child has at least one (1) unrelated prior:
+33 (i) conviction under IC 35-47-10-5 or IC 35-47-2-1.5
+34 (unlawful carrying of a handgun); and
+35 (ii) delinquency adjudication for an act that would be an
+36 offense under IC 35-47-10-5 or IC 35-47-2-1.5 (unlawful
+37 carrying of a handgun).
+38 (27) Unlawful carrying of a handgun (IC 35-47-2-1.5), if:
+39 (A) the person has two (2) unrelated prior convictions
+40 under IC 35-47-2-1.5 or IC 35-47-10-5 (dangerous
+41 possession of a firearm by a child);
+42 (B) the person has at least two (2) unrelated prior
+EH 1258—LS 6822/DI 151
+
+24
+1 delinquency adjudications for an act that would be an
+2 offense under IC 35-47-2-1.5 or IC 35-47-10-5 (dangerous
+3 possession of a firearm by a child); or
+4 (C) the person has at least one (1) unrelated prior:
+5 (i) conviction under IC 35-47-2-1.5 or IC 35-47-10-5
+6 (dangerous possession of a firearm by a child); and
+7 (ii) delinquency adjudication for an act that would be an
+8 offense under IC 35-47-2-1.5 or IC 35-47-10-5
+9 (dangerous possession of a firearm by a child).
+10 SECTION 18. IC 35-31.5-2-352, AS AMENDED BY P.L.240-2019,
+11 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 352. "Violent offender" means a person who is:
+13 (1) convicted of an offense or attempted offense under
+14 IC 35-50-1-2(a), IC 35-42-2-1, IC 35-42-2-1.3, IC 35-43-1-1,
+15 IC 35-44.1-3-4, IC 35-45-10-5, IC 35-47-5-1 (repealed), or
+16 IC 35-47.5-5; that is a crime of violence (as defined in section
+17 79 of this chapter);
+18 (2) charged with an offense or attempted offense listed in
+19 IC 35-50-1-2(a), IC 35-42-2-1, IC 35-42-2-1.3, IC 35-42-4,
+20 IC 35-43-1-1, IC 35-44.1-3-4, IC 35-45-10-5, IC 35-46-1-3,
+21 IC 35-47-5-1 (repealed), or IC 35-47.5-5; that is a crime of
+22 violence (as defined in section 79 of this chapter); or
+23 (3) a security risk as defined by section 290 of this chapter.
+24 SECTION 19. IC 35-33-8-3.4, AS ADDED BY P.L.197-2025,
+25 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 3.4. (a) This section applies only to a violent
+27 arrestee. or a repeat violent arrestee.
+28 (b) The following definitions apply throughout this section:
+29 (1) "Crime of violence" means an offense:
+30 (A) described in IC 35-50-1-2(a); and
+31 (B) that is a Level 1, Level 2, Level 3, Level 4, or Level 5
+32 felony.
+33 (2) "Repeat violent arrestee" means a person arrested for or
+34 charged with a crime of violence who has a prior conviction for
+35 a crime of violence.
+36 (3) As used in this section, "violent arrestee" means a person
+37 arrested for or charged with a crime of violence (as defined in
+38 IC 35-31.5-2-79), that is a Level 1 felony, Level 2 felony, Level
+39 3 felony, Level 4 felony, or Level 5 felony.
+40 (c) A violent arrestee or a repeat violent arrestee may only be
+41 released on bail set individually by the court following a hearing held
+42 in open court. Before releasing a violent arrestee or a repeat violent
+EH 1258—LS 6822/DI 151
+
+25
+1 arrestee on bail the court must:
+2 (1) review the probable cause affidavit or arrest warrant; and
+3 (2) impose money bail payable by surety bond or cash deposit.
+4 (d) In accordance with IC 27-10-2-4.5(g)(2), a charitable bail
+5 organization may not pay money bail imposed under this section on
+6 behalf of a violent arrestee. or a repeat violent arrestee.
+7 SECTION 20. IC 35-38-1-7.1, AS AMENDED BY P.L.218-2025,
+8 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 7.1. (a) In determining what sentence to impose
+10 for a crime, the court may consider the following aggravating
+11 circumstances:
+12 (1) The harm, injury, loss, or damage suffered by the victim of an
+13 offense was:
+14 (A) significant; and
+15 (B) greater than the elements necessary to prove the
+16 commission of the offense.
+17 (2) The person has a history of criminal or delinquent behavior.
+18 (3) The victim of the offense was less than twelve (12) years of
+19 age or at least sixty-five (65) years of age at the time the person
+20 committed the offense.
+21 (4) The person:
+22 (A) committed a crime of violence (IC 35-50-1-2);
+23 (IC 35-31.5-2-79); and
+24 (B) knowingly committed the offense in the presence or within
+25 hearing of an individual who:
+26 (i) was less than eighteen (18) years of age at the time the
+27 person committed the offense; and
+28 (ii) is not the victim of the offense.
+29 (5) The person violated a protective order issued against the
+30 person under IC 34-26-5 (or IC 31-1-11.5, IC 34-26-2, or
+31 IC 34-4-5.1 before their repeal), a workplace violence restraining
+32 order issued against the person under IC 34-26-6, or a no contact
+33 order issued against the person.
+34 (6) The person has recently violated the conditions of any
+35 probation, parole, pardon, community corrections placement, or
+36 pretrial release granted to the person.
+37 (7) The victim of the offense was:
+38 (A) a person with a disability (as defined in IC 27-7-6-12), and
+39 the defendant knew or should have known that the victim was
+40 a person with a disability; or
+41 (B) mentally or physically infirm.
+42 (8) The person was in a position having care, custody, or control
+EH 1258—LS 6822/DI 151
+
+26
+1 of the victim of the offense.
+2 (9) The injury to or death of the victim of the offense was the
+3 result of shaken baby syndrome (as defined in IC 16-41-40-2) or
+4 abusive head trauma.
+5 (10) The person threatened to harm the victim of the offense or a
+6 witness if the victim or witness told anyone about the offense.
+7 (11) The person:
+8 (A) committed trafficking with an inmate under
+9 IC 35-44.1-3-5; and
+10 (B) is an employee of the penal facility.
+11 (12) The person committed the offense with bias due to the
+12 victim's or the group's real or perceived characteristic, trait, belief,
+13 practice, association, or other attribute the court chooses to
+14 consider, including but not limited to an attribute described in
+15 IC 10-13-3-1.
+16 (13) The person is or has been an alien (as defined by 8 U.S.C.
+17 1101(a)) unlawfully present in the United States. A determination
+18 by the United States Department of Homeland Security that an
+19 alien has come to, entered, or remained in the United States in
+20 violation of law is evidence that the alien is or has been
+21 unlawfully present in the United States.
+22 (14) The offense involved dealing in a controlled substance under
+23 IC 35-48-4 and the person distributed the controlled substance to
+24 at least three (3) different individuals in a one hundred eighty
+25 (180) day period.
+26 (b) The court may consider the following factors as mitigating
+27 circumstances or as favoring suspending the sentence and imposing
+28 probation:
+29 (1) The crime neither caused nor threatened serious harm to
+30 persons or property, or the person did not contemplate that it
+31 would do so.
+32 (2) The crime was the result of circumstances unlikely to recur.
+33 (3) The victim of the crime induced or facilitated the offense.
+34 (4) There are substantial grounds tending to excuse or justify the
+35 crime, though failing to establish a defense.
+36 (5) The person acted under strong provocation.
+37 (6) The person has no history of delinquency or criminal activity,
+38 or the person has led a law-abiding life for a substantial period
+39 before commission of the crime.
+40 (7) The person is likely to respond affirmatively to probation or
+41 short term imprisonment.
+42 (8) The character and attitudes of the person indicate that the
+EH 1258—LS 6822/DI 151
+
+27
+1 person is unlikely to commit another crime.
+2 (9) The person has made or will make restitution to the victim of
+3 the crime for the injury, damage, or loss sustained.
+4 (10) Imprisonment of the person will result in undue hardship to
+5 the person or the dependents of the person.
+6 (11) The person was convicted of a crime involving the use of
+7 force against a person who had repeatedly inflicted physical or
+8 sexual abuse upon the convicted person and evidence shows that
+9 the convicted person suffered from the effects of battery as a
+10 result of the past course of conduct of the individual who is the
+11 victim of the crime for which the person was convicted.
+12 (12) The person was convicted of a crime relating to a controlled
+13 substance and the person's arrest or prosecution was facilitated in
+14 part because the person:
+15 (A) requested emergency medical assistance; or
+16 (B) acted in concert with another person who requested
+17 emergency medical assistance;
+18 for an individual who reasonably appeared to be in need of
+19 medical assistance due to the use of alcohol or a controlled
+20 substance.
+21 (13) The person has posttraumatic stress disorder, traumatic brain
+22 injury, or a postconcussive brain injury.
+23 (14) The person is a person described in IC 31-30-1-4(d) who
+24 committed the offense while the person was a child but is now at
+25 least twenty-one (21) years of age.
+26 (15) The offense involved a controlled substance under
+27 IC 35-48-4 and the person:
+28 (A) sought treatment:
+29 (i) in the three hundred sixty-five (365) day period
+30 preceding the date of the commission of the offense; or
+31 (ii) on or after the date on which the person committed the
+32 offense, but before sentencing; and
+33 (B) successfully completed treatment:
+34 (i) in the three hundred sixty-five (365) day period
+35 preceding the date of the commission of the offense; or
+36 (ii) on or after the date on which the person committed the
+37 offense, but before sentencing.
+38 (c) The criteria listed in subsections (a) and (b) do not limit the
+39 matters that the court may consider in determining the sentence.
+40 (d) A court may impose any sentence that is:
+41 (1) authorized by statute; and
+42 (2) permissible under the Constitution of the State of Indiana;
+EH 1258—LS 6822/DI 151
+
+28
+1 regardless of the presence or absence of aggravating circumstances or
+2 mitigating circumstances.
+3 (e) If a court suspends a sentence and orders probation for a person
+4 described in subsection (b)(13), the court may require the person to
+5 receive treatment for the person's injuries.
+6 SECTION 21. IC 35-38-1-17, AS AMENDED BY P.L.148-2024,
+7 SECTION 22, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2026]: Sec. 17. (a) Notwithstanding IC 1-1-5.5-21, this section
+9 applies to a person who:
+10 (1) commits an offense; or
+11 (2) is sentenced;
+12 before July 1, 2014.
+13 (b) This section does not apply to a credit restricted felon.
+14 (c) Except as provided in subsections (k) and (m), this section does
+15 not apply to a violent criminal.
+16 (d) As used in this section, "violent criminal" means a person
+17 convicted of a crime of violence (as defined in IC 35-31.5-2-79). any
+18 of the following offenses:
+19 (1) Murder (IC 35-42-1-1).
+20 (2) Attempted murder (IC 35-41-5-1).
+21 (3) Voluntary manslaughter (IC 35-42-1-3).
+22 (4) Involuntary manslaughter (IC 35-42-1-4).
+23 (5) Reckless homicide (IC 35-42-1-5).
+24 (6) Aggravated battery (IC 35-42-2-1.5).
+25 (7) Kidnapping (IC 35-42-3-2).
+26 (8) Rape (IC 35-42-4-1).
+27 (9) Criminal deviate conduct (IC 35-42-4-2) (before its repeal).
+28 (10) Child molesting (IC 35-42-4-3).
+29 (11) Sexual misconduct with a minor as a Class A felony under
+30 IC 35-42-4-9(a)(2) or a Class B felony under IC 35-42-4-9(b)(2)
+31 (for a crime committed before July 1, 2014) or sexual misconduct
+32 with a minor as a Level 1 felony under IC 35-42-4-9(a)(2) or a
+33 Level 2 felony under IC 35-42-4-9(b)(2) (for a crime committed
+34 after June 30, 2014).
+35 (12) Robbery as a Class A felony or a Class B felony
+36 (IC 35-42-5-1) (for a crime committed before July 1, 2014) or
+37 robbery as a Level 2 felony or a Level 3 felony (IC 35-42-5-1) (for
+38 a crime committed after June 30, 2014).
+39 (13) Burglary as Class A felony or a Class B felony
+40 (IC 35-43-2-1) (for a crime committed before July 1, 2014) or
+41 burglary as a Level 1 felony, Level 2 felony, Level 3 felony, or
+42 Level 4 felony (IC 35-43-2-1) (for a crime committed after June
+EH 1258—LS 6822/DI 151
+
+29
+1 30, 2014).
+2 (14) Unlawful possession of a firearm by a serious violent felon
+3 (IC 35-47-4-5).
+4 (e) At any time after:
+5 (1) a convicted person begins serving the person's sentence; and
+6 (2) the court obtains a report from the department of correction
+7 concerning the convicted person's conduct while imprisoned;
+8 the court may reduce or suspend the sentence and impose a sentence
+9 that the court was authorized to impose at the time of sentencing.
+10 However, if the convicted person was sentenced under the terms of a
+11 plea agreement, the court may not, without the consent of the
+12 prosecuting attorney, reduce or suspend the sentence and impose a
+13 sentence not authorized by the plea agreement. The court must
+14 incorporate its reasons in the record.
+15 (f) If the court sets a hearing on a petition under this section, the
+16 court must give notice to the prosecuting attorney and the prosecuting
+17 attorney must give notice to the victim (as defined in IC 35-31.5-2-348)
+18 of the crime for which the convicted person is serving the sentence.
+19 (g) The court may suspend a sentence for a felony under this section
+20 only if suspension is permitted under IC 35-50-2-2.2, or, if applicable,
+21 IC 35-50-2-2 (repealed).
+22 (h) The court may deny a request to suspend or reduce a sentence
+23 under this section without making written findings and conclusions.
+24 (i) The court is not required to conduct a hearing before reducing or
+25 suspending a sentence under this section if:
+26 (1) the prosecuting attorney has filed with the court an agreement
+27 of the reduction or suspension of the sentence; and
+28 (2) the convicted person has filed with the court a waiver of the
+29 right to be present when the order to reduce or suspend the
+30 sentence is considered.
+31 (j) This subsection applies only to a convicted person who is not a
+32 violent criminal. A convicted person who is not a violent criminal may
+33 file a petition for sentence modification under this section:
+34 (1) not more than one (1) time in any three hundred sixty-five
+35 (365) day period; and
+36 (2) a maximum of two (2) times during any consecutive period of
+37 incarceration;
+38 without the consent of the prosecuting attorney.
+39 (k) This subsection applies to a convicted person who is a violent
+40 criminal. Except as provided in subsection (n), a convicted person who
+41 is a violent criminal may, not later than three hundred sixty-five (365)
+42 days from the date of sentencing, file one (1) petition for sentence
+EH 1258—LS 6822/DI 151
+
+30
+1 modification under this section without the consent of the prosecuting
+2 attorney. After the elapse of the three hundred sixty-five (365) day
+3 period, a violent criminal may not file a petition for sentence
+4 modification without the consent of the prosecuting attorney.
+5 (l) A person may not waive the right to sentence modification under
+6 this section as part of a plea agreement. Any purported waiver of the
+7 right to sentence modification under this section in a plea agreement is
+8 invalid and unenforceable as against public policy. This subsection
+9 does not prohibit the finding of a waiver of the right to:
+10 (1) have a court modify a sentence and impose a sentence not
+11 authorized by the plea agreement, as described under subsection
+12 (e); or
+13 (2) sentence modification for any other reason, including failure
+14 to comply with the provisions of this section.
+15 (m) Notwithstanding subsection (k), a person who commits an
+16 offense after June 30, 2014, and before May 15, 2015, may file one (1)
+17 petition for sentence modification without the consent of the
+18 prosecuting attorney, even if the person has previously filed a petition
+19 for sentence modification.
+20 (n) A person sentenced in a criminal court having jurisdiction over
+21 an offense committed when the person was less than eighteen (18)
+22 years of age may file an additional petition for sentence modification
+23 under this section without the consent of the prosecuting attorney if the
+24 person has served at least:
+25 (1) fifteen (15) years of the person's sentence, if the person is not
+26 serving a sentence for murder; or
+27 (2) twenty (20) years of the person's sentence, if the person is
+28 serving a sentence for murder.
+29 The time periods described in this subsection are computed on the
+30 basis of time actually served and do not include any reduction applied
+31 for good time credit or educational credit time.
+32 SECTION 22. IC 35-38-2.7-2, AS AMENDED BY P.L.22-2025,
+33 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2026]: Sec. 2. (a) A supervising agency must do the
+35 following:
+36 (1) Except as provided in subdivision (2), an employee or contract
+37 employee of a supervising agency must provide notification to the
+38 supervising agency as soon as possible, but not later than twelve
+39 (12) hours, after:
+40 (A) the monitoring device of a tracked individual suffers an
+41 unexplained or undocumented loss of communication with the
+42 employee, and the employee is unable to verify the tracked
+EH 1258—LS 6822/DI 151
+
+31
+1 individual's presence at an approved location by using a
+2 backup verification method, if applicable;
+3 (B) a tracked individual enters a prohibited exclusion zone; or
+4 (C) a tracked individual removes, disables, or otherwise
+5 interferes with a monitoring device.
+6 (2) An employee or contract employee of a supervising agency
+7 who is required to provide a notification to the supervising agency
+8 under subdivision (1) with respect to a tracked individual who is
+9 placed on electronic monitoring due to being charged with or
+10 convicted of:
+11 (A) a crime of violence (as defined in IC 35-50-1-2(a));
+12 IC 35-31.5-2-79); or
+13 (B) a crime of domestic or sexual violence (as defined in
+14 IC 16-18-2-88.5);
+15 shall provide the notification as soon as possible, but not later
+16 than fifteen (15) minutes, after the occurrence of an event
+17 described in subdivision (1)(A) through (1)(C). In addition, if the
+18 tracked individual has committed or is alleged to have committed
+19 a crime against a vulnerable victim, the supervising agency shall
+20 notify the vulnerable victim and request local law enforcement to
+21 conduct a welfare check on the vulnerable victim in accordance
+22 with the protocol developed by the supervising agency under
+23 subdivision (5).
+24 (3) Verify in person the location of each tracked individual placed
+25 on electronic monitoring due to being charged with or convicted
+26 of:
+27 (A) a crime of violence (as defined in IC 35-50-1-2(a));
+28 IC 35-31.5-2-79); or
+29 (B) a crime of domestic or sexual violence (as defined in
+30 IC 16-18-2-88.5);
+31 by making one (1) scheduled in person contact and one (1)
+32 unannounced in person contact with the individual in every thirty
+33 (30) day period.
+34 (4) Establish conditions relating to approved and unapproved
+35 locations for each tracked individual under the supervising
+36 agency's supervision.
+37 (5) Develop and establish a protocol for the supervising agency to
+38 use in contacting a vulnerable victim and local law enforcement
+39 with respect to a violation by a tracked individual.
+40 (6) Develop and publish a policy prohibiting certain relationships
+41 between a tracked individual and a supervising agency and
+42 employees of a supervising agency, including:
+EH 1258—LS 6822/DI 151
+
+32
+1 (A) personal associations and relationships; and
+2 (B) business relationships.
+3 (7) Develop or approve detailed contingency plans for the
+4 supervising agency's operation in case of natural disaster, power
+5 outage, loss of telephone service, fire, flood, equipment
+6 malfunction, death, incapacitation, or personal emergency of an
+7 employee of a supervising agency, and, in the case of a
+8 supervising agency's contract with a third party contractor, the
+9 financial insolvency of the third party contractor.
+10 (8) Specify a backup verification method for a tracked individual
+11 if there is reason to believe that the tracked individual's
+12 monitoring device may lose communication with the supervising
+13 agency at an approved location. However, a supervising agency
+14 has the discretion to establish a backup verification method for
+15 any tracked individual regardless of whether the supervising
+16 agency has reason to believe that the monitoring device may lose
+17 communication at an approved location.
+18 (b) Beginning January 1, 2023, a supervising agency must transmit
+19 a quarterly report to the local justice reinvestment advisory council
+20 (established by IC 33-38-9.5-4) that includes information concerning:
+21 (1) the total number of tracked individuals under supervision
+22 during the quarter, whether they are under pretrial, or
+23 postdisposition, supervision, and the highest level of offense they
+24 are facing or have been convicted of;
+25 (2) the number of tracked individuals on active supervision at the
+26 end of the quarter and the number of supervision staff at the end
+27 of the quarter;
+28 (3) the total costs and fees levied and collected;
+29 (4) the number of tracked individuals under supervision whose
+30 supervision has been terminated and the reason for termination;
+31 and
+32 (5) the number of device malfunctions in the case of each tracked
+33 individual under supervision.
+34 The report must be submitted to the local justice reinvestment advisory
+35 council not later than fifteen (15) calendar days after the close of each
+36 quarter. In addition, the division of parole services shall report directly
+37 to the statewide justice reinvestment advisory council each quarter. The
+38 local justice reinvestment advisory council shall transmit each report
+39 electronically to the statewide justice reinvestment advisory council
+40 (established by IC 33-38-9.5-2) as directed, which shall publish a
+41 report quarterly. The statewide justice reinvestment advisory council
+42 shall compile the quarterly reports published under this subsection and
+EH 1258—LS 6822/DI 151
+
+33
+1 electronically transmit an annual report to the legislative council and
+2 to the judicial conference of Indiana not later than May 1 of each year.
+3 The report to the legislative council must be in an electronic format
+4 under IC 5-14-6.
+5 SECTION 23. IC 35-38-2.7-4, AS ADDED BY P.L.84-2022,
+6 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]: Sec. 4. (a) This subsection applies to a tracked
+8 individual who is charged with or convicted of a crime of violence (as
+9 defined in IC 35-50-1-2(a)) IC 35-31.5-2-79) or a crime of domestic or
+10 sexual violence (as defined in IC 16-18-2-88.5). As soon as possible,
+11 but not later than:
+12 (1) fifteen (15) minutes after a warrant has been issued for a
+13 tracked individual to whom this subsection applies, a local law
+14 enforcement agency shall transmit details of the warrant to all
+15 active units; and
+16 (2) sixty (60) minutes after a warrant has been issued for a tracked
+17 individual to whom this subsection applies, a local law
+18 enforcement agency shall dispatch a law enforcement officer to
+19 apprehend the tracked individual.
+20 (b) This subsection applies to a tracked individual who is not
+21 charged with or convicted of a crime of violence (as defined in
+22 IC 35-50-1-2(a)) IC 35-31.5-2-79) or a crime of domestic or sexual
+23 violence (as defined in IC 16-18-2-88.5). As soon as possible, but not
+24 later than:
+25 (1) sixty (60) minutes after a warrant has been issued for a tracked
+26 individual to whom this subsection applies, a local law
+27 enforcement agency shall transmit details of the warrant to all
+28 active units; and
+29 (2) forty-eight (48) hours after a warrant has been issued for a
+30 tracked individual to whom this subsection applies, a local law
+31 enforcement agency shall dispatch a law enforcement officer to
+32 apprehend the tracked individual.
+33 (c) The local law enforcement agency shall keep a record of each
+34 dispatch made under this section.
+35 SECTION 24. IC 35-40-5-12, AS ADDED BY P.L.40-2019,
+36 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 12. (a) The following shall be identified by means
+38 of a designation omitting the victim's name, such as "Victim 1", in
+39 court documents open to the public:
+40 (1) A victim of a sex crime under IC 35-42-4.
+41 (2) A child victim of a crime of violence (as defined in
+42 IC 35-50-1-2). IC 35-31.5-2-79).
+EH 1258—LS 6822/DI 151
+
+34
+1 (b) The state shall provide to the court a confidential document
+2 identifying the victims named in the court documents.
+3 SECTION 25. IC 35-50-1-2, AS AMENDED BY P.L.218-2025,
+4 SECTION 23, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]: Sec. 2. (a) As used in this section, "crime of violence"
+6 means the following: has the meaning set forth in IC 35-31.5-2-79.
+7 (1) Murder (IC 35-42-1-1).
+8 (2) Attempted murder (IC 35-41-5-1).
+9 (3) Voluntary manslaughter (IC 35-42-1-3).
+10 (4) Involuntary manslaughter (IC 35-42-1-4).
+11 (5) Reckless homicide (IC 35-42-1-5).
+12 (6) Battery (IC 35-42-2-1) as a:
+13 (A) Level 2 felony;
+14 (B) Level 3 felony;
+15 (C) Level 4 felony; or
+16 (D) Level 5 felony.
+17 (7) Domestic battery (IC 35-42-2-1.3) as a:
+18 (A) Level 2 felony;
+19 (B) Level 3 felony;
+20 (C) Level 4 felony; or
+21 (D) Level 5 felony.
+22 (8) Aggravated battery (IC 35-42-2-1.5).
+23 (9) Kidnapping (IC 35-42-3-2).
+24 (10) Rape (IC 35-42-4-1).
+25 (11) Criminal deviate conduct (IC 35-42-4-2) (before its repeal).
+26 (12) Child molesting (IC 35-42-4-3).
+27 (13) Sexual misconduct with a minor as a Level 1 felony under
+28 IC 35-42-4-9(a)(2) or a Level 2 felony under IC 35-42-4-9(b)(2).
+29 (14) Robbery as a Level 2 felony or a Level 3 felony
+30 (IC 35-42-5-1).
+31 (15) Burglary as a Level 1 felony, Level 2 felony, Level 3 felony,
+32 or Level 4 felony (IC 35-43-2-1).
+33 (16) Operating a vehicle while intoxicated causing death or
+34 catastrophic injury (IC 9-30-5-5).
+35 (17) Operating a vehicle while intoxicated causing serious bodily
+36 injury to another person (IC 9-30-5-4).
+37 (18) Child exploitation as a Level 5 felony under IC 35-42-4-4(b)
+38 or a Level 4 felony under IC 35-42-4-4(c).
+39 (19) Resisting law enforcement as a felony (IC 35-44.1-3-1).
+40 (20) Unlawful possession of a firearm by a serious violent felon
+41 (IC 35-47-4-5).
+42 (21) Strangulation (IC 35-42-2-9) as a Level 5 felony.
+EH 1258—LS 6822/DI 151
+
+35
+1 (b) As used in this section, "episode of criminal conduct" means
+2 offenses or a connected series of offenses that are closely related in
+3 time, place, and circumstance.
+4 (c) Except as provided in subsection (e) or (f) the court shall
+5 determine whether terms of imprisonment shall be served concurrently
+6 or consecutively. The court may consider the:
+7 (1) aggravating circumstances in IC 35-38-1-7.1(a); and
+8 (2) mitigating circumstances in IC 35-38-1-7.1(b);
+9 in making a determination under this subsection. The court may order
+10 terms of imprisonment to be served consecutively even if the sentences
+11 are not imposed at the same time. However, except for crimes of
+12 violence, the total of the consecutive terms of imprisonment, exclusive
+13 of terms of imprisonment under IC 35-50-2-8 and IC 35-50-2-10
+14 (before its repeal) to which the defendant is sentenced for felony or
+15 misdemeanor convictions arising out of an episode of criminal conduct
+16 shall not exceed the period described in subsection (d).
+17 (d) Except as provided in subsection (c), the total of the consecutive
+18 terms of imprisonment to which the defendant is sentenced for
+19 convictions arising out of an episode of criminal conduct may not
+20 exceed the following:
+21 (1) If the most serious crime for which the defendant is sentenced
+22 is a Class C misdemeanor, the total of the consecutive terms of
+23 imprisonment may not exceed one (1) year.
+24 (2) If the most serious crime for which the defendant is sentenced
+25 is a Class B misdemeanor, the total of the consecutive terms of
+26 imprisonment may not exceed two (2) years.
+27 (3) If the most serious crime for which the defendant is sentenced
+28 is a Class A misdemeanor, the total of the consecutive terms of
+29 imprisonment may not exceed three (3) years.
+30 (4) If the most serious crime for which the defendant is sentenced
+31 is a Level 6 felony, the total of the consecutive terms of
+32 imprisonment may not exceed four (4) years.
+33 (5) If the most serious crime for which the defendant is sentenced
+34 is a Level 5 felony, the total of the consecutive terms of
+35 imprisonment may not exceed seven (7) years.
+36 (6) If the most serious crime for which the defendant is sentenced
+37 is a Level 4 felony, the total of the consecutive terms of
+38 imprisonment may not exceed fifteen (15) years.
+39 (7) If the most serious crime for which the defendant is sentenced
+40 is a Level 3 felony, the total of the consecutive terms of
+41 imprisonment may not exceed twenty (20) years.
+42 (8) If the most serious crime for which the defendant is sentenced
+EH 1258—LS 6822/DI 151
+
+36
+1 is a Level 2 felony, the total of the consecutive terms of
+2 imprisonment may not exceed thirty-two (32) years.
+3 (9) If the most serious crime for which the defendant is sentenced
+4 is a Level 1 felony, the total of the consecutive terms of
+5 imprisonment may not exceed forty-two (42) years.
+6 (e) If, after being arrested for one (1) crime, a person commits
+7 another crime:
+8 (1) before the date the person is discharged from probation,
+9 parole, or a term of imprisonment imposed for the first crime; or
+10 (2) while the person is released:
+11 (A) upon the person's own recognizance; or
+12 (B) on bond;
+13 the terms of imprisonment for the crimes shall be served consecutively,
+14 regardless of the order in which the crimes are tried and sentences are
+15 imposed.
+16 (f) If the factfinder determines under IC 35-50-2-11 that a person
+17 used a firearm in the commission of the offense for which the person
+18 was convicted, the term of imprisonment for the underlying offense and
+19 the additional term of imprisonment imposed under IC 35-50-2-11
+20 must be served consecutively.
+21 SECTION 26. IC 35-50-2-1.3, AS AMENDED BY P.L.109-2015,
+22 SECTION 56, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2026]: Sec. 1.3. (a) For purposes of this chapter, "advisory
+24 sentence" means a guideline sentence that the court may voluntarily
+25 consider when imposing a sentence.
+26 (b) Except as provided in subsection (c), a court is not required to
+27 use an advisory sentence.
+28 (c) In imposing:
+29 (1) consecutive sentences for felony convictions that are not
+30 crimes of violence (as defined in IC 35-50-1-2(a))
+31 IC 35-31.5-2-79) arising out of an episode of criminal conduct,
+32 in accordance with IC 35-50-1-2; or
+33 (2) an additional fixed term to a repeat sexual offender under
+34 section 14 of this chapter;
+35 a court is required to use the appropriate advisory sentence in imposing
+36 a consecutive sentence or an additional fixed term. However, the court
+37 is not required to use the advisory sentence in imposing the sentence
+38 for the underlying offense.
+39 (d) This section does not require a court to use an advisory sentence
+40 in imposing consecutive sentences for felony convictions that do not
+41 arise out of an episode of criminal conduct.
+42 SECTION 27. IC 35-50-6-1, AS AMENDED BY P.L.20-2023,
+EH 1258—LS 6822/DI 151
+
+37
+1 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 1. (a) Except as provided in subsection (d) or (e),
+3 when a person imprisoned for a felony completes the person's term of
+4 imprisonment, less the credit time the person has earned with respect
+5 to that term, the person shall be:
+6 (1) released on parole for not more than twenty-four (24) months,
+7 as determined by the parole board, unless:
+8 (A) the person is being placed on parole for the first time;
+9 (B) the person is not being placed on parole following a term
+10 of imprisonment that includes a sentence imposed for a crime
+11 of violence (as defined in IC 35-50-1-2); IC 35-31.5-2-79);
+12 (C) the person is not a sex offender (as defined in
+13 IC 11-8-8-4.5); and
+14 (D) in the six (6) months before being placed on parole, the
+15 person has not violated a rule of the department of correction
+16 or a rule of the penal facility in which the person is
+17 imprisoned;
+18 (2) discharged upon a finding by the committing court that the
+19 person was assigned to a community transition program and may
+20 be discharged without the requirement of parole; or
+21 (3) released to the committing court if the sentence included a
+22 period of probation.
+23 A person described in subdivision (1) shall be released on parole for
+24 not more than twelve (12) months, as determined by the parole board.
+25 (b) This subsection does not apply to a person described in
+26 subsection (d), (e), or (f). A person released on parole remains on
+27 parole from the date of release until the person's fixed term expires,
+28 unless the person's parole is revoked or the person is discharged from
+29 that term by the parole board. In any event, if the person's parole is not
+30 revoked, the parole board shall discharge the person after the period set
+31 under subsection (a) or the expiration of the person's fixed term,
+32 whichever is shorter.
+33 (c) A person whose parole is revoked shall be imprisoned for all or
+34 part of the remainder of the person's fixed term. However, the person
+35 shall again be released on parole when the person completes that
+36 remainder, less the credit time the person has earned since the
+37 revocation. The parole board may reinstate the person on parole at any
+38 time after the revocation.
+39 (d) This subsection does not apply to a person who is a sexually
+40 violent predator under IC 35-38-1-7.5. When a sex offender (as defined
+41 in IC 11-8-8-4.5) completes the sex offender's fixed term of
+42 imprisonment, less credit time earned with respect to that term, the sex
+EH 1258—LS 6822/DI 151
+
+38
+1 offender shall be placed on parole for not more than ten (10) years.
+2 (e) This subsection applies to a person who:
+3 (1) is a sexually violent predator under IC 35-38-1-7.5;
+4 (2) has been convicted of murder (IC 35-42-1-1); or
+5 (3) has been convicted of voluntary manslaughter (IC 35-42-1-3).
+6 When a person described in this subsection completes the person's
+7 fixed term of imprisonment, less credit time earned with respect to that
+8 term, the person shall be placed on parole for the remainder of the
+9 person's life.
+10 (f) This subsection applies to a parolee in another jurisdiction who
+11 is a person described in subsection (e) and whose parole supervision is
+12 transferred to Indiana from another jurisdiction. In accordance with
+13 IC 11-13-4-1(2) (Interstate Compact for Out-of-State Probationers and
+14 Parolees) and rules adopted under Article VII (d)(8) of the Interstate
+15 Compact for Adult Offender Supervision (IC 11-13-4.5), a parolee who
+16 is a person described in subsection (e) and whose parole supervision is
+17 transferred to Indiana is subject to the same conditions of parole as a
+18 person described in subsection (e) who was convicted in Indiana,
+19 including:
+20 (1) lifetime parole (as described in subsection (e)); and
+21 (2) the requirement that the person wear a monitoring device (as
+22 described in IC 35-38-2.5-3) that can transmit information
+23 twenty-four (24) hours each day regarding a person's precise
+24 location, if applicable.
+25 (g) If a person being supervised on lifetime parole as described in
+26 subsection (e) is also required to be supervised by a court, a probation
+27 department, a community corrections program, a community transition
+28 program, or another similar program upon the person's release from
+29 imprisonment, the parole board may:
+30 (1) supervise the person while the person is being supervised by
+31 the other supervising agency; or
+32 (2) permit the other supervising agency to exercise all or part of
+33 the parole board's supervisory responsibility during the period in
+34 which the other supervising agency is required to supervise the
+35 person, if supervision by the other supervising agency will be, in
+36 the opinion of the parole board:
+37 (A) at least as stringent; and
+38 (B) at least as effective;
+39 as supervision by the parole board.
+40 (h) The parole board is not required to supervise a person on
+41 lifetime parole during any period in which the person is imprisoned.
+42 However, upon the person's release from imprisonment, the parole
+EH 1258—LS 6822/DI 151
+
+39
+1 board shall recommence its supervision of a person on lifetime parole.
+2 (i) If a court orders the parole board to place a sexually violent
+3 predator whose sentence does not include a commitment to the
+4 department of correction on lifetime parole under IC 35-38-1-29, the
+5 parole board shall place the sexually violent predator on lifetime parole
+6 and supervise the person in the same manner in which the parole board
+7 supervises a sexually violent predator on lifetime parole whose
+8 sentence includes a commitment to the department of correction.
+9 (j) Time served while confined to a jail or prison does not count
+10 toward time served on parole.
+11 SECTION 28. IC 36-1-26-4, AS ADDED BY P.L.182-2018,
+12 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 4. (a) Not later than November 1, 2018, a unit
+14 shall revise its licensing requirements to the extent necessary to
+15 explicitly list the crimes that will disqualify an individual from
+16 receiving a license required by the unit. The unit may not:
+17 (1) use nonspecific terms, such as moral turpitude or good
+18 character, as a licensing requirement; or
+19 (2) consider an arrest that does not result in a conviction.
+20 (b) A unit's use of an individual's conviction of a crime as a
+21 disqualifying criminal conviction is limited to a crime that is
+22 specifically and directly related to the duties and responsibilities of the
+23 occupation or profession for which the individual is applying for or
+24 holds a license.
+25 (c) If an applicant has a disqualifying criminal history, the unit shall
+26 consider the following in determining whether to deny a license to the
+27 applicant, based on a clear and convincing showing:
+28 (1) The nature and seriousness of the crime for which the
+29 individual was convicted.
+30 (2) The passage of time since the commission of the crime.
+31 (3) The relationship of the crime to the ability, capacity, and
+32 fitness required to perform the duties and discharge the
+33 responsibilities of the occupation.
+34 (4) Evidence of rehabilitation or treatment undertaken by the
+35 individual that might mitigate against a direct relation to the
+36 ability, capacity, and fitness required to perform the duties and
+37 discharge the responsibilities of the occupation.
+38 (d) If an individual has a disqualifying criminal conviction, the
+39 period of disqualification may not exceed five (5) years after the date
+40 of the conviction or release from incarceration, whichever is later,
+41 unless the individual:
+42 (1) was convicted of a crime of violence (as defined by
+EH 1258—LS 6822/DI 151
+
+40
+1 IC 35-50-1-2(a)); IC 35-31.5-2-79);
+2 (2) was convicted of an offense relating to a criminal sexual act
+3 (as defined by IC 35-31.5-2-216); or
+4 (3) is convicted of a second or subsequent crime during the
+5 disqualification period.
+6 SECTION 29. IC 36-8-26-6, AS ADDED BY P.L.103-2022,
+7 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2026]: Sec. 6. Before November 1, 2023, and before
+9 November 1 of every year thereafter, the board shall send a report of its
+10 activities to the legislative council. The report must be in an electronic
+11 format under IC 5-14-6 and include the following information:
+12 (1) A copy of every interoperability agreement entered into or
+13 renewed in the past year.
+14 (2) A list of all:
+15 (A) Part One crimes (based on the reporting methodology of
+16 the Federal Bureau of Investigation); and
+17 (B) crimes of violence (as defined in IC 35-50-1-2(a));
+18 IC 35-31.5-2-79);
+19 committed in the downtown district within the previous five (5)
+20 years.
+21 (3) The crime clearance rates for each crime described in
+22 subdivision (2).
+23 (4) A list of every major event that took place in the downtown
+24 district within the previous year.
+25 (5) The number of times a law enforcement agency made a
+26 referral to, or requested assistance from, a social worker or mental
+27 health services provider (including a provider who specializes in
+28 addiction services).
+29 (6) A completed crime perception survey for the previous year
+30 (based on the survey prepared by Downtown Indy, Inc.).
+EH 1258—LS 6822/DI 151
+
+41
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Courts and Criminal Code, to
+which was referred House Bill 1258, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill do pass.
+(Reference is to HB 1258 as introduced.)
+MCNAMARA
+Committee Vote: Yeas 13, Nays 0
+_____
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1258 be amended to read as
+follows:
+Page 22, line 18, delete "(IC 35-42-2-1)." and insert "(IC 35-42-2-1)
+as a felony.".
+Page 22, line 19, delete "(IC 35-42-2-1.3)." and insert "(IC
+35-42-2-1.3) as a felony.".
+Page 23, line 12, delete "(IC 35-44.1-3-4)." and insert "(IC
+35-44.1-3-4) as a Level 5 or higher felony.".
+Page 23, line 13, delete "(IC 35-45-10-5)." and insert "(IC
+35-45-10-5) as a Level 5 or higher felony."
+(Reference is to HB 1258 as printed January 14, 2026.)
+JETER
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Corrections and Criminal
+Law, to which was referred House Bill No. 1258, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 23, between lines 22 and 23, begin a new line block indented
+and insert:
+"(26) Dangerous possession of a firearm by a child (IC
+35-47-10-5), if:
+(A) the child has at least two (2) unrelated prior
+EH 1258—LS 6822/DI 151
+
+42
+convictions under IC 35-47-10-5 or IC 35-47-2-1.5
+(unlawful carrying of a handgun);
+(B) the child has at least two (2) unrelated prior
+delinquency adjudications for an act that would be an
+offense under IC 35-47-10-5 or IC 35-47-2-1.5 (unlawful
+carrying of a handgun); or
+(C) the child has at least one (1) unrelated prior:
+(i) conviction under IC 35-47-10-5 or IC 35-47-2-1.5
+(unlawful carrying of a handgun); and
+(ii) delinquency adjudication for an act that would be an
+offense under IC 35-47-10-5 or IC 35-47-2-1.5 (unlawful
+carrying of a handgun).
+(27) Unlawful carrying of a handgun (IC 35-47-2-1.5), if:
+(A) the person has two (2) unrelated prior convictions
+under IC 35-47-2-1.5 or IC 35-47-10-5 (dangerous
+possession of a firearm by a child);
+(B) the person has at least two (2) unrelated prior
+delinquency adjudications for an act that would be an
+offense under IC 35-47-2-1.5 or IC 35-47-10-5 (dangerous
+possession of a firearm by a child); or
+(C) the person has at least one (1) unrelated prior:
+(i) conviction under IC 35-47-2-1.5 or IC 35-47-10-5
+(dangerous possession of a firearm by a child); and
+(ii) delinquency adjudication for an act that would be an
+offense under IC 35-47-2-1.5 or IC 35-47-10-5
+(dangerous possession of a firearm by a child).".
+Page 23, line 29, after "in" insert "section 79 of this chapter);".
+Page 23, delete line 30.
+Page 23, line 35, delete "IC 35-31.5-2-79);" and insert "section 79
+of this chapter);".
+and when so amended that said bill do pass.
+(Reference is to HB 1258 as reprinted January 23, 2026.)
+FREEMAN, Chairperson
+Committee Vote: Yeas 6, Nays 2.
+EH 1258—LS 6822/DI 151
