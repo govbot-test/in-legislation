@@ -1,0 +1,921 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1257
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 16-49-4-2; IC 31-9-2; IC 31-19-16-2;
+IC 31-25-2-24; IC 31-32-2.5-4; IC 31-33; IC 31-34; IC 31-39-2-6.
+Synopsis: Child services matters. Adds four members to the statewide
+child fatality review committee, one of whom is appointed by each of
+the following: (1) The speaker of the house of representatives. (2) The
+president pro tempore of the senate. (3) The minority leader of the
+house of representatives. (4) The minority leader of the senate.
+Provides that a court may grant postadoption contact privileges to the
+birth parent of a child if the child is at least one year of age (rather than
+two years of age, under current law). Adds information that must be
+included in the annual report of the department of child services
+(department) concerning child fatalities in Indiana that are the result of
+child abuse or neglect. Requires the office of judicial administration to
+publish on an online dashboard information regarding adjudication
+times for petitions for intervention in child in need of services (CHINS)
+proceedings and proceedings regarding termination of parental rights.
+Provides that the obligation of the department to conduct a detailed
+assessment of a report of known or suspected child abuse or neglect
+does not apply if the report is screened out and referred to a law
+enforcement agency. Provides that the department: (1) shall disclose
+information regarding reported child abuse or neglect to a member of
+the United States Congress representing Indiana or Indiana general
+assembly (state legislator) upon request of the state legislator; (2) may
+release information to the news media to confirm, clarify, correct, or
+supplement information concerning reported child abuse or neglect that
+has been made public by a source other than the department; and (3)
+shall report to the news media specified information regarding the
+death of a child whose death is suspected to be the result of child abuse
+(Continued next page)
+Effective: July 1, 2026.
+McGuire, DeVon
+January 5, 2026, read first time and referred to Committee on Family, Children and Human
+Affairs.
+2026 IN 1257—LS 6776/DI 119
+
+Digest Continued
+or neglect. Provides that if the information disclosed or released by the
+department includes a record that is redacted to exclude specified
+information, the record is not confidential. Provides that the department
+may provide unredacted reports or material to: (1) a service provider
+that requires access to the unredacted reports or material to assess
+whether the service provider's services are suitable for the child; and
+(2) the attorney general or a prosecutor for purposes of a criminal
+investigation by the attorney general or prosecutor. Provides that the
+statutory limit on the department's provision of services to a parent,
+guardian, or custodian of a child who is the subject of a petition
+alleging the child to be a CHINS applies: (1) regardless of whether the
+child has been removed from the home of the parent, guardian, or
+custodian; (2) regardless of whether the services are provided at the
+direction of a court or of the department; and (3) beginning on the date
+on which the CHINS petition is filed.
+22002266 IINN 11225577——LLSS 66777766//DDII 111199
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1257
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-49-4-2, AS AMENDED BY P.L.171-2025,
+2 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 2. The statewide child fatality review committee
+4 consists of the following members:
+5 (1) The following members appointed by the governor:
+6 (1) (A) A coroner or deputy coroner.
+7 (2) (B) A representative from the state department who:
+8 (A) (i) is a licensed physician; or
+9 (B) (ii) specializes in injury prevention.
+10 (3) (C) A representative of a:
+11 (A) (i) local health department established under
+12 IC 16-20-2; or
+13 (B) (ii) multiple county health department established under
+14 IC 16-20-3.
+15 (4) (D) A pediatrician.
+2026 IN 1257—LS 6776/DI 119
+
+2
+1 (5) (E) A representative of law enforcement who has
+2 experience in investigating child deaths.
+3 (6) (F) A representative from an emergency medical services
+4 provider.
+5 (7) (G) The director or a representative of the department of
+6 child services.
+7 (8) (H) A representative of a prosecuting attorney who has
+8 experience in prosecuting child abuse.
+9 (9) (I) A pathologist who is:
+10 (A) (i) certified by the American Board of Pathology in
+11 forensic pathology; and
+12 (B) (ii) licensed to practice medicine in Indiana.
+13 (10) (J) A mental health provider.
+14 (11) (K) A representative of a child abuse prevention program.
+15 (12) (L) A representative of the department of education.
+16 (13) (M) An epidemiologist.
+17 (14) (N) The state child fatality review coordinator.
+18 (15) (O) At the discretion of the department of child services
+19 ombudsman, a representative of the office of the department
+20 of child services ombudsman established by IC 4-13-19-3.
+21 (2) One (1) member appointed by the speaker of the house of
+22 representatives.
+23 (3) One (1) member appointed by the president pro tempore
+24 of the senate.
+25 (4) One (1) member appointed by the minority leader of the
+26 house of representatives.
+27 (5) One (1) member appointed by the minority leader of the
+28 senate.
+29 SECTION 2. IC 31-9-2-19.3, AS ADDED BY P.L.138-2007,
+30 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 19.3. "Child welfare agency", for purposes of
+32 IC 31-25-2-20.4 and IC 31-33-18-1.6, means:
+33 (1) the department of child services; and
+34 (2) a person (as defined in IC 24-4-14-5) that, directly or
+35 indirectly, provides:
+36 (A) services to a child or family of a child, for which payment
+37 is made, in whole or in part, by the department of child
+38 services or a local office of the department of child services;
+39 (B) services to:
+40 (i) a child who is; or
+41 (ii) a family with;
+42 a child at imminent risk of placement (as defined in
+2026 IN 1257—LS 6776/DI 119
+
+3
+1 IC 31-26-5-1) who is referred by the department of child
+2 services or a local office of the department of child services to
+3 the person for family support or family preservation services;
+4 or
+5 (C) assistance to or works in cooperation with the department
+6 of child services in the investigations of allegations of possible
+7 child abuse or neglect in accordance with IC 31-33.
+8 SECTION 3. IC 31-9-2-112.4 IS ADDED TO THE INDIANA
+9 CODE AS A NEW SECTION TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 112.4. (a) "Reunification
+11 services" means all services that are provided:
+12 (1) to a parent, guardian, or custodian of a child who is the
+13 subject of petition alleging that the child is a child in need of
+14 services; and
+15 (2) with the intent of rehabilitating the relationship between
+16 the child and the parent, guardian or custodian.
+17 (b) The term includes services such as:
+18 (1) individual, group, and family counseling;
+19 (2) inpatient, residential, or outpatient substance abuse
+20 treatment services;
+21 (3) mental health services;
+22 (4) assistance to address domestic violence;
+23 (5) services designed to provide temporary child care and
+24 therapeutic services for families;
+25 (6) peer-to-peer mentoring and support groups for parents
+26 and primary caregivers;
+27 (7) services and activities designed to facilitate access to and
+28 visitation of children by parents and siblings;
+29 (8) substance abuse treatment and screening; and
+30 (9) transportation to or from any of the services and activities
+31 described in this subsection.
+32 (c) The term does not include services provided to a parent,
+33 guardian, or custodian of a child while the child is residing in a:
+34 (1) child caring institution;
+35 (2) group home; or
+36 (3) private secure facility;
+37 licensed by the department.
+38 SECTION 4. IC 31-9-2-113.6 IS ADDED TO THE INDIANA
+39 CODE AS A NEW SECTION TO READ AS FOLLOWS
+40 [EFFECTIVE JULY 1, 2026]: Sec. 113.6. "Screened out", with
+41 regard to a report of known or suspected child abuse or neglect
+42 under IC 31-33, means that the department:
+2026 IN 1257—LS 6776/DI 119
+
+4
+1 (1) received the report under IC 31-33-7; and
+2 (2) did not refer the report for investigation under IC 31-33-9
+3 based on the department's determination that the report:
+4 (A) lacked sufficient information;
+5 (B) did not contain allegations of child abuse or neglect;
+6 (C) contained duplicative allegations that were previously
+7 assessed by the department; or
+8 (D) did not contain information indicating a current risk to
+9 a child.
+10 SECTION 5. IC 31-19-16-2, AS AMENDED BY P.L.128-2012,
+11 SECTION 57, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 2. A court may grant postadoption contact
+13 privileges if:
+14 (1) the court determines that the best interests of the child would
+15 be served by granting postadoption contact privileges;
+16 (2) the child is at least two (2) years one (1) year of age and the
+17 court finds that there is a significant emotional attachment
+18 between the child and the birth parent;
+19 (3) each adoptive parent consents to the granting of postadoption
+20 contact privileges;
+21 (4) the adoptive parents and the birth parents:
+22 (A) execute a postadoption contact agreement; and
+23 (B) file the agreement with the court;
+24 (5) the licensed child placing agency sponsoring the adoption and
+25 the child's court appointed special advocate or guardian ad litem
+26 appointed under IC 31-32-3 recommends to the court the
+27 postadoption contact agreement, or if there is no licensed child
+28 placing agency sponsoring the adoption, the local office or other
+29 agency that prepared an adoption report under IC 31-19-8-5 is
+30 informed of the contents of the postadoption contact agreement
+31 and comments on the agreement in the agency's report to the
+32 court;
+33 (6) consent to postadoption contact is obtained from the child if
+34 the child is at least twelve (12) years of age; and
+35 (7) the postadoption contact agreement is approved by the court.
+36 SECTION 6. IC 31-25-2-24, AS AMENDED BY P.L.11-2023,
+37 SECTION 99, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 24. (a) Before December 31 of each year, the
+39 department shall annually prepare a report concerning all child
+40 fatalities in Indiana that are the result of child abuse or neglect in the
+41 preceding calendar year. The report must include the following
+42 information:
+2026 IN 1257—LS 6776/DI 119
+
+5
+1 (1) A summary of the information gathered concerning child
+2 fatalities resulting from abuse or neglect.
+3 (2) Demographic information regarding victims, perpetrators, and
+4 households involved in child fatalities resulting from abuse or
+5 neglect.
+6 (3) An analysis of the primary risk factors involved in child
+7 fatalities resulting from abuse or neglect.
+8 (4) A summary of the most frequent causes of child fatalities
+9 resulting from abuse or neglect.
+10 (5) A description of the manner in which the information was
+11 assembled.
+12 The department shall post the report prepared under this section on the
+13 department's website.
+14 (b) As part of the summary of information described in subsection
+15 (a)(1), the report must include the following information for each
+16 child fatality:
+17 (1) Whether, at the time of the child's death or at any time
+18 before the child's death, the child was alleged or adjudicated to
+19 be a child in need of services under IC 31-34-1 in a child in need
+20 of services proceeding that had not been closed at the time of the
+21 event that led to the child's death; and or was the subject of a
+22 program of informal adjustment.
+23 (2) Whether, at the time of the event that led to the child's death,
+24 the child:
+25 (A) had been ordered to remain in the child's home;
+26 (B) was on a trial home visit;
+27 (C) was placed in foster care; or
+28 (D) was residing in a residential treatment facility. or
+29 (E) was the subject of a program of informal adjustment.
+30 (3) The following information regarding each report of known
+31 or suspected child abuse or neglect that the department
+32 received regarding the child and screened out:
+33 (A) The date on which the report was received.
+34 (B) The documented reason or reasons for:
+35 (i) the recommendation of the department's intake
+36 personnel that the report be screened out; and
+37 (ii) the approval of the recommendation under item (i)
+38 by each department supervisor, director, or other official
+39 that reviewed the recommendation.
+40 Names or other identifying information of department
+41 employees may be omitted or redacted from the information
+42 reported under this subdivision.
+2026 IN 1257—LS 6776/DI 119
+
+6
+1 (4) A detailed description of the actions taken by the
+2 department concerning the child, including the following:
+3 (A) A summary of any investigation of alleged child abuse
+4 and neglect concerning the child, including any relevant
+5 risk and safety assessment concerning the child, that was
+6 conducted by the department before the child's death or
+7 that was ongoing at the time of the child's death.
+8 (B) With regard to an investigation reported under clause
+9 (A) that resulted in a determination that the allegation of
+10 child abuse or neglect was unsubstantiated:
+11 (i) a narrative, chronological summary of the
+12 investigation; and
+13 (ii) the department's reasoning for determining that the
+14 allegation was unsubstantiated.
+15 (5) The name of the judge who presided over any detention
+16 hearing concerning the child under IC 31-34-5 the result of
+17 which was release of the child to the child's parent, guardian,
+18 or custodian.
+19 (6) If the child was the subject of one (1) or more petitions
+20 alleging that the child was a child in need of services:
+21 (A) for each child in need of services petition:
+22 (i) the allegations that prompted the filing of the child in
+23 need of services petition;
+24 (ii) a narrative, chronological summary of the child in
+25 need of services proceeding;
+26 (iii) any judicial findings that were issued by the court in
+27 the child in need of services proceeding; and
+28 (iv) a description of the disposition of the petition,
+29 including a description of the dispositional decree, if any,
+30 entered by the court; and
+31 (B) the name of the judge who presided over the most
+32 recent child in need of services proceeding concerning the
+33 child.
+34 (7) A summary of any child abuse and neglect investigation
+35 conducted concerning the child after the child's death,
+36 including:
+37 (A) the nature and extent of the child's present and past
+38 injuries;
+39 (B) medical information pertaining to the child's death;
+40 and
+41 (C) information regarding any criminal charges brought
+42 in connection with the investigation, including the name of
+2026 IN 1257—LS 6776/DI 119
+
+7
+1 any individual convicted of criminal charges brought in
+2 connection with the investigation.
+3 (c) As part of the annual report required by subsection (a), before
+4 December 31 of each year, the department shall report the following:
+5 (1) The number of children who died in Indiana in the preceding
+6 calendar year for whom abuse or neglect was suspected to be a
+7 factor in the child's death.
+8 (2) The:
+9 (A) number of children described in subdivision (1) whose
+10 cause of death was determined to be related to abuse or
+11 neglect; and
+12 (B) number of children described in subdivision (1) whose
+13 cause of death was determined to be unrelated to abuse or
+14 neglect.
+15 (3) The number of children described in subdivision (2)(A) who
+16 were the subject of a department assessment based on an
+17 allegation of abuse or neglect.
+18 (4) The number of children described in subdivision (3) who were
+19 the subject of a department assessment based on an allegation of
+20 abuse or neglect that was determined to be substantiated.
+21 (5) The number of children described in subdivision (3) who were
+22 the subject of a department assessment based on an allegation of
+23 abuse or neglect that was determined to be unsubstantiated.
+24 (6) For each child described in subdivision (3), the following
+25 information:
+26 (A) The cause and manner of the child's death.
+27 (B) The:
+28 (i) number of department assessments of the child that were
+29 based on an allegation of abuse or neglect that was
+30 determined to be substantiated; and
+31 (ii) number of department assessments of the child that were
+32 based on an allegation of abuse or neglect that was
+33 determined to be unsubstantiated.
+34 (C) The child's relationship to the perpetrator or perpetrators
+35 of the abuse or neglect to which the child's death was
+36 determined to be related.
+37 (D) For each perpetrator described in clause (C):
+38 (i) whether, prior to the allegation of abuse or neglect to
+39 which the death of the child described in subdivision (3) was
+40 related, a substantiated allegation of abuse or neglect
+41 resulted in the perpetrator being determined to have abused
+42 or neglected the child or another child; and
+2026 IN 1257—LS 6776/DI 119
+
+8
+1 (ii) the number of substantiated reports of abuse or neglect
+2 described in item (i);
+3 (iii) whether, prior to the allegation of abuse or neglect
+4 to which the death of the child described in subdivision
+5 (3) was related, an investigation of an allegation of abuse
+6 or neglect of the child or of another child resulted in the
+7 allegation being determined to be unsubstantiated; and
+8 (iv) the number of unsubstantiated reports of abuse or
+9 neglect described in item (iii).
+10 (d) Not later than January 31 of each year, the department shall
+11 provide to the executive director of the legislative services agency, for
+12 distribution to the interim study committee on child services, a copy of
+13 the most recent annual report prepared by the department under this
+14 section. The report provided to the executive director of the legislative
+15 services agency under this subsection must be in an electronic format
+16 under IC 5-14-6.
+17 SECTION 7. IC 31-32-2.5-4 IS ADDED TO THE INDIANA CODE
+18 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+19 1, 2026]: Sec. 4. (a) As used in this section, "court dashboard"
+20 means a public, online data base maintained by the office of
+21 judicial administration to which the office of judicial
+22 administration publishes information collected by the office of
+23 judicial administration regarding court performance in:
+24 (1) child in need of services proceedings under IC 31-34; and
+25 (2) termination of parental rights proceedings under IC 31-35.
+26 (b) A court with which a petition for intervention is filed under
+27 this chapter shall report to the office of judicial administration the
+28 number of days that elapse between:
+29 (1) the date on which the petition is filed; and
+30 (2) the date on which the court grants or denies the petition.
+31 (c) The office of judicial administration shall publish on the
+32 court dashboard information regarding the average number of
+33 days reported by courts under subsection (b).
+34 SECTION 8. IC 31-33-8-1, AS AMENDED BY P.L.198-2019,
+35 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2026]: Sec. 1. (a) The department shall initiate an
+37 appropriately thorough child protection assessment of every report of
+38 known or suspected child abuse or neglect the department receives,
+39 whether in accordance with this article or otherwise, unless the report
+40 is screened out and referred to a law enforcement agency.
+41 (b) If a report of known or suspected child abuse or neglect is
+42 received from a judge or prosecutor requesting the department to
+2026 IN 1257—LS 6776/DI 119
+
+9
+1 initiate a child protection assessment, the department shall initiate an
+2 assessment in accordance with this section.
+3 (c) If a report of known or suspected child abuse or neglect is
+4 received from:
+5 (1) medical personnel;
+6 (2) school personnel;
+7 (3) a social worker;
+8 (4) law enforcement officials or personnel;
+9 (5) judiciary personnel; or
+10 (6) prosecuting attorney personnel;
+11 the department shall forward the report to the local office to determine
+12 if the department will initiate an assessment in accordance with this
+13 section.
+14 (d) If the department believes that a child is in imminent danger of
+15 serious bodily harm, the department shall initiate an onsite assessment
+16 immediately, but not later than two (2) hours, after receiving the report.
+17 (e) If the report alleges a child may be a victim of child abuse, the
+18 assessment shall be initiated immediately, but not later than
+19 twenty-four (24) hours after receipt of the report.
+20 (f) If reports of child neglect are received, the assessment shall be
+21 initiated within a reasonably prompt time, but not later than five (5)
+22 days, with the primary consideration being the well-being of the child
+23 who is the subject of the report.
+24 (g) If the report alleges that a child lives with a parent, guardian, or
+25 custodian who is married to or lives with a person who:
+26 (1) has been convicted of:
+27 (A) neglect of a dependent under IC 35-46-1-4; or
+28 (B) a battery offense under IC 35-42-4; or
+29 (2) is required to register as a sex or violent offender under
+30 IC 11-8-8;
+31 the department shall initiate an assessment within a reasonably prompt
+32 time, but not later than five (5) days after the department receives the
+33 report, with the primary consideration being the well-being of the child
+34 who is the subject of the report.
+35 (h) If the safety or well-being of a child appears to be endangered or
+36 the facts otherwise warrant, the assessment shall be initiated regardless
+37 of the time of day.
+38 (i) If a report alleges abuse or neglect and involves a child care
+39 ministry that is exempt from licensure under IC 12-17.2-6, the
+40 department and the appropriate law enforcement agency shall jointly
+41 conduct an investigation. The investigation shall be conducted under
+42 the requirements of this section and section 2(b) of this chapter.
+2026 IN 1257—LS 6776/DI 119
+
+10
+1 SECTION 9. IC 31-33-18-1, AS AMENDED BY P.L.77-2023,
+2 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. (a) Except as provided in section sections 1.5
+4 and 1.6 of this chapter, the following are confidential:
+5 (1) Reports made under this article (or IC 31-6-11 before its
+6 repeal).
+7 (2) Any other information, documents, reports, pictures, videos,
+8 images, or recordings obtained, possessed, produced, or created
+9 by:
+10 (A) the division of family resources;
+11 (B) the local office;
+12 (C) the department; or
+13 (D) the department of child services ombudsman established
+14 by IC 4-13-19-3;
+15 concerning a child or family with whom the department has
+16 received a report or referral or has been involved with during any
+17 stage of the department's investigation, including post-assessment
+18 or post-adoption activity.
+19 (b) Except as provided in section sections 1.5 and 1.6 of this
+20 chapter, all records held by:
+21 (1) the division of family resources;
+22 (2) a local office;
+23 (3) the department;
+24 (4) a local child fatality review team established under
+25 IC 16-49-2;
+26 (5) the statewide child fatality review committee established
+27 under IC 16-49-4; or
+28 (6) the department of child services ombudsman established by
+29 IC 4-13-19-3;
+30 regarding the death of a child determined to be a result of abuse,
+31 abandonment, or neglect are confidential and may not be disclosed.
+32 SECTION 10. IC 31-33-18-1.6 IS ADDED TO THE INDIANA
+33 CODE AS A NEW SECTION TO READ AS FOLLOWS
+34 [EFFECTIVE JULY 1, 2026]: Sec. 1.6. (a) As used in this section,
+35 "state legislator" means:
+36 (1) a member of the United States Congress representing
+37 Indiana; or
+38 (2) a member of the general assembly;
+39 acting in the member's official capacity.
+40 (b) The department shall disclose information that:
+41 (1) concerns alleged or actual child abuse or neglect; and
+42 (2) is requested by a state legislator;
+2026 IN 1257—LS 6776/DI 119
+
+11
+1 to the state legislator not later than twenty (20) business days after
+2 receiving the state legislator's request for the information.
+3 (c) If requested by a state legislator under subsection (b), or as
+4 necessary to provide information responsive to the request of a
+5 state legislator under subsection (b), the department shall disclose
+6 to the state legislator:
+7 (1) unredacted department records regarding the alleged or
+8 actual child abuse or neglect; and
+9 (2) information regarding actions taken by other entities,
+10 including:
+11 (A) child welfare agencies;
+12 (B) guardians ad litem;
+13 (C) court appointed special advocates; and
+14 (D) court officers;
+15 with regard to the alleged or actual child abuse or neglect;
+16 including records or information that predate July 1, 2026.
+17 (d) A state legislator to whom an unredacted record is disclosed
+18 under this section may not permit disclosure of the record to a
+19 third party except in the interest of a legitimate government
+20 purpose in protecting children from child abuse or neglect.
+21 (e) The director or the director's designee may disclose
+22 information to the news media to confirm, clarify, correct, or
+23 supplement information concerning an alleged or actual
+24 occurrence of child abuse or neglect that has been made public by
+25 a source other than the department, if the disclosure is limited to
+26 factual information regarding the department's investigation of the
+27 alleged or actual occurrence of child abuse or neglect.
+28 (f) Not later than five (5) days after the death of a child whose
+29 death is suspected to be the result of child abuse or neglect, the
+30 department shall release to the news media the following
+31 information, to the extent the information is known:
+32 (1) The child's age.
+33 (2) The child's gender.
+34 (3) A summary of:
+35 (A) the actions taken by the department concerning the
+36 child, including any investigation of alleged child abuse
+37 and neglect concerning the child that was conducted by the
+38 department before the child's death or that was ongoing at
+39 the time of the child's death; and
+40 (B) any petition that was filed alleging that the child was a
+41 child in need of services, including the disposition of the
+42 petition.
+2026 IN 1257—LS 6776/DI 119
+
+12
+1 (g) A record released under this section that has been redacted
+2 to exclude the information described in section 1.5(g) of this
+3 chapter is not confidential.
+4 (h) This section shall be construed as broadly as possible
+5 consistent with other Indiana and federal law.
+6 SECTION 11. IC 31-33-18-2, AS AMENDED BY P.L.54-2024,
+7 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2026]: Sec. 2. Except as otherwise prohibited by federal law,
+9 the reports and other material described in section 1(a) of this chapter
+10 and the unredacted reports and other material described in section 1(b)
+11 of this chapter shall be made available only to the following:
+12 (1) Persons authorized by this article.
+13 (2) A legally mandated public or private child protective agency
+14 investigating a report of child abuse or neglect or treating a child
+15 or family that is the subject of a report or record.
+16 (3) Any of the following who are investigating a report of a child
+17 who may be a victim of child abuse or neglect:
+18 (A) A police officer or other law enforcement agency.
+19 (B) A prosecuting attorney.
+20 (C) A coroner, in the case of the death of a child.
+21 (4) A physician who has before the physician a child whom the
+22 physician reasonably suspects may be a victim of child abuse or
+23 neglect.
+24 (5) An individual legally authorized to place a child in protective
+25 custody if:
+26 (A) the individual has before the individual a child whom the
+27 individual reasonably suspects may be a victim of abuse or
+28 neglect; and
+29 (B) the individual requires the information in the report or
+30 record to determine whether to place the child in protective
+31 custody.
+32 (6) An agency A person having the legal responsibility or
+33 authorization to care for, treat, or supervise a child who is the
+34 subject of a report or record, or a including a service provider
+35 that requires access to the unredacted reports or material to
+36 assess:
+37 (A) the suitability of the provider or the provider's services
+38 for the child; or
+39 (B) the suitability of the child for the provider or for the
+40 provider's services;
+41 before providing care, treatment, or supervision for the child.
+42 (7) A parent, guardian, custodian, or other person who is
+2026 IN 1257—LS 6776/DI 119
+
+13
+1 responsible for the child's welfare.
+2 (7) (8) An individual named in the report or record who is alleged
+3 to be abused or neglected or, if the individual named in the report
+4 is a child or is otherwise incompetent, the individual's guardian ad
+5 litem or the individual's court appointed special advocate, or both.
+6 (8) (9) Each parent, guardian, custodian, or other person
+7 responsible for the welfare of a child named in a report or record
+8 and an attorney of the person described under this subdivision,
+9 with protection for the identity of reporters and other appropriate
+10 individuals.
+11 (9) (10) A court, for redaction of the record in accordance with
+12 section 1.5 of this chapter, or upon the court's finding that access
+13 to the records may be necessary for determination of an issue
+14 before the court. However, except for disclosure of a redacted
+15 record in accordance with section 1.5 of this chapter, access is
+16 limited to in camera inspection unless the court determines that
+17 public disclosure of the information contained in the records is
+18 necessary for the resolution of an issue then pending before the
+19 court.
+20 (10) (11) A grand jury upon the grand jury's determination that
+21 access to the records is necessary in the conduct of the grand
+22 jury's official business.
+23 (11) (12) An appropriate state or local official responsible for
+24 child protection services or legislation, including a member of
+25 the general assembly, carrying out the official's official
+26 functions.
+27 (12) (13) The community child protection team appointed under
+28 IC 31-33-3 (or IC 31-6-11-14 before its repeal), upon request, to
+29 enable the team to carry out the team's purpose under IC 31-33-3.
+30 (13) (14) A person about whom a report has been made, with
+31 protection for the identity of:
+32 (A) any person reporting known or suspected child abuse or
+33 neglect; and
+34 (B) any other person if the person or agency making the
+35 information available finds that disclosure of the information
+36 would be likely to endanger the life or safety of the person.
+37 (14) (15) An employee of the department, a caseworker, or a
+38 juvenile probation officer conducting a criminal history check
+39 under IC 31-26-5, IC 31-34, or IC 31-37 to determine the
+40 appropriateness of an out-of-home placement for a:
+41 (A) child at imminent risk of placement;
+42 (B) child in need of services; or
+2026 IN 1257—LS 6776/DI 119
+
+14
+1 (C) delinquent child.
+2 The results of a criminal history check conducted under this
+3 subdivision must be disclosed to a court determining the
+4 placement of a child described in clauses (A) through (C).
+5 (15) (16) A local child fatality review team established under
+6 IC 16-49-2.
+7 (16) (17) The statewide child fatality review committee
+8 established by IC 16-49-4.
+9 (17) (18) The department.
+10 (18) (19) The division of family resources, if the investigation
+11 report:
+12 (A) is classified as substantiated; and
+13 (B) concerns:
+14 (i) an applicant for a license to operate;
+15 (ii) a person licensed to operate;
+16 (iii) an employee of; or
+17 (iv) a volunteer providing services at;
+18 a child care center licensed under IC 12-17.2-4 or a child care
+19 home licensed under IC 12-17.2-5.
+20 (19) (20) A citizen review panel established under
+21 IC 31-25-2-20.4.
+22 (20) (21) The department of child services ombudsman
+23 established by IC 4-13-19-3.
+24 (21) (22) The secretary of education with protection for the
+25 identity of:
+26 (A) any person reporting known or suspected child abuse or
+27 neglect; and
+28 (B) any other person if the person or agency making the
+29 information available finds that disclosure of the information
+30 would be likely to endanger the life or safety of the person.
+31 (22) (23) The state child fatality review coordinator employed by
+32 the Indiana department of health under IC 16-49-5-1.
+33 (23) (24) A person who operates a child caring institution, group
+34 home, or secure private facility if all the following apply:
+35 (A) The child caring institution, group home, or secure private
+36 facility is licensed under IC 31-27.
+37 (B) The report or other materials concern:
+38 (i) an employee of;
+39 (ii) a volunteer providing services at; or
+40 (iii) a child placed at;
+41 the child caring institution, group home, or secure private
+42 facility.
+2026 IN 1257—LS 6776/DI 119
+
+15
+1 (C) The allegation in the report occurred at the child caring
+2 institution, group home, or secure private facility.
+3 (24) (25) A person who operates a child placing agency if all the
+4 following apply:
+5 (A) The child placing agency is licensed under IC 31-27.
+6 (B) The report or other materials concern:
+7 (i) a child placed in a foster home licensed by the child
+8 placing agency;
+9 (ii) a person licensed by the child placing agency to operate
+10 a foster family home;
+11 (iii) an employee of the child placing agency or a foster
+12 family home licensed by the child placing agency; or
+13 (iv) a volunteer providing services at the child placing
+14 agency or a foster family home licensed by the child placing
+15 agency.
+16 (C) The allegations in the report occurred in the foster family
+17 home or in the course of employment or volunteering at the
+18 child placing agency or foster family home.
+19 (25) (26) The National Center for Missing and Exploited
+20 Children.
+21 (26) (27) A local domestic violence fatality review team
+22 established under IC 12-18-8, as determined by the department to
+23 be relevant to the death or near fatality that the local domestic
+24 violence fatality review team is reviewing.
+25 (27) (28) The statewide domestic violence fatality review
+26 committee established under IC 12-18-9-3, as determined by the
+27 department to be relevant to the death or near fatality that the
+28 statewide domestic violence fatality review committee is
+29 reviewing.
+30 (28) (29) The statewide maternal mortality review committee
+31 established under IC 16-50-1-3, as determined by the department
+32 to be relevant to the case of maternal morbidity or maternal
+33 mortality that the statewide maternal mortality review committee
+34 is reviewing.
+35 (29) (30) A local fetal-infant mortality review team established
+36 under IC 16-49-6, as determined by the department to be relevant
+37 to the case of fetal or infant fatality that the local fetal-infant
+38 mortality review team is reviewing.
+39 (30) (31) A suicide and overdose fatality review team established
+40 under IC 16-49.5-2, as determined by the department to be
+41 relevant to the case of a suicide or overdose fatality that the
+42 suicide and overdose fatality review team is reviewing.
+2026 IN 1257—LS 6776/DI 119
+
+16
+1 (31) (32) The office of administrative law proceedings for a
+2 matter that is the subject of an administrative proceeding before
+3 the office of administrative law proceedings.
+4 (32) (33) A tribal representative, agency, or organization
+5 authorized by the Indian child's tribe to care for, diagnose, treat,
+6 review, evaluate, or monitor active efforts regarding an Indian
+7 child, and the Indian child's parent, guardian, or custodian.
+8 (33) (34) The United States Department of State and foreign
+9 governments to comply with federal law and treaties.
+10 (34) (35) A child advocacy center when the child advocacy center
+11 has before it an investigation of child abuse or neglect in which
+12 it is facilitating a forensic interview or facilitating a case
+13 discussion or case review.
+14 (36) The office of the attorney general or a prosecutor for
+15 purposes of a criminal investigation by the office of the
+16 attorney general or prosecutor.
+17 SECTION 12. IC 31-34-7-4, AS AMENDED BY P.L.46-2016,
+18 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2026]: Sec. 4. A person who is accused of committing child
+20 abuse or neglect is entitled under IC 31-33-18-2(13) IC 31-33-18-2(14)
+21 to access to a report relevant to an alleged accusation.
+22 SECTION 13. IC 31-34-20-1.6, AS ADDED BY P.L.179-2025,
+23 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2026]: Sec. 1.6. (a) This section applies to a parent,
+25 guardian, or custodian of a child:
+26 (1) who (A) is the subject of a proceeding regarding a petition
+27 alleging that the child is a child in need of services, petition that
+28 is filed after the child is removed from the care or custody of the
+29 child's parent, guardian, or custodian under IC 31-34-2-3,
+30 regardless of whether:
+31 (A) the child is removed from the care or custody of the
+32 parent, guardian, or custodian; or
+33 (B) the child, if removed, is returned to the care or custody of
+34 the parent, guardian, or custodian;
+35 at any time before or after the entry of the a dispositional decree
+36 or in the proceeding; and
+37 (B) is removed from the care or custody of the child's parent,
+38 guardian, or custodian under the child's dispositional decree
+39 under section 1(a)(3) of this chapter; and
+40 (2) whose dispositional decree includes an order under section
+41 1(a)(6) of this chapter requiring a parent, guardian, or custodian
+42 of the child who has been:
+2026 IN 1257—LS 6776/DI 119
+
+17
+1 (A) ordered by the court in the proceeding; or
+2 (B) directed by the department;
+3 to complete reunification services.
+4 (b) Except as provided in subsections (c) and (d), a the court in a
+5 proceeding regarding a petition alleging that a child is a child in
+6 need of services may not provide for a child's parent, guardian, or
+7 custodian to receive reunification services for more than:
+8 (1) if the child is removed from the parent, guardian, or custodian
+9 in need of services petition is filed after June 30, 2025, and
+10 before July 1, 2026, fifteen (15) months; or
+11 (2) if the child is removed from the parent, guardian, or custodian
+12 in need of services petition is filed after June 30, 2026, twelve
+13 (12) months;
+14 after the date of the child's removal under IC 31-34-2-3 or under the
+15 child's dispositional decree, whichever is earlier. on which the petition
+16 is filed.
+17 (c) A court may extend the provision of reunification services to a
+18 child's parent, guardian, or custodian for:
+19 (1) a period of not more than ninety (90) days if the court finds
+20 after an evidentiary hearing that:
+21 (A) the parent, guardian, or custodian has substantially
+22 complied with the child's dispositional decree; and
+23 (B) the extension is in the child's best interests; and
+24 (2) an additional period of not more than ninety (90) days
+25 following an extension under subdivision (1) if the court:
+26 (A) finds after an evidentiary hearing, by clear and convincing
+27 evidence, that:
+28 (i) the parent, guardian, or custodian has substantially
+29 complied with the child's dispositional decree; and
+30 (ii) the extension is in the child's best interests; and
+31 (B) includes in the order for the extension:
+32 (i) the facts upon which the court based the court's findings
+33 under clause (A); and
+34 (ii) the time period within which it is likely that reunification
+35 of the child with the parent will occur.
+36 (d) A court may extend the provision of reunification services to a
+37 child's parent, guardian, or custodian if the court finds after an
+38 evidentiary hearing that the child's parent, guardian, or custodian, by
+39 no fault of the parent, guardian, or custodian, was not afforded an
+40 adequate opportunity to substantially participate in the reunification
+41 services.
+42 (e) The following are not a basis for an extension under subsection
+2026 IN 1257—LS 6776/DI 119
+
+18
+1 (c) or (d):
+2 (1) Delay or failure by the parent, guardian, or custodian to
+3 establish paternity or seek custody of the child.
+4 (2) Failure of the parent, guardian, or custodian to substantially
+5 participate in the reunification services due to the conduct of the
+6 parent, guardian, or custodian.
+7 (f) In determining whether to extend the provision of reunification
+8 services to a child's parent under subsection (c) or (d), a court shall take
+9 into consideration the status of any minor siblings of the child.
+10 SECTION 14. IC 31-34-21-5, AS AMENDED BY P.L.179-2025,
+11 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 5. (a) Subject to subsection (c), the court shall
+13 determine:
+14 (1) whether the child's case plan, services, and placement meet
+15 the special needs and best interests of the child;
+16 (2) whether the department has made reasonable efforts to
+17 provide family services, unless a finding has been made under
+18 section 5.6 of this chapter that reasonable efforts for family
+19 preservation or reunification are not required; and
+20 (3) if the child was removed from the care or custody of the
+21 child's parent, guardian, or custodian, a projected date for the
+22 child's return home; and
+23 (4) a projected date for the child's adoption placement, the
+24 child's emancipation, or the appointment of a legal guardian for
+25 the child under section 7.5(c)(1)(D) of this chapter.
+26 (b) The determination of the court under subsection (a) must be
+27 based on findings written after consideration of the following:
+28 (1) Whether the department, the child, or the child's parent,
+29 guardian, or custodian has complied with the child's case plan.
+30 (2) Written documentation containing descriptions of:
+31 (A) the family services that have been offered or provided to
+32 the child or the child's parent, guardian, or custodian;
+33 (B) the dates during which the family services were offered or
+34 provided; and
+35 (C) the outcome arising from offering or providing the family
+36 services.
+37 (3) The extent of the efforts made by the department to offer and
+38 provide family services.
+39 (4) The extent to which the parent, guardian, or custodian has
+40 enhanced the ability to fulfill parental obligations.
+41 (5) The extent to which the parent, guardian, or custodian has
+42 visited the child, including the reasons for infrequent visitation.
+2026 IN 1257—LS 6776/DI 119
+
+19
+1 (6) The extent to which the parent, guardian, or custodian has
+2 cooperated with the department.
+3 (7) The child's recovery from any injuries suffered before
+4 removal.
+5 (8) Whether any additional services are required for the child or
+6 the child's parent, guardian, or custodian and, if so, the nature of
+7 those services.
+8 (9) The extent to which the child has been rehabilitated.
+9 (10) If the child is placed out-of-home, whether the child is in the
+10 least restrictive, most family-like setting, and whether the child is
+11 placed close to the home of the child's parent, guardian, or
+12 custodian.
+13 (11) The extent to which the causes for the child's out-of-home
+14 placement or supervision have been alleviated.
+15 (12) Whether current placement or supervision by the department
+16 should be continued.
+17 (13) The extent to which the child's parent, guardian, or custodian
+18 has participated or has been given the opportunity to participate
+19 in case planning, periodic case reviews, dispositional reviews,
+20 placement of the child, and visitation.
+21 (14) Whether the department has made reasonable efforts to
+22 reunify or preserve a child's family unless reasonable efforts are
+23 not required under section 5.6 of this chapter.
+24 (15) Subject to subsection (c), whether it is an appropriate time to
+25 prepare or implement a permanency plan for the child under
+26 section 7.5 of this chapter.
+27 (16) If:
+28 (A) the child has been in an out-of-home placement at any
+29 time during the child in need of services proceeding; and
+30 (B) the child's dispositional decree includes an order under
+31 IC 31-34-20-1(a)(6) requiring the child's parent, guardian, or
+32 custodian to receive reunification services;
+33 the amount of time remaining for the parent, guardian, or
+34 custodian to complete the reunification services under
+35 IC 31-34-20-1.6.
+36 (c) The permanency plan for a child who has, at the time of a
+37 periodic case review or permanency hearing, been removed from the
+38 child's parent for at least twelve (12) months of the most recent
+39 twenty-two (22) months, must include at least one (1) intended
+40 permanent or long term arrangement for care and custody of the child
+41 under section 7.5(c) of this chapter other than reunification of the child
+42 with the child's parent, guardian, or custodian.
+2026 IN 1257—LS 6776/DI 119
+
+20
+1 SECTION 15. IC 31-39-2-6, AS AMENDED BY P.L.128-2012,
+2 SECTION 176, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 6. The records of the juvenile court
+4 are available without a court order to:
+5 (1) the attorney for the department of child services; or
+6 (2) any authorized staff member of:
+7 (A) the local office;
+8 (B) the department of child services;
+9 (C) the department of correction; or
+10 (D) the department of child services ombudsman established
+11 by IC 4-13-19-3; or
+12 (3) a state legislator (as defined in IC 31-33-18-1.6) as
+13 provided in IC 31-33-18-1.6.
+2026 IN 1257—LS 6776/DI 119

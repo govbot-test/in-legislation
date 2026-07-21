@@ -1,0 +1,381 @@
+Title: 
+Official Title: 
+Source: versions - Senate Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+*SB0197.1*
+January 23, 2026
+SENATE BILL No. 197
+_____
+DIGEST OF SB 197 (Updated January 21, 2026 11:06 am - DI 154)
+Citations Affected: IC 4-22; IC 24-4.5; IC 34-55; noncode.
+Synopsis: Garnishment. Amends the limitation on garnishment
+provided in the Uniform Consumer Credit Code. Requires a
+garnishment order or attachment order that requires an employer to
+make deductions from a debtor's disposable earnings to provide certain
+information to the employer. Provides that tangible personal property,
+including choses in action, deposit accounts, and cash (but excluding
+debts owing and income owing), of $1,500 is exempt from bankruptcy
+(current law is $300). Removes provisions in code requiring the
+department of financial institutions to adopt rules that establish or
+adjust exemption amounts for purposes of bankruptcy proceedings.
+Effective: July 1, 2026.
+Walker G, Walker K, Alting,
+Qaddoura, Randolph Lonnie M
+January 6, 2026, read first time and referred to Committee on Insurance and Financial
+Institutions.
+January 22, 2026, amended, reported favorably — Do Pass.
+SB 197—LS 6593/DI 154
+
+January 23, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 197
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-22-2.3-6, AS AMENDED BY P.L.93-2024,
+2 SECTION 20, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 6. The following apply to the department of
+4 financial institutions:
+5 (1) The department of financial institutions shall adopt rules
+6 under the interim rule procedures in IC 4-22-2-37.2 announcing:
+7 (A) sixty (60) days before January 1 of each odd-numbered
+8 year in which dollar amounts under IC 24-4.5 (Uniform
+9 Consumer Credit Code) are to change, the changes in dollar
+10 amounts required by IC 24-4.5-1-106(2);
+11 (B) promptly after the changes occur, changes in the Index
+12 required by IC 24-4.5-1-106(3), including, when applicable,
+13 the numerical equivalent of the Reference Base Index under a
+14 revised Reference Base Index and the designation or title of
+15 any index superseding the Index; and
+16 (C) the adjustments required under IC 24-9-2-8 concerning
+17 high cost home loans. and
+SB 197—LS 6593/DI 154
+
+2
+1 (D) the adjustments required under IC 34-55-10-2 (bankruptcy
+2 exemptions; limitations) or IC 34-55-10-2.5.
+3 A rule described in this subdivision expires not later than January
+4 of the next odd-numbered year after the department of financial
+5 institutions is required to issue the rule.
+6 (2) The department of financial institutions may adopt a rule
+7 under the interim rule procedures in IC 4-22-2-37.2 for a rule
+8 permitted under IC 24-4.4-1-101 (licensing system for creditors
+9 and mortgage loan originators) or IC 24-4.5 (Uniform Consumer
+10 Credit Code) if the department of financial institutions declares
+11 an emergency. A rule described in this subdivision expires not
+12 later than two (2) years after the rule is effective.
+13 (3) The department of financial institutions may adopt a rule
+14 described in IC 34-55-10-2 (bankruptcy exemptions; limitations)
+15 or IC 34-55-10-2.5 in conformity with the procedures in
+16 IC 4-22-2-23 through IC 4-22-2-36 or the interim rule procedures
+17 in IC 4-22-2-37.2. A rule described in this subdivision adopted
+18 under IC 4-22-2-37.2 expires not later than two (2) years after the
+19 rule is accepted for filing by the publisher of the Indiana Register.
+20 A rule described in this section may be continued in another interim
+21 rule only if the governor determines under IC 4-22-2-37.2(c) that the
+22 policy options available to the agency are so limited that use of the
+23 additional notice, comment, and review procedures in IC 4-22-2-23
+24 through IC 4-22-2-36 would provide no benefit to persons regulated or
+25 otherwise affected by the rule.
+26 SECTION 2. IC 24-4.5-5-105, AS AMENDED BY P.L.78-2014,
+27 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 105. (1) For the purposes of IC 24-4.5-5-101
+29 through IC 24-4.5-5-108:
+30 (a) "disposable earnings" means that part of the earnings of an
+31 individual, including wages, commissions, income, rents, or
+32 profits remaining after the deduction from those earnings of
+33 amounts required by law to be withheld;
+34 (b) "garnishment" means any legal or equitable proceedings
+35 through which the earnings of an individual are required to be
+36 withheld by a garnishee, by the individual debtor, or by any other
+37 person for the payment of a judgment; and
+38 (c) "support withholding" means that part of the earnings that are
+39 withheld from an individual for child support in accordance with
+40 the laws of this state.
+41 (2) Except as provided in subsection (8), the maximum part of the
+42 aggregate disposable earnings of an individual for any workweek which
+SB 197—LS 6593/DI 154
+
+3
+1 is subjected to garnishment to enforce the payment of one (1) or more
+2 judgments against the individual may not exceed the lesser of the
+3 following amounts:
+4 (a) An amount equal to twenty-five percent (25%) of the
+5 individual's disposable earnings for that week or, upon a showing
+6 of good cause by the individual why the amount should be
+7 reduced, an amount equal to:
+8 (i) less than twenty-five percent (25%); and
+9 (ii) at least ten percent (10%);
+10 of the individual's disposable earnings for that week.
+11 (b) The amount by which the individual's disposable earnings for
+12 that week exceed thirty (30) eighty-three (83) times the federal
+13 minimum hourly wage prescribed by 29 U.S.C. 206(a)(1) in effect
+14 at the time the earnings are payable.
+15 In the case of earnings for a pay period other than a week, the earnings
+16 shall be computed upon a multiple of the federal minimum hourly wage
+17 equivalent to thirty (30) eighty-three (83) times the federal minimum
+18 hourly wage as prescribed in this section.
+19 (3) The maximum part of the aggregate disposable earnings of an
+20 individual for any workweek which is subject to garnishment or
+21 support withholding to enforce any order for the support of any person
+22 shall not exceed:
+23 (a) where such individual is supporting the individual's spouse or
+24 dependent child (other than a spouse or child with respect to
+25 whose support such order is used), fifty percent (50%) of such
+26 individual's disposable earnings for that week; and
+27 (b) where such individual is not supporting such a spouse or
+28 dependent child described in subdivision (a), sixty percent (60%)
+29 of such individual's disposable earnings for that week;
+30 except that, with respect to the disposable earnings of any individual
+31 for any workweek, the fifty percent (50%) specified in subdivision (a)
+32 shall be deemed to be fifty-five percent (55%) and the sixty percent
+33 (60%) specified in subdivision (b) shall be deemed to be sixty-five
+34 percent (65%), if and to the extent that such earnings are subject to
+35 garnishment or support withholding to enforce a support order with
+36 respect to a period which is prior to the twelve (12) week period which
+37 ends with the beginning of such workweek.
+38 (4) No court may make, execute, or enforce an order or process in
+39 violation of this section.
+40 (5) An employer who is required to make deductions from an
+41 individual's disposable earnings pursuant to a garnishment order or
+42 series of orders arising out of the same judgment debt (excluding a
+SB 197—LS 6593/DI 154
+
+4
+1 judgment for payment of child support) may collect, as a fee to
+2 compensate the employer for making these deductions, an amount
+3 equal to the greater of twelve dollars ($12) or three percent (3%) of the
+4 total amount required to be deducted by the garnishment order or series
+5 of orders arising out of the same judgment debt. If the employer
+6 chooses to impose a fee, the fee shall be allocated as follows:
+7 (a) One-half (1/2) of the fee shall be borne by the debtor, and that
+8 amount may be deducted by the employer directly from the
+9 employee's disposable earnings.
+10 (b) One-half (1/2) of the fee shall be borne by the creditor, and
+11 that amount may be retained by the employer from the amount
+12 otherwise due the creditor.
+13 The deductions made under this subsection for a collection fee do not
+14 increase the amount of the judgment debt for which the fee is collected
+15 for the purpose of calculating or collecting judgment interest. This fee
+16 may be collected by an employer only once for each garnishment order
+17 or series of orders arising out of the same judgment debt. The employer
+18 may collect the entire fee from one (1) or more of the initial deductions
+19 from the employee's disposable earnings. Alternatively, the employer
+20 may collect the fee ratably over the number of pay periods during
+21 which deductions from the employee's disposable earnings are
+22 required.
+23 (6) The deduction of the garnishment collection fee under
+24 subsection (5)(a) or subsection (7) is not an assignment of wages under
+25 IC 22-2-6.
+26 (7) An employer who is required to make a deduction from an
+27 individual's disposable earnings in accordance with a judgment for
+28 payment of child support may collect a fee of two dollars ($2) each
+29 time the employer is required to make the deduction. The fee may be
+30 deducted by the employer from the individual's disposable earnings
+31 each time the employer makes the deduction for support. If the
+32 employer elects to deduct such a fee, the amount to be deducted for the
+33 payment of support must be reduced accordingly if necessary to avoid
+34 exceeding the maximum amount permitted to be deducted under
+35 subsection (3).
+36 (8) A support withholding order takes priority over a garnishment
+37 order irrespective of their dates of entry or activation. If a person is
+38 subject to a support withholding order and a garnishment order, the
+39 garnishment order shall be honored only to the extent that disposable
+40 earnings withheld under the support withholding order do not exceed
+41 the maximum amount subject to garnishment as computed under
+42 subsection (2).
+SB 197—LS 6593/DI 154
+
+5
+1 (9) A garnishment order or attachment order that requires an
+2 employer to make deductions from a debtor's disposable earnings
+3 shall at least provide the following information to the employer:
+4 (a) The debtor's name.
+5 (b) The debtor's last known physical address.
+6 (c) The debtor's last known mailing address.
+7 (d) The amount owed by the debtor and information sufficient
+8 to identify the judgment on which the garnishment order or
+9 attachment order is based.
+10 (e) The creditor's name and contact information.
+11 If the information required by subdivisions (b) and (c) is unknown
+12 to the creditor, the creditor shall indicate on the garnishment order
+13 or attachment order that the information is unknown. The
+14 information required by this subsection shall appear clearly and
+15 conspicuously on a single page.
+16 SECTION 3. IC 34-55-10-2, AS AMENDED BY P.L.160-2012,
+17 SECTION 65, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]: Sec. 2. (a) This section does not apply to judgments
+19 obtained before October 1, 1977.
+20 (b) The amount of each exemption under subsection (c) applies until
+21 a rule is adopted by the department of financial institutions under
+22 section 2.5 of this chapter.
+23 (c) (b) The following property of a debtor domiciled in Indiana is
+24 exempt:
+25 (1) Real estate or personal property constituting the personal or
+26 family residence of the debtor or a dependent of the debtor, or
+27 estates or rights in that real estate or personal property, of not
+28 more than fifteen thousand dollars ($15,000). twenty-two
+29 thousand seven hundred fifty dollars ($22,750). The exemption
+30 under this subdivision is individually available to joint debtors
+31 concerning property held by them as tenants by the entireties.
+32 (2) Other real estate or tangible personal property of eight
+33 thousand dollars ($8,000). twelve thousand one hundred dollars
+34 ($12,100).
+35 (3) Intangible personal property, including choses in action,
+36 deposit accounts, and cash (but excluding debts owing and
+37 income owing), of three hundred dollars ($300). one thousand
+38 five hundred dollars ($1,500).
+39 (4) Professionally prescribed health aids for the debtor or a
+40 dependent of the debtor.
+41 (5) Any interest that the debtor has in real estate held as a tenant
+42 by the entireties. The exemption under this subdivision does not
+SB 197—LS 6593/DI 154
+
+6
+1 apply to a debt for which the debtor and the debtor's spouse are
+2 jointly liable.
+3 (6) An interest, whether vested or not, that the debtor has in a
+4 retirement plan or fund to the extent of:
+5 (A) contributions, or portions of contributions, that were made
+6 to the retirement plan or fund by or on behalf of the debtor or
+7 the debtor's spouse:
+8 (i) which were not subject to federal income taxation to the
+9 debtor at the time of the contribution; or
+10 (ii) which are made to an individual retirement account in
+11 the manner prescribed by Section 408A of the Internal
+12 Revenue Code of 1986;
+13 (B) earnings on contributions made under clause (A) that are
+14 not subject to federal income taxation at the time of the levy;
+15 and
+16 (C) roll-overs of contributions made under clause (A) that are
+17 not subject to federal income taxation at the time of the levy.
+18 (7) Money that is in a medical care savings account established
+19 under IC 6-8-11.
+20 (8) Money that is in a health savings account established under
+21 Section 223 of the Internal Revenue Code of 1986.
+22 (9) Any interest the debtor has in a qualified tuition program, as
+23 defined in Section 529(b) of the Internal Revenue Code of 1986,
+24 but only to the extent funds in the program are not attributable to:
+25 (A) excess contributions, as described in Section 529(b)(6) of
+26 the Internal Revenue Code of 1986, and earnings on the excess
+27 contributions;
+28 (B) contributions made by the debtor within one (1) year
+29 before the date of the levy or the date a bankruptcy petition is
+30 filed by or against the debtor, and earnings on the
+31 contributions; or
+32 (C) the excess over five thousand dollars ($5,000) of aggregate
+33 contributions made by the debtor for all programs under this
+34 subdivision and education savings accounts under subdivision
+35 (10) having the same designated beneficiary:
+36 (i) not later than one (1) year before; and
+37 (ii) not earlier than two (2) years before;
+38 the date of the levy or the date a bankruptcy petition is filed by
+39 or against the debtor, and earnings on the aggregate
+40 contributions.
+41 (10) Any interest the debtor has in an education savings account,
+42 as defined in Section 530(b) of the Internal Revenue Code of
+SB 197—LS 6593/DI 154
+
+7
+1 1986, but only to the extent funds in the account are not
+2 attributable to:
+3 (A) excess contributions, as described in Section 4973(e) of
+4 the Internal Revenue Code of 1986, and earnings on the excess
+5 contributions;
+6 (B) contributions made by the debtor within one (1) year
+7 before the date of the levy or the date a bankruptcy petition is
+8 filed by or against the debtor, and earnings on the
+9 contributions; or
+10 (C) the excess over five thousand dollars ($5,000) of aggregate
+11 contributions made by the debtor for all accounts under this
+12 subdivision and qualified tuition programs under subdivision
+13 (9) having the same designated beneficiary:
+14 (i) not later than one (1) year before; and
+15 (ii) not earlier than two (2) years before;
+16 the date of the levy or the date a bankruptcy petition is filed by
+17 or against the debtor, and earnings on the excess contributions.
+18 (11) The debtor's interest in a refund or a credit received or to be
+19 received under the following:
+20 (A) Section 32 of the Internal Revenue Code of 1986 (the
+21 federal earned income tax credit).
+22 (B) IC 6-3.1-21-6 (the Indiana earned income tax credit).
+23 (12) A disability benefit awarded to a veteran for a service
+24 connected disability under 38 U.S.C. 1101 et seq. This
+25 subdivision does not apply to a service connected disability
+26 benefit that is subject to child and spousal support enforcement
+27 under 42 U.S.C. 659(h)(1)(A)(ii)(V).
+28 (13) Compensation distributed from the supplemental state fair
+29 relief fund under IC 34-13-8 to an eligible person (as defined in
+30 IC 34-13-8-1) for an occurrence (as defined in IC 34-13-8-2). This
+31 subdivision applies even if a debtor is not domiciled in Indiana.
+32 (d) (c) A bankruptcy proceeding that results in the ownership by the
+33 bankruptcy estate of a debtor's interest in property held in a tenancy by
+34 the entireties does not result in a severance of the tenancy by the
+35 entireties.
+36 (e) (d) Real estate or personal property upon which a debtor has
+37 voluntarily granted a lien is not, to the extent of the balance due on the
+38 debt secured by the lien:
+39 (1) subject to this chapter; or
+40 (2) exempt from levy or sale on execution or any other final
+41 process from a court.
+42 SECTION 4. IC 34-55-10-2.5 IS REPEALED [EFFECTIVE JULY
+SB 197—LS 6593/DI 154
+
+8
+1 1, 2026]. Sec. 2.5. (a) The department of financial institutions shall
+2 adopt a rule under IC 4-22-2 establishing the amount for each
+3 exemption under section 2(c)(1) through 2(c)(3) of this chapter to take
+4 effect not earlier than January 1, 2010, and not later than March 1,
+5 2010.
+6 (b) The department of financial institutions shall adopt a rule under
+7 IC 4-22-2 establishing new amounts for each exemption under section
+8 2(c)(1) through 2(c)(3) of this chapter every six (6) years after
+9 exemption amounts are established under subsection (a). The rule
+10 establishing new exemption amounts under this subsection must take
+11 effect not earlier than January 1 and not later than March 1 of the sixth
+12 calendar year immediately following the most recent adjustments to the
+13 exemption amounts.
+14 (c) The department of financial institutions shall determine the
+15 amount of each exemption under subsections (a) and (b) based on
+16 changes in the Consumer Price Index for All Urban Consumers,
+17 published by the United States Department of Labor, for the most
+18 recent six (6) year period.
+19 (d) The department of financial institutions shall round the amount
+20 of an exemption determined under subsections (a) and (b) to the
+21 nearest fifty dollars ($50).
+22 (e) A rule establishing amounts for exemptions under this section
+23 may not reduce an exemption amount below the exemption amount on
+24 July 1, 2005.
+25 SECTION 5. [EFFECTIVE JULY 1, 2026] (a) 750 IAC 1-1-1(c) is
+26 void. The publisher of the Indiana Administrative Code and
+27 Indiana Register shall remove this subsection from the Indiana
+28 Administrative Code.
+29 (b) This SECTION expires on July 1, 2027.
+SB 197—LS 6593/DI 154
+
+9
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Insurance and Financial
+Institutions, to which was referred Senate Bill No. 197, has had the
+same under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Delete everything after the enacting clause and insert the following:
+(SEE TEXT OF BILL)
+and when so amended that said bill do pass.
+(Reference is to SB 197 as introduced.)
+BALDWIN, Chairperson
+Committee Vote: Yeas 6, Nays 2.
+SB 197—LS 6593/DI 154

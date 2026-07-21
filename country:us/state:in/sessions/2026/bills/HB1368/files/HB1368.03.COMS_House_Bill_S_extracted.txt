@@ -1,0 +1,2901 @@
+Title: 
+Official Title: 
+Source: versions - House Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+*EH1368.1*
+February 6, 2026
+ENGROSSED
+HOUSE BILL No. 1368
+_____
+DIGEST OF HB 1368 (Updated February 5, 2026 12:26 pm - DI 101)
+Citations Affected: IC 8-1; IC 14-8; IC 14-39; IC 35-52.
+Synopsis: Carbon. Requires a utility to accept certain methods of
+payment from the department of natural resources (department) for
+utility service provided to a property owned by the department.
+Prohibits a utility from limiting or restricting the: (1) dollar amount; or
+(2) number of transactions allowed in a given period; with respect to a
+payment made by one of the specified payment methods. Provides that
+for any singular property owned by the department, a utility that
+provides utility service to the property shall provide the department
+with a singular invoice for the entire property. Requires the natural
+resources commission to obtain the primary enforcement authority
+from the United States Environmental Protection Agency to regulate
+Class VI underground injection wells. Grants the natural resources
+commission authority to adopt rules to regulate Class VI underground
+injection wells. Provides a mechanism and regulatory scheme for
+underground storage of carbon dioxide in Indiana but excludes the
+carbon sequestration pilot project from application of the new
+requirements. Specifies that the carbon sequestration pilot project's
+Class VI wells are not experimental.
+Effective: Upon passage; July 1, 2026.
+Soliday
+(SENATE SPONSOR — KOCH)
+January 8, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+January 20, 2026, amended, reported — Do Pass.
+January 22, 2026, read second time, ordered engrossed.
+January 23, 2026, engrossed.
+January 28, 2026, read third time, passed. Yeas 58, nays 36.
+SENATE ACTION
+February 2, 2026, read first time and referred to Committee on Utilities.
+February 5, 2026, amended, reported favorably — Do Pass.
+EH 1368—LS 6866/DI 150
+
+February 6, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1368
+A BILL FOR AN ACT to amend the Indiana Code concerning
+natural and cultural resources.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-2-3.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 3.5. (a) As used in this section, "department" refers
+4 to the department of natural resources created by IC 14-9-1-1.
+5 (b) As used in this section, "utility" means a person, however
+6 organized, that provides utility service to customers in Indiana.
+7 The term includes an agent acting on behalf of the person to accept
+8 and process payments from customers.
+9 (c) As used in this section, "utility service" means:
+10 (1) electric;
+11 (2) natural gas;
+12 (3) water; or
+13 (4) wastewater;
+14 service that is provided at retail.
+15 (d) A utility shall accept the following methods of payment from
+16 the department for utility service provided to a property owned by
+17 the department:
+EH 1368—LS 6866/DI 150
+
+2
+1 (1) An electronic funds transfer, including by wire or
+2 Automated Clearing House (ACH).
+3 (2) A payment by credit card or debit card.
+4 (e) A utility may not limit or restrict the:
+5 (1) dollar amount; or
+6 (2) number of transactions allowed in a given period;
+7 with respect to a payment made by a method described in
+8 subsection (d).
+9 (f) With respect to any singular property owned by the
+10 department, a utility that provides utility service to the property
+11 shall provide the department with a singular invoice for the entire
+12 property, regardless of the number of:
+13 (1) meters;
+14 (2) connections; or
+15 (3) buildings or structures served;
+16 on the property, as applicable.
+17 SECTION 2. IC 14-8-2-1.3 IS ADDED TO THE INDIANA CODE
+18 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+19 UPON PASSAGE]: Sec. 1.3. "Abandoned well", for purposes of
+20 IC 14-39, has the meaning set forth in IC 14-39-0.6-2.
+21 SECTION 3. IC 14-8-2-13 IS AMENDED TO READ AS
+22 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 13. (a) "Aquifer",
+23 for purposes of IC 14-25-7, has the meaning set forth in IC 14-25-7-1.
+24 (b) "Aquifer", for purposes of IC 14-39, has the meaning set
+25 forth in IC 14-39-0.6-3.
+26 SECTION 4. IC 14-8-2-14.5 IS ADDED TO THE INDIANA CODE
+27 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+28 UPON PASSAGE]: Sec. 14.5. "Area of review", for purposes of
+29 IC 14-39, has the meaning set forth in IC 14-39-0.6-3.5.
+30 SECTION 5. IC 14-8-2-34.1 IS ADDED TO THE INDIANA CODE
+31 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+32 UPON PASSAGE]: Sec. 34.1. "Carbon dioxide", for purposes of
+33 IC 14-39, has the meaning set forth in IC 14-39-0.6-4.
+34 SECTION 6. IC 14-8-2-34.2 IS ADDED TO THE INDIANA CODE
+35 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+36 UPON PASSAGE]: Sec. 34.2. "Carbon dioxide injection well", for
+37 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-5.
+38 SECTION 7. IC 14-8-2-34.3 IS ADDED TO THE INDIANA CODE
+39 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+40 UPON PASSAGE]: Sec. 34.3. "Carbon dioxide plume", for
+41 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-6.
+42 SECTION 8. IC 14-8-2-34.4 IS ADDED TO THE INDIANA CODE
+EH 1368—LS 6866/DI 150
+
+3
+1 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+2 UPON PASSAGE]: Sec. 34.4. "Carbon dioxide stream", for
+3 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-7.
+4 SECTION 9. IC 14-8-2-34.5 IS ADDED TO THE INDIANA CODE
+5 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+6 UPON PASSAGE]: Sec. 34.5. "Carbon dioxide transmission
+7 pipeline", for purposes of IC 14-39, has the meaning set forth in
+8 IC 14-39-0.6-8.
+9 SECTION 10. IC 14-8-2-34.6 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 34.6. "Carbon
+12 sequestration", for purposes of IC 14-39, has the meaning set forth
+13 in IC 14-39-0.6-9.
+14 SECTION 11. IC 14-8-2-34.7 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE UPON PASSAGE]: Sec. 34.7. "Carbon sequestration
+17 pilot project", for purposes of IC 14-39, has the meaning set forth
+18 in IC 14-39-0.6-10.
+19 SECTION 12. IC 14-8-2-34.8 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE UPON PASSAGE]: Sec. 34.8. "Carbon sequestration
+22 project", for purposes of IC 14-39, has the meaning set forth in
+23 IC 14-39-0.6-11.
+24 SECTION 13. IC 14-8-2-50.5 IS ADDED TO THE INDIANA
+25 CODE AS A NEW SECTION TO READ AS FOLLOWS
+26 [EFFECTIVE UPON PASSAGE]: Sec. 50.5. "Confining zone", for
+27 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-12.
+28 SECTION 14. IC 14-8-2-58.5 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE UPON PASSAGE]: Sec. 58.5. "Corrective action", for
+31 purposes of IC 14-39, has the meaning set forth in
+32 IC 14-39-0.6-12.5.
+33 SECTION 15. IC 14-8-2-87.8 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE UPON PASSAGE]: Sec. 87.8. "Fault", for purposes of
+36 IC 14-39, has the meaning set forth in IC 14-39-0.6-13.
+37 SECTION 16. IC 14-8-2-131.9 IS ADDED TO THE INDIANA
+38 CODE AS A NEW SECTION TO READ AS FOLLOWS
+39 [EFFECTIVE UPON PASSAGE]: Sec. 131.9. "Injection zone", for
+40 purposes of IC 14-39, has the meaning set forth in
+41 IC 14-39-0.6-13.5.
+42 SECTION 17. IC 14-8-2-152.5 IS ADDED TO THE INDIANA
+EH 1368—LS 6866/DI 150
+
+4
+1 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2 [EFFECTIVE UPON PASSAGE]: Sec. 152.5. "Lithology", for
+3 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-14.
+4 SECTION 18. IC 14-8-2-159.5 IS ADDED TO THE INDIANA
+5 CODE AS A NEW SECTION TO READ AS FOLLOWS
+6 [EFFECTIVE UPON PASSAGE]: Sec. 159.5. "Mechanical integrity
+7 test", for purposes of IC 14-39, has the meaning set forth in
+8 IC 14-39-0.6-15.
+9 SECTION 19. IC 14-8-2-164.5 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 164.5. "Mineral lessee", for
+12 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-16.
+13 SECTION 20. IC 14-8-2-164.7 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE UPON PASSAGE]: Sec. 164.7. "Mineral owner", for
+16 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-17.
+17 SECTION 21. IC 14-8-2-196.5 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE UPON PASSAGE]: Sec. 196.5. "Packer", for purposes
+20 of IC 14-39, has the meaning set forth in IC 14-39-0.6-18.
+21 SECTION 22. IC 14-8-2-209.5 IS ADDED TO THE INDIANA
+22 CODE AS A NEW SECTION TO READ AS FOLLOWS
+23 [EFFECTIVE UPON PASSAGE]: Sec. 209.5. "Pore space", for
+24 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-20.
+25 SECTION 23. IC 14-8-2-209.7 IS ADDED TO THE INDIANA
+26 CODE AS A NEW SECTION TO READ AS FOLLOWS
+27 [EFFECTIVE UPON PASSAGE]: Sec. 209.7. "Pore space owner",
+28 for purposes of IC 14-39, has the meaning set forth in
+29 IC 14-39-0.6-21.
+30 SECTION 24. IC 14-8-2-209.9 IS ADDED TO THE INDIANA
+31 CODE AS A NEW SECTION TO READ AS FOLLOWS
+32 [EFFECTIVE UPON PASSAGE]: Sec. 209.9. "Post-injection site
+33 care", for purposes of IC 14-39, has the meaning set forth in
+34 IC 14-39-0.6-21.5.
+35 SECTION 25. IC 14-8-2-211.7 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE UPON PASSAGE]: Sec. 211.7. "Primacy", for
+38 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-22.
+39 SECTION 26. IC 14-8-2-240, AS AMENDED BY P.L.148-2020,
+40 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 UPON PASSAGE]: Sec. 240. (a) "Reservoir", for purposes of
+42 IC 14-33-24, has the meaning set forth in IC 14-33-24-3.
+EH 1368—LS 6866/DI 150
+
+5
+1 (b) "Reservoir", for purposes of IC 14-37, means an underground
+2 geological formation that contains oil or natural gas.
+3 (c) "Reservoir", for purposes of IC 14-39, has the meaning set
+4 forth in IC 14-39-0.6-23.
+5 SECTION 27. IC 14-8-2-242.3 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE UPON PASSAGE]: Sec. 242.3. "Responsible officer",
+8 for purposes of IC 14-39, has the meaning set forth in
+9 IC 14-39-0.6-24.
+10 SECTION 28. IC 14-8-2-266.9 IS ADDED TO THE INDIANA
+11 CODE AS A NEW SECTION TO READ AS FOLLOWS
+12 [EFFECTIVE UPON PASSAGE]: Sec. 266.9. "Storage facility", for
+13 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-25.
+14 SECTION 29. IC 14-8-2-267.1 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE UPON PASSAGE]: Sec. 267.1. "Storage operator",
+17 for purposes of IC 14-39, has the meaning set forth in
+18 IC 14-39-0.6-26.
+19 SECTION 30. IC 14-8-2-267.3 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE UPON PASSAGE]: Sec. 267.3. "Stratum", for
+22 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-27.
+23 SECTION 31. IC 14-8-2-274.7 IS ADDED TO THE INDIANA
+24 CODE AS A NEW SECTION TO READ AS FOLLOWS
+25 [EFFECTIVE UPON PASSAGE]: Sec. 274.7. "Surface or subsurface
+26 property interest owner", for purposes of IC 14-39, has the
+27 meaning set forth in IC 14-39-0.6-28.
+28 SECTION 32. IC 14-8-2-282.9 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE UPON PASSAGE]: Sec. 282.9. "Transporting carbon
+31 dioxide", for purposes of IC 14-39, has the meaning set forth in
+32 IC 14-39-0.6-29.
+33 SECTION 33. IC 14-8-2-285.3 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE UPON PASSAGE]: Sec. 285.3. "UIC Class VI
+36 permit", for purposes of IC 14-39, has the meaning set forth in
+37 IC 14-39-0.6-30.
+38 SECTION 34. IC 14-8-2-285.4 IS ADDED TO THE INDIANA
+39 CODE AS A NEW SECTION TO READ AS FOLLOWS
+40 [EFFECTIVE UPON PASSAGE]: Sec. 285.4. "UIC program", for
+41 purposes of IC 14-39, has the meaning set forth in IC 14-39-0.6-31.
+42 SECTION 35. IC 14-8-2-287.3 IS ADDED TO THE INDIANA
+EH 1368—LS 6866/DI 150
+
+6
+1 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2 [EFFECTIVE UPON PASSAGE]: Sec. 287.3. "Underground source
+3 of drinking water", for purposes of IC 14-39, has the meaning set
+4 forth in IC 14-39-0.6-32.
+5 SECTION 36. IC 14-8-2-287.7 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE UPON PASSAGE]: Sec. 287.7. "Underground storage
+8 of carbon dioxide", for purposes of IC 14-39, has the meaning set
+9 forth in IC 14-39-0.6-33.
+10 SECTION 37. IC 14-39-0.5-1, AS ADDED BY P.L.158-2023,
+11 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 UPON PASSAGE]: Sec. 1. The natural resources commission, in
+13 coordination with the department, shall adopt rules under IC 4-22-2
+14 to implement this article.
+15 SECTION 38. IC 14-39-0.5-2, AS ADDED BY P.L.158-2023,
+16 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 UPON PASSAGE]: Sec. 2. The rules adopted by the commission under
+18 section 1 of this chapter:
+19 (1) must include the provisions necessary to the department's
+20 discharge of the duties imposed upon the department under this
+21 article; and
+22 (2) must include the provisions necessary for the department
+23 to obtain the primary enforcement authority from the United
+24 States Environmental Protection Agency to regulate Class VI
+25 underground injection wells; and
+26 (2) (3) may establish fees for the administration and
+27 implementation of this article after review by the budget
+28 committee. In addition, the amount of the fee determined under
+29 this subdivision may not subsequently be increased unless the
+30 increase is reviewed by the budget committee.
+31 SECTION 39. IC 14-39-0.6 IS ADDED TO THE INDIANA CODE
+32 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+33 UPON PASSAGE]:
+34 Chapter 0.6. Definitions
+35 Sec. 1. The definitions in this chapter apply throughout this
+36 article and 312 IAC 30.
+37 Sec. 2. "Abandoned well" refers to a well:
+38 (1) whose use has been permanently discontinued; or
+39 (2) which is in a state of disrepair;
+40 such that it cannot be used for its intended purpose or for
+41 observation purposes.
+42 Sec. 3. "Aquifer" means:
+EH 1368—LS 6866/DI 150
+
+7
+1 (1) a geologic formation;
+2 (2) a group of formations; or
+3 (3) part of a formation;
+4 capable of yielding a significant amount of water to a well or
+5 spring.
+6 Sec. 3.5. "Area of review" has the meaning set forth in 40 CFR
+7 146.81.
+8 Sec. 4. "Carbon dioxide" means a fluid consisting of carbon
+9 dioxide molecules.
+10 Sec. 5. "Carbon dioxide injection well" refers to a well that
+11 meets the following criteria:
+12 (1) Is in compliance with a UIC Class VI permit.
+13 (2) Is used to inject carbon dioxide into a reservoir for carbon
+14 sequestration.
+15 (3) Is not experimental in nature.
+16 (4) Is used for geologic sequestration of carbon dioxide
+17 beneath the lowermost formation containing an underground
+18 source of drinking water.
+19 (5) Is used for geologic sequestration of carbon dioxide that
+20 has been granted a waiver of the injection depth
+21 requirements.
+22 (6) Is used for geologic sequestration of carbon dioxide that
+23 has received an expansion to the areal extent of an existing
+24 Class II enhanced oil recovery or enhanced gas recovery
+25 aquifer exemption.
+26 Sec. 6. "Carbon dioxide plume" means the extent of an
+27 underground three-dimensional injected carbon dioxide stream.
+28 Sec. 7. (a) "Carbon dioxide stream" means carbon dioxide that:
+29 (1) has been captured from an emission source; and
+30 (2) consists of:
+31 (A) incidental associated substances derived from the
+32 source materials and capture process; and
+33 (B) any substance added to the carbon dioxide stream to
+34 enable or improve the injection process.
+35 (b) The term does not include a carbon dioxide stream that is
+36 considered hazardous waste under 40 CFR 261.
+37 Sec. 8. "Carbon dioxide transmission pipeline" means the part
+38 of a pipeline in Indiana, including:
+39 (1) appurtenant facilities;
+40 (2) property rights; and
+41 (3) easements;
+42 used exclusively for the purpose of transporting carbon dioxide to
+EH 1368—LS 6866/DI 150
+
+8
+1 a carbon management application, including sequestration,
+2 enhanced oil recovery, and deep saline injection, within or outside
+3 Indiana.
+4 Sec. 9. (a) "Carbon sequestration" means the long term
+5 containment of a:
+6 (1) gaseous;
+7 (2) liquid; or
+8 (3) supercritical;
+9 carbon dioxide stream in subsurface geologic formations.
+10 (b) The term does not apply to carbon dioxide capture or
+11 transport.
+12 Sec. 10. "Carbon sequestration pilot project" refers to the pilot
+13 project described in IC 14-39-1-3.5.
+14 Sec. 11. (a) "Carbon sequestration project" refers to the long
+15 term geologic sequestration of a:
+16 (1) gaseous;
+17 (2) liquid; or
+18 (3) supercritical;
+19 carbon dioxide stream in a subsurface geologic formation that
+20 requires a UIC Class VI permit.
+21 (b) The term does not apply to carbon dioxide capture or
+22 transport.
+23 (c) The term does not include the following:
+24 (1) The subsurface three-dimensional extent of the carbon
+25 dioxide plume.
+26 (2) The subsurface three-dimensional associated area of
+27 elevated pressure.
+28 (3) The subsurface three-dimensional displaced fluids.
+29 (4) The surface area above the delineated region described in
+30 subdivisions (1) through (3).
+31 Sec. 12. "Confining zone" means:
+32 (1) a geologic formation;
+33 (2) a group of geologic formations; or
+34 (3) part of a geologic formation;
+35 capable of limiting the movement of the carbon dioxide stream and
+36 all fluids above an injection zone.
+37 (b) For a carbon dioxide injection well permitted by a UIC Class
+38 VI permit under an injection depth waiver, the term means a:
+39 (1) geologic formation;
+40 (2) group of geologic formations; or
+41 (3) part of a geologic formation;
+42 stratigraphically overlying and underlying the injection zone.
+EH 1368—LS 6866/DI 150
+
+9
+1 Sec. 12.5. "Corrective action" means action:
+2 (1) taken by the owner or operator of a permitted Class VI
+3 carbon dioxide injection well; and
+4 (2) approved by the director;
+5 to ensure that a carbon dioxide injection well within the area of
+6 review does not serve as conduits for the movement of fluids into
+7 underground sources of drinking water.
+8 Sec. 13. "Fault" means a surface or zone or rock fracture along
+9 which there has been displacement.
+10 Sec. 13.5. "Injection zone" means a geological:
+11 (1) formation;
+12 (2) group of formations; or
+13 (3) part of a formation;
+14 that is conducive to receiving carbon dioxide with a permitted
+15 carbon sequestration project.
+16 Sec. 14. "Lithology" means the description of rocks on the basis
+17 of their physical and chemical characteristics.
+18 Sec. 15. "Mechanical integrity test" refers to a test performed
+19 on a well permitted by a UIC Class VI permit that meets the
+20 requirements established under 40 CFR 146.8.
+21 Sec. 16. "Mineral lessee" means a lessee identified by the
+22 records of the recorder of deeds for each county containing a
+23 portion of the proposed reservoir who holds an interest in minerals
+24 on real property that are located above, below, or within the
+25 proposed reservoir that has been severed from the surface estate
+26 by:
+27 (1) grant;
+28 (2) exception;
+29 (3) reservation;
+30 (4) lease; or
+31 (5) any other means.
+32 Sec. 17. "Mineral owner" means an owner identified by the
+33 records of the recorder of deeds for each county containing a
+34 portion of the proposed reservoir who holds an interest in minerals
+35 on real property that are located above, below, or within the
+36 proposed reservoir that has been severed from the surface estate
+37 by:
+38 (1) grant;
+39 (2) exception;
+40 (3) reservation;
+41 (4) lease; or
+42 (5) any other means.
+EH 1368—LS 6866/DI 150
+
+10
+1 Sec. 18. "Packer" means a device lowered into a well to produce
+2 a fluid-tight seal.
+3 Sec. 19. "Person" means:
+4 (1) an individual;
+5 (2) a legal entity;
+6 (3) a government entity; or
+7 (4) an employee of a:
+8 (A) legal entity; or
+9 (B) government entity.
+10 Sec. 20. "Pore space" means a subsurface geological cavity or
+11 void that is of a sufficient areal extent, thickness, porosity, and
+12 permeability to receive and store carbon dioxide through a carbon
+13 sequestration project well.
+14 Sec. 21. "Pore space owner" means:
+15 (1) a person;
+16 (2) a trust;
+17 (3) a corporation; or
+18 (4) another entity;
+19 that has title to, a right to, or an interest in pore space.
+20 Sec. 21.5. "Post-injection site care" refers to the requirements
+21 set forth in 40 CFR 146.93.
+22 Sec. 22. "Primacy" means primary enforcement authority over
+23 Class VI wells under the Safe Drinking Water Act.
+24 Sec. 23. "Reservoir" means a subsurface geological:
+25 (1) sedimentary stratum;
+26 (2) formation;
+27 (3) saline aquifer;
+28 (4) cavity; or
+29 (5) void;
+30 that is naturally or artificially created for the use of, or is capable
+31 of being made suitable for, injecting and storing carbon dioxide.
+32 Sec. 24. (a) "Responsible officer" means a person who has the
+33 authority to legally obligate an entity to comply with federal law.
+34 (b) The term includes the following:
+35 (1) An authorized officer of a corporation.
+36 (2) A manager of a limited liability company, or if the limited
+37 liability company is managed by another company, an
+38 authorized officer of the managing company.
+39 (3) A partner in a general, limited, or limited liability
+40 partnership or, if the partner is an entity, an authorized
+41 officer of the general, limited, or limited liability partnership.
+42 (4) An individual authorized as a permitted signatory by
+EH 1368—LS 6866/DI 150
+
+11
+1 another entity under federal regulations adopted by the
+2 department not included under subdivisions (1) through (3).
+3 Sec. 25. "Storage facility" means the subsurface area consisting
+4 of the extent of a carbon dioxide plume which is required to be set
+5 forth on an approved UIC Class VI permit or an amendment to a
+6 UIC Class VI permit of a storage operator.
+7 Sec. 26. "Storage operator" means:
+8 (1) a person;
+9 (2) a trust;
+10 (3) a corporation; or
+11 (4) another entity;
+12 that owns or operates a carbon sequestration project.
+13 Sec. 27. "Stratum" means a single sedimentary bed or layer,
+14 regardless of thickness, that consists of generally the same kind of
+15 rock material.
+16 Sec. 28. "Surface or subsurface property interest holder" means
+17 a property interest owner identified by the records of the recorder
+18 of deeds for each county containing a portion of the proposed
+19 storage facility who holds a fee simple interest or other freehold
+20 interest in the surface or subsurface of the property, which may
+21 include mineral rights. The term does not include the owner of a
+22 right-of-way, an easement, or a leasehold.
+23 Sec. 29. (a) "Transporting carbon dioxide" means the movement
+24 of carbon dioxide to a carbon dioxide injection well located outside
+25 the storage facility for which a certificate of authority for a carbon
+26 dioxide transmission pipeline is required.
+27 (b) The term under subsection (a) includes a carbon dioxide
+28 transmission pipeline that crosses a parcel above pore space that
+29 is:
+30 (1) a public right-of-way; or
+31 (2) acquired by:
+32 (A) eminent domain; or
+33 (B) an integration order.
+34 (c) The term under subsection (a) does not include movement of
+35 carbon dioxide to a carbon dioxide injection well inside the
+36 boundaries of contiguous property owned by an applicant or under
+37 IC 14-39-1-4.5.
+38 Sec. 30. (a) "UIC Class VI permit" means a permit issued under
+39 the federal Safe Drinking Water Act's Underground Injection
+40 Control program that allows:
+41 (1) a person;
+42 (2) a trust;
+EH 1368—LS 6866/DI 150
+
+12
+1 (3) a corporation; or
+2 (4) another entity;
+3 to construct or operate a carbon dioxide injection well.
+4 (b) The term does not include a:
+5 (1) draft permit;
+6 (2) proposed permit; or
+7 (3) permit that is not subject to final agency action.
+8 (c) The term does not authorize the transportation of carbon
+9 dioxide.
+10 Sec. 31. "UIC program" refers to the program carried out by:
+11 (1) the United States Environmental Protection Agency; or
+12 (2) an approved state or tribe;
+13 under the Safe Drinking Water Act to regulate underground
+14 injection.
+15 Sec. 32. "Underground source of drinking water" means an
+16 aquifer or its portion which:
+17 (1) supplies any public water system; or
+18 (2) contains a sufficient quantity of ground water to supply a
+19 public water system and:
+20 (A) currently supplies drinking water for human
+21 consumption; or
+22 (B) contains fewer than ten thousand (10,000) milligrams
+23 per liter of total dissolved solids;
+24 and which is not an exempted aquifer.
+25 Sec. 33. "Underground storage of carbon dioxide" means the
+26 injection and storage of carbon dioxide into underground strata
+27 and formations pursuant to at least one (1) UIC Class VI permit.
+28 SECTION 40. IC 14-39-1-1 IS REPEALED [EFFECTIVE UPON
+29 PASSAGE]. Sec. 1. As used in this chapter, "carbon dioxide" means a
+30 fluid consisting of more than ninety percent (90%) carbon dioxide
+31 molecules.
+32 SECTION 41. IC 14-39-1-2 IS REPEALED [EFFECTIVE UPON
+33 PASSAGE]. Sec. 2. As used in this chapter, "carbon dioxide
+34 transmission pipeline" means the part of a pipeline in Indiana,
+35 including appurtenant facilities, property rights, and easements, that is
+36 used exclusively for the purpose of transporting carbon dioxide to a
+37 carbon management application, including sequestration, enhanced oil
+38 recovery, and deep saline injection, within or outside Indiana.
+39 SECTION 42. IC 14-39-1-2.4 IS REPEALED [EFFECTIVE UPON
+40 PASSAGE]. Sec. 2.4. As used in this chapter, "carbon sequestration
+41 pilot project" refers to the pilot project described in section 3.5 of this
+42 chapter.
+EH 1368—LS 6866/DI 150
+
+13
+1 SECTION 43. IC 14-39-1-2.5 IS REPEALED [EFFECTIVE UPON
+2 PASSAGE]. Sec. 2.5. As used in this chapter, "underground storage of
+3 carbon dioxide" means the injection of carbon dioxide into, and storage
+4 of carbon dioxide in, underground strata and formations at the site of
+5 the carbon sequestration pilot project, as described in section 3.5 of this
+6 chapter, pursuant to one (1) or more federal permits issued by the
+7 United States Environmental Protection Agency.
+8 SECTION 44. IC 14-39-1-2.6 IS REPEALED [EFFECTIVE UPON
+9 PASSAGE]. Sec. 2.6. As used in this chapter, "person" includes a
+10 political body, a corporate body, and the state of Indiana.
+11 SECTION 45. IC 14-39-1-2.7 IS REPEALED [EFFECTIVE UPON
+12 PASSAGE]. Sec. 2.7. As used in this chapter, "pore space" means
+13 subsurface cavities or voids that can be used as a storage space for
+14 carbon dioxide.
+15 SECTION 46. IC 14-39-1-3.5, AS AMENDED BY P.L.53-2023,
+16 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 UPON PASSAGE]: Sec. 3.5. (a) This chapter authorizes the
+18 establishment of a carbon sequestration pilot project:
+19 (1) that will:
+20 (A) capture carbon dioxide at the proposed ammonia plant to
+21 be located at 444 West Sandford Avenue, West Terre Haute,
+22 Indiana;
+23 (B) construct, operate, or use not more than two (2) carbon
+24 dioxide pipelines;
+25 (C) maintain operations only in Vigo and Vermillion counties;
+26 and
+27 (D) inject the carbon dioxide underground through one (1) or
+28 more injection wells pursuant to a Class VI well permit issued
+29 by the United States Environmental Protection Agency; and
+30 (2) that will employ the underground storage of carbon dioxide as
+31 an alternative to releasing the carbon dioxide into the air.
+32 (b) The director shall designate the operator of the carbon
+33 sequestration pilot project according to the characteristics of the pilot
+34 project set forth in subsection (a) not more than thirty (30) days after
+35 the Class VI well permit referred to in subsection (a)(1)(D) is issued by
+36 the United States Environmental Protection Agency.
+37 (c) The injection well issued a Class VI well permit by the
+38 United States Environmental Protection Agency is not
+39 experimental.
+40 (c) (d) This section expires July 1, 2028, if the operator of the
+41 carbon sequestration pilot project designated under subsection (b)
+42 according to the characteristics set forth in subsection (a) is not issued
+EH 1368—LS 6866/DI 150
+
+14
+1 a Class VI permit by the United States Environmental Protection
+2 Agency under 40 CFR 146 subpart H by July 1, 2028.
+3 SECTION 47. IC 14-39-1-11, AS AMENDED BY P.L.92-2025,
+4 SECTION 68, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+5 UPON PASSAGE]: Sec. 11. A determination of the department under
+6 section 4(e)(2) of this chapter is subject to an administrative
+7 adjudication under IC 4-21.5.
+8 SECTION 48. IC 14-39-1-19 IS ADDED TO THE INDIANA
+9 CODE AS A NEW SECTION TO READ AS FOLLOWS
+10 [EFFECTIVE UPON PASSAGE]: Sec. 19. The department may
+11 establish siting and setback requirements for carbon dioxide
+12 transmission pipelines.
+13 SECTION 49. IC 14-39-2-1, AS ADDED BY P.L.163-2022,
+14 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 UPON PASSAGE]: Sec. 1. (a) This chapter applies to primacy
+16 granted by the United States Environmental Protection Agency to
+17 the department over Class VI wells.
+18 (b) This chapter and 312 IAC 30 govern carbon sequestration
+19 in the state and establish the criteria and standards necessary for
+20 the department to receive primacy from the United States
+21 Environmental Protection Agency for the UIC program for Class
+22 VI wells under the Safe Drinking Water Act.
+23 (a) (c) Except as otherwise provided in this chapter, this chapter:
+24 (1) does not apply to extractable mineral resources;
+25 (b) (2) Except as otherwise provided in this chapter, this chapter
+26 does not preclude the exercise of rights provided by IC 14-37-9;
+27 and
+28 (c) (3) Except as otherwise provided in this chapter, this chapter
+29 applies to the underground storage of carbon dioxide.
+30 (d) The rights and requirements of this chapter:
+31 (1) are subordinate to the rights pertaining to oil, gas, and coal oil
+32 and gas resources; and
+33 (2) may not adversely affect oil, gas, and coal oil and gas
+34 resources, except as is strictly necessary to construct and maintain
+35 a carbon sequestration project that will provide for the permanent
+36 storage of carbon dioxide.
+37 (e) The department shall issue any additional rules or
+38 requirements essential to ensure the injection and storage of
+39 carbon dioxide stream in subsurface geologic formations does not
+40 endanger underground sources of drinking water.
+41 (f) The department may enter into a memorandum of agreement
+42 to implement this article.
+EH 1368—LS 6866/DI 150
+
+15
+1 SECTION 50. IC 14-39-2-1.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE UPON PASSAGE]: Sec. 1.5. (a) Carbon sequestration
+4 projects are authorized in Indiana for the purposes of:
+5 (1) injecting carbon dioxide into the pore space of an
+6 underground storage facility through at least one (1) carbon
+7 dioxide injection well pursuant to a UIC Class VI permit; and
+8 (2) employing the underground storage of carbon dioxide.
+9 (b) The department has the authority to adopt regulations
+10 consistent with:
+11 (1) 40 CFR 141 through 146;
+12 (2) the federal Safe Drinking Water Act (42 U.S.C.
+13 300h(b)(1)); and
+14 (3) any other federal regulation necessary;
+15 to obtain primacy on behalf of the state of Indiana.
+16 (c) A person may not operate a carbon sequestration project in
+17 Indiana without a valid permit issued by the department.
+18 (d) A permit for a carbon sequestration project may be
+19 transferred or assigned from one storage operator to another
+20 storage operator.
+21 (e) All injection activities, including construction of an injection
+22 well, are prohibited unless the owner or operator is authorized by
+23 permit.
+24 (f) A person operating a carbon sequestration project in Indiana
+25 shall comply with the federal Safe Drinking Water Act (42 U.S.C.
+26 300h(b)(1)) to prevent underground injection which endangers
+27 drinking water sources.
+28 (g) The department may, at a reasonable time, enter property
+29 on which a carbon dioxide injection well or monitoring well for the
+30 storage facility is located to inspect and maintain the well or
+31 storage facility. Except in the event of an emergency, the
+32 department shall provide advance notice to the owner of the
+33 surface property of the date the department intends to enter the
+34 property. The notice required by this subsection must be provided
+35 at least five (5) business days before the department intends to
+36 enter the property. The notice must be delivered by:
+37 (1) United States mail;
+38 (2) private courier;
+39 (3) personal delivery; or
+40 (4) any other manner agreed to in writing between the
+41 department and the owner of the surface property.
+42 SECTION 51. IC 14-39-2-2 IS REPEALED [EFFECTIVE UPON
+EH 1368—LS 6866/DI 150
+
+16
+1 PASSAGE]. Sec. 2. (a) The following definitions apply throughout this
+2 chapter.
+3 (b) "Carbon dioxide" has the meaning set forth in IC 14-39-1-1.
+4 (c) "Carbon dioxide injection well" refers to a well that is used to
+5 inject carbon dioxide into a reservoir for carbon sequestration pursuant
+6 to a UIC Class VI permit.
+7 (d) "Carbon dioxide plume" means the extent of an underground
+8 three-dimensional injected carbon dioxide stream.
+9 (e) "Carbon sequestration" means the underground storage of carbon
+10 dioxide in a reservoir.
+11 (f) "Carbon sequestration project" means any project that involves
+12 the underground storage of carbon dioxide in a reservoir pursuant to at
+13 least one (1) UIC Class VI permit.
+14 (g) "Mineral lessee" means a lessee identified by the records of the
+15 recorder of deeds for each county containing a portion of the proposed
+16 reservoir who holds an interest in minerals on real property that are
+17 located above, below, or within the proposed reservoir that has been
+18 severed from the surface estate by:
+19 (1) grant;
+20 (2) exception;
+21 (3) reservation;
+22 (4) lease; or
+23 (5) any other means.
+24 (h) "Mineral owner" means an owner identified by the records of the
+25 recorder of deeds for each county containing a portion of the proposed
+26 reservoir who holds an interest in minerals on real property that are
+27 located above, below, or within the proposed reservoir that has been
+28 severed from the surface estate by:
+29 (1) grant;
+30 (2) exception;
+31 (3) reservation;
+32 (4) lease; or
+33 (5) any other means.
+34 (i) "Pore space" means subsurface cavities or voids that can be used
+35 as a storage space for carbon dioxide.
+36 (j) "Pore space owner" means:
+37 (1) a person;
+38 (2) a trust;
+39 (3) a corporation; or
+40 (4) another entity;
+41 that has title to, a right to, or an interest in pore space.
+42 (k) "Reservoir" means a subsurface:
+EH 1368—LS 6866/DI 150
+
+17
+1 (1) sedimentary stratum;
+2 (2) formation;
+3 (3) aquifer;
+4 (4) cavity; or
+5 (5) void;
+6 that is naturally or artificially created for the use of, or is capable of
+7 being made suitable for, injecting and storing carbon dioxide.
+8 (l) "Storage facility" means the subsurface area consisting of the
+9 extent of a carbon dioxide plume which is required to be delineated on
+10 an approved UIC Class VI permit or an amendment to a UIC Class VI
+11 permit of a storage operator.
+12 (m) "Storage operator" means:
+13 (1) a person;
+14 (2) a trust;
+15 (3) a corporation; or
+16 (4) another entity;
+17 that operates a carbon sequestration project.
+18 (n) "Surface or subsurface property interest owner" means a
+19 property interest owner identified by the records of the recorder of
+20 deeds for each county containing a portion of the proposed storage
+21 facility who holds a fee simple interest or other freehold interest in the
+22 surface or subsurface of the property, which may include mineral
+23 rights. The term does not include the owner of a right-of-way, an
+24 easement, or a leasehold.
+25 (o) "UIC Class VI permit" means a permit issued under the federal
+26 Safe Drinking Water Act's Underground Injection Control program that
+27 allows:
+28 (1) a person;
+29 (2) a trust;
+30 (3) a corporation; or
+31 (4) another entity;
+32 to construct or operate a carbon dioxide injection well.
+33 (p) "Underground storage of carbon dioxide" means the injection
+34 and storage of carbon dioxide into underground strata and formations
+35 pursuant to at least one (1) UIC Class VI permit.
+36 SECTION 52. IC 14-39-2-4, AS AMENDED BY P.L.213-2025,
+37 SECTION 135, IS AMENDED TO READ AS FOLLOWS
+38 [EFFECTIVE UPON PASSAGE]: Sec. 4. (a) If at least two (2) pore
+39 space owners own pore space located within a proposed carbon dioxide
+40 storage area of a storage facility, the owners may agree to integrate
+41 their interests to develop the pore space as a proposed storage facility
+42 for the underground storage of carbon dioxide.
+EH 1368—LS 6866/DI 150
+
+18
+1 (b) If all of the owners of the pore space under subsection (a) do not
+2 agree to integrate their interests, the department may issue an order
+3 requiring the owners to integrate their interests and to develop the pore
+4 space as a proposed storage facility for the underground storage of
+5 carbon dioxide to serve the public interest, prevent waste, protect
+6 correlative rights, and facilitate the efficient and effective use of natural
+7 resources subject to the findings under subsection (c).
+8 (c) Before issuing an order under subsection (b), the department
+9 must make the following findings:
+10 (1) That a storage operator:
+11 (A) filed a complete application for a UIC Class VI permit or
+12 a complete application for an amended UIC Class VI permit;
+13 and
+14 (B) submitted all the necessary information to the United
+15 States Environmental Protection Agency for the agency to
+16 process the storage operator's permit application.
+17 (2) That the storage operator has made a good faith effort to
+18 obtain the consent of all pore space owners located within the
+19 proposed storage facility.
+20 (3) That the storage operator has obtained the consent of the
+21 owners of the pore space underlying at least seventy percent
+22 (70%) of the surface area above the proposed storage facility or
+23 amended proposed storage facility.
+24 (4) That all pore space owners who do not agree to integrate their
+25 interests to develop the pore space as a proposed storage facility
+26 for the underground storage of carbon dioxide are equitably
+27 compensated.
+28 (d) A right to pore space granted by this section does not confer a
+29 right to enter upon, or otherwise use, the surface of the land which is
+30 integrated under this section unless provided in an order requiring the
+31 owners to integrate their interests and to develop the pore space as a
+32 proposed storage facility for the underground storage of carbon
+33 dioxide.
+34 (e) An involuntary integration order issued by the department takes
+35 effect fifteen (15) days after the applicant is issued a UIC Class VI
+36 permit or an amended UIC Class VI permit, as applicable.
+37 (f) Except by agreement of the parties, an involuntary
+38 integration order issued by the department may not be construed
+39 to result in a transfer of all or any part of the title of any property
+40 included in the involuntary integration order. All property
+41 included in the involuntary integration order is the property of the
+42 owner, not the person requesting the involuntary integration order.
+EH 1368—LS 6866/DI 150
+
+19
+1 SECTION 53. IC 14-39-2-5, AS AMENDED BY P.L.213-2025,
+2 SECTION 136, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE UPON PASSAGE]: Sec. 5. (a) Carbon sequestration
+4 projects are authorized in Indiana for the purposes of:
+5 (1) injecting carbon dioxide into the pore space of an underground
+6 storage facility through at least one (1) carbon dioxide injection
+7 well pursuant to a UIC Class VI permit; and
+8 (2) employing the underground storage of carbon dioxide.
+9 (b) A storage operator may not operate a carbon sequestration
+10 project in Indiana without:
+11 (1) a UIC Class VI permit; and
+12 (2) a valid permit issued by the department.
+13 (c) If a carbon sequestration project is owned by an entity other than
+14 the storage operator, the storage operator shall be responsible for
+15 obtaining a permit for a carbon sequestration project under subsection
+16 (b). A permit for a carbon sequestration project may be transferred or
+17 assigned from one (1) storage operator to another storage operator.
+18 (d) (a) An individual may apply to the department for a permit for
+19 a carbon sequestration project in a form and manner prescribed by the
+20 department.
+21 (e) (b) A single permit is issued in two (2) phases as follows:
+22 (1) A permit to construct and operate.
+23 (2) An authorization to inject.
+24 (c) An A complete application under subsection (d) this section
+25 must include the following:
+26 (1) A filing fee equal to the product of:
+27 (A) the given amount of metric tons of carbon dioxide
+28 proposed to be injected into the storage facility during the first
+29 ten (10) years of the permit for the carbon sequestration
+30 project; multiplied by
+31 (B) one cent ($0.01).
+32 The filing fee amount determined under this subdivision shall be
+33 collected by the department and deposited in the carbon
+34 sequestration project program administrative fund established by
+35 section 10.5 of this chapter.
+36 (2) The applicant's: signature of the applicant.
+37 (A) name;
+38 (B) address;
+39 (C) telephone number;
+40 (D) electronic mail address;
+41 (E) ownership status;
+42 (F) status as a:
+EH 1368—LS 6866/DI 150
+
+20
+1 (i) federal;
+2 (ii) state;
+3 (iii) private;
+4 (iv) public; or
+5 (v) other;
+6 entity;
+7 (G) signature; and
+8 (H) signed copy of the certification described in 40 CFR
+9 144.32(d).
+10 (3) A statement verifying that the information submitted is true,
+11 accurate, and complete to the best of applicant's knowledge.
+12 (4) Information illustrating that the applicant has the financial,
+13 managerial, and technical ability to construct, operate, and
+14 maintain a carbon sequestration project.
+15 (5) Information illustrating that the applicant or the contractors or
+16 subcontractors of the applicant have the requisite expertise in
+17 constructing, operating, and maintaining a carbon sequestration
+18 project.
+19 (6) Documentation to the department describing the scope of the
+20 proposed carbon sequestration project.
+21 (7) A statement describing how the applicant will construct,
+22 operate, and maintain the proposed carbon sequestration project
+23 in accordance with applicable local, state, and federal law,
+24 including federal and state safety regulations and rules governing
+25 the construction, operation, and maintenance of the carbon
+26 sequestration project, and related facilities and equipment, to
+27 ensure the safety of the carbon sequestration project employees
+28 and the public.
+29 (8) A statement that the interests of a mineral lessee or mineral
+30 owner will not be adversely affected. If a mineral owner or
+31 mineral lessee is adversely affected, the adversely affected
+32 mineral owner or mineral lessee and the applicant may enter into
+33 an agreement under section 4 of this chapter.
+34 (9) A map showing the injection well for which a permit is
+35 sought and the applicable areas of review consistent with
+36 federal regulations. The map must show any known or
+37 suspected faults. Within the area of review, the map must
+38 show the number, name, and location of the following:
+39 (A) Injection wells.
+40 (B) Producing wells.
+41 (C) Abandoned wells.
+42 (D) Plugged wells or dry holes.
+EH 1368—LS 6866/DI 150
+
+21
+1 (E) Deep stratigraphic boreholes.
+2 (F) State or United States Environmental Protection
+3 Agency approved subsurface cleanup sites.
+4 (G) Surface bodies of water.
+5 (H) Springs.
+6 (I) Surface and subsurface mines.
+7 (J) Quarries.
+8 (K) Water wells.
+9 (L) Other pertinent surface features, including structures
+10 intended for:
+11 (i) human occupancy;
+12 (ii) state, tribal, and territory boundaries; and
+13 (iii) roads.
+14 Only information of public record is required to be included
+15 in this map.
+16 (10) A list of contacts for those states, tribes, and territories
+17 identified within the area of review of the Class VI project
+18 based on the information required in this section.
+19 (11) Information on the geologic structure and hydrogeologic
+20 properties of the proposed storage site and overlying
+21 formations.
+22 (12) A tabulation of each well within the area of review that
+23 penetrates each injection zone or confining zone.
+24 (13) Maps and stratigraphic cross sections indicating:
+25 (A) the general vertical and lateral limits of all:
+26 (i) underground sources of drinking water; and
+27 (ii) water wells and springs within the area of review;
+28 (B) the position of any underground source of drinking
+29 water, water well, or spring relative to the positions of each
+30 injection zone; and
+31 (C) directions of water movement, if known.
+32 (14) Baseline geochemical data on subsurface formations,
+33 including all underground sources of drinking water in the
+34 area of review.
+35 (15) Proposed operating data for the proposed geologic
+36 sequestration site.
+37 (16) A proposed preoperational formation testing program to
+38 obtain an analysis of the chemical and physical characteristics
+39 of the injection zones and confining zone and which meets the
+40 requirements of the department.
+41 (17) A proposed stimulation program, a description of
+42 stimulation fluids to be used, and a determination that
+EH 1368—LS 6866/DI 150
+
+22
+1 stimulation will not interfere with containment.
+2 (18) A proposed procedure to outline steps necessary to
+3 conduct injection operation.
+4 (19) Schematics or other appropriate drawings of the surface
+5 and subsurface construction details of the well.
+6 (20) Injection well construction procedures that meet all
+7 requirements of the department.
+8 (21) A proposed area of review and corrective action plan.
+9 (22) Proof that financial responsibility requirements of the
+10 department are met.
+11 (23) A proposed testing and monitoring plan.
+12 (24) A well plugging plan.
+13 (25) An emergency and remedial response plan.
+14 (26) A post-injection site care and site closure plan or an
+15 alternative post-injection site care framework. At any time
+16 during the life of the project, a storage operator may modify
+17 and resubmit the post-injection site care and site closure plan
+18 for approval by the department at least thirty (30) days before
+19 the change is made. Upon ceasing injection, a storage operator
+20 must do the following:
+21 (A) Submit an amended post-injection site care and site
+22 closure plan.
+23 (B) Demonstrate through monitoring data and modeling
+24 results that an amendment is not needed. An amendment
+25 must be approved by the department, must be
+26 incorporated into the permit, and is subject to permit
+27 modification requirements.
+28 (C) Submit evidence of managerial and technical ability to
+29 construct, operate, and maintain a carbon sequestration
+30 project.
+31 (27) Each local, state, or federal permit obtained by the
+32 applicant.
+33 (28) Any other information required by the department.
+34 (f) (d) During the first ten (10) years of the permit for a carbon
+35 sequestration project, if the carbon sequestration project injects more
+36 metric tons of carbon dioxide into the storage facility than was
+37 proposed under the original application under subsection (e), (c), the
+38 storage operator shall pay the filing fee under subsection (e) (c) for the
+39 additional metric tons of carbon dioxide injected into the storage
+40 facility during the first ten (10) years of the permit for the carbon
+41 sequestration project.
+42 (g) (e) A fee paid under this section is not refundable by the
+EH 1368—LS 6866/DI 150
+
+23
+1 department.
+2 (f) The department shall adopt rules that mirror applicable
+3 federal regulations to implement this section.
+4 SECTION 54. IC 14-39-2-5.1 IS ADDED TO THE INDIANA
+5 CODE AS A NEW SECTION TO READ AS FOLLOWS
+6 [EFFECTIVE UPON PASSAGE]: Sec. 5.1. (a) A storage operator
+7 must demonstrate to the satisfaction of the department that the
+8 wells will be sited in areas with a suitable geologic formation. The
+9 storage operator must demonstrate that the geologic formation is
+10 composed of the following:
+11 (1) An injection zone of sufficient areal extent, thickness,
+12 porosity, and permeability to receive the total anticipated
+13 volume of the carbon dioxide stream.
+14 (2) A confining zone free of transmissive faults or fractures
+15 and of sufficient areal extent and integrity to contain the
+16 injected carbon dioxide stream and displaced formation fluids
+17 and allow injection at proposed maximum pressures and
+18 volumes without initiating or propagating fractures in the
+19 confining zone.
+20 (b) The department may require a storage operator to identify
+21 and characterize additional injection zones that:
+22 (1) will impede vertical fluid movement;
+23 (2) are free of faults and fractures that may interfere with
+24 containment;
+25 (3) allow for pressure dissipation; and
+26 (4) provide additional opportunities for:
+27 (A) monitoring;
+28 (B) mitigation; and
+29 (C) remediation.
+30 SECTION 55. IC 14-39-2-5.2 IS ADDED TO THE INDIANA
+31 CODE AS A NEW SECTION TO READ AS FOLLOWS
+32 [EFFECTIVE UPON PASSAGE]: Sec. 5.2. (a) A storage operator
+33 must ensure that each Class VI well is constructed and completed
+34 for the following:
+35 (1) To prevent the movement of fluids into or between
+36 underground sources of drinking water or into any
+37 unauthorized zones.
+38 (2) To permit the use of appropriate testing devices and
+39 workover tools.
+40 (3) To permit continuous monitoring of the annulus space
+41 between the injection tubing and long string casing.
+42 (b) Casing and cement or other materials used in the
+EH 1368—LS 6866/DI 150
+
+24
+1 construction of each Class VI well must have sufficient structural
+2 strength and be designed for the life of the geologic sequestration
+3 project. All well materials must be compatible with fluids with
+4 which the materials may be expected to come into contact and must
+5 meet federal standards or be comparable to standards required by
+6 the department.
+7 (c) Tubing and packer materials used in the construction of each
+8 Class VI well must be compatible with fluids with which the
+9 materials may be expected to come into contact and must meet
+10 federal standards or be comparable to standards required by the
+11 department.
+12 (d) The department shall adopt rules that mirror applicable
+13 federal regulations to implement this section.
+14 SECTION 56. IC 14-39-2-5.3 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE UPON PASSAGE]: Sec. 5.3. During the drilling and
+17 construction of a Class VI injection well, a storage operator must:
+18 (1) perform appropriate logs;
+19 (2) perform surveys and tests to determine or verify the:
+20 (A) depth;
+21 (B) thickness;
+22 (C) porosity;
+23 (D) permeability;
+24 (E) lithology; and
+25 (F) salinity;
+26 of any formation fluids in all relevant geologic formations to
+27 ensure conformance with the injection well construction
+28 requirements of the department; and
+29 (3) establish accurate baseline data against which future
+30 measurements may be compared.
+31 The storage operator must submit to the department a report
+32 prepared by a log analyst that includes an interpretation of the
+33 results of each log and test.
+34 SECTION 57. IC 14-39-2-5.4 IS ADDED TO THE INDIANA
+35 CODE AS A NEW SECTION TO READ AS FOLLOWS
+36 [EFFECTIVE UPON PASSAGE]: Sec. 5.4. (a) A storage operator
+37 may apply to the department for a depth requirement waiver.
+38 (b) An application under subsection (a) must include the
+39 following:
+40 (1) The depth of each proposed injection zone.
+41 (2) The location of each injection well.
+42 (3) The name and depth of all underground sources of
+EH 1368—LS 6866/DI 150
+
+25
+1 drinking water within the area of review.
+2 (4) A map of the area of review.
+3 (5) The names of public water supplies:
+4 (A) affected;
+5 (B) reasonably likely to be affected; or
+6 (C) served;
+7 by underground sources of drinking water in the area of
+8 review.
+9 (6) The results of an underground injection control and public
+10 water system supervision consultation of all states and tribes
+11 having jurisdiction over lands within the area of review of a
+12 well for which a waiver is sought.
+13 (7) A supplemental report that meets the requirements set by
+14 the department that provides data as required by section 5.3
+15 of this chapter.
+16 (c) A storage operator that applies to the department for a
+17 depth requirement waiver must post public notice that a waiver
+18 application was submitted by publication in at least one (1)
+19 newspaper of general circulation in each county affected by the
+20 application. Notice under this subsection must include the
+21 information required under subsection (b).
+22 (d) Following public notice under this section, the department
+23 shall provide all information provided in the application to the
+24 department of environmental management and the United States
+25 Environmental Protection Agency. The department of
+26 environmental management must concur or dissent in writing
+27 regarding the waiver. The department shall request feedback and
+28 a concurrence on the application from the United States
+29 Environmental Protection Agency.
+30 (e) To make a decision whether to concur or dissent, the
+31 department of environmental management may do the following:
+32 (1) Request that additional information be provided to
+33 support a decision.
+34 (2) Require that public notice of new information be initiated.
+35 (f) The department may not approve a waiver without a written
+36 concurrence from the:
+37 (1) department of environmental management; and
+38 (2) United States Environmental Protection Agency.
+39 (g) If a waiver is issued, not later than thirty (30) days after the
+40 waiver is issued, the department and the department of
+41 environmental management shall post the following on their
+42 respective websites:
+EH 1368—LS 6866/DI 150
+
+26
+1 (1) The depth of each proposed injection zone.
+2 (2) The location of each injection well.
+3 (3) The name and depth of each underground source of
+4 drinking water within the area of review.
+5 (4) A map of the area of review.
+6 (5) The names of each public water supply affected,
+7 reasonably likely to be affected, or served by underground
+8 sources of drinking water in the area of review.
+9 (6) The date the waiver was issued.
+10 (h) Upon receiving a waiver under this section, the storage
+11 operator must comply with any modified construction
+12 requirements or other requirements resulting from the waiver.
+13 SECTION 58. IC 14-39-2-5.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE UPON PASSAGE]: Sec. 5.5. (a) Upon determining
+16 that an application is complete, the department must decide
+17 whether to:
+18 (1) prepare a draft permit for the public comment process; or
+19 (2) deny the application.
+20 The department shall notify the applicant of the decision.
+21 (b) If the department decides to prepare a draft permit, the
+22 permit must contain the following:
+23 (1) Conditions of the permit.
+24 (2) Compliance schedules.
+25 (3) Monitoring requirements.
+26 (c) Within seven (7) days after receiving the completed
+27 application, the department shall prepare and provide to the
+28 applicant a project decision schedule that specifies target dates by
+29 which the department intends to:
+30 (1) prepare a draft permit;
+31 (2) give public notice;
+32 (3) complete the public comment period, including any public
+33 hearing; and
+34 (4) issue a final permit.
+35 (d) The department may not deny an application without a
+36 public comment period and hearing.
+37 (e) The department shall adopt rules that mirror applicable
+38 federal regulations to implement this section.
+39 SECTION 59. IC 14-39-2-5.6 IS ADDED TO THE INDIANA
+40 CODE AS A NEW SECTION TO READ AS FOLLOWS
+41 [EFFECTIVE UPON PASSAGE]: Sec. 5.6. (a) The department shall
+42 hold a public hearing before issuing a permit.
+EH 1368—LS 6866/DI 150
+
+27
+1 (b) Notice of the hearing must be published for two (2)
+2 consecutive weeks in a newspaper of general circulation in each
+3 county where the carbon sequestration project is proposed to be
+4 located. Publication deadlines must comply with department rules.
+5 (c) Notice of the hearing must be given to each:
+6 (1) mineral lessee;
+7 (2) mineral owner; and
+8 (3) pore space owner;
+9 within the carbon sequestration project and within one-half (1/2)
+10 mile of the reservoir's boundaries. Notice shall be completed by
+11 mail or third party commercial delivery and addressed to the last
+12 address of record for the individual or entity to be served.
+13 (d) Notice of the hearing must be given to each surface owner of
+14 land overlying the carbon sequestration project and within
+15 one-half (1/2) mile of the reservoir's boundaries. Notice shall be
+16 completed by mail or third party commercial delivery and
+17 addressed to the last address of record for the individual or entity
+18 to be served.
+19 (e) The department may provide notice of the hearing to any
+20 additional person the department deems necessary.
+21 (f) Hearing notices required by this section must comply with
+22 deadlines set by the department and contain any additional
+23 information the department requires.
+24 (g) An applicant for a permit shall pay the costs the department
+25 incurs in:
+26 (1) publishing the notice for a hearing; and
+27 (2) holding a hearing;
+28 on a permit application.
+29 (h) Following a public hearing under this section, the
+30 department must post the following on the website for the
+31 department:
+32 (1) Whether a permit application has been tentatively denied.
+33 (2) Whether a draft permit was prepared.
+34 (3) Whether any other hearings have been scheduled.
+35 (4) Whether an appeal was granted.
+36 (i) Public notice is not required when a request for permit
+37 modification, revocation and reissuance, or termination is denied.
+38 The department must provide written notice of a denial to the
+39 requester and to the storage operator.
+40 (j) The department must provide at least thirty (30) days for
+41 public comment.
+42 (k) Notice of a public hearing must be given at least thirty (30)
+EH 1368—LS 6866/DI 150
+
+28
+1 days before the public hearing.
+2 (l) The department shall provide public notice of the public
+3 comment period and public hearing as required by federal
+4 regulations and rules adopted by the department. The department
+5 may recuperate expenses for notice from the storage operator.
+6 (m) A notice of the public comment period or public hearing
+7 under this section must include the following information:
+8 (1) The name and address of the office processing the permit
+9 action for which notice is being given.
+10 (2) The name and address of the permittee of the permit
+11 applicant and, if different, of the facility or activity being
+12 regulated by the permit.
+13 (3) A brief description of the business conducted at the facility
+14 or activity being described in the permit application or the
+15 draft permit.
+16 (4) The name, address, and telephone number of a person at
+17 the department that an interested person may contact to
+18 obtain information, including copies of the draft permit, fact
+19 sheet, and the application.
+20 (5) A brief description of the comment procedures required
+21 by the department and the date, time, and place of a public
+22 hearing that will be held, including information regarding
+23 how to request a hearing and other procedures by which the
+24 public may participate in the final permit decision.
+25 (6) Reference to the date of previous public notices related to
+26 the permit.
+27 (7) The date, time, and place of the hearing.
+28 (8) A brief description of the nature and purpose of the
+29 hearing, including applicable rules and procedures.
+30 (9) Any additional information required by the department.
+31 (n) During a comment period, any interested person may submit
+32 written comments on the draft permit and may request a public
+33 hearing, if a hearing has not already been scheduled. A request for
+34 a public hearing must:
+35 (1) be in writing; and
+36 (2) state the nature of the issues proposed to be raised in the
+37 hearing.
+38 All comments shall be considered by the department in making a
+39 final decision as to whether to issue the permit and must be
+40 answered as required under subsection (p).
+41 (o) The department shall hold a public hearing whenever there
+42 is a significant degree of public interest in a draft permit. The
+EH 1368—LS 6866/DI 150
+
+29
+1 department may hold a public hearing at the discretion of the
+2 department if the public hearing would clarify at least one (1) issue
+3 involved in the permit decision.
+4 (p) At the time a final permit decision is issued, the department
+5 shall issue a response to comments. The response must:
+6 (1) specify which provisions, if any, of the draft permit were
+7 changed in the final permit, and the reasons for each change;
+8 and
+9 (2) briefly describe and respond to all substantive comments
+10 on the draft permit raised during the public comment period
+11 or during any hearing.
+12 Response to comments must be made available to the public on the
+13 website for the department.
+14 (q) The department shall adopt rules that mirror applicable
+15 federal regulations to implement this section.
+16 SECTION 60. IC 14-39-2-5.7 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+18 [EFFECTIVE UPON PASSAGE]: Sec. 5.7. (a) The department shall
+19 identify and protect all underground sources of drinking water and
+20 all aquifers and parts of aquifers that are underground sources of
+21 drinking water.
+22 (b) If the United States Environmental Protection Agency
+23 determines there is an applicable aquifer exemption or an
+24 expansion to the areal extent of an existing Class II enhanced oil
+25 recovery or enhanced gas recovery aquifer exemption for the
+26 exclusive purpose of Class VI injection for geologic sequestration,
+27 then the department shall assist the United States Environmental
+28 Protection Agency in regulating the aquifer exemption.
+29 (c) The department may not issue an aquifer exemption.
+30 (d) Other than aquifer exemption expansions approved by the
+31 United States Environmental Protection Agency that meet the
+32 criteria set forth in 40 CFR 144.7, the department may not issue a
+33 new aquifer exemption for a Class VI injection well. This
+34 subsection applies regardless of whether an aquifer has been
+35 identified by the department as an underground source of drinking
+36 water.
+37 (e) The department shall comply with 40 CFR 144.7 regarding
+38 aquifer exemptions.
+39 SECTION 61. IC 14-39-2-6, AS AMENDED BY P.L.213-2025,
+40 SECTION 137, IS AMENDED TO READ AS FOLLOWS
+41 [EFFECTIVE UPON PASSAGE]: Sec. 6. (a) The department shall
+42 review an application submitted under section 5(d) 5(a) of this chapter.
+EH 1368—LS 6866/DI 150
+
+30
+1 If the department determines that the application submitted under
+2 section 5(d) 5(a) of this chapter is complete, the department shall notify
+3 the applicant.
+4 (b) The department shall return an application to the applicant if the
+5 department determines that the application is incomplete, inaccurate,
+6 or both.
+7 (c) If the department returns an application to an applicant under
+8 subsection (b), the department shall inform the applicant in writing that
+9 the applicant may file a corrected application not more than sixty (60)
+10 days after the receipt of the returned application.
+11 (d) Upon receiving a complete application under this section, the
+12 department shall review the application.
+13 (e) Upon receiving notification that an application is complete, the
+14 applicant shall:
+15 (1) not more than sixty (60) days after receiving the notice under
+16 this subsection:
+17 (A) place for public inspection a copy of the application in a
+18 public library located in each county in which the carbon
+19 sequestration project is proposed to be located;
+20 (B) publish under IC 5-3-1 in each county in which the carbon
+21 sequestration project is proposed to be located notice of the
+22 name and address of each library in which a copy of the
+23 application is placed as required by clause (A); and
+24 (C) provide notice to potentially affected parties under rules
+25 adopted by the commission for carbon sequestration projects;
+26 and
+27 (2) provide to the department proof of publication of notice under
+28 this subsection not more than thirty (30) days after the publication
+29 or delivery of the notice.
+30 (f) Not later than ninety (90) one hundred eighty (180) days after
+31 receiving the proof of publication of notice under subsection (e), the
+32 department shall notify the applicant in writing that:
+33 (1) the department has approved the application; or
+34 (2) the department has denied the application.
+35 SECTION 62. IC 14-39-2-6.2 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE UPON PASSAGE]: Sec. 6.2. (a) Before issuing a
+38 permit, the department shall consult with the department of
+39 environmental management and determine whether the carbon
+40 sequestration project will cause pollution or create a nuisance.
+41 (b) Before issuing a permit, the department shall make the
+42 following findings or assess the following sources of information:
+EH 1368—LS 6866/DI 150
+
+31
+1 (1) That the storage operator is in compliance with all
+2 applicable laws governing the storage facility.
+3 (2) That the storage operator shows that the storage facility
+4 is reasonably expected to retain the carbon dioxide stored in
+5 the storage facility.
+6 (3) That the storage operator shows that the carbon dioxide
+7 in the storage facility is stable by showing that either:
+8 (A) the stored carbon dioxide is essentially stationary; or
+9 (B) if the stored carbon migrates, the migration is unlikely
+10 to cross the boundaries of the storage facility.
+11 (4) That the storage operator has made a good faith effort to
+12 secure the consent of all individuals who own the reservoir's
+13 pore space.
+14 (5) That the storage operator has made a good faith effort to
+15 obtain the consent of all pore space owners located within the
+16 proposed storage facility.
+17 (6) That the storage operator has obtained the consent of the
+18 pore space owners of the pore space underlying at least
+19 seventy percent (70%) of the surface area above the proposed
+20 storage facility or amended proposed storage facility.
+21 (7) That all pore space owners that do not agree to integrate
+22 their interests to develop the pore space as a proposed storage
+23 facility for the underground storage of carbon dioxide are
+24 equitably compensated.
+25 (8) That a carbon sequestration project will not adversely
+26 affect the interests of the mineral owners or mineral lessees or
+27 the interests have been addressed in an arrangement entered
+28 into by the mineral owners or mineral lessees and the storage
+29 operator.
+30 (9) That the proposed storage facility will not adversely affect
+31 surface waters or aquifers.
+32 (10) That the proposed storage reservoir will remain solid and
+33 the substances making up the storage reservoir will not mix or
+34 interact with the stored carbon dioxide.
+35 (11) That the storage facility will neither endanger human
+36 health nor endanger the environment.
+37 (12) That the storage facility is in the public interest.
+38 (13) That the horizontal and vertical boundaries of the storage
+39 reservoir are defined. These boundaries shall include buffer
+40 areas to ensure that the storage facility is operated safely and
+41 as contemplated.
+42 (14) That the storage operator will establish monitoring
+EH 1368—LS 6866/DI 150
+
+32
+1 facilities and protocols to assess the location and migration of
+2 carbon dioxide injected for storage and to ensure compliance
+3 with all permit, statutory, and administrative requirements.
+4 (15) The final area of review based on modeling, using data
+5 obtained during logging and testing of the well and the
+6 formation as required by the department.
+7 (16) Any relevant updates, based on data obtained during
+8 logging and testing of the well and the formation, to the
+9 information on the geologic structure and hydrogeologic
+10 properties of the proposed storage site and overlying
+11 formations, submitted to satisfy the requirements of the
+12 department.
+13 (17) Information on the compatibility of the carbon dioxide
+14 stream with fluids in each injection zone and minerals in both
+15 the injection and each confining zone, based on the results of
+16 the formation testing program, and with the materials used to
+17 construct the well.
+18 (18) The results of the formation testing program required by
+19 the department.
+20 (19) Final injection well construction procedures that meet the
+21 requirements of the department.
+22 (20) The status of corrective action on wells in the area of
+23 review.
+24 (21) All available logging and testing program data on the
+25 well required by the department.
+26 (22) A demonstration of a mechanical integrity test.
+27 (23) Any updates to the:
+28 (A) proposed area of review and corrective action plan;
+29 (B) testing and monitoring plan;
+30 (C) injection well plugging plan;
+31 (D) post-injection site care and site closure plan; or
+32 (E) emergency and remedial response plan;
+33 resulting from testing performed during the application
+34 process.
+35 (24) That the proposed carbon sequestration project contains
+36 the minimum requirements for an effective program to
+37 prevent the underground injection of carbon from
+38 endangering drinking water sources as prescribed by the
+39 federal Safe Drinking Water Act (42 U.S.C. 300h(b)(1)).
+40 (25) Any other information the department determines should
+41 be reviewed.
+42 (c) The department may include in a permit all things necessary
+EH 1368—LS 6866/DI 150
+
+33
+1 to:
+2 (1) carry out the purposes of this chapter; and
+3 (2) protect and adjust the respective rights and obligations of
+4 individuals affected by a carbon sequestration project.
+5 SECTION 63. IC 14-39-2-7, AS AMENDED BY P.L.213-2025,
+6 SECTION 138, IS AMENDED TO READ AS FOLLOWS
+7 [EFFECTIVE UPON PASSAGE]: Sec. 7. (a) If the department
+8 approves an application under section 6 of this chapter, the department
+9 shall issue to the applicant a carbon sequestration project permit.
+10 (b) When the department issues a permit, it shall also issue a
+11 certificate that contains the following information:
+12 (1) The date the permit was issued.
+13 (2) A description of the area containing the carbon
+14 sequestration project.
+15 (3) Any additional information the department deems
+16 appropriate.
+17 (c) The department shall file a copy of the certificate with the
+18 county recorder in the county or counties in which the storage
+19 facility is located.
+20 SECTION 64. IC 14-39-2-7.1 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE UPON PASSAGE]: Sec. 7.1 (a) If a person wishes to
+23 challenge a determination made by the department, the person
+24 may request an informal hearing by the division of reclamation
+25 prior to filing for a formal administrative hearing under IC 4-21.5.
+26 (b) If the challenging person requests to have an informal
+27 hearing, the request must include the following:
+28 (1) The name, address, telephone number, and electronic mail
+29 address of the person requesting the informal hearing.
+30 (2) The department decision for which the person is seeking
+31 informal review.
+32 (3) The names of other persons who are subject to the
+33 determination made by the department and their addresses,
+34 telephone numbers, and electronic mail addresses.
+35 (4) The reason for the person's objection to the determination
+36 made by the department.
+37 (5) Evidence presented by the person in support of the reasons
+38 the person believes the department made an improper
+39 determination.
+40 (c) Not later than thirty (30) days after receiving a request for
+41 an informal hearing under this section, the department must
+42 schedule an informal hearing and notify the requester and any
+EH 1368—LS 6866/DI 150
+
+34
+1 other person who is subject to the determination at issue of the
+2 informal hearing date by first class mail paid for by the requester.
+3 The date of the scheduled hearing must be at least thirty (30) days
+4 after the date of the notice.
+5 (d) The department must post information regarding the date,
+6 time, and place of the public hearing on the department's website.
+7 (e) An informal hearing under this section must follow the
+8 public access requirements of IC 5-14-1.5.
+9 (f) A determination by the department under this section is
+10 subject to review and appeal under IC 4-21.5.
+11 SECTION 65. IC 14-39-2-11, AS AMENDED BY P.L.25-2025,
+12 SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 UPON PASSAGE]: Sec. 11. (a) A mineral owner or mineral lessee
+14 shall provide written notice to a storage operator at least thirty-one (31)
+15 days prior to drilling a well if the mineral owner or mineral lessee
+16 wishes to drill a well not more than:
+17 (1) three hundred thirty (330) feet from the surface location of a
+18 well pursuant to a UIC Class VI permit; or
+19 (2) five hundred (500) feet from the uppermost confining zone of
+20 a carbon sequestration facility within the boundary of the storage
+21 facility pursuant to a UIC Class VI permit.
+22 Drilling permitted by this subsection must be conducted in cooperation
+23 with a storage operator.
+24 (b) A well drilled under subsection (a) must be drilled in
+25 compliance with the requirements of
+26 (1) the department to preserve the integrity of the storage facility.
+27 (2) a UIC Class VI permit; and
+28 (3) any other applicable regulations.
+29 SECTION 66. IC 14-39-2-11.5, AS AMENDED BY P.L.213-2025,
+30 SECTION 142, IS AMENDED TO READ AS FOLLOWS
+31 [EFFECTIVE UPON PASSAGE]: Sec. 11.5. (a) A person may not:
+32 (1) drill, deepen, or operate a nonproduction well drilled to
+33 investigate and obtain data on geological, structural, or
+34 hydrogeological stratigraphic intervals for the suitability of
+35 underground formations for carbon sequestration; or
+36 (2) convert a well for oil and gas purposes (as defined by
+37 IC 14-8-2-317) for carbon dioxide investigations;
+38 without first obtaining a permit to create and operate an
+39 investigatory carbon dioxide well issued by the department under this
+40 section.
+41 (b) A person issued a permit under this section shall do the
+42 following:
+EH 1368—LS 6866/DI 150
+
+35
+1 (1) Comply with the conditions of the permit to the satisfaction of
+2 the department;
+3 (2) Correct any adverse environmental impact that results from
+4 noncompliance with a permit.
+5 (3) Provide for the proper operation and maintenance of all:
+6 (A) facilities;
+7 (B) treatment systems; and
+8 (C) control and related appurtenances;
+9 that are installed or used by the person to comply with the permit
+10 conditions.
+11 (c) A permit issued under this section does not convey to the holder
+12 a property right or an exclusive privilege.
+13 (d) An application for a permit under subsection (a) must include
+14 the following:
+15 (1) The name, address, telephone number, and electronic mail
+16 address of the applicant.
+17 (2) The signature of the applicant or the applicant's designee. The
+18 applicant must be the operator identified in the permit application.
+19 (3) An identification of the plat of land or lease where the well is
+20 to be located, along with a description of the property boundaries,
+21 lease lines, and storage area tract boundary, including the acreage
+22 within the tract, as applicable.
+23 (4) The location of the proposed well as certified by a
+24 professional surveyor registered under IC 25-21.5.
+25 (5) The surface elevation of the proposed well and the method
+26 used for determining that elevation.
+27 (6) The depth of the proposed well.
+28 (7) Proof of a surface use agreement executed by the applicant
+29 and the surface owner, including an agreement specifying that in
+30 acting as authorized under a permit issued by the department
+31 under this section, the operator does not commit trespass with
+32 respect to the subsurface estate in any case in which the
+33 subsurface estate is separate from the surface estate.
+34 (8) Any other information required by the department that is
+35 necessary to administer this section.
+36 (e) An applicant shall submit the following with an application for
+37 a permit under this section:
+38 (1) For each well included in the application, a cash bond of ten
+39 dollars ($10) for each foot of well depth.
+40 (2) A permit fee of two hundred fifty dollars ($250) payable to the
+41 department.
+42 The department shall deposit all amounts collected under this
+EH 1368—LS 6866/DI 150
+
+36
+1 subsection in the carbon sequestration project program administrative
+2 fund established by section 10.5 of this chapter.
+3 (f) The department shall incorporate in a permit issued under this
+4 section the terms, conditions, and covenants the department considers
+5 necessary to protect the public interest.
+6 (g) Except as provided in subsection (h), the department shall issue
+7 a permit under this section not later than fifteen (15) days after the
+8 applicant:
+9 (1) demonstrates compliance with all relevant:
+10 (A) provisions of this article; and
+11 (B) rules adopted under this article;
+12 as determined by the department; and
+13 (2) submits a complete permit application under this section to the
+14 department;
+15 unless the fifteen (15) day deadline prescribed by this subsection is
+16 otherwise waived by the applicant.
+17 (h) The department may deny a permit under this section if the
+18 applicant, or an officer, a partner, or a director of the applicant:
+19 (1) either:
+20 (A) is in violation of this article at the time of the application;
+21 or
+22 (B) would be in violation if the permit were issued; or
+23 (2) has previously demonstrated a pattern of willful violations of
+24 this article.
+25 (i) Except as provided in subsection (j), a permit issued by the
+26 department under this section with respect to a particular well remains
+27 in effect until any of the following occurs:
+28 (1) The well is plugged and abandoned.
+29 (2) The well is converted to another type of well.
+30 (3) The permit is revoked by the department under subsection (k).
+31 (j) A permit issued by the department under this section expires one
+32 (1) year after the date of issuance if the drilling of a well for which the
+33 permit has been issued has not commenced within that time.
+34 (k) The department may revoke a permit issued under this section.
+35 (l) Subject to subsection (m), a person holding a permit under this
+36 section shall plug and abandon a well that is no longer in operation
+37 under a permit, unless the well is converted to a carbon dioxide
+38 injection or monitoring well under a UIC Class Vl permit.
+39 (m) A person holding a permit under this section may defer
+40 plugging and abandoning a well while an application is pending to
+41 convert the well into a UIC Class VI permit carbon dioxide injection or
+42 monitoring well, as long as the well is temporarily capped and
+EH 1368—LS 6866/DI 150
+
+37
+1 maintained in the manner prescribed by the department in the permit.
+2 (n) After a well is plugged and abandoned or transferred, the
+3 applicant who paid the cash bond under subsection (e) may request a
+4 total or partial bond release from the department. The director of the
+5 division of reclamation shall:
+6 (1) release the bond as requested; or
+7 (2) deny the bond release.
+8 (o) A determination by the department under this section is subject
+9 to review and appeal under IC 4-21.5.
+10 (p) The commission may adopt rules under IC 4-22-2 to implement
+11 this section.
+12 SECTION 67. IC 14-39-2-12.1 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE UPON PASSAGE]: Sec. 12.1. (a) Except during
+15 stimulation, a storage operator must ensure that injection pressure
+16 does not exceed ninety percent (90%) of the fracture pressure of an
+17 injection zone to ensure that the injection does not initiate new
+18 fractures or propagate existing fractures in the injection zone.
+19 (b) Injection pressure may not initiate fractures in a confining
+20 zone or cause the movement of injection or formation fluids that
+21 endangers an underground source of drinking water.
+22 (c) A stimulation program must be approved by the department
+23 as part of the permit application and incorporated into the permit.
+24 (d) A storage operator shall meet injection well operating
+25 requirements established by the department.
+26 (e) The department shall adopt rules that mirror applicable
+27 federal regulations to implement this section.
+28 SECTION 68. IC 14-39-2-12.2 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE UPON PASSAGE]: Sec. 12.2. (a) A UIC Class VI
+31 permit may be modified at the request of an interested person in
+32 writing or upon the directive of the department. The request must
+33 contain each fact or reason supporting the request and any other
+34 criteria established by the department.
+35 (b) A UIC Class VI permit may be suspended, revoked and
+36 reissued, or terminated at the request of an interested person in
+37 writing or upon the directive of the department. The request must
+38 contain each fact or reason supporting the request.
+39 SECTION 69. IC 14-39-2-12.3 IS ADDED TO THE INDIANA
+40 CODE AS A NEW SECTION TO READ AS FOLLOWS
+41 [EFFECTIVE UPON PASSAGE]: Sec. 12.3. (a) The department shall
+42 submit a memorandum of agreement that includes all of the
+EH 1368—LS 6866/DI 150
+
+38
+1 information required under 40 CFR 145.25 to the Regional
+2 Administrator for the United States Environmental Protection
+3 Agency.
+4 (b)The department shall prepare quarterly and annual reports
+5 as described in 40 CFR 144.8.
+6 (c) The reports shall be submitted to the Regional Administrator
+7 for the United States Environmental Protection Agency and meet
+8 the requirements of federal regulations adopted by the department.
+9 (d) Quarterly reports are due:
+10 (1) May 31;
+11 (2) August 31;
+12 (3) November 30; and
+13 (4) February 28;
+14 following the quarter.
+15 (e) Annual reports are due not more than sixty (60) days after
+16 the end of the calendar year.
+17 (f) A storage operator shall submit the reports required under
+18 40 CFR 146.91 to the department within the time frames described
+19 in 40 CFR 146.91.
+20 SECTION 70. IC 14-39-2-12.4 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE UPON PASSAGE]: Sec. 12.4. The department shall
+23 provide in writing to a state, tribe, or territory included in an area
+24 of review for a project a map showing the injection well for which
+25 a permit is sought and the applicable areas of review.
+26 SECTION 71. IC 14-39-2-12.5 IS ADDED TO THE INDIANA
+27 CODE AS A NEW SECTION TO READ AS FOLLOWS
+28 [EFFECTIVE UPON PASSAGE]: Sec. 12.5. The department may
+29 require, by written notice on a well by well basis, a storage
+30 operator to:
+31 (1) establish and maintain records;
+32 (2) make reports;
+33 (3) conduct monitoring; and
+34 (4) provide any other information required by the
+35 department;
+36 to determine whether the storage operator acted, or is acting, in
+37 compliance with the Safe Drinking Water Act or other
+38 requirements of the department.
+39 SECTION 72. IC 14-39-2-12.6 IS ADDED TO THE INDIANA
+40 CODE AS A NEW SECTION TO READ AS FOLLOWS
+41 [EFFECTIVE UPON PASSAGE]: Sec. 12.6. (a) A storage operator
+42 that is injecting carbon dioxide for the primary purpose of long
+EH 1368—LS 6866/DI 150
+
+39
+1 term storage into an oil and gas reservoir must apply for and
+2 obtain a Class VI geologic sequestration permit when there is an
+3 increased risk to underground sources of drinking water compared
+4 to Class II operations.
+5 (b) In determining if there is an increased risk to underground
+6 sources of drinking water, a storage operator must consider the
+7 following factors:
+8 (1) Increase in reservoir pressure within the injection zone.
+9 (2) Increase in carbon dioxide injection rates.
+10 (3) Decrease in reservoir production rates.
+11 (4) Distance between the injection zone and underground
+12 sources of drinking water.
+13 (5) Suitability of the Class II area of review delineation.
+14 (6) Quality of abandoned well plugs within the area of review.
+15 (7) A storage operator's plan for recovery of carbon dioxide
+16 at the cessation of injection.
+17 (8) The source and properties of injected carbon dioxide.
+18 (9) Any additional site specific factors as determined by the
+19 department.
+20 SECTION 73. IC 14-39-2-12.7 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE UPON PASSAGE]: Sec. 12.7. (a) The department shall
+23 determine when there is an increased risk to underground sources
+24 of drinking water and a UIC Class VI permit is required, rather
+25 than a Class II permit.
+26 (b) To make this determination, the department must consider
+27 the following factors:
+28 (1) Increase in reservoir pressure within an injection zone.
+29 (2) Increase in carbon dioxide injection rates.
+30 (3) Decrease in reservoir production rates.
+31 (4) Distance between an injection zone and underground
+32 sources of drinking water.
+33 (5) Suitability of the Class II area of review delineation.
+34 (6) Quality of abandoned well plugs within the area of review.
+35 (7) A storage operator's plan for recovery of carbon dioxide
+36 at the cessation of injection.
+37 (8) The source and properties of injected carbon dioxide.
+38 (9) Any other site specific factors required by the department.
+39 SECTION 74. IC 14-39-2-12.8 IS ADDED TO THE INDIANA
+40 CODE AS A NEW SECTION TO READ AS FOLLOWS
+41 [EFFECTIVE UPON PASSAGE]: Sec. 12.8. (a) Compliance with a
+42 UIC Class VI permit during the term of the UIC Class VI permit
+EH 1368—LS 6866/DI 150
+
+40
+1 constitutes compliance, for purposes of enforcement.
+2 (b) The department may:
+3 (1) modify;
+4 (2) revoke;
+5 (3) reissue; or
+6 (4) terminate;
+7 a UIC Class VI permit during its term for a violation of 40 CFR
+8 144.39 or 40 CFR 144.40.
+9 (c) A UIC Class VI permit holder may not transfer a permit to
+10 another person except after notice to the department. The
+11 department may require:
+12 (1) modification; or
+13 (2) revocation and reissuance;
+14 of a UIC Class VI permit to change the name of the permittee and
+15 incorporate other requirements required by this chapter or federal
+16 law.
+17 (d) The issuance of a UIC Class VI permit does not convey any
+18 property rights of any sort, or any exclusive privilege.
+19 (e) The issuance of a UIC Class VI permit does not authorize
+20 any injury to persons or property or invasion of other private
+21 rights, or any infringement of state or local law or regulations.
+22 (f) The term of a UIC Class VI permit is during the operating
+23 life of the storage facility and the post-injection site care period.
+24 (g) The department shall incorporate into a UIC Class VI
+25 permit conditions established by the department either expressly
+26 or by reference.
+27 (h) The person issued a UIC Class VI permit by the department
+28 shall comply with federal regulations adopted by the department.
+29 The department may modify, revoke, reissue, or terminate a
+30 person's UIC Class VI permit that violates this article or federal
+31 regulations adopted by the department.
+32 (i) The department shall adopt rules that mirror applicable
+33 federal regulations to implement this section.
+34 SECTION 75. IC 14-39-2-13, AS AMENDED BY P.L.213-2025,
+35 SECTION 143, IS AMENDED TO READ AS FOLLOWS
+36 [EFFECTIVE UPON PASSAGE]: Sec. 13. (a) A certificate of project
+37 completion shall be issued upon application by the storage operator if
+38 the department finds that the storage operator does the following:
+39 (1) The storage operator is in compliance with all applicable laws
+40 governing the storage facility.
+41 (2) The storage operator shows that the storage facility is
+42 reasonably expected to retain the carbon dioxide stored in the
+EH 1368—LS 6866/DI 150
+
+41
+1 storage facility.
+2 (3) The storage operator shows that the carbon dioxide in the
+3 storage facility is stable by showing that either:
+4 (A) the stored carbon dioxide is essentially stationary; or
+5 (B) if the stored carbon migrates, the migration is unlikely to
+6 cross the boundaries of the storage facility.
+7 (4) The storage operator shows that all wells, equipment, and
+8 facilities used after the closure period are in good condition and
+9 retain mechanical integrity.
+10 (5) The storage operator shows that injection wells have been
+11 plugged.
+12 (6) The storage operator shows that equipment and facilities, not
+13 including fixed structures and long term monitoring equipment
+14 and wells, have been removed.
+15 (7) The storage operator proves that the reclamation work
+16 required by the department where the project ceases to inject
+17 carbon dioxide is completed.
+18 (8) The following with respect to site closure:
+19 (A) The storage operator has provided a notice of intent for
+20 site closure to the United States Environmental Protection
+21 Agency.
+22 (B) The United States Environmental Protection Agency has
+23 authorized site closure.
+24 (C) The storage operator has provided:
+25 (i) the site closure report required under 40 CFR 146.93(f)
+26 (as in effect January 1, 2022) to the United States
+27 Environmental Protection Agency; or
+28 (ii) a comparable report to the state regulatory body if the
+29 state assumes primacy for UIC Class VI permitting.
+30 (b) The department shall issue a certificate of project completion not
+31 later than one hundred eighty (180) days after receiving an application
+32 from the storage operator. If the department determines that the
+33 application for a certificate of project completion is incomplete,
+34 inaccurate, or both, the department shall return the application to the
+35 storage operator.
+36 (c) If the department returns the application to the storage operator
+37 under subsection (b), the department shall inform the storage operator,
+38 in writing, of the deficiencies of the submitted application and inform
+39 the storage operator of the right to file a corrected application with the
+40 department.
+41 (d) Once a certificate of completion is issued, the following apply:
+42 (1) Except as provided in subsection (e), the state will assume
+EH 1368—LS 6866/DI 150
+
+42
+1 ownership of and responsibility for the storage facility.
+2 (2) The state will assume responsibility for all regulatory
+3 requirements associated with the storage facility, and the storage
+4 operator and the owner of the storage facility are released from
+5 responsibility for all regulatory requirements associated with the
+6 storage facility.
+7 (3) The state will assume any potential liability associated with
+8 the storage facility.
+9 (4) The department may, at a reasonable time, enter property on
+10 which a carbon dioxide injection well or monitoring well for the
+11 storage facility is located to inspect and maintain the well or
+12 storage facility. Except in the event of an emergency, the
+13 department shall provide advance notice to the owner of the
+14 surface property of the date the department intends to enter the
+15 property. The notice required by this subdivision must be
+16 provided at least five (5) business days before the department
+17 intends to enter the property. The notice must be delivered by:
+18 (A) United States mail;
+19 (B) private courier;
+20 (C) personal delivery; or
+21 (D) any other manner agreed to in writing between the
+22 department and the owner of the surface property.
+23 (e) The state may:
+24 (1) assume ownership of and responsibility for; or
+25 (2) accept transfer of;
+26 a storage facility with respect to which an interest in or rights to
+27 property are conveyed by a lease agreement only if the lessor and
+28 lessee agree in the lease agreement to transfer the storage facility to the
+29 state. In a transfer described in this subsection, the state assumes
+30 ownership of and responsibility for the storage facility only and does
+31 not assume any other ownership interest, responsibility, or liability
+32 under any other provisions of the lease agreement.
+33 (f) Unless there is documentation to the contrary, the storage
+34 operator has title to the carbon dioxide injected into and stored in a
+35 storage facility, and the storage operator holds title until the department
+36 issues a certificate of completion.
+37 (g) A storage operator shall notify the department in writing at
+38 least one hundred twenty (120) days before site closure. At this
+39 time, if changes were made to the original post-injection site care
+40 and site closure plan, the storage operator must provide the revised
+41 plan to the department.
+42 (h) A storage operator shall monitor the site following injection
+EH 1368—LS 6866/DI 150
+
+43
+1 ceasing to show the position of the carbon dioxide plume and
+2 pressure front and demonstrate that underground sources of
+3 drinking water are not endangered.
+4 (i) Following the cessation of injection, the storage operator
+5 shall continue to conduct monitoring as specified in the department
+6 approved post-injection site care and site closure plan for at least
+7 fifty (50) years, unless an alternative time frame is approved by the
+8 department as described in subsection (j).
+9 (j) If a storage operator can demonstrate to the satisfaction of
+10 the department that the carbon sequestration project no longer
+11 endangers underground sources of drinking water before the
+12 minimum of fifty (50) years required under subsection (i) has
+13 elapsed, the department may approve an alternative time frame for
+14 the post-injection site care and site closure plan to reduce the
+15 frequency of monitoring or to authorize site closure before the end
+16 of the period, when there is substantial evidence that the carbon
+17 sequestration project no longer poses a risk of endangering
+18 underground sources of drinking water. An alternative time frame
+19 approved by the department must meet the requirements
+20 established in 40 CFR 146.93. The monitoring must continue until
+21 the:
+22 (1) carbon sequestration project no longer endangers
+23 underground sources of drinking water; and
+24 (2) department approves a demonstration submitted by the
+25 owner and operator of the carbon dioxide injection well in the
+26 manner prescribed by 40 CFR 146.93.
+27 (k) Before authorization for site closure, the storage operator
+28 must submit to the department for review and approval a
+29 demonstration, based on monitoring and other site specific data,
+30 that no additional monitoring is needed to ensure that the carbon
+31 sequestration project does not endanger underground sources of
+32 drinking water.
+33 (l) If the storage operator cannot demonstrate that the carbon
+34 sequestration project does not endanger underground sources of
+35 drinking water at the end of the fifty (50) year period, or the
+36 approved alternative time frame, or the department does not
+37 approve the demonstration, the storage operator must submit to
+38 the department a plan to continue post-injection site care until a
+39 demonstration can be made and approved by the department.
+40 (m) After the department authorizes site closure, the storage
+41 operator shall plug all monitoring wells to ensure there is not
+42 movement of injection or formation fluids that endanger an
+EH 1368—LS 6866/DI 150
+
+44
+1 underground source of drinking water.
+2 (n) Not more than ninety (90) days before the site closure, the
+3 storage operator shall submit a site closure report to the
+4 department that is retained by the department for at least ten (10)
+5 years.
+6 (o) Each storage operator shall record a notation on the deed to
+7 the facility property or any other document that is normally
+8 examined during a title search that will, in perpetuity, provide any
+9 potential purchaser of the property the following information:
+10 (1) The fact that the land has been used to sequester carbon
+11 dioxide.
+12 (2) The name of the state agency, local authority, or tribe with
+13 which the survey plat was filed, as well as the address of the
+14 Environmental Protection Agency regional office to which it
+15 was submitted.
+16 (3) The volume of fluid injected, the injection zone or zones
+17 into which it was injected, and the period over which injection
+18 occurred.
+19 (p) The storage operator shall retain, for at least ten (10) years
+20 following site closure, records collected during the post-injection
+21 site care period. The storage operator shall deliver the records to
+22 the department at the conclusion of the retention period, and the
+23 department must retain the records at a location designated by the
+24 department for that purpose.
+25 (q) A storage operator shall comply with any other
+26 post-injection site care and site closure requirements established
+27 by the department.
+28 SECTION 76. IC 14-39-2-14.5 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE UPON PASSAGE]: Sec. 14.5. (a) The following
+31 activities are prohibited:
+32 (1) Injection without a UIC Class VI permit.
+33 (2) Movement of fluid into underground sources of drinking
+34 water.
+35 (3) Experimental Class VI wells for carbon sequestration.
+36 (4) Any action that endangers underground sources of
+37 drinking water.
+38 (5) Any additional activity prohibited under:
+39 (A) the federal Safe Drinking Water Act (42 U.S.C. 300f et
+40 seq.); or
+41 (B) 40 CFR 142, 40 CFR 144, 40 CFR 146, and 40 CFR
+42 148.
+EH 1368—LS 6866/DI 150
+
+45
+1 (b) Other violations of this article include the following:
+2 (1) Making clerical errors or mistakes in reporting
+3 requirements.
+4 (2) Failure to meet basic operation and facility management
+5 requirements.
+6 (3) Failure to meet maintenance requirements that may cause
+7 damage to property.
+8 (4) Creating harmful environmental conditions or hazardous
+9 conditions.
+10 (5) Taking an action that likely results in environmental
+11 damage.
+12 (6) Taking an action that could result in harm to persons or
+13 death.
+14 (c) Mitigating factors that may affect a violation received by a
+15 storage operator under this article are as follows:
+16 (1) Whether the storage operator made a good faith effort to
+17 abate a violation.
+18 (2) The ability of the storage operator to abate the violation.
+19 (3) The cost to the department to enforce the violation.
+20 (4) Whether there was an economic benefit to the storage
+21 operator for committing the violation.
+22 (5) Any other factor that may warrant a reduction of a civil
+23 penalty assessed for a violation.
+24 SECTION 77. IC 14-39-2-15, AS AMENDED BY P.L.213-2025,
+25 SECTION 144, IS AMENDED TO READ AS FOLLOWS
+26 [EFFECTIVE JULY 1, 2026]: Sec. 15. (a) A person that violates a
+27 requirement under this article is subject to a civil penalty under this
+28 section.
+29 (b) Except as provided in subsection (d), a person that violates a
+30 requirement under this article shall pay to the department a civil
+31 penalty as follows:
+32 (1) One thousand dollars ($1,000) Two thousand five hundred
+33 dollars ($2,500) each day for a first violation.
+34 (2) Five thousand dollars ($5,000) each day for a second
+35 violation.
+36 (3) Ten thousand dollars ($10,000) each day for a third and each
+37 subsequent violation.
+38 (c) If a person issued a civil penalty under subsection (b) for a
+39 violation of a requirement under this article does not remedy the
+40 violation in the time prescribed by the department, the person is subject
+41 to a cessation order issued by the department. A person that is issued
+42 a cessation order under this section must pay a civil penalty of seven
+EH 1368—LS 6866/DI 150
+
+46
+1 hundred fifty dollars ($750) per day, for not more than thirty (30) days,
+2 for each day the violation remains unremedied.
+3 (d) If a person does not obtain from the department a certificate or
+4 permit required under this article:
+5 (1) the person shall pay to the department a civil penalty of ten
+6 thousand dollars ($10,000); and
+7 (2) the department shall issue to the person a cessation order in
+8 accordance with subsection (c).
+9 (e) A person who knowingly and intentionally violates this
+10 article commits a Class A misdemeanor. Each violation under this
+11 subsection:
+12 (1) is assessable individually; and
+13 (2) will result in an assessed penalty of at least five thousand
+14 dollars ($5,000) each day based on the:
+15 (A) severity of the violation;
+16 (B) risk to:
+17 (i) the environment;
+18 (ii) individuals; or
+19 (iii) property; and
+20 (C) actions of the violator to abate the violation.
+21 (f) The department shall provide for public participation in the
+22 enforcement process for a violation under this article.
+23 (e) (g) A civil penalty or cessation order assessed or issued under
+24 this section is subject to review and appeal under IC 4-21.5.
+25 (f) (h) The department shall deposit civil penalties collected under
+26 this chapter in the carbon dioxide storage facility trust fund established
+27 by section 10 of this chapter.
+28 SECTION 78. IC 14-39-2-15.5 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE UPON PASSAGE]: Sec. 15.5. If any part of this article
+31 or 312 IAC 30 is found to be invalid, the remainder of this article
+32 or 312 IAC 30, as applicable, is upheld.
+33 SECTION 79. IC 35-52-14-52 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 52. IC 14-39-2-15 defines a crime
+36 concerning carbon sequestration.
+37 SECTION 80. An emergency is declared for this act.
+EH 1368—LS 6866/DI 150
+
+47
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Utilities, Energy and
+Telecommunications, to which was referred House Bill 1368, has had
+the same under consideration and begs leave to report the same back
+to the House with the recommendation that said bill be amended as
+follows:
+Page 6, delete lines 30 through 32, begin a new paragraph and
+insert:
+"Sec. 5. "Carbon dioxide injection well" refers to a well that
+meets the following criteria:
+(1) Is in compliance with a UIC Class VI permit.
+(2) Is used to inject carbon dioxide into a reservoir for carbon
+sequestration.
+(3) Is not experimental in nature.
+(4) Is used for geologic sequestration of carbon dioxide
+beneath the lowermost formation containing an underground
+source of drinking water.
+(5) Is used for geologic sequestration of carbon dioxide that
+has been granted a waiver of the injection depth
+requirements.
+(6) Is used for geologic sequestration of carbon dioxide that
+has received an expansion to the areal extent of an existing
+Class II enhanced oil recovery or enhanced gas recovery
+aquifer exemption.".
+Page 6, delete lines 36 through 37, begin a new line block indented
+and insert:
+"(1) has been captured from an emission source; and".
+Page 7, line 2, delete "as defined by" and insert "under 40 CFR
+261.".
+Page 7, line 3, delete "IC 13-11-2-99(c).".
+Page 7, delete lines 13 through 14, begin a new paragraph and
+insert:
+"Sec. 9. (a) "Carbon sequestration" means the long term
+containment of a:
+(1) gaseous;
+(2) liquid; or
+(3) supercritical;
+carbon dioxide stream in subsurface geologic formations.
+(b) The term does not apply to carbon dioxide capture or
+transport.".
+Page 7, delete lines 17 through 19, begin a new paragraph and
+insert:
+EH 1368—LS 6866/DI 150
+
+48
+"Sec. 11. (a) "Carbon sequestration project" means a carbon
+dioxide injection well that requires a UIC Class VI permit to carry
+out carbon sequestration.
+(b) The term does not include the following:
+(1) The subsurface three-dimensional extent of the carbon
+dioxide plume.
+(2) The subsurface three-dimensional associated area of
+elevated pressure.
+(3) The subsurface three-dimensional displaced fluids.
+(4) The surface area above that delineated region described in
+subdivisions (1) through (3).".
+Page 7, delete lines 20 through 25, begin a new paragraph and
+insert:
+"Sec. 12. (a) "Confining zone" means:
+(1) a geologic formation;
+(2) a group of geologic formations; or
+(3) a part of a geologic formation;
+stratigraphically overlying an injection zone that acts as a barrier
+to fluid movement.
+(b) For a carbon dioxide injection well permitted by a UIC Class
+VI permit under an injection depth waiver, the term means a:
+(1) geologic formation;
+(2) group of geologic formations; or
+(3) part of a geologic formation;
+stratigraphically overlying and underlying the injection zone.".
+Page 7, delete lines 30 through 37, begin a new paragraph and
+insert:
+"Sec. 15. "Mechanical integrity test" means a test performed on
+a well permitted by a UIC Class VI permit and required under
+federal regulations adopted by the department.".
+Page 8, delete lines 22 through 23, begin a new paragraph and
+insert:
+"(b) The term includes a political body, a corporate body, a
+tribe, a municipality, and a federal or state agency.".
+Page 9, delete lines 8 through 10, begin a new line block indented
+and insert:
+"(4) An individual authorized as a permitted signatory by
+another entity under federal regulations adopted by the
+department not included under subdivisions (1) through (3).".
+Page 11, delete lines 34 through 42.
+Page 12, delete line 1.
+Page 12, line 2, delete "(d)" and insert "(c)".
+EH 1368—LS 6866/DI 150
+
+49
+Page 12, line 9, reset in roman "(d)".
+Page 12, line 9, delete "(e)".
+Page 12, line 16, delete "(f)" and insert "(e)".
+Page 12, line 24, after "a" insert "UIC Class VI".
+Page 12, delete lines 26 through 42, begin a new paragraph and
+insert:
+"(b) The department has the authority to adopt regulations
+consistent with:
+(1) 40 CFR 1422;
+(2) 40 CFR 1425; and
+(3) any other federal regulation necessary;
+to obtain primacy on behalf of the state of Indiana.".
+Page 13, delete lines 1 through 3.
+Page 17, line 9, delete "name, address, telephone number, electronic
+mail" and insert ":".
+Page 17, line 10, delete "address, and".
+Page 17, line 10, strike "signature of the applicant.", begin a new
+line double block indented and insert:
+"(A) name;
+(B) address;
+(C) telephone number;
+(D) electronic mail address;
+(E) ownership status;
+(F) status as a:
+(i) federal;
+(ii) state;
+(iii) private;
+(iv) public; or
+(v) other;
+entity; and
+(G) signature of the applicant.".
+Page 17, delete lines 35 through 36, begin a new line block indented
+and insert:
+"(9) A map showing the injection well for which a permit is
+sought and the applicable areas of review consistent with
+federal regulations. The map must show any known or
+suspected faults. Within the area of review, the map must
+show the number, name, and location of the following:
+(A) Injection wells.
+(B) Producing wells.
+(C) Abandoned wells.
+(D) Plugged wells or dry holes.
+EH 1368—LS 6866/DI 150
+
+50
+(E) Deep stratigraphic boreholes.
+(F) State or United States Environmental Protection
+Agency approved subsurface cleanup sites.
+(G) Surface bodies of water.
+(H) Springs.
+(I) Surface and subsurface mines.
+(J) Quarries.
+(K) Water wells.
+(L) Other pertinent surface features, including structures
+intended for:
+(i) human occupancy;
+(ii) state, tribal, and territory boundaries; and
+(iii) roads.
+Only information of public record is required to be included
+in this map.".
+Page 22, delete lines 39 through 42, begin a new paragraph and
+insert:
+"(c) Within seven (7) days after receiving the completed
+application, the department shall prepare and provide to the
+applicant a project decision schedule that specifies target dates by
+which the department intends to:
+(1) prepare a draft permit;
+(2) give public notice;
+(3) complete the public comment period, including any public
+hearing; and
+(4) issue a final permit.".
+Page 24, delete lines 6 through 35, begin a new paragraph and
+insert:
+"(l) The department shall provide public notice of the public
+comment period and public hearing as required by federal
+regulations and rules adopted by the department. The department
+may recuperate expenses for notice from the storage operator.".
+Page 26, delete lines 1 through 15, begin a new paragraph and
+insert:
+"SECTION 55. IC 14-39-2-5.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 5.7. (a) Except as provided in
+subsection (b), the department shall identify and protect all
+underground sources of drinking water and all aquifers and parts
+of aquifers that are underground sources of drinking water.
+(b) If:
+(1) the department;
+EH 1368—LS 6866/DI 150
+
+51
+(2) the United States Environmental Protection Agency; or
+(3) both the department and United States Environmental
+Protection Agency;
+determine there is an applicable aquifer exemption or an expansion
+to the areal extent of an existing Class II enhanced oil recovery or
+enhanced gas recovery aquifer exemption for the exclusive purpose
+of Class VI injection for geologic sequestration, then the
+department does not have to carry out the duty described in
+subsection (a).
+(c) Except for an approved aquifer exemption expansion that
+meets criteria established by the department, a new aquifer
+exemption may not be issued for Class VI injection wells. This
+subsection includes if an aquifer has not been identified by the
+department as an underground source of drinking water.".
+Page 33, between lines 36 and 37, begin a new paragraph and insert:
+"(d) A storage operator shall meet injection well operating
+requirements established by the department.".
+Page 33, delete lines 37 through 42, begin a new paragraph and
+insert:
+"SECTION 63. IC 14-39-2-12.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 12.2. (a) A UIC Class VI
+permit may be modified at the request of an interested person in
+writing or upon the directive of the department. The request must
+contain each fact or reason supporting the request and any other
+criteria established by the department.".
+Page 34, line 10, after "Agency" delete "." and insert "and meet the
+requirements of federal regulations adopted by the department.".
+Page 35, delete line 6 and insert "following factors:
+(1) Increase in reservoir pressure within the injection zone.
+(2) Increase in carbon dioxide injection rates.
+(3) Decrease in reservoir production rates.
+(4) Distance between the injection zone and underground
+sources of drinking water.
+(5) Suitability of the Class II area of review delineation.
+(6) Quality of abandoned well plugs within the area of review.
+(7) The owner's or operator's plan for recovery of carbon
+dioxide at the cessation of injection.
+(8) The source and properties of injected carbon dioxide.
+(9) Any additional site-specific factors as determined by the
+department.".
+Page 36, between lines 1 and 2, begin a new paragraph and insert:
+EH 1368—LS 6866/DI 150
+
+52
+"(f) The department shall incorporate into a UIC Class VI
+permit conditions established by the department either expressly
+or by reference.".
+Page 39, between lines 28 and 29, begin a new paragraph and insert:
+"(q) A storage operator shall comply with any other
+post-injection site care and site closure requirements established
+by the department.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1368 as introduced.)
+SOLIDAY
+Committee Vote: yeas 10, nays 2.
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Utilities, to which was
+referred House Bill No. 1368, has had the same under consideration
+and begs leave to report the same back to the Senate with the
+recommendation that said bill be AMENDED as follows:
+Page 2, between lines 25 and 26, begin a new paragraph and insert:
+"SECTION 3. IC 14-8-2-14.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 14.5. "Area of review", for
+purposes of IC 14-39, has the meaning set forth in
+IC 14-39-0.6-3.5.".
+Page 3, between lines 22 and 23, begin a new paragraph and insert:
+"SECTION 14. IC 14-8-2-58.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 58.5. "Corrective action", for
+purposes of IC 14-39, has the meaning set forth in
+IC 14-39-0.6-12.5.".
+Page 3, between lines 26 and 27, begin a new paragraph and insert:
+"SECTION 15. IC 14-8-2-131.9 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 131.9. "Injection zone", for
+purposes of IC 14-39, has the meaning set forth in
+IC 14-39-0.6-13.5.".
+EH 1368—LS 6866/DI 150
+
+53
+Page 4, between lines 14 and 15, begin a new paragraph and insert:
+"SECTION 21. IC 14-8-2-209.9 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 209.9. "Post-injection site
+care", for purposes of IC 14-39, has the meaning set forth in
+IC 14-39-0.6-21.5.".
+Page 6, delete lines 28 through 29, begin a new paragraph and
+insert:
+"Sec. 3.5. "Area of review" has the meaning set forth in 40 CFR
+146.81.
+Sec. 4. "Carbon dioxide" means a fluid consisting of carbon
+dioxide molecules.".
+Page 7, delete lines 6 through 15, begin a new paragraph and insert:
+"Sec. 7. (a) "Carbon dioxide stream" means carbon dioxide
+that:
+(1) has been captured from an emission source; and
+(2) consists of:
+(A) incidental associated substances derived from the
+source materials and capture process; and
+(B) any substance added to the carbon dioxide stream to
+enable or improve the injection process.
+(b) The term does not include a carbon dioxide stream that is
+considered hazardous waste under 40 CFR 261.".
+Page 7, delete lines 35 through 42, begin a new paragraph and
+insert:
+"Sec. 11. (a) "Carbon sequestration project" refers to the long
+term geologic sequestration of a:
+(1) gaseous;
+(2) liquid; or
+(3) supercritical;
+carbon dioxide stream in a subsurface geologic formation that
+requires a UIC Class VI permit.
+(b) The term does not apply to carbon dioxide capture or
+transport.
+(c) The term does not include the following:
+(1) The subsurface three-dimensional extent of the carbon
+dioxide plume.
+(2) The subsurface three-dimensional associated area of
+elevated pressure.
+(3) The subsurface three-dimensional displaced fluids.
+(4) The surface area above the delineated region described in
+subdivisions (1) through (3).".
+EH 1368—LS 6866/DI 150
+
+54
+Page 8, delete lines 1 through 9, begin a new paragraph and insert:
+"Sec. 12. "Confining zone" means:
+(1) a geologic formation;
+(2) a group of geologic formations; or
+(3) part of a geologic formation;
+capable of limiting the movement of the carbon dioxide stream and
+all fluids above an injection zone.".
+Page 8, between lines 15 and 16, begin a new paragraph and insert:
+"Sec. 12.5. "Corrective action" means action:
+(1) taken by the owner or operator of a permitted Class VI
+carbon dioxide injection well; and
+(2) approved by the director;
+to ensure that a carbon dioxide injection well within the area of
+review does not serve as conduits for the movement of fluids into
+underground sources of drinking water.".
+Page 8, between lines 17 and 18, begin a new paragraph and insert:
+"Sec. 13.5. "Injection zone" means a geological:
+(1) formation;
+(2) group of formations; or
+(3) part of a formation;
+that is conducive to receiving carbon dioxide with a permitted
+carbon sequestration project.".
+Page 8, delete lines 20 through 22, begin a new paragraph and
+insert:
+"Sec. 15. "Mechanical integrity test" refers to a test performed
+on a well permitted by a UIC Class VI permit that meets the
+requirements established under 40 CFR 146.8.".
+Page 9, delete lines 5 through 10, begin a new paragraph and insert:
+"Sec. 19. "Person" means:
+(1) an individual;
+(2) a legal entity;
+(3) a government entity; or
+(4) an employee of a:
+(A) legal entity; or
+(B) government entity.
+Sec. 20. "Pore space" means a subsurface geological cavity or
+void that is of a sufficient areal extent, thickness, porosity, and
+permeability to receive and store carbon dioxide through a carbon
+sequestration project well.".
+Page 9, between lines 16 and 17, begin a new paragraph and insert:
+"Sec. 21.5. "Post-injection site care" refers to the requirements
+set forth in 40 CFR 146.93.".
+EH 1368—LS 6866/DI 150
+
+55
+Page 9, delete lines 19 through 37, begin a new paragraph and
+insert:
+"Sec. 23. "Reservoir" means a subsurface geological:
+(1) sedimentary stratum;
+(2) formation;
+(3) saline aquifer;
+(4) cavity; or
+(5) void;
+that is naturally or artificially created for the use of, or is capable
+of being made suitable for, injecting and storing carbon dioxide.
+Sec. 24. (a) "Responsible officer" means a person who has the
+authority to legally obligate an entity to comply with federal law.
+(b) The term includes the following:
+(1) An authorized officer of a corporation.
+(2) A manager of a limited liability company, or if the limited
+liability company is managed by another company, an
+authorized officer of the managing company.
+(3) A partner in a general, limited, or limited liability
+partnership or, if the partner is an entity, an authorized
+officer of the general, limited, or limited liability partnership.
+(4) An individual authorized as a permitted signatory by
+another entity under federal regulations adopted by the
+department not included under subdivisions (1) through (3).".
+Page 9, delete line 42, begin new paragraph and insert:
+"Sec. 26. "Storage operator" means:
+(1) a person;
+(2) a trust;
+(3) a corporation; or
+(4) another entity;
+that owns or operates a carbon sequestration project.".
+Page 10, delete lines 1 through 5.
+Page 10, delete lines 31 through 38, begin a new paragraph and
+insert:
+"Sec. 30. (a) "UIC Class VI permit" means a permit issued
+under the federal Safe Drinking Water Act's Underground
+Injection Control program that allows:
+(1) a person;
+(2) a trust;
+(3) a corporation; or
+(4) another entity;
+to construct or operate a carbon dioxide injection well.
+(b) The term does not include a:
+EH 1368—LS 6866/DI 150
+
+56
+(1) draft permit;
+(2) proposed permit; or
+(3) permit that is not subject to final agency action.
+(c) The term does not authorize the transportation of carbon
+dioxide.".
+Page 12, between lines 1 and 2, begin a new paragraph and insert:
+"SECTION 42. IC 14-39-1-3.5, AS AMENDED BY P.L.53-2023,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 3.5. (a) This chapter authorizes the
+establishment of a carbon sequestration pilot project:
+(1) that will:
+(A) capture carbon dioxide at the proposed ammonia plant to
+be located at 444 West Sandford Avenue, West Terre Haute,
+Indiana;
+(B) construct, operate, or use not more than two (2) carbon
+dioxide pipelines;
+(C) maintain operations only in Vigo and Vermillion counties;
+and
+(D) inject the carbon dioxide underground through one (1) or
+more injection wells pursuant to a Class VI well permit issued
+by the United States Environmental Protection Agency; and
+(2) that will employ the underground storage of carbon dioxide as
+an alternative to releasing the carbon dioxide into the air.
+(b) The director shall designate the operator of the carbon
+sequestration pilot project according to the characteristics of the pilot
+project set forth in subsection (a) not more than thirty (30) days after
+the Class VI well permit referred to in subsection (a)(1)(D) is issued by
+the United States Environmental Protection Agency.
+(c) The injection well issued a Class VI well permit by the
+United States Environmental Protection Agency is not
+experimental.
+(c) (d) This section expires July 1, 2028, if the operator of the
+carbon sequestration pilot project designated under subsection (b)
+according to the characteristics set forth in subsection (a) is not issued
+a Class VI permit by the United States Environmental Protection
+Agency under 40 CFR 146 subpart H by July 1, 2028.".
+Page 12, delete lines 12 through 42, begin a new paragraph and
+insert:
+"SECTION 44. IC 14-39-2-1, AS ADDED BY P.L.163-2022,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 1. (a) This chapter applies to primacy
+granted by the United States Environmental Protection Agency to
+EH 1368—LS 6866/DI 150
+
+57
+the department over Class VI wells.
+(b) This chapter and 312 IAC 30 govern carbon sequestration
+in the state and establish the criteria and standards necessary for
+the department to receive primacy from the United States
+Environmental Protection Agency for the UIC program for Class
+VI wells under the Safe Drinking Water Act.
+(a) (c) Except as otherwise provided in this chapter, this chapter:
+(1) does not apply to extractable mineral resources;
+(b) (2) Except as otherwise provided in this chapter, this chapter
+does not preclude the exercise of rights provided by IC 14-37-9;
+and
+(c) (3) Except as otherwise provided in this chapter, this chapter
+applies to the underground storage of carbon dioxide.
+(d) The rights and requirements of this chapter:
+(1) are subordinate to the rights pertaining to oil, gas, and coal oil
+and gas resources; and
+(2) may not adversely affect oil, gas, and coal oil and gas
+resources, except as is strictly necessary to construct and maintain
+a carbon sequestration project that will provide for the permanent
+storage of carbon dioxide.
+(e) The department shall issue any additional rules or
+requirements essential to ensure the injection and storage of
+carbon dioxide stream in subsurface geologic formations does not
+endanger underground sources of drinking water.
+(f) The department may enter into a memorandum of agreement
+to implement this article.
+SECTION 45. IC 14-39-2-1.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 1.5. (a) Carbon sequestration
+projects are authorized in Indiana for the purposes of:
+(1) injecting carbon dioxide into the pore space of an
+underground storage facility through at least one (1) carbon
+dioxide injection well pursuant to a UIC Class VI permit; and
+(2) employing the underground storage of carbon dioxide.
+(b) The department has the authority to adopt regulations
+consistent with:
+(1) 40 CFR 141 through 146;
+(2) the federal Safe Drinking Water Act (42 U.S.C.
+300h(b)(1)); and
+(3) any other federal regulation necessary;
+to obtain primacy on behalf of the state of Indiana.
+(c) A person may not operate a carbon sequestration project in
+EH 1368—LS 6866/DI 150
+
+58
+Indiana without a valid permit issued by the department.
+(d) A permit for a carbon sequestration project may be
+transferred or assigned from one storage operator to another
+storage operator.
+(e) All injection activities, including construction of an injection
+well, are prohibited unless the owner or operator is authorized by
+permit.
+(f) A person operating a carbon sequestration project in Indiana
+shall comply with the federal Safe Drinking Water Act (42 U.S.C.
+300h(b)(1)) to prevent underground injection which endangers
+drinking water sources.
+(g) The department may, at a reasonable time, enter property
+on which a carbon dioxide injection well or monitoring well for the
+storage facility is located to inspect and maintain the well or
+storage facility. Except in the event of an emergency, the
+department shall provide advance notice to the owner of the
+surface property of the date the department intends to enter the
+property. The notice required by this subsection must be provided
+at least five (5) business days before the department intends to
+enter the property. The notice must be delivered by:
+(1) United States mail;
+(2) private courier;
+(3) personal delivery; or
+(4) any other manner agreed to in writing between the
+department and the owner of the surface property.".
+Page 13, delete lines 1 through 17.
+Page 16, line 42, delete "compete" and insert "complete".
+Page 17, line 12, after "The" delete ":" and insert "applicant's:".
+Page 17, line 24, delete "and".
+Page 17, delete line 25, begin a new line double block indented and
+insert:
+"(G) signature; and
+(H) signed copy of the certification described in 40 CFR
+144.32(d).".
+Page 18, delete lines 40 through 42, begin a new line block indented
+and insert:
+"(13) Maps and stratigraphic cross sections indicating:
+(A) the general vertical and lateral limits of all:
+(i) underground sources of drinking water; and
+(ii) water wells and springs within the area of review;".
+Page 19, delete line 1.
+Page 19, line 2, delete "(C)" and insert "(B)".
+EH 1368—LS 6866/DI 150
+
+59
+Page 19, line 5, delete "(D)" and insert "(C)".
+Page 19, line 16, after "used" insert ",".
+Page 20, between lines 17 and 18, begin a new paragraph and insert:
+"(f) The department shall adopt rules that mirror applicable
+federal regulations to implement this section.".
+Page 21, between lines 25 and 26, begin a new paragraph and insert:
+"(d) The department shall adopt rules that mirror applicable
+federal regulations to implement this section.".
+Page 22, delete lines 34 through 42, begin a new paragraph and
+insert:
+"(d) Following public notice under this section, the department
+shall provide all information provided in the application to the
+department of environmental management and the United States
+Environmental Protection Agency. The department of
+environmental management must concur or dissent in writing
+regarding the waiver. The department shall request feedback and
+a concurrence on the application from the United States
+Environmental Protection Agency.
+(e) To make a decision whether to concur or dissent, the
+department of environmental management may do the following:
+(1) Request that additional information be provided to
+support a decision.
+(2) Require that public notice of new information be initiated.
+(f) The department may not approve a waiver without a written
+concurrence from the:
+(1) department of environmental management; and
+(2) United States Environmental Protection Agency.".
+Page 23, delete lines 1 through 4.
+Page 23, after line 42, begin a new paragraph and insert:
+"(d) The department may not deny an application without a
+public comment period and hearing.
+(e) The department shall adopt rules that mirror applicable
+federal regulations to implement this section.".
+Page 25, delete lines 20 through 22, begin a new line block indented
+and insert:
+"(4) The name, address, and telephone number of a person at
+the department that an interested person may contact to
+obtain information, including copies of the draft permit, fact
+sheet, and the application.".
+Page 25, line 42, after "decision" insert "as to".
+Page 26, delete lines 2 through 6, begin a new paragraph and insert:
+"(o) The department shall hold a public hearing whenever there
+EH 1368—LS 6866/DI 150
+
+60
+is a significant degree of public interest in a draft permit. The
+department may hold a public hearing at the discretion of the
+department if the public hearing would clarify at least one (1) issue
+involved in the permit decision.".
+Page 26, line 13, delete "being".
+Page 26, delete lines 17 through 38, begin a new paragraph and
+insert:
+"(q) The department shall adopt rules that mirror applicable
+federal regulations to implement this section.
+SECTION 55. IC 14-39-2-5.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 5.7. (a) The department shall
+identify and protect all underground sources of drinking water and
+all aquifers and parts of aquifers that are underground sources of
+drinking water.
+(b) If the United States Environmental Protection Agency
+determines there is an applicable aquifer exemption or an
+expansion to the areal extent of an existing Class II enhanced oil
+recovery or enhanced gas recovery aquifer exemption for the
+exclusive purpose of Class VI injection for geologic sequestration,
+then the department shall assist the United States Environmental
+Protection Agency in regulating the aquifer exemption.
+(c) The department may not issue an aquifer exemption.
+(d) Other than aquifer exemption expansions approved by the
+United States Environmental Protection Agency that meet the
+criteria set forth in 40 CFR 144.7, the department may not issue a
+new aquifer exemption for a Class VI injection well. This
+subsection applies regardless of whether an aquifer has been
+identified by the department as an underground source of drinking
+water.
+(e) The department shall comply with 40 CFR 144.7 regarding
+aquifer exemptions.".
+Page 27, line 30, strike "ninety (90)" and insert "one hundred
+eighty (180)".
+Page 28, delete lines 32 through 35, begin a new line block indented
+and insert:
+"(10) That the proposed storage reservoir will remain solid
+and the substances making up the storage reservoir will not
+mix or interact with the stored carbon dioxide.
+(11) That the storage facility will neither endanger human
+health nor endanger the environment.".
+Page 29, delete lines 34 through 35, begin a new line block indented
+EH 1368—LS 6866/DI 150
+
+61
+and insert:
+"(24) That the proposed carbon sequestration project contains
+the minimum requirements for an effective program to
+prevent the underground injection of carbon from
+endangering drinking water sources as prescribed by the
+federal Safe Drinking Water Act (42 U.S.C. 300h(b)(1)).
+(25) Any other information the department determines should
+be reviewed.".
+Page 34, between lines 19 and 20, begin a new paragraph and insert:
+"(e) The department shall adopt rules that mirror applicable
+federal regulations to implement this section.".
+Page 34, delete lines 31 through 42, begin a new paragraph and
+insert:
+"SECTION 64. IC 14-39-2-12.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 12.3. (a) The department shall
+submit a memorandum of agreement that includes all of the
+information required under 40 CFR 145.25 to the Regional
+Administrator for the United States Environmental Protection
+Agency.
+(b)The department shall prepare quarterly and annual reports
+as described in 40 CFR 144.8.
+(c) The reports shall be submitted to the Regional Administrator
+for the United States Environmental Protection Agency and meet
+the requirements of federal regulations adopted by the department.
+(d) Quarterly reports are due:
+(1) May 31;
+(2) August 31;
+(3) November 30; and
+(4) February 28;
+following the quarter.
+(e) Annual reports are due not more than sixty (60) days after
+the end of the calendar year.
+(f) A storage operator shall submit the reports required under
+40 CFR 146.91 to the department within the time frames described
+in 40 CFR 146.91.".
+Page 35, delete lines 1 through 3.
+Page 35, delete lines 23 through 42, begin a new paragraph and
+insert:
+"SECTION 67. IC 14-39-2-12.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 12.6. (a) A storage operator
+EH 1368—LS 6866/DI 150
+
+62
+that is injecting carbon dioxide for the primary purpose of long
+term storage into an oil and gas reservoir must apply for and
+obtain a Class VI geologic sequestration permit when there is an
+increased risk to underground sources of drinking water compared
+to Class II operations.
+(b) In determining if there is an increased risk to underground
+sources of drinking water, a storage operator must consider the
+following factors:
+(1) Increase in reservoir pressure within the injection zone.
+(2) Increase in carbon dioxide injection rates.
+(3) Decrease in reservoir production rates.
+(4) Distance between the injection zone and underground
+sources of drinking water.
+(5) Suitability of the Class II area of review delineation.
+(6) Quality of abandoned well plugs within the area of review.
+(7) A storage operator's plan for recovery of carbon dioxide
+at the cessation of injection.
+(8) The source and properties of injected carbon dioxide.
+(9) Any additional site specific factors as determined by the
+department.".
+Page 36, delete lines 1 through 3.
+Page 36, delete lines 23 through 42, begin a new paragraph and
+insert:
+"SECTION 69. IC 14-39-2-12.8 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 12.8. (a) Compliance with a
+UIC Class VI permit during the term of the UIC Class VI permit
+constitutes compliance, for purposes of enforcement.
+(b) The department may:
+(1) modify;
+(2) revoke;
+(3) reissue; or
+(4) terminate;
+a UIC Class VI permit during its term for a violation of 40 CFR
+144.39 or 40 CFR 144.40.
+(c) A UIC Class VI permit holder may not transfer a permit to
+another person except after notice to the department. The
+department may require:
+(1) modification; or
+(2) revocation and reissuance;
+of a UIC Class VI permit to change the name of the permittee and
+incorporate other requirements required by this chapter or federal
+EH 1368—LS 6866/DI 150
+
+63
+law.
+(d) The issuance of a UIC Class VI permit does not convey any
+property rights of any sort, or any exclusive privilege.
+(e) The issuance of a UIC Class VI permit does not authorize
+any injury to persons or property or invasion of other private
+rights, or any infringement of state or local law or regulations.
+(f) The term of a UIC Class VI permit is during the operating
+life of the storage facility and the post-injection site care period.
+(g) The department shall incorporate into a UIC Class VI
+permit conditions established by the department either expressly
+or by reference.
+(h) The person issued a UIC Class VI permit by the department
+shall comply with federal regulations adopted by the department.
+The department may modify, revoke, reissue, or terminate a
+person's UIC Class VI permit that violates this article or federal
+regulations adopted by the department.
+(i) The department shall adopt rules that mirror applicable
+federal regulations to implement this section.".
+Page 37, delete line 1.
+Page 39, delete lines 14 through 30, begin a new paragraph and
+insert:
+"(i) Following the cessation of injection, the storage operator
+shall continue to conduct monitoring as specified in the department
+approved post-injection site care and site closure plan for at least
+fifty (50) years, unless an alternative time frame is approved by the
+department as described in subsection (j).
+(j) If a storage operator can demonstrate to the satisfaction of
+the department that the carbon sequestration project no longer
+endangers underground sources of drinking water before the
+minimum of fifty (50) years required under subsection (i) has
+elapsed, the department may approve an alternative time frame for
+the post-injection site care and site closure plan to reduce the
+frequency of monitoring or to authorize site closure before the end
+of the period, when there is substantial evidence that the carbon
+sequestration project no longer poses a risk of endangering
+underground sources of drinking water. An alternative time frame
+approved by the department must meet the requirements
+established in 40 CFR 146.93. The monitoring must continue until
+the:
+(1) carbon sequestration project no longer endangers
+underground sources of drinking water; and
+(2) department approves a demonstration submitted by the
+EH 1368—LS 6866/DI 150
+
+64
+owner and operator of the carbon dioxide injection well in the
+manner prescribed by 40 CFR 146.93.".
+Page 40, delete lines 32 through 42, begin a new paragraph and
+insert:
+"SECTION 71. IC 14-39-2-14.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 14.5. (a) The following
+activities are prohibited:
+(1) Injection without a UIC Class VI permit.
+(2) Movement of fluid into underground sources of drinking
+water.
+(3) Experimental Class VI wells for carbon sequestration.
+(4) Any action that endangers underground sources of
+drinking water.
+(5) Any additional activity prohibited under:
+(A) the federal Safe Drinking Water Act (42 U.S.C. 300f et
+seq.); or
+(B) 40 CFR 142, 40 CFR 144, 40 CFR 146, and 40 CFR
+148.
+(b) Other violations of this article include the following:
+(1) Making clerical errors or mistakes in reporting
+requirements.
+(2) Failure to meet basic operation and facility management
+requirements.
+(3) Failure to meet maintenance requirements that may cause
+damage to property.
+(4) Creating harmful environmental conditions or hazardous
+conditions.
+(5) Taking an action that likely results in environmental
+damage.
+(6) Taking an action that could result in harm to persons or
+death.".
+Page 41, delete lines 1 through 6.
+Page 42, line 2, delete "intentional" and insert "intentionally".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1368 as printed January 20, 2026.)
+KOCH, Chairperson
+Committee Vote: Yeas 5, Nays 3.
+EH 1368—LS 6866/DI 150

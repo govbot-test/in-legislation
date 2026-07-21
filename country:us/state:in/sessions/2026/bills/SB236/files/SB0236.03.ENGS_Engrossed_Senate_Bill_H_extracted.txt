@@ -1,0 +1,1712 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed Senate Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+*SB0236.2*
+Reprinted
+January 27, 2026
+SENATE BILL No. 236
+_____
+DIGEST OF SB 236 (Updated January 26, 2026 4:40 pm - DI 107)
+Citations Affected: IC 16-18; IC 16-34; IC 34-6; IC 34-7; IC 34-13;
+IC 34-30; IC 35-46.
+Synopsis: Abortion inducing drugs and abortion reports. Modifies the
+definitions of "abortion" and "abortion inducing drug". Amends the
+information required to be reported to the Indiana department of health
+(state department) concerning an abortion complication. Requires the
+state department to send each abortion complication report to the office
+of the inspector general. Provides that a person who manufactures,
+distributes, mails, transports, delivers, prescribes, or provides an
+abortion inducing drug is jointly and severally liable for: (1) the
+wrongful death of an unborn child or pregnant woman from the use of
+an abortion inducing drug; and (2) personal injury of an unborn child
+or pregnant woman from the use of the abortion inducing drug. Allows
+the mother or father of an unborn child to bring a wrongful death action
+for the wrongful death of the unborn child from the use of abortion
+inducing drugs. Provides affirmative defenses. Allows for qui tam
+actions against certain persons. Adds an exception for the prohibition
+on abortion inducing drugs.
+Effective: July 1, 2026.
+Johnson T, Brown L, Doriot, Donato,
+Maxwell, Buchanan, Raatz, Young M,
+Tomes, Rogers, Gaskill, Alexander,
+Holdman, Byrne
+January 8, 2026, read first time and referred to Committee on Judiciary.
+January 22, 2026, amended, reported favorably — Do Pass.
+January 26, 2026, read second time, amended, ordered engrossed.
+SB 236—LS 7104/DI 107
+
+Reprinted
+January 27, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 236
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-1, AS AMENDED BY P.L.136-2013,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. "Abortion" means the termination of human
+4 pregnancy with an intention other than to produce a live birth or to
+5 remove a dead fetus. The term includes abortions by surgical
+6 procedures and by abortion inducing drugs. act of using or
+7 prescribing an instrument, a drug, a medicine, or any other
+8 substance, device, or means with the intent to cause the death of an
+9 unborn child of a woman. The term does not include birth control
+10 devices or contraceptives. An act is not an abortion if the act is
+11 done with the intent to:
+12 (1) save the life or preserve the health of an unborn child;
+13 (2) remove a dead, unborn child whose death was caused by
+14 miscarriage or stillbirth; or
+15 (3) remove an ectopic pregnancy.
+SB 236—LS 7104/DI 107
+
+2
+1 SECTION 2. IC 16-18-2-1.6, AS ADDED BY P.L.136-2013,
+2 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1.6. "Abortion inducing drug" means a medicine,
+4 drug, or substance prescribed or dispensed with the intent of
+5 terminating a clinically diagnosable pregnancy with the knowledge that
+6 the termination will, with reasonable likelihood, cause the death of the
+7 fetus. The term includes the off-label use of a drug known to have
+8 abortion inducing properties if the drug is prescribed with the intent of
+9 causing an abortion. a drug, a medicine, or any other substance,
+10 including a regimen of two (2) or more drugs, medicines, or
+11 substances, prescribed, dispensed, or administered with the intent
+12 of terminating a clinically diagnosable pregnancy of a woman and
+13 with knowledge that the termination will, with reasonable
+14 likelihood, cause the death of the woman's unborn child. The term
+15 includes off label use of drugs, medicines, or other substances
+16 known to have abortion inducing properties that are prescribed,
+17 dispensed, or administered with the intent of causing an abortion,
+18 including:
+19 (1) the mifepristone (Mifeprex) regimen;
+20 (2) misoprostol (Cytotec); and
+21 (3) methotrexate.
+22 The term does not include a drug, medicine, or other substance
+23 that may be known to cause an abortion but is prescribed,
+24 dispensed, or administered for other medical reasons.
+25 SECTION 3. IC 16-18-2-167, AS AMENDED BY P.L.117-2015,
+26 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2026]: Sec. 167. (a) "Health facility":
+28 (1) except for purposes of IC 16-28-15, means a building, a
+29 structure, an institution, or other place for the reception,
+30 accommodation, board, care, or treatment extending beyond a
+31 continuous twenty-four (24) hour period in a week of more than
+32 four (4) individuals who need or desire such services because of
+33 physical or mental illness, infirmity, or impairment; and
+34 (2) for purposes of IC 16-28-15, has the meaning set forth in
+35 IC 16-28-15-3; and
+36 (3) for purposes of IC 16-34-7, has the meaning set forth in
+37 IC 16-34-7-3(3).
+38 (b) The term does not include the premises used for the reception,
+39 accommodation, board, care, or treatment in a household or family, for
+40 compensation, of a person related by blood to the head of the
+41 household or family (or to the spouse of the head of the household or
+42 family) within the degree of consanguinity of first cousins.
+SB 236—LS 7104/DI 107
+
+3
+1 (c) The term does not include any of the following:
+2 (1) Hotels, motels, or mobile homes when used as such.
+3 (2) Hospitals or mental hospitals, except for that part of a hospital
+4 that provides long term care services and functions as a health
+5 facility, in which case that part of the hospital is licensed under
+6 IC 16-21-2, but in all other respects is subject to IC 16-28.
+7 (3) Hospices that furnish inpatient care and are licensed under
+8 IC 16-25-3.
+9 (4) Institutions operated by the federal government.
+10 (5) Foster family homes or day care centers.
+11 (6) Schools for individuals who are deaf or blind.
+12 (7) Day schools for individuals with an intellectual disability.
+13 (8) Day care centers.
+14 (9) Children's homes and child placement agencies.
+15 (10) Offices of practitioners of the healing arts.
+16 (11) Any institution in which health care services and private duty
+17 nursing services are provided that is listed and certified by the
+18 Commission for Accreditation of Christian Science Nursing
+19 Organizations/Facilities, Inc.
+20 (12) Industrial clinics providing only emergency medical services
+21 or first aid for employees.
+22 (13) A residential facility (as defined in IC 12-7-2-165).
+23 (14) Maternity homes.
+24 (15) Offices of Christian Science practitioners.
+25 SECTION 4. IC 16-18-2-282, AS AMENDED BY P.L.93-2022,
+26 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2026]: Sec. 282. (a) "Physician", except as provided in
+28 subsections (b), (c), and (e), means a licensed physician (as defined in
+29 section 202 of this chapter).
+30 (b) "Physician", for purposes of IC 16-41-12, has the meaning set
+31 forth in IC 16-41-12-7.
+32 (c) "Physician", for purposes of IC 16-37-1-3.1 and IC 16-37-3-5,
+33 means an individual who:
+34 (1) was the physician last in attendance (as defined in section
+35 282.2 of this chapter); or
+36 (2) is licensed under IC 25-22.5.
+37 (d) "Physician", for purposes of IC 16-48-1, is subject to
+38 IC 16-48-1-2.
+39 (e) "Physician", for purposes of IC 16-34-6, has the meaning set
+40 forth in IC 16-34-6-3.
+41 (f) "Physician", for purposes of IC 16-34-7, has the meaning set
+42 forth in IC 16-34-7-3(4).
+SB 236—LS 7104/DI 107
+
+4
+1 SECTION 5. IC 16-34-1-4, AS AMENDED BY P.L.218-2021,
+2 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 4. No:
+4 (1) physician;
+5 (2) nurse;
+6 (3) physician assistant;
+7 (4) pharmacist;
+8 (5) employee or member of the staff of a hospital or other facility
+9 in which an abortion may be performed; or
+10 (6) mental health provider;
+11 shall be required to perform an abortion, to prescribe, administer, or
+12 dispense an abortion inducing drug in violation of IC 16-34-7, to
+13 provide advice or counsel to a pregnant woman concerning medical
+14 procedures resulting in, or intended to result in, an abortion, to assist
+15 or participate in medical procedures resulting in, or intended to result
+16 in an abortion, or to handle or dispose of aborted remains, if that
+17 individual objects to such procedures on ethical, moral, or religious
+18 grounds.
+19 SECTION 6. IC 16-34-2-1, AS AMENDED BY THE TECHNICAL
+20 CORRECTIONS BILL OF THE 2026 GENERAL ASSEMBLY, IS
+21 AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2026]:
+22 Sec. 1. (a) Abortion shall in all instances be a criminal act, except when
+23 performed under the following circumstances:
+24 (1) Except as prohibited in IC 16-34-4, before the earlier of
+25 viability of the fetus or twenty (20) weeks of postfertilization age
+26 of the fetus, if:
+27 (A) for reasons based upon the professional, medical judgment
+28 of the pregnant woman's physician, if either:
+29 (i) the abortion is necessary when reasonable medical
+30 judgment dictates that performing the abortion is necessary
+31 to prevent any serious health risk to the pregnant woman or
+32 to save the pregnant woman's life; or
+33 (ii) the fetus is diagnosed with a lethal fetal anomaly;
+34 (B) the abortion is performed by the physician in a hospital
+35 licensed under IC 16-21 or an ambulatory outpatient surgical
+36 center (as defined in IC 16-18-2-14) that has a majority
+37 ownership by a hospital licensed under IC 16-21;
+38 (C) the woman submitting to the abortion has filed her consent
+39 with her physician. However, if in the judgment of the
+40 physician the abortion is necessary to preserve the life of the
+41 woman, her consent is not required;
+42 (D) the woman submitting to the abortion has filed with her
+SB 236—LS 7104/DI 107
+
+5
+1 physician the written consent of her parent or legal guardian
+2 if required under section 4 of this chapter; and
+3 (E) before the abortion, the attending physician shall certify in
+4 writing to the hospital or ambulatory outpatient surgical center
+5 in which the abortion is to be performed, that:
+6 (i) in the attending physician's reasonable medical judgment,
+7 performing the abortion is necessary to prevent any serious
+8 health risk to the pregnant woman or to save the pregnant
+9 woman's life; or
+10 (ii) the fetus has been diagnosed with a lethal fetal anomaly.
+11 All facts and reasons supporting the certification shall be set
+12 forth by the physician in writing and attached to the certificate.
+13 However, under this article, an abortion inducing drug may not be
+14 dispensed, prescribed, administered, or otherwise given to a
+15 pregnant woman after eight (8) weeks of postfertilization age
+16 unless the abortion inducing drug is being administered as
+17 part of an abortion authorized under this article or for the
+18 removal of a dead fetus due to miscarriage. A physician must
+19 dispense the abortion inducing drug in person and have the
+20 pregnant woman consume the drug in the presence of the
+21 physician. A physician shall examine a pregnant woman in person
+22 before prescribing or dispensing an abortion inducing drug. The
+23 physician shall provide the pregnant woman with a copy of the
+24 manufacturer's instruction sheets and require that the pregnant
+25 woman sign the manufacturer's patient agreement form. A
+26 physician shall also provide, orally and in writing, along with
+27 other discharge information, the following statement: "Some
+28 evidence suggests that the effects of Mifepristone may be
+29 avoided, ceased, or reversed if the second pill, Misoprostol, has
+30 not been taken. Immediately contact the following for more
+31 information at (insert applicable abortion inducing drug reversal
+32 Internet web site website and corresponding hotline number).".
+33 The physician shall retain a copy of the signed patient agreement
+34 form, and the signed physician's agreement form required by the
+35 manufacturer, in the patient's file. As used in this subdivision, "in
+36 person" does not include the use of telehealth or telemedicine
+37 services.
+38 (2) Except as prohibited by IC 16-34-4, during the first ten (10)
+39 weeks of postfertilization age of the fetus, if:
+40 (A) the pregnancy is a result of rape or incest;
+41 (B) all the circumstances and provisions required for legal
+42 abortion set forth in subdivision (1)(C) through (1)(D) are
+SB 236—LS 7104/DI 107
+
+6
+1 present and adhered to;
+2 (C) the abortion is performed in a hospital licensed under
+3 IC 16-21 or ambulatory outpatient surgical center (as defined
+4 in IC 16-18-2-14) that has a majority ownership by a hospital
+5 licensed under IC 16-21; and
+6 (D) before the abortion, the attending physician shall certify in
+7 writing to the ambulatory outpatient surgical center or hospital
+8 in which the abortion is to be performed, after proper
+9 examination, the abortion is being performed at the woman's
+10 request because the pregnancy is the result of rape or incest.
+11 All facts and reasons supporting the certification shall be set
+12 forth by the physician in writing and attached to the certificate.
+13 (3) Except as provided in subsection (b) or as prohibited by
+14 IC 16-34-4, at the earlier of viability of the fetus or twenty (20)
+15 weeks of postfertilization age and any time after, for reasons
+16 based upon the professional, medical judgment of the pregnant
+17 woman's physician if:
+18 (A) based on reasonable medical judgment, performing the
+19 abortion is necessary to prevent any serious health risk to the
+20 pregnant woman or to save the pregnant woman's life;
+21 (B) all the circumstances and provisions required for legal
+22 abortion set forth in subdivision (1)(C) through (1)(D) are
+23 present and adhered to;
+24 (C) the abortion is performed in a hospital licensed under
+25 IC 16-21;
+26 (D) the abortion is performed in compliance with section 3 of
+27 this chapter; and
+28 (E) before the abortion, the attending physician shall certify in
+29 writing to the hospital in which the abortion is to be
+30 performed, that in the attending physician's reasonable medical
+31 judgment, performing the abortion is necessary to prevent any
+32 serious health risk to the pregnant woman or to save the
+33 pregnant woman's life. All facts and reasons supporting the
+34 certification shall be set forth by the physician in writing and
+35 attached to the certificate.
+36 (b) A person may not knowingly or intentionally perform a partial
+37 birth abortion unless a physician reasonably believes that:
+38 (1) performing the partial birth abortion is necessary to save the
+39 mother's life; and
+40 (2) no other medical procedure is sufficient to save the mother's
+41 life.
+42 (c) A person may not knowingly or intentionally perform a
+SB 236—LS 7104/DI 107
+
+7
+1 dismemberment abortion unless reasonable medical judgment dictates
+2 that performing the dismemberment abortion is necessary:
+3 (1) to prevent any serious health risk to the mother; or
+4 (2) to save the mother's life.
+5 (d) Telehealth and telemedicine may not be used to provide any
+6 abortion, including the writing or filling of a prescription for any
+7 purpose that is intended to result in an abortion.
+8 SECTION 7. IC 16-34-2-1.5, AS AMENDED BY THE
+9 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+10 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]: Sec. 1.5. (a) The state department shall develop an
+12 informed consent brochure and post the informed consent brochure on
+13 the state department's Internet web site. website.
+14 (b) The state department shall develop an informed consent
+15 brochure that includes the following:
+16 (1) Objective scientific information concerning the probable
+17 anatomical and physiological characteristics of a fetus every two
+18 (2) weeks of gestational age, including the following:
+19 (A) Realistic pictures in color for each age of the fetus,
+20 including the dimensions of the fetus.
+21 (B) Whether there is any possibility of the fetus surviving
+22 outside the womb.
+23 (2) Objective scientific information concerning the medical risks
+24 associated with each abortion procedure, or the use of an abortion
+25 inducing drug, including the following:
+26 (A) The risks of infection and hemorrhaging.
+27 (B) The potential danger:
+28 (i) to a subsequent pregnancy; or
+29 (ii) of infertility.
+30 (3) Information concerning the medical risks associated with
+31 carrying the child to term.
+32 (4) Information that medical assistance benefits may be available
+33 for prenatal care, childbirth, and neonatal care.
+34 (5) Information that the biological father is liable for assistance in
+35 support of the child, regardless of whether the biological father
+36 has offered to pay for an abortion.
+37 (6) Information regarding telephone 211 dialing code services for
+38 accessing human services as described in IC 12-13-16, and the
+39 types of services that are available through this service.
+40 (7) Information concerning Indiana's safe haven law under
+41 IC 31-34-2.5-1.
+42 (8) Information that, under certain conditions, a pregnant woman
+SB 236—LS 7104/DI 107
+
+8
+1 may relinquish a child who is, or who appears to be, not more
+2 than thirty (30) days of age:
+3 (A) to an emergency medical services provider (as defined in
+4 IC 16-41-10-1); or
+5 (B) in a newborn safety device described in IC 31-34-2.5-1.
+6 (c) In the development of the informed consent brochure described
+7 in this section, the state department shall use information and pictures
+8 that are available at no cost or nominal cost to the state department.
+9 (d) The informed consent brochure must include the requirements
+10 specified in this chapter.
+11 SECTION 8. IC 16-34-2-4.5, AS AMENDED BY P.L.179-2022(ss),
+12 SECTION 25, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 4.5. (a) A physician may not perform an abortion
+14 including an abortion using an abortion inducing drug, unless the
+15 physician:
+16 (1) has admitting privileges in writing at a hospital located in the
+17 county where abortions are provided or in a contiguous county; or
+18 (2) has entered into a written agreement with a physician who has
+19 written admitting privileges at a hospital in the county or
+20 contiguous county concerning the management of possible
+21 complications of the services provided.
+22 A written agreement described in subdivision (2) must be renewed
+23 annually.
+24 (b) A physician who performs an abortion including an abortion
+25 using an abortion inducing drug, shall notify the patient of the location
+26 of the hospital at which the physician or a physician with whom the
+27 physician has entered into an agreement under subsection (a)(2) has
+28 admitting privileges and where the patient may receive follow-up care
+29 by the physician if complications arise.
+30 (c) A hospital or ambulatory outpatient surgical center in which
+31 abortions are performed shall:
+32 (1) keep at the hospital or ambulatory outpatient surgical center
+33 a copy of the admitting privileges of a physician described in
+34 subsection (a)(1) and (a)(2) who is performing abortions at the
+35 hospital or ambulatory outpatient surgical center; and
+36 (2) submit a copy of the admitting privileges described in
+37 subdivision (1) to the state department. The state department shall
+38 verify the validity of the admitting privileges document. The state
+39 department shall remove any identifying information from the
+40 admitting privileges document before releasing the document
+41 under IC 5-14-3.
+42 (d) The state department shall annually submit a copy of the
+SB 236—LS 7104/DI 107
+
+9
+1 admitting privileges described in subsection (a)(1) and a copy of the
+2 written agreement described in subsection (a)(2) to:
+3 (1) each hospital located in the county in which the hospital
+4 granting the admitting privileges described in subsection (a) is
+5 located; and
+6 (2) each hospital located in a county that is contiguous to the
+7 county described in subdivision (1);
+8 where abortions are performed.
+9 (e) The state department shall confirm to a member of the public,
+10 upon request, that the admitting privileges required to be submitted
+11 under this section for a hospital or ambulatory outpatient surgical
+12 center have been received by the state department.
+13 (f) Notwithstanding IC 5-14-3-6 and IC 5-14-3-6.5, this section only
+14 allows for the redaction of information that is described in subsection
+15 (c). This section does not allow the state department to limit the
+16 disclosure of information in other public documents.
+17 SECTION 9. IC 16-34-2-4.7, AS AMENDED BY THE
+18 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+19 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 4.7. (a) As used in this section, "abortion
+21 complication" means only the following physical or psychological
+22 conditions arising from the induction or performance of an abortion:
+23 (1) Uterine perforation.
+24 (2) Cervical laceration.
+25 (3) Infection.
+26 (4) Vaginal bleeding that qualifies as a Grade 2 or higher adverse
+27 event according to the Common Terminology Criteria for Adverse
+28 Events (CTCAE).
+29 (5) Pulmonary embolism.
+30 (6) Deep vein thrombosis.
+31 (7) Failure to terminate the pregnancy.
+32 (8) Incomplete abortion (retained tissue).
+33 (9) Pelvic inflammatory disease.
+34 (10) Missed ectopic pregnancy.
+35 (11) Cardiac arrest.
+36 (12) Respiratory arrest.
+37 (13) Renal failure.
+38 (14) Shock.
+39 (15) Amniotic fluid embolism.
+40 (16) Coma.
+41 (17) Placenta previa in subsequent pregnancies.
+42 (18) Pre-term delivery in subsequent pregnancies.
+SB 236—LS 7104/DI 107
+
+10
+1 (19) Free fluid in the abdomen.
+2 (20) Hemolytic reaction due to the administration of
+3 ABO-incompatible blood or blood products.
+4 (21) Hypoglycemia occurring while the patient is being treated at
+5 the hospital or ambulatory outpatient surgical center.
+6 (22) Allergic reaction to anesthesia. or abortion inducing drugs.
+7 (23) Psychological complications, including depression, suicidal
+8 ideation, anxiety, and sleeping disorders.
+9 (24) Death.
+10 (25) Any other adverse event as defined by criteria provided in
+11 the Food and Drug Administration Safety Information and
+12 Adverse Event Reporting Program.
+13 (b) The following persons shall report to the state department each
+14 case in which the person treated a patient suffering from an abortion
+15 complication:
+16 (1) A physician licensed under IC 25-22.5.
+17 (2) A hospital licensed under IC 16-21.
+18 (3) Beginning September 1, 2022, an ambulatory outpatient
+19 surgical center licensed under IC 16-21-2.
+20 (c) The state department shall develop a process for the submission
+21 of a report under this section.
+22 (d) A report under this section shall be submitted to the state
+23 department in the manner prescribed by the state department.
+24 (e) The report under this section must include the following
+25 information concerning the abortion complication:
+26 (1) The date the patient presented for treatment for the abortion
+27 complication.
+28 (2) The age of the patient.
+29 (3) The race of the patient.
+30 (4) The county and state of the patient's residence.
+31 (5) The type of abortion obtained by the patient.
+32 (6) The date of abortion obtained by the patient.
+33 (7) The name of the:
+34 (A) hospital; or
+35 (B) ambulatory outpatient surgical center;
+36 where the patient obtained the abortion.
+37 (8) Whether the abortion was performed or occurred in
+38 Indiana or outside Indiana.
+39 (8) (9) Whether the patient obtained abortion medication via mail
+40 order or Internet web site, website, and if so, information
+41 identifying the source of the medication.
+42 (9) (10) Whether the complication was previously managed by the
+SB 236—LS 7104/DI 107
+
+11
+1 abortion provider or the abortion provider's required back-up
+2 physician.
+3 (10) (11) The name of the medications taken by the patient as part
+4 of the pharmaceutical abortion regimen, if any.
+5 (11) (12) A list of each diagnosed complication.
+6 (12) (13) A list of each treated complication, with a description of
+7 the treatment provided.
+8 (13) (14) Whether the patient's visit to treat the complications was
+9 the original visit or a follow-up visit.
+10 (14) (15) The date of each follow-up visit, if any.
+11 (15) (16) A list of each complication diagnosed at a follow-up
+12 visit, if any.
+13 (16) (17) A list of each complication treated at a follow-up visit,
+14 if any.
+15 (18) The location, including the facility name and city or town,
+16 where the patient presented for treatment of the abortion
+17 complication.
+18 (19) The full name of the health care provider who provided
+19 treatment for the abortion complication.
+20 (f) The state department shall send each report received under
+21 this section to the office of the inspector general.
+22 (f) (g) On a quarterly basis, the state department shall compile a
+23 public report summarizing the information collected under this section.
+24 The report must include statistics for the previous calendar quarter,
+25 with updated information for the most recent calendar quarter.
+26 (g) (h) The state department shall summarize the aggregate data
+27 from the data submitted under this section and submit the data, on or
+28 before June 30 of each year, to the United States Centers for Disease
+29 Control and Prevention for its inclusion in the annual Vital Statistics
+30 Report.
+31 (h) (i) The state department shall ensure that no identifying
+32 information of a pregnant woman is included in the report described in
+33 subsection (f). (g).
+34 (i) (j) This subsection applies after August 31, 2020. Each failure to
+35 report an abortion complication as required under this section is a Class
+36 B misdemeanor.
+37 (j) (k) The state department shall adopt rules under IC 4-22-2 to
+38 implement this section.
+39 SECTION 10. IC 16-34-3-2, AS AMENDED BY P.L.179-2022(ss),
+40 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2026]: Sec. 2. (a) A pregnant woman who has an abortion
+42 under this article has the right to have the hospital or ambulatory
+SB 236—LS 7104/DI 107
+
+12
+1 outpatient surgical center dispose of the aborted fetus by interment in
+2 compliance with IC 23-14-54, or cremation through a licensee (as
+3 defined in IC 25-15-2-19) and in compliance with IC 23-14-31. The
+4 pregnant woman who selects to have the hospital or ambulatory
+5 outpatient surgical center dispose of the aborted fetus has the right to
+6 ask which method will be used by the hospital or ambulatory outpatient
+7 surgical center.
+8 (b) After receiving the notification and information required by
+9 IC 16-34-2-1.1(a)(2)(H) and IC 16-34-2-1.1(a)(2)(I), and
+10 IC 16-34-2-1.1(a)(2)(J), the pregnant woman shall inform the hospital
+11 or ambulatory outpatient surgical center:
+12 (1) in writing; and
+13 (2) on a form prescribed by the state department;
+14 of the pregnant woman's decision for final disposition of the aborted
+15 fetus by cremation or interment, and, in an abortion induced by an
+16 abortion inducing drug, whether the pregnant woman will return the
+17 aborted fetus to the hospital or ambulatory outpatient surgical center
+18 for disposition by interment in compliance with IC 23-14-54, or
+19 cremation through a licensee (as defined in IC 25-15-2-19) and in
+20 compliance with IC 23-14-31.
+21 (c) If the pregnant woman is a minor, the hospital or ambulatory
+22 outpatient surgical center shall obtain parental consent in the
+23 disposition of the aborted fetus unless the minor has received a waiver
+24 of parental consent under IC 16-34-2-4.
+25 (d) The hospital or ambulatory outpatient surgical center shall
+26 document the pregnant woman's decision concerning disposition of the
+27 aborted fetus in the pregnant woman's medical record.
+28 (e) In the case of an abortion induced by an abortion inducing drug,
+29 the pregnant woman may return the aborted fetus to the hospital or
+30 ambulatory outpatient surgical center for disposition by interment in
+31 compliance with IC 23-14-54, or cremation through a licensee (as
+32 defined in IC 25-15-2-19) and in compliance with IC 23-14-31.
+33 SECTION 11. IC 16-34-3-4, AS AMENDED BY P.L.179-2022(ss),
+34 SECTION 31, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 4. (a) A hospital or ambulatory outpatient surgical
+36 center having possession of an aborted fetus shall provide for the final
+37 disposition of the aborted fetus. The burial transit permit requirements
+38 of IC 16-37-3 apply to the final disposition of an aborted fetus, which
+39 must be interred or cremated. However:
+40 (1) a person is not required to designate a name for the aborted
+41 fetus on the burial transit permit and the space for a name may
+42 remain blank; and
+SB 236—LS 7104/DI 107
+
+13
+1 (2) any information submitted under this section that may be used
+2 to identify the pregnant woman is confidential and must be
+3 redacted from any public records maintained under IC 16-37-3.
+4 Aborted fetuses may be cremated by simultaneous cremation.
+5 (b) If the hospital or ambulatory outpatient surgical center conducts
+6 the cremation of aborted fetal remains on site, the hospital or
+7 ambulatory outpatient surgical center must comply with all state laws
+8 concerning the cremation of human remains as prescribed in
+9 IC 23-14-31. The hospital or ambulatory outpatient surgical center
+10 must make the onsite cremation equipment available to the state
+11 department for inspection at the time the hospital or ambulatory
+12 outpatient surgical center is inspected. When the hospital or
+13 ambulatory outpatient surgical center contracts with a licensed funeral
+14 home for the disposal of the aborted fetal remains, the contract must be
+15 made available for review by the state department at the time the
+16 hospital or ambulatory outpatient surgical center is inspected.
+17 (c) Except in extraordinary circumstances where the required
+18 information is unavailable or unknown, a burial transit permit issued
+19 under IC 16-37-3 that includes multiple fetal remains must be
+20 accompanied by a log prescribed by the state department containing the
+21 following information about each fetus included under the burial transit
+22 permit:
+23 (1) The date of the abortion.
+24 (2) Whether the abortion was surgical or induced by an abortion
+25 inducing drug.
+26 (3) (2) The name of the funeral director licensee who will be
+27 retrieving the aborted fetus.
+28 (4) In the case of an abortion induced by an abortion inducing
+29 drug:
+30 (A) whether the pregnant woman will cremate or inter the
+31 fetus, or will return the fetus to the hospital or ambulatory
+32 outpatient surgical center for disposition; and
+33 (B) if the pregnant woman returns the fetus to the hospital or
+34 ambulatory outpatient surgical center, whether the returned
+35 fetus is included in the burial transit permit.
+36 The hospital or ambulatory outpatient surgical center must keep a copy
+37 of the burial transit permit and accompanying log in a permanent file.
+38 (d) Each time the fetal remains are transported from one entity to
+39 another for disposition, the entity receiving the fetal remains must
+40 confirm that the number of fetal remains matches the information
+41 contained in the burial transit permit and accompanying log. After final
+42 disposition, a copy of the log will be sent back to the hospital or
+SB 236—LS 7104/DI 107
+
+14
+1 ambulatory outpatient surgical center. The final log will be attached to
+2 the original log described in subsection (c) and will be made available
+3 for review by the state department at the time of inspection.
+4 (e) A hospital or ambulatory outpatient surgical center is responsible
+5 for demonstrating to the state department that the hospital or
+6 ambulatory outpatient surgical center has complied with the protocol
+7 provided in this section.
+8 (f) A certificate of stillbirth is not required to be issued for an
+9 aborted fetus with a gestational age of less than twenty (20) weeks of
+10 age.
+11 (g) IC 23-14-31-26, IC 23-14-55-2, IC 25-15-9-18, and
+12 IC 29-2-19-17 concerning the authorization of disposition of human
+13 remains apply to this section.
+14 SECTION 12. IC 16-34-7 IS ADDED TO THE INDIANA CODE
+15 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]:
+17 Chapter 7. Abortion Inducing Drugs
+18 Sec. 1. (a) This chapter does not apply to and a civil action
+19 under this chapter may not be brought against:
+20 (1) a hospital or health facility licensed, owned, maintained,
+21 or operated by the state;
+22 (2) a physician or health care provider who is:
+23 (A) licensed by the state; and
+24 (B) located in Indiana;
+25 (3) an Internet service provider or an affiliate of subsidiary of
+26 an Internet service provider;
+27 (4) an Internet service engine;
+28 (5) a cloud service provider providing access or connection to
+29 or from:
+30 (A) a website;
+31 (B) other information or content on the Internet;
+32 (C) a facility, system, or network that is not under the
+33 provider's control, including:
+34 (i) transmission;
+35 (ii) downloading;
+36 (iii) intermediate storage; or
+37 (iv) access software.
+38 (b) This chapter does not apply to the transport of an abortion
+39 inducing drug from a person in another state in continuous transit
+40 through Indiana to a person in another state.
+41 Sec. 2. This chapter may not be construed to require the actual
+42 performance, inducement, or attempted performance of an
+SB 236—LS 7104/DI 107
+
+15
+1 abortion in order for a person to bring a civil action under this
+2 chapter.
+3 Sec. 3. The following definitions apply throughout this chapter:
+4 (1) "Delivery network company" has the meaning set forth in
+5 IC 8-2.1-17-5.3.
+6 (2) "DNC driver" has the meaning set forth in IC 8-2.1-17-5.7.
+7 (3) "Health facility" means a building, a structure, an
+8 institution, or other place for the reception, accommodation,
+9 board, care, or treatment extending beyond a continuous
+10 twenty-four (24) hour period in a week of more than four (4)
+11 individuals who need or desire such services because of
+12 physical or mental illness, infirmity, or impairment. The term
+13 does not include a hospital.
+14 (4) "Physician" means an individual licensed to practice
+15 medicine in Indiana, include a medical doctor and a doctor of
+16 osteopathic medicine.
+17 Sec. 4. (a) Except as provided by subsection (b), a person may
+18 not knowingly or intentionally:
+19 (1) manufacture, distribute, or possess an abortion inducing
+20 drug; or
+21 (2) mail, transport, deliver, prescribe, or provide an abortion
+22 inducing drug in any manner to or from any person or
+23 location in Indiana.
+24 (b) Subsection (a) does not prohibit:
+25 (1) speech or conduct protected by the First Amendment to
+26 the Constitution of the United States, as made applicable to
+27 the states through the United States Supreme Court's
+28 interpretation of the Fourteenth Amendment to the
+29 Constitution of the United States, or protected by Article 1,
+30 Section 9 of the Constitution of the State of Indiana;
+31 (2) conduct that a pregnant woman takes in the course of
+32 aborting or attempting to abort the woman's unborn child;
+33 (3) the manufacture, distribution, mailing, transport, delivery,
+34 prescribing, provision, or possession of an abortion inducing
+35 drug solely for purposes that do not include performing,
+36 inducing, attempting, assisting, or aiding or abetting an illegal
+37 abortion; or
+38 (4) conduct that a person takes under the direction of a
+39 federal agency, contractor, or employee to carry out a duty
+40 under federal law, if prohibiting that conduct would violate
+41 the doctrine of preemption or intergovernmental immunity.
+42 Sec. 5. (a) Notwithstanding any other law, the prohibitions in
+SB 236—LS 7104/DI 107
+
+16
+1 section 4 of this chapter may be enforced only through a wrongful
+2 death action brought under section 6 of this chapter or a qui tam
+3 action brought under section 9 of this chapter.
+4 (b) No other direct or indirect enforcement of section 4 of this
+5 chapter may be taken or threatened by:
+6 (1) the State of Indiana;
+7 (2) a political subdivision of the state;
+8 (3) a prosecuting attorney;
+9 (4) a county attorney;
+10 (5) any officer or employee of the state; or
+11 (6) any officer or employee of a political subdivision of the
+12 state;
+13 against any person, except through a wrongful death action
+14 brought under section 6 of this chapter or a qui tam action brought
+15 under section 9 of this chapter.
+16 (c) This section does not preclude or limit the enforcement of
+17 any other law or regulation against conduct that is independently
+18 prohibited by the other law or regulation and that would remain
+19 prohibited by the other law or regulation in the absence of section
+20 4 of this chapter.
+21 Sec. 6. (a) Notwithstanding any other law, and except as
+22 provided in subsections (b) and (f), a person who manufactures,
+23 distributes, mails, transports, delivers, prescribes, or provides an
+24 abortion inducing drug, or who aids or abets the manufacture,
+25 distribution, mailing, transportation, delivery, prescription, or
+26 provision of an abortion inducing drug, is strictly, absolutely, and
+27 jointly and severally liable for:
+28 (1) the wrongful death of an unborn child or pregnant woman
+29 from the use of the abortion inducing drug; and
+30 (2) personal injury of an unborn child or pregnant woman
+31 from the use of the abortion inducing drug.
+32 (b) A claimant may not bring an action under this section if the
+33 action is preempted by 47 U.S.C. 230(c).
+34 (c) A person who engages in conduct described by subsection (a)
+35 is liable for damages resulting from the death or personal injury
+36 sustained by an unborn child or pregnant woman if the person's
+37 conduct contributed in any way to the death or injury, regardless
+38 of whether the person's conduct was the actual or proximate cause
+39 of the death or injury.
+40 (d) Notwithstanding any other law, the mother or father of an
+41 unborn child may bring a civil action under this section for the
+42 wrongful death of the unborn child from the use of an abortion
+SB 236—LS 7104/DI 107
+
+17
+1 inducing drug, regardless of whether the other parent brings a civil
+2 action for the wrongful death. The biological father of an unborn
+3 child may bring the action regardless of whether the father was
+4 married to the unborn child's mother at the time of the unborn
+5 child's conception or death.
+6 (e) Notwithstanding any other law, a civil action may not be
+7 brought under this section:
+8 (1) against the woman who used or sought to obtain abortion
+9 inducing drugs to abort or attempt to abort her unborn child;
+10 (2) against a person that acted under the direction of a federal
+11 agency, contractor, or employee who is carrying out duties
+12 under federal law if the imposition of liability would violate
+13 the doctrine of preemption or intergovernmental immunity;
+14 (3) by any person who has committed a sex crime as defined
+15 in IC 35-42-4, or by another person who acts in concert or
+16 participation with such a person;
+17 (4) against a transportation network company or a driver for
+18 using a transportation network company's digital network to
+19 provide a digitally prearranged ride;
+20 (5) against a delivery network company or a DNC driver for
+21 using a delivery network company's digital network to
+22 provide a digitally prearranged delivery;
+23 (6) against a person described in section 1 of this chapter; or
+24 (7) against a common carrier that took every reasonable
+25 precaution to ensure that the common carrier would not
+26 manufacture, distribute, mail, transport, deliver, prescribe,
+27 provide, possess, or aid or abet the manufacture, distribution,
+28 mailing, transportation, delivery, prescription, provision, or
+29 possession of abortion inducing drugs for the purpose of
+30 performing, inducing, attempting, or assisting an illegal
+31 abortion, including by adopting a policy that the common
+32 carrier will not manufacture, distribute, mail, transport,
+33 deliver, prescribe, provide, possess, or aid or abet the
+34 manufacture, distribution, mailing, transportation, delivery,
+35 prescription, provision, or possession of abortion inducing
+36 drugs for this purpose.
+37 (f) Notwithstanding any other law, including Trial Rule 23 of the
+38 Indiana Rules of Trial Procedure, an action brought under this
+39 section may not be litigated on behalf of a claimant class or a
+40 defendant class, and a court may not certify a class in the action.
+41 Sec. 7. (a) It is an affirmative defense to an action brought under
+42 section 6 of this chapter that the defendant:
+SB 236—LS 7104/DI 107
+
+18
+1 (1) was unaware the defendant was engaged in the conduct
+2 described by section 6(a) of this chapter; and
+3 (2) took every reasonable precaution to ensure the defendant
+4 would not manufacture, distribute, mail, transport, deliver,
+5 prescribe, provide, or possess abortion inducing drugs.
+6 (b) A defendant has the burden of proving an affirmative
+7 defense under subsection (a) by a preponderance of the evidence.
+8 (c) Notwithstanding any other law, the following are not a
+9 defense to an action brought under section 6 of this chapter:
+10 (1) A defendant's ignorance or mistake of law, including a
+11 defendant's mistaken belief that the requirements or
+12 provisions of this chapter are unconstitutional or were
+13 unconstitutional.
+14 (2) A defendant's reliance on a court decision that has been
+15 vacated, reversed, or overruled on appeal or by a subsequent
+16 court, even if the court decision had not been vacated,
+17 reversed, or overruled when the cause of action accrued.
+18 (3) A defendant's reliance on a state or federal court decision
+19 that is not binding on the court in which the action has been
+20 brought.
+21 (4) A defendant's reliance on a federal statute, agency rule or
+22 action, or treaty that has been repealed, superseded, or
+23 declared invalid or unconstitutional, even if the federal
+24 statute, agency rule or action, or treaty had not been repealed,
+25 superseded, or declared invalid or unconstitutional when the
+26 cause of action accrued.
+27 (5) The laws of another state or jurisdiction, including an
+28 abortion shield law, unless the Constitution of the State of
+29 Indiana or federal law compels the court to enforce that law.
+30 (6) Nonmutual issue preclusion or nonmutual claim
+31 preclusion.
+32 (7) The consent of the claimant or the unborn child's mother
+33 to the abortion.
+34 (8) Contributory or comparative negligence.
+35 (9) Assumption of risk.
+36 (10) Lack of actual or proximate cause.
+37 (11) Sovereign immunity, governmental immunity, or official
+38 immunity, except that sovereign immunity, governmental
+39 immunity, or official immunity is not waived for:
+40 (A) a hospital owned and operated by the state that
+41 facilitates or makes available abortion inducing drugs
+42 solely for purposes that do not include performing,
+SB 236—LS 7104/DI 107
+
+19
+1 inducing, attempting, assisting, or aiding or abetting an
+2 illegal abortion; or
+3 (B) a political subdivision, including a hospital district, that
+4 facilitates or makes available abortion inducing drugs
+5 solely for purposes that do not include performing,
+6 inducing, attempting, assisting, or aiding or abetting an
+7 illegal abortion.
+8 (12) A claim that the enforcement of this chapter or the
+9 imposition of civil liability against the defendant will violate
+10 the constitutional or federally protected rights of third
+11 parties.
+12 Sec. 8. (a) Notwithstanding any other law, and except as
+13 provided in subsection (b), if a claimant who brings an action
+14 under section 6 of this chapter is unable to identify the specific
+15 manufacturer of the abortion inducing drug that caused the death
+16 or injury that is the basis for the action, the liability is apportioned
+17 among all manufacturers of abortion inducing drugs in proportion
+18 to each manufacturer's share of the national market for abortion
+19 inducing drugs at the time the death or injury occurred.
+20 (b) A manufacturer is not subject to liability under this section
+21 if it manufactures abortion inducing drugs solely for purposes that
+22 do not include performing, inducing, attempting, or assisting, or
+23 aiding or abetting an illegal abortion.
+24 Sec. 9. (a) A person, other than the state of Indiana, a political
+25 subdivision of the state, or an officer or employee of the state or a
+26 political subdivision of the state, has standing to bring and may
+27 bring a qui tam action against any person who:
+28 (1) violates section 4 of this chapter; or
+29 (2) intends to violate section 4 of this chapter.
+30 (b) An action brought under this section must be brought in the
+31 name of the qui tam relator, who is an assignee of the state's claim
+32 for relief. Notwithstanding any other law, the transfer of the state's
+33 claim to the qui tam relator is absolute, with the state retaining no
+34 interest in the subject matter of the claim.
+35 (c) A qui tam relator may not bring an action under this section
+36 if the action is preempted by 47 U.S.C. 230(c).
+37 (d) A qui tam action may not be brought under this section:
+38 (1) against a woman for using, obtaining, or seeking to obtain
+39 abortion inducing drugs to abort or attempt to abort her
+40 unborn child;
+41 (2) against a person acting under the direction of a federal
+42 agency, contractor, or employee who is carrying out a duty
+SB 236—LS 7104/DI 107
+
+20
+1 under federal law if the imposition of liability would violate
+2 the doctrine of preemption or intergovernmental immunity;
+3 (3) by any person who has committed a sex crime as defined
+4 in IC 35-42-4, or by another person who acts in concert or
+5 participation with such a person;
+6 (4) against a transportation network company or a driver for
+7 using a transportation network company's digital network to
+8 provide a digitally prearranged ride;
+9 (5) against a delivery network company or a DNC driver for
+10 using a delivery network company's digital network to
+11 provide a digitally prearranged delivery;
+12 (6) against a person described in section 1 of this chapter; or
+13 (7) against a common carrier that took reasonable
+14 precautions to ensure that the common carrier would not
+15 manufacture, distribute, mail, transport, deliver, prescribe,
+16 provide, possess, or aid or abet the manufacture, distribution,
+17 mailing, transportation, delivery, prescription, provision, or
+18 possession of abortion inducing drugs for the purpose of
+19 performing, inducing, attempting, or assisting an illegal
+20 abortion, including by adopting a policy that the common
+21 carrier will not manufacture, distribute, mail, transport,
+22 deliver, prescribe, provide, possess, or aid or abet the
+23 manufacture, distribution, mailing, transportation, delivery,
+24 prescription, provision, or possession of abortion inducing
+25 drugs for this purpose.
+26 (e) Notwithstanding any other law, including Trial Rule 23 of
+27 the Indiana Rules of Trial Procedure, an action brought under this
+28 section may not be litigated on behalf of a claimant class or a
+29 defendant class, and a court may not certify a class in the action.
+30 Sec. 10. (a) It is an affirmative defense to an action brought
+31 under section 9 of this chapter that the defendant:
+32 (1) was unaware the defendant was engaged in the conduct
+33 prohibited by section 4 of this chapter; and
+34 (2) took reasonable precautions to ensure the defendant would
+35 not violate section 4 of this chapter.
+36 (b) The defendant has the burden of proving an affirmative
+37 defense under this section by a preponderance of the evidence.
+38 (c) The following are not defenses to an action brought under
+39 section 9 of this chapter:
+40 (1) A defendant's ignorance or mistake of law, including a
+41 defendant's mistaken belief that the requirements or
+42 provisions of this chapter are unconstitutional or were
+SB 236—LS 7104/DI 107
+
+21
+1 unconstitutional.
+2 (2) A defendant's reliance on a court decision that has been
+3 vacated, reversed, or overruled on appeal or by a subsequent
+4 court, even if the court decision had not been vacated,
+5 reversed, or overruled when the cause of action accrued.
+6 (3) A defendant's reliance on a state or federal court decision
+7 that is not binding on the court in which the action has been
+8 brought.
+9 (4) A defendant's reliance on a federal agency rule or action
+10 that has been repealed, superseded, or declared invalid or
+11 unconstitutional, even if the federal agency rule or action had
+12 not been repealed, superseded, or declared invalid or
+13 unconstitutional when the cause of action accrued.
+14 (5) The laws of another state or jurisdiction, including an
+15 abortion shield law, unless the Constitution of the State of
+16 Indiana or federal law compels the court to enforce that law.
+17 (6) Nonmutual issue preclusion or nonmutual claim
+18 preclusion.
+19 (7) Sovereign immunity, governmental immunity, or official
+20 immunity, other than sovereign immunity, governmental
+21 immunity, or official immunity applicable to:
+22 (A) a hospital owned and operated by the state that
+23 facilitates or makes available abortion inducing drugs
+24 solely for purposes that do not include performing,
+25 inducing, attempting, assisting, or aiding or abetting an
+26 illegal abortion; or
+27 (B) a political subdivision, including a hospital district, that
+28 facilitates or makes available abortion inducing drugs
+29 solely for purposes that do not include performing,
+30 inducing, attempting, assisting, or aiding or abetting an
+31 illegal abortion.
+32 (8) A claim that the enforcement of this chapter or the
+33 imposition of civil liability against the defendant will violate
+34 the constitutional or federally protected rights of third
+35 parties.
+36 (9) Consent to the abortion by the claimant or the unborn
+37 child's mother.
+38 Sec. 11. (a) Notwithstanding any other law and except as
+39 provided in subsection (b), if a qui tam relator prevails in an action
+40 brought under section 9 of this chapter, the court shall award to
+41 the relator:
+42 (1) injunctive relief sufficient to prevent the defendant from
+SB 236—LS 7104/DI 107
+
+22
+1 violating section 4 of this chapter;
+2 (2) an amount of not less than one hundred thousand dollars
+3 ($100,000) for each violation of section 4 of this chapter; and
+4 (3) costs and reasonable attorney's fees.
+5 (b) A court may not award relief under subsection (a)(2) or
+6 (a)(3) in response to a violation of section 4 of this chapter if the
+7 defendant demonstrates that:
+8 (1) a court previously ordered the defendant to pay an amount
+9 under subsection (a)(2) in another action for that particular
+10 violation; and
+11 (2) the court order described by subdivision (1) has not been
+12 vacated, reversed, or overturned.
+13 (c) Notwithstanding any other law, a court may not award costs
+14 or attorney's fees to a defendant against whom an action is brought
+15 under section 6 or 9 of this chapter except:
+16 (1) in response to frivolous, malicious, or bad faith conduct;
+17 or
+18 (2) as required by federal law.
+19 Sec. 12. Notwithstanding any other law, a person may bring an
+20 action under section 6 or 9 of this chapter not later than twenty
+21 (20) years after the date on which the cause of action accrues.
+22 Sec. 13. (a) It is an affirmative defense to an action brought
+23 under section 6 or 9 of this chapter that:
+24 (1) the imposition of civil liability on the defendant will violate
+25 the defendant's rights under federal law, including the
+26 Constitution of the United States;
+27 (2) the defendant:
+28 (A) has standing to assert the rights of a third party under
+29 the tests for third party standing established by the United
+30 States Supreme Court; and
+31 (B) demonstrates that the imposition of civil liability on the
+32 defendant will violate the third party's rights under federal
+33 law, including the Constitution of the United States;
+34 (3) the imposition of civil liability on the defendant will violate
+35 the defendant's rights under the Constitution of the State of
+36 Indiana; or
+37 (4) the imposition of civil liability on the defendant will violate
+38 limits on extraterritorial jurisdiction imposed by the
+39 Constitution of the United States or the Constitution of the
+40 State of Indiana.
+41 (b) The defendant has the burden of proving an affirmative
+42 defense under subsection (a) by a preponderance of the evidence.
+SB 236—LS 7104/DI 107
+
+23
+1 (c) Notwithstanding any other law, this chapter does not impose
+2 liability for:
+3 (1) death or personal injury resulting from an abortion
+4 described in IC 16-34-2-1(a)(1), IC 16-34-2-1(a)(2), or
+5 IC 16-34-2-1(a)(3);
+6 (2) the manufacture, distribution, mailing, transportation,
+7 delivery, prescription, provision, or possession of an abortion
+8 inducing drug for the purpose of performing, inducing,
+9 attempting, or assisting, or aiding or abetting an abortion
+10 described in IC 16-34-2-1(a)(1), IC 16-34-2-1(a)(2), or
+11 IC 16-34-2-1(a)(3);
+12 (3) speech or conduct protected by the First Amendment to
+13 the Constitution of the United States, as made applicable to
+14 the states through the United States Supreme Court's
+15 interpretation of the Fourteenth Amendment to the
+16 Constitution of the United States, or protected by Article 1,
+17 Section 9 of the Constitution of the State of Indiana;
+18 (4) conduct that this state is prohibited from regulating under
+19 the Constitution of the State of Indiana or federal law,
+20 including the Constitution of the United States;
+21 (5) conduct taken by a pregnant woman in the course of
+22 aborting or seeking to abort her unborn child; or
+23 (6) conduct that a person engages in under the direction of a
+24 federal agency, contractor, or employee to carry out a duty
+25 under federal law, if a prohibition on that conduct would
+26 violate the doctrine of preemption or intergovernmental
+27 immunity.
+28 Sec. 14. Notwithstanding any other law, a waiver or purported
+29 waiver of the right to bring an action under section 6 or 9 of this
+30 chapter is void as against public policy and is not enforceable in
+31 any court.
+32 Sec. 15. (a) Notwithstanding any other law, the courts of the
+33 state have personal jurisdiction over a defendant sued under
+34 section 6 or 9 of this chapter to the maximum extent permitted by
+35 the Fourteenth Amendment to the Constitution of the United States
+36 and the defendant may be served outside Indiana.
+37 (b) Notwithstanding any other law, Indiana law applies to the
+38 use of an abortion inducing drug by a resident, regardless of where
+39 the use of the drug occurs, and to an action brought under section
+40 6 or 9 of this chapter, to the maximum extent permitted by the
+41 Constitution of the State of Indiana and federal law, including the
+42 Constitution of the United States.
+SB 236—LS 7104/DI 107
+
+24
+1 (c) Notwithstanding any other law, any contractual
+2 choice-of-law provision that requires or purports to require
+3 application of the laws of a different jurisdiction is void based on
+4 the state's public policy and is not enforceable in any court.
+5 (d) Notwithstanding any other law, IC 34-7-7 and IC 34-13-9 do
+6 not apply to an action brought under section 6 or 9 of this chapter.
+7 (e) Notwithstanding any other law, a court may not apply the
+8 law of another state or jurisdiction to an action brought under
+9 section 6 or 9 of this chapter unless the Constitution of the State of
+10 Indiana or federal law compels the court to apply that law.
+11 Sec. 16. (a) Notwithstanding any other law, the state, a political
+12 subdivision of the state, or an officer or employee of the state or a
+13 political subdivision of the state may not:
+14 (1) act in concert or participation with a claimant bringing an
+15 action under section 6 or 9 of this chapter;
+16 (2) establish or attempt to establish any type of agency or
+17 fiduciary relationship with a claimant bringing an action
+18 under section 6 or 9 of this chapter;
+19 (3) attempt to control or influence a person's decision to bring
+20 an action under section 6 or 9 of this chapter or that person's
+21 conduct of the litigation; or
+22 (4) intervene in an action brought under section 6 or 9 of this
+23 chapter
+24 (b) This section does not prohibit the state, a political
+25 subdivision of the state, or an officer or employee of the state or a
+26 political subdivision of the state from filing an amicus curiae brief
+27 in an action brought under section 6 or 9 of this chapter if the state,
+28 the political subdivision, the officer, or the employee does not act
+29 in concert or participation with the claimant who brings the action.
+30 Sec. 17. (a) Notwithstanding any other law, including the
+31 Indiana Rules of Trial Procedure, an action brought under section
+32 6 or 9 of this chapter may be brought in:
+33 (1) the county in which all or a substantial part of the events
+34 or omissions giving rise to the claim occurred;
+35 (2) the county of a defendant's residence at the time the cause
+36 of action accrued if a defendant is an individual;
+37 (3) the county of the principal office in the state of a defendant
+38 that is not an individual; or
+39 (4) the county of the claimant's residence if the claimant is an
+40 individual residing in Indiana.
+41 (b) If an action brought under section 6 or 9 of this chapter is
+42 brought in a venue described by subsection (a), the action may not
+SB 236—LS 7104/DI 107
+
+25
+1 be transferred to a different venue without the written consent of
+2 all parties.
+3 (c) Notwithstanding any other law, any contractual
+4 choice-of-forum provision that requires or purports to require an
+5 action brought under section 6 or 9 of this chapter to be litigated
+6 in a particular forum is void based on the state's public policy and
+7 is not enforceable in any court.
+8 Sec. 18. (a) The attorney general has parens patriae standing to
+9 bring an action under this section on behalf of unborn children of
+10 residents of Indiana.
+11 (b) Except as provided by subsection (c), the attorney general
+12 may bring an action for damages or injunctive relief on behalf of
+13 an unborn child of a resident of Indiana against any person who,
+14 with the intent of performing, inducing, attempting, assisting, or
+15 aiding or abetting an illegal abortion:
+16 (1) violates 18 U.S.C. 1461 through 18 U.S.C. 1462 by using
+17 the mails for the mailing, carriage in the mails, or delivery of:
+18 (A) any article or thing designed, adapted, or intended for
+19 producing abortion; or
+20 (B) any article, instrument, substance, drug, medicine, or
+21 thing which is advertised or described in a manner
+22 calculated to lead another to use or apply it for producing
+23 abortion;
+24 (2) violates 18 U.S.C. 1462 by:
+25 (A) using any express company or other common carrier
+26 or interactive computer service for carriage in interstate
+27 or foreign commerce of any drug, medicine, article, or
+28 thing designed, adapted, or intended for producing
+29 abortion; or
+30 (B) knowingly taking or receiving, from such express
+31 company or other common carrier or interactive computer
+32 service, any matter or thing described in subdivision (1); or
+33 (3) aids or abets the violations of 18 U.S.C. 1461 or 18 U.S.C.
+34 1462 described in subdivisions (1) and (2).
+35 (c) Notwithstanding any other law, an action under this section
+36 may not be brought:
+37 (1) against a woman for conduct taken in the course of
+38 aborting or seeking to abort her unborn child;
+39 (2) against a person that acted under the direction of a federal
+40 agency, contractor, or employee who is carrying out duties
+41 under federal law if the imposition of liability would violate
+42 the doctrine of preemption or intergovernmental immunity;
+SB 236—LS 7104/DI 107
+
+26
+1 (3) against a transportation network company or a driver for
+2 using a transportation network company's digital network to
+3 provide a digitally prearranged ride;
+4 (4) against a delivery network company or a DNC driver for
+5 using a delivery network company's digital network to
+6 provide a digitally prearranged delivery;
+7 (5) against a person described in section 1 of this chapter; or
+8 (6) against a common carrier that took every reasonable
+9 precaution to ensure that the common carrier would not
+10 manufacture, distribute, mail, transport, deliver, prescribe,
+11 provide, possess, or aid or abet the manufacture, distribution,
+12 mailing, transportation, delivery, prescription, provision, or
+13 possession of abortion inducing drugs for the purpose of
+14 performing, inducing, attempting, or assisting an illegal
+15 abortion, including by adopting a policy that the common
+16 carrier will not manufacture, distribute, mail, transport,
+17 deliver, prescribe, provide, possess, or aid or abet the
+18 manufacture, distribution, mailing, transportation, delivery,
+19 prescription, provision, or possession of abortion inducing
+20 drugs for this purpose.
+21 Sec. 19. (a) For purposes of this section, "clawback provision"
+22 refers to any law of another state or jurisdiction that authorizes the
+23 bringing of a civil action against a person for:
+24 (1) bringing or engaging in an action authorized by this
+25 chapter, including an action brought under section 6, 9, or 18
+26 of this chapter;
+27 (2) bringing or engaging in an action that alleges a violation
+28 of any federal or state abortion law;
+29 (3) attempting, intending, or threatening to bring or engage in
+30 an action described by subdivision (1) or (2); or
+31 (4) providing legal representation or any type of assistance to
+32 a person who brings or engages in an action described by
+33 subdivision (1) or (2).
+34 (b) Notwithstanding any other law and except as otherwise
+35 provided by federal law or the Constitution of the State of Indiana,
+36 Indiana law applies to:
+37 (1) conduct described by subsection (a);
+38 (2) an action brought against a person for engaging in conduct
+39 described by subsection (a);
+40 (3) an action brought under a clawback provision against a
+41 resident of Indiana; and
+42 (4) an action brought under subsection (f).
+SB 236—LS 7104/DI 107
+
+27
+1 (c) Notwithstanding any other law, in an action described by
+2 subsection (a)(1), the court shall, on request, issue a temporary,
+3 preliminary, or permanent injunction that restrains each
+4 defendant in the action, each person in privity with the defendant,
+5 and each person with whom the defendant is in active concert or
+6 participation from:
+7 (1) bringing an action under any clawback provision against
+8 a claimant or prosecutor, a person in privity with the claimant
+9 or prosecutor, or a person providing legal representation or
+10 any type of assistance to the claimant or prosecutor; and
+11 (2) continuing to litigate an action under any clawback
+12 provision that has been brought against a claimant or
+13 prosecutor, a person in privity with the claimant or
+14 prosecutor, or a person providing legal representation or any
+15 type of assistance to the claimant or prosecutor.
+16 (d) Notwithstanding any other law, the doctrines of res judicata
+17 and collateral estoppel preclude a defendant against whom a
+18 judgment is entered in an action described by subsection (a)(1) and
+19 each person in privity with the defendant from litigating or
+20 relitigating any claim or issue under any clawback provision
+21 against a claimant, prosecutor, or person in privity with the
+22 claimant or prosecutor that was raised or could have been raised
+23 as a claim, cross-claim, counterclaim, or affirmative defense under
+24 the Federal or Indiana Rules of Civil Procedure.
+25 (e) Notwithstanding any other law, a court of Indiana may not
+26 enforce an out-of-state judgment obtained in an action brought
+27 under a clawback provision unless federal law or the Constitution
+28 of the State of Indiana requires the court to enforce the judgment.
+29 (f) Notwithstanding any other law, if an action is brought or
+30 judgment is entered against a person under a clawback provision
+31 based wholly or partly on the person's decision to engage in
+32 conduct described by subsection (a), that person is entitled to
+33 injunctive relief and damages from any person who brought the
+34 action or obtained the judgment or who sought to enforce the
+35 judgment. Notwithstanding any other law, the relief described by
+36 this subsection must include:
+37 (1) compensatory damages, including money damages in an
+38 amount equal to the judgment damages and costs, expenses,
+39 and reasonable attorney's fees spent in defending the action;
+40 (2) costs, expenses, and reasonable attorney's fees incurred in
+41 bringing an action under this subsection;
+42 (3) additional amounts consisting of the greater of:
+SB 236—LS 7104/DI 107
+
+28
+1 (A) twice the sum of the damages, costs, expenses, and fees
+2 described by subdivisions (1) and (2); or
+3 (B) one hundred thousand dollars ($100,000); and
+4 (4) injunctive relief that restrains each person who brought
+5 the action under the clawback provision, each person in
+6 privity with the person, and each person acting in concert or
+7 participation with the person from:
+8 (A) bringing further actions under any clawback provision
+9 against the person against whom the action was brought,
+10 each person in privity with the person, or any person
+11 providing legal representation or any type of assistance to
+12 the person;
+13 (B) continuing to litigate any actions brought under a
+14 clawback provision against the persons described by clause
+15 (A); and
+16 (C) enforcing or attempting to enforce any judgment
+17 obtained in any actions brought under a clawback
+18 provision against the persons described by clause (A).
+19 (g) It is not a defense to an action brought under subsection (f)
+20 that:
+21 (1) the claimant failed to seek recovery under subsection (f) in
+22 an action brought against the claimant under a clawback
+23 provision; or
+24 (2) a court in a preceding action brought against the claimant
+25 declined to recognize or enforce subsection (f) or held any
+26 provision of that subsection invalid, unconstitutional, or
+27 preempted by federal law, notwithstanding the doctrines of
+28 issue or claim preclusion.
+29 (h) Notwithstanding any other law, IC 34-7-7 and IC 34-13-9 do
+30 not apply to an action brought under subsection (f).
+31 Sec. 20. (a) Notwithstanding any other law, a person, including
+32 an entity, attorney, or law firm, who seeks declaratory or
+33 injunctive relief to prevent the state, a political subdivision of the
+34 state, an officer, employee, or agent of the state or a political
+35 subdivision of the state, or any person from enforcing or bringing
+36 an action to enforce a law, including a statute, ordinance, rule, or
+37 regulation, that regulates or restricts abortion or that limits
+38 taxpayer funding for persons performing or promoting abortions
+39 in any state or federal court, or who represents a litigant seeking
+40 such relief in any state or federal court, is jointly and severally
+41 liable to pay the costs and reasonable attorney's fees of the
+42 prevailing party, including the costs and reasonable attorney's fees
+SB 236—LS 7104/DI 107
+
+29
+1 the prevailing party incurs in its efforts to recover costs and fees.
+2 (b) For purposes of this section, a party is considered a
+3 prevailing party if:
+4 (1) a state or federal court dismisses a claim or cause of action
+5 brought against the party by a litigant that seeks the
+6 declaratory or injunctive relief described by subsection (a),
+7 regardless of the reason for the dismissal;
+8 (2) a state or federal court enters judgment in the party's
+9 favor on that claim or cause of action; or
+10 (3) the litigant that seeks the declaratory or injunctive relief
+11 described by subsection (a) voluntarily dismisses or nonsuits
+12 its claims against the party under Rule 41 of the Federal Rules
+13 of Civil Procedure, or any other procedural rule.
+14 (c) A prevailing party may recover costs and reasonable
+15 attorney's fees under this section only to the extent that the costs
+16 and attorney's fees were incurred while defending claims or causes
+17 of action on which the party prevailed.
+18 (d) Regardless of whether a prevailing party sought to recover
+19 costs or attorney's fees in the underlying action, a prevailing party
+20 under this section may bring a civil action to recover costs and
+21 attorney's fees against a person, including an entity, attorney, or
+22 law firm, who sought declaratory or injunctive relief described by
+23 subsection (a) not later than three (3) years after the date on which,
+24 as applicable:
+25 (1) the dismissal or judgment described by subsection (b)
+26 becomes final on the conclusion of appellate review; or
+27 (2) the time for seeking appellate review expires.
+28 (e) It is not a defense to a civil action brought under subsection
+29 (d) that:
+30 (1) a prevailing party under this section failed to seek
+31 recovery of costs or attorney's fees in the underlying action;
+32 (2) the court in the underlying action declined to recognize or
+33 enforce this section; or
+34 (3) the court in the underlying action held that any provisions
+35 of this section are invalid, unconstitutional, or preempted by
+36 federal law, notwithstanding the doctrine of issue or claim
+37 preclusion.
+38 (f) Notwithstanding any other law, a civil action brought under
+39 subsection (d) may be brought in:
+40 (1) the county in which all or a substantial part of the events
+41 or omissions giving rise to the claim occurred;
+42 (2) the county of residence of a defendant at the time the cause
+SB 236—LS 7104/DI 107
+
+30
+1 of action accrued, if the defendant is an individual;
+2 (3) the county of the principal office in the state of a defendant
+3 that is not an individual; or
+4 (4) the county of residence of the claimant, if the claimant is
+5 an individual residing in Indiana.
+6 (g) If a civil action is brought under subsection (d) in a venue
+7 described by subsection (f), the action may not be transferred to a
+8 different venue without the written consent of all parties.
+9 (h) Notwithstanding any other law, any contractual
+10 choice-of-forum provision that purports to require a civil action
+11 under subsection (d) be litigated in another forum is void based on
+12 the state's public policy and is not enforceable in any state or
+13 federal court.
+14 (i) Notwithstanding any other law, IC 34-7-7 and IC 34-13-9 do
+15 not apply to an action brought under subsection (d).
+16 (j) A court may not award attorney's fees or costs under this
+17 section if the award would violate:
+18 (1) the Constitution of the State of Indiana;
+19 (2) the Constitution of the United States; or
+20 (3) federal law.
+21 Sec. 21. (a) Notwithstanding any other law, the state has
+22 sovereign immunity, a political subdivision of the state has
+23 governmental immunity, and an officer or employee of the state or
+24 a political subdivision of the state has official immunity (as well as
+25 sovereign or governmental immunity, as appropriate) in an action,
+26 claim, counterclaim, or any other type of legal or equitable action
+27 that:
+28 (1) challenges the validity of any provision or application of
+29 this chapter, on constitutional grounds or otherwise; or
+30 (2) seeks to prevent or enjoin the state, a political subdivision
+31 of the state, or an officer, employee, or agent of the state or a
+32 political subdivision of the state from:
+33 (A) enforcing any provision or application of this chapter;
+34 or
+35 (B) filing, hearing, adjudicating, or docketing an action
+36 brought under section 6, 9, 18, or 20 of this chapter.
+37 (b) Notwithstanding any other law, the immunities described in
+38 or conferred by this section apply in court, and in every type of
+39 adjudicative proceeding.
+40 (c) Notwithstanding any other law, a provision of Indiana law
+41 may not be construed to waive or abrogate an immunity conferred
+42 by this section unless it expressly waives or abrogates immunity
+SB 236—LS 7104/DI 107
+
+31
+1 with specific reference to this section.
+2 (d) Notwithstanding any other law, an attorney representing the
+3 state, a political subdivision of the state, or an officer or employee
+4 of the state or a political subdivision of the state may not waive an
+5 immunity conferred by this section or take an action that would
+6 result in a waiver of that immunity. A purported waiver or action
+7 described by this subsection is considered void and an ultra vires
+8 act.
+9 Sec. 22. Notwithstanding any other law, including IC 34-14-1, a
+10 court of the state does not have jurisdiction to consider and may
+11 not award relief under any action, claim, or counterclaim that:
+12 (1) seeks declaratory or injunctive relief, or any type of writ,
+13 including a writ of prohibition, that would pronounce any
+14 provision or application of this article invalid or
+15 unconstitutional; or
+16 (2) would restrain the state, a political subdivision of the state,
+17 an officer, employee, or agent of the state or a political
+18 subdivision of the state, or any person from:
+19 (A) enforcing any provision or application of this article;
+20 or
+21 (B) filing, hearing, adjudicating, or docketing an action
+22 brought under section 6, 9, 18, or 20 of this chapter.
+23 Sec. 23. This chapter may not be construed to prevent a litigant
+24 from asserting the invalidity or unconstitutionality of a provision
+25 or application of this chapter as a defense to an action, claim, or
+26 counterclaim brought against the litigant.
+27 SECTION 13. IC 34-6-2.1-84, AS AMENDED BY P.L.186-2025,
+28 SECTION 274, IS AMENDED TO READ AS FOLLOWS
+29 [EFFECTIVE JULY 1, 2026]: Sec. 84. (a) "Health care services":
+30 (1) except as provided in subdivision (2), for purposes of
+31 IC 34-30-13, has the meaning set forth in IC 27-13-1-18(a); and
+32 (2) for purposes of IC 34-30-13-1.2, means only noninvasive
+33 examinations, treatments, and procedures and the following
+34 invasive procedures:
+35 (A) Routine dental services.
+36 (B) Injections.
+37 (C) Suturing of minor lacerations.
+38 (D) Incisions of boils or superficial abscesses.
+39 The term does not include performance of an abortion, including
+40 abortion by surgical means, by use of an abortion inducing drug
+41 in violation of IC 16-34-7, or by prescribing a controlled
+42 substance or scheduled drug under IC 35-48.
+SB 236—LS 7104/DI 107
+
+32
+1 (b) "Health care services", for purposes of IC 34-30-13.5, means:
+2 (1) any services provided by an individual licensed under:
+3 (A) IC 25-2.5;
+4 (B) IC 25-10;
+5 (C) IC 25-13;
+6 (D) IC 25-14;
+7 (E) IC 25-19;
+8 (F) IC 25-22.5;
+9 (G) IC 25-23;
+10 (H) IC 25-23.5;
+11 (I) IC 25-23.6;
+12 (J) IC 25-24;
+13 (K) IC 25-26;
+14 (L) IC 25-27;
+15 (M) IC 25-27.5;
+16 (N) IC 25-29;
+17 (O) IC 25-33;
+18 (P) IC 25-34.5; or
+19 (Q) IC 25-35.6;
+20 (2) services provided as the result of hospitalization, to an
+21 individual admitted to a health facility licensed under IC 16-28,
+22 or to a person residing in a housing with services establishment
+23 (as defined by IC 12-10-15-3);
+24 (3) services incidental to the furnishing of services described in
+25 subdivisions subdivision (1) or (2);
+26 (4) any services by individuals:
+27 (A) licensed as paramedics;
+28 (B) certified as advanced emergency medical technicians; or
+29 (C) certified as emergency medical technicians under
+30 IC 16-31;
+31 (5) any services provided by individuals certified as emergency
+32 medical responders under IC 16-31;
+33 (6) any services provided by certified health care professionals
+34 who are registered with the Indiana department of health and the
+35 certified health care professions commission, including:
+36 (A) certified nurse aides certified under IC 16-27.5-3;
+37 (B) qualified medication aides certified under IC 16-27.5-4;
+38 and
+39 (C) home health aides registered under rules adopted under
+40 IC 16-27.5-5;
+41 (7) any services provided by unlicensed health care professionals
+42 who have successfully completed any applicable training required
+SB 236—LS 7104/DI 107
+
+33
+1 by the Indiana department of health;
+2 (8) any services provided by health care volunteers who are
+3 permitted to practice during an event that is declared a disaster
+4 emergency under IC 10-14-3-12 to respond to COVID-19;
+5 (9) any services provided by individuals with provisional or
+6 temporary licenses who are permitted to practice during an event
+7 that is declared a disaster emergency under IC 10-14-3-12 to
+8 respond to COVID-19; or
+9 (10) any other services or goods furnished for the purpose of
+10 preventing, alleviating, curing, or healing human illness, physical
+11 disability, or injury.
+12 SECTION 14. IC 34-7-7-1 IS AMENDED TO READ AS
+13 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) This chapter
+14 applies to an act in furtherance of a person's right of petition or free
+15 speech under the Constitution of the United States or the Constitution
+16 of the State of Indiana in connection with a public issue or an issue of
+17 public interest that arises after June 30, 1998. This chapter does not
+18 apply to an action that was filed and is pending before July 1, 1998.
+19 (b) This chapter does not apply to:
+20 (1) an enforcement action brought in the name of the state of
+21 Indiana by the attorney general, a prosecuting attorney, or another
+22 attorney acting as a public prosecutor; or
+23 (2) an action brought under:
+24 (A) IC 16-34-7-6;
+25 (B) IC 16-34-7-9;
+26 (C) IC 16-34-7-18; or
+27 (D) IC 16-34-7-20.
+28 SECTION 15. IC 34-13-9-0.7, AS ADDED BY P.L.4-2015,
+29 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 0.7. This chapter does not:
+31 (1) authorize a provider to refuse to offer or provide services,
+32 facilities, use of public accommodations, goods, employment, or
+33 housing to any member or members of the general public on the
+34 basis of race, color, religion, ancestry, age, national origin,
+35 disability, sex, sexual orientation, gender identity, or United
+36 States military service;
+37 (2) establish a defense to a civil action or criminal prosecution for
+38 refusal by a provider to offer or provide services, facilities, use of
+39 public accommodations, goods, employment, or housing to any
+40 member or members of the general public on the basis of race,
+41 color, religion, ancestry, age, national origin, disability, sex,
+42 sexual orientation, gender identity, or United States military
+SB 236—LS 7104/DI 107
+
+34
+1 service; or
+2 (3) limit or curtail the scope of any law of the state of Indiana
+3 that regulates or restricts abortion or that withholds taxpayer
+4 funds from entities that perform or promote abortions; or
+5 (3) (4) negate any rights available under the Constitution of the
+6 State of Indiana.
+7 SECTION 16. IC 34-13-9-2, AS ADDED BY P.L.3-2015,
+8 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 2. (a) A governmental entity statute, ordinance,
+10 resolution, executive or administrative order, regulation, custom, or
+11 usage may not be construed to be exempt from the application of this
+12 chapter unless a state statute expressly exempts the statute, ordinance,
+13 resolution, executive or administrative order, regulation, custom, or
+14 usage from the application of this chapter by citation to this chapter.
+15 (b) This chapter does not apply to IC 16-34 or any action to
+16 enforce the requirements of IC 16-34.
+17 SECTION 17. IC 34-30-2.1-218.5 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2026]: Sec. 218.5. IC 16-34-7-21 (Concerning
+20 abortion inducing drugs).
+21 SECTION 18. IC 35-46-5-1.5, AS ADDED BY P.L.213-2016,
+22 SECTION 30, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2026]: Sec. 1.5. (a) As used in this section, "aborted" means
+24 the termination of human pregnancy with an intention other than to
+25 produce a live birth or to remove a dead fetus. The term includes
+26 abortions by surgical procedures and by abortion inducing drugs in
+27 violation of IC 16-34-7.
+28 (b) As used in this section, "fetal tissue" includes tissue, organs, or
+29 any other part of an aborted fetus.
+30 (c) This section does not apply to the proper medical disposal of
+31 fetal tissue.
+32 (d) A person who intentionally acquires, receives, sells, or transfers
+33 fetal tissue commits unlawful transfer of fetal tissue, a Level 5 felony.
+34 (e) A person may not alter the timing, method, or procedure used to
+35 terminate a pregnancy for the purpose of obtaining or collecting fetal
+36 tissue. A person who violates this subsection commits the unlawful
+37 collection of fetal tissue, a Level 5 felony.
+SB 236—LS 7104/DI 107
+
+35
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Judiciary, to which was
+referred Senate Bill No. 236, has had the same under consideration and
+begs leave to report the same back to the Senate with the
+recommendation that said bill be AMENDED as follows:
+Page 1, delete lines 1 through 15.
+Page 2, delete lines 1 through 10.
+Page 9, delete line 42, begin a new paragraph and insert:
+"SECTION 11. IC 16-34-2-4.7, AS AMENDED BY THE
+TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 4.7. (a) As used in this section, "abortion
+complication" means only the following physical or psychological
+conditions arising from the induction or performance of an abortion:
+(1) Uterine perforation.
+(2) Cervical laceration.
+(3) Infection.
+(4) Vaginal bleeding that qualifies as a Grade 2 or higher adverse
+event according to the Common Terminology Criteria for Adverse
+Events (CTCAE).
+(5) Pulmonary embolism.
+(6) Deep vein thrombosis.
+(7) Failure to terminate the pregnancy.
+(8) Incomplete abortion (retained tissue).
+(9) Pelvic inflammatory disease.
+(10) Missed ectopic pregnancy.
+(11) Cardiac arrest.
+(12) Respiratory arrest.
+(13) Renal failure.
+(14) Shock.
+(15) Amniotic fluid embolism.
+(16) Coma.
+(17) Placenta previa in subsequent pregnancies.
+(18) Pre-term delivery in subsequent pregnancies.
+(19) Free fluid in the abdomen.
+(20) Hemolytic reaction due to the administration of
+ABO-incompatible blood or blood products.
+(21) Hypoglycemia occurring while the patient is being treated at
+the hospital or ambulatory outpatient surgical center.
+(22) Allergic reaction to anesthesia. or abortion inducing drugs.
+(23) Psychological complications, including depression, suicidal
+SB 236—LS 7104/DI 107
+
+36
+ideation, anxiety, and sleeping disorders.
+(24) Death.
+(25) Any other adverse event as defined by criteria provided in
+the Food and Drug Administration Safety Information and
+Adverse Event Reporting Program.
+(b) The following persons shall report to the state department each
+case in which the person treated a patient suffering from an abortion
+complication:
+(1) A physician licensed under IC 25-22.5.
+(2) A hospital licensed under IC 16-21.
+(3) Beginning September 1, 2022, an ambulatory outpatient
+surgical center licensed under IC 16-21-2.
+(c) The state department shall develop a process for the submission
+of a report under this section.
+(d) A report under this section shall be submitted to the state
+department in the manner prescribed by the state department.
+(e) The report under this section must include the following
+information concerning the abortion complication:
+(1) The date the patient presented for treatment for the abortion
+complication.
+(2) The age of the patient.
+(3) The race of the patient.
+(4) The county and state of the patient's residence.
+(5) The type of abortion obtained by the patient.
+(6) The date of abortion obtained by the patient.
+(7) The name of the:
+(A) hospital; or
+(B) ambulatory outpatient surgical center;
+where the patient obtained the abortion.
+(8) Whether the abortion was performed or occurred in
+Indiana or outside Indiana.
+(8) (9) Whether the patient obtained abortion medication via mail
+order or Internet web site, website, and if so, information
+identifying the source of the medication.
+(9) (10) Whether the complication was previously managed by the
+abortion provider or the abortion provider's required back-up
+physician.
+(10) (11) The name of the medications taken by the patient as part
+of the pharmaceutical abortion regimen, if any.
+(11) (12) A list of each diagnosed complication.
+(12) (13) A list of each treated complication, with a description of
+the treatment provided.
+SB 236—LS 7104/DI 107
+
+37
+(13) (14) Whether the patient's visit to treat the complications was
+the original visit or a follow-up visit.
+(14) (15) The date of each follow-up visit, if any.
+(15) (16) A list of each complication diagnosed at a follow-up
+visit, if any.
+(16) (17) A list of each complication treated at a follow-up visit,
+if any.
+(18) The location, including the facility name and city or town,
+where the patient presented for treatment of the abortion
+complication.
+(19) The full name of the health care provider who provided
+treatment for the abortion complication.
+(f) The state department shall send each report received under
+this section to the office of the inspector general.
+(f) (g) On a quarterly basis, the state department shall compile a
+public report summarizing the information collected under this section.
+The report must include statistics for the previous calendar quarter,
+with updated information for the most recent calendar quarter.
+(g) (h) The state department shall summarize the aggregate data
+from the data submitted under this section and submit the data, on or
+before June 30 of each year, to the United States Centers for Disease
+Control and Prevention for its inclusion in the annual Vital Statistics
+Report.
+(h) (i) The state department shall ensure that no identifying
+information of a pregnant woman is included in the report described in
+subsection (f). (g).
+(i) (j) This subsection applies after August 31, 2020. Each failure to
+report an abortion complication as required under this section is a Class
+B misdemeanor.
+(j) (k) The state department shall adopt rules under IC 4-22-2 to
+implement this section.".
+Delete pages 10 through 12.
+Page 13, delete lines 1 through 5.
+Page 16, line 23, delete "attorney general." and insert "inspector
+general.".
+Page 16, delete lines 24 through 42.
+Page 17, delete lines 1 through 4.
+Page 17, line 5, delete "(i)" and insert "(f)".
+Page 17, line 15, delete "(j)" and insert "(g)".
+Page 17, delete lines 21 through 25.
+Page 21, line 31, delete "4" and insert "6".
+Page 22, line 1, delete "4" and insert "6".
+SB 236—LS 7104/DI 107
+
+38
+Page 32, line 12, delete "5, 8, or 17" and insert "6, 9, or 18".
+Page 36, between lines 2 and 3, begin a new paragraph and insert:
+"(j) A court may not award attorney's fees or costs under this
+section if the award would violate:
+(1) the Constitution of the State of Indiana;
+(2) the Constitution of the United States; or
+(3) federal law.".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 236 as introduced.)
+CARRASCO, Chairperson
+Committee Vote: Yeas 7, Nays 4.
+_____
+SENATE MOTION
+Mr. President: I move that Senate Bill 236 be amended to read as
+follows:
+Page 11, delete lines 39 through 42.
+Delete pages 12 through 14.
+Page 15, delete lines 1 through 30.
+Renumber all SECTIONS consecutively.
+(Reference is to SB 236 as printed January 23, 2026.)
+JOHNSON T
+SB 236—LS 7104/DI 107

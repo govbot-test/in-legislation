@@ -1,0 +1,1086 @@
+Title: 
+Official Title: 
+Source: versions - Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+*ES0189.1*
+February 17, 2026
+ENGROSSED
+SENATE BILL No. 189
+_____
+DIGEST OF SB 189 (Updated February 17, 2026 12:23 pm - DI 141)
+Citations Affected: IC 27-1; IC 27-4.
+Synopsis: Nonparticipating providers. Requires an initiating party that
+submits a request for independent dispute resolution to provide written
+notice to the facility not later than three business days after submitting
+the request. Allows a health carrier to provide notice to an out of
+network provider and a facility if, during any 90 day period, an
+initiating party submits requests for independent dispute resolutions
+that, in the aggregate, include 25 or more qualified disputes. Provides
+that if a health carrier provides the notice, the health carrier, the out of
+network provider, and the facility shall engage in good faith efforts to
+negotiate a resolution. Prohibits a health carrier from assessing a
+facility or a provider an administrative fee or penalty related to the
+provision of care to an individual that involves an out of network
+provider. Provides that if a health carrier assesses a facility or a
+provider an administrative fee or penalty related to the provision of
+care to an individual that involves an out of network provider, the
+health carrier commits an unfair and deceptive act or practice in the
+business of insurance.
+Effective: Upon passage.
+Baldwin, Garten, Johnson T,
+Randolph Lonnie M, Koch, Brown L
+(HOUSE SPONSORS — BARRETT, CARBAUGH)
+January 6, 2026, read first time and referred to Committee on Insurance and Financial
+Institutions.
+January 22, 2026, amended, reported favorably — Do Pass.
+January 26, 2026, read second time, ordered engrossed. Engrossed.
+January 27, 2026, read third time, passed. Yeas 44, nays 1.
+HOUSE ACTION
+January 29, 2026, read first time and referred to Committee on Insurance.
+February 17, 2026, amended, reported — Do Pass.
+ES 189—LS 6811/DI 154
+
+February 17, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+SENATE BILL No. 189
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 27-1-45.2 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]:
+4 Chapter 45.2. Independent Dispute Resolution
+5 Sec. 1. This chapter applies to any dispute subject to the federal
+6 independent dispute resolution process established under Section
+7 2799A-1 of the Public Health Service Act (42 U.S.C. 300gg-111)
+8 and its implementing regulations.
+9 Sec. 2. (a) As used in this chapter, "claim specific payment
+10 information" means billed charges, allowed amounts, payment
+11 amounts, cost sharing amounts, and any other monetary amounts
+12 associated with the adjudication of an identifiable health care
+13 claim.
+14 (b) The term does not include aggregated or de-identified data
+15 that cannot reasonably be used to identify a specific claim, patient,
+16 or provider.
+17 Sec. 3. As used in this chapter, "facility" means a licensed health
+ES 189—LS 6811/DI 154
+
+2
+1 care facility in which health care services are provided to
+2 individuals.
+3 Sec. 4. (a) As used in this chapter, "health carrier" means an
+4 entity:
+5 (1) that is subject to this title and the administrative rules
+6 adopted under this title; and
+7 (2) that enters into a contract to:
+8 (A) provide health care services;
+9 (B) deliver health care services;
+10 (C) arrange for health care services; or
+11 (D) pay for or reimburse any of the cost of health care
+12 services.
+13 (b) The term includes the following:
+14 (1) An insurer (as defined in IC 27-1-2-3(x)) that issues a
+15 policy of accident and sickness insurance (as defined in
+16 IC 27-8-5-1(a)).
+17 (2) A health maintenance organization (as defined in
+18 IC 27-13-1-19).
+19 (3) An administrator (as defined in IC 27-1-25-1(a)) that is
+20 licensed under IC 27-1-25.
+21 (4) A state employee health plan offered under IC 5-10-8.
+22 (5) A short term insurance plan (as defined in IC 27-8-5.9-3).
+23 (6) Any other entity that provides a plan of health insurance,
+24 health benefits, or health care services.
+25 (c) The term does not include:
+26 (1) an insurer that issues a policy of accident and sickness
+27 insurance;
+28 (2) a limited service health maintenance organization (as
+29 defined in IC 27-13-34-4); or
+30 (3) an administrator;
+31 that only provides coverage for, or processes claims for, dental or
+32 vision care services.
+33 Sec. 5. As used in this chapter, "independent dispute resolution"
+34 means the federal independent dispute resolution process
+35 established under 42 U.S.C. 300gg-111 and 45 CFR Part 149,
+36 Subpart F.
+37 Sec. 6. As used in this chapter, "initiating party" means a health
+38 carrier or out of network provider that submits a request for
+39 independent dispute resolution under federal law.
+40 Sec. 7. As used in this chapter, "out of network provider" means
+41 a provider that is not contracted with a health carrier to provide
+42 health care services to covered individuals at not more than a
+ES 189—LS 6811/DI 154
+
+3
+1 preestablished rate or amount of compensation.
+2 Sec. 8. As used in this chapter, "provider" means an individual
+3 licensed or legally authorized to provide health care services.
+4 Sec. 9. As used in this chapter, "qualified dispute" means a
+5 distinct item or service that is included in a request for
+6 independent dispute resolution.
+7 Sec. 10. (a) An initiating party that submits a request for
+8 independent dispute resolution shall provide written notice to the
+9 facility not later than three (3) business days after submitting the
+10 request.
+11 (b) The notice required under subsection (a) must, at a
+12 minimum, include a copy of the form used by the initiating party
+13 to request independent dispute resolution.
+14 (c) An initiating party that fails to provide notice as required
+15 under this section is subject to enforcement as follows:
+16 (1) If the initiating party is an out of network provider, the
+17 appropriate board (as defined in IC 25-1-9-1) may take action
+18 against the provider:
+19 (A) under IC 25-1-9-9(a)(3) or IC 25-1-9-9(a)(4) for an
+20 initial or isolated violation of this section; or
+21 (B) under IC 25-1-9-9(a)(6) for repeated or persistent
+22 violations of this section.
+23 (2) If the initiating party is a health carrier, the department
+24 may enforce this section in accordance with IC 27-1-3-19.
+25 (3) A penalty under subdivision (1)(B) may not exceed five
+26 thousand dollars ($5,000) annually.
+27 (d) An enforcement action under subsection (c) does not relieve
+28 any party of the obligation to participate in the conference and
+29 good faith negotiation required by this chapter.
+30 Sec. 11. (a) If, during any ninety (90) day period, an initiating
+31 party submits requests for independent dispute resolutions that, in
+32 the aggregate, include twenty-five (25) or more qualified disputes,
+33 the health carrier may:
+34 (1) provide written notice to the out of network provider and
+35 the facility that includes:
+36 (A) a description of the independent dispute resolution
+37 requests that are the basis for the notice, including
+38 applicable dates of service;
+39 (B) identification of the party involved, including the name
+40 and tax identification number, if known;
+41 (C) the name and contact information of a representative
+42 authorized to negotiate on behalf of the health carrier; and
+ES 189—LS 6811/DI 154
+
+4
+1 (D) the requirement to participate in a conference and
+2 good faith negotiation; and
+3 (2) deliver the notice to the out of network provider and the
+4 facility by:
+5 (A) electronic mail; and
+6 (B) certified mail.
+7 (b) If a health carrier provides notice under subsection (a), the
+8 health carrier, the out of network provider, and the facility shall
+9 engage in good faith efforts to negotiate a resolution not later than
+10 thirty (30) days after the notice is provided, including:
+11 (1) at least one (1) conference between authorized
+12 representatives; and
+13 (2) a reasonable exchange of information necessary to
+14 evaluate and address the conduct described in the notice.
+15 (c) A conference under subsection (b) may not:
+16 (1) adjudicate individual claims;
+17 (2) alter rights or obligations under federal or state law; or
+18 (3) occur more than once per calendar quarter.
+19 Sec. 12. (a) A conference under section 11(b) of this chapter
+20 must result in a written memorandum of conference.
+21 (b) The memorandum must include the following information
+22 for the disputes reviewed:
+23 (1) Identification of the disputes.
+24 (2) The initial paid claim amount made by the health carrier
+25 to the out of network provider.
+26 (3) The health carrier offer made during the applicable
+27 federal open negotiation period.
+28 (4) The out of network provider requested amount.
+29 (5) The qualifying payment amount, as determined under
+30 federal law.
+31 (c) The memorandum is informational only and does not:
+32 (1) impose penalties, fees, or financial disincentives;
+33 (2) mandate payment outcomes;
+34 (3) affect eligibility for independent dispute resolution; or
+35 (4) alter claim level rights or remedies under federal or state
+36 law.
+37 (d) The completed memorandum of conference shall be filed
+38 with the department. Claim specific payment information
+39 contained in the memorandum is confidential under IC 5-14-3-4
+40 and is exempt from public access and disclosure under Indiana law.
+41 (e) The department may not publish a memorandum that is filed
+42 under subsection (d). However, the department shall publish on the
+ES 189—LS 6811/DI 154
+
+5
+1 department's website information concerning the aggregate
+2 number of memorandums filed with the department.
+3 Sec. 13. (a) A health carrier may not assess a facility or a
+4 provider an administrative fee or penalty related to the provision
+5 of care to an individual that involves an out of network provider.
+6 (b) If a health carrier assesses an administrative fee or penalty
+7 under subsection (a), the health carrier commits an unfair and
+8 deceptive act or practice in the business of insurance under
+9 IC 27-4-1-4 and is subject to the penalties and procedures set forth
+10 in IC 27-4-1.
+11 SECTION 2. IC 27-4-1-4, AS AMENDED BY P.L.158-2024,
+12 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 UPON PASSAGE]: Sec. 4. (a) The following are hereby defined as
+14 unfair methods of competition and unfair and deceptive acts and
+15 practices in the business of insurance:
+16 (1) Making, issuing, circulating, or causing to be made, issued, or
+17 circulated, any estimate, illustration, circular, or statement:
+18 (A) misrepresenting the terms of any policy issued or to be
+19 issued or the benefits or advantages promised thereby or the
+20 dividends or share of the surplus to be received thereon;
+21 (B) making any false or misleading statement as to the
+22 dividends or share of surplus previously paid on similar
+23 policies;
+24 (C) making any misleading representation or any
+25 misrepresentation as to the financial condition of any insurer,
+26 or as to the legal reserve system upon which any life insurer
+27 operates;
+28 (D) using any name or title of any policy or class of policies
+29 misrepresenting the true nature thereof; or
+30 (E) making any misrepresentation to any policyholder insured
+31 in any company for the purpose of inducing or tending to
+32 induce such policyholder to lapse, forfeit, or surrender the
+33 policyholder's insurance.
+34 (2) Making, publishing, disseminating, circulating, or placing
+35 before the public, or causing, directly or indirectly, to be made,
+36 published, disseminated, circulated, or placed before the public,
+37 in a newspaper, magazine, or other publication, or in the form of
+38 a notice, circular, pamphlet, letter, or poster, or over any radio or
+39 television station, or in any other way, an advertisement,
+40 announcement, or statement containing any assertion,
+41 representation, or statement with respect to any person in the
+42 conduct of the person's insurance business, which is untrue,
+ES 189—LS 6811/DI 154
+
+6
+1 deceptive, or misleading.
+2 (3) Making, publishing, disseminating, or circulating, directly or
+3 indirectly, or aiding, abetting, or encouraging the making,
+4 publishing, disseminating, or circulating of any oral or written
+5 statement or any pamphlet, circular, article, or literature which is
+6 false, or maliciously critical of or derogatory to the financial
+7 condition of an insurer, and which is calculated to injure any
+8 person engaged in the business of insurance.
+9 (4) Entering into any agreement to commit, or individually or by
+10 a concerted action committing any act of boycott, coercion, or
+11 intimidation resulting or tending to result in unreasonable
+12 restraint of, or a monopoly in, the business of insurance.
+13 (5) Filing with any supervisory or other public official, or making,
+14 publishing, disseminating, circulating, or delivering to any person,
+15 or placing before the public, or causing directly or indirectly, to
+16 be made, published, disseminated, circulated, delivered to any
+17 person, or placed before the public, any false statement of
+18 financial condition of an insurer with intent to deceive. Making
+19 any false entry in any book, report, or statement of any insurer
+20 with intent to deceive any agent or examiner lawfully appointed
+21 to examine into its condition or into any of its affairs, or any
+22 public official to which such insurer is required by law to report,
+23 or which has authority by law to examine into its condition or into
+24 any of its affairs, or, with like intent, willfully omitting to make a
+25 true entry of any material fact pertaining to the business of such
+26 insurer in any book, report, or statement of such insurer.
+27 (6) Issuing or delivering or permitting agents, officers, or
+28 employees to issue or deliver, agency company stock or other
+29 capital stock, or benefit certificates or shares in any common law
+30 corporation, or securities or any special or advisory board
+31 contracts or other contracts of any kind promising returns and
+32 profits as an inducement to insurance.
+33 (7) Making or permitting any of the following:
+34 (A) Unfair discrimination between individuals of the same
+35 class and equal expectation of life in the rates or assessments
+36 charged for any contract of life insurance or of life annuity or
+37 in the dividends or other benefits payable thereon, or in any
+38 other of the terms and conditions of such contract. However,
+39 in determining the class, consideration may be given to the
+40 nature of the risk, plan of insurance, the actual or expected
+41 expense of conducting the business, or any other relevant
+42 factor.
+ES 189—LS 6811/DI 154
+
+7
+1 (B) Unfair discrimination between individuals of the same
+2 class involving essentially the same hazards in the amount of
+3 premium, policy fees, assessments, or rates charged or made
+4 for any policy or contract of accident or health insurance or in
+5 the benefits payable thereunder, or in any of the terms or
+6 conditions of such contract, or in any other manner whatever.
+7 However, in determining the class, consideration may be given
+8 to the nature of the risk, the plan of insurance, the actual or
+9 expected expense of conducting the business, or any other
+10 relevant factor.
+11 (C) Excessive or inadequate charges for premiums, policy
+12 fees, assessments, or rates, or making or permitting any unfair
+13 discrimination between persons of the same class involving
+14 essentially the same hazards, in the amount of premiums,
+15 policy fees, assessments, or rates charged or made for:
+16 (i) policies or contracts of reinsurance or joint reinsurance,
+17 or abstract and title insurance;
+18 (ii) policies or contracts of insurance against loss or damage
+19 to aircraft, or against liability arising out of the ownership,
+20 maintenance, or use of any aircraft, or of vessels or craft,
+21 their cargoes, marine builders' risks, marine protection and
+22 indemnity, or other risks commonly insured under marine,
+23 as distinguished from inland marine, insurance; or
+24 (iii) policies or contracts of any other kind or kinds of
+25 insurance whatsoever.
+26 However, nothing contained in clause (C) shall be construed to
+27 apply to any of the kinds of insurance referred to in clauses (A)
+28 and (B) nor to reinsurance in relation to such kinds of insurance.
+29 Nothing in clause (A), (B), or (C) shall be construed as making or
+30 permitting any excessive, inadequate, or unfairly discriminatory
+31 charge or rate or any charge or rate determined by the department
+32 or commissioner to meet the requirements of any other insurance
+33 rate regulatory law of this state.
+34 (8) Except as otherwise expressly provided by IC 27-1-47 or
+35 another law, knowingly permitting or offering to make or making
+36 any contract or policy of insurance of any kind or kinds
+37 whatsoever, including but not in limitation, life annuities, or
+38 agreement as to such contract or policy other than as plainly
+39 expressed in such contract or policy issued thereon, or paying or
+40 allowing, or giving or offering to pay, allow, or give, directly or
+41 indirectly, as inducement to such insurance, or annuity, any rebate
+42 of premiums payable on the contract, or any special favor or
+ES 189—LS 6811/DI 154
+
+8
+1 advantage in the dividends, savings, or other benefits thereon, or
+2 any valuable consideration or inducement whatever not specified
+3 in the contract or policy; or giving, or selling, or purchasing or
+4 offering to give, sell, or purchase as inducement to such insurance
+5 or annuity or in connection therewith, any stocks, bonds, or other
+6 securities of any insurance company or other corporation,
+7 association, limited liability company, or partnership, or any
+8 dividends, savings, or profits accrued thereon, or anything of
+9 value whatsoever not specified in the contract. Nothing in this
+10 subdivision and subdivision (7) shall be construed as including
+11 within the definition of discrimination or rebates any of the
+12 following practices:
+13 (A) Paying bonuses to policyholders or otherwise abating their
+14 premiums in whole or in part out of surplus accumulated from
+15 nonparticipating insurance, so long as any such bonuses or
+16 abatement of premiums are fair and equitable to policyholders
+17 and for the best interests of the company and its policyholders.
+18 (B) In the case of life insurance policies issued on the
+19 industrial debit plan, making allowance to policyholders who
+20 have continuously for a specified period made premium
+21 payments directly to an office of the insurer in an amount
+22 which fairly represents the saving in collection expense.
+23 (C) Readjustment of the rate of premium for a group insurance
+24 policy based on the loss or expense experience thereunder, at
+25 the end of the first year or of any subsequent year of insurance
+26 thereunder, which may be made retroactive only for such
+27 policy year.
+28 (D) Paying by an insurer or insurance producer thereof duly
+29 licensed as such under the laws of this state of money,
+30 commission, or brokerage, or giving or allowing by an insurer
+31 or such licensed insurance producer thereof anything of value,
+32 for or on account of the solicitation or negotiation of policies
+33 or other contracts of any kind or kinds, to a broker, an
+34 insurance producer, or a solicitor duly licensed under the laws
+35 of this state, but such broker, insurance producer, or solicitor
+36 receiving such consideration shall not pay, give, or allow
+37 credit for such consideration as received in whole or in part,
+38 directly or indirectly, to the insured by way of rebate.
+39 (9) Requiring, as a condition precedent to loaning money upon the
+40 security of a mortgage upon real property, that the owner of the
+41 property to whom the money is to be loaned negotiate any policy
+42 of insurance covering such real property through a particular
+ES 189—LS 6811/DI 154
+
+9
+1 insurance producer or broker or brokers. However, this
+2 subdivision shall not prevent the exercise by any lender of the
+3 lender's right to approve or disapprove of the insurance company
+4 selected by the borrower to underwrite the insurance.
+5 (10) Entering into any contract, combination in the form of a trust
+6 or otherwise, or conspiracy in restraint of commerce in the
+7 business of insurance.
+8 (11) Monopolizing or attempting to monopolize or combining or
+9 conspiring with any other person or persons to monopolize any
+10 part of commerce in the business of insurance. However,
+11 participation as a member, director, or officer in the activities of
+12 any nonprofit organization of insurance producers or other
+13 workers in the insurance business shall not be interpreted, in
+14 itself, to constitute a combination in restraint of trade or as
+15 combining to create a monopoly as provided in this subdivision
+16 and subdivision (10). The enumeration in this chapter of specific
+17 unfair methods of competition and unfair or deceptive acts and
+18 practices in the business of insurance is not exclusive or
+19 restrictive or intended to limit the powers of the commissioner or
+20 department or of any court of review under section 8 of this
+21 chapter.
+22 (12) Requiring as a condition precedent to the sale of real or
+23 personal property under any contract of sale, conditional sales
+24 contract, or other similar instrument or upon the security of a
+25 chattel mortgage, that the buyer of such property negotiate any
+26 policy of insurance covering such property through a particular
+27 insurance company, insurance producer, or broker or brokers.
+28 However, this subdivision shall not prevent the exercise by any
+29 seller of such property or the one making a loan thereon of the
+30 right to approve or disapprove of the insurance company selected
+31 by the buyer to underwrite the insurance.
+32 (13) Issuing, offering, or participating in a plan to issue or offer,
+33 any policy or certificate of insurance of any kind or character as
+34 an inducement to the purchase of any property, real, personal, or
+35 mixed, or services of any kind, where a charge to the insured is
+36 not made for and on account of such policy or certificate of
+37 insurance. However, this subdivision shall not apply to any of the
+38 following:
+39 (A) Insurance issued to credit unions or members of credit
+40 unions in connection with the purchase of shares in such credit
+41 unions.
+42 (B) Insurance employed as a means of guaranteeing the
+ES 189—LS 6811/DI 154
+
+10
+1 performance of goods and designed to benefit the purchasers
+2 or users of such goods.
+3 (C) Title insurance.
+4 (D) Insurance written in connection with an indebtedness and
+5 intended as a means of repaying such indebtedness in the
+6 event of the death or disability of the insured.
+7 (E) Insurance provided by or through motorists service clubs
+8 or associations.
+9 (F) Insurance that is provided to the purchaser or holder of an
+10 air transportation ticket and that:
+11 (i) insures against death or nonfatal injury that occurs during
+12 the flight to which the ticket relates;
+13 (ii) insures against personal injury or property damage that
+14 occurs during travel to or from the airport in a common
+15 carrier immediately before or after the flight;
+16 (iii) insures against baggage loss during the flight to which
+17 the ticket relates; or
+18 (iv) insures against a flight cancellation to which the ticket
+19 relates.
+20 (14) Refusing, because of the for-profit status of a hospital or
+21 medical facility, to make payments otherwise required to be made
+22 under a contract or policy of insurance for charges incurred by an
+23 insured in such a for-profit hospital or other for-profit medical
+24 facility licensed by the Indiana department of health.
+25 (15) Refusing to insure an individual, refusing to continue to issue
+26 insurance to an individual, limiting the amount, extent, or kind of
+27 coverage available to an individual, or charging an individual a
+28 different rate for the same coverage, solely because of that
+29 individual's blindness or partial blindness, except where the
+30 refusal, limitation, or rate differential is based on sound actuarial
+31 principles or is related to actual or reasonably anticipated
+32 experience.
+33 (16) Committing or performing, with such frequency as to
+34 indicate a general practice, unfair claim settlement practices (as
+35 defined in section 4.5 of this chapter).
+36 (17) Between policy renewal dates, unilaterally canceling an
+37 individual's coverage under an individual or group health
+38 insurance policy solely because of the individual's medical or
+39 physical condition.
+40 (18) Using a policy form or rider that would permit a cancellation
+41 of coverage as described in subdivision (17).
+42 (19) Violating IC 27-1-22-25, IC 27-1-22-26, or IC 27-1-22-26.1
+ES 189—LS 6811/DI 154
+
+11
+1 concerning motor vehicle insurance rates.
+2 (20) Violating IC 27-8-21-2 concerning advertisements referring
+3 to interest rate guarantees.
+4 (21) Violating IC 27-8-24.3 concerning insurance and health plan
+5 coverage for victims of abuse.
+6 (22) Violating IC 27-8-26 concerning genetic screening or testing.
+7 (23) Violating IC 27-1-15.6-3(b) concerning licensure of
+8 insurance producers.
+9 (24) Violating IC 27-1-38 concerning depository institutions.
+10 (25) Violating IC 27-8-28-17(c) or IC 27-13-10-8(c) concerning
+11 the resolution of an appealed grievance decision.
+12 (26) Violating IC 27-8-5-2.5(e) through IC 27-8-5-2.5(j) (expired
+13 July 1, 2007, and removed) or IC 27-8-5-19.2 (expired July 1,
+14 2007, and repealed).
+15 (27) Violating IC 27-2-21 concerning use of credit information.
+16 (28) Violating IC 27-4-9-3 concerning recommendations to
+17 consumers.
+18 (29) Engaging in dishonest or predatory insurance practices in
+19 marketing or sales of insurance to members of the United States
+20 Armed Forces as:
+21 (A) described in the federal Military Personnel Financial
+22 Services Protection Act, P.L.109-290; or
+23 (B) defined in rules adopted under subsection (b).
+24 (30) Violating IC 27-8-19.8-20.1 concerning stranger originated
+25 life insurance.
+26 (31) Violating IC 27-2-22 concerning retained asset accounts.
+27 (32) Violating IC 27-8-5-29 concerning health plans offered
+28 through a health benefit exchange (as defined in IC 27-19-2-8).
+29 (33) Violating a requirement of the federal Patient Protection and
+30 Affordable Care Act (P.L. 111-148), as amended by the federal
+31 Health Care and Education Reconciliation Act of 2010 (P.L.
+32 111-152), that is enforceable by the state.
+33 (34) After June 30, 2015, violating IC 27-2-23 concerning
+34 unclaimed life insurance, annuity, or retained asset account
+35 benefits.
+36 (35) Willfully violating IC 27-1-12-46 concerning a life insurance
+37 policy or certificate described in IC 27-1-12-46(a).
+38 (36) Violating IC 27-1-37-7 concerning prohibiting the disclosure
+39 of health care service claims data.
+40 (37) Violating IC 27-4-10-10 concerning virtual claims payments.
+41 (38) Violating IC 27-1-24.5 concerning pharmacy benefit
+42 managers.
+ES 189—LS 6811/DI 154
+
+12
+1 (39) Violating IC 27-7-17-16 or IC 27-7-17-17 concerning the
+2 marketing of travel insurance policies.
+3 (40) Violating IC 27-1-49 concerning individual prescription drug
+4 rebates.
+5 (41) Violating IC 27-1-50 concerning group prescription drug
+6 rebates.
+7 (42) Violating IC 27-1-45.2-13 concerning an administrative
+8 fee or penalty imposed on a facility or a provider by a health
+9 carrier related to the provision of care to an individual that
+10 involves an out of network provider.
+11 (b) Except with respect to federal insurance programs under
+12 Subchapter III of Chapter 19 of Title 38 of the United States Code, the
+13 commissioner may, consistent with the federal Military Personnel
+14 Financial Services Protection Act (10 U.S.C. 992 note), adopt rules
+15 under IC 4-22-2 to:
+16 (1) define; and
+17 (2) while the members are on a United States military installation
+18 or elsewhere in Indiana, protect members of the United States
+19 Armed Forces from;
+20 dishonest or predatory insurance practices.
+21 SECTION 3. An emergency is declared for this act.
+ES 189—LS 6811/DI 154
+
+13
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Insurance and Financial
+Institutions, to which was referred Senate Bill No. 189, has had the
+same under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Replace the effective date in SECTION 1 with "[EFFECTIVE
+UPON PASSAGE]".
+Page 1, line 12, after "fee" insert "or penalty".
+Page 1, line 14, after "fee" insert "or penalty".
+Page 1, line 15, delete "the commissioner shall impose on the health
+carrier" and insert "the health carrier commits an unfair and
+deceptive act or practice in the business of insurance under
+IC 27-4-1-4 and is subject to the penalties and procedures set forth
+in IC 27-4-1.
+SECTION 2. IC 27-4-1-4, AS AMENDED BY P.L.158-2024,
+SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 4. (a) The following are hereby defined as
+unfair methods of competition and unfair and deceptive acts and
+practices in the business of insurance:
+(1) Making, issuing, circulating, or causing to be made, issued, or
+circulated, any estimate, illustration, circular, or statement:
+(A) misrepresenting the terms of any policy issued or to be
+issued or the benefits or advantages promised thereby or the
+dividends or share of the surplus to be received thereon;
+(B) making any false or misleading statement as to the
+dividends or share of surplus previously paid on similar
+policies;
+(C) making any misleading representation or any
+misrepresentation as to the financial condition of any insurer,
+or as to the legal reserve system upon which any life insurer
+operates;
+(D) using any name or title of any policy or class of policies
+misrepresenting the true nature thereof; or
+(E) making any misrepresentation to any policyholder insured
+in any company for the purpose of inducing or tending to
+induce such policyholder to lapse, forfeit, or surrender the
+policyholder's insurance.
+(2) Making, publishing, disseminating, circulating, or placing
+before the public, or causing, directly or indirectly, to be made,
+published, disseminated, circulated, or placed before the public,
+ES 189—LS 6811/DI 154
+
+14
+in a newspaper, magazine, or other publication, or in the form of
+a notice, circular, pamphlet, letter, or poster, or over any radio or
+television station, or in any other way, an advertisement,
+announcement, or statement containing any assertion,
+representation, or statement with respect to any person in the
+conduct of the person's insurance business, which is untrue,
+deceptive, or misleading.
+(3) Making, publishing, disseminating, or circulating, directly or
+indirectly, or aiding, abetting, or encouraging the making,
+publishing, disseminating, or circulating of any oral or written
+statement or any pamphlet, circular, article, or literature which is
+false, or maliciously critical of or derogatory to the financial
+condition of an insurer, and which is calculated to injure any
+person engaged in the business of insurance.
+(4) Entering into any agreement to commit, or individually or by
+a concerted action committing any act of boycott, coercion, or
+intimidation resulting or tending to result in unreasonable
+restraint of, or a monopoly in, the business of insurance.
+(5) Filing with any supervisory or other public official, or making,
+publishing, disseminating, circulating, or delivering to any person,
+or placing before the public, or causing directly or indirectly, to
+be made, published, disseminated, circulated, delivered to any
+person, or placed before the public, any false statement of
+financial condition of an insurer with intent to deceive. Making
+any false entry in any book, report, or statement of any insurer
+with intent to deceive any agent or examiner lawfully appointed
+to examine into its condition or into any of its affairs, or any
+public official to which such insurer is required by law to report,
+or which has authority by law to examine into its condition or into
+any of its affairs, or, with like intent, willfully omitting to make a
+true entry of any material fact pertaining to the business of such
+insurer in any book, report, or statement of such insurer.
+(6) Issuing or delivering or permitting agents, officers, or
+employees to issue or deliver, agency company stock or other
+capital stock, or benefit certificates or shares in any common law
+corporation, or securities or any special or advisory board
+contracts or other contracts of any kind promising returns and
+profits as an inducement to insurance.
+(7) Making or permitting any of the following:
+(A) Unfair discrimination between individuals of the same
+class and equal expectation of life in the rates or assessments
+charged for any contract of life insurance or of life annuity or
+ES 189—LS 6811/DI 154
+
+15
+in the dividends or other benefits payable thereon, or in any
+other of the terms and conditions of such contract. However,
+in determining the class, consideration may be given to the
+nature of the risk, plan of insurance, the actual or expected
+expense of conducting the business, or any other relevant
+factor.
+(B) Unfair discrimination between individuals of the same
+class involving essentially the same hazards in the amount of
+premium, policy fees, assessments, or rates charged or made
+for any policy or contract of accident or health insurance or in
+the benefits payable thereunder, or in any of the terms or
+conditions of such contract, or in any other manner whatever.
+However, in determining the class, consideration may be given
+to the nature of the risk, the plan of insurance, the actual or
+expected expense of conducting the business, or any other
+relevant factor.
+(C) Excessive or inadequate charges for premiums, policy
+fees, assessments, or rates, or making or permitting any unfair
+discrimination between persons of the same class involving
+essentially the same hazards, in the amount of premiums,
+policy fees, assessments, or rates charged or made for:
+(i) policies or contracts of reinsurance or joint reinsurance,
+or abstract and title insurance;
+(ii) policies or contracts of insurance against loss or damage
+to aircraft, or against liability arising out of the ownership,
+maintenance, or use of any aircraft, or of vessels or craft,
+their cargoes, marine builders' risks, marine protection and
+indemnity, or other risks commonly insured under marine,
+as distinguished from inland marine, insurance; or
+(iii) policies or contracts of any other kind or kinds of
+insurance whatsoever.
+However, nothing contained in clause (C) shall be construed to
+apply to any of the kinds of insurance referred to in clauses (A)
+and (B) nor to reinsurance in relation to such kinds of insurance.
+Nothing in clause (A), (B), or (C) shall be construed as making or
+permitting any excessive, inadequate, or unfairly discriminatory
+charge or rate or any charge or rate determined by the department
+or commissioner to meet the requirements of any other insurance
+rate regulatory law of this state.
+(8) Except as otherwise expressly provided by IC 27-1-47 or
+another law, knowingly permitting or offering to make or making
+any contract or policy of insurance of any kind or kinds
+ES 189—LS 6811/DI 154
+
+16
+whatsoever, including but not in limitation, life annuities, or
+agreement as to such contract or policy other than as plainly
+expressed in such contract or policy issued thereon, or paying or
+allowing, or giving or offering to pay, allow, or give, directly or
+indirectly, as inducement to such insurance, or annuity, any rebate
+of premiums payable on the contract, or any special favor or
+advantage in the dividends, savings, or other benefits thereon, or
+any valuable consideration or inducement whatever not specified
+in the contract or policy; or giving, or selling, or purchasing or
+offering to give, sell, or purchase as inducement to such insurance
+or annuity or in connection therewith, any stocks, bonds, or other
+securities of any insurance company or other corporation,
+association, limited liability company, or partnership, or any
+dividends, savings, or profits accrued thereon, or anything of
+value whatsoever not specified in the contract. Nothing in this
+subdivision and subdivision (7) shall be construed as including
+within the definition of discrimination or rebates any of the
+following practices:
+(A) Paying bonuses to policyholders or otherwise abating their
+premiums in whole or in part out of surplus accumulated from
+nonparticipating insurance, so long as any such bonuses or
+abatement of premiums are fair and equitable to policyholders
+and for the best interests of the company and its policyholders.
+(B) In the case of life insurance policies issued on the
+industrial debit plan, making allowance to policyholders who
+have continuously for a specified period made premium
+payments directly to an office of the insurer in an amount
+which fairly represents the saving in collection expense.
+(C) Readjustment of the rate of premium for a group insurance
+policy based on the loss or expense experience thereunder, at
+the end of the first year or of any subsequent year of insurance
+thereunder, which may be made retroactive only for such
+policy year.
+(D) Paying by an insurer or insurance producer thereof duly
+licensed as such under the laws of this state of money,
+commission, or brokerage, or giving or allowing by an insurer
+or such licensed insurance producer thereof anything of value,
+for or on account of the solicitation or negotiation of policies
+or other contracts of any kind or kinds, to a broker, an
+insurance producer, or a solicitor duly licensed under the laws
+of this state, but such broker, insurance producer, or solicitor
+receiving such consideration shall not pay, give, or allow
+ES 189—LS 6811/DI 154
+
+17
+credit for such consideration as received in whole or in part,
+directly or indirectly, to the insured by way of rebate.
+(9) Requiring, as a condition precedent to loaning money upon the
+security of a mortgage upon real property, that the owner of the
+property to whom the money is to be loaned negotiate any policy
+of insurance covering such real property through a particular
+insurance producer or broker or brokers. However, this
+subdivision shall not prevent the exercise by any lender of the
+lender's right to approve or disapprove of the insurance company
+selected by the borrower to underwrite the insurance.
+(10) Entering into any contract, combination in the form of a trust
+or otherwise, or conspiracy in restraint of commerce in the
+business of insurance.
+(11) Monopolizing or attempting to monopolize or combining or
+conspiring with any other person or persons to monopolize any
+part of commerce in the business of insurance. However,
+participation as a member, director, or officer in the activities of
+any nonprofit organization of insurance producers or other
+workers in the insurance business shall not be interpreted, in
+itself, to constitute a combination in restraint of trade or as
+combining to create a monopoly as provided in this subdivision
+and subdivision (10). The enumeration in this chapter of specific
+unfair methods of competition and unfair or deceptive acts and
+practices in the business of insurance is not exclusive or
+restrictive or intended to limit the powers of the commissioner or
+department or of any court of review under section 8 of this
+chapter.
+(12) Requiring as a condition precedent to the sale of real or
+personal property under any contract of sale, conditional sales
+contract, or other similar instrument or upon the security of a
+chattel mortgage, that the buyer of such property negotiate any
+policy of insurance covering such property through a particular
+insurance company, insurance producer, or broker or brokers.
+However, this subdivision shall not prevent the exercise by any
+seller of such property or the one making a loan thereon of the
+right to approve or disapprove of the insurance company selected
+by the buyer to underwrite the insurance.
+(13) Issuing, offering, or participating in a plan to issue or offer,
+any policy or certificate of insurance of any kind or character as
+an inducement to the purchase of any property, real, personal, or
+mixed, or services of any kind, where a charge to the insured is
+not made for and on account of such policy or certificate of
+ES 189—LS 6811/DI 154
+
+18
+insurance. However, this subdivision shall not apply to any of the
+following:
+(A) Insurance issued to credit unions or members of credit
+unions in connection with the purchase of shares in such credit
+unions.
+(B) Insurance employed as a means of guaranteeing the
+performance of goods and designed to benefit the purchasers
+or users of such goods.
+(C) Title insurance.
+(D) Insurance written in connection with an indebtedness and
+intended as a means of repaying such indebtedness in the
+event of the death or disability of the insured.
+(E) Insurance provided by or through motorists service clubs
+or associations.
+(F) Insurance that is provided to the purchaser or holder of an
+air transportation ticket and that:
+(i) insures against death or nonfatal injury that occurs during
+the flight to which the ticket relates;
+(ii) insures against personal injury or property damage that
+occurs during travel to or from the airport in a common
+carrier immediately before or after the flight;
+(iii) insures against baggage loss during the flight to which
+the ticket relates; or
+(iv) insures against a flight cancellation to which the ticket
+relates.
+(14) Refusing, because of the for-profit status of a hospital or
+medical facility, to make payments otherwise required to be made
+under a contract or policy of insurance for charges incurred by an
+insured in such a for-profit hospital or other for-profit medical
+facility licensed by the Indiana department of health.
+(15) Refusing to insure an individual, refusing to continue to issue
+insurance to an individual, limiting the amount, extent, or kind of
+coverage available to an individual, or charging an individual a
+different rate for the same coverage, solely because of that
+individual's blindness or partial blindness, except where the
+refusal, limitation, or rate differential is based on sound actuarial
+principles or is related to actual or reasonably anticipated
+experience.
+(16) Committing or performing, with such frequency as to
+indicate a general practice, unfair claim settlement practices (as
+defined in section 4.5 of this chapter).
+(17) Between policy renewal dates, unilaterally canceling an
+ES 189—LS 6811/DI 154
+
+19
+individual's coverage under an individual or group health
+insurance policy solely because of the individual's medical or
+physical condition.
+(18) Using a policy form or rider that would permit a cancellation
+of coverage as described in subdivision (17).
+(19) Violating IC 27-1-22-25, IC 27-1-22-26, or IC 27-1-22-26.1
+concerning motor vehicle insurance rates.
+(20) Violating IC 27-8-21-2 concerning advertisements referring
+to interest rate guarantees.
+(21) Violating IC 27-8-24.3 concerning insurance and health plan
+coverage for victims of abuse.
+(22) Violating IC 27-8-26 concerning genetic screening or testing.
+(23) Violating IC 27-1-15.6-3(b) concerning licensure of
+insurance producers.
+(24) Violating IC 27-1-38 concerning depository institutions.
+(25) Violating IC 27-8-28-17(c) or IC 27-13-10-8(c) concerning
+the resolution of an appealed grievance decision.
+(26) Violating IC 27-8-5-2.5(e) through IC 27-8-5-2.5(j) (expired
+July 1, 2007, and removed) or IC 27-8-5-19.2 (expired July 1,
+2007, and repealed).
+(27) Violating IC 27-2-21 concerning use of credit information.
+(28) Violating IC 27-4-9-3 concerning recommendations to
+consumers.
+(29) Engaging in dishonest or predatory insurance practices in
+marketing or sales of insurance to members of the United States
+Armed Forces as:
+(A) described in the federal Military Personnel Financial
+Services Protection Act, P.L.109-290; or
+(B) defined in rules adopted under subsection (b).
+(30) Violating IC 27-8-19.8-20.1 concerning stranger originated
+life insurance.
+(31) Violating IC 27-2-22 concerning retained asset accounts.
+(32) Violating IC 27-8-5-29 concerning health plans offered
+through a health benefit exchange (as defined in IC 27-19-2-8).
+(33) Violating a requirement of the federal Patient Protection and
+Affordable Care Act (P.L. 111-148), as amended by the federal
+Health Care and Education Reconciliation Act of 2010 (P.L.
+111-152), that is enforceable by the state.
+(34) After June 30, 2015, violating IC 27-2-23 concerning
+unclaimed life insurance, annuity, or retained asset account
+benefits.
+(35) Willfully violating IC 27-1-12-46 concerning a life insurance
+ES 189—LS 6811/DI 154
+
+20
+policy or certificate described in IC 27-1-12-46(a).
+(36) Violating IC 27-1-37-7 concerning prohibiting the disclosure
+of health care service claims data.
+(37) Violating IC 27-4-10-10 concerning virtual claims payments.
+(38) Violating IC 27-1-24.5 concerning pharmacy benefit
+managers.
+(39) Violating IC 27-7-17-16 or IC 27-7-17-17 concerning the
+marketing of travel insurance policies.
+(40) Violating IC 27-1-49 concerning individual prescription drug
+rebates.
+(41) Violating IC 27-1-50 concerning group prescription drug
+rebates.
+(42) Violating IC 27-1-37-11 concerning an administrative fee
+or penalty imposed on a health provider facility or a provider
+by a health carrier related to the provision of care to an
+individual that involves an out of network provider.
+(b) Except with respect to federal insurance programs under
+Subchapter III of Chapter 19 of Title 38 of the United States Code, the
+commissioner may, consistent with the federal Military Personnel
+Financial Services Protection Act (10 U.S.C. 992 note), adopt rules
+under IC 4-22-2 to:
+(1) define; and
+(2) while the members are on a United States military installation
+or elsewhere in Indiana, protect members of the United States
+Armed Forces from;
+dishonest or predatory insurance practices.
+SECTION 3. An emergency is declared for this act.".
+Page 1, delete lines 16 through 17.
+Delete page 2.
+and when so amended that said bill do pass.
+(Reference is to SB 189 as introduced.)
+BALDWIN, Chairperson
+Committee Vote: Yeas 6, Nays 1.
+ES 189—LS 6811/DI 154
+
+21
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Insurance, to which was referred
+Senate Bill 189, has had the same under consideration and begs leave
+to report the same back to the House with the recommendation that said
+bill be amended as follows:
+Page 1, delete lines 1 through 17.
+Page 2, delete line 1, begin a new paragraph and insert:
+"SECTION 1. IC 27-1-45.2 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]:
+Chapter 45.2. Independent Dispute Resolution
+Sec. 1. This chapter applies to any dispute subject to the federal
+independent dispute resolution process established under Section
+2799A-1 of the Public Health Service Act (42 U.S.C. 300gg-111)
+and its implementing regulations.
+Sec. 2. (a) As used in this chapter, "claim specific payment
+information" means billed charges, allowed amounts, payment
+amounts, cost sharing amounts, and any other monetary amounts
+associated with the adjudication of an identifiable health care
+claim.
+(b) The term does not include aggregated or de-identified data
+that cannot reasonably be used to identify a specific claim, patient,
+or provider.
+Sec. 3. As used in this chapter, "facility" means a licensed health
+care facility in which health care services are provided to
+individuals.
+Sec. 4. (a) As used in this chapter, "health carrier" means an
+entity:
+(1) that is subject to this title and the administrative rules
+adopted under this title; and
+(2) that enters into a contract to:
+(A) provide health care services;
+(B) deliver health care services;
+(C) arrange for health care services; or
+(D) pay for or reimburse any of the cost of health care
+services.
+(b) The term includes the following:
+(1) An insurer (as defined in IC 27-1-2-3(x)) that issues a
+policy of accident and sickness insurance (as defined in
+IC 27-8-5-1(a)).
+(2) A health maintenance organization (as defined in
+IC 27-13-1-19).
+ES 189—LS 6811/DI 154
+
+22
+(3) An administrator (as defined in IC 27-1-25-1(a)) that is
+licensed under IC 27-1-25.
+(4) A state employee health plan offered under IC 5-10-8.
+(5) A short term insurance plan (as defined in IC 27-8-5.9-3).
+(6) Any other entity that provides a plan of health insurance,
+health benefits, or health care services.
+(c) The term does not include:
+(1) an insurer that issues a policy of accident and sickness
+insurance;
+(2) a limited service health maintenance organization (as
+defined in IC 27-13-34-4); or
+(3) an administrator;
+that only provides coverage for, or processes claims for, dental or
+vision care services.
+Sec. 5. As used in this chapter, "independent dispute resolution"
+means the federal independent dispute resolution process
+established under 42 U.S.C. 300gg-111 and 45 CFR Part 149,
+Subpart F.
+Sec. 6. As used in this chapter, "initiating party" means a health
+carrier or out of network provider that submits a request for
+independent dispute resolution under federal law.
+Sec. 7. As used in this chapter, "out of network provider" means
+a provider that is not contracted with a health carrier to provide
+health care services to covered individuals at not more than a
+preestablished rate or amount of compensation.
+Sec. 8. As used in this chapter, "provider" means an individual
+licensed or legally authorized to provide health care services.
+Sec. 9. As used in this chapter, "qualified dispute" means a
+distinct item or service that is included in a request for
+independent dispute resolution.
+Sec. 10. (a) An initiating party that submits a request for
+independent dispute resolution shall provide written notice to the
+facility not later than three (3) business days after submitting the
+request.
+(b) The notice required under subsection (a) must, at a
+minimum, include a copy of the form used by the initiating party
+to request independent dispute resolution.
+(c) An initiating party that fails to provide notice as required
+under this section is subject to enforcement as follows:
+(1) If the initiating party is an out of network provider, the
+appropriate board (as defined in IC 25-1-9-1) may take action
+against the provider:
+ES 189—LS 6811/DI 154
+
+23
+(A) under IC 25-1-9-9(a)(3) or IC 25-1-9-9(a)(4) for an
+initial or isolated violation of this section; or
+(B) under IC 25-1-9-9(a)(6) for repeated or persistent
+violations of this section.
+(2) If the initiating party is a health carrier, the department
+may enforce this section in accordance with IC 27-1-3-19.
+(3) A penalty under subdivision (1)(B) may not exceed five
+thousand dollars ($5,000) annually.
+(d) An enforcement action under subsection (c) does not relieve
+any party of the obligation to participate in the conference and
+good faith negotiation required by this chapter.
+Sec. 11. (a) If, during any ninety (90) day period, an initiating
+party submits requests for independent dispute resolutions that, in
+the aggregate, include twenty-five (25) or more qualified disputes,
+the health carrier may:
+(1) provide written notice to the out of network provider and
+the facility that includes:
+(A) a description of the independent dispute resolution
+requests that are the basis for the notice, including
+applicable dates of service;
+(B) identification of the party involved, including the name
+and tax identification number, if known;
+(C) the name and contact information of a representative
+authorized to negotiate on behalf of the health carrier; and
+(D) the requirement to participate in a conference and
+good faith negotiation; and
+(2) deliver the notice to the out of network provider and the
+facility by:
+(A) electronic mail; and
+(B) certified mail.
+(b) If a health carrier provides notice under subsection (a), the
+health carrier, the out of network provider, and the facility shall
+engage in good faith efforts to negotiate a resolution not later than
+thirty (30) days after the notice is provided, including:
+(1) at least one (1) conference between authorized
+representatives; and
+(2) a reasonable exchange of information necessary to
+evaluate and address the conduct described in the notice.
+(c) A conference under subsection (b) may not:
+(1) adjudicate individual claims;
+(2) alter rights or obligations under federal or state law; or
+(3) occur more than once per calendar quarter.
+ES 189—LS 6811/DI 154
+
+24
+Sec. 12. (a) A conference under section 11(b) of this chapter
+must result in a written memorandum of conference.
+(b) The memorandum must include the following information
+for the disputes reviewed:
+(1) Identification of the disputes.
+(2) The initial paid claim amount made by the health carrier
+to the out of network provider.
+(3) The health carrier offer made during the applicable
+federal open negotiation period.
+(4) The out of network provider requested amount.
+(5) The qualifying payment amount, as determined under
+federal law.
+(c) The memorandum is informational only and does not:
+(1) impose penalties, fees, or financial disincentives;
+(2) mandate payment outcomes;
+(3) affect eligibility for independent dispute resolution; or
+(4) alter claim level rights or remedies under federal or state
+law.
+(d) The completed memorandum of conference shall be filed
+with the department. Claim specific payment information
+contained in the memorandum is confidential under IC 5-14-3-4
+and is exempt from public access and disclosure under Indiana law.
+(e) The department may not publish a memorandum that is filed
+under subsection (d). However, the department shall publish on the
+department's website information concerning the aggregate
+number of memorandums filed with the department.
+Sec. 13. (a) A health carrier may not assess a facility or a
+provider an administrative fee or penalty related to the provision
+of care to an individual that involves an out of network provider.
+(b) If a health carrier assesses an administrative fee or penalty
+under subsection (a), the health carrier commits an unfair and
+deceptive act or practice in the business of insurance under
+IC 27-4-1-4 and is subject to the penalties and procedures set forth
+in IC 27-4-1.".
+Page 8, line 40, delete "IC 27-1-37-11" and insert "IC
+27-1-45.2-13".
+Page 8, line 41, delete "health provider".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 189 as printed January 23, 2026.)
+ES 189—LS 6811/DI 154
+
+25
+CARBAUGH
+Committee Vote: yeas 10, nays 0.
+ES 189—LS 6811/DI 154
