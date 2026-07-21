@@ -1,0 +1,658 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1399
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 10-11-13.2; IC 25-26-13-4; IC 33-23-1-9.7;
+IC 33-24-6-3; IC 34-30-2.1; IC 35-31.5-2; IC 35-48-4-14.7.
+Synopsis: Ephedrine and pseudoephedrine products. Requires the
+state police department (department) to oversee an electronic logging
+system (system) to: (1) record and monitor real time purchases of
+products containing ephedrine and pseudoephedrine; (2) monitor
+ephedrine and pseudoephedrine purchases to prevent or investigate the
+illegal purchase of ephedrine or pseudoephedrine; and (3) block illegal
+purchases of ephedrine and pseduoephedrine. Requires the department
+to contract with a third party vendor to operate the system. Requires
+each manufacturer of products that contain ephedrine and
+pseudoephedrine to demonstrate to the department that they have a
+valid contract with the vendor to provide electronic tracking of
+purchases in Indiana. Replaces "NPLEx system" references with
+"electronic logging system". Removes current restrictions on the sale
+of ephedrine and pseudoephedrine products to individuals who do not
+have a relationship on record with a pharmacy or have not completed
+a consultation with a pharmacy to determine if there is a legitimate
+medical or pharmaceutical need for the products.
+Effective: July 1, 2026.
+Isa, Miller D, Miller K
+January 8, 2026, read first time and referred to Committee on Veterans Affairs and Public
+Safety.
+2026 IN 1399—LS 7065/DI 107
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1399
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 10-11-13.2 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 13.2. Electronic Logging System
+5 Sec. 1. (a) The department shall oversee an electronic logging
+6 system to:
+7 (1) record and monitor real time purchases of products
+8 containing ephedrine or pseudoephedrine;
+9 (2) monitor the purchases described in subdivision (1) in
+10 order to prevent or investigate the illegal purchase of
+11 ephedrine or pseudoephedrine; and
+12 (3) block illegal purchases of ephedrine and pseudoephedrine.
+13 (b) The department shall contract with a third party vendor to
+14 operate the electronic logging system.
+15 (c) By September 1 of each year, each manufacturer of products
+16 that contain ephedrine and pseudoephedrine must demonstrate to
+17 the department that they have a valid contract with the vendor
+2026 IN 1399—LS 7065/DI 107
+
+2
+1 described in subsection (b) to provide electronic tracking of
+2 purchases in Indiana.
+3 (d) The department may adopt rules under IC 4-22-2 to
+4 administer this chapter.
+5 SECTION 2. IC 25-26-13-4, AS AMENDED BY P.L.93-2024,
+6 SECTION 186, IS AMENDED TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) The board may:
+8 (1) adopt rules under IC 4-22-2 for implementing and enforcing
+9 this chapter;
+10 (2) establish requirements and tests to determine the moral,
+11 physical, intellectual, educational, scientific, technical, and
+12 professional qualifications for applicants for pharmacists'
+13 licenses;
+14 (3) refuse to issue, deny, suspend, or revoke a license or permit or
+15 place on probation or fine any licensee or permittee under this
+16 chapter;
+17 (4) regulate the sale of drugs and devices in the state of Indiana;
+18 (5) impound, embargo, confiscate, or otherwise prevent from
+19 disposition any drugs, medicines, chemicals, poisons, or devices
+20 which by inspection are deemed unfit for use or would be
+21 dangerous to the health and welfare of the citizens of the state of
+22 Indiana; the board shall follow those embargo procedures found
+23 in IC 16-42-1-18 through IC 16-42-1-31, and persons may not
+24 refuse to permit or otherwise prevent members of the board or
+25 their representatives from entering such places and making such
+26 inspections;
+27 (6) prescribe minimum standards with respect to physical
+28 characteristics of pharmacies, as may be necessary to the
+29 maintenance of professional surroundings and to the protection of
+30 the safety and welfare of the public;
+31 (7) subject to IC 25-1-7, investigate complaints, subpoena
+32 witnesses, schedule and conduct hearings on behalf of the public
+33 interest on any matter under the jurisdiction of the board;
+34 (8) prescribe the time, place, method, manner, scope, and subjects
+35 of licensing examinations which shall be given at least twice
+36 annually; and
+37 (9) perform such other duties and functions and exercise such
+38 other powers as may be necessary to implement and enforce this
+39 chapter.
+40 (b) The board shall adopt rules under IC 4-22-2 for the following:
+41 (1) Establishing standards for the competent practice of
+42 pharmacy.
+2026 IN 1399—LS 7065/DI 107
+
+3
+1 (2) Establishing the standards for a pharmacist to counsel
+2 individuals regarding the proper use of drugs.
+3 (3) Establishing standards and procedures before January 1, 2006,
+4 to ensure that a pharmacist:
+5 (A) has entered into a contract that accepts the return of
+6 expired drugs with; or
+7 (B) is subject to a policy that accepts the return of expired
+8 drugs of;
+9 a wholesaler, manufacturer, or agent of a wholesaler or
+10 manufacturer concerning the return by the pharmacist to the
+11 wholesaler, the manufacturer, or the agent of expired legend drugs
+12 or controlled drugs. In determining the standards and procedures,
+13 the board may not interfere with negotiated terms related to cost,
+14 expenses, or reimbursement charges contained in contracts
+15 between parties, but may consider what is a reasonable quantity
+16 of a drug to be purchased by a pharmacy. The standards and
+17 procedures do not apply to vaccines that prevent influenza,
+18 medicine used for the treatment of malignant hyperthermia, and
+19 other drugs determined by the board to not be subject to a return
+20 policy. An agent of a wholesaler or manufacturer must be
+21 appointed in writing and have policies, personnel, and facilities
+22 to handle properly returns of expired legend drugs and controlled
+23 substances.
+24 (c) The board may grant or deny a temporary variance to a rule it
+25 has adopted if:
+26 (1) the board has adopted rules which set forth the procedures and
+27 standards governing the grant or denial of a temporary variance;
+28 and
+29 (2) the board sets forth in writing the reasons for a grant or denial
+30 of a temporary variance.
+31 (d) The board shall adopt rules and procedures, in consultation with
+32 the medical licensing board, concerning the electronic transmission of
+33 prescriptions. The rules adopted under this subsection must address the
+34 following:
+35 (1) Privacy protection for the practitioner and the practitioner's
+36 patient.
+37 (2) Security of the electronic transmission.
+38 (3) A process for approving electronic data intermediaries for the
+39 electronic transmission of prescriptions.
+40 (4) Use of a practitioner's United States Drug Enforcement
+41 Agency registration number.
+42 (5) Protection of the practitioner from identity theft or fraudulent
+2026 IN 1399—LS 7065/DI 107
+
+4
+1 use of the practitioner's prescribing authority.
+2 (e) The governor may direct the board to develop:
+3 (1) a prescription drug program that includes the establishment of
+4 criteria to eliminate or significantly reduce prescription fraud; and
+5 (2) a standard format for an official tamper resistant prescription
+6 drug form for prescriptions (as defined in IC 16-42-19-7(1)).
+7 The board may adopt rules under IC 4-22-2 necessary to implement
+8 this subsection.
+9 (f) The standard format for a prescription drug form described in
+10 subsection (e)(2) must include the following:
+11 (1) A counterfeit protection bar code with human readable
+12 representation of the data in the bar code.
+13 (2) A thermochromic mark on the front and the back of the
+14 prescription that:
+15 (A) is at least one-fourth (1/4) of one (1) inch in height and
+16 width; and
+17 (B) changes from blue to clear when exposed to heat.
+18 (g) The board may contract with a supplier to implement and
+19 manage the prescription drug program described in subsection (e). The
+20 supplier must:
+21 (1) have been audited by a third party auditor using the SAS 70
+22 audit or an equivalent audit for at least the three (3) previous
+23 years; and
+24 (2) be audited by a third party auditor using the SAS 70 audit or
+25 an equivalent audit throughout the duration of the contract;
+26 in order to be considered to implement and manage the program.
+27 (h) The board shall adopt rules under IC 4-22-2 concerning:
+28 (1) professional determinations made under IC 35-48-4-14.7(d);
+29 and
+30 (2) the determination of a relationship on record with the
+31 pharmacy under IC 35-48-4-14.7.
+32 (i) The board may:
+33 (1) review professional determinations made by a pharmacist; and
+34 (2) take appropriate disciplinary action against a pharmacist who
+35 violates a rule adopted under subsection (h) concerning a
+36 professional determination made;
+37 under IC 35-48-4-14.7 concerning the sale of ephedrine and
+38 pseudoephedrine.
+39 SECTION 3. IC 33-23-1-9.7 IS REPEALED [EFFECTIVE JULY
+40 1, 2026]. Sec. 9.7. "NPLEx" refers to the National Precursor Log
+41 Exchange.
+42 SECTION 4. IC 33-24-6-3, AS AMENDED BY P.L.77-2025,
+2026 IN 1399—LS 7065/DI 107
+
+5
+1 SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 3. (a) The office of judicial administration shall
+3 do the following:
+4 (1) Examine the administrative and business methods and systems
+5 employed in the offices of the clerks of court and other offices
+6 related to and serving the courts and make recommendations for
+7 necessary improvement.
+8 (2) Collect and compile statistical data and other information on
+9 the judicial work of the courts in Indiana. All justices of the
+10 supreme court, judges of the court of appeals, judges of all trial
+11 courts, and any city or town courts, whether having general or
+12 special jurisdiction, court clerks, court reporters, and other
+13 officers and employees of the courts shall, upon notice by the
+14 chief administrative officer and in compliance with procedures
+15 prescribed by the chief administrative officer, furnish the chief
+16 administrative officer the information as is requested concerning
+17 the nature and volume of judicial business. The information must
+18 include the following:
+19 (A) The volume, condition, and type of business conducted by
+20 the courts.
+21 (B) The methods of procedure in the courts.
+22 (C) The work accomplished by the courts.
+23 (D) The receipt and expenditure of public money by and for
+24 the operation of the courts.
+25 (E) The methods of disposition or termination of cases.
+26 (3) Prepare and publish reports, not less than one (1) or more than
+27 two (2) times per year, on the nature and volume of judicial work
+28 performed by the courts as determined by the information
+29 required in subdivision (2).
+30 (4) Serve the judicial nominating commission and the judicial
+31 qualifications commission in the performance by the commissions
+32 of their statutory and constitutional functions.
+33 (5) Administer the civil legal aid fund as required by IC 33-24-12.
+34 (6) Administer the court technology fund established by section
+35 12 of this chapter.
+36 (7) By December 31, 2013, develop and implement a standard
+37 protocol for sending and receiving court data:
+38 (A) between the protective order registry, established by
+39 IC 5-2-9-5.5, and county court case management systems;
+40 (B) at the option of the prosecuting attorney, for:
+41 (i) a prosecuting attorney's case management system;
+42 (ii) a county court case management system; and
+2026 IN 1399—LS 7065/DI 107
+
+6
+1 (iii) a county court case management system developed and
+2 operated by the office of judicial administration;
+3 to interface with the electronic traffic tickets, as defined by
+4 IC 9-30-3-2.5; and
+5 (C) between county court case management systems and the
+6 case management system developed and operated by the office
+7 of judicial administration.
+8 The standard protocol developed and implemented under this
+9 subdivision shall permit private sector vendors, including vendors
+10 providing service to a local system and vendors accessing the
+11 system for information, to send and receive court information on
+12 an equitable basis and at an equitable cost, and for a case
+13 management system developed and operated by the office of
+14 judicial administration, must include a searchable field for the
+15 name and bail agent license number, if applicable, of the bail
+16 agent or a person authorized by the surety that pays bail for an
+17 individual as described in IC 35-33-8-3.2.
+18 (8) Establish and administer an electronic system for receiving
+19 information that relates to certain individuals who may be
+20 prohibited from possessing a firearm for the purpose of:
+21 (A) transmitting this information to the Federal Bureau of
+22 Investigation for inclusion in the NICS; and
+23 (B) beginning July 1, 2021, compiling and publishing certain
+24 statistics related to the confiscation and retention of firearms
+25 as described under section 14 of this chapter.
+26 (9) Establish and administer an electronic system for receiving
+27 drug related felony conviction information from courts. The office
+28 of judicial administration shall notify NPLEx the state police
+29 department of each drug related felony entered after June 30,
+30 2012, and do the following:
+31 (A) Provide NPLEx the state police department with the
+32 following information:
+33 (i) The convicted individual's full name.
+34 (ii) The convicted individual's date of birth.
+35 (iii) The convicted individual's driver's license number, state
+36 personal identification number, or other unique number, if
+37 available.
+38 (iv) The date the individual was convicted of the felony.
+39 Upon receipt of the information from the office of judicial
+40 administration, a stop sale alert must be generated through
+41 NPLEx the state police department's electronic logging
+42 system under IC 10-11-13.2 for each individual reported
+2026 IN 1399—LS 7065/DI 107
+
+7
+1 under this clause.
+2 (B) Notify NPLEx the state police department if the felony
+3 of an individual reported under clause (A) has been:
+4 (i) set aside;
+5 (ii) reversed;
+6 (iii) expunged; or
+7 (iv) vacated.
+8 Upon receipt of information under this clause, NPLEx the
+9 state police department shall remove the stop sale alert
+10 issued under clause (A) for the individual in the electronic
+11 logging system under IC 10-11-13.2.
+12 (10) After July 1, 2018, establish and administer an electronic
+13 system for receiving from courts felony or misdemeanor
+14 conviction information for each felony or misdemeanor described
+15 in IC 20-28-5-8(c). The office of judicial administration shall
+16 notify the department of education at least one (1) time each week
+17 of each felony or misdemeanor described in IC 20-28-5-8(c)
+18 entered after July 1, 2018, and do the following:
+19 (A) Provide the department of education with the following
+20 information:
+21 (i) The convicted individual's full name.
+22 (ii) The convicted individual's date of birth.
+23 (iii) The convicted individual's driver's license number, state
+24 personal identification number, or other unique number, if
+25 available.
+26 (iv) The date the individual was convicted of the felony or
+27 misdemeanor.
+28 (B) Notify the department of education if the felony or
+29 misdemeanor of an individual reported under clause (A) has
+30 been:
+31 (i) set aside;
+32 (ii) reversed; or
+33 (iii) vacated.
+34 (11) Perform legal and administrative duties for the justices as
+35 determined by the justices.
+36 (12) Provide staff support for the judicial conference of Indiana
+37 established in IC 33-38-9.
+38 (13) Work with the United States Department of Veterans Affairs
+39 to identify and address the needs of veterans in the court system.
+40 (14) If necessary for purposes of IC 35-47-16-1, issue a retired
+41 judicial officer an identification card identifying the retired
+42 judicial officer as a retired judicial officer.
+2026 IN 1399—LS 7065/DI 107
+
+8
+1 (15) Establish and administer the statewide juvenile justice data
+2 aggregation plan established under section 12.5 of this chapter.
+3 (16) Create and make available an application for detention to be
+4 used in proceedings under IC 12-26-5 (mental health detention,
+5 commitment, and treatment).
+6 (17) Create and make available a uniform form to assist a court in
+7 making an indigency determination under IC 35-33-7-6.5.
+8 (18) Before July 1, 2025, establish and administer an electronic
+9 system for:
+10 (A) receiving a request for a chronological case summary
+11 from; and
+12 (B) transmitting a chronological case summary to;
+13 the state police department for purposes of expungement or
+14 sealing of records.
+15 (b) All forms to be used in gathering data must be approved by the
+16 supreme court and shall be distributed to all judges and clerks before
+17 the start of each period for which reports are required.
+18 (c) The office of judicial administration may adopt rules to
+19 implement this section.
+20 SECTION 5. IC 34-30-2.1-569, AS ADDED BY P.L.105-2022,
+21 SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 569. IC 35-48-4-14.7(d) (Concerning a pharmacy
+23 or NPLEx covered retailer that discloses information concerning the
+24 sale of a product containing ephedrine or pseudoephedrine).
+25 SECTION 6. IC 34-30-2.1-570 IS REPEALED [EFFECTIVE JULY
+26 1, 2026]. Sec. 570. IC 35-48-4-14.7(d)(3) (Concerning a pharmacist's
+27 professional judgment not to sell ephedrine or pseudoephedrine to an
+28 individual).
+29 SECTION 7. IC 34-30-2.1-571, AS ADDED BY P.L.105-2022,
+30 SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 571. IC 35-48-4-14.7(k) IC 35-48-4-14.7(j)
+32 (Concerning a pharmacy or NPLEx covered retailer that discloses
+33 information concerning the sale of a product containing ephedrine or
+34 pseudoephedrine).
+35 SECTION 8. IC 35-31.5-2-111.2 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 111.2. "Electronic logging
+38 system", for purposes of IC 35-48-4-14.7, has the meaning set forth
+39 in IC 35-48-4-14.7(b).
+40 SECTION 9. IC 35-31.5-2-120, AS ADDED BY P.L.114-2012,
+41 SECTION 67, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]: Sec. 120. "Ephedrine", for purposes of
+2026 IN 1399—LS 7065/DI 107
+
+9
+1 IC 35-48-4-14.7, has the meaning set forth in IC 35-48-4-14.7(b)(3).
+2 IC 35-48-4-14.7(b).
+3 SECTION 10. IC 35-48-4-14.7, AS AMENDED BY P.L.252-2017,
+4 SECTION 25, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+5 JULY 1, 2026]: Sec. 14.7. (a) This section does not apply to the
+6 following:
+7 (1) Ephedrine or pseudoephedrine dispensed pursuant to a
+8 prescription. Nothing in this section prohibits a person who is
+9 denied the sale of a nonprescription product containing
+10 pseudoephedrine or ephedrine from obtaining pseudoephedrine
+11 or ephedrine pursuant to a prescription.
+12 (2) The sale of a drug containing ephedrine or pseudoephedrine
+13 to a licensed health care provider, pharmacist, retail distributor,
+14 wholesaler, manufacturer, or an agent of any of these persons if
+15 the sale occurs in the regular course of lawful business activities.
+16 However, a retail distributor, wholesaler, or manufacturer is
+17 required to report a suspicious order to the state police department
+18 in accordance with subsection (g). (f).
+19 (3) The sale of a drug containing ephedrine or pseudoephedrine
+20 by a person who does not sell exclusively to walk-in customers for
+21 the personal use of the walk-in customers. However, if the person
+22 described in this subdivision is a retail distributor, wholesaler, or
+23 manufacturer, the person is required to report a suspicious order
+24 to the state police department in accordance with subsection (g).
+25 (f).
+26 (b) The following definitions apply throughout this section:
+27 (1) "Constant video monitoring" means the surveillance by an
+28 automated camera that:
+29 (A) records at least one (1) photograph or digital image every
+30 ten (10) seconds;
+31 (B) retains a photograph or digital image for at least
+32 seventy-two (72) hours;
+33 (C) has sufficient resolution and magnification to permit the
+34 identification of a person in the area under surveillance; and
+35 (D) stores a recorded photograph or digital image at a location
+36 that is immediately accessible to a law enforcement officer.
+37 (2) "Convenience package" means a package that contains a drug
+38 having as an active ingredient not more than sixty (60) milligrams
+39 of ephedrine or pseudoephedrine, or both.
+40 (3) "Electronic logging system" means the system established
+41 and operated by the state police department under
+42 IC 10-11-13.2 for the purpose of:
+2026 IN 1399—LS 7065/DI 107
+
+10
+1 (A) recording and monitoring the real time purchase of
+2 products containing ephedrine or pseudoephedrine; and
+3 (B) monitoring the information described in clause (A) to
+4 prevent or investigate the illegal purchase of ephedrine or
+5 pseudoephedrine.
+6 (3) (4) "Ephedrine" means pure or adulterated ephedrine.
+7 (4) (5) "Pharmacy or NPLEx covered retailer" means:
+8 (A) a pharmacy, as defined in IC 25-26-13-2;
+9 (B) a retailer containing a pharmacy, as defined in
+10 IC 25-26-13-2; or
+11 (C) a retailer that electronically submits the required
+12 information to the National Precursor Log Exchange (NPLEx).
+13 state police department's logging system under
+14 IC 10-11-13.2.
+15 (5) (6) "Pseudoephedrine" means pure or adulterated
+16 pseudoephedrine.
+17 (6) (7) "Retailer" means a grocery store, general merchandise
+18 store, or other similar establishment. The term does not include a
+19 pharmacy or NPLEx covered retailer.
+20 (7) (8) "Suspicious order" means a sale or transfer of a drug
+21 containing ephedrine or pseudoephedrine if the sale or transfer:
+22 (A) is a sale or transfer that the retail distributor, wholesaler,
+23 or manufacturer is required to report to the United States Drug
+24 Enforcement Administration;
+25 (B) appears suspicious to the retail distributor, wholesaler, or
+26 manufacturer in light of the recommendations contained in
+27 Appendix A of the report to the United States attorney general
+28 by the suspicious orders task force under the federal
+29 Comprehensive Methamphetamine Control Act of 1996; or
+30 (C) is for cash or a money order in a total amount of at least
+31 two hundred dollars ($200).
+32 (8) (9) "Unusual theft" means the theft or unexplained
+33 disappearance from a particular pharmacy or NPLEx covered
+34 retailer of drugs containing ten (10) grams or more of ephedrine,
+35 pseudoephedrine, or both in a twenty-four (24) hour period.
+36 (c) A drug containing ephedrine or pseudoephedrine may be sold
+37 only by a pharmacy or NPLEx covered retailer.
+38 (d) A pharmacy or NPLEx covered retailer may sell a drug that
+39 contains the active ingredient of ephedrine, pseudoephedrine, or both
+40 only if the pharmacy or NPLEx covered retailer complies with the
+41 following conditions:
+42 (1) The pharmacy or NPLEx covered retailer does not sell the
+2026 IN 1399—LS 7065/DI 107
+
+11
+1 drug to a person less than eighteen (18) years of age.
+2 (2) The pharmacy or NPLEx covered retailer does not sell drugs
+3 containing more than:
+4 (A) three and six-tenths (3.6) grams of ephedrine or
+5 pseudoephedrine, or both, to one (1) individual on one (1) day;
+6 (B) seven and two-tenths (7.2) grams of ephedrine or
+7 pseudoephedrine, or both, to one (1) individual in a thirty (30)
+8 day period; or
+9 (C) sixty-one and two-tenths (61.2) grams of ephedrine or
+10 pseudoephedrine, or both, to one (1) individual in a three
+11 hundred sixty-five (365) day period.
+12 (3) Except as provided in subsection (f), before the sale occurs the
+13 pharmacist or the pharmacy technician (as defined by
+14 IC 25-26-19-2) has determined that the purchaser has a
+15 relationship on record with the pharmacy, in compliance with
+16 rules adopted by the board under IC 25-26-13-4. If it has been
+17 determined that the purchaser does not have a relationship on
+18 record with the pharmacy, the pharmacist shall make a
+19 professional determination as to whether there is a legitimate
+20 medical or pharmaceutical need for ephedrine or pseudoephedrine
+21 before selling ephedrine or pseudoephedrine to an individual. The
+22 pharmacist's professional determination must comply with the
+23 rules adopted under IC 25-26-13-4 and may include the
+24 following:
+25 (A) Prior medication filling history of the individual.
+26 (B) Consulting with the individual.
+27 (C) Other tools that provide professional reassurance to the
+28 pharmacist that a legitimate medical or pharmaceutical need
+29 for ephedrine or pseudoephedrine exists.
+30 A pharmacist who in good faith does not sell ephedrine or
+31 pseudoephedrine to an individual under this subdivision is
+32 immune from civil liability unless the refusal to sell constitutes
+33 gross negligence or intentional, wanton, or willful misconduct.
+34 (4) (3) The pharmacy or NPLEx covered retailer requires:
+35 (A) the purchaser to produce a valid government issued photo
+36 identification card showing the date of birth of the person;
+37 (B) the purchaser to sign a written or electronic log attesting
+38 to the validity of the information; and
+39 (C) the clerk who is conducting the transaction to initial or
+40 electronically record the clerk's identification on the log.
+41 Records from the completion of a log must be retained for at least
+42 two (2) years. A law enforcement officer has the right to inspect
+2026 IN 1399—LS 7065/DI 107
+
+12
+1 and copy a log or the records from the completion of a log in
+2 accordance with state and federal law. A pharmacy or NPLEx
+3 covered retailer may not sell or release a log or the records from
+4 the completion of a log for a commercial purpose. The Indiana
+5 criminal justice institute may obtain information concerning a log
+6 or the records from the completion of a log from a law
+7 enforcement officer if the information may not be used to identify
+8 a specific individual and is used only for statistical purposes. A
+9 pharmacy or NPLEx covered retailer that in good faith releases
+10 information maintained under this subsection is immune from
+11 civil liability unless the release constitutes gross negligence or
+12 intentional, wanton, or willful misconduct.
+13 (5) (4) The pharmacy or NPLEx covered retailer maintains a
+14 record of information for each sale of a nonprescription product
+15 containing pseudoephedrine or ephedrine. Required information
+16 includes:
+17 (A) the name and address of each purchaser;
+18 (B) the type of identification presented;
+19 (C) the governmental entity that issued the identification;
+20 (D) the identification number; and
+21 (E) the ephedrine or pseudoephedrine product purchased,
+22 including the number of grams the product contains and the
+23 date and time of the transaction.
+24 (6) (5) A pharmacy or NPLEx covered retailer shall, except as
+25 provided in subdivision (7), (6), before completing a sale of an
+26 over-the-counter product containing pseudoephedrine or
+27 ephedrine, electronically submit the required information to the
+28 National Precursor Log Exchange (NPLEx), electronic logging
+29 system under IC 10-11-13.2, if the NPLEx electronic logging
+30 system is available to pharmacies or NPLEx covered retailers in
+31 the state without a charge for accessing the system. The pharmacy
+32 or NPLEx covered retailer may not complete the sale if the
+33 system generates a stop sale alert, including a stop sale alert for
+34 a person convicted of a drug related felony reported under
+35 IC 33-24-6-3.
+36 (7) (6) If a pharmacy or NPLEx covered retailer selling an
+37 over-the-counter product containing ephedrine or
+38 pseudoephedrine experiences mechanical or electronic failure of
+39 the electronic sales tracking system and is unable to comply with
+40 the electronic sales tracking requirement, the pharmacy or NPLEx
+41 covered retailer shall maintain a written log or an alternative
+42 electronic record keeping mechanism until the pharmacy or
+2026 IN 1399—LS 7065/DI 107
+
+13
+1 NPLEx covered retailer is able to comply with the electronic
+2 sales tracking requirement.
+3 (8) (7) The pharmacy or NPLEx covered retailer stores the drug
+4 behind a counter in an area inaccessible to a customer or in a
+5 locked display case that makes the drug unavailable to a customer
+6 without the assistance of an employee.
+7 (e) A person may not purchase drugs containing more than:
+8 (1) three and six-tenths (3.6) grams of ephedrine or
+9 pseudoephedrine, or both, on one (1) day;
+10 (2) seven and two-tenths (7.2) grams of ephedrine or
+11 pseudoephedrine, or both, in a thirty (30) day period; or
+12 (3) sixty-one and two-tenths (61.2) grams of ephedrine or
+13 pseudoephedrine, or both, in a three hundred sixty-five (365) day
+14 period.
+15 These limits apply to the total amount of base ephedrine and
+16 pseudoephedrine contained in the products and not to the overall
+17 weight of the products.
+18 (f) If a purchaser does not have a relationship on record with the
+19 pharmacy, as determined by rules adopted by the board under
+20 IC 25-26-13-4, or the pharmacist has made a professional
+21 determination that there is not a legitimate medical or pharmaceutical
+22 need for ephedrine or pseudoephedrine under subsection (d), the
+23 purchaser may, at the pharmacist's discretion, purchase only the
+24 following:
+25 (1) A product that has been determined under section 14.3 of this
+26 chapter to be an extraction resistant or a conversion resistant form
+27 of ephedrine or pseudoephedrine.
+28 (2) A product that contains not more than:
+29 (A) a total of seven hundred twenty (720) milligrams of
+30 ephedrine or pseudoephedrine per package; and
+31 (B) thirty (30) milligrams of ephedrine or pseudoephedrine per
+32 tablet.
+33 The pharmacist may not sell more than one (1) package of
+34 ephedrine or pseudoephedrine to a purchaser under this
+35 subdivision per day.
+36 However, if the pharmacist believes that the ephedrine or
+37 pseudoephedrine purchase will be used to manufacture
+38 methamphetamine, the pharmacist may refuse to sell ephedrine or
+39 pseudoephedrine to the purchaser.
+40 (g) (f) A retail distributor, wholesaler, or manufacturer shall report
+41 a suspicious order to the state police department in writing.
+42 (h) (g) Not later than three (3) days after the discovery of an unusual
+2026 IN 1399—LS 7065/DI 107
+
+14
+1 theft at a particular retail store, the pharmacy or NPLEx covered
+2 retailer shall report the unusual theft to the state police department in
+3 writing. If three (3) unusual thefts occur in a thirty (30) day period at
+4 a particular pharmacy or NPLEx covered retailer, the pharmacy or
+5 NPLEx covered retailer shall, for at least one hundred eighty (180)
+6 days after the date of the last unusual theft, locate all drugs containing
+7 ephedrine or pseudoephedrine at that particular pharmacy or NPLEx
+8 covered retailer behind a counter in an area inaccessible to a customer
+9 or in a locked display case that makes the drug unavailable to
+10 customers without the assistance of an employee.
+11 (i) (h) A unit (as defined in IC 36-1-2-23) may not adopt an
+12 ordinance after February 1, 2005, that is more stringent than this
+13 section.
+14 (j) (i) A person who knowingly or intentionally violates this section
+15 commits a Class C misdemeanor. However, the offense is a Class A
+16 misdemeanor if the person has a prior unrelated conviction under this
+17 section.
+18 (k) (j) A pharmacy or NPLEx covered retailer that uses the
+19 electronic sales tracking system in accordance with this section is
+20 immune from civil liability for any act or omission committed in
+21 carrying out the duties required by this section, unless the act or
+22 omission was due to recklessness or deliberate or wanton misconduct.
+23 A pharmacy or NPLEx covered retailer is immune from liability to a
+24 third party unless the pharmacy or NPLEx covered retailer has violated
+25 a provision of this section and the third party brings an action based on
+26 the pharmacy's or NPLEx covered retailer's violation of this section.
+27 (l) (k) The following requirements apply to the NPLEx: electronic
+28 logging system:
+29 (1) Information contained in the NPLEx electronic logging
+30 system may be shared only with law enforcement officials.
+31 (2) A law enforcement official may access Indiana transaction
+32 information maintained in the NPLEx electronic logging system
+33 for investigative purposes.
+34 (3) NADDI may not modify sales transaction data that is shared
+35 with law enforcement officials.
+36 (4) At least one (1) time per day, Indiana data contained in the
+37 NPLEx electronic logging system for the previous calendar day
+38 shall be forwarded to the state police department.
+39 (m) (l) A person or corporate entity may not mandate a protocol or
+40 procedure that interferes with the pharmacist's ability to exercise the
+41 pharmacist's independent professional judgment under this section.
+42 including whether to deny the sale of ephedrine or pseudoephedrine
+2026 IN 1399—LS 7065/DI 107
+
+15
+1 under subsection (f).
+2026 IN 1399—LS 7065/DI 107

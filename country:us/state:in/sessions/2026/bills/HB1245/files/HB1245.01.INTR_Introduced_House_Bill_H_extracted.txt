@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1245
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1-8.5-13.5.
+Synopsis: IURC study of data centers. Requires the Indiana utility
+regulatory commission (IURC) to conduct a study to evaluate the effect
+of new and additional electricity demand from data centers and large
+load customers on: (1) the costs incurred by energy utilities to meet that
+demand; and (2) retail electric rates for all customer classes of energy
+utilities. Sets forth specific topics that the IURC must evaluate as part
+of the study. Requires the IURC to include in its 2026 annual report the
+commission's findings with respect to the topics evaluated in the study.
+Effective: Upon passage.
+Shackleford
+January 5, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+2026 IN 1245—LS 6933/DI 101
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1245
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-8.5-13.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE UPON PASSAGE]: Sec. 13.5. (a) As used in this
+4 section, "data center" has the meaning set forth in IC 8-1-45-3.
+5 (b) As used in this section, "energy utility" means:
+6 (1) an electric utility listed in 170 IAC 4-7-2(a) and any
+7 successor in interest to that utility; or
+8 (2) a corporation organized under IC 8-1-13.
+9 (c) As used in this section, "large load customer" means a new
+10 or existing customer of an energy utility, or not more than four (4)
+11 multiple new or existing customers of an energy utility, that
+12 requests new or additional electricity demand that in the aggregate
+13 exceeds the lesser of:
+14 (1) five percent (5%) of the energy utility's average peak
+15 demand over the most recent three (3) calendar years; or
+16 (2) one hundred fifty (150) megawatts.
+17 The term includes a data center that meets the demand threshold
+2026 IN 1245—LS 6933/DI 101
+
+2
+1 set forth in this subsection.
+2 (d) The commission shall conduct a study to evaluate the effect
+3 of new and additional electricity demand from data centers and
+4 large load customers on:
+5 (1) the costs incurred by energy utilities to meet that demand;
+6 and
+7 (2) retail electric rates for all customer classes of energy
+8 utilities.
+9 (e) In conducting the study, the commission shall evaluate the
+10 following:
+11 (1) Anticipated costs associated with the deployment of new
+12 transmission and distribution infrastructure needed to serve
+13 data centers and large load customers, considering existing
+14 and planned transmission infrastructure and projected
+15 demand growth.
+16 (2) Potential costs associated with stranded assets that are
+17 constructed or installed for data centers or large load
+18 customers that:
+19 (A) fail to commence commercial operation;
+20 (B) fail to take electric service in the amounts and within
+21 the time frames anticipated;
+22 (C) discontinue electric service provided by an energy
+23 utility; or
+24 (D) cease commercial operation;
+25 including the impact of those costs on an energy utility's
+26 existing and future customers.
+27 (3) The potential for investments made by energy utilities to
+28 meet new and additional electricity demand from data centers
+29 and large load customers to result in cross-class subsidies that
+30 increase retail electric rates for residential customers and
+31 other commercial or industrial customers.
+32 (4) The potential for:
+33 (A) more efficient uses of existing electric infrastructure,
+34 such as the use of:
+35 (i) advanced transmission technologies; or
+36 (ii) surplus interconnection service; and
+37 (B) the sharing of fixed energy costs across a larger overall
+38 demand;
+39 to lower costs for all customers of energy utilities.
+40 (5) Any other data, forecasts, or information that the
+41 commission determines will assist policymakers, energy
+42 utilities, customers, and other stakeholders in understanding
+2026 IN 1245—LS 6933/DI 101
+
+3
+1 the effect of new and additional electricity demand from data
+2 centers and large load customers on:
+3 (A) the costs incurred by energy utilities; and
+4 (B) electric rates for customers.
+5 (f) In conducting the study required by this section, the
+6 commission may consult with or invite comments from:
+7 (1) electric utilities;
+8 (2) the office of utility consumer counselor;
+9 (3) associations or organizations representing utility
+10 ratepayers;
+11 (4) regional transmission organizations;
+12 (5) state and local economic development agencies or
+13 organizations; and
+14 (6) other stakeholders.
+15 The commission may incorporate any information or comments
+16 received under this subsection in its report under subsection (g).
+17 (g) The commission shall include in the annual report that the
+18 commission is required to submit under IC 8-1-1-14 before
+19 October 1, 2026, a report that includes the commission's findings
+20 with respect to the topics outlined in subsection (e).
+21 SECTION 2. An emergency is declared for this act.
+2026 IN 1245—LS 6933/DI 101
