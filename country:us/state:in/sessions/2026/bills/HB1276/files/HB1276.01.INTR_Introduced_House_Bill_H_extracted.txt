@@ -1,0 +1,543 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1276
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1-40.3.
+Synopsis: Competitive electric generation service. Provides that
+beginning: (1) July 1, 2028, for industrial customers; (2) January 1,
+2029, for commercial customers; and (3) July 1, 2029, for residential
+customers; a customer of an electricity supplier may elect to receive
+competitive electric generation service directly from a retail electric
+provider. Requires an electricity supplier to do the following not later
+than June 30, 2028: (1) Unbundle the cost components of: (A) electric
+generation services; and (B) electric transmission and distribution
+services; in the electricity supplier's tariffs for all customer classes. (2)
+Functionally separate all: (A) electric generation and supply services;
+and (B) transmission and distribution services; within the electricity
+supplier's operations. (3) Divest the electricity supplier's generation
+assets not otherwise needed to provide default electric generation
+service to customers within the electricity supplier's service area after
+the implementation of competitive electric generation service. Provides
+that, except for the licensing requirements for retail electric providers
+set forth in the bill, competitive electric generation service is not
+subject to regulation by the Indiana utility regulatory commission
+(IURC). Provides that the IURC shall continue to regulate: (1) default
+electric generation service; and (2) transmission and distribution
+service; provided by an electricity supplier to customers within the
+electricity supplier's service area. Provides that rates charged by
+electricity suppliers for default electric generation service must be: (1)
+based on market prices; and (2) subject to annual comparisons to
+regional averages for comparable service. Provides that not later than
+January 1, 2027, the IURC shall initiate a stakeholder proceeding to
+(Continued next page)
+Effective: July 1, 2026.
+Ledbetter
+January 6, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+2026 IN 1276—LS 6905/DI 101
+
+Digest Continued
+develop a customer education program to ensure that all retail electric
+customers have access to accurate information about the availability of,
+and options for, competitive electric generation service in advance of
+the applicable dates set forth in the bill by which competitive electric
+generation service must be available to specified customer classes.
+Requires the IURC to establish, not later than March 1, 2028, an online
+portal that enables customers to compare competitive electric
+generation service offered by retail electric providers. Requires the
+IURC to establish by rule requirements for an electricity supplier to
+provide to a retail electric provider historical usage data for a customer
+that seeks to receive competitive electric generation service from the
+retail electric provider. Sets forth: (1) specified billing arrangements
+that must be offered to customers receiving competitive electric
+generation service; and (2) the dates by which each arrangement must
+be made available. Requires the IURC to issue a general administrative
+order to ensure that the following are available to customers not later
+than December 31, 2029: (1) An expedited process for residential
+customers to change retail electric providers. (2) A process that allows:
+(A) residential customers; or (B) small commercial or industrial
+customers; that move from one service location to another within their
+electricity supplier's service area to have their competitive electric
+generation service transferred directly to the new location. Requires the
+IURC to establish by rule a licensing process for retail electric
+providers that seek to provide competitive electric generation service
+to customers in Indiana. Sets forth certain requirements that a retail
+electric provider must meet as a condition of receiving and maintaining
+a license. Authorizes the IURC to initiate an investigation to consider,
+and establish guidelines for, the offering by retail electric providers of
+additional services or programs in conjunction with the provision of
+competitive electric generation service. Beginning in 2029, requires the
+IURC to include each year in its annual report specified information
+concerning the provision of competitive electric generation service by
+retail electric providers. Requires the legislative services agency to
+prepare legislation for introduction in the 2028 regular session of the
+general assembly to make conforming amendments to: (1) Title 8 of the
+Indiana Code; and (2) other provisions outside of Title 8 of the Indiana
+Code; as necessary to implement the bill's provisions.
+22002266 IINN 11227766——LLSS 66990055//DDII 110011
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1276
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-40.3 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]:
+4 Chapter 40.3. Competitive Electric Generation Service
+5 Sec. 1. As used in this chapter, "affiliate" means a person that
+6 directly, or indirectly through one (1) or more intermediaries,
+7 controls, is controlled by, or is under common control with, a
+8 specified person. The term includes a parent company or a
+9 subsidiary.
+10 Sec. 2. As used in this chapter, "commission" refers to the
+11 Indiana utility regulatory commission created by IC 8-1-1-2.
+12 Sec. 3. (a) As used in this chapter, "competitive electric
+13 generation service" means the generation or procurement of
+14 electricity for sale to end use customers by a retail electric
+15 provider.
+2026 IN 1276—LS 6905/DI 101
+
+2
+1 (b) The term does not include transmission and distribution
+2 service.
+3 Sec. 4. As used in this chapter, "default electric generation
+4 service" means electric generation service provided by an
+5 electricity supplier as a last resort to a customer that:
+6 (1) receives electric utility service at a location within the
+7 electricity supplier's assigned service area under IC 8-1-2.3;
+8 and
+9 (2) does not receive competitive electric generation service.
+10 Sec. 5. As used in this chapter, "electricity supplier" means any
+11 of the following that is under the jurisdiction of the commission for
+12 the approval of rates and charges and that has an assigned service
+13 area under IC 8-1-2.3:
+14 (1) A public utility (as defined in IC 8-1-2-1(a)).
+15 (2) A municipally owned utility (as defined in IC 8-1-2-1(h)).
+16 (3) A corporation organized under IC 8-1-13.
+17 (4) A corporation organized under IC 23-17 that is an electric
+18 cooperative and that has at least one (1) member that is a
+19 corporation organized under IC 8-1-13.
+20 Sec. 6. As used in this chapter, "retail electric provider" means
+21 a person that is licensed by the commission under this chapter to
+22 provide competitive electric generation service.
+23 Sec. 7. As used in this chapter, "transmission and distribution
+24 service" means the delivery of electricity to a customer's service
+25 location by an electricity supplier over the electricity supplier's
+26 transmission and distribution systems.
+27 Sec. 8. As used in this chapter, "unbundle" means to separate
+28 the cost components of:
+29 (1) electric generation services; and
+30 (2) electric transmission and distribution services;
+31 in an electricity supplier's tariffs.
+32 Sec. 9. Not later than June 30, 2028, an electricity supplier shall
+33 do the following:
+34 (1) Unbundle the electricity supplier's tariffs for all customer
+35 classes.
+36 (2) Take appropriate internal measures to functionally
+37 separate all:
+38 (A) electric generation and supply services; and
+39 (B) transmission and distribution services;
+40 within the electricity supplier's operations.
+41 (3) Divest the electricity supplier's generation assets not
+42 otherwise needed to provide default electric generation
+2026 IN 1276—LS 6905/DI 101
+
+3
+1 service to customers within the electricity supplier's assigned
+2 service area under IC 8-1-2.3 after the implementation of
+3 competitive electric generation service under section 10 of this
+4 chapter. The electricity supplier may divest such generation
+5 assets through either or both of the following methods, at the
+6 discretion of the electricity supplier and subject to the
+7 approval of the commission:
+8 (A) Selling one (1) or more generation assets to one (1) or
+9 more unaffiliated persons at fair market value.
+10 (B) Transferring one (1) or more generation assets to one
+11 (1) or more nonutility affiliates at fair market value.
+12 Sec. 10. (a) Beginning:
+13 (1) July 1, 2028, for industrial customers;
+14 (2) January 1, 2029, for commercial customers; and
+15 (3) July 1, 2029, for residential customers;
+16 a customer of an electricity supplier may elect to receive
+17 competitive electric generation service directly from a retail
+18 electric provider, as set forth in this chapter and in rules adopted
+19 by the commission under section 18 of this chapter.
+20 (b) Except for the licensing requirements for retail electric
+21 providers established by the commission under section 15 of this
+22 chapter, competitive electric generation service is not subject to
+23 regulation by the commission. However, the commission shall
+24 continue to regulate:
+25 (1) default electric generation service; and
+26 (2) transmission and distribution service;
+27 provided by an electricity supplier to customers within the
+28 electricity supplier's assigned service area under IC 8-1-2.3.
+29 (c) Notwithstanding any other law, rates charged by electricity
+30 suppliers for default electric generation service must be:
+31 (1) based on market prices; and
+32 (2) subject to annual comparisons to regional averages for
+33 comparable service.
+34 Sec. 11. (a) Not later than January 1, 2027, the commission shall
+35 initiate a stakeholder proceeding to develop a customer education
+36 program to ensure that all retail electric customers of electricity
+37 suppliers have access to accurate information about the availability
+38 of, and options for, competitive electric generation service in
+39 advance of the applicable dates set forth in section 10(a) of this
+40 chapter for the specified customer classes. In conducting the
+41 proceeding required by this subsection, the commission shall
+42 consult with and invite comments from:
+2026 IN 1276—LS 6905/DI 101
+
+4
+1 (1) electricity suppliers;
+2 (2) retail electric providers offering competitive electric
+3 generation service in other states;
+4 (3) the office of the utility consumer counselor;
+5 (4) associations or organizations representing utility
+6 ratepayers;
+7 (5) regional transmission organizations;
+8 (6) utility regulatory commissions in other states that have
+9 implemented competitive electric generation service;
+10 (7) utility market analysts or other experts; and
+11 (8) other interested stakeholders.
+12 The proceeding shall explore the information necessary to enable
+13 customers to make informed decisions with respect to competitive
+14 electric generation service, along with the most effective means of
+15 communicating, updating, and making such information easily
+16 accessible to customers. In addition, the commission shall consult
+17 with participating stakeholders in the development of the online
+18 portal required under subsection (b).
+19 (b) Not later than March 1, 2028, the commission shall establish
+20 an online portal that enables customers of an electricity supplier to
+21 compare competitive electric generation service offered by retail
+22 electric providers within the electricity supplier's assigned service
+23 area under IC 8-1-2.3, including information concerning a retail
+24 electric provider's:
+25 (1) contract terms;
+26 (2) rates, including any time-varying price structures or rates,
+27 such as time-of-use or off-peak pricing, critical peak pricing,
+28 variable peak pricing, and real-time pricing offered by the
+29 retail electric provider; and
+30 (3) generation sources used to generate the electricity supplied
+31 by the retail electric provider, regardless of whether the
+32 electricity is self-generated by the retail electric provider or
+33 procured through power purchase agreements.
+34 (c) The commission shall update the information on the portal
+35 established under subsection (b) as it approves new licenses for
+36 retail electric providers under section 15 of this chapter and upon
+37 receiving notice under section 15(5) of this chapter from a licensed
+38 retail electric provider concerning any of the following:
+39 (1) An increase in the rates and charges for, or a change in the
+40 terms and conditions of, any competitive electric generation
+41 service that the retail electric provider offers in any service
+42 area in Indiana.
+2026 IN 1276—LS 6905/DI 101
+
+5
+1 (2) Any new competitive electric generation service to be
+2 offered by the licensed retail electric provider in any service
+3 area in Indiana.
+4 (3) The cessation of any competitive electric generation
+5 service that the retail electric provider offers in any service
+6 area in Indiana.
+7 Sec. 12. (a) An electricity supplier shall continue to provide
+8 metering services for a customer that elects to receive competitive
+9 electric generation service from a retail electric provider. The
+10 commission shall establish, in rules adopted under section 18 of this
+11 chapter, requirements for an electricity supplier to provide to a
+12 retail electric provider historical usage data for a customer that
+13 seeks to receive competitive electric generation service from the
+14 retail electric provider. The commission's rules must provide for
+15 the following:
+16 (1) Historical usage data for the customer must include:
+17 (A) at least twenty-four (24) months of customer usage or
+18 metering data; and
+19 (B) other customer information necessary to facilitate
+20 electric generation service transactions, including
+21 customer class details such as capacity and transmission
+22 allocations and loss factors.
+23 If the customer has received electric generation service from
+24 the electricity supplier for less than twenty-four (24) months,
+25 the electricity supplier shall provide customer usage or
+26 metering data for the length of time the customer has received
+27 electric generation service from the electricity supplier.
+28 (2) Historical usage data must include both:
+29 (A) monthly usage totals; and
+30 (B) hourly interval usage data, to the extent available;
+31 delineated in terms of both kilowatt hour energy consumed
+32 and kilowatt demand.
+33 (3) For the duration of the time that a customer receives
+34 competitive electric generation service from a retail electric
+35 provider, the electricity supplier shall make available to the
+36 retail electric provider such customer usage data as is
+37 necessary to facilitate invoicing by the retail electric provider
+38 in a timely manner.
+39 (b) The requirements established by the commission under
+40 subsection (a) must include a process by which a retail electric
+41 provider may confirm and document a customer's consent to
+42 release to the retail electric provider the customer usage data
+2026 IN 1276—LS 6905/DI 101
+
+6
+1 described in subsection (a). The requirements must provide that an
+2 electronic signature or another similar technology may be used in
+3 confirming a customer's consent.
+4 Sec. 13. (a) Subject to subsection (b), a customer of an electricity
+5 supplier that receives competitive electric generation service from
+6 a retail electric provider may elect to be billed through one (1) of
+7 the following methods:
+8 (1) A consolidated periodic bill that is provided by the
+9 electricity supplier and that delineates as separate line items:
+10 (A) charges for transmission and distribution service
+11 provided by the electricity supplier; and
+12 (B) charges for competitive electric generation service
+13 provided by the retail electric provider.
+14 (2) A consolidated periodic bill that is provided by the retail
+15 electric provider and that delineates as separate line items:
+16 (A) charges for competitive electric generation service
+17 provided by the retail electric provider; and
+18 (B) charges for transmission and distribution service
+19 provided by the electricity supplier.
+20 (3) A dual billing arrangement in which the customer receives
+21 for the applicable billing cycle:
+22 (A) a bill from the retail electric provider for competitive
+23 electric generation service provided by the retail electric
+24 provider; and
+25 (B) a bill from the electricity supplier for transmission and
+26 distribution service provided by the electricity supplier.
+27 (b) The commission shall issue a general administrative order to
+28 establish procedures to be followed by electricity suppliers and
+29 retail electric providers so as to ensure that:
+30 (1) a dual billing arrangement described in subsection (a)(3)
+31 is available to customers not later than June 30, 2028; and
+32 (2) the consolidated billing arrangements described in
+33 subsection (a)(1) and (a)(2) are available to customers not
+34 later than June 30, 2029.
+35 Sec. 14. The commission shall issue a general administrative
+36 order establishing procedures to ensure that the following
+37 processes are implemented and available to customers not later
+38 than December 31, 2029:
+39 (1) An expedited retail electric provider change process that
+40 enables residential customers to switch retail electric
+41 providers within three (3) business days of receiving
+42 confirmation of approved enrollment from the new retail
+2026 IN 1276—LS 6905/DI 101
+
+7
+1 electric provider.
+2 (2) A process that allows:
+3 (A) residential customers; or
+4 (B) small commercial or industrial customers;
+5 that move from one (1) service location to another within their
+6 electricity supplier's assigned service area under IC 8-1-2.3 to
+7 have their competitive electric generation service transferred
+8 directly to the new location without being required to switch
+9 to default electric generation service provided by the
+10 electricity supplier.
+11 Sec. 15. The commission shall establish, in rules adopted under
+12 section 18 of this chapter, a licensing process for retail electric
+13 providers that seek to provide competitive electric generation
+14 service to customers of electricity suppliers in Indiana. The
+15 commission's rules establishing a licensing process must provide
+16 for the following:
+17 (1) Before issuing a retail electric provider a license to provide
+18 competitive electric generation service, the commission must
+19 find that the retail electric provider has the financial,
+20 managerial, and technical ability necessary to provide
+21 adequate competitive electric generation service to customers
+22 of an electricity supplier.
+23 (2) As a condition of receiving and maintaining a license, a
+24 retail electric provider must do the following:
+25 (A) Pay to the commission an initial licensing fee of ten
+26 thousand dollars ($10,000).
+27 (B) Execute and maintain a surety bond, or an equivalent
+28 financial security instrument, that is:
+29 (i) issued by a qualified surety, insurance company, or
+30 other financial institution authorized to do business in
+31 Indiana;
+32 (ii) in the amount of not less than five hundred thousand
+33 dollars ($500,000); and
+34 (iii) paid by the retail electric provider.
+35 The required surety bond or other financial security
+36 instrument shall be conditioned upon the retail electric
+37 provider's full and faithful performance of all duties and
+38 obligations with respect to the provision of competitive
+39 electric generation service in Indiana. In submitting an
+40 application for a license to the commission, the retail
+41 electric provider shall include a copy of the required surety
+42 bond or other financial security instrument, including a
+2026 IN 1276—LS 6905/DI 101
+
+8
+1 notarized verification from the issuer.
+2 (C) Provide competitive electric generation service to a
+3 customer in accordance with a written contract,
+4 agreement, or arrangement executed by the retail electric
+5 provider and the customer.
+6 (D) Pay all applicable state taxes.
+7 (E) Demonstrate the implementation of cybersecurity
+8 protocols consistent with industry standards.
+9 (F) Complete a commission approved training and
+10 certification program in which a designated representative
+11 of the retail electric provider must:
+12 (i) complete an online course concerning the
+13 commission's rules with respect to the sale and provision
+14 of competitive electric generation service, including
+15 applicable consumer protections; and
+16 (ii) achieve a passing score on an online examination at
+17 the conclusion of the course.
+18 A designated representative of the retail electric provider
+19 must complete the training and certification described in
+20 this clause as a condition of initial licensure under this
+21 section and as a condition of maintaining licensure
+22 according to a schedule prescribed by the commission.
+23 (3) The commission must issue an order approving or denying
+24 a retail electric provider's application for a license not later
+25 than ninety (90) days after the filing date of the application.
+26 If the commission denies the application, the retail electric
+27 provider may resubmit the application without prejudice
+28 after curing any defects in the application identified by the
+29 commission.
+30 (4) A license issued under this section must be renewed every
+31 two (2) years according to a schedule prescribed by the
+32 commission. The commission may prescribe a license renewal
+33 fee of not more than ten thousand dollars ($10,000).
+34 (5) A licensed retail electric provider shall provide advance
+35 notice to the commission and to the retail electric provider's
+36 Indiana customers if the retail electric provider will do any of
+37 the following:
+38 (A) Increase the rates and charges for, or change the terms
+39 and conditions of, any competitive electric generation
+40 service that the retail electric provider offers in any service
+41 area in Indiana.
+42 (B) Offer new competitive electric generation service in
+2026 IN 1276—LS 6905/DI 101
+
+9
+1 any service area in Indiana.
+2 (C) Cease to offer any competitive electric generation
+3 service that the retail electric provider offers in any service
+4 area in Indiana.
+5 The commission shall prescribe the timing and form of the
+6 notice required under this subdivision. The commission shall
+7 update the information on the online portal established under
+8 section 11(b) of this chapter to reflect the changes set forth in
+9 a notice provided under this subdivision.
+10 (6) A licensed retail electric provider is subject to an annual
+11 compliance and financial audit, according to a schedule
+12 prescribed by the commission, to be performed by one (1) or
+13 more independent auditors approved by the commission. The
+14 audit must include an examination of the retail electric
+15 provider's:
+16 (A) financial stability;
+17 (B) compliance history;
+18 (C) cybersecurity protocols; and
+19 (D) market practices.
+20 The cost of the audit shall be paid by the retail electric
+21 provider.
+22 (7) Upon the completion of an audit under subdivision (6), the
+23 commission may do one (1) or more of the following:
+24 (A) Direct the retail electric provider to take such actions
+25 as the commission determines necessary to correct or cure
+26 any acts or practices examined as part of the audit and
+27 found to be in violation of any provisions of state law or
+28 the commission's rules and orders.
+29 (B) Refer any suspected market manipulation,
+30 anticompetitive or discriminatory practices, or unlawful
+31 exercise of market power to the attorney general for
+32 investigation.
+33 (C) Refer any suspected criminal activities uncovered
+34 during the audit to an appropriate law enforcement agency
+35 or prosecutorial agency or official.
+36 (8) The commission may:
+37 (A) revoke or suspend a license issued under this section;
+38 or
+39 (B) place a licensed retail electric provider on
+40 probationary status, which may include:
+41 (i) enhanced oversight;
+42 (ii) additional reporting requirements; or
+2026 IN 1276—LS 6905/DI 101
+
+10
+1 (iii) submission to the commission of a plan for
+2 corrective action;
+3 for cause, including any violation of this chapter or rules
+4 adopted by the commission under section 18 of this chapter.
+5 Sec. 16. The commission may initiate an investigation to
+6 consider, and establish guidelines for, the offering by retail electric
+7 providers of additional services or programs in conjunction with
+8 the provision of competitive electric generation service, such as:
+9 (1) demand response programs;
+10 (2) net metering programs;
+11 (3) community solar programs;
+12 (4) municipal aggregation programs;
+13 (5) customer referral incentives; or
+14 (6) other services, programs, or customer offerings.
+15 Sec. 17. Beginning in 2029, the commission shall include in the
+16 annual report that the commission is required to submit under
+17 IC 8-1-1-14 before October 1 of each year the following
+18 information as of the last day of the most recently concluded state
+19 fiscal year:
+20 (1) The total number of licensed retail electric providers
+21 offering competitive electric generation service in Indiana.
+22 (2) The total number of licensed retail electric providers
+23 offering competitive electric generation service in each
+24 electricity supplier's assigned service area under IC 8-1-2.3.
+25 (3) For each electricity supplier:
+26 (A) the total number of customers, broken down by
+27 customer class, receiving competitive electric generation
+28 service from a licensed retail electric provider; and
+29 (B) the total load in megawatt hours associated with those
+30 customers.
+31 (4) The total amount of licensing fees collected from licensed
+32 retail electric providers during the most recently concluded
+33 state fiscal year.
+34 (5) Any compliance or enforcement actions that were:
+35 (A) initiated;
+36 (B) pending; or
+37 (C) closed;
+38 with respect to retail electric providers during the most
+39 recently concluded state fiscal year, including a description of
+40 the resolution of any actions that were closed.
+41 (6) The costs incurred by the commission in administering this
+42 chapter during the most recently concluded state fiscal year.
+2026 IN 1276—LS 6905/DI 101
+
+11
+1 (7) An analysis of the state of the retail electric service market
+2 in Indiana and regionally.
+3 (8) Any other quantitative or qualitative information that the
+4 commission considers relevant for members of:
+5 (A) the interim study committee on energy, utilities, and
+6 telecommunications established by IC 2-5-1.3-4(8); and
+7 (B) the general assembly;
+8 to consider in evaluating competitive electric generation
+9 service under this chapter.
+10 Sec. 18. The commission shall adopt rules under IC 4-22-2 to
+11 implement this chapter.
+12 SECTION 2. [EFFECTIVE JULY 1, 2026] (a) The legislative
+13 services agency shall prepare legislation for introduction in the
+14 2028 regular session of the general assembly to make conforming
+15 amendments to:
+16 (1) Title 8 of the Indiana Code; and
+17 (2) other provisions outside Title 8 of the Indiana Code;
+18 as necessary to implement IC 8-1-40.3, as added by this act.
+19 (b) This SECTION expires January 1, 2030.
+2026 IN 1276—LS 6905/DI 101

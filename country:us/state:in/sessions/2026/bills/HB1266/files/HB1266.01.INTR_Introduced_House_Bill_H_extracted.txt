@@ -1,0 +1,2419 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1266
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 10-21-1-1; IC 20-19-3; IC 20-20; IC 20-28;
+IC 20-30-7-1; IC 20-31-4.1-4; IC 20-32; IC 20-36-3; IC 20-38-4;
+IC 20-43; IC 20-46-9-22; IC 20-51-4-5.5; IC 20-51.4-4.5-6.5; IC 21-18;
+IC 21-18.5-5-2; IC 34-30-2.1-287.2.
+Synopsis: Department of education and education matters. Makes
+various changes to education provisions concerning the following: (1)
+Schools eligible for grants from the Indiana secured school fund,
+teacher appreciation grants, grants under the robotics competition
+program, and funding for certain advanced placement examinations. (2)
+Creating and updating a list of employers that have agreed to provide
+career support for or interview Indiana residents who graduate with an
+Indiana diploma with an employment honors plus seal. (3) Creating a
+teaching and learning framework for the implementation of
+mathematics academic standards. (4) Development of a data science
+math pathway. (5) Establishing a process and strategies to support
+academic and fiscally underperforming schools, development of a plan
+to intervene, and submission of the process and plan to the general
+assembly. (6) Evaluating, approving, and publishing high quality
+curricular materials time lines. (7) Local board membership for a local
+centralized school facilities board and local student transportation
+board. (8) Salary differentiation regarding teachers who possess a
+(Continued next page)
+Effective: Upon passage; July 1, 2026.
+Behning, McGuire
+January 6, 2026, read first time and referred to Committee on Education.
+2026 IN 1266—LS 6953/DI 110
+
+Digest Continued
+literacy endorsement. (9) Amounts expended in participating in an
+interlocal cooperative included in determining amounts school
+corporations expend on full-time teacher salaries for purposes of
+teacher salary minimum funding requirements. (10) Summer school
+program and reimbursement administration. (11) Criteria required for
+eligibility of a waiver for conducting four day school weeks. (12)
+Oversight of career and technical education program designation. (13)
+Uses of teacher appreciation grants. (14) The calculation of school
+safety referendum distributions to charter schools with regard to virtual
+instruction. (15) Petitions regarding reconsidering payments of choice
+scholarships. (16) Eligibility for teacher appreciation grants by the
+department of correction. (17) Membership of the board for proprietary
+education. (18) The effective date regarding the changes to the
+definition of "eligible choice scholarship student". Provides that an
+emergency permit may be granted up to two times to an individual
+enrolled in an alternative teacher certification program if the program
+provides documentation verifying the individual's good standing in the
+program to the department of education. Creates a new qualification
+option for a transition to teaching program participant who seeks to
+obtain a license to teach in grades 5 through 12. Joins the interstate
+teacher mobility compact. Provides that: (1) state accredited nonpublic
+schools; and (2) nonpublic schools that are accredited by a national or
+regional accreditation agency that is recognized by the state board of
+education; are eligible to participate in the teacher residency grant pilot
+program. Removes a provision that provides that the department may
+not release less than 10 items per subject matter level per grade level
+regarding the statewide summative assessment. Removes a requirement
+that for a parent or student to use a career scholarship account (CSA)
+annual grant amount for costs related to transportation a CSA
+participating entity must pay a matching amount for the transportation
+costs. Repeals the chapter concerning the commission for higher
+education and postsecondary career and technical education.
+22002266 IINN 11226666——LLSS 66995533//DDII 111100
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1266
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 10-21-1-1, AS AMENDED BY P.L.150-2023,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 1. The following definitions apply throughout this
+4 chapter:
+5 (1) "Accredited nonpublic school" means a nonpublic school that:
+6 (A) has voluntarily become accredited under IC 20-31-4.1; or
+7 (B) is accredited by a national or regional accrediting agency
+8 that is recognized by the state board of education.
+9 (2) "Active event warning system" refers to a system that includes
+10 services and technology that will notify available law enforcement
+11 agencies in the area of a school building of a life threatening
+12 emergency.
+13 (3) "ADM" refers to average daily membership determined under
+14 IC 20-43-4-2. In the case of a school corporation career and
+15 technical education school described in IC 20-37-1-1, "ADM"
+2026 IN 1266—LS 6953/DI 110
+
+2
+1 refers to the count on a full-time equivalency basis of students
+2 attending the school on the date ADM is determined under
+3 IC 20-43-4-2.
+4 (4) "Board" refers to the secured school safety board established
+5 by section 3 of this chapter.
+6 (5) "Bullying prevention program" refers to a program that must
+7 contain one (1) or more of the following components:
+8 (A) Offers students and school personnel opportunities to
+9 develop the skills and strategies to prevent bullying and
+10 potential bullying situations in digital and physical spaces,
+11 including the usage of research based models.
+12 (B) Enables school personnel, including school safety
+13 specialists, safe school committee members, and school
+14 resource officers, to identify and acquire the programs,
+15 technology software, resources, and training necessary
+16 concerning the:
+17 (i) development and implementation of bullying and
+18 cyberbullying prevention programs and school violence,
+19 human trafficking, and self-harm mitigation programs;
+20 (ii) establishment of bullying and cyberbullying
+21 investigation, intervention, and reporting procedures;
+22 (iii) adoption of discipline rules that comply with
+23 IC 20-33-8-13.5; and
+24 (iv) integration of the program into wider school efforts,
+25 including a school safety plan, to promote educational
+26 progress and the physical safety and well-being of school
+27 students, families, faculty, and staff.
+28 (6) "County school safety commission" has the meaning set forth
+29 in section 12 of this chapter.
+30 (7) "Critical incidence digital mapping" means the digitized
+31 mapping of a school building and school grounds to best assist
+32 first responders in an emergency that must:
+33 (A) include accurate floor plans overlaid on or current aerial
+34 imagery of a school building or school plan with surrounding
+35 school grounds;
+36 (B) include site-specific labeling that matches:
+37 (i) the structure of the school building, including room
+38 labels, hallway names, room numbers, external doors,
+39 interior doors, stairwell numbers, locations of hazardous
+40 materials, key utility locations, key boxes, automated
+41 external defibrillators, and trauma kits; and
+42 (ii) the school grounds, including parking areas, athletic
+2026 IN 1266—LS 6953/DI 110
+
+3
+1 fields, surrounding roads, and neighboring proprieties;
+2 (C) be compatible with platforms and applications used by
+3 local, state, and federal public safety agencies;
+4 (D) be verified for accuracy through a walk through of a
+5 school building and school grounds;
+6 (E) not require the purchase of additional software for use;
+7 (F) be accessible in a printable format;
+8 (G) be shared with:
+9 (i) the law enforcement agency and fire department that
+10 have jurisdiction over the mapped school building; and
+11 (ii) the statewide 911 system as described in
+12 IC 36-8-16.7-22 through the public safety answer point, or
+13 "PSAP", described in IC 36-8-16.7-20 that has jurisdiction
+14 over the mapped school building; and
+15 (H) be kept confidential and withheld from public disclosure.
+16 (8) "Fund" refers to the Indiana secured school fund established
+17 by section 2 of this chapter.
+18 (9) "Law enforcement agency" refers to a state, local, or federal
+19 agency or department that would respond to an emergency event
+20 at a school, including both on duty and off duty officers within the
+21 agency or department.
+22 (10) "Multi-disciplinary threat assessment team" means a group
+23 of individuals with expertise in school physical security, school
+24 administration, educational instruction, youth counseling, mental
+25 health and behavioral health, and law enforcement established by
+26 the leadership of the school corporation or charter school that may
+27 serve one (1) or more schools, that must meet the following
+28 requirements:
+29 (A) Be comprised of at least:
+30 (i) a school safety specialist or an individual designated by
+31 the school safety committee;
+32 (ii) a member of a safe school committee;
+33 (iii) a school building level administrator;
+34 (iv) a school resource officer, if one (1) is either employed
+35 by or assigned to the school corporation or charter school;
+36 (v) an individual with expertise in special education; and
+37 (vi) a school counselor or social worker.
+38 (B) Conduct multi-disciplinary threat assessments that shall:
+39 (i) provide guidance to students, faculty, and staff regarding
+40 the recognition of threatening or aberrant behavior that may
+41 represent a threat to the community, school, or self;
+42 (ii) identify members of the school community to whom
+2026 IN 1266—LS 6953/DI 110
+
+4
+1 threatening behavior should be reported;
+2 (iii) establish procedures to assess, identify, and intervene
+3 with individuals whose behavior may pose a threat to the
+4 safety of school students, families, faculty, and staff; and
+5 (iv) inform the adoption, implementation, and updating of
+6 policies adopted by the school corporation or charter school,
+7 including school safety plans and the policies of a safe
+8 school committee for a particular school.
+9 (11) "Safe school committee" means a safe school committee
+10 established under section 14 of this chapter.
+11 (12) "School corporation or charter school" refers to:
+12 (A) an individual school corporation;
+13 (B) a school corporation career and technical education school
+14 described in IC 20-37-1-1; or
+15 (C) a charter school; but also includes:
+16 (D) a coalition of:
+17 (A) (i) a coalition of school corporations;
+18 (B) (ii) a coalition of charter schools; or
+19 (C) (iii) a coalition of both school corporations and charter
+20 schools;
+21 that intend to jointly employ a school resource officer or to
+22 jointly apply for a matching grant under this chapter, unless
+23 the context clearly indicates otherwise;
+24 (E) the Indiana School for the Blind and Visually Impaired
+25 established by IC 20-21-2-1; or
+26 (F) the Indiana School for the Deaf established by
+27 IC 20-22-2-1.
+28 (13) "School official" refers to an employee of a school
+29 corporation, charter school, or accredited nonpublic school who
+30 has access to an active event warning system.
+31 (14) "School resource officer" has the meaning set forth in
+32 IC 20-26-18.2-1.
+33 (15) "School safety plan" means the school safety plan described
+34 in section 10 of this chapter.
+35 (16) "School safety specialist" means a school safety specialist
+36 designated under section 9 of this chapter.
+37 (17) "Site vulnerability assessment" means an examination of the
+38 physical safety, security, accessibility, and emergency
+39 preparedness of buildings and grounds.
+40 (18) "Student safety management technology" refers to an
+41 information technology platform and related services to improve
+42 student safety by mitigating cyberbullying, school violence,
+2026 IN 1266—LS 6953/DI 110
+
+5
+1 human trafficking, and self-harm.
+2 SECTION 2. IC 20-19-3-41 IS ADDED TO THE INDIANA CODE
+3 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+4 1, 2026]: Sec. 41. The department shall create and update annually
+5 a list of employers that have agreed to provide career support for
+6 or interview Indiana residents who:
+7 (1) graduate with an Indiana diploma established under
+8 IC 20-19-2-21(c); and
+9 (2) meet the diploma designation described in
+10 IC 20-19-2-21(e)(1) and the requirements for the designation
+11 under 511 IAC 6-7.2-21(b)(4).
+12 SECTION 3. IC 20-19-3-42 IS ADDED TO THE INDIANA CODE
+13 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+14 1, 2026]: Sec. 42. (a) Not later than December 1, 2026, the secretary
+15 of education shall develop a data science math pathway that
+16 prepares students for emerging workforce demands.
+17 (b) This section expires July 1, 2027.
+18 SECTION 4. IC 20-19-3-44 IS ADDED TO THE INDIANA CODE
+19 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+20 1, 2026]: Sec. 44. (a) Not later than December 1, 2026, the secretary
+21 of education shall do the following:
+22 (1) Establish a process and strategies to support academically
+23 and fiscally underperforming schools.
+24 (2) Develop a support plan to intervene, as necessary,
+25 regarding schools described in subdivision (1).
+26 (3) Submit a written report regarding the process and plan to
+27 the general assembly in an electronic format under IC 5-14-6.
+28 (b) This section expires July 1, 2027.
+29 SECTION 5. IC 20-20-5.5-2, AS AMENDED BY P.L.199-2025,
+30 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 2. (a) Not later than July 1, 2027, and each July 1
+32 thereafter, The department shall evaluate, approve, and publish a list
+33 of high quality curricular materials for use in the following subjects
+34 and on the following timelines:
+35 (1) Not later than July 1, 2029, and every three (3) years
+36 thereafter, science.
+37 (2) Not later than July 1, 2029, and every three (3) years
+38 thereafter, technology.
+39 (3) Not later than July 1, 2029, and every three (3) years
+40 thereafter, engineering.
+41 (4) Not later than July 1, 2027, and every three (3) years
+42 thereafter, math.
+2026 IN 1266—LS 6953/DI 110
+
+6
+1 (5) Not later than July 1, 2028, and every three (3) years
+2 thereafter, English/language arts.
+3 The department shall post the list approved under this subsection on
+4 the department's website.
+5 (b) Subject to subsection (g), the department shall:
+6 (1) determine the:
+7 (A) process for evaluating and approving curricular materials
+8 under subsection (a); and
+9 (B) requirements for curricular materials to be approved and
+10 included on the list described in subsection (a); and
+11 (2) collaborate with teachers in evaluating and approving high
+12 quality curricular materials in English/language arts under
+13 subsection (a).
+14 (c) The department shall publish an annual a report that describes
+15 the method used to conduct the evaluation required under subsection
+16 (a) and that contains the results of the evaluation. The report must do
+17 the following:
+18 (1) Provide a list of each curricular material evaluated and a
+19 summary of the evaluation for each curricular material.
+20 (2) Provide a listing and summary review for the high quality
+21 curricular materials approved by the department.
+22 (3) Include any clarification or response from the publisher of a
+23 curricular material related to the department's summary review
+24 provided under subdivision (2).
+25 (4) Include the written, exact, and standard statewide price
+26 provided by the publisher of the curricular material under
+27 subsection (e) for each high quality curricular material approved
+28 by the department under this section.
+29 (d) A governing body and superintendent may use the list approved
+30 under subsection (a) in complying with IC 20-26-12-24.
+31 (e) Before the department may approve curricular material for
+32 inclusion on the list under subsection (a), the publisher of the curricular
+33 material must:
+34 (1) provide the department a written, exact, and standard
+35 statewide price for each curricular material; and
+36 (2) enter into a data share agreement with the department in the
+37 manner prescribed by the department.
+38 (f) A publisher may request that an update to the publisher's
+39 curricular materials and corresponding prices replace the information
+40 on the curricular materials set forth in the report under subsection (c).
+41 (g) At a minimum, the process for evaluating curricular materials
+42 and the requirements for curricular materials to be approved and
+2026 IN 1266—LS 6953/DI 110
+
+7
+1 included on the list described in subsection (a) must include the
+2 following:
+3 (1) The availability and use of benchmark, formative, interim, or
+4 similar assessments to identify students that require remediation
+5 and provide individualized instruction.
+6 (2) The incorporation of experiential learning opportunities.
+7 (3) An evaluation of the benchmark, formative, interim, or similar
+8 assessment data provided by the publisher of the curricular
+9 material pursuant to the data share agreement described in
+10 subsection (e).
+11 (4) The alignment of the curricular material to Indiana's academic
+12 standards developed by the department under IC 20-31-3-2.
+13 (5) The age appropriateness of the content.
+14 (h) Not later than July 1, 2024, the department shall conduct a
+15 statewide survey to determine which curricular materials have been
+16 adopted for use in teaching science, technology, engineering, and
+17 mathematics in each state accredited school. Each state accredited
+18 school shall:
+19 (1) participate in the statewide survey conducted under this
+20 subsection; and
+21 (2) provide the information requested by the department as part
+22 of the statewide survey;
+23 in the manner prescribed by the department. This subsection expires
+24 January 1, 2025.
+25 SECTION 6. IC 20-20-5.5-3, AS AMENDED BY THE
+26 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+27 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+28 JULY 1, 2026]: Sec. 3. (a) The secretary of education shall notify the
+29 governing bodies of each school corporation, charter school, and state
+30 accredited nonpublic school immediately of:
+31 (1) the initial publication and annual update on the department's
+32 Internet web site website of the report described in section 2(c)
+33 of this chapter, including the Internet web site website address
+34 where the report is published; and
+35 (2) updates of the following types of information in the report
+36 described in section 2(c) of this chapter:
+37 (A) The addition of materials.
+38 (B) The removal of materials.
+39 (C) Changes in the per unit price of curricular materials that
+40 exceed five percent (5%).
+41 (b) A notification under this section must state that:
+42 (1) the reviews of curricular materials included in the report
+2026 IN 1266—LS 6953/DI 110
+
+8
+1 described in section 2(c) of this chapter are departmental reviews
+2 only; and
+3 (2) each governing body has authority to adopt curricular
+4 materials for a school corporation.
+5 SECTION 7. IC 20-20-45.5-2, AS AMENDED BY P.L.64-2024,
+6 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]: Sec. 2. As used in this chapter, "eligible school"
+8 means: a:
+9 (1) a public school, including a charter school (as defined in
+10 IC 20-24-1-4);
+11 (2) a state accredited nonpublic school; or
+12 (3) a nonpublic school accredited by a national or regional
+13 accreditation agency that is recognized by the state board;
+14 (4) the Indiana School for the Blind and Visually Impaired
+15 established by IC 20-21-2-1; or
+16 (5) the Indiana School for the Deaf established by
+17 IC 20-22-2-1.
+18 SECTION 8. IC 20-20-52-6, AS ADDED BY P.L.232-2025,
+19 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 6. (a) Except as provided under subsection (e), not
+21 later than October 31, 2025, a local centralized school facilities board
+22 is established for participating school corporations and schools.
+23 (b) Each local board must be independent from any school
+24 corporation and school.
+25 (c) The local board consists of seven (7) an odd number of not less
+26 than five (5) members:
+27 (1) who represent a partnering community organization; or
+28 (1) (2) who are:
+29 (A) members or designees of members of the governing
+30 body of a participating school corporation, or the
+31 equivalent for a participating charter school or nonpublic
+32 school; and
+33 (B) proportionately appointed as either representatives of
+34 participating school corporations, charter schools, or
+35 nonpublic schools described in section 3(2) of this chapter
+36 based on:
+37 (A) (i) the total pupil enrollment of the participating school
+38 corporations;
+39 (B) (ii) the total pupil enrollment of participating charter
+40 schools; and
+41 (C) (iii) the total pupil enrollment of participating nonpublic
+42 schools;
+2026 IN 1266—LS 6953/DI 110
+
+9
+1 that are partnering under the pilot program. and
+2 (2) are members of the:
+3 (A) governing body of a participating school corporation;
+4 (B) charter school board of a participating charter school; or
+5 (C) equivalent of a governing body for a participating
+6 nonpublic school;
+7 described in subdivision (1).
+8 (d) Each local board must collaborate with individuals or entities
+9 that have expertise in the following:
+10 (1) Facility management, construction, or real estate.
+11 (2) Public finance or public debt issuance.
+12 (3) Demographic analysis and urban planning.
+13 (4) Organizational effectiveness, operations management, and
+14 implementing best practices.
+15 (5) Government contracts.
+16 (6) Budget development and oversight.
+17 (e) If a school corporation or school, in partnership with other
+18 school corporations, schools, or both other school corporations and
+19 schools, receives approval to participate in the:
+20 (1) pilot program; and
+21 (2) student transportation pilot program under IC 20-20-53;
+22 the school corporation or schools may elect to establish not later than
+23 October 31, 2025, one (1) local centralized school facilities and
+24 transportation board consisting of the members described in subsection
+25 (c) that has the powers and duties and is subject to the requirements of
+26 a local centralized school facilities board under this chapter and local
+27 student transportation board under IC 20-20-53.
+28 SECTION 9. IC 20-20-53-6, AS ADDED BY P.L.232-2025,
+29 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 6. (a) Except as provided under subsection (e), not
+31 later than October 31, 2025, a local student transportation board is
+32 established for participating school corporations and schools.
+33 (b) Each local board must be independent from any school
+34 corporation and school.
+35 (c) The local board consists of seven (7) an odd number of not less
+36 than five (5) members:
+37 (1) who represent a partnering community organization; or
+38 (1) (2) who are:
+39 (A) members or designees of members of the governing
+40 body of a participating school corporation, or the
+41 equivalent for a participating charter school or nonpublic
+42 school; and
+2026 IN 1266—LS 6953/DI 110
+
+10
+1 (B) proportionately appointed as either representatives of
+2 participating school corporations, charter schools, or
+3 nonpublic schools described in section 3(2) of this chapter
+4 based on:
+5 (A) (i) the total pupil enrollment of the participating school
+6 corporations;
+7 (B) (ii) the total pupil enrollment of participating charter
+8 schools; and
+9 (C) (iii) the total pupil enrollment of participating nonpublic
+10 schools;
+11 that are partnering under the pilot program. and
+12 (2) are members of the:
+13 (A) governing body of a participating school corporation;
+14 (B) charter school board of a participating charter school; or
+15 (C) equivalent of a governing body for a participating
+16 nonpublic school;
+17 described in subdivision (1).
+18 (d) Each local board must collaborate with individuals or entities
+19 that have expertise in the following:
+20 (1) Transportation logistics, particularly involving movement of
+21 passengers.
+22 (2) Finance and business.
+23 (3) Organizational effectiveness, operations management, and
+24 implementing best practices.
+25 (4) Government contracts.
+26 (5) Budget development and oversight.
+27 (e) If a school corporation or school, in partnership with other
+28 school corporations, schools, or both other school corporations and
+29 schools, receives approval to participate in the:
+30 (1) pilot program; and
+31 (2) centralized school facilities pilot program under IC 20-20-52;
+32 the school corporation or schools may elect to establish not later than
+33 October 31, 2025, one (1) local centralized school facilities and
+34 transportation board that has the powers and duties and is subject to the
+35 requirements of a local centralized school facilities board under
+36 IC 20-20-52 and local student transportation board under this chapter.
+37 SECTION 10. IC 20-28-4-5, AS AMENDED BY P.L.192-2014,
+38 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 5. An individual who wishes to participate in the
+40 program must have one (1) of the following qualifications:
+41 (1) For a program participant who seeks to obtain a license to
+42 teach in grades 5 through 12, one (1) of the following:
+2026 IN 1266—LS 6953/DI 110
+
+11
+1 (A) A bachelor's degree or the equivalent with a grade point
+2 average of at least three (3.0) on a four (4.0) point scale from
+3 an accredited postsecondary educational institution in the
+4 subject area that the individual intends to teach.
+5 (B) A graduate degree from an accredited postsecondary
+6 educational institution in the subject area or a related field that
+7 the individual intends to teach.
+8 (C) Both:
+9 (i) A bachelor's degree from an accredited postsecondary
+10 educational institution with a grade point average of at least
+11 two and five-tenths (2.5) on a four (4.0) point scale and
+12 either:
+13 (i) eighteen (18) credit hours in the subject area the
+14 individual intends to teach; or
+15 (ii) five (5) years professional experience in the subject or a
+16 related area that the individual intends to teach.
+17 (D) Both:
+18 (i) a bachelor's degree from an accredited postsecondary
+19 educational institution; and
+20 (ii) proof that the individual has passed the state approved
+21 content area examination in the subject area that the
+22 individual intends to teach.
+23 (2) For a program participant who seeks to obtain a license to
+24 teach in kindergarten through grade 6, one (1) of the following:
+25 (A) A bachelor's degree or the equivalent with a grade point
+26 average of at least three (3.0) on a four (4.0) point scale from
+27 an accredited institution of higher education.
+28 (B) Both:
+29 (i) a bachelor's degree from an accredited postsecondary
+30 educational institution with a grade point average of at least
+31 two and five-tenths (2.5) on a four (4.0) point scale; and
+32 (ii) five (5) years professional experience in an education
+33 related field, as determined by the department.
+34 (C) Both:
+35 (i) a bachelor's degree from an accredited postsecondary
+36 educational institution; and
+37 (ii) proof that the individual has passed the state approved
+38 content area examination in the subject area that the
+39 individual intends to teach.
+40 (3) For a program participant who seeks to obtain a license to
+41 teach in prekindergarten through grade 3, one (1) of the
+42 following:
+2026 IN 1266—LS 6953/DI 110
+
+12
+1 (A) A bachelor's degree or the equivalent with a grade point
+2 average of at least three (3.0) on a four (4.0) point scale from
+3 an accredited institution of higher education.
+4 (B) Both:
+5 (i) a bachelor's degree from an accredited postsecondary
+6 educational institution with a grade point average of at least
+7 two and five-tenths (2.5) on a four (4.0) point scale; and
+8 (ii) five (5) years professional experience in an education
+9 related field, as determined by the department.
+10 (C) Both:
+11 (i) a bachelor's degree from an accredited postsecondary
+12 educational institution; and
+13 (ii) proof that the individual has passed the state approved
+14 content area examination in the subject area that the
+15 individual intends to teach.
+16 SECTION 11. IC 20-28-5-30 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2026]: Sec. 30. (a) As used in this section,
+19 "emergency permit" refers to an emergency permit described in
+20 511 IAC 16-4-1 or its successor rule.
+21 (b) An emergency permit may be granted up to two (2) times to
+22 an individual enrolled in an alternative teacher certification
+23 program under section 12.5 of this chapter if the program provides
+24 documentation verifying the individual's good standing in the
+25 program to the department.
+26 SECTION 12. IC 20-28-9-1.5, AS AMENDED BY P.L.214-2025,
+27 SECTION 123, IS AMENDED TO READ AS FOLLOWS
+28 [EFFECTIVE JULY 1, 2026]: Sec. 1.5. (a) This subsection governs
+29 salary increases for a teacher employed by a school corporation.
+30 Compensation attributable to additional degrees or graduate credits
+31 earned before the effective date of a local compensation plan created
+32 under this chapter before July 1, 2015, shall continue for school years
+33 beginning after June 30, 2015. Compensation attributable to additional
+34 degrees for which a teacher has started course work before July 1,
+35 2011, and completed course work before September 2, 2014, shall also
+36 continue for school years beginning after June 30, 2015. For school
+37 years beginning after June 30, 2022, a school corporation may provide
+38 a supplemental payment to a teacher in excess of the salary specified
+39 in the school corporation's compensation plan when doing so is in the
+40 best interest of students. A supplement provided under this subsection
+41 is not subject to collective bargaining and, under IC 20-29-6-3(d), a
+42 school corporation may exclude, for this purpose, a portion of the
+2026 IN 1266—LS 6953/DI 110
+
+13
+1 revenue available for bargaining from education fund revenues
+2 included in IC 20-29-2-6. Such a supplement is in addition to any
+3 increase permitted under subsection (b).
+4 (b) Subject to subsection (e), increases or increments in a local
+5 salary range must be based upon a combination of the following
+6 factors:
+7 (1) A combination of the following factors taken together may
+8 account for not more than fifty percent (50%) of the calculation
+9 used to determine a teacher's increase or increment:
+10 (A) The number of years of a teacher's experience.
+11 (B) The possession of either:
+12 (i) additional content area degrees beyond the requirements
+13 for employment; or
+14 (ii) additional content area degrees and credit hours beyond
+15 the requirements for employment, if required under an
+16 agreement bargained under IC 20-29.
+17 (2) The results of an evaluation conducted under IC 20-28-11.5.
+18 (3) The assignment of instructional leadership roles, including the
+19 responsibility for conducting evaluations under IC 20-28-11.5.
+20 (4) The academic needs of students in the school corporation,
+21 including employment in a high need area such as those identified
+22 under IC 20-29-3-15(b)(27). This factor may not account for less
+23 than ten percent (10%) of the calculation used to determine a
+24 teacher's increase or increment.
+25 (c) To provide greater flexibility and options, a school corporation
+26 may further differentiate the amount of salary increases or increments
+27 determined for teachers. A school corporation shall base a
+28 differentiated amount under this subsection on reasons the school
+29 corporation determines are appropriate, which may include the:
+30 (1) subject or subjects taught by a given teacher;
+31 (2) importance of retaining a given teacher at the school
+32 corporation;
+33 (3) need to attract an individual with specific qualifications to fill
+34 a teaching vacancy; and
+35 (4) offering of a new program or class.
+36 (d) A school corporation may provide differentiated increases or
+37 increments under subsection (b), and in excess of the percentage
+38 specified in subsection (b)(1), in order to:
+39 (1) reduce the gap between the school corporation's minimum
+40 teacher salary and the average of the school corporation's
+41 minimum and maximum teacher salaries; or
+42 (2) allow teachers currently employed by the school corporation
+2026 IN 1266—LS 6953/DI 110
+
+14
+1 to receive a salary adjusted in comparison to starting base salaries
+2 of new teachers.
+3 (e) A school corporation shall differentiate the amount of salary
+4 increases or increments for teachers who possess a required literacy
+5 endorsement under described in IC 20-28-5-19.7.
+6 (f) The Indiana education employment relations board established
+7 in IC 20-29-3-1 shall publish a model compensation plan with a model
+8 salary range that a school corporation may adopt.
+9 (g) Each school corporation shall submit its local compensation plan
+10 to the Indiana education employment relations board. A local
+11 compensation plan must specify the range for teacher salaries. The
+12 Indiana education employment relations board shall publish the local
+13 compensation plans on the Indiana education employment relations
+14 board's website.
+15 (h) The Indiana education employment relations board shall review
+16 a compensation plan for compliance with this section as part of its
+17 review under IC 20-29-6-6.1. The Indiana education employment
+18 relations board has jurisdiction to determine compliance of a
+19 compensation plan submitted under this section.
+20 (i) This chapter may not be construed to require or allow a school
+21 corporation to decrease the salary of any teacher below the salary the
+22 teacher was earning on or before July 1, 2015, if that decrease would
+23 be made solely to conform to the new compensation plan.
+24 (j) After June 30, 2011, all rights, duties, or obligations established
+25 under IC 20-28-9-1 before its repeal are considered rights, duties, or
+26 obligations under this section.
+27 (k) An employment agreement described in IC 20-28-6-7.3 between
+28 an adjunct teacher and a school corporation is not subject to this
+29 section.
+30 SECTION 13. IC 20-28-9-27, AS AMENDED BY P.L.213-2025,
+31 SECTION 171, IS AMENDED TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2026]: Sec. 27. (a) As used in this section,
+33 "funding floor" means the amount a school corporation expended for
+34 full-time teacher salaries during a particular state fiscal year.
+35 (b) Subject to subsections (d) and (e), if the amount of state tuition
+36 support distributed to a school corporation for a particular state fiscal
+37 year is greater than the amount of state tuition support distributed to the
+38 school corporation for the preceding state fiscal year, the school
+39 corporation may not expend an amount for full-time teacher salaries
+40 during the particular state fiscal year that is less than the funding floor
+41 for the preceding state fiscal year.
+42 (c) For purposes of this section, the amount a school corporation
+2026 IN 1266—LS 6953/DI 110
+
+15
+1 expends for full-time teacher salaries shall include the amount the
+2 school corporation expends for participating in:
+3 (1) a special education cooperative; or
+4 (2) a career and technical education cooperative; or
+5 (3) an interlocal cooperative;
+6 that is directly attributable to the salaries of full-time teachers
+7 employed by the cooperative, as determined by the department.
+8 (d) For purposes of this subsection, stipends paid using teacher
+9 appreciation grants under IC 20-43-16 are not considered. If a school
+10 corporation has awarded stipends to a majority of the school
+11 corporation's teachers in each of the two (2) preceding consecutive
+12 state fiscal years, an amount equal to the lesser of the total amount of
+13 stipends awarded in each of those state fiscal years shall be added to
+14 the school corporation's funding floor for the preceding state fiscal year
+15 described under subsection (b).
+16 (e) Beginning after June 30, 2024, for each state fiscal year that a
+17 school corporation fails to meet the expenditure requirements regarding
+18 full-time teacher salaries under subsection (b), the department shall
+19 submit in both a written and an electronic format a notice to the school
+20 corporation's:
+21 (1) superintendent;
+22 (2) school business officer; and
+23 (3) governing body;
+24 that the school corporation failed to meet the requirements set forth in
+25 subsection (b) for the applicable state fiscal year.
+26 (f) If a school corporation's governing body receives a notice from
+27 the department under subsection (e), the school corporation shall do the
+28 following:
+29 (1) Publicly acknowledge receipt of the notice from the
+30 department at the governing body's next public meeting.
+31 (2) Enter into the governing body's official minutes for the
+32 meeting described in subdivision (1) acknowledgment of the
+33 notice.
+34 (3) Not later than thirty (30) days after the meeting described in
+35 subdivision (1), publish on the school corporation's website:
+36 (A) the department's notice; and
+37 (B) any relevant individual reports prepared by the
+38 department.
+39 (g) If the department determines a school corporation that received
+40 one (1) or more notices from the department under subsection (e) has
+41 met the expenditure requirements required under subsection (b) for a
+42 subsequent state fiscal year, the school corporation may remove from
+2026 IN 1266—LS 6953/DI 110
+
+16
+1 the school corporation's website any:
+2 (1) notices the school corporation received under subsection (e);
+3 and
+4 (2) relevant individual reports prepared by the department under
+5 subsection (f)(3).
+6 SECTION 14. IC 20-30-7-1, AS AMENDED BY P.L.201-2025,
+7 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2026]: Sec. 1. (a) Except as provided in subsection (c), the
+9 state board may department shall prescribe a program of summer
+10 school education for public schools. Subject to subsection (b), the state
+11 board shall adopt rules under IC 4-22-2 to the department shall
+12 provide for:
+13 (1) summer school programs guidelines; and
+14 (2) the state distribution formula for any money appropriated by
+15 the general assembly for summer school education to allow for
+16 funding for approved summer school programs on a per student
+17 basis, which may include differentiated funding based on the
+18 course the student is enrolled in and the length of time of the
+19 summer school program.
+20 (b) The state board department shall give priority reimbursement
+21 for summer school courses that include curriculum aligned with the
+22 science of reading designated by the department to support students in:
+23 (1) grade 2 who are at risk of not being reading proficient; and
+24 (2) grade 3 who are not reading proficient;
+25 as indicated on the determinant evaluation of reading skills approved
+26 by the state board under IC 20-32-8.5-2.
+27 (c) A state accredited nonpublic school and an eligible school (as
+28 defined in IC 20-51-1-4.7) shall be eligible for summer school funding
+29 for courses that include curriculum aligned with the science of reading
+30 designated by the department to support students in:
+31 (1) grade 2 who are at risk of not being reading proficient; and
+32 (2) grade 3 who are not reading proficient;
+33 as indicated on the determinant evaluation of reading skills approved
+34 by the state board under IC 20-32-8.5-2.
+35 SECTION 15. IC 20-31-4.1-4, AS AMENDED BY P.L.11-2023,
+36 SECTION 66, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 4. (a) Subject to subsection (b) and section 7 of
+38 this chapter, a school or group of schools accredited under this chapter
+39 may submit an application to the state board, in a manner prescribed by
+40 the state board, requesting flexibility and to waive compliance with any
+41 provision in this title or 511 IAC in order to do one (1) or more of the
+42 following:
+2026 IN 1266—LS 6953/DI 110
+
+17
+1 (1) Improve student performance and outcomes.
+2 (2) Offer the applicant flexibility in the administration of
+3 educational programs or improve the efficiency of school
+4 operations.
+5 (3) Promote innovative educational approaches to student
+6 learning.
+7 (4) Advance the mission or purpose of the school or group of
+8 schools.
+9 (b) The application submitted under subsection (a) must include the
+10 following:
+11 (1) A list of the one (1) or more provisions in this title, 511 IAC,
+12 or this title and 511 IAC that the school or group of schools is
+13 requesting that the state board waive.
+14 (2) The following information:
+15 (A) The specific goal or outcome or goals or outcomes that the
+16 school or group of schools intends to achieve by waiving the
+17 provisions described in subdivision (1).
+18 (B) How the specific goals or outcomes described in clause
+19 (A) are likely to be achieved by waiving compliance with the
+20 provisions described in subdivision (1).
+21 (3) For an application submitted by:
+22 (A) the governing body of a school corporation, a copy of the
+23 resolution adopted by the governing body approving the
+24 submission of the application;
+25 (B) a charter school, written authorization by the charter
+26 school organizer approving the submission of the application;
+27 or
+28 (C) a nonpublic school, written authorization by the person or
+29 agency in active charge and management of the nonpublic
+30 school approving the submission of the application.
+31 (c) To be eligible to waive IC 20-30-2-3 for the purposes of
+32 conducting a four (4) day school week at a school, a school must
+33 meet the following requirements:
+34 (1) Provide transportation to a school that conducts a five (5)
+35 day school week that serves the same grade level for any
+36 student who would otherwise be assigned to a school that
+37 conducts a four (4) day school week.
+38 (2) Be placed in the highest performance and improvement
+39 category or designation by the department under IC 20-31-8.
+40 (3) Meet the minimum teacher salary threshold under
+41 IC 20-28-9-26.
+42 (4) Provide enrichment and remediation opportunities on the
+2026 IN 1266—LS 6953/DI 110
+
+18
+1 day that a regular school day is not conducted.
+2 SECTION 16. IC 20-32-5.1-13, AS AMENDED BY P.L.150-2024,
+3 SECTION 51, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+4 JULY 1, 2026]: Sec. 13. (a) The proficiency of students under a
+5 statewide summative assessment must be reported to the state board
+6 not later than
+7 (1) for the 2018-2019 school year, August 15, 2019; and
+8 (2) for each school year beginning after June 30, 2019, July 1 of
+9 the year in which the statewide summative assessment is
+10 administered.
+11 (b) Reports of student scores on the statewide summative
+12 assessment must be:
+13 (1) returned to the school corporation, charter school, state
+14 accredited nonpublic school, or eligible school (as defined in
+15 IC 20-51-1-4.7) that administered the test; and
+16 (2) accompanied by a guide for interpreting scores.
+17 (c) Subject to approval by the state board, reports of student results
+18 on computer scored items under a statewide summative assessment
+19 may be returned to schools regardless of whether the hand scored items
+20 are returned.
+21 (d) After reports of final student scores on the statewide summative
+22 assessment are returned to a school corporation, charter school, state
+23 accredited nonpublic school, or eligible school (as defined in
+24 IC 20-51-1-4.7), the school corporation or school shall promptly do the
+25 following:
+26 (1) Give each student and the student's parent the student's
+27 statewide summative assessment test scores, including the
+28 summary described in section 14.5 of this chapter.
+29 (2) Make available for inspection to each student and the student's
+30 parent the following:
+31 (A) A copy of the student's scored responses.
+32 (B) A copy of the anchor papers and scoring rubrics used to
+33 score the student's responses.
+34 A student's parent or the student's principal may request a rescoring of
+35 a student's responses to a statewide summative assessment, including
+36 a student's essay. A student's final score on a rescored statewide
+37 summative assessment must reflect the student's actual score on the
+38 rescored statewide summative assessment regardless of whether the
+39 student's score decreased or improved on the rescored assessment.
+40 (e) The department shall develop criteria to provide a student's
+41 parent the opportunity to inspect questions in a manner that will not
+42 compromise the validity or integrity of a statewide summative
+2026 IN 1266—LS 6953/DI 110
+
+19
+1 assessment.
+2 (f) A student's statewide summative assessment scores may not be
+3 disclosed to the public.
+4 (g) The department may not release less than ten (10) items per
+5 subject matter per grade level. The state board and department shall:
+6 (1) post:
+7 (A) the questions; and
+8 (B) with the permission of each student's parent, student
+9 answers that are exemplary responses to the released
+10 questions;
+11 on the websites of the state board and department; and
+12 (2) publicize the availability of the questions and answers to
+13 schools, educators, and the public.
+14 A student answer posted under this subsection may not identify the
+15 student who provided the answer.
+16 SECTION 17. IC 20-32-6.5-4 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) The department shall
+19 develop a teaching and learning framework for the implementation
+20 of mathematics academic standards created under IC 20-31-3-2.
+21 (b) The framework described in subsection (a) must include a
+22 prekindergarten through grade 8 mathematics:
+23 (1) proficiency implementation guide; and
+24 (2) daily instruction recommendation that requires a
+25 minimum of:
+26 (A) sixty (60) minutes for Tier 1 instruction; and
+27 (B) thirty (30) minutes for mathematics interventions.
+28 SECTION 18. IC 20-36-3-2.5 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE JULY 1, 2026]: Sec. 2.5. As used in this chapter,
+31 "eligible school" means the following:
+32 (1) The Indiana School for the Deaf established by
+33 IC 20-22-2-1.
+34 (2) The Indiana School for the Blind and Visually Impaired
+35 established by IC 20-21-2-1.
+36 SECTION 19. IC 20-36-3-5, AS AMENDED BY P.L.2-2007,
+37 SECTION 234, IS AMENDED TO READ AS FOLLOWS
+38 [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) Each school year:
+39 (1) each school corporation and eligible school may provide the
+40 College Board's science and math advanced placement courses;
+41 and
+42 (2) each school corporation and eligible school may provide
+2026 IN 1266—LS 6953/DI 110
+
+20
+1 additional College Board advanced placement courses;
+2 in secondary schools for students who qualify to take the advanced
+3 placement courses.
+4 (b) Each school corporation shall provide the College Board's
+5 science and math advanced placement courses in secondary schools for
+6 students who qualify to take the advanced placement courses.
+7 (c) In addition to the College Board's math and science advanced
+8 placement tests, the state board may approve advanced placement
+9 courses offered by a state educational institution in collaboration with
+10 a school corporation if the state educational institution and the
+11 collaborating school corporation demonstrate to the state board that the
+12 particular advanced placement course satisfies the objectives of this
+13 chapter.
+14 SECTION 20. IC 20-36-3-8, AS AMENDED BY P.L.20-2007,
+15 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 8. (a) Money appropriated to the department to
+17 implement the program shall be distributed for purposes listed in the
+18 following order:
+19 (1) To pay the fees for each math or science advanced placement
+20 examination that is taken by a student who is:
+21 (A) enrolled in a public secondary school, including schools
+22 listed in section 2.5 of this chapter; and
+23 (B) a resident of Indiana.
+24 Priority shall be given to paying the fees for each math or science
+25 advanced placement examination that is taken by a student in
+26 grade 11 or 12.
+27 (2) To pay stipends for teachers assigned to teach a math or
+28 science advanced course to attend the institutes under section 7 of
+29 this chapter.
+30 (3) To pay school corporations and eligible schools for
+31 instructional materials needed for the math or science advanced
+32 course.
+33 (4) To pay for or rent equipment that a school corporation or
+34 eligible school may need to develop a math or science advanced
+35 course.
+36 (5) To pay the fees for the costs incurred in implementing the
+37 advanced placement program for the subjects other than math and
+38 science as authorized under section 5 of this chapter.
+39 (b) The department shall establish guidelines concerning the
+40 distribution of funds under this chapter, including guidelines to ensure
+41 that money distributed under this chapter is distributed as evenly as
+42 possible throughout Indiana. In establishing these distribution
+2026 IN 1266—LS 6953/DI 110
+
+21
+1 guidelines, the department shall consider the following factors:
+2 (1) The number of students and teachers participating in the
+3 program.
+4 (2) Even geographic representation.
+5 (3) Financial need of students participating in the program.
+6 (4) Any other factor affecting the distribution of money under this
+7 chapter.
+8 (c) The department may seek funding to carry out the purposes of
+9 this chapter through the following federal programs:
+10 (1) The Advanced Placement Incentive Program.
+11 (2) The Math-Science Partnership Program.
+12 (d) The department may give priority in the distribution of funds to
+13 a school that serves a high concentration of low income students.
+14 SECTION 21. IC 20-36-3-9, AS AMENDED BY P.L.20-2007,
+15 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2026]: Sec. 9. (a) The department shall develop and provide
+17 each public middle school, junior high school, and secondary school,
+18 including schools listed in section 2.5 of this chapter, with
+19 curriculum guidelines designed to satisfy the requirements of this
+20 chapter.
+21 (b) The guidelines developed under subsection (a) shall include a
+22 plan for increasing the:
+23 (1) availability of advanced placement program in schools with a
+24 high concentration of low income students; and
+25 (2) participation of low income students in advanced placement
+26 programs;
+27 through information dissemination through print, electronic, and
+28 broadcast media that informs parents and students of the importance of
+29 advanced placement and preadvanced placement courses to a student's
+30 ability to gain access to and to succeed in postsecondary education.
+31 SECTION 22. IC 20-38-4 IS ADDED TO THE INDIANA CODE
+32 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2026]:
+34 Chapter 4. Interstate Teacher Mobility Compact
+35 Sec. 1. The following interstate teacher mobility compact
+36 agreement is enacted into law and entered into by this state with all
+37 other states legally joining the interstate agreement in substantially
+38 the following form.
+39 Sec. 2. Article I, purpose. The purpose of this compact is to
+40 facilitate the mobility of teachers across the member states, with
+41 the goal of supporting teachers through a new pathway to
+42 licensure. Through this compact, the member states seek to
+2026 IN 1266—LS 6953/DI 110
+
+22
+1 establish a collective regulatory framework that expedites and
+2 enhances the ability of teachers to move across state lines. This
+3 compact is intended to achieve the following objectives and should
+4 be interpreted accordingly. The member states hereby ratify the
+5 same intentions by subscribing to:
+6 (1) Create a streamlined pathway to licensure mobility for
+7 teachers.
+8 (2) Support the relocation of eligible military spouses.
+9 (3) Facilitate and enhance the exchange of licensure,
+10 investigative, and disciplinary information between member
+11 states.
+12 (4) Enhance the power of state and district level education
+13 officials to hire qualified, competent teachers by removing
+14 barriers to the employment of out-of-state teachers.
+15 (5) Support the retention of teachers in the profession by
+16 removing barriers to relicensure in a new state.
+17 (6) Maintain state sovereignty in the regulation of the
+18 teaching profession.
+19 Sec. 3. Article II, definitions. As used in this compact, and except
+20 as otherwise provided, the following definitions shall govern the
+21 terms herein:
+22 (1) "Active military member" means any person with
+23 full-time duty status in the armed forces of the United States,
+24 including members of the National Guard and Reserve.
+25 (2) "Adverse action" means any limitation or restriction
+26 imposed by a member state's licensing authority, such as
+27 revocation, suspension, reprimand, probation, or limitation on
+28 the licensee's ability to work as a teacher.
+29 (3) "Bylaws" means those bylaws established by the
+30 commission.
+31 (4) "Career and technical education license" means a current,
+32 valid authorization issued by a member state's licensing
+33 authority allowing an individual to serve as a teacher in P-12
+34 public educational settings in a specific career and technical
+35 education area.
+36 (5) "Charter member states" means a member state that has
+37 enacted legislation to adopt this compact where such
+38 legislation predates the initial meeting of the commission after
+39 the effective date of the compact.
+40 (6) "Commission" means the interstate administrative body
+41 the membership of which consists of delegates of all states that
+42 have enacted this compact, and which is known as the
+2026 IN 1266—LS 6953/DI 110
+
+23
+1 interstate teacher mobility compact commission.
+2 (7) "Commissioner" means the delegate of a member state.
+3 (8) "Eligible license" means a license to engage in the teaching
+4 profession which requires at least a bachelor's degree and the
+5 completion of a state approved program for teacher licensure.
+6 (9) "Eligible military spouse" means the spouse of any
+7 individual in full-time duty status in the active armed forces
+8 of the United States, including members of the National
+9 Guard and Reserve, moving as a result of a military mission
+10 or military career progression requirements or on the
+11 individual's terminal move as a result of separation or
+12 retirement (to include surviving spouses of deceased military
+13 members).
+14 (10) "Executive committee" means a group of commissioners
+15 elected or appointed to act on behalf of, and within the powers
+16 granted to them by, the commission as provided for herein.
+17 (11) "Licensing authority" means an official, agency, board,
+18 or other entity of a state that is responsible for the licensing
+19 and regulation of teachers authorized to teach in P-12 public
+20 educational settings.
+21 (12) "Member state" means any state that has adopted this
+22 compact, including all agencies and officials of such a state.
+23 (13) "Receiving state" means any state where a teacher has
+24 applied for licensure under this compact.
+25 (14) "Rule" means any regulation promulgated by the
+26 commission under this compact, which shall have the force of
+27 law in each member state.
+28 (15) "State" means a state, territory, or possession of the
+29 United States, and the District of Columbia.
+30 (16) "State practice laws" means a member state's laws, rules,
+31 and regulations that govern the teaching profession, define the
+32 scope of such profession, and create the methods and grounds
+33 for imposing discipline.
+34 (17) "State specific requirements" means a requirement for
+35 licensure covered in coursework or examination that includes
+36 content of unique interest to the state.
+37 (18) "Teacher" means an individual who currently holds an
+38 authorization from a member state that forms the basis for
+39 employment in the P-12 public schools of the state to provide
+40 instruction in a specific subject area, grade level, or student
+41 population.
+42 (19) "Unencumbered license" means a current, valid
+2026 IN 1266—LS 6953/DI 110
+
+24
+1 authorization issued by a member state's licensing authority
+2 allowing an individual to serve as a teacher in P-12 public
+3 educational settings. An unencumbered license is not a
+4 restricted, probationary, provisional, substitute, or temporary
+5 credential.
+6 Sec. 4. Article III, licensure under the compact.
+7 (1) Licensure under this compact pertains only to the initial
+8 grant of a license by the receiving state. Nothing herein
+9 applies to any subsequent or ongoing compliance
+10 requirements that a receiving state might require for
+11 teachers.
+12 (2) Each member state shall, in accordance with the rules of
+13 the commission, define, compile, and update as necessary, a
+14 list of eligible licenses and career and technical education
+15 licenses that the member state is willing to consider for
+16 equivalency under this compact and provide the list to the
+17 commission. The list shall include those licenses that a
+18 receiving state is willing to grant to teachers from other
+19 member states, pending a determination of equivalency by the
+20 receiving state's licensing authority.
+21 (3) Upon the receipt of an application for licensure by a
+22 teacher holding an unencumbered eligible license, the
+23 receiving state shall determine which of the receiving state's
+24 eligible licenses the teacher is qualified to hold and shall grant
+25 such a license or licenses to the applicant. Such a
+26 determination shall be made in the sole discretion of the
+27 receiving state's licensing authority and may include a
+28 determination that the applicant is not eligible for any of the
+29 receiving state's eligible licenses. For all teachers who hold an
+30 unencumbered license, the receiving state shall grant one (1)
+31 or more unencumbered license(s) that, in the receiving state's
+32 sole discretion, are equivalent to the license(s) held by the
+33 teacher in any other member state.
+34 (4) For active military members and eligible military spouses
+35 who hold a license that is not unencumbered, the receiving
+36 state shall grant an equivalent license or licenses that, in the
+37 receiving state's sole discretion, is equivalent to the license or
+38 licenses held by the teacher in any other member state, except
+39 where the receiving state does not have an equivalent license.
+40 (5) For a teacher holding an unencumbered career and
+41 technical education license, the receiving state shall grant an
+42 unencumbered license equivalent to the career and technical
+2026 IN 1266—LS 6953/DI 110
+
+25
+1 education license held by the applying teacher and issued by
+2 another member state, as determined by the receiving state in
+3 its sole discretion, except where a career and technical
+4 education teacher does not hold a bachelor's degree and the
+5 receiving state requires a bachelor's degree for licenses to
+6 teach career and technical education. A receiving state may
+7 require career and technical education teachers to meet state
+8 industry recognized requirements, if required by law in the
+9 receiving state.
+10 Sec. 5. Article IV, licensure not under the compact.
+11 (1) Except as provided in section 4 of this chapter, nothing in
+12 this compact shall be construed to limit or inhibit the power
+13 of a member state to regulate licensure or endorsements
+14 overseen by the member state's licensing authority.
+15 (2) When a teacher is required to renew a license received
+16 pursuant to this compact, the state granting such a license
+17 may require the teacher to complete state specific
+18 requirements as a condition of licensure renewal or
+19 advancement in that state.
+20 (3) For the purposes of determining compensation, a receiving
+21 state may require additional information from teachers
+22 receiving a license under the provisions of this compact.
+23 (4) Nothing in this compact shall be construed to limit the
+24 power of a member state to control and maintain ownership
+25 of its information pertaining to teachers, or limit the
+26 application of a member state's laws or regulations governing
+27 the ownership, use, or dissemination of information
+28 pertaining to teachers.
+29 (5) Nothing in this compact shall be construed to invalidate or
+30 alter any existing agreement or other cooperative
+31 arrangement to which a member state may already be a
+32 party, or limit the ability of a member state to participate in
+33 any future agreement or other cooperative arrangement to:
+34 (A) award teaching licenses or other benefits based on
+35 additional professional credentials, including national
+36 board certification;
+37 (B) participate in the exchange of names of teachers whose
+38 license has been subject to an adverse action by a member
+39 state; or
+40 (C) participate in any agreement or cooperative
+41 arrangement with a nonmember state.
+42 Sec. 6. Article V, teacher qualifications and requirements for
+2026 IN 1266—LS 6953/DI 110
+
+26
+1 licensure under the compact.
+2 (1) Except as provided for active military members or eligible
+3 military spouses in section 4 of this chapter, a teacher may
+4 only be eligible to receive a license under this compact where
+5 that teacher holds an unencumbered license in a member
+6 state.
+7 (2) A teacher eligible to receive a license under this compact
+8 shall, unless otherwise provided for herein:
+9 (A) upon application to receive a license under this
+10 compact, undergo a criminal background check in the
+11 receiving state in accordance with the laws and regulations
+12 of the receiving state; and
+13 (B) provide the receiving state with information in addition
+14 to the information required for licensure for the purposes
+15 of determining compensation, if applicable.
+16 Sec. 7. Article VI, discipline and adverse actions.
+17 (1) Nothing in this compact shall be deemed or construed to
+18 limit the authority of a member state to investigate or impose
+19 disciplinary measures on teachers according to the state
+20 practice laws thereof.
+21 (2) Member states shall be authorized to receive, and shall
+22 provide, files and information regarding the investigation and
+23 discipline, if any, of teachers in other member states upon
+24 request. Any member state receiving such information or files
+25 shall protect and maintain the security and confidentiality
+26 thereof, in at least the same manner that the member state
+27 maintains its own investigatory or disciplinary files and
+28 information. Prior to disclosing any disciplinary or
+29 investigatory information received from another member
+30 state, the disclosing state shall communicate its intention and
+31 purpose for such disclosure to the member state which
+32 originally provided that information.
+33 Sec. 8. (a) Article VII, establishment of the interstate teacher
+34 mobility compact commission.
+35 (1) The interstate compact member states hereby create and
+36 establish a joint public agency known as the interstate teacher
+37 mobility compact commission:
+38 (A) The commission is a joint interstate governmental
+39 agency comprised of states that have enacted the interstate
+40 teacher mobility compact.
+41 (B) Nothing in this interstate compact shall be construed to
+42 be a waiver of sovereign immunity.
+2026 IN 1266—LS 6953/DI 110
+
+27
+1 (b) Membership, voting, and meetings.
+2 (1) Each member state shall have and be limited to one (1)
+3 delegate to the commission, who shall be given the title of
+4 commissioner.
+5 (2) The commissioner shall be the primary administrative
+6 officer of the state licensing authority or the officer's designee.
+7 (3) Any commissioner may be removed or suspended from
+8 office as provided by the law of the state from which the
+9 commissioner is appointed.
+10 (4) The member state shall fill any vacancy occurring in the
+11 commission within ninety (90) days.
+12 (5) Each commissioner shall be entitled to one (1) vote about
+13 the promulgation of rules and creation of bylaws and shall
+14 otherwise have an opportunity to participate in the business
+15 and affairs of the commission. A commissioner shall vote in
+16 person or by such other means as provided in the bylaws. The
+17 bylaws may provide for commissioners' participation in
+18 meetings by telephone or other means of communication.
+19 (6) The commission shall meet at least once during each
+20 calendar year. Additional meetings shall be held as set forth
+21 in the bylaws.
+22 (7) The commission shall establish by rule a term of office for
+23 commissioners.
+24 (c) The commission shall have the following powers and duties:
+25 (1) Establish the code of ethics for the commission.
+26 (2) Establish the fiscal year of the commission.
+27 (3) Establish bylaws for the commission.
+28 (4) Maintain its financial records in accordance with the
+29 bylaws of the commission.
+30 (5) Meet and take such actions as are consistent with the
+31 provisions of this interstate compact, the bylaws, and the rules
+32 of the commission.
+33 (6) Promulgate uniform rules to implement and administer
+34 this interstate compact. The rules shall have the force and
+35 effect of law and shall be binding in all member states. In the
+36 event the commission exercises its rulemaking authority in a
+37 manner that is beyond the scope of the purposes of the
+38 compact, or the powers granted hereunder, then such an
+39 action by the commission shall be invalid and have no force
+40 and effect of law.
+41 (7) Bring and prosecute legal proceedings or actions in the
+42 name of the commission, provided that the standing of any
+2026 IN 1266—LS 6953/DI 110
+
+28
+1 member state licensing authority to sue or be sued under
+2 applicable law shall not be affected.
+3 (8) Purchase and maintain insurance and bonds.
+4 (9) Borrow, accept, or contract for services of personnel,
+5 including employees of a member state, or an associated
+6 nongovernmental organization that is open to membership by
+7 all states.
+8 (10) Hire employees, elect or appoint officers, fix
+9 compensation, define duties, grant such individuals
+10 appropriate authority to carry out the purposes of the
+11 compact, and establish the commission's personnel policies
+12 and programs relating to conflicts of interest, qualifications
+13 of personnel, and other related personnel matters.
+14 (11) Lease, purchase, accept appropriate gifts or donations of,
+15 or otherwise own, hold, improve, or use, any property, real,
+16 personal, or mixed, provided that at all times the commission
+17 shall avoid any appearance of impropriety.
+18 (12) Sell, convey, mortgage, pledge, lease, exchange, abandon,
+19 or otherwise dispose of any property real, personal, or mixed.
+20 (13) Establish a budget and make expenditures.
+21 (14) Borrow money.
+22 (15) Appoint committees, including standing committees
+23 composed of members and such other interested persons as
+24 may be designated in this interstate compact, rules, or bylaws.
+25 (16) Provide and receive information from, and cooperate
+26 with, law enforcement agencies.
+27 (17) Establish and elect an executive committee.
+28 (18) Establish and develop a charter for an executive
+29 information governance committee to advise on facilitating
+30 exchange of information, use of information, data privacy,
+31 and technical support needs, and provide reports as needed.
+32 (19) Perform such other functions as may be necessary or
+33 appropriate to achieve the purposes of this interstate compact
+34 consistent with the state regulation of teacher licensure.
+35 (20) Determine whether a state's adopted language is
+36 materially different from the model compact language such
+37 that the state would not qualify for participation in the
+38 compact.
+39 (d) The executive committee of the interstate teacher mobility
+40 compact commission.
+41 (1) The executive committee shall have the power to act on
+42 behalf of the commission according to the terms of this
+2026 IN 1266—LS 6953/DI 110
+
+29
+1 interstate compact.
+2 (2) The executive committee shall be composed of the
+3 following eight (8) voting members:
+4 (A) The commission chair, vice chair, and treasurer.
+5 (B) Five (5) members who are elected by the commission
+6 from the current membership as follows:
+7 (i) Four (4) voting members representing geographic
+8 regions in accordance with commission rules.
+9 (ii) One (1) at-large voting member in accordance with
+10 commission rules.
+11 (3) The commission may add or remove members of the
+12 executive committee as provided in commission rules.
+13 (4) The executive committee shall meet at least once annually.
+14 (5) The executive committee shall have the following duties
+15 and responsibilities:
+16 (A) Recommend to the entire commission changes to the
+17 rules or bylaws, changes to the compact legislation, fees
+18 paid by interstate compact member states such as annual
+19 dues, and any compact fee charged by the member states
+20 on behalf of the commission.
+21 (B) Ensure commission administration services are
+22 appropriately provided, contractual or otherwise.
+23 (C) Prepare and recommend the budget.
+24 (D) Maintain financial records on behalf of the
+25 commission.
+26 (E) Monitor compliance of member states and provide
+27 reports to the commission.
+28 (F) Perform other duties as provided in rules or bylaws.
+29 (6) Meetings of the commission.
+30 (A) All meetings shall be open to the public, and public
+31 notice of meetings shall be given in accordance with
+32 commission bylaws.
+33 (B) The commission or the executive committee or other
+34 committees of the commission may convene in a closed,
+35 nonpublic meeting if the commission or executive
+36 committee or other committees of the commission must
+37 discuss:
+38 (i) noncompliance of a member state with its obligations
+39 under the compact;
+40 (ii) the employment, compensation, discipline or other
+41 matters, practices or procedures related to specific
+42 employees, or other matters related to the commission's
+2026 IN 1266—LS 6953/DI 110
+
+30
+1 internal personnel practices and procedures;
+2 (iii) current, threatened, or reasonably anticipated
+3 litigation;
+4 (iv) negotiation of contracts for the purchase, lease, or
+5 sale of goods, services, or real estate;
+6 (v) accusing any person of a crime or formally censuring
+7 any person;
+8 (vi) disclosure of trade secrets or commercial or financial
+9 information that is privileged or confidential;
+10 (vii) disclosure of information of a personal nature
+11 where disclosure would constitute a clearly unwarranted
+12 invasion of personal privacy;
+13 (viii) disclosure of investigative records compiled for law
+14 enforcement purposes;
+15 (ix) disclosure of information related to any investigative
+16 reports prepared by or on behalf of or for use of the
+17 commission or other committee charged with
+18 responsibility of investigation or determination of
+19 compliance issues pursuant to the compact;
+20 (x) matters specifically exempted from disclosure by
+21 federal or member state statute; or
+22 (xi) others matters as set forth by commission bylaws
+23 and rules.
+24 (C) If a meeting, or portion of a meeting, is closed pursuant
+25 to this provision, the commission's legal counsel or
+26 designee shall certify that the meeting may be closed and
+27 shall reference each relevant exempting provision.
+28 (D) The commission shall keep minutes of commission
+29 meetings and shall provide a full and accurate summary of
+30 actions taken, and the reasons therefore, including a
+31 description of the views expressed. All documents
+32 considered in connection with an action shall be identified
+33 in such minutes. All minutes and documents of a closed
+34 meeting shall remain under seal, subject to release by a
+35 majority vote of the commission or order of a court of
+36 competent jurisdiction.
+37 (7) Financing of the commission.
+38 (A) The commission shall pay, or provide for the payment
+39 of, the reasonable expenses of its establishment,
+40 organization, and ongoing activities.
+41 (B) The commission may accept all appropriate donations
+42 and grants of money, equipment, supplies, materials, and
+2026 IN 1266—LS 6953/DI 110
+
+31
+1 services, and receive, utilize, and dispose of the same,
+2 provided that at all times the commission shall avoid any
+3 appearance of impropriety or conflict of interest.
+4 (C) The commission may levy on and collect an annual
+5 assessment from each member state or impose fees on
+6 other parties to cover the cost of the operations and
+7 activities of the commission, in accordance with the
+8 commission rules.
+9 (D) The commission shall not incur obligations of any kind
+10 prior to securing the funds adequate to meet the same, nor
+11 shall the commission pledge the credit of any of the
+12 member states, except by and with the authority of the
+13 member state.
+14 (E) The commission shall keep accurate accounts of all
+15 receipts and disbursements. The receipts and
+16 disbursements of the commission shall be subject to
+17 accounting procedures established under commission
+18 bylaws. All receipts and disbursements of funds of the
+19 commission shall be reviewed annually in accordance with
+20 commission bylaws, and a report of the review shall be
+21 included in and become part of the annual report of the
+22 commission.
+23 (8) Qualified immunity, defense, and indemnification.
+24 (A) The members, officers, executive director, employees,
+25 and representatives of the commission shall be immune
+26 from suit and liability, either personally or in their official
+27 capacity, for any claim for damage to or loss of property or
+28 personal injury or other civil liability caused by or arising
+29 out of any actual or alleged act, error, or omission that
+30 occurred, or that the person against whom the claim is
+31 made had a reasonable basis for believing occurred within
+32 the scope of commission employment, duties, or
+33 responsibilities; provided that nothing in this clause shall
+34 be construed to protect any such person from suit or
+35 liability for any damage, loss, injury, or liability caused by
+36 the intentional or willful or wanton misconduct of that
+37 person.
+38 (B) The commission shall defend any member, officer,
+39 executive director, employee, or representative of the
+40 commission in any civil action seeking to impose liability
+41 arising out of any actual or alleged act, error, or omission
+42 that occurred within the scope of commission employment,
+2026 IN 1266—LS 6953/DI 110
+
+32
+1 duties, or responsibilities, or that the person against whom
+2 the claim is made had a reasonable basis for believing
+3 occurred within the scope of commission employment,
+4 duties, or responsibilities; provided that nothing herein
+5 shall be construed to prohibit that person from retaining
+6 his or her own counsel; and provided further, that the
+7 actual or alleged act, error, or omission did not result from
+8 that person's intentional or willful or wanton misconduct.
+9 (C) The commission shall indemnify and hold harmless any
+10 member, officer, executive director, employee, or
+11 representative of the commission for the amount of any
+12 settlement or judgment obtained against that person
+13 arising out of any actual or alleged act, error, or omission
+14 that occurred within the scope of commission employment,
+15 duties, or responsibilities, or that such person had a
+16 reasonable basis for believing occurred within the scope of
+17 commission employment, duties, or responsibilities,
+18 provided that the actual or alleged act, error, or omission
+19 did not result from the intentional or willful or wanton
+20 misconduct of that person.
+21 Sec. 9. Article VIII, rulemaking.
+22 (1) The commission shall exercise its rulemaking powers
+23 pursuant to the criteria set forth in this interstate compact
+24 and the rules adopted thereunder. Rules and amendments
+25 shall become binding as of the date specified in each rule or
+26 amendment.
+27 (2) The commission shall promulgate reasonable rules to
+28 achieve the intent and purpose of this interstate compact. In
+29 the event the commission exercises its rulemaking authority
+30 in a manner that is beyond purpose and intent of this
+31 interstate compact, or the powers granted hereunder, then
+32 such an action by the commission shall be invalid and have no
+33 force and effect of law in the member states.
+34 (3) If a majority of the legislatures of the member states
+35 rejects a rule, by enactment of a statute or resolution in the
+36 same manner used to adopt the compact within four (4) years
+37 of the date of adoption of the rule, then such rule shall have no
+38 further force and effect in any member state.
+39 (4) Rules or amendments to the rules shall be adopted or
+40 ratified at a regular or special meeting of the commission in
+41 accordance with commission rules and bylaws.
+42 (5) Upon determination that an emergency exists, the
+2026 IN 1266—LS 6953/DI 110
+
+33
+1 commission may consider and adopt an emergency rule with
+2 forty-eight (48) hours notice, with opportunity to comment,
+3 provided that the usual rulemaking procedures shall be
+4 retroactively applied to the rule as soon as reasonably
+5 possible, in no event later than ninety (90) days after the
+6 effective date of the rule. For the purposes of this provision,
+7 an emergency rule is one that must be adopted immediately in
+8 order to do the following:
+9 (A) Meet an imminent threat to public health, safety, or
+10 welfare.
+11 (B) Prevent a loss of commission or member state funds.
+12 (C) Meet a deadline for the promulgation of an
+13 administrative rule that is established by federal law or
+14 rule.
+15 (D) Protect public health and safety.
+16 Sec. 10. Article IX, facilitating information exchange.
+17 (1) The commission shall provide for facilitating the exchange
+18 of information to administer and implement the provisions of
+19 this compact in accordance with the rules of the commission,
+20 consistent with generally accepted data protection principles.
+21 (2) Nothing in this compact shall be deemed or construed to
+22 alter, limit, or inhibit the power of a member state to control
+23 and maintain ownership of its licensee information or alter,
+24 limit, or inhibit the laws or regulations governing licensee
+25 information in the member state.
+26 Sec. 11. Article X, oversight, dispute resolution, and
+27 enforcement.
+28 (1) Oversight.
+29 (A) The executive and judicial branches of state
+30 government in each member state shall enforce this
+31 compact and take all actions necessary and appropriate to
+32 effectuate the compact's purposes and intent. The
+33 provisions of this compact shall have standing as statutory
+34 law.
+35 (B) Venue is proper and judicial proceedings by or against
+36 the commission shall be brought solely and exclusively in
+37 a court of competent jurisdiction where the principal office
+38 of the commission is located. The commission may waive
+39 venue and jurisdictional defenses to the extent it adopts or
+40 consents to participate in alternative dispute resolution
+41 proceedings. Nothing herein shall affect or limit the
+42 selection or propriety of venue in any action against a
+2026 IN 1266—LS 6953/DI 110
+
+34
+1 licensee for professional malpractice, misconduct, or any
+2 such similar matter.
+3 (C) All courts and all administrative agencies shall take
+4 judicial notice of the compact, the rules of the commission,
+5 and any information provided to a member state pursuant
+6 thereto in any judicial or quasi-judicial proceeding in a
+7 member state pertaining to the subject matter of this
+8 compact, or which may affect the powers, responsibilities,
+9 or actions of the commission.
+10 (D) The commission shall be entitled to receive service of
+11 process in any proceeding regarding the enforcement or
+12 interpretation of the compact and shall have standing to
+13 intervene in such a proceeding for all purposes. Failure to
+14 provide the commission service of process shall render a
+15 judgment or order void as to the commission, this compact,
+16 or promulgated rules.
+17 (2) Default, technical assistance, and termination.
+18 (A) If the commission determines that a member state has
+19 defaulted in the performance of its obligations or
+20 responsibilities under this compact or the promulgated
+21 rules, the commission shall:
+22 (i) provide written notice to the defaulting state and
+23 other member states of the nature of the default, the
+24 proposed means of curing the default or any other action
+25 to be taken by the commission; and
+26 (ii) provide remedial training and specific technical
+27 assistance regarding the default.
+28 (3) If a state in default fails to cure the default, the defaulting
+29 state may be terminated from the compact upon an
+30 affirmative vote of a majority of the commissioners of the
+31 member states, and all rights, privileges, and benefits
+32 conferred on that state by this compact may be terminated on
+33 the effective date of termination. A cure of the default does
+34 not relieve the offending state of obligations or liabilities
+35 incurred during the period of default.
+36 (4) Termination of membership in the compact shall be
+37 imposed only after all other means of securing compliance
+38 have been exhausted. Notice of intent to suspend or terminate
+39 shall be given by the commission to the governor, the majority
+40 and minority leaders of the defaulting state's legislature, the
+41 state licensing authority, and each of the member states.
+42 (5) A state that has been terminated is responsible for all
+2026 IN 1266—LS 6953/DI 110
+
+35
+1 assessments, obligations, and liabilities incurred through the
+2 effective date of termination, including obligations that extend
+3 beyond the effective date of termination.
+4 (6) The commission shall not bear any costs related to a state
+5 that is found to be in default or that has been terminated from
+6 the compact, unless agreed upon in writing between the
+7 commission and the defaulting state.
+8 (7) The defaulting state may appeal the action of the
+9 commission by petitioning the United States District Court for
+10 the District of Columbia or the federal district where the
+11 commission has its principal offices. The prevailing party
+12 shall be awarded all costs of such litigation, including
+13 reasonable attorney's fees.
+14 (8) Dispute resolution.
+15 (A) Upon request by a member state, the commission shall
+16 attempt to resolve disputes related to the compact that
+17 arise among member states and between member and
+18 nonmember states.
+19 (B) The commission shall promulgate a rule providing for
+20 both binding and nonbinding alternative dispute resolution
+21 for disputes as appropriate.
+22 (9) Enforcement.
+23 (A) The commission, in the reasonable exercise of its
+24 discretion, shall enforce the provisions and rules of this
+25 compact.
+26 (B) By majority vote, the commission may initiate legal
+27 action in the United States District Court for the District of
+28 Columbia or the federal district where the commission has
+29 its principal offices against a member state in default to
+30 enforce compliance with the provisions of the compact and
+31 its promulgated rules and bylaws. The relief sought may
+32 include both injunctive relief and damages. In the event
+33 judicial enforcement is necessary, the prevailing party
+34 shall be awarded all costs of such litigation, including
+35 reasonable attorney's fees. The remedies herein shall not
+36 be the exclusive remedies of the commission. The
+37 commission may pursue any other remedies available
+38 under federal or state law.
+39 Sec. 12. Article XI, effectuation, withdrawal, and amendment.
+40 (1) The compact shall come into effect on the date on which
+41 the compact statute is enacted into law in the tenth member
+42 state.
+2026 IN 1266—LS 6953/DI 110
+
+36
+1 (A) On or after the effective date of the compact, the
+2 commission shall convene and review the enactment of
+3 each of the charter member states to determine if the
+4 statute enacted by each such charter member state is
+5 materially different from the model compact statute.
+6 (B) A charter member state whose enactment is found to
+7 be materially different from the model compact statute
+8 shall be entitled to the default process set forth in section
+9 11 of this chapter.
+10 (C) Member states enacting the compact subsequent to the
+11 charter member states shall be subject to the process set
+12 forth in section 8(c)(20) of this chapter to determine if their
+13 enactments are materially different from the model
+14 compact statute and whether they qualify for participation
+15 in the compact.
+16 (2) If any member state is later found to be in default, or is
+17 terminated or withdraws from the compact, the commission
+18 shall remain in existence and the compact shall remain in
+19 effect even if the number of member states should be less than
+20 ten (10).
+21 (3) Any state that joins the compact after the commission's
+22 initial adoption of the rules and bylaws shall be subject to the
+23 rules and bylaws as they exist on the date on which the
+24 compact becomes law in that state. Any rule that has been
+25 previously adopted by the commission shall have the full force
+26 and effect of law on the day the compact becomes law in that
+27 state, as the rules and bylaws may be amended as provided in
+28 this compact.
+29 (4) Any member state may withdraw from this compact by
+30 enacting a statute repealing the same.
+31 (A) A member state's withdrawal shall not take effect until
+32 six (6) months after enactment of the repealing statute.
+33 (B) Withdrawal shall not affect the continuing requirement
+34 of the withdrawing state's licensing authority to comply
+35 with the investigative and adverse action reporting
+36 requirements of this act prior to the effective date of
+37 withdrawal.
+38 (5) This compact may be amended by the member states. No
+39 amendment to this compact shall become effective and
+40 binding upon any member state until it is enacted into the
+41 laws of all member states.
+42 Sec. 13. Article XII, construction and severability.
+2026 IN 1266—LS 6953/DI 110
+
+37
+1 (1) This compact shall be liberally construed to effectuate the
+2 purposes thereof. The provisions of this compact shall be
+3 severable and if any phrase, clause, sentence, or provision of
+4 this compact is declared to be contrary to the constitution of
+5 any member state or a state seeking membership in the
+6 compact, or of the United States or the applicability thereof to
+7 any other government, agency, person, or circumstance is
+8 held invalid, the validity of the remainder of this compact and
+9 the applicability thereof to any government, agency, person,
+10 or circumstance shall not be affected thereby. If this compact
+11 shall be held contrary to the constitution of any member state,
+12 the compact shall remain in full force and effect as to the
+13 remaining member states and in full force and effect as to the
+14 member state affected as to all severable matters.
+15 Sec. 14. Article XIII, consistent effect and conflict with other
+16 state laws.
+17 (1) Nothing herein shall prevent or inhibit the enforcement of
+18 any other law of a member state that is not inconsistent with
+19 the compact.
+20 (2) Any laws, statutes, regulations, or other legal
+21 requirements in a member state in conflict with the compact
+22 are superseded to the extent of the conflict.
+23 (3) All permissible agreements between the commission and
+24 the member states are binding in accordance with their terms.
+25 Sec. 15. (a) The secretary of education, or a person authorized
+26 to act on behalf of the secretary of education, is the designated
+27 education official selected by this state to negotiate and enter into,
+28 on behalf of this state, contracts under the interstate agreement set
+29 forth in section 1 of this chapter.
+30 (b) The designated education official, acting jointly with similar
+31 officers of other party states, may adopt rules to carry out more
+32 effectively the terms of the interstate agreement.
+33 (c) The designated education official is authorized, empowered,
+34 and directed to cooperate with all departments, agencies, and
+35 officers of state government and its subdivisions in facilitating the
+36 proper administration of the following:
+37 (1) The interstate agreement.
+38 (2) A supplementary agreement entered into by this state
+39 under the interstate agreement.
+40 SECTION 23. IC 20-43-8-7.5, AS AMENDED BY THE
+41 TECHNICAL CORRECTIONS BILL OF THE 2026 GENERAL
+42 ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2026 IN 1266—LS 6953/DI 110
+
+38
+1 JULY 1, 2026]: Sec. 7.5. (a) The department of workforce development
+2 commission for higher education shall designate each career and
+3 technical education program as:
+4 (1) an apprenticeship program;
+5 (2) a cooperative education program;
+6 (3) a work based learning program;
+7 (4) a high value program;
+8 (5) a moderate value program;
+9 (6) a less than moderate value program;
+10 (7) an introductory program; or
+11 (8) a foundational career and technical education course.
+12 The designation of career and technical education programs by the
+13 department of workforce development commission for higher
+14 education under this section must be reviewed and approved by the
+15 state board as provided in this section.
+16 (b) Not later than December 1, 2019, and each December 1
+17 thereafter, of each year, the department of workforce development
+18 commission for higher education shall designate each career and
+19 technical education program as:
+20 (1) an apprenticeship program;
+21 (2) a work based learning program;
+22 (3) a high value level 1 program;
+23 (4) a high value level 2 program;
+24 (5) a moderate value level 1 program;
+25 (6) a moderate value level 2 program;
+26 (7) a less than moderate value level 1 program;
+27 (8) a less than moderate value level 2 program;
+28 (9) a planning for college and career course; or
+29 (10) an introductory program.
+30 The designation of career and technical education programs by the
+31 department of workforce development commission for higher
+32 education under this section must be reviewed and approved by the
+33 state board as provided in this section.
+34 (c) If a new career and technical education program is created by
+35 rule, the department of workforce development commission for higher
+36 education shall determine the category in which the program is
+37 designated under subsection (a) or (b). A career and technical
+38 education program must be approved by the department of workforce
+39 development commission for higher education in order for a school
+40 corporation to be eligible to receive a grant amount for the career and
+41 technical education program under section 15 of this chapter.
+42 (d) Not later than December 1 of each year, the department of
+2026 IN 1266—LS 6953/DI 110
+
+39
+1 workforce development commission for higher education shall
+2 provide a report to the state board that includes the following
+3 information:
+4 (1) A list of the career and technical education courses for the
+5 next school year that are designated by the department of
+6 workforce development commission for higher education under
+7 this section.
+8 (2) The labor market demand used to designate each career and
+9 technical education program under this section.
+10 (3) The average wage level used to designate each career and
+11 technical education program under this section.
+12 (4) If applicable, the labor market demand and average wage level
+13 data for specific regions, counties, and municipalities.
+14 (5) Any other information pertinent to the methodology used by
+15 the department of workforce development commission for
+16 higher education to designate each career and technical
+17 education program under this section.
+18 (e) Not later than January 1 of each year, the state board shall
+19 review and approve the report provided by the department of workforce
+20 development commission for higher education under subsection (d)
+21 at a public meeting to ensure that the list of courses is in compliance
+22 with the long range state plan developed under IC 20-20-38-4. Not later
+23 than January 1 of each year, the state board shall send its determination
+24 to the department of workforce development. commission for higher
+25 education. Upon receipt of the state board's determination, the
+26 department of workforce development commission for higher
+27 education shall provide the approved report to the department.
+28 (f) The department of workforce development commission for
+29 higher education shall publish the approved report under subsection
+30 (e) on the department of workforce development's Internet web site,
+31 commission for higher education's website, including the following:
+32 (1) The list of career and technical education programs that are
+33 designated by the department of workforce development
+34 commission for higher education under this section.
+35 (2) The labor market demand used to designate each career and
+36 technical education program under this section.
+37 (3) The average wage level used to designate each career and
+38 technical education program under this section.
+39 (4) If applicable, the labor market demand and average wage level
+40 data for specific regions, counties, and municipalities.
+41 (5) Any other information pertinent to the methodology used by
+42 the department of workforce development commission for
+2026 IN 1266—LS 6953/DI 110
+
+40
+1 higher education to designate each career and technical
+2 education program under this section.
+3 In addition, the department shall notify all school corporations of the
+4 state board's approval of the report under subsection (e) and provide a
+5 link within the notice to the approved report published on the
+6 department of workforce development's Internet web site commission
+7 for higher education's website under this subsection.
+8 SECTION 24. IC 20-43-8-10, AS AMENDED BY P.L.230-2017,
+9 SECTION 20, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2026]: Sec. 10. If a school corporation determines that the
+11 categories of career and technical education programs issued by the
+12 department of workforce development commission for higher
+13 education and approved by the state board under section 7.5 of this
+14 chapter are not representative of the employment demand in the region
+15 surrounding the school corporation, the school corporation may petition
+16 the department of workforce development commission for higher
+17 education to recategorize for the school corporation the career and
+18 technical education programs offered by the school corporation
+19 according to the employment demand in the region surrounding the
+20 school corporation. The petition must include information supporting
+21 the school corporation's determination that the categories of career and
+22 technical education programs by the department of workforce
+23 development commission for higher education under section 7.5 of
+24 this chapter are not representative of the employment demand in the
+25 region surrounding the school corporation. The state board shall review
+26 and approve any course recategorization by the department of
+27 workforce development commission for higher education under this
+28 section.
+29 SECTION 25. IC 20-43-8-15, AS AMENDED BY P.L.213-2025,
+30 SECTION 189, IS AMENDED TO READ AS FOLLOWS
+31 [EFFECTIVE JULY 1, 2026]: Sec. 15. (a) This subsection applies to
+32 the state fiscal year beginning July 1, 2025, and ending June 30, 2026.
+33 A school corporation's career and technical education enrollment grant
+34 for a state fiscal year is the sum of the amounts determined under the
+35 following STEPS:
+36 STEP ONE: Determine for each career and technical education
+37 program provided by the school corporation:
+38 (A) the number of credit hours of the program (one (1) credit,
+39 two (2) credits, or three (3) credits); multiplied by
+40 (B) the number of pupils enrolled in the program; multiplied
+41 by
+42 (C) the following applicable amount:
+2026 IN 1266—LS 6953/DI 110
+
+41
+1 (i) Seven hundred ten dollars ($710) for a career and
+2 technical education program designated by the department
+3 of workforce development as a high value level 1 program
+4 under section 7.5 of this chapter.
+5 (ii) One thousand sixty-five dollars ($1,065) for a career and
+6 technical education program designated by the department
+7 of workforce development as a high value level 2 program
+8 under section 7.5 of this chapter.
+9 (iii) Three hundred ninety-eight dollars ($398) for a career
+10 and technical education program designated by the
+11 department of workforce development as a moderate value
+12 level 1 program under section 7.5 of this chapter.
+13 (iv) Five hundred ninety-seven dollars ($597) for a career
+14 and technical education program designated by the
+15 department of workforce development as a moderate value
+16 level 2 program under section 7.5 of this chapter.
+17 (v) One hundred ninety-nine dollars ($199) for a career and
+18 technical education program designated by the department
+19 of workforce development as a less than moderate value
+20 level 1 program under section 7.5 of this chapter.
+21 (vi) Two hundred ninety-eight dollars ($298) for a career
+22 and technical education program designated by the
+23 department of workforce development as a less than
+24 moderate value level 2 program under section 7.5 of this
+25 chapter.
+26 STEP TWO: Determine the number of pupils enrolled in an
+27 apprenticeship program or a work based learning program
+28 designated under section 7.5 of this chapter multiplied by four
+29 hundred ninety-seven dollars ($497).
+30 STEP THREE: Determine the number of pupils enrolled in an
+31 introductory program designated under section 7.5 of this chapter
+32 multiplied by two hundred ninety-eight dollars ($298).
+33 STEP FOUR: Determine the number of pupils enrolled in a
+34 planning for college and career course under section 7.5 of this
+35 chapter at the school corporation that is approved by the
+36 department of workforce development multiplied by one hundred
+37 forty-nine dollars ($149).
+38 STEP FIVE: Determine the number of pupils who travel from the
+39 school in which they are currently enrolled to another school to
+40 participate in a career and technical education program in which
+41 pupils from multiple schools are served at a common location
+42 multiplied by one hundred forty-nine dollars ($149).
+2026 IN 1266—LS 6953/DI 110
+
+42
+1 (b) This subsection applies to state fiscal years beginning after June
+2 30, 2026. A school corporation's career and technical education
+3 enrollment grant for a state fiscal year is the sum of the amounts
+4 determined under the following STEPS:
+5 STEP ONE: Determine for each career and technical education
+6 program provided by the school corporation:
+7 (A) the number of credit hours of the program (one (1) credit,
+8 two (2) credits, or three (3) credits); multiplied by
+9 (B) the number of pupils enrolled in the program; multiplied
+10 by
+11 (C) the following applicable amount:
+12 (i) Seven hundred twelve dollars ($712) for a career and
+13 technical education program designated by the department
+14 of workforce development commission for higher
+15 education as a high value level 1 program under section 7.5
+16 of this chapter.
+17 (ii) One thousand sixty-nine dollars ($1,069) for a career and
+18 technical education program designated by the department
+19 of workforce development commission for higher
+20 education as a high value level 2 program under section 7.5
+21 of this chapter.
+22 (iii) Three hundred ninety-nine dollars ($399) for a career
+23 and technical education program designated by the
+24 department of workforce development commission for
+25 higher education as a moderate value level 1 program
+26 under section 7.5 of this chapter.
+27 (iv) Five hundred ninety-nine dollars ($599) for a career and
+28 technical education program designated by the department
+29 of workforce development commission for higher
+30 education as a moderate value level 2 program under
+31 section 7.5 of this chapter.
+32 (v) Two hundred dollars ($200) for a career and technical
+33 education program designated by the department of
+34 workforce development commission for higher education
+35 as a less than moderate value level 1 program under section
+36 7.5 of this chapter.
+37 (vi) Two hundred ninety-nine dollars ($299) for a career and
+38 technical education program designated by the department
+39 of workforce development commission for higher
+40 education as a less than moderate value level 2 program
+41 under section 7.5 of this chapter.
+42 STEP TWO: Determine the number of pupils enrolled in an
+2026 IN 1266—LS 6953/DI 110
+
+43
+1 apprenticeship program or a work based learning program
+2 designated under section 7.5 of this chapter multiplied by four
+3 hundred ninety-nine dollars ($499).
+4 STEP THREE: Determine the number of pupils enrolled in an
+5 introductory program designated under section 7.5 of this chapter
+6 multiplied by Two hundred ninety-nine dollars ($299).
+7 STEP FOUR: Determine the number of pupils enrolled in a
+8 planning for college and career course under section 7.5 of this
+9 chapter at the school corporation that is approved by the
+10 department of workforce development commission for higher
+11 education multiplied by one hundred fifty dollars ($150).
+12 STEP FIVE: Determine the number of pupils who travel from the
+13 school in which they are currently enrolled to another school to
+14 participate in a career and technical education program in which
+15 pupils from multiple schools are served at a common location
+16 multiplied by one hundred fifty dollars ($150).
+17 SECTION 26. IC 20-43-8-16, AS ADDED BY P.L.230-2017,
+18 SECTION 25, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2026]: Sec. 16. The department of workforce development
+20 commission for higher education shall adopt rules under IC 4-22-2
+21 that are necessary to implement the duties of the department of
+22 workforce development commission for higher education under this
+23 chapter.
+24 SECTION 27. IC 20-43-16-1, AS ADDED BY P.L.213-2025,
+25 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+26 [EFFECTIVE JULY 1, 2026]: Sec. 1. As used in this chapter, "grant"
+27 means a teacher appreciation grant awarded by the department to a
+28 school corporation, or charter a school, or the department of
+29 correction under this chapter.
+30 SECTION 28. IC 20-43-16-2.5 IS ADDED TO THE INDIANA
+31 CODE AS A NEW SECTION TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2026]: Sec. 2.5. As used in this chapter,
+33 "school" means the following:
+34 (1) A charter school.
+35 (2) The Indiana School for the Deaf established by
+36 IC 20-22-2-1.
+37 (3) The Indiana School for the Blind and Visually Impaired
+38 established by IC 20-21-2-1.
+39 SECTION 29. IC 20-43-16-3, AS ADDED BY P.L.213-2025,
+40 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+41 [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) The teacher appreciation
+42 grant program is established to provide grants for each state fiscal year
+2026 IN 1266—LS 6953/DI 110
+
+44
+1 to school corporations, and charter schools, and the department of
+2 correction to attract, reward, and retain teachers who significantly
+3 impact student outcomes.
+4 (b) The department, in consultation with the state board, shall
+5 administer the program.
+6 SECTION 30. IC 20-43-16-4, AS ADDED BY P.L.213-2025,
+7 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 4. To be eligible for a grant under
+9 the program, a school corporation, or charter a school, or the
+10 department of correction must meet the following:
+11 (1) Apply in a manner prescribed by the department.
+12 (2) Identify not more than twenty percent (20%) of certified
+13 teachers as eligible grant recipients annually based on criteria
+14 outlined in section 5 of this chapter.
+15 (3) Report how each recipient met the criteria outlined in section
+16 5 of this chapter.
+17 (4) Meet any other requirements established by the department.
+18 SECTION 31. IC 20-43-16-5, AS ADDED BY P.L.213-2025,
+19 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) A grant received by a school
+21 corporation, or charter a school, or the department of correction may
+22 only be used to pay stipends within the amounts described in section 8
+23 of this chapter to one (1) or more teachers selected by the school
+24 corporation, or charter school, or department of correction who:
+25 (1) have instructed students in a school, or district, or facility of
+26 the department of correction for at least one (1) school year
+27 prior to the grant distribution year;
+28 (2) maintain employment at the same school, or district, or
+29 facility of the department of correction at the time of the grant
+30 distribution;
+31 (3) are determined to significantly impact student outcomes using
+32 national, state, or local assessment measures; and
+33 (4) are designated in one (1) of the categories described in section
+34 6 of this chapter.
+35 (b) A grant received by a school corporation, a school, or the
+36 department of correction may be used to pay the Federal
+37 Insurance Contributions Act (FICA) and Indiana state teachers'
+38 retirement fund costs associated with distributing a stipend under
+39 this chapter.
+40 SECTION 32. IC 20-43-16-6, AS ADDED BY P.L.213-2025,
+41 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 6. (a) Grant amounts distributed to
+2026 IN 1266—LS 6953/DI 110
+
+45
+1 a teacher described in section 5 of this chapter must meet the criteria
+2 as set forth in this section for:
+3 (1) a "recognition" stipend;
+4 (2) an "exemplary" stipend; or
+5 (3) an "exemplary plus" stipend.
+6 (b) A school corporation, or charter a school, or the department of
+7 correction must apply the following criteria in evaluating a teacher for
+8 a stipend designation under subsection (a):
+9 (1) For a recognition stipend designation, whether the teacher
+10 demonstrates high performance in teaching based on student
+11 outcomes.
+12 (2) For an exemplary stipend designation, whether the teacher:
+13 (A) demonstrates high performance in teaching based on
+14 student outcomes; and
+15 (B) meets one (1) of the following:
+16 (i) Mentors or coaches another teacher to improve student
+17 outcomes, or provides instructional leadership to improve
+18 student outcomes across multiple classrooms.
+19 (ii) Serves in a high need or geographic shortage area as
+20 determined by the department based on educator supply and
+21 demand.
+22 (3) For an exemplary plus stipend designation, whether the
+23 teacher:
+24 (A) demonstrates high performance in teaching based on
+25 student outcomes;
+26 (B) mentors or coaches another teacher to improve student
+27 outcomes, or provides instructional leadership to improve
+28 student outcomes across multiple classrooms; and
+29 (C) serves in a high need or geographic shortage area as
+30 determined by the department based on educator supply and
+31 demand.
+32 (c) A school corporation, or charter a school, or the department of
+33 correction may establish additional criteria in evaluating a teacher for
+34 a designation under subsection (a).
+35 SECTION 33. IC 20-43-16-7, AS ADDED BY P.L.213-2025,
+36 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 7. (a) The department shall create
+38 a rubric for use by school corporations, and charter schools, and the
+39 department of correction under this chapter.
+40 (b) The rubric must include:
+41 (1) student assessment data if student assessment data is available
+42 for the applicable grade level or class; and
+2026 IN 1266—LS 6953/DI 110
+
+46
+1 (2) expectations for the roles, responsibilities, and duties of a
+2 mentor teacher, which include providing professional
+3 development and guidance to new teachers.
+4 SECTION 34. IC 20-43-16-8, AS ADDED BY P.L.213-2025,
+5 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+6 [EFFECTIVE JULY 1, 2026]: Sec. 8. The amount of the stipend that
+7 a school corporation, or charter schools a school, or the department
+8 of correction may distribute to a teacher for a state fiscal year under
+9 this chapter must be within the following amounts:
+10 (1) For a teacher who receives a stipend for a recognition
+11 designation, three thousand five hundred dollars ($3,500).
+12 (2) For a teacher who receives a stipend for an exemplary
+13 designation, five thousand dollars ($5,000).
+14 (3) For a teacher who receives a stipend for an exemplary plus
+15 designation, seven thousand five hundred dollars ($7,500).
+16 SECTION 35. IC 20-43-16-10, AS ADDED BY P.L.213-2025,
+17 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2026]: Sec. 10. (a) The department may award
+19 a grant under this chapter each state fiscal year to a school corporation,
+20 or charter a school, or the department of correction upon the school
+21 corporation, school, or department of correction meeting that meets
+22 the requirements of this chapter.
+23 (b) If the total amount to be distributed as teacher appreciation
+24 grants for a particular state fiscal year exceeds the amount appropriated
+25 by the general assembly for teacher appreciation grants for that state
+26 fiscal year, the total amount to be distributed as teacher appreciation
+27 grants to school corporations, and charter schools, and the department
+28 of correction shall be proportionately reduced so that the total
+29 reduction equals the amount of the excess.
+30 (c) The department shall distribute all teacher appreciation grants
+31 awarded for a state fiscal year to the school corporations, and charter
+32 schools, and department of correction awarded the grants before
+33 April 15 of the applicable state fiscal year.
+34 SECTION 36. IC 20-43-16-11, AS ADDED BY P.L.213-2025,
+35 SECTION 198, IS AMENDED TO READ AS FOLLOWS
+36 [EFFECTIVE JULY 1, 2026]: Sec. 11. If a school corporation, or
+37 charter a school, or the department of correction that receives a grant
+38 for a state fiscal year under this chapter, it shall do the following:
+39 (1) Distribute all stipends from the grant to individual teachers
+40 not later than sixty (60) business days after the date the
+41 department distributes the grant to the school corporation, or
+42 charter school, or department of correction.
+2026 IN 1266—LS 6953/DI 110
+
+47
+1 (2) Not later than June 30 of the applicable state fiscal year, return
+2 any part of the grant not distributed as stipends to teachers.
+3 SECTION 37. IC 20-46-9-22, AS AMENDED BY P.L.68-2025,
+4 SECTION 232, IS AMENDED TO READ AS FOLLOWS
+5 [EFFECTIVE JULY 1, 2026]: Sec. 22. (a) This section:
+6 (1) applies to revenue received from a resolution that is approved
+7 by the governing body to impose a referendum levy under section
+8 6 or 7 of this chapter after May 10, 2023, for a school corporation
+9 located in:
+10 (A) Lake County;
+11 (B) Marion County;
+12 (C) St. Joseph County; or
+13 (D) Vanderburgh County;
+14 through the full term of the referendum levy; and
+15 (2) does not apply to revenue received from a referendum levy if:
+16 (A) the governing body of the school corporation approves the
+17 referendum levy in a resolution adopted under section 6 or 7
+18 of this chapter; and
+19 (B) the referendum levy is imposed for the first time with
+20 property taxes first due and payable in a calendar year
+21 beginning after December 31, 2027.
+22 (b) The county auditor shall distribute an amount under subsection
+23 (d) to each charter school, excluding virtual charter schools or adult
+24 high schools, that a student who resides within the attendance area of
+25 the school corporation attends if the charter school, excluding virtual
+26 charter schools or adult high schools, elects to participate in the
+27 referendum under section 6(i) of this chapter. The department shall
+28 provide the county auditor with data and information necessary for the
+29 county auditor to determine:
+30 (1) which charter schools, excluding virtual charter schools or
+31 adult high schools, are eligible to receive a distribution under this
+32 section; and
+33 (2) the number of all students who reside within the attendance
+34 area of the school corporation who are included in the ADM for
+35 each charter school, excluding virtual charter schools or adult
+36 high schools, described in subdivision (1).
+37 (c) The following schools are not eligible to receive a distribution
+38 under this section:
+39 (1) A virtual charter school.
+40 (2) An adult high school.
+41 (d) For the purposes of the calculations made in this subsection,
+42 each eligible school that has entered into an agreement with a school
+2026 IN 1266—LS 6953/DI 110
+
+48
+1 corporation to participate as a participating innovation network charter
+2 school under IC 20-25.7-5 is considered to have an ADM that is
+3 separate from the school corporation. The amount that the county
+4 auditor shall distribute to a charter school, excluding virtual charter
+5 schools or adult high schools, under this section is the amount
+6 determined in the last STEP of the following STEPS:
+7 STEP ONE: Determine, for each charter school, excluding virtual
+8 charter schools or adult high schools, that is eligible to receive a
+9 distribution under this section, the number of students who:
+10 (A) reside within the attendance area of the school
+11 corporation; who
+12 (B) are currently included in the ADM of the charter school;
+13 and
+14 (C) receive not more than fifty percent (50%) virtual
+15 instruction.
+16 STEP TWO: Determine the sum of:
+17 (A) the current ADM count for the school corporation; plus
+18 (B) the total number of students who:
+19 (i) reside within the attendance area of the school
+20 corporation; who:
+21 (ii) are currently included in the ADM of a charter school,
+22 excluding virtual charter schools or adult high schools; and
+23 (iii) do not receive more than fifty percent (50%) virtual
+24 instruction.
+25 STEP THREE: Determine the result of:
+26 (A) the STEP ONE amount; divided by
+27 (B) the STEP TWO amount.
+28 STEP FOUR: Determine the result of:
+29 (A) the STEP THREE amount; multiplied by
+30 (B) the amount collected by the county auditor during the most
+31 recent installment period.
+32 (e) If a charter school receives a distribution under this section, the
+33 distribution may be used only for the purposes described in
+34 IC 20-40-20-6(a).
+35 SECTION 38. IC 20-51-4-5.5, AS ADDED BY P.L.232-2025,
+36 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 5.5. (a) A parent of an eligible choice scholarship
+38 student or an eligible school on behalf of a parent of an eligible choice
+39 scholarship student may petition the department to reconsider the
+40 eligibility of a choice scholarship student payment of a choice
+41 scholarship for a student enrolled in the eligible school if the parent
+42 has reason to believe that the student was determined ineligible due to
+2026 IN 1266—LS 6953/DI 110
+
+49
+1 enrollment membership data inaccuracies reported by a school.
+2 Petitions must be received by the department not later than thirty
+3 (30) days after the date of notification of payment based on the
+4 official fall and spring ADM count dates.
+5 (b) If the department determines that a student described in
+6 subsection (a) is eligible for a choice scholarship under this chapter, the
+7 department may adjust the enrollment membership count of choice
+8 scholarship students for the applicable eligible school.
+9 (c) If the department adjusts a count used for a distribution under
+10 this chapter, the department shall adjust subsequent distributions to the
+11 eligible school that is affected by the adjusted count, on the schedule
+12 determined by the department, to reflect the differences between the
+13 distribution that the eligible school received and the distribution that
+14 the eligible school would have received if the adjusted count had been
+15 used.
+16 SECTION 39. IC 20-51.4-4.5-6.5, AS ADDED BY P.L.127-2024,
+17 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]: Sec. 6.5. (a) A parent of a career scholarship student
+19 or an emancipated career scholarship student may use a CSA annual
+20 grant amount received under this chapter for costs related to obtaining
+21 a driver's license if the following conditions are met:
+22 (1) The amount used for the costs does not exceed one thousand
+23 dollars ($1,000).
+24 (2) The parent or emancipated CSA student demonstrates proof
+25 of hardship, as determined by the department.
+26 (3) A driver's license is a prerequisite for being able to perform
+27 the regular functions of the sequence, course, apprenticeship, or
+28 program of study, as determined by the department.
+29 (4) Any other criteria that the department considers relevant are
+30 satisfied.
+31 (b) A parent of a career scholarship student or an emancipated
+32 career scholarship student may use a CSA annual grant amount
+33 received under this chapter for costs related to transportation if the
+34 following conditions are met:
+35 (1) The amount used for the costs from the CSA annual grant
+36 amount does not exceed the following:
+37 (A) A matching amount paid by a CSA participating entity for
+38 the transportation costs of the career scholarship student.
+39 (B) a total amount of six hundred twenty-five dollars ($625).
+40 (2) The parent or emancipated CSA student demonstrates proof
+41 of hardship, as determined by the department.
+42 (3) Any other criteria that the department considers relevant are
+2026 IN 1266—LS 6953/DI 110
+
+50
+1 satisfied.
+2 (c) A CSA annual grant amount received under this chapter may not
+3 be used for the purchase or lease of a motor vehicle (as defined in
+4 IC 4-4-32.2-6).
+5 SECTION 40. IC 21-18-15.1-0.5 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2026]: Sec. 0.5. As used in this chapter,
+8 "eligible school" means the following:
+9 (1) A charter school.
+10 (2) A state accredited nonpublic school (as defined in
+11 IC 20-18-2-18.7).
+12 (3) A nonpublic school that is accredited by a national or
+13 regional accreditation agency that is recognized by the state
+14 board of education.
+15 SECTION 41. IC 21-18-15.1-5, AS ADDED BY P.L.74-2019,
+16 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 5. (a) The teacher residency grant pilot program
+18 fund is established for the purpose of providing funds to school
+19 corporations and charter eligible schools for the development and
+20 implementation of teacher residency programs as described in section
+21 6 of this chapter.
+22 (b) The fund consists of the following:
+23 (1) Appropriations made by the general assembly.
+24 (2) Gifts, grants, devises, or bequests made to the commission to
+25 achieve the purposes of the fund.
+26 (c) The commission shall administer the fund.
+27 (d) The expenses of administering the fund shall be paid from
+28 money in the fund.
+29 (e) The treasurer of state shall invest the money in the fund not
+30 currently needed to meet the obligations of the fund in the same
+31 manner as other public funds may be invested. Interest that accrues
+32 from these investments shall be deposited in the fund.
+33 (f) Money in the fund at the end of a state fiscal year does not revert
+34 to the state general fund but remains available to be used for the
+35 purposes of this chapter.
+36 SECTION 42. IC 21-18-15.1-6, AS ADDED BY P.L.74-2019,
+37 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 6. The commission may award grants under the
+39 pilot program to an applicant that meets the following requirements:
+40 (1) The applicant is a school corporation or charter eligible school
+41 that has partnered with one (1) approved postsecondary
+42 educational institution to establish and implement a teacher
+2026 IN 1266—LS 6953/DI 110
+
+51
+1 residency program.
+2 (2) The applicant submits a teacher residency plan that:
+3 (A) establishes a teacher residency program in which:
+4 (i) program participants receive teacher training under the
+5 teacher residency program for a one (1) year period; and
+6 (ii) program participants and teachers who act as mentors to
+7 program participants under the teacher residency program
+8 receive stipends;
+9 (B) includes the name and contact information of the approved
+10 postsecondary educational institution with which the school
+11 corporation or charter eligible school has partnered; and
+12 (C) includes any other information regarding the teacher
+13 residency program that is required by the commission.
+14 (3) Any other requirements established by the commission.
+15 SECTION 43. IC 21-18-15.1-7, AS ADDED BY P.L.74-2019,
+16 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 7. A school corporation or charter eligible school
+18 that is awarded a grant under section 6 of this chapter:
+19 (1) shall provide stipends to:
+20 (A) program participants; and
+21 (B) teachers who act as mentors to program participants under
+22 the teacher residency program; and
+23 (2) may use money from the grant award to pay the approved
+24 postsecondary educational institution with which the school
+25 corporation or charter eligible school has partnered for
+26 administrative costs incurred by the approved postsecondary
+27 educational institution in developing and implementing the
+28 teacher residency program.
+29 SECTION 44. IC 21-18-15.1-8, AS ADDED BY P.L.74-2019,
+30 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 8. The commission shall, upon request, provide
+32 technical assistance to school corporations, charter eligible schools,
+33 and approved postsecondary educational institutions participating in
+34 the pilot program in the development of competency based curriculum
+35 and support systems for program participants.
+36 SECTION 45. IC 21-18-15.1-9, AS AMENDED BY P.L.214-2025,
+37 SECTION 213, IS AMENDED TO READ AS FOLLOWS
+38 [EFFECTIVE JULY 1, 2026]: Sec. 9. (a) The commission shall
+39 annually prepare a report that includes the following:
+40 (1) Information regarding school corporations and charter eligible
+41 schools that participate in the pilot program.
+42 (2) The annual retention rate of teachers employed by a school
+2026 IN 1266—LS 6953/DI 110
+
+52
+1 corporation or charter eligible school who completed the school
+2 corporation's or charter eligible school's teacher residency
+3 program within the immediately preceding five (5) years.
+4 (3) The number of program participants who were not employed
+5 by a school corporation or charter eligible school after completing
+6 the school corporation's or charter eligible school's teacher
+7 residency program.
+8 (4) The number of teachers who:
+9 (A) completed a teacher residency program under this chapter
+10 in the immediately preceding five (5) years; and
+11 (B) took leadership roles, as determined by the commission,
+12 during their employment with a school corporation or charter
+13 eligible school in Indiana.
+14 (b) Not later than July 1 of each year, the commission shall submit
+15 the report described in subsection (a) to the following:
+16 (1) The governor.
+17 (2) The general assembly in an electronic format under IC 5-14-6.
+18 SECTION 46. IC 21-18-21 IS REPEALED [EFFECTIVE JULY 1,
+19 2026]. (Postsecondary Career and Technical Education).
+20 SECTION 47. IC 21-18.5-5-2, AS AMENDED BY P.L.43-2021,
+21 SECTION 141, IS AMENDED TO READ AS FOLLOWS
+22 [EFFECTIVE JULY 1, 2026]: Sec. 2. (a) The board for proprietary
+23 education consists of the following seven (7) members:
+24 (1) The secretary of education or the secretary's designee.
+25 (2) The executive officer of the commission for higher education
+26 or the executive officer's designee.
+27 (3) Five (5) members who are members of the public at large
+28 appointed by the governor.
+29 (b) The members appointed by the governor under subsection (a)
+30 serve for a term of four (4) years.
+31 (c) Not more than three (3) of the members appointed by the
+32 governor may be members of the same political party.
+33 (d) Of the five (5) members appointed by the governor:
+34 (1) one (1) must have been engaged for a period of at least five
+35 (5) years immediately preceding appointment in an executive or
+36 a managerial position in a postsecondary proprietary educational
+37 institution subject to IC 21-18.5-6;
+38 (2) one (1) must have been engaged in administering or managing
+39 an industrial employee training program for a period of at least
+40 five (5) years immediately preceding appointment; and
+41 (3) three (3) must be representatives of the public at large who are
+42 not representatives of the types of postsecondary credit bearing
+2026 IN 1266—LS 6953/DI 110
+
+53
+1 proprietary educational institutions to be authorized.
+2 For purposes of subdivision (3), an elected or appointed state or local
+3 official or a member of a private or public school may not be appointed
+4 as a representative of the public at large.
+5 (e) (d) An appointment to fill a vacancy occurring on the board for
+6 proprietary education is for the unexpired term.
+7 SECTION 48. IC 34-30-2.1-287.2 IS ADDED TO THE INDIANA
+8 CODE AS A NEW SECTION TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2026]: Sec. 287.2. IC 20-38-4-8 (Concerning
+10 members, officers, the executive director, employees, and
+11 representatives of the interstate teacher mobility compact
+12 commission).
+13 SECTION 49. [EFFECTIVE UPON PASSAGE] Notwithstanding
+14 the June 29, 2026, effective date contained in P.L.213-2025,
+15 SECTION 199, the revisor of statutes shall publish IC 20-51-1-4.3,
+16 as amended by P.L.213-2025, SECTION 199, effective May 1, 2026.
+17 SECTION 50. An emergency is declared for this act.
+2026 IN 1266—LS 6953/DI 110

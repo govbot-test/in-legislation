@@ -1,0 +1,1697 @@
+Title: 
+Official Title: 
+Source: versions - Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+*SB0251.1*
+January 14, 2026
+SENATE BILL No. 251
+_____
+DIGEST OF SB 251 (Updated January 13, 2026 11:49 am - DI 106)
+Citations Affected: IC 7.1-1; IC 9-13; IC 9-30; IC 12-23; IC 14-15;
+IC 31-9; IC 31-19; IC 31-34; IC 31-37; IC 35-31.5; IC 35-33; IC 35-46.
+Synopsis: Penalties for prior OWI convictions. Provides that if a
+person has one prior OWI conviction, the court shall order that the
+person be imprisoned for at least 10 days or perform community
+service, and if a person has two prior OWI convictions, the court shall
+order that the person be imprisoned for at least 20 days or perform
+community service. Provides that a person does receive good time
+credit while serving a sentence imposed under this statute. Provides
+that this statute does not increase the maximum sentence for the
+offense as provided by either IC 35-50-2 or IC 35-50-3. Specifies that
+"vehicle", for purposes of the crime of operating while intoxicated,
+includes a watercraft, and repeals the separate crime of operating a
+motorboat while intoxicated. Provides that an initial hearing may be
+waived and allows a person to apply for a specialized driving privilege
+after an initial hearing. Adds operating while intoxicated due to use of
+a controlled substance to the habitual traffic violator statute. Authorizes
+the use of a roadside chemical test under certain circumstances.
+Specifies that ignition interlock devices may only be used when the
+underlying offense is operating while intoxicated resulting from the use
+of alcohol. Removes provisions concerning pretrial administrative
+suspension of driving privileges. Makes conforming amendments.
+Effective: July 1, 2026.
+Freeman, Carrasco
+January 8, 2026, read first time and referred to Committee on Corrections and Criminal
+Law.
+January 13, 2026, amended, reported favorably — Do Pass; reassigned to Committee on
+Appropriations.
+SB 251—LS 7114/DI 151
+
+January 14, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 251
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 7.1-1-3-13.5, AS AMENDED BY P.L.142-2020,
+2 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 13.5. "Conviction for operating while intoxicated"
+4 means a conviction (as defined in IC 9-13-2-38) for a crime under
+5 IC 9-30-5-1 through IC 9-30-5-9, IC 35-46-9-6 (before its repeal), or
+6 IC 14-15-8 (before its repeal).
+7 SECTION 2. IC 9-13-2-130, AS AMENDED BY P.L.142-2020,
+8 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 130. "Previous conviction of operating while
+10 intoxicated" means a previous conviction for:
+11 (1) an alcohol related or drug related crime under Acts 1939, c.48,
+12 s.52, as amended, IC 9-4-1-54 (repealed September 1, 1983), or
+13 IC 9-11-2 (repealed July 1, 1991); or
+14 (2) a crime under IC 9-30-5-1 through IC 9-30-5-9; or
+15 (3) a crime under IC 35-46-9 (before its repeal), IC 14-1-5
+16 (before its repeal), or IC 14-15-8-8 (before its repeal).
+17 SECTION 3. IC 9-13-2-196, AS AMENDED BY P.L.164-2020,
+SB 251—LS 7114/DI 151
+
+2
+1 SECTION 33, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2026]: Sec. 196. (a) "Vehicle" means, except as otherwise
+3 provided in this section, a device in, upon, or by which a person or
+4 property is, or may be, transported or drawn upon a highway. The term
+5 does not include the following:
+6 (1) A device moved by human power.
+7 (2) A device that runs only on rails or tracks.
+8 (3) A wheelchair.
+9 (4) An electric foot scooter.
+10 (b) For purposes of IC 9-17, the term includes the following:
+11 (1) Off-road vehicles.
+12 (2) Manufactured homes or mobile homes that are:
+13 (A) personal property not held for resale; and
+14 (B) not attached to real estate by a permanent foundation.
+15 (3) Watercraft.
+16 (c) For purposes of IC 9-22 (except IC 9-22-6) and IC 9-32, the term
+17 refers to a vehicle or watercraft of a type that must be registered under
+18 IC 9-18-2 (before its expiration) or IC 9-18.1, other than an off-road
+19 vehicle or a snowmobile under IC 9-18-2.5 (before its expiration) or
+20 IC 9-18.1-14.
+21 (d) For purposes of IC 9-30-5, IC 9-30-6, IC 9-30-8, and IC 9-30-9,
+22 the term means a device for transportation by land, or air, or water.
+23 The term does not include an electric personal assistive mobility
+24 device.
+25 SECTION 4. IC 9-30-5-15, AS AMENDED BY P.L.217-2017,
+26 SECTION 74, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2026]: Sec. 15. (a) In addition to any criminal penalty
+28 imposed for an offense under this chapter, the court shall: If a person
+29 has one (1) previous conviction of operating while intoxicated, the
+30 court shall:
+31 (1) order:
+32 (A) that the person be imprisoned for at least five (5) ten (10)
+33 days; or
+34 (B) the person to perform at least two hundred forty (240)
+35 hours of community restitution or service; and
+36 (2) order the person to receive an assessment of the person's
+37 degree of alcohol and drug abuse and, if appropriate, to
+38 successfully complete an alcohol or drug abuse treatment
+39 program, including an alcohol deterrent program if the person
+40 suffers from alcohol abuse.
+41 if the person has one (1) previous conviction of operating while
+42 intoxicated.
+SB 251—LS 7114/DI 151
+
+3
+1 (b) In addition to any criminal penalty imposed for an offense under
+2 this chapter, the court shall: If a person has at least two (2) previous
+3 convictions of operating while intoxicated, the court shall:
+4 (1) order:
+5 (A) that the person be imprisoned for at least ten (10) twenty
+6 (20) days; or
+7 (B) the person to perform at least four hundred eighty (480)
+8 hours of community restitution or service; and
+9 (2) order the person to receive an assessment of the person's
+10 degree of alcohol and drug abuse and, if appropriate, to
+11 successfully complete an alcohol or drug abuse treatment
+12 program, including an alcohol deterrent program if the person
+13 suffers from alcohol abuse.
+14 if the person has at least two (2) previous convictions of operating
+15 while intoxicated.
+16 (c) Notwithstanding IC 35-50-2-2.2 and IC 35-50-3-1, a sentence
+17 imposed under this section may not be suspended. The court may
+18 require that the person serve the term of imprisonment in an
+19 appropriate facility at whatever time or intervals (consecutive or
+20 intermittent) determined appropriate by the court. However:
+21 (1) at least forty-eight (48) hours of the sentence must be served
+22 consecutively; and
+23 (2) the entire sentence must be served within six (6) months after
+24 the date of sentencing.
+25 (d) Notwithstanding IC 35-50-6, A person does not earn good time
+26 credit (as defined in IC 35-50-6-0.5) while serving a sentence imposed
+27 under this section.
+28 (e) This section does not increase the maximum sentence for the
+29 offense as provided by either IC 35-50-2 or IC 35-50-3.
+30 SECTION 5. IC 9-30-6-6, AS AMENDED BY P.L.174-2021,
+31 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]: Sec. 6. (a) A physician, a person trained in retrieving
+33 contraband or obtaining bodily substance samples and acting under the
+34 direction of or under a protocol prepared by a physician, or a licensed
+35 health care professional acting within the professional's scope of
+36 practice and under the direction of or under a protocol prepared by a
+37 physician, who:
+38 (1) obtains a blood, urine, or other bodily substance sample from
+39 a person, regardless of whether the sample is taken for diagnostic
+40 purposes or at the request of a law enforcement officer under this
+41 section;
+42 (2) performs a chemical test on blood, urine, or other bodily
+SB 251—LS 7114/DI 151
+
+4
+1 substance obtained from a person; or
+2 (3) searches for or retrieves contraband from the body cavity of an
+3 individual;
+4 shall deliver the sample or contraband or disclose the results of the test
+5 to a law enforcement officer who requests the sample, contraband, or
+6 results as a part of a criminal investigation. Samples, contraband, and
+7 test results shall be provided to a law enforcement officer even if the
+8 person has not consented to or otherwise authorized their release.
+9 (b) A physician, a licensed health care professional, a hospital, or an
+10 agent of a physician or hospital is not civilly or criminally liable for any
+11 of the following:
+12 (1) Disclosing test results in accordance with this section.
+13 (2) Delivering contraband, or a blood, urine, or other bodily
+14 substance sample in accordance with this section.
+15 (3) Searching for or retrieving contraband or obtaining a blood,
+16 urine, or other bodily substance sample in accordance with this
+17 section.
+18 (4) Disclosing to the prosecuting attorney or the deputy
+19 prosecuting attorney for use at or testifying at the criminal trial of
+20 the person as to facts observed or opinions formed.
+21 (5) Failing to treat a person from whom contraband is retrieved or
+22 a blood, urine, or other bodily substance sample is obtained at the
+23 request of a law enforcement officer if the person declines
+24 treatment.
+25 (6) Injury to a person arising from the performance of duties in
+26 good faith under this section. However, immunity does not apply
+27 if the physician, licensed health care professional, hospital, or
+28 agent of a physician or hospital acts with gross negligence or
+29 willful or wanton misconduct.
+30 (c) For the purposes of a criminal proceeding:
+31 (1) the privileges arising from a patient-physician relationship do
+32 not apply to the contraband, samples, test results, or testimony
+33 described in this section; and
+34 (2) contraband, samples, test results, and testimony may be
+35 admitted in a proceeding in accordance with the applicable rules
+36 of evidence.
+37 (d) The exceptions to the patient-physician relationship specified in
+38 subsection (c) do not affect those relationships in a proceeding that is
+39 not a criminal proceeding.
+40 (e) The contraband, test results, and samples obtained by a law
+41 enforcement officer under subsection (a) may be disclosed only to a
+42 prosecuting attorney or a deputy prosecuting attorney for use as
+SB 251—LS 7114/DI 151
+
+5
+1 evidence in a criminal proceeding.
+2 (f) This section does not require a physician or a person under the
+3 direction of a physician to perform a chemical test or to retrieve
+4 contraband.
+5 (g) If the person:
+6 (1) from whom the contraband is to be retrieved or the bodily
+7 substance sample is to be obtained under this section does not
+8 consent; and
+9 (2) resists the retrieval of the contraband or the taking of a
+10 sample;
+11 the law enforcement officer may use reasonable force to assist an
+12 individual, who must be authorized under this section to retrieve
+13 contraband or obtain a sample, in the retrieval of the contraband or the
+14 taking of the sample.
+15 (h) The person authorized under this section to retrieve contraband
+16 or obtain a bodily substance sample shall take the sample or retrieve
+17 the contraband in a medically accepted manner.
+18 (i) This subsection does not apply to contraband retrieved or a
+19 bodily substance sample taken at a licensed hospital (as defined in
+20 IC 16-18-2-179(a) and IC 16-18-2-179(b)). A law enforcement officer
+21 may transport the person to a place where the contraband may be
+22 retrieved or the sample may be obtained by any of the following
+23 persons who are trained in retrieving contraband or obtaining bodily
+24 substance samples and who have been engaged to retrieve contraband
+25 or obtain samples under this section:
+26 (1) A physician holding an unlimited license to practice medicine
+27 or osteopathy.
+28 (2) A registered nurse.
+29 (3) A licensed practical nurse.
+30 (4) An advanced emergency medical technician (as defined in
+31 IC 16-18-2-6.5).
+32 (5) A paramedic (as defined in IC 16-18-2-266).
+33 (6) Except as provided in subsections (j) through (k), any other
+34 person qualified through training, experience, or education to
+35 retrieve contraband or obtain a bodily substance sample.
+36 (j) A law enforcement officer may not retrieve contraband or obtain
+37 a bodily substance sample under this section if the contraband is to be
+38 retrieved or the sample is to be obtained from another law enforcement
+39 officer as a result of the other law enforcement officer's involvement in
+40 an accident or alleged crime.
+41 (k) A law enforcement officer who is otherwise qualified to obtain
+42 a bodily substance sample under this section may obtain a bodily
+SB 251—LS 7114/DI 151
+
+6
+1 substance sample from a person involved in an accident or alleged
+2 crime who is not a law enforcement officer only if:
+3 (1) the officer obtained a bodily substance sample from an
+4 individual as part of the officer's official duties as a law
+5 enforcement officer; and
+6 (2) the:
+7 (A) person consents to the officer obtaining a bodily substance
+8 sample; or
+9 (B) obtaining of the bodily substance sample is authorized by
+10 a search warrant.
+11 (l) A physician or a person trained in obtaining bodily samples who
+12 is acting under the direction of or under a protocol prepared by a
+13 physician shall obtain a blood sample if the following conditions are
+14 satisfied:
+15 (1) A law enforcement officer requests that the sample be
+16 obtained.
+17 (2) The law enforcement officer has certified in writing the
+18 following:
+19 (A) That the officer has probable cause to believe the person
+20 from whom the sample is to be obtained has violated
+21 IC 9-30-5-4, IC 9-30-5-5, IC 35-46-9-6(b)(2) (before its
+22 repeal), or IC 35-46-9-6(c) (before its repeal).
+23 (B) That the offense resulting in a criminal investigation
+24 described in subsection (a) occurred not more than three (3)
+25 hours before the time the sample is requested.
+26 (C) That exigent circumstances exist that create pressing
+27 health, safety, or law enforcement needs that would take
+28 priority over a warrant application.
+29 (3) Not more than the use of reasonable force is necessary to
+30 obtain the sample.
+31 SECTION 6. IC 9-30-6-8, AS AMENDED BY P.L.111-2021,
+32 SECTION 88, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2026]: Sec. 8. (a) Except as provided in IC 9-30-16-1(g),
+34 whenever a judicial officer has determined that there was probable
+35 cause to believe that a person has violated IC 9-30-5, IC 35-46-9
+36 (before its repeal), or IC 14-15-8 (before its repeal), the clerk of the
+37 court shall forward, in a form and manner prescribed by the bureau:
+38 (1) a paper copy of the affidavit, or an electronic substitute; or
+39 (2) a bureau certificate as described in section 16 of this chapter;
+40 to the bureau at the conclusion of the initial hearing held under
+41 subsection (c). IC 35-33-7-1, or if the initial hearing was waived,
+42 upon notice of waiver of the initial hearing.
+SB 251—LS 7114/DI 151
+
+7
+1 (b) The probable cause affidavit required under section 7(b)(2) of
+2 this chapter must do the following:
+3 (1) Set forth the grounds for the arresting officer's belief that there
+4 was probable cause that the arrested person was operating a
+5 vehicle in violation of IC 9-30-5 or a motorboat in violation of
+6 IC 35-46-9 (before its repeal) or IC 14-15-8 (before its repeal).
+7 (2) State that the person was arrested for a violation of IC 9-30-5
+8 or operating a motorboat in violation of IC 35-46-9 (before its
+9 repeal) or IC 14-15-8 (before its repeal).
+10 (3) State whether the person:
+11 (A) refused to submit to a chemical test when offered; or
+12 (B) submitted to a chemical test that resulted in prima facie
+13 evidence that the person was intoxicated.
+14 (4) Be sworn to by the arresting officer.
+15 (c) Except as provided in subsection (d), if it is determined under
+16 subsection (a) that there was probable cause to believe that a person
+17 has violated IC 9-30-5, IC 35-46-9, or IC 14-15-8 (before its repeal), at
+18 the initial hearing of the matter held under IC 35-33-7-1 the court shall
+19 recommend immediate suspension of the person's driving privileges to
+20 take effect on the date the order is entered, and forward to the bureau
+21 a copy of the order recommending immediate suspension of driving
+22 privileges.
+23 (d) (c) If it is determined under subsection (a) that there is probable
+24 cause to believe that a person violated IC 9-30-5 IC 9-30-5-1(a) or
+25 IC 9-30-5-1(b), the court may as an alternative to any suspension of the
+26 person's driving privileges under subsection (c), issue an order
+27 recommending that the person be prohibited from operating a motor
+28 vehicle unless the motor vehicle is equipped with a functioning
+29 certified ignition interlock device under IC 9-30-8. This subsection
+30 applies even if the probable cause affidavit in subsection (b) states that
+31 the person:
+32 (1) refused to submit to a chemical test; or
+33 (2) submitted to a chemical test that resulted in prima facie
+34 evidence that the person was intoxicated; or
+35 (3) was also charged under 9-30-5-2.
+36 The order remains in effect until the bureau is notified by a court that
+37 the criminal charges against the person have been resolved. When the
+38 court issues an order under this subsection, no administrative
+39 suspension is imposed by the bureau and no suspension is noted on the
+40 person's driving record.
+41 (e) (d) A person commits a Class B infraction if the person:
+42 (1) operates a motor vehicle without a functioning certified
+SB 251—LS 7114/DI 151
+
+8
+1 ignition interlock device; and
+2 (2) is prohibited from operating a motor vehicle unless the motor
+3 vehicle is equipped with a functioning certified ignition interlock
+4 device under subsection (d). (c).
+5 (f) (e) A person commits a Class B misdemeanor if the person:
+6 (1) operates a motor vehicle without a functioning certified
+7 ignition interlock device; and
+8 (2) knows the person is prohibited from operating a motor vehicle
+9 unless the motor vehicle is equipped with a functioning certified
+10 ignition interlock device under subsection (d). (c).
+11 SECTION 7. IC 9-30-6-8.5, AS AMENDED BY P.L.141-2024,
+12 SECTION 46, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 8.5. If the bureau receives an order recommending
+14 use of an ignition interlock device under section 8(d) 8(c) of this
+15 chapter, the bureau shall immediately do the following:
+16 (1) Mail notice to the person's address contained in the records of
+17 the bureau, or send notice electronically if the person has
+18 indicated a preference for receiving notices from the bureau
+19 electronically, stating that the person may not operate a motor
+20 vehicle unless the motor vehicle is equipped with a functioning
+21 certified ignition interlock device under IC 9-30-8 commencing:
+22 (A) five (5) days after the date of the notice; or
+23 (B) on the date the court enters an order recommending use of
+24 an ignition interlock device;
+25 whichever occurs first.
+26 (2) Notify the person of the right to a judicial review under
+27 section 10 of this chapter.
+28 SECTION 8. IC 9-30-6-9, AS AMENDED BY P.L.141-2024,
+29 SECTION 47, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2026]: Sec. 9. (a) This section does not apply if an ignition
+31 interlock device order is issued under section 8(d) of this chapter.
+32 (b) If the affidavit under section 8(b) of this chapter states that a
+33 person refused to submit to a chemical test, the bureau shall suspend
+34 the driving privileges of the person:
+35 (1) for:
+36 (A) one (1) year; or
+37 (B) if the person has at least one (1) previous conviction for
+38 operating while intoxicated, two (2) years; or
+39 (2) until the suspension is ordered terminated under IC 9-30-5.
+40 (c) If the affidavit under section 8(b) of this chapter states that a
+41 chemical test resulted in prima facie evidence that a person was
+42 intoxicated, the bureau shall suspend the driving privileges of the
+SB 251—LS 7114/DI 151
+
+9
+1 person:
+2 (1) for one hundred eighty (180) days; or
+3 (2) until the bureau is notified by a court that the charges have
+4 been disposed of;
+5 whichever occurs first.
+6 (d) (c) Whenever the bureau is required to suspend a person's
+7 driving privileges under this section, the bureau shall immediately do
+8 the following:
+9 (1) Mail notice to the person's address contained in the records of
+10 the bureau, or send the notice electronically if the person has
+11 indicated a preference for receiving notices from the bureau
+12 electronically, stating that the person's driving privileges will be
+13 suspended for a specified period, commencing:
+14 (A) seven (7) days after the date of the notice; or
+15 (B) on the date the court enters an order recommending
+16 suspension of the person's driving privileges under section 8(c)
+17 of this chapter;
+18 whichever occurs first.
+19 (2) Notify the person of the right to a judicial review under
+20 section 10 of this chapter.
+21 SECTION 9. IC 9-30-6-12, AS AMENDED BY P.L.149-2015,
+22 SECTION 105, IS AMENDED TO READ AS FOLLOWS
+23 [EFFECTIVE JULY 1, 2026]: Sec. 12. (a) If a court recommends
+24 suspension of driving privileges under this chapter, IC 9-30-5, or
+25 IC 9-30-9, the bureau shall fix the period of suspension in accordance
+26 with the recommendation of the court. If the court fails to recommend
+27 a fixed period of suspension, or recommends a fixed term that is less
+28 than the minimum term required by statute, the bureau shall impose the
+29 minimum period of suspension required by statute.
+30 (b) Except as provided in subsection (c), during the three (3) years
+31 following the termination of the suspension the person's driving
+32 privileges remain suspended until the person provides proof of future
+33 financial responsibility in force under IC 9-25.
+34 (c) If a court recommends suspension of a person's driving
+35 privileges for a conviction under IC 9-30-5, during the three (3) years
+36 following the termination of the suspension the person's driving
+37 privileges remain suspended until the person provides proof of future
+38 financial responsibility in force under IC 9-25. However, if a court
+39 recommends suspension of the driving privileges under IC 9-30-5 of a
+40 person who is arrested for or charged with an offense committed under
+41 IC 9-30-5, the person is not required to provide proof of future
+42 financial responsibility under IC 9-25 unless and until the person is
+SB 251—LS 7114/DI 151
+
+10
+1 convicted under IC 9-30-5.
+2 (d) If at any time during the three (3) years following the
+3 termination of the suspension imposed under subsection (a) a person
+4 who has provided proof of future financial responsibility under IC 9-25
+5 fails to maintain the proof, the bureau shall suspend the person's
+6 driving privileges until the person again provides proof of future
+7 financial responsibility under IC 9-25.
+8 SECTION 10. IC 9-30-6-13.5, AS AMENDED BY P.L.110-2020,
+9 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2026]: Sec. 13.5. If:
+11 (1) a case filed under IC 9-30-5 is terminated in favor of the
+12 defendant; and
+13 (2) the defendant's driving privileges were suspended under (A)
+14 section 9(b) of this chapter; or
+15 (B) section 9(c) of this chapter;
+16 the bureau shall remove any record of the suspension, including the
+17 reason for suspension, from the defendant's official driving record.
+18 SECTION 11. IC 9-30-6-18, AS AMENDED BY P.L.2-2005,
+19 SECTION 41, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 18. (a) A person against whom an ignition
+21 interlock device order has been issued under section 8.5 of this chapter
+22 or whose driving privileges have been suspended under section 9(c) of
+23 this chapter is entitled to rescission of the ignition interlock device
+24 requirement or reinstatement of driving privileges if the following
+25 occur:
+26 (1) After a request for an early trial is made by the person at the
+27 initial hearing on the charges, a trial or other disposition of the
+28 charges for which the person was arrested under IC 9-30-5 is not
+29 held within ninety (90) days after the date of the person's initial
+30 hearing on the charges.
+31 (2) The delay in trial or disposition of the charges is not due to the
+32 person arrested under IC 9-30-5.
+33 (b) A person who desires rescission of the ignition interlock device
+34 requirement or reinstatement of driving privileges under this section
+35 must file a verified petition in the court where the charges against the
+36 petitioner are pending. The petition must allege the following:
+37 (1) The date of the petitioner's arrest under IC 9-30-5.
+38 (2) The date of the petitioner's initial hearing on the charges filed
+39 against the petitioner under IC 9-30-5.
+40 (3) The date set for trial or other disposition of the matter.
+41 (4) A statement averring the following:
+42 (A) That the petitioner requested an early trial of the matter at
+SB 251—LS 7114/DI 151
+
+11
+1 the petitioner's initial hearing on the charges filed against the
+2 petitioner under IC 9-30-5.
+3 (B) The trial or disposition date set by the court is at least
+4 ninety (90) days after the date of the petitioner's initial hearing
+5 on the charges filed against the petitioner under IC 9-30-5.
+6 (C) The delay in the trial or disposition is not due to the
+7 petitioner.
+8 (c) Upon the filing of a petition under this section, the court shall
+9 immediately examine the record of the court to determine whether the
+10 allegations in the petition are true.
+11 (d) If the court finds the allegations of a petition filed under this
+12 section are true, the court shall order rescission of the ignition interlock
+13 device requirement or reinstatement of the petitioner's driving
+14 privileges under section 11 of this chapter. The reinstatement must not
+15 take effect until ninety (90) days after the date of the petitioner's initial
+16 hearing.
+17 SECTION 12. IC 9-30-7-1 IS AMENDED TO READ AS
+18 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) As used in this
+19 chapter, "portable breath test" means a hand held apparatus that
+20 measures the alcohol concentration in a breath sample delivered by a
+21 person into the mouthpiece of the apparatus.
+22 (b) As used in this chapter, "fatal accident" means an accident, a
+23 collision, or other occurrence that involves at least one (1) vehicle and
+24 that results in:
+25 (1) death; or
+26 (2) bodily injury that gives a law enforcement officer reason to
+27 believe that the death of at least one (1) person is imminent.
+28 (c) As used in this chapter, "roadside chemical test" means a
+29 portable chemical test that can be administered by the side of a
+30 road.
+31 SECTION 13. IC 9-30-7-2 IS AMENDED TO READ AS
+32 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2. A person who
+33 operates a vehicle impliedly consents to submit to the portable breath
+34 test, roadside chemical test, or chemical test under this chapter as a
+35 condition of operating a vehicle in Indiana. A person must submit to
+36 each portable breath test, roadside chemical test, or chemical test
+37 offered by a law enforcement officer under this chapter to comply with
+38 this chapter.
+39 SECTION 14. IC 9-30-7-3 IS AMENDED TO READ AS
+40 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) A law
+41 enforcement officer shall offer a portable breath test, roadside
+42 chemical test, or chemical test to any person who the officer has
+SB 251—LS 7114/DI 151
+
+12
+1 reason to believe operated a vehicle that was involved in a fatal
+2 accident or an accident involving serious bodily injury. If:
+3 (1) the results of a portable breath test indicate the presence of
+4 alcohol;
+5 (2) the results of a portable breath test do not indicate the
+6 presence of alcohol but the law enforcement officer has probable
+7 cause to believe the person is under the influence of a controlled
+8 substance or another drug; or
+9 (3) the person refuses to submit to a portable breath test; or
+10 (4) the roadside chemical test indicates the presence of a
+11 controlled substance;
+12 the law enforcement officer shall offer a chemical test to the person.
+13 (b) A law enforcement officer may offer a person more than one (1)
+14 portable breath test, roadside chemical test, or chemical test under this
+15 section. However, all chemical tests must be administered within three
+16 (3) hours after the fatal accident or the accident involving serious
+17 bodily injury.
+18 (c) It is not necessary for a law enforcement officer to offer a
+19 portable breath test, roadside chemical test, or chemical test to an
+20 unconscious person.
+21 (d) If a roadside chemical test is not available under subsection
+22 (a), the officer may offer a chemical test.
+23 SECTION 15. IC 9-30-8-8, AS ADDED BY P.L.71-2016,
+24 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2026]: Sec. 8. The bureau and the Indiana criminal justice
+26 institute shall enter into a memorandum of understanding to administer
+27 this chapter and IC 9-30-6-8(d). IC 9-30-6-8(c).
+28 SECTION 16. IC 9-30-9-5 IS AMENDED TO READ AS
+29 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) If the court enters
+30 an order conditionally deferring charges under section 3 of this chapter,
+31 the court may do the following:
+32 (1) Suspend the person's driving privileges for at least two (2)
+33 years but not more than four (4) years.
+34 (2) impose other appropriate conditions, including the payment of
+35 fees imposed under section 8 of this chapter.
+36 (b) Notwithstanding IC 9-30-6-9, the defendant may be granted
+37 probationary driving privileges only after the defendant's license has
+38 been suspended for at least one (1) year.
+39 (c) (b) The court may as an alternative to a license suspension under
+40 subsection (a)(1), issue an order prohibiting the defendant from
+41 operating a motor vehicle unless the motor vehicle is equipped with a
+42 functioning certified ignition interlock device under IC 9-30-8. An
+SB 251—LS 7114/DI 151
+
+13
+1 order requiring an ignition interlock device must remain in effect for
+2 at least two (2) years but not more than four (4) years.
+3 SECTION 17. IC 9-30-9-7 IS AMENDED TO READ AS
+4 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 7. (a) If the court refers
+5 a defendant to the program under section 6 of this chapter, the court
+6 may do the following:
+7 (1) Suspend the defendant's driving privileges for at least ninety
+8 (90) days but not more than four (4) years.
+9 (2) Impose other appropriate conditions.
+10 (b) The defendant may be granted probationary driving privileges
+11 only after the defendant's license has been suspended for at least thirty
+12 (30) days under IC 9-30-6-9.
+13 (c) (b) The court may, as an alternative to a license suspension
+14 under subsection (a)(1), issue an order prohibiting the defendant from
+15 operating a motor vehicle unless the motor vehicle is equipped with a
+16 functioning certified ignition interlock device under IC 9-30-8. An
+17 order requiring an ignition interlock device must remain in effect for
+18 at least two (2) years but not more than four (4) years.
+19 SECTION 18. IC 9-30-9-7.5, AS AMENDED BY P.L.2-2005,
+20 SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2026]: Sec. 7.5. (a) A person commits a Class B infraction if
+22 the person:
+23 (1) operates a motor vehicle without a functioning certified
+24 ignition interlock device; and
+25 (2) is prohibited from operating a motor vehicle unless the motor
+26 vehicle is equipped with a functioning certified ignition interlock
+27 device under section 5(c) 5(b) or 7(c) 7(b) of this chapter.
+28 (b) A person commits a Class B misdemeanor if the person:
+29 (1) operates a motor vehicle without a functioning certified
+30 ignition interlock device; and
+31 (2) knows the person is prohibited from operating a motor vehicle
+32 unless the motor vehicle is equipped with a functioning certified
+33 ignition interlock device under section 5(c) 5(b) or 7(c) 7(b) of
+34 this chapter.
+35 SECTION 19. IC 9-30-10-4, AS AMENDED BY P.L.218-2025,
+36 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 4. (a) A person who has accumulated at least two
+38 (2) judgments within a ten (10) year period for any of the following
+39 violations, singularly or in combination, and not arising out of the same
+40 incident, is a habitual violator:
+41 (1) Reckless homicide resulting from the operation of a motor
+42 vehicle.
+SB 251—LS 7114/DI 151
+
+14
+1 (2) Voluntary or involuntary manslaughter resulting from the
+2 operation of a motor vehicle.
+3 (3) Failure of the operator of a motor vehicle involved in an
+4 accident resulting in death or injury to any person to stop at the
+5 scene of the accident and give the required information and
+6 assistance.
+7 (4) Operation of a vehicle while intoxicated resulting in death.
+8 (5) Before July 1, 1997, operation of a vehicle with at least
+9 ten-hundredths percent (0.10%) alcohol in the blood resulting in
+10 death.
+11 (6) After June 30, 1997, and before July 1, 2001, operation of a
+12 vehicle with an alcohol concentration equivalent to at least
+13 ten-hundredths (0.10) gram of alcohol per:
+14 (A) one hundred (100) milliliters of the blood; or
+15 (B) two hundred ten (210) liters of the breath;
+16 resulting in death.
+17 (7) After June 30, 2001, operation of a vehicle with an alcohol
+18 concentration equivalent to at least eight-hundredths (0.08) gram
+19 of alcohol per:
+20 (A) one hundred (100) milliliters of the blood; or
+21 (B) two hundred ten (210) liters of the breath;
+22 resulting in death.
+23 (8) After June 30, 2001, operation of a motor vehicle with a
+24 schedule I or schedule II controlled substance in the blood
+25 resulting in death.
+26 (b) A person who has accumulated at least three (3) judgments
+27 within a ten (10) year period for any of the following violations,
+28 singularly or in combination, and not arising out of the same incident,
+29 is a habitual violator:
+30 (1) Operation of a vehicle while intoxicated.
+31 (2) Before July 1, 1997, operation of a vehicle with at least
+32 ten-hundredths percent (0.10%) alcohol in the blood.
+33 (3) After June 30, 1997, and before July 1, 2001, operation of a
+34 vehicle with an alcohol concentration equivalent to at least
+35 ten-hundredths (0.10) gram of alcohol per:
+36 (A) one hundred (100) milliliters of the blood; or
+37 (B) two hundred ten (210) liters of the breath.
+38 (4) After June 30, 2001, operation of a vehicle with an alcohol
+39 concentration equivalent to at least eight-hundredths (0.08) gram
+40 of alcohol per:
+41 (A) one hundred (100) milliliters of the blood; or
+42 (B) two hundred ten (210) liters of the breath.
+SB 251—LS 7114/DI 151
+
+15
+1 (5) Reckless driving.
+2 (6) Criminal recklessness as a felony involving the operation of
+3 a motor vehicle.
+4 (7) Drag racing or engaging in a speed contest in violation of law.
+5 (8) Violating IC 9-4-1-40 (repealed July 1, 1991), IC 9-4-1-46
+6 (repealed July 1, 1991), IC 9-26-1-1(1) (repealed January 1,
+7 2015), IC 9-26-1-1(2) (repealed January 1, 2015), IC 9-26-1-2(1)
+8 (repealed January 1, 2015), IC 9-26-1-2(2) (repealed January 1,
+9 2015), IC 9-26-1-3 (repealed January 1, 2015), IC 9-26-1-4
+10 (repealed January 1, 2015), or IC 9-26-1-1.1.
+11 (9) Resisting law enforcement with a vehicle under:
+12 (A) IC 35-44.1-3-1(c)(1);
+13 (B) IC 35-44.1-3-1(c)(2)(C);
+14 (C) IC 35-44.1-3-1(c)(3);
+15 (D) IC 35-44.1-3-1(c)(4); or
+16 (E) IC 35-44.1-3-1(c)(5).
+17 (10) Any felony under this title or any felony in which the
+18 operation of a motor vehicle is an element of the offense.
+19 (11) After June 30, 2001, operation of a motor vehicle with a
+20 schedule I or schedule II controlled substance in the blood.
+21 A judgment for a violation enumerated in subsection (a) shall be added
+22 to the violations described in this subsection for the purposes of this
+23 subsection.
+24 (c) A person who has accumulated at least ten (10) judgments
+25 within a ten (10) year period for any traffic violation, except a parking
+26 or an equipment violation, of the type required to be reported to the
+27 bureau, singularly or in combination, and not arising out of the same
+28 incident, is a habitual violator. However, at least one (1) of the
+29 judgments must be for:
+30 (1) a violation enumerated in subsection (a);
+31 (2) a violation enumerated in subsection (b);
+32 (3) operating a motor vehicle while the person's license to do so
+33 has been suspended or revoked as a result of the person's
+34 conviction of an offense under IC 9-1-4-52 (repealed July 1,
+35 1991), IC 9-24-18-5(b) (repealed July 1, 2000), IC 9-24-19-2, or
+36 IC 9-24-19-3; or
+37 (4) operating a motor vehicle without ever having obtained a
+38 license to do so.
+39 A judgment for a violation enumerated in subsection (a) or (b) shall be
+40 added to the judgments described in this subsection for the purposes of
+41 this subsection.
+42 (d) For purposes of this section, a judgment includes a judgment in
+SB 251—LS 7114/DI 151
+
+16
+1 any other jurisdiction in which the elements of the offense for which
+2 the conviction was entered are substantially similar to the elements of
+3 the offenses described in subsections (a), (b), and (c).
+4 (e) For purposes of this section, the offense date is used when
+5 determining the number of judgments accumulated within a ten (10)
+6 year period.
+7 SECTION 20. IC 9-30-16-1, AS AMENDED BY P.L.111-2021,
+8 SECTION 90, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 1. (a) Except as provided in subsection (b), the
+10 following are ineligible for specialized driving privileges under this
+11 chapter:
+12 (1) A person who has never been an Indiana resident.
+13 (2) A person seeking specialized driving privileges with respect
+14 to a suspension based on the person's refusal to submit to a
+15 chemical test offered under IC 9-30-6 or IC 9-30-7. However, a
+16 court may grant this person driving privileges under
+17 IC 9-30-6-8(d).
+18 (3) A person whose driving privileges have been suspended or
+19 revoked under IC 9-24-10-7(b)(2)(A).
+20 (4) A person whose driving privileges have been suspended under
+21 IC 9-21-8-52(e) or IC 9-21-12-1(b).
+22 (b) This chapter applies to the following:
+23 (1) A person who held a driver's license (issued under IC 9-24-3),
+24 or a commercial driver's, a public passenger chauffeur's, or a
+25 chauffeur's license at the time of:
+26 (A) the criminal conviction for which the operation of a motor
+27 vehicle is an element of the offense;
+28 (B) any criminal conviction for an offense under IC 9-30-5,
+29 IC 35-46-9 (before its repeal), or IC 14-15-8 (before its
+30 repeal); or
+31 (C) committing the infraction of exceeding a worksite speed
+32 limit for the second time in one (1) year under IC 9-21-5-11(f).
+33 (2) A person who:
+34 (A) has never held a valid Indiana driver's license or does not
+35 currently hold a valid Indiana learner's permit; and
+36 (B) was an Indiana resident when the driving privileges for
+37 which the person is seeking specialized driving privileges
+38 were suspended.
+39 (c) Except as specifically provided in this chapter, a court may
+40 suspend the driving privileges of a person convicted of any of the
+41 following offenses for a period up to the maximum allowable period of
+42 incarceration under the penalty for the offense:
+SB 251—LS 7114/DI 151
+
+17
+1 (1) Any criminal conviction in which the operation of a motor
+2 vehicle is an element of the offense.
+3 (2) Any criminal conviction for an offense under IC 9-30-5,
+4 IC 35-46-9 (before its repeal), or IC 14-15-8 (before its repeal).
+5 (3) Any offense under IC 35-42-1, IC 35-42-2, or IC 35-44.1-3-1
+6 that involves the use of a vehicle.
+7 (d) Except as provided in section 3.5 of this chapter, a suspension
+8 of driving privileges under this chapter may begin before the
+9 conviction. Multiple suspensions of driving privileges ordered by a
+10 court that are part of the same episode of criminal conduct shall be
+11 served concurrently. A court may grant credit time for any suspension
+12 that began before the conviction except as prohibited by section 6(a)(2)
+13 6(a) of this chapter.
+14 (e) If a person has had an ignition interlock device installed as a
+15 condition of specialized driving privileges or under IC 9-30-6-8(d),
+16 IC 9-30-6-8(c), the period of the installation shall be credited as part
+17 of the suspension of driving privileges.
+18 (f) This subsection applies to a person described in subsection
+19 (b)(2). A court shall, as a condition of granting specialized driving
+20 privileges to the person, require the person to apply for and obtain an
+21 Indiana driver's license.
+22 (g) If a person indicates to the court at an initial hearing (as
+23 described in IC 35-33-7) that the person intends to file a petition for a
+24 specialized driving privileges hearing with that court under section 3
+25 or 4 of this chapter, the following apply:
+26 (1) The court shall:
+27 (A) stay the suspension of the person's driving privileges at the
+28 initial hearing and shall not submit the probable cause
+29 affidavit related to the person's offense to the bureau; and
+30 (B) set the matter for a specialized driving privileges hearing
+31 not later than thirty (30) days after the initial hearing.
+32 (2) If the person does not file a petition for a specialized driving
+33 privileges hearing not later than ten (10) days after the date of the
+34 initial hearing, the court shall lift the stay of the suspension of the
+35 person's driving privileges and shall submit the probable cause
+36 affidavit related to the person's offense to the bureau for
+37 automatic suspension.
+38 (3) If the person files a petition for a specialized driving privileges
+39 hearing not later than ten (10) days after the initial hearing, the
+40 stay of the suspension of the person's driving privileges continues
+41 until the matter is heard and a determination is made by the court
+42 at the specialized driving privileges hearing.
+SB 251—LS 7114/DI 151
+
+18
+1 (4) If the specialized driving privileges hearing is continued due
+2 to:
+3 (A) a congestion of the court calendar;
+4 (B) the prosecuting attorney's motion for a continuance; or
+5 (C) the person's motion for a continuance with no objection by
+6 the prosecuting attorney;
+7 the stay of the suspension of the person's driving privileges
+8 continues until addressed at the next hearing.
+9 (5) If the person moves for a continuance of the specialized
+10 driving privileges hearing and the court grants the continuance
+11 over the prosecuting attorney's objection, the court shall lift the
+12 stay of the suspension of the person's driving privileges and shall
+13 submit the probable cause affidavit related to the person's offense
+14 to the bureau for automatic suspension.
+15 Nothing in this subsection prevents an otherwise eligible individual
+16 from applying for a specialized driving privilege after the initial
+17 hearing.
+18 SECTION 21. IC 9-30-16-3, AS AMENDED BY P.L.29-2020,
+19 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2026]: Sec. 3. (a) This section does not apply to specialized
+21 driving privileges granted in accordance with section 3.5 of this
+22 chapter. If a court orders a suspension of driving privileges under this
+23 chapter, or imposes a suspension of driving privileges under
+24 IC 9-30-6-9(c), the court may stay the suspension and grant a
+25 specialized driving privilege as set forth in this section.
+26 (b) An individual who seeks specialized driving privileges must file
+27 a petition for specialized driving privileges in each court that has
+28 ordered or imposed a suspension of the individual's driving privileges.
+29 Each petition must:
+30 (1) be verified by the petitioner;
+31 (2) state the petitioner's age, date of birth, and address;
+32 (3) state the grounds for relief and the relief sought;
+33 (4) be filed in the court case that resulted in the order of
+34 suspension; and
+35 (5) be served on the bureau and the prosecuting attorney.
+36 A prosecuting attorney shall appear on behalf of the bureau to respond
+37 to a petition filed under this subsection.
+38 (c) Except as provided in subsection (h), regardless of the
+39 underlying offense, specialized driving privileges granted under this
+40 section shall be granted for a period of time as determined by the court.
+41 A court, at its discretion, may set periodic review hearings to review an
+42 individual's specialized driving privileges.
+SB 251—LS 7114/DI 151
+
+19
+1 (d) The terms of specialized driving privileges must be determined
+2 by a court.
+3 (e) A stay of a suspension and specialized driving privileges may
+4 not be granted to an individual who:
+5 (1) has previously been granted specialized driving privileges;
+6 and
+7 (2) has more than one (1) conviction under section 5 of this
+8 chapter.
+9 (f) An individual who has been granted specialized driving
+10 privileges shall:
+11 (1) maintain proof of future financial responsibility insurance
+12 during the period of specialized driving privileges;
+13 (2) carry a copy of the order granting specialized driving
+14 privileges or have the order in the vehicle being operated by the
+15 individual;
+16 (3) produce the copy of the order granting specialized driving
+17 privileges upon the request of a police officer; and
+18 (4) carry a validly issued state identification card or driver's
+19 license.
+20 (g) An individual who holds a commercial driver's license and has
+21 been granted specialized driving privileges under this chapter may not,
+22 for the duration of the suspension for which the specialized driving
+23 privileges are sought, operate any vehicle that requires the individual
+24 to hold a commercial driver's license to operate the vehicle.
+25 (h) Whenever a suspension of an individual's driving privileges
+26 under this chapter is terminated because:
+27 (1) the underlying conviction, judgment, or finding that forms the
+28 basis of the suspension is reversed, vacated, or dismissed; or
+29 (2) the individual is acquitted of, found not liable for, or otherwise
+30 found not to have committed the underlying act or offense that
+31 forms the basis of the suspension;
+32 the individual's specialized driving privileges expire at the time the
+33 suspension of the individual's driving privileges is terminated.
+34 (i) The court shall inform the bureau of a termination of a
+35 suspension and expiration of specialized driving privileges as described
+36 under subsection (h) in a format designated by the bureau.
+37 SECTION 22. IC 9-30-16-6, AS AMENDED BY P.L.110-2020,
+38 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 6. (a) A person whose driving privileges are
+40 suspended under section 1(c) of this chapter (1) is entitled to credit for
+41 any days during which the license was suspended under IC 9-30-6-9(c);
+42 and (2) may not receive any credit for days during which the person's
+SB 251—LS 7114/DI 151
+
+20
+1 driving privileges were suspended under IC 9-30-6-9(b).
+2 (b) A period of suspension of driving privileges imposed under
+3 section 1(c) of this chapter must be consecutive to any period of
+4 suspension imposed under IC 9-30-6-9(b). However, if the state and
+5 defendant agree pursuant to a term in an accepted plea agreement, or
+6 if the court finds at sentencing that it is in the best interest of society,
+7 the court shall terminate all or any part of the remaining suspension
+8 under IC 9-30-6-9(b) and shall enter this finding in its sentencing
+9 order.
+10 (c) The bureau shall designate a period of suspension of driving
+11 privileges imposed under section 1(c) of this chapter as consecutive to
+12 any period of suspension imposed under IC 9-30-6-9(b) unless the
+13 sentencing order of the court under subsection (b) terminates all or part
+14 of the remaining suspension under IC 9-30-6-9(b).
+15 SECTION 23. IC 12-23-5-5 IS AMENDED TO READ AS
+16 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) Subject to
+17 subsection (b), if If a court enters an order conditionally deferring
+18 charges that involve a violation of IC 9-30-5, the court shall do the
+19 following:
+20 (1) Suspend the defendant's driving privileges for at least ninety
+21 (90) days but not more than two (2) years.
+22 (2) Impose other appropriate conditions.
+23 (b) A defendant may be granted probationary driving privileges only
+24 after the defendant's license has been suspended for at least thirty (30)
+25 days under IC 9-30-6-9.
+26 (c) If a defendant has at least one (1) conviction for an offense under
+27 IC 9-30-5, the order granting probationary driving privileges under
+28 subsection (b) must, in a county that provides for the installation of an
+29 ignition interlock device under IC 9-30-8, prohibit the defendant from
+30 operating a motor vehicle unless the motor vehicle is equipped with a
+31 functioning certified ignition interlock device under IC 9-30-8.
+32 (d) (b) If a defendant does not have a prior conviction for an offense
+33 under IC 9-30-5, the court may, as an alternative to a license
+34 suspension under subsection (a)(1), issue an order prohibiting the
+35 defendant from operating a motor vehicle unless the motor vehicle is
+36 equipped with a functioning certified ignition interlock device under
+37 IC 9-30-8. An order requiring an ignition interlock device must remain
+38 in effect for at least two (2) years but not more than four (4) years.
+39 SECTION 24. IC 12-23-5-5.5 IS AMENDED TO READ AS
+40 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5.5. (a) A person
+41 commits a Class B infraction if the person:
+42 (1) operates a motor vehicle without a functioning certified
+SB 251—LS 7114/DI 151
+
+21
+1 ignition interlock device; and
+2 (2) is prohibited from operating a motor vehicle unless the motor
+3 vehicle is equipped with a functioning certified ignition interlock
+4 device under section 5(d) 5(b) of this chapter.
+5 (b) A person commits a Class B misdemeanor if the person:
+6 (1) operates a motor vehicle without a functioning certified
+7 ignition interlock device; and
+8 (2) knows the person is prohibited from operating a motor vehicle
+9 unless the motor vehicle is equipped with a functioning certified
+10 ignition interlock device under section 5(d) 5(c) of this chapter.
+11 SECTION 25. IC 14-15-4-4, AS AMENDED BY P.L.195-2014,
+12 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 4. A person who knowingly or intentionally
+14 violates section 1, 2, or 3 of this chapter commits a Class C
+15 misdemeanor. However, the offense is:
+16 (1) a Class A misdemeanor if the accident or collision results in
+17 an injury to a person;
+18 (2) a Level 6 felony if:
+19 (A) the accident or collision results in serious bodily injury to
+20 a person; or
+21 (B) within the five (5) years preceding the commission of the
+22 offense, the person had a previous conviction of any of the
+23 offenses listed in IC 9-30-10-4(a), IC 35-46-9-6 (before its
+24 repeal), or IC 14-15-8-8 (before its repeal); or
+25 (3) a Level 5 felony if the accident or collision results in the death
+26 of a person.
+27 SECTION 26. IC 14-15-11-14, AS AMENDED BY P.L.217-2014,
+28 SECTION 182, IS AMENDED TO READ AS FOLLOWS
+29 [EFFECTIVE JULY 1, 2026]: Sec. 14. (a) A court may suspend or
+30 revoke the driver's license of a person upon the conviction of the
+31 person of a crime based on a violation of IC 14-15-3, IC 14-15-8
+32 (before its repeal), IC 35-46-9 (before its repeal), or IC 14-15-12.
+33 (b) In suspending or revoking a driver's license under this section,
+34 the court shall notify the bureau of the driver's license suspension or
+35 revocation, and the bureau shall follow the procedure set forth in
+36 IC 9-30-4.
+37 SECTION 27. IC 14-15-11-15, AS AMENDED BY P.L.40-2012,
+38 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 15. (a) A court in which an individual is convicted
+40 of a crime based on a violation of IC 14-15-3, IC 35-46-9 (before its
+41 repeal), IC 14-15-8 (before its repeal), or IC 14-15-12 relating to the
+42 operation of a motorboat shall forward a certified abstract of the record
+SB 251—LS 7114/DI 151
+
+22
+1 of the conviction to the bureau.
+2 (b) If, in the opinion of the court, an individual referred to in
+3 subsection (a) should be deprived of the privilege of operating a
+4 vehicle or motorboat, the court shall recommend the suspension of the
+5 Indiana driver's license issued to the individual for a fixed period. The
+6 period of the suspension shall be established by the court but may not
+7 exceed one (1) year.
+8 (c) Upon receiving the recommendation of the court under
+9 subsection (b), the bureau shall suspend the individual's license for the
+10 period recommended by the court.
+11 (d) A certified abstract forwarded to the bureau under subsection
+12 (a):
+13 (1) must be in the form prescribed by the bureau; and
+14 (2) shall be accepted by an administrative agency or a court as
+15 prima facie evidence of the conviction and all other action stated
+16 in the abstract.
+17 SECTION 28. IC 14-15-11-17, AS AMENDED BY P.L.40-2012,
+18 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2026]: Sec. 17. (a) For purposes of the point system for
+20 Indiana traffic convictions operated by the bureau under 140 IAC 1-4.5,
+21 the bureau shall assess points against a person who commits a crime by
+22 operating a motorboat in violation of:
+23 (1) IC 14-15-3;
+24 (2) IC 35-46-9 (before its repeal) (or or IC 14-15-8 before
+25 (before its repeal); or
+26 (3) IC 14-15-12.
+27 (b) The bureau shall assess points against a person under this
+28 section for each crime referred to in subsection (a) that is committed by
+29 the person.
+30 (c) The point study committee appointed by the commissioner under
+31 140 IAC 1-4.5-3, in consultation with the department, shall determine
+32 the number of points assessed under subsection (a) for each type of
+33 criminal violation of IC 14-15-3, IC 14-15-8 (before its repeal),
+34 IC 35-46-9 (before its repeal), or IC 14-15-12 based on the evaluation
+35 by the committee of the danger to human life, human physical safety,
+36 and property posed by the violation.
+37 SECTION 29. IC 14-15-12-5, AS AMENDED BY P.L.40-2012,
+38 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2026]: Sec. 5. The requirements and prohibitions set forth in
+40 this chapter concerning personal watercraft are in addition to the
+41 requirements and prohibitions set forth in IC 14-15-3, IC 35-46-9
+42 (before its repeal), and IC 14-15-8 (before its repeal).
+SB 251—LS 7114/DI 151
+
+23
+1 SECTION 30. IC 14-15-13-2, AS AMENDED BY P.L.40-2012,
+2 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 2. The requirements and prohibitions set forth in
+4 this chapter are in addition to the requirements and prohibitions set
+5 forth in IC 14-15-2, IC 14-15-3, IC 14-15-4, 14-15-8 (before its repeal),
+6 IC 35-46-9 (before its repeal), and IC 14-15-12.
+7 SECTION 31. IC 31-9-2-84.8, AS AMENDED BY P.L.142-2020,
+8 SECTION 34, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2026]: Sec. 84.8. "Nonwaivable offense", for purposes of this
+10 title, means a conviction of any of the following felonies:
+11 (1) Murder (IC 35-42-1-1).
+12 (2) Causing suicide (IC 35-42-1-2).
+13 (3) Assisting suicide (IC 35-42-1-2.5).
+14 (4) Voluntary manslaughter (IC 35-42-1-3).
+15 (5) Involuntary manslaughter (IC 35-42-1-4).
+16 (6) Reckless homicide (IC 35-42-1-5).
+17 (7) Feticide (IC 35-42-1-6).
+18 (8) Battery (IC 35-42-2-1) within the past five (5) years.
+19 (9) Domestic battery (IC 35-42-2-1.3).
+20 (10) Aggravated battery (IC 35-42-2-1.5).
+21 (11) Criminal recklessness (IC 35-42-2-2) within the past five (5)
+22 years.
+23 (12) Strangulation (IC 35-42-2-9).
+24 (13) Kidnapping (IC 35-42-3-2).
+25 (14) Criminal confinement (IC 35-42-3-3) within the past five (5)
+26 years.
+27 (15) Human and sexual trafficking (IC 35-42-3.5).
+28 (16) A felony sex offense under IC 35-42-4.
+29 (17) Arson (IC 35-43-1-1) within the past five (5) years.
+30 (18) Incest (IC 35-46-1-3).
+31 (19) Neglect of a dependent (IC 35-46-1-4(a) and
+32 IC 35-46-1-4(b)).
+33 (20) Child selling (IC 35-46-1-4(d)).
+34 (21) Reckless supervision (IC 35-46-1-4.1).
+35 (22) Nonsupport of a dependent child (IC 35-46-1-5) within the
+36 past five (5) years.
+37 (23) Operating a motorboat while intoxicated (IC 35-46-9-6)
+38 (before its repeal) within the past five (5) years.
+39 (24) A felony involving a weapon under IC 35-47 within the past
+40 five (5) years.
+41 (25) A felony relating to controlled substances under IC 35-48-4
+42 within the past five (5) years.
+SB 251—LS 7114/DI 151
+
+24
+1 (26) An offense relating to material or a performance that is
+2 harmful to minors or obscene under IC 35-49-3.
+3 (27) A felony under IC 9-30-5 within the past five (5) years.
+4 (28) A felony related to the health or safety of a child (as defined
+5 in IC 31-9-2-13(h)) or an endangered adult (as defined in
+6 IC 12-10-3-2).
+7 SECTION 32. IC 31-19-11-1, AS AMENDED BY P.L.56-2023,
+8 SECTION 282, IS AMENDED TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) Whenever the court has heard
+10 the evidence and finds that:
+11 (1) the adoption requested is in the best interest of the child;
+12 (2) the petitioner or petitioners for adoption are of sufficient
+13 ability to rear the child and furnish suitable support and
+14 education;
+15 (3) the report of the investigation and recommendation under
+16 IC 31-19-8-5 has been filed;
+17 (4) the attorney or agency arranging an adoption has filed with the
+18 court an affidavit prepared by the Indiana department of health
+19 under IC 31-19-5-16 indicating whether a man is entitled to notice
+20 of the adoption because the man has registered with the putative
+21 father registry in accordance with IC 31-19-5;
+22 (5) proper notice arising under subdivision (4), if notice is
+23 necessary, of the adoption has been given;
+24 (6) the attorney or agency has filed with the court an affidavit
+25 prepared by the Indiana department of health under:
+26 (A) IC 31-19-6 indicating whether a record of a paternity
+27 determination; or
+28 (B) IC 16-37-2-2(g) indicating whether a paternity affidavit
+29 executed under IC 16-37-2-2.1;
+30 has been filed in relation to the child;
+31 (7) proper consent, if consent is necessary, to the adoption has
+32 been given;
+33 (8) the petitioner for adoption is not prohibited from adopting the
+34 child as the result of an inappropriate criminal history described
+35 in subsection (c) or (d); and
+36 (9) the person, licensed child placing agency, or local office that
+37 has placed the child for adoption has provided the documents and
+38 other information required under IC 31-19-17 to the prospective
+39 adoptive parents;
+40 the court shall grant the petition for adoption and enter an adoption
+41 decree.
+42 (b) A court may not grant an adoption unless the Indiana department
+SB 251—LS 7114/DI 151
+
+25
+1 of health's affidavit under IC 31-19-5-16 is filed with the court as
+2 provided under subsection (a)(4).
+3 (c) A juvenile adjudication for an act listed in IC 31-9-2-84.8 that
+4 would be a felony if committed by an adult, a conviction of a
+5 misdemeanor related to the health and safety of a child, or a conviction
+6 of a felony not listed in IC 31-9-2-84.8 by a petitioner for adoption or
+7 household member is a permissible basis for the court to deny the
+8 petition for adoption. In addition, the court may not grant an adoption
+9 if a petitioner for adoption has been convicted of a nonwaivable offense
+10 under IC 31-9-2-84.8. However, the court is not prohibited from
+11 granting an adoption based upon a felony conviction for:
+12 (1) a felony under IC 9-30-5;
+13 (2) battery (IC 35-42-2-1);
+14 (3) criminal recklessness (IC 35-42-2-2) as a felony;
+15 (4) criminal confinement (IC 35-42-3-3);
+16 (5) arson (IC 35-43-1-1);
+17 (6) nonsupport of a dependent child (IC 35-46-1-5);
+18 (7) operating a motorboat while intoxicated (IC 35-46-9-6)
+19 (before its repeal) as a felony;
+20 (8) a felony involving a weapon under IC 35-47; or
+21 (9) a felony relating to controlled substances under IC 35-48-4;
+22 if the date of the conviction did not occur within the immediately
+23 preceding five (5) year period.
+24 (d) A court may not grant an adoption if the petitioner is a sex or
+25 violent offender (as defined in IC 11-8-8-5) or a sexually violent
+26 predator (as defined in IC 35-38-1-7.5).
+27 (e) In addition to this section, section 1.1 of this chapter applies
+28 when one (1) or more petitioners is a person with a disability.
+29 SECTION 33. IC 31-34-4-2, AS AMENDED BY P.L.186-2025,
+30 SECTION 159, IS AMENDED TO READ AS FOLLOWS
+31 [EFFECTIVE JULY 1, 2026]: Sec. 2. (a) If a child alleged to be a child
+32 in need of services is taken into custody under an order of the court
+33 under this chapter and the court orders out-of-home placement, the
+34 department is responsible for that placement and care and must
+35 consider placing the child with a:
+36 (1) suitable and willing relative; or
+37 (2) de facto custodian;
+38 before considering any other out-of-home placement.
+39 (b) The department shall consider placing a child described in
+40 subsection (a) with a relative related by blood, marriage, or adoption
+41 before considering any other placement of the child.
+42 (c) Before the department places a child in need of services with a
+SB 251—LS 7114/DI 151
+
+26
+1 relative or a de facto custodian, the department shall complete an
+2 evaluation based on a home visit of the relative's home.
+3 (d) Except as provided in subsection (f), before placing a child in
+4 need of services in an out-of-home placement, the department shall
+5 conduct a criminal history check of each person who is currently
+6 residing in the location designated as the out-of-home placement.
+7 (e) Except as provided in subsection (g), the department may not
+8 make an out-of-home placement if a person described in subsection (d)
+9 has:
+10 (1) committed an act resulting in a substantiated report of child
+11 abuse or neglect; or
+12 (2) been convicted of a nonwaivable offense, as defined in
+13 IC 31-9-2-84.8 or had a juvenile adjudication for an act that
+14 would be a nonwaivable offense, as defined in IC 31-9-2-84.8 if
+15 committed by an adult.
+16 (f) The department is not required to conduct a criminal history
+17 check under subsection (d) if the department makes an out-of-home
+18 placement to an entity or a facility that is not a residence (as defined in
+19 IC 3-5-2.1-90) or that is licensed by the state.
+20 (g) A court may order or the department may approve an
+21 out-of-home placement if:
+22 (1) a person described in subsection (d) has:
+23 (A) committed an act resulting in a substantiated report of
+24 child abuse or neglect;
+25 (B) been convicted of:
+26 (i) battery (IC 35-42-2-1);
+27 (ii) criminal recklessness (IC 35-42-2-2) as a felony;
+28 (iii) criminal confinement (IC 35-42-3-3) as a felony;
+29 (iv) arson (IC 35-43-1-1) as a felony;
+30 (v) nonsupport of a dependent child (IC 35-46-1-5);
+31 (vi) operating a motorboat while intoxicated (IC 35-46-9-6)
+32 (before its repeal) as a felony;
+33 (vii) a felony involving a weapon under IC 35-47;
+34 (viii) a felony relating to controlled substances under
+35 IC 35-48-4; or
+36 (ix) a felony under IC 9-30-5;
+37 if the conviction did not occur within the past five (5) years; or
+38 (C) had a juvenile adjudication for a nonwaivable offense, as
+39 defined in IC 31-9-2-84.8 that, if committed by an adult,
+40 would be a felony; and
+41 (2) the person's commission of the offense, delinquent act, or act
+42 of abuse or neglect described in subdivision (1) is not relevant to
+SB 251—LS 7114/DI 151
+
+27
+1 the person's present ability to care for a child, and the placement
+2 is in the best interest of the child.
+3 However, a court or the department shall not make an out-of-home
+4 placement if the person has been convicted of a nonwaivable offense,
+5 as defined in IC 31-9-2-84.8 that is not specifically excluded under
+6 subdivision (1)(B).
+7 (h) In considering the placement under subsection (g), the court or
+8 the department shall consider the following:
+9 (1) The length of time since the person committed the offense,
+10 delinquent act, or abuse or neglect.
+11 (2) The severity of the offense, delinquent act, or abuse or neglect.
+12 (3) Evidence of the person's rehabilitation, including the person's
+13 cooperation with a treatment plan, if applicable.
+14 SECTION 34. IC 31-34-20-1.5, AS AMENDED BY P.L.186-2025,
+15 SECTION 161, IS AMENDED TO READ AS FOLLOWS
+16 [EFFECTIVE JULY 1, 2026]: Sec. 1.5. (a) Except as provided in
+17 subsection (d), the juvenile court may not enter a dispositional decree
+18 approving or ordering placement of a child in another home under
+19 section 1(a)(3) of this chapter or awarding wardship to the department
+20 that will place the child in another home under section 1(a)(4) of this
+21 chapter if a person who is currently residing in the home in which the
+22 child would be placed under section 1(a)(3) or 1(a)(4) of this chapter
+23 has committed an act resulting in a substantiated report of child abuse
+24 or neglect, has a juvenile adjudication for an act that would be a
+25 nonwaivable offense, as defined in IC 31-9-2-84.8 if committed by an
+26 adult, or has a conviction for a nonwaivable offense, as defined in
+27 IC 31-9-2-84.8.
+28 (b) The department or caseworker who prepared the predispositional
+29 report shall conduct a criminal history check (as defined in
+30 IC 31-9-2-22.5) to determine if a person described in subsection (a) has
+31 committed an act resulting in a substantiated report of child abuse or
+32 neglect, has a juvenile adjudication for an act that would be a
+33 nonwaivable offense, as defined in IC 31-9-2-84.8 if committed by an
+34 adult, or has a conviction for a nonwaivable offense, as defined in
+35 IC 31-9-2-84.8. However, the department or caseworker is not required
+36 to conduct a criminal history check under this section if criminal
+37 history information under IC 31-34-4-2 or IC 31-34-18-6.1 establishes
+38 whether a person described in subsection (a) has committed an act
+39 resulting in a substantiated report of child abuse or neglect, has a
+40 juvenile adjudication for an act that would be a nonwaivable offense,
+41 as defined in IC 31-9-2-84.8 if committed by an adult, or has a
+42 conviction for a nonwaivable offense, as defined in IC 31-9-2-84.8.
+SB 251—LS 7114/DI 151
+
+28
+1 (c) The department or caseworker is not required to conduct a
+2 criminal history check under this section if:
+3 (1) the department or caseworker is considering only an
+4 out-of-home placement to an entity or a facility that:
+5 (A) is not a residence (as defined in IC 3-5-2.1-90); or
+6 (B) is licensed by the state; or
+7 (2) placement under this section is undetermined at the time the
+8 predispositional report is prepared.
+9 (d) A juvenile court may enter a dispositional decree that approves
+10 placement of a child in another home or award wardship to the
+11 department that will place the child in a home with a person described
+12 in subsection (a) if:
+13 (1) the person described in subsection (a) has:
+14 (A) committed an act resulting in a substantiated report of
+15 child abuse or neglect;
+16 (B) been convicted of:
+17 (i) battery (IC 35-42-2-1);
+18 (ii) criminal recklessness (IC 35-42-2-2) as a felony;
+19 (iii) criminal confinement (IC 35-42-3-3) as a felony;
+20 (iv) arson (IC 35-43-1-1) as a felony;
+21 (v) nonsupport of a dependent child (IC 35-46-1-5);
+22 (vi) operating a motorboat while intoxicated (IC 35-46-9-6)
+23 (before its repeal) as a felony;
+24 (vii) a felony involving a weapon under IC 35-47;
+25 (viii) a felony relating to controlled substances under
+26 IC 35-48-4; or
+27 (ix) a felony under IC 9-30-5;
+28 if the conviction did not occur within the past five (5) years; or
+29 (C) had a juvenile adjudication for a nonwaivable offense, as
+30 defined in IC 31-9-2-84.8 that, if committed by an adult,
+31 would be a felony; and
+32 (2) the person's commission of the offense, delinquent act, or act
+33 of abuse or neglect described in subdivision (1) is not relevant to
+34 the person's present ability to care for a child, and placing a child
+35 in another home or awarding wardship to the department is in the
+36 best interest of the child.
+37 However, a court may not enter a dispositional decree that approves
+38 placement of a child in another home or awards wardship to the
+39 department if the person has been convicted of a nonwaivable offense,
+40 as defined in IC 31-9-2-84.8 that is not specifically excluded under
+41 subdivision (1)(B).
+42 (e) In considering the placement under subsection (d), the court
+SB 251—LS 7114/DI 151
+
+29
+1 shall consider the following:
+2 (1) The length of time since the person committed the offense,
+3 delinquent act, or act that resulted in the substantiated report of
+4 abuse or neglect.
+5 (2) The severity of the offense, delinquent act, or abuse or neglect.
+6 (3) Evidence of the person's rehabilitation, including the person's
+7 cooperation with a treatment plan, if applicable.
+8 SECTION 35. IC 31-34-21-7.5, AS AMENDED BY P.L.156-2020,
+9 SECTION 119, IS AMENDED TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 7.5. (a) Except as provided in
+11 subsection (d), the juvenile court may not approve a permanency plan
+12 under subsection (c)(1)(C), (c)(1)(D), or (c)(1)(E) if a person who is
+13 currently residing with a person described in subsection (c)(1)(C) or
+14 (c)(1)(D) or in a residence in which the child would be placed under
+15 subsection (c)(1)(E) has committed an act resulting in a substantiated
+16 report of child abuse or neglect, has a juvenile adjudication for an act
+17 that would be a nonwaivable offense, as defined in IC 31-9-2-84.8 if
+18 committed by an adult, or has a conviction for a nonwaivable offense,
+19 as defined in IC 31-9-2-84.8.
+20 (b) Before requesting juvenile court approval of a permanency plan,
+21 the department shall conduct a criminal history check (as defined in
+22 IC 31-9-2-22.5) to determine if a person described in subsection (a) has
+23 committed an act resulting in a substantiated report of child abuse or
+24 neglect, has a juvenile adjudication for an act that would be a
+25 nonwaivable offense, as defined in IC 31-9-2-84.8 if committed by an
+26 adult, or has a conviction for a nonwaivable offense, as defined in
+27 IC 31-9-2-84.8. However, the department is not required to conduct a
+28 criminal history check under this section if criminal history information
+29 under IC 31-34-4-2, IC 31-34-18-6.1, or IC 31-34-20-1.5 establishes
+30 whether a person described in subsection (a) has committed an act
+31 resulting in a substantiated report of child abuse or neglect, has a
+32 juvenile adjudication for an act that would be a nonwaivable offense,
+33 as defined in IC 31-9-2-84.8 if committed by an adult, or has a
+34 conviction for a nonwaivable offense, as defined in IC 31-9-2-84.8.
+35 (c) A permanency plan, or plans, if concurrent planning, under this
+36 chapter includes the following:
+37 (1) The intended permanent or long term arrangements for care
+38 and custody of the child that may include any one (1), or two (2),
+39 if concurrent planning, of the following arrangements that the
+40 department or the court considers most appropriate and consistent
+41 with the best interests of the child:
+42 (A) Return to or continuation of existing custodial care within
+SB 251—LS 7114/DI 151
+
+30
+1 the home of the child's parent, guardian, or custodian or
+2 placement of the child with the child's noncustodial parent.
+3 (B) Placement of the child for adoption.
+4 (C) Placement of the child with a responsible person,
+5 including:
+6 (i) an adult sibling;
+7 (ii) a grandparent;
+8 (iii) an aunt;
+9 (iv) an uncle;
+10 (v) a custodial parent of a sibling of the child; or
+11 (vi) another relative;
+12 who is able and willing to act as the child's permanent
+13 custodian and carry out the responsibilities required by the
+14 permanency plan.
+15 (D) Appointment of a legal guardian. The legal guardian
+16 appointed under this section is a caretaker in a judicially
+17 created relationship between the child and caretaker that is
+18 intended to be permanent and self-sustaining as evidenced by
+19 the transfer to the caretaker of the following parental rights
+20 with respect to the child:
+21 (i) Care, custody, and control of the child.
+22 (ii) Decision making concerning the child's upbringing.
+23 (E) A supervised independent living arrangement or foster
+24 care for the child with a permanency plan of another planned,
+25 permanent living arrangement. However, a child less than
+26 sixteen (16) years of age may not have another planned,
+27 permanent living arrangement as the child's permanency plan.
+28 (2) A time schedule for implementing the applicable provisions
+29 of the permanency plan.
+30 (3) Provisions for temporary or interim arrangements for care and
+31 custody of the child, pending completion of implementation of the
+32 permanency plan.
+33 (4) Other items required to be included in a case plan under
+34 IC 31-34-15 or federal law, consistent with the permanent or long
+35 term arrangements described by the permanency plan.
+36 (d) A juvenile court may approve a permanency plan if:
+37 (1) a person described in subsection (a) has:
+38 (A) committed an act resulting in a substantiated report of
+39 child abuse or neglect;
+40 (B) been convicted of:
+41 (i) battery (IC 35-42-2-1);
+42 (ii) criminal recklessness (IC 35-42-2-2) as a felony;
+SB 251—LS 7114/DI 151
+
+31
+1 (iii) criminal confinement (IC 35-42-3-3) as a felony;
+2 (iv) arson (IC 35-43-1-1) as a felony;
+3 (v) nonsupport of a dependent child (IC 35-46-1-5);
+4 (vi) operating a motorboat while intoxicated (IC 35-46-9-6)
+5 (before its repeal) as a felony;
+6 (vii) a felony involving a weapon under IC 35-47;
+7 (viii) a felony relating to controlled substances under
+8 IC 35-48-4; or
+9 (ix) a felony under IC 9-30-5;
+10 if the conviction did not occur within the past five (5) years; or
+11 (C) had a juvenile adjudication for a nonwaivable offense, as
+12 defined in IC 31-9-2-84.8 that, if committed by an adult,
+13 would be a felony; and
+14 (2) the person's commission of the offense, delinquent act, or act
+15 of abuse or neglect described in subdivision (1) is not relevant to
+16 the person's present ability to care for a child, and that approval
+17 of the permanency plan is in the best interest of the child.
+18 However, a court may not approve a permanency plan if the person has
+19 been convicted of a nonwaivable offense, as defined in IC 31-9-2-84.8
+20 that is not specifically excluded under subdivision (1)(B), or has a
+21 juvenile adjudication for an act that would be a nonwaivable offense,
+22 as defined in IC 31-9-2-84.8 if committed by an adult that is not
+23 specifically excluded under subdivision (1)(B).
+24 (e) In making its written finding under subsection (d), the court shall
+25 consider the following:
+26 (1) The length of time since the person committed the offense,
+27 delinquent act, or act that resulted in the substantiated report of
+28 abuse or neglect.
+29 (2) The severity of the offense, delinquent act, or abuse or neglect.
+30 (3) Evidence of the person's rehabilitation, including the person's
+31 cooperation with a treatment plan, if applicable.
+32 SECTION 36. IC 31-37-19-6.5, AS AMENDED BY P.L.186-2025,
+33 SECTION 163, IS AMENDED TO READ AS FOLLOWS
+34 [EFFECTIVE JULY 1, 2026]: Sec. 6.5. (a) Except as provided in
+35 subsection (d), the juvenile court may not enter a dispositional decree
+36 approving placement of a child in another home under section 1(a)(3)
+37 or 6(b)(2)(D) of this chapter or awarding wardship to a person or
+38 facility that results in a placement with a person under section 1(a)(4)
+39 or 6(b)(2)(E) of this chapter if a person who is currently residing in the
+40 home in which the child would be placed under section 1(a)(3), 1(a)(4),
+41 6(b)(2)(D), or 6(b)(2)(E) of this chapter has committed an act resulting
+42 in a substantiated report of child abuse or neglect, has a juvenile
+SB 251—LS 7114/DI 151
+
+32
+1 adjudication for an act that would be a nonwaivable offense, as defined
+2 in IC 31-9-2-84.8 if committed by an adult, or has a conviction for a
+3 nonwaivable offense, as defined in IC 31-9-2-84.8.
+4 (b) The juvenile probation officer who prepared the predispositional
+5 report shall conduct a criminal history check (as defined in
+6 IC 31-9-2-22.5) to determine if a person described in subsection (a) has
+7 committed an act resulting in a substantiated report of child abuse or
+8 neglect, has a juvenile adjudication for an act that would be a
+9 nonwaivable offense, as defined in IC 31-9-2-84.8 if committed by an
+10 adult, or has a conviction for a nonwaivable offense, as defined in
+11 IC 31-9-2-84.8. However, the probation officer is not required to
+12 conduct a criminal history check under this section if criminal history
+13 information obtained under IC 31-37-17-6.1 establishes whether a
+14 person described in subsection (a) has committed an act resulting in a
+15 substantiated report of child abuse or neglect, has a juvenile
+16 adjudication for an act that would be a nonwaivable offense, as defined
+17 in IC 31-9-2-84.8 if committed by an adult, or has a conviction for a
+18 nonwaivable offense, as defined in IC 31-9-2-84.8.
+19 (c) The juvenile probation officer is not required to conduct a
+20 criminal history check under this section if:
+21 (1) the probation officer is considering only an out-of-home
+22 placement to an entity or a facility that:
+23 (A) is not a residence (as defined in IC 3-5-2.1-90); or
+24 (B) is licensed by the state; or
+25 (2) placement under this section is undetermined at the time the
+26 predispositional report is prepared.
+27 (d) The juvenile court may enter a dispositional decree approving
+28 placement of a child in another home under section 1(a)(3) or
+29 6(b)(2)(D) of this chapter or awarding wardship to a person or facility
+30 that results in a placement with a person under section 1(a)(4) or
+31 6(b)(2)(E) of this chapter if:
+32 (1) a person described in subsection (a) has:
+33 (A) committed an act resulting in a substantiated report of
+34 child abuse or neglect;
+35 (B) been convicted of:
+36 (i) a felony under IC 9-30-5;
+37 (ii) battery (IC 35-42-2-1);
+38 (iii) criminal recklessness (IC 35-42-2-2) as a felony;
+39 (iv) criminal confinement (IC 35-42-3-3) as a felony;
+40 (v) arson (IC 35-43-1-1) as a felony;
+41 (vi) nonsupport of a dependent child (IC 35-46-1-5);
+42 (vii) operating a motorboat while intoxicated (IC 35-46-9-6)
+SB 251—LS 7114/DI 151
+
+33
+1 (before its repeal) as a felony;
+2 (viii) a felony involving a weapon under IC 35-47; or
+3 (ix) a felony relating to controlled substances under
+4 IC 35-48-4;
+5 if the conviction did not occur within the past five (5) years; or
+6 (C) had a juvenile adjudication for a nonwaivable offense, as
+7 defined in IC 31-9-2-84.8 that, if committed by an adult,
+8 would be a felony; and
+9 (2) the person's commission of the offense, delinquent act, or act
+10 of abuse or neglect described in subdivision (1) is not relevant to
+11 the person's present ability to care for a child, and placing the
+12 child in another home is in the best interest of the child.
+13 However, a court may not enter a dispositional decree placing a child
+14 in another home under section 1(a)(3) or 6(b)(2)(D) of this chapter or
+15 awarding wardship to a person or facility under this subsection if a
+16 person with whom the child is or will be placed has been convicted of
+17 a nonwaivable offense, as defined in IC 31-9-2-84.8 that is not
+18 specifically excluded under subdivision (1)(B).
+19 (e) In considering the placement under subsection (d), the court
+20 shall consider the following:
+21 (1) The length of time since the person committed the offense,
+22 delinquent act, or act that resulted in the substantiated report of
+23 abuse or neglect.
+24 (2) The severity of the offense, delinquent act, or abuse or neglect.
+25 (3) Evidence of the person's rehabilitation, including the person's
+26 cooperation with a treatment plan, if applicable.
+27 SECTION 37. IC 35-31.5-2-37.5 IS REPEALED [EFFECTIVE
+28 JULY 1, 2026]. Sec. 37.5. "Chemical test", for purposes of IC 35-46-9,
+29 has the meaning set forth in IC 35-46-9-1.
+30 SECTION 38. IC 35-31.5-2-177.5 IS REPEALED [EFFECTIVE
+31 JULY 1, 2026]. Sec. 177.5. "Intoxicated", for purposes of IC 35-46-9,
+32 has the meaning set forth in IC 35-46-9-2.
+33 SECTION 39. IC 35-31.5-2-206.5 IS REPEALED [EFFECTIVE
+34 JULY 1, 2026]. Sec. 206.5. "Motorboat", for purposes of IC 35-46-9,
+35 has the meaning set forth in IC 35-46-9-3.
+36 SECTION 40. IC 35-31.5-2-244.5 IS REPEALED [EFFECTIVE
+37 JULY 1, 2026]. Sec. 244.5. "Prima facie evidence of intoxication", for
+38 purposes of IC 35-46-9, has the meaning set forth in IC 35-46-9-4.
+39 SECTION 41. IC 35-31.5-2-273.5 IS REPEALED [EFFECTIVE
+40 JULY 1, 2026]. Sec. 273.5. "Relevant evidence", for purposes of
+41 IC 35-46-9, has the meaning set forth in IC 35-46-9-5.
+42 SECTION 42. IC 35-33-7-4.5 IS ADDED TO THE INDIANA
+SB 251—LS 7114/DI 151
+
+34
+1 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2 [EFFECTIVE JULY 1, 2026]: Sec. 4.5. A person charged with a
+3 misdemeanor under IC 9-30-5-1 or IC 9-30-5-2 may waive the
+4 person's initial hearing.
+5 SECTION 43. IC 35-33-7-5, AS AMENDED BY P.L.166-2024,
+6 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2026]: Sec. 5. (a) At the initial hearing of a person, the
+8 judicial officer shall inform the person orally or in writing:
+9 (1) that the person has a right to retain counsel and if the person
+10 intends to retain counsel the person must do so within:
+11 (A) twenty (20) days if the person is charged with a felony; or
+12 (B) ten (10) days if the person is charged only with one (1) or
+13 more misdemeanors;
+14 after this initial hearing because there are deadlines for filing
+15 motions and raising defenses, and if those deadlines are missed,
+16 the legal issues and defenses that could have been raised will be
+17 waived;
+18 (2) that the person has a right to assigned counsel at no expense
+19 to the person if the person is indigent;
+20 (3) that the person has a right to a speedy trial;
+21 (4) of the amount and conditions of bail;
+22 (5) of the person's privilege against self-incrimination;
+23 (6) of the nature of the charge against the person;
+24 (7) that a preliminary plea of not guilty is being entered for the
+25 person and the preliminary plea of not guilty will become a formal
+26 plea of not guilty:
+27 (A) twenty (20) days after the completion of the initial
+28 hearing; or
+29 (B) ten (10) days after the completion of the initial hearing if
+30 the person is charged only with one (1) or more
+31 misdemeanors;
+32 unless the defendant enters a different plea; and
+33 (8) that the person may request to petition for a specialized
+34 driving privileges hearing if the person is charged with:
+35 (A) any offense in which the operation of a motor vehicle is an
+36 element of the offense;
+37 (B) any offense under IC 9-30-5, IC 35-46-9 (before its
+38 repeal), or IC 14-15-8 (before its repeal); or
+39 (C) any offense under IC 35-42-1, IC 35-42-2, or
+40 IC 35-44.1-3-1 that involves the use of a vehicle.
+41 In addition, the judge shall direct the prosecuting attorney to give the
+42 defendant or the defendant's attorney a copy of any formal felony
+SB 251—LS 7114/DI 151
+
+35
+1 charges filed or ready to be filed. The judge shall, upon request of the
+2 defendant, direct the prosecuting attorney to give the defendant or the
+3 defendant's attorney a copy of any formal misdemeanor charges filed
+4 or ready to be filed.
+5 (b) This subsection applies to a pregnant woman charged with a
+6 drug crime. If the woman is otherwise qualified, including meeting any
+7 requirements under IC 33-23-16-13(3)(A), if applicable, the judge may,
+8 after consulting with the prosecuting attorney, refer the woman to the
+9 forensic diversion program (IC 11-12-3.7) or a drug court
+10 (IC 33-23-16).
+11 SECTION 44. IC 35-46-9 IS REPEALED [EFFECTIVE JULY 1,
+12 2026]. (Operating a Motorboat While Intoxicated).
+SB 251—LS 7114/DI 151
+
+36
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Corrections and Criminal
+Law, to which was referred Senate Bill No. 251, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 6, delete lines 31 through 42.
+Page 7, delete lines 1 through 2.
+Page 7, line 15, reset in roman "7(b)(2)".
+Page 7, line 15, delete "7(2)".
+Page 8, delete line 42, begin a new paragraph and insert:
+"SECTION 9. IC 9-30-6-9, AS AMENDED BY P.L.141-2024,
+SECTION 47, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 9. (a) This section does not apply if an ignition
+interlock device order is issued under section 8(d) of this chapter.
+(b) If the affidavit under section 8(b) of this chapter states that a
+person refused to submit to a chemical test, the bureau shall suspend
+the driving privileges of the person:
+(1) for:
+(A) one (1) year; or
+(B) if the person has at least one (1) previous conviction for
+operating while intoxicated, two (2) years; or
+(2) until the suspension is ordered terminated under IC 9-30-5.
+(c) If the affidavit under section 8(b) of this chapter states that a
+chemical test resulted in prima facie evidence that a person was
+intoxicated, the bureau shall suspend the driving privileges of the
+person:
+(1) for one hundred eighty (180) days; or
+(2) until the bureau is notified by a court that the charges have
+been disposed of;
+whichever occurs first.
+(d) (c) Whenever the bureau is required to suspend a person's
+driving privileges under this section, the bureau shall immediately do
+the following:
+(1) Mail notice to the person's address contained in the records of
+the bureau, or send the notice electronically if the person has
+indicated a preference for receiving notices from the bureau
+electronically, stating that the person's driving privileges will be
+suspended for a specified period, commencing:
+(A) seven (7) days after the date of the notice; or
+(B) on the date the court enters an order recommending
+SB 251—LS 7114/DI 151
+
+37
+suspension of the person's driving privileges under section 8(c)
+of this chapter;
+whichever occurs first.
+(2) Notify the person of the right to a judicial review under
+section 10 of this chapter.".
+Delete pages 9 through 10.
+Page 11, delete lines 1 through 10.
+Page 11, line 14, reset in roman "this chapter,".
+Page 11, line 14, after "IC 9-30-5" insert ",".
+Page 11, delete lines 40 through 42.
+Page 12, delete lines 1 through 16, begin a new paragraph and
+insert:
+"SECTION 14. IC 9-30-6-13.5, AS AMENDED BY P.L.110-2020,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 13.5. If:
+(1) a case filed under IC 9-30-5 is terminated in favor of the
+defendant; and
+(2) the defendant's driving privileges were suspended under (A)
+section 9(b) of this chapter; or
+(B) section 9(c) of this chapter;
+the bureau shall remove any record of the suspension, including the
+reason for suspension, from the defendant's official driving record.".
+Page 18, reset in roman lines 12 through 16.
+Page 18, line 17, reset in roman "(3)".
+Page 18, line 17, delete "(2)".
+Page 18, line 19, reset in roman "(4)".
+Page 18, line 19, delete "(3)".
+Page 19, line 11, delete "conviction." and insert "conviction".
+Page 19, line 11, reset in roman "except as prohibited by section".
+Page 19, line 12, after "6(a)(2)" insert "6(a)".
+Page 19, line 12, reset in roman "of this chapter.".
+Page 21, delete lines 36 through 42, begin a new paragraph and
+insert:
+"SECTION 26. IC 9-30-16-6, AS AMENDED BY P.L.110-2020,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2026]: Sec. 6. (a) A person whose driving privileges are
+suspended under section 1(c) of this chapter (1) is entitled to credit for
+any days during which the license was suspended under IC 9-30-6-9(c);
+and (2) may not receive any credit for days during which the person's
+driving privileges were suspended under IC 9-30-6-9(b).
+(b) A period of suspension of driving privileges imposed under
+section 1(c) of this chapter must be consecutive to any period of
+SB 251—LS 7114/DI 151
+
+38
+suspension imposed under IC 9-30-6-9(b). However, if the state and
+defendant agree pursuant to a term in an accepted plea agreement, or
+if the court finds at sentencing that it is in the best interest of society,
+the court shall terminate all or any part of the remaining suspension
+under IC 9-30-6-9(b) and shall enter this finding in its sentencing
+order.
+(c) The bureau shall designate a period of suspension of driving
+privileges imposed under section 1(c) of this chapter as consecutive to
+any period of suspension imposed under IC 9-30-6-9(b) unless the
+sentencing order of the court under subsection (b) terminates all or part
+of the remaining suspension under IC 9-30-6-9(b).".
+Page 22, delete lines 1 through 22.
+Page 22, line 24, strike "Subject to".
+Page 22, line 25, strike "subsection (b), if" and insert "If".
+Page 22, line 33, delete "(b)".
+Page 22, line 33, strike "If a defendant has at least one (1)
+conviction for an offense".
+Page 22, strike lines 34 through 38.
+Page 22, line 39, delete "(c)" and insert "(b)".
+Page 23, line 11, delete "5(c)" and insert "5(b)".
+Page 33, delete lines 39 through 42.
+Page 34, delete lines 1 through 32.
+Page 36, delete lines 28 through 42.
+Page 37, delete lines 1 through 39.
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass and be reassigned to the
+Senate Committee on Appropriations.
+(Reference is to SB 251 as introduced.)
+FREEMAN, Chairperson
+Committee Vote: Yeas 7, Nays 2.
+SB 251—LS 7114/DI 151

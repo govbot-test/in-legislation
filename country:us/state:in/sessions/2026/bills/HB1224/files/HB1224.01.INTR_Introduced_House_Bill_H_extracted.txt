@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1224
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 16-18-2; IC 16-38-7.5; IC 35-52-16-33.5.
+Synopsis: Indiana vaccination adverse event reporting system.
+Requires the Indiana department of health (department) to establish an
+Indiana vaccination adverse event reporting system (IVAERS) for
+reporting the occurrence of adverse events relating to childhood
+vaccines. Provides that IVAERS must enable a health care provider to
+report the occurrence of an adverse event experienced by a child
+residing in Indiana who is under the care of the health care provider.
+Requires the department to create a searchable Internet data base for
+publishing information reported through IVAERS. Provides that the
+health information of a particular individual is confidential. Specifies
+the requirements for releasing health information of a particular
+individual and who may receive the information. Provides that a person
+who knowingly, intentionally, or recklessly discloses confidential
+information received through IVAERS in violation of the statute
+commits a Class A misdemeanor. Requires the department to adopt
+certain rules concerning IVAERS. Makes an appropriation.
+Effective: July 1, 2026.
+Borders
+January 5, 2026, read first time and referred to Committee on Public Health.
+2026 IN 1224—LS 6936/DI 92
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1224
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health and to make an appropriation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-7.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 7.5. "Adverse event", for purposes of IC 16-38-7.5,
+4 has the meaning set forth in IC 16-38-7.5-1.
+5 SECTION 2. IC 16-18-2-54.6 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2026]: Sec. 54.6. "Childhood vaccine", for
+8 purposes of IC 16-38-7.5, has the meaning set forth in
+9 IC 16-38-7.5-2.
+10 SECTION 3. IC 16-18-2-163, AS AMENDED BY
+11 P.L.179-2022(ss), SECTION 4, IS AMENDED TO READ AS
+12 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 163. (a) Except as
+13 provided in subsection (c), "health care provider", for purposes of
+14 IC 16-21, IC 16-38-7.5, and IC 16-41, means any of the following:
+15 (1) An individual, a partnership, a corporation, a professional
+16 corporation, a facility, or an institution licensed or legally
+17 authorized by this state to provide health care or professional
+2026 IN 1224—LS 6936/DI 92
+
+2
+1 services as a licensed physician, a psychiatric hospital, a hospital,
+2 a health facility, an emergency ambulance service (IC 16-31-3),
+3 a dentist, a registered or licensed practical nurse, a midwife, an
+4 optometrist, a pharmacist, a podiatrist, a chiropractor, a physical
+5 therapist, a respiratory care practitioner, an occupational therapist,
+6 a psychologist, a paramedic, an emergency medical technician, an
+7 advanced emergency medical technician, an athletic trainer, or a
+8 person who is an officer, employee, or agent of the individual,
+9 partnership, corporation, professional corporation, facility, or
+10 institution acting in the course and scope of the person's
+11 employment.
+12 (2) A college, university, or junior college that provides health
+13 care to a student, a faculty member, or an employee, and the
+14 governing board or a person who is an officer, employee, or agent
+15 of the college, university, or junior college acting in the course
+16 and scope of the person's employment.
+17 (3) A blood bank, community mental health center, community
+18 intellectual disability center, community health center, or migrant
+19 health center.
+20 (4) A home health agency (as defined in IC 16-27-1-2).
+21 (5) A health maintenance organization (as defined in
+22 IC 27-13-1-19).
+23 (6) A health care organization whose members, shareholders, or
+24 partners are health care providers under subdivision (1).
+25 (7) A corporation, partnership, or professional corporation not
+26 otherwise qualified under this subsection that:
+27 (A) provides health care as one (1) of the corporation's,
+28 partnership's, or professional corporation's functions;
+29 (B) is organized or registered under state law; and
+30 (C) is determined to be eligible for coverage as a health care
+31 provider under IC 34-18 for the corporation's, partnership's, or
+32 professional corporation's health care function.
+33 Coverage for a health care provider qualified under this subdivision is
+34 limited to the health care provider's health care functions and does not
+35 extend to other causes of action.
+36 (b) "Health care provider", for purposes of IC 16-35, has the
+37 meaning set forth in subsection (a). However, for purposes of IC 16-35,
+38 the term also includes a health facility (as defined in section 167 of this
+39 chapter).
+40 (c) "Health care provider", for purposes of IC 16-32-5, IC 16-36-5,
+41 IC 16-36-6, and IC 16-41-10 means an individual licensed or
+42 authorized by this state to provide health care or professional services
+2026 IN 1224—LS 6936/DI 92
+
+3
+1 as:
+2 (1) a licensed physician;
+3 (2) a registered nurse;
+4 (3) a licensed practical nurse;
+5 (4) an advanced practice registered nurse;
+6 (5) a certified nurse midwife;
+7 (6) a paramedic;
+8 (7) an emergency medical technician;
+9 (8) an advanced emergency medical technician;
+10 (9) an emergency medical responder, as defined by section 109.8
+11 of this chapter;
+12 (10) a licensed dentist;
+13 (11) a home health aide, as defined by section 174 of this chapter;
+14 or
+15 (12) a licensed physician assistant.
+16 The term includes an individual who is an employee or agent of a
+17 health care provider acting in the course and scope of the individual's
+18 employment.
+19 (d) "Health care provider", for purposes of IC 16-36-7, has the
+20 meaning set forth in IC 16-36-7-12.
+21 (e) "Health care provider", for purposes of IC 16-40-4, means any
+22 of the following:
+23 (1) An individual, a partnership, a corporation, a professional
+24 corporation, a facility, or an institution licensed or authorized by
+25 the state to provide health care or professional services as a
+26 licensed physician, a psychiatric hospital, a hospital, a health
+27 facility, an emergency ambulance service (IC 16-31-3), an
+28 ambulatory outpatient surgical center, a dentist, an optometrist, a
+29 pharmacist, a podiatrist, a chiropractor, a psychologist, or a
+30 person who is an officer, employee, or agent of the individual,
+31 partnership, corporation, professional corporation, facility, or
+32 institution acting in the course and scope of the person's
+33 employment.
+34 (2) A blood bank, laboratory, community mental health center,
+35 community intellectual disability center, community health
+36 center, or migrant health center.
+37 (3) A home health agency (as defined in IC 16-27-1-2).
+38 (4) A health maintenance organization (as defined in
+39 IC 27-13-1-19).
+40 (5) A health care organization whose members, shareholders, or
+41 partners are health care providers under subdivision (1).
+42 (6) A corporation, partnership, or professional corporation not
+2026 IN 1224—LS 6936/DI 92
+
+4
+1 otherwise specified in this subsection that:
+2 (A) provides health care as one (1) of the corporation's,
+3 partnership's, or professional corporation's functions;
+4 (B) is organized or registered under state law; and
+5 (C) is determined to be eligible for coverage as a health care
+6 provider under IC 34-18 for the corporation's, partnership's, or
+7 professional corporation's health care function.
+8 (7) A person that is designated to maintain the records of a person
+9 described in subdivisions (1) through (6).
+10 (f) "Health care provider", for purposes of IC 16-45-4, has the
+11 meaning set forth in 47 CFR 54.601(a).
+12 SECTION 4. IC 16-18-2-194.9 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 194.9. "IVAERS", for purposes
+15 of IC 16-38-7.5, has the meaning set forth in IC 16-38-7.5-3.
+16 SECTION 5. IC 16-38-7.5 IS ADDED TO THE INDIANA CODE
+17 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2026]:
+19 Chapter 7.5. Indiana Vaccination Adverse Event Reporting
+20 System
+21 Sec. 1. As used in this chapter, "adverse event" means any of the
+22 following occurring after the administration of a childhood
+23 vaccine:
+24 (1) An event that is a reportable event for purposes of the
+25 administration of the federal vaccination adverse event
+26 reporting system as published by the United States
+27 Department of Health and Human Services in the Table of
+28 Reportable Events in effect on January 1, 2022.
+29 (2) A diagnosis that a child receiving the childhood vaccine
+30 has autism spectrum disorder.
+31 (3) Any other reaction or injury that a health care provider
+32 determines is proximately caused by the administration of the
+33 childhood vaccine.
+34 Sec. 2. As used in this chapter, "childhood vaccine" means an
+35 immunization described in IC 20-34-4-2(a).
+36 Sec. 3. As used in this chapter, "IVAERS" refers to the Indiana
+37 vaccination adverse event reporting system established under
+38 section 4 of this chapter.
+39 Sec. 4. The state department shall develop the Indiana
+40 vaccination adverse event reporting system. IVAERS must enable
+41 a health care provider to report the occurrence of an adverse event
+42 experienced by a child residing in Indiana who is under the care of
+2026 IN 1224—LS 6936/DI 92
+
+5
+1 the health care provider.
+2 Sec. 5. A health care provider shall, in the form and manner
+3 required by the rules adopted by the state department, report to
+4 the state department through IVAERS the occurrence of an
+5 adverse event experienced by a child residing in Indiana who is
+6 under the care of the health care provider.
+7 Sec. 6. The state department shall do the following:
+8 (1) Create a searchable Internet data base for publishing
+9 information reported through IVAERS under section 5 of this
+10 chapter after removing any personal identifying information
+11 of a child who experiences an adverse event.
+12 (2) Provide continuing twenty-four (24) hour a day online
+13 access to the data base.
+14 (3) Secure the information collected under section 5 of this
+15 chapter and the data base maintained under this chapter
+16 against access by unauthorized persons.
+17 Sec. 7. (a) Health information reported by a health care
+18 provider through IVAERS is confidential.
+19 (b) The state department may release information received
+20 through IVAERS relating to a particular individual to the
+21 individual or to the individual's parent or guardian if the
+22 individual is less than eighteen (18) years of age.
+23 (c) With the consent of the individual or of the individual's
+24 parent or guardian if the individual is less than eighteen (18) years
+25 of age, the state department may release information received
+26 through IVAERS relating to a particular individual to a health
+27 care provider.
+28 (d) A person who knowingly, intentionally, or recklessly
+29 discloses confidential information received through IVAERS in
+30 violation of this chapter commits a Class A misdemeanor.
+31 Sec. 8. The state department shall adopt rules under IC 4-22-2
+32 to implement this chapter, including rules concerning the
+33 following:
+34 (1) The form and manner in which a health care provider
+35 must submit information to IVAERS.
+36 (2) Protecting the privacy and personal identifying
+37 information of children who experience adverse events.
+38 (3) The form and manner of publishing information relating
+39 to adverse events without breaching the confidentiality of the
+40 health information of particular individuals.
+41 (4) The design of the data base required under section 6 of this
+42 chapter.
+2026 IN 1224—LS 6936/DI 92
+
+6
+1 Sec. 9. Money is annually appropriated to the state department
+2 from the state general fund in an amount sufficient to establish and
+3 maintain IVAERS established under section 4 of this chapter.
+4 SECTION 6. IC 35-52-16-33.5 IS ADDED TO THE INDIANA
+5 CODE AS A NEW SECTION TO READ AS FOLLOWS
+6 [EFFECTIVE JULY 1, 2026]: Sec. 33.5. IC 16-38-7.5-7 defines a
+7 crime concerning the release of confidential information
+8 maintained in the Indiana vaccination adverse event reporting
+9 system.
+2026 IN 1224—LS 6936/DI 92
